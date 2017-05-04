@@ -29,7 +29,7 @@ Tip: You may open multiple .ts files of different languages (such as `zh_cn.ts` 
 ##### 
 Note: Each language has two .ts files.
 For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh_cn.ts`.
-* `qt_zh_cn.ts` contains strings from Qt's source code and only need to be translated once.
+* `qt_zh_cn.ts` contains strings from Qt's source code and only needs to be translated once.
 * `zh_cn.ts` is from Snipaste's source code and will change with each release of Snipaste.
 
 ## How to add a new language
