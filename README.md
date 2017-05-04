@@ -1,6 +1,6 @@
 # [Snipaste](https://snipaste.com) Translations
 
-# How to contribute
+## How to contribute
 * Translate (see below for instructions).
 * Send a pull request.
    * If you don't know how to send a pull request:
@@ -9,7 +9,7 @@
 * Tell us your name (or id) and link as a contributor.
 * Your translation will be included in the next version of Snipaste.
 
-# How to translate
+## How to translate
 
 Though you may open the .ts files with a text editor,
 we strongly recommend you translate them using [Qt Linguist](http://doc.qt.io/qt-5/qtlinguist-index.html).
@@ -24,7 +24,7 @@ Basic steps to translate using Qt Linguist:
 Tip: You may open multiple .ts files of different languages (such as `zh_cn.ts` and `zh_tw.ts`) in the same window, used for reference.
 </details>
 
-# How to add a new language
+## How to add a new language
 
 1. Suppose your language code is **xyz**.
 1. Download `qt_new.ts` and rename it to `qt_xyz.ts`.
@@ -34,7 +34,7 @@ Tip: You may open multiple .ts files of different languages (such as `zh_cn.ts` 
 1. Repeat Step 3 and 4 for `xyz.ts`.
 1. Done!
 
-# Status
+## Status
 
 | Language | Code | Status | Contributors |
 | ---- | --- | --- | --- |
@@ -51,6 +51,6 @@ Tip: You may open multiple .ts files of different languages (such as `zh_cn.ts` 
 | Vietnamese | vi_vn | _v1.11.3_ | [evildeepblue](mailto:it4u.mm@gmail.com) |
 | French | fr_fr | **v1.13** | rico-sos |
 
-# Contact
+## Contact
 
 If you need any help, feel free to [create an issue](https://github.com/Snipaste/translations/issues). We will help you.
