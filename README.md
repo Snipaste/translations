@@ -26,6 +26,7 @@ Tip: You may open multiple .ts files of different languages (such as `zh_cn.ts` 
 
 </details>
 
+##### 
 Note: Each language has two .ts files.
 For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh_cn.ts`.
 * `qt_zh_cn.ts` contains strings from Qt's source code and only need to be translated once.
