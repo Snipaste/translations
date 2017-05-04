@@ -40,7 +40,7 @@ Tip: You may open multiple .ts files of different languages (such as `zh_cn.ts` 
 | ---- | --- | --- | --- |
 | Chinese (Simplified) | zh_cn | **v1.13** | [liulex](https://github.com/liulex) |
 | Chinese (Traditional) | zh_tw | **v1.13** | [zhtw](http://greedphantom.blogspot.tw) |
-| German | de | **v1.13** | [Samuel Marcius](http://www.fontenvironment.com) |
+| German | de_de | **v1.13** | [Samuel Marcius](http://www.fontenvironment.com) |
 | Greek | el_gr | **v1.13** | [geogeo.gr](http://www.geogeo.gr) |
 | Swedish | sv | **v1.13** | [Åke Engelbrektson](https://svenskasprakfiler.se) |
 | Japanese | ja_jp | **v1.13** | 鳳凰院カミ |
