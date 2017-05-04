@@ -11,7 +11,7 @@
 
 # How to translate
 
-Though you may open the .ts files with a text editor and start translating,
+Though you may open the .ts files with a text editor,
 we strongly recommend you translate them using [Qt Linguist](http://doc.qt.io/qt-5/qtlinguist-index.html).
 
 For your convenience, we have prepared the portable packages of Qt Linguist:
