@@ -2,6 +2,108 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="fill here with your language code">
 <context>
+    <name>FvUpdater</name>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="273"/>
+        <source>Redirecting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="278"/>
+        <source>Download complete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="301"/>
+        <location filename="../fervor/fvupdater.cpp" line="319"/>
+        <location filename="../fervor/fvupdater.cpp" line="337"/>
+        <location filename="../fervor/fvupdater.cpp" line="384"/>
+        <location filename="../fervor/fvupdater.cpp" line="402"/>
+        <location filename="../fervor/fvupdater.cpp" line="419"/>
+        <location filename="../fervor/fvupdater.cpp" line="431"/>
+        <location filename="../fervor/fvupdater.cpp" line="445"/>
+        <location filename="../fervor/fvupdater.cpp" line="458"/>
+        <location filename="../fervor/fvupdater.cpp" line="464"/>
+        <location filename="../fervor/fvupdater.cpp" line="472"/>
+        <location filename="../fervor/fvupdater.cpp" line="481"/>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="301"/>
+        <source>File hash does not match.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="302"/>
+        <location filename="../fervor/fvupdater.cpp" line="338"/>
+        <source>Please retry.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="313"/>
+        <source>Writing downloaded file into</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="320"/>
+        <source>Do you have write access to %1?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="326"/>
+        <source>Saved successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="391"/>
+        <source>Download errors occurred! HTTP Error Code: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="485"/>
+        <source>Unzipped successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="584"/>
+        <source>Unable to download updates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="585"/>
+        <source>Please try later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="600"/>
+        <source>Downloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="602"/>
+        <source>Retrying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="691"/>
+        <source>Feed download failed.
+Network Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="752"/>
+        <source>There is something wrong with the update feed (%1).
+Please contact the developer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fervor/fvupdater.cpp" line="910"/>
+        <source>Restarting</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>HelpDialog</name>
     <message>
         <location filename="../helpdialog.cpp" line="29"/>
@@ -518,268 +620,268 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1636"/>
+        <location filename="../optionsdialog.cpp" line="1639"/>
         <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1638"/>
+        <location filename="../optionsdialog.cpp" line="1641"/>
         <source>Translators</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1640"/>
+        <location filename="../optionsdialog.cpp" line="1643"/>
         <source>Icons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1642"/>
+        <location filename="../optionsdialog.cpp" line="1645"/>
         <source>Contributors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1695"/>
+        <location filename="../optionsdialog.cpp" line="1698"/>
         <source>Day (1-31)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1697"/>
+        <location filename="../optionsdialog.cpp" line="1700"/>
         <source>Day (01-31)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1699"/>
+        <location filename="../optionsdialog.cpp" line="1702"/>
         <source>Localized day name (abbr.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1701"/>
+        <location filename="../optionsdialog.cpp" line="1704"/>
         <source>Localized day name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1703"/>
+        <location filename="../optionsdialog.cpp" line="1706"/>
         <source>Month (1-12)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1705"/>
+        <location filename="../optionsdialog.cpp" line="1708"/>
         <source>Month (01-12)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1707"/>
+        <location filename="../optionsdialog.cpp" line="1710"/>
         <source>Localized month name (abbr.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1709"/>
+        <location filename="../optionsdialog.cpp" line="1712"/>
         <source>Localized month name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1711"/>
+        <location filename="../optionsdialog.cpp" line="1714"/>
         <source>Year (2-digit)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1713"/>
+        <location filename="../optionsdialog.cpp" line="1716"/>
         <source>Year (4-digit)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1721"/>
+        <location filename="../optionsdialog.cpp" line="1724"/>
         <source>Hour (0-23)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1724"/>
+        <location filename="../optionsdialog.cpp" line="1727"/>
         <source>Hour (00-23)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1726"/>
+        <location filename="../optionsdialog.cpp" line="1729"/>
         <source>Minute (0-59)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1728"/>
+        <location filename="../optionsdialog.cpp" line="1731"/>
         <source>Minute (00-59)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1730"/>
+        <location filename="../optionsdialog.cpp" line="1733"/>
         <source>Second (0-59)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1732"/>
+        <location filename="../optionsdialog.cpp" line="1735"/>
         <source>Second (00-59)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1734"/>
+        <location filename="../optionsdialog.cpp" line="1737"/>
         <source>Milliseconds (0-999)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1736"/>
+        <location filename="../optionsdialog.cpp" line="1739"/>
         <source>Milliseconds (000-999)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1738"/>
+        <location filename="../optionsdialog.cpp" line="1741"/>
         <source>Timezone</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1756"/>
+        <location filename="../optionsdialog.cpp" line="1759"/>
         <source>Operation system</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1758"/>
+        <location filename="../optionsdialog.cpp" line="1761"/>
         <source>Computer name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1760"/>
+        <location filename="../optionsdialog.cpp" line="1763"/>
         <source>User name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1796"/>
+        <location filename="../optionsdialog.cpp" line="1799"/>
         <source>Allowed suffixes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1798"/>
+        <location filename="../optionsdialog.cpp" line="1801"/>
         <source>Illegal characters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1800"/>
+        <location filename="../optionsdialog.cpp" line="1803"/>
         <source>Environment variables</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1803"/>
+        <location filename="../optionsdialog.cpp" line="1806"/>
         <source>Dates and times</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1901"/>
+        <location filename="../optionsdialog.cpp" line="1904"/>
         <source>Run Snipaste admin privileges.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1907"/>
-        <location filename="../optionsdialog.cpp" line="1949"/>
-        <location filename="../optionsdialog.cpp" line="2175"/>
-        <location filename="../optionsdialog.cpp" line="2203"/>
-        <location filename="../optionsdialog.cpp" line="2694"/>
+        <location filename="../optionsdialog.cpp" line="1910"/>
+        <location filename="../optionsdialog.cpp" line="1952"/>
+        <location filename="../optionsdialog.cpp" line="2178"/>
+        <location filename="../optionsdialog.cpp" line="2206"/>
+        <location filename="../optionsdialog.cpp" line="2697"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1908"/>
+        <location filename="../optionsdialog.cpp" line="1911"/>
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1950"/>
+        <location filename="../optionsdialog.cpp" line="1953"/>
         <source>Failed to create a shortcut in the startup directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1973"/>
+        <location filename="../optionsdialog.cpp" line="1976"/>
         <source>Restart Snipaste with admin privileges?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2171"/>
+        <location filename="../optionsdialog.cpp" line="2174"/>
         <source>Failed to register shortcut:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2180"/>
+        <location filename="../optionsdialog.cpp" line="2183"/>
         <source>Snipaste is running</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2180"/>
+        <location filename="../optionsdialog.cpp" line="2183"/>
         <source>You can control it via the tray icon.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2194"/>
+        <location filename="../optionsdialog.cpp" line="2197"/>
         <source>Snipaste has been updated to %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2195"/>
+        <location filename="../optionsdialog.cpp" line="2198"/>
         <source>Click here to see the changelog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2203"/>
+        <location filename="../optionsdialog.cpp" line="2206"/>
         <source>Cannot write into the config file.
 All settings will use defaults.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2496"/>
+        <location filename="../optionsdialog.cpp" line="2499"/>
         <source>No Proxy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2498"/>
+        <location filename="../optionsdialog.cpp" line="2501"/>
         <source>System Proxy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2525"/>
+        <location filename="../optionsdialog.cpp" line="2528"/>
         <source>None</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2527"/>
+        <location filename="../optionsdialog.cpp" line="2530"/>
         <source>Copy to clipboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2529"/>
+        <location filename="../optionsdialog.cpp" line="2532"/>
         <source>Pin to screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2531"/>
+        <location filename="../optionsdialog.cpp" line="2534"/>
         <source>Save to file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2533"/>
+        <location filename="../optionsdialog.cpp" line="2536"/>
         <source>Quick save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2547"/>
+        <location filename="../optionsdialog.cpp" line="2550"/>
         <source>Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2549"/>
+        <location filename="../optionsdialog.cpp" line="2552"/>
         <source>Debug</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2551"/>
+        <location filename="../optionsdialog.cpp" line="2554"/>
         <source>Normal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2695"/>
+        <location filename="../optionsdialog.cpp" line="2698"/>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
         <translation type="unfinished"></translation>
@@ -1249,6 +1351,39 @@ Click here to update now</source>
     <message>
         <location filename="../snipper.cpp" line="660"/>
         <source>s</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>UpdaterDialog</name>
+    <message>
+        <location filename="../UpdaterDialog.cpp" line="40"/>
+        <source>Checking...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../UpdaterDialog.cpp" line="50"/>
+        <source>Hide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../UpdaterDialog.cpp" line="57"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../UpdaterDialog.cpp" line="93"/>
+        <source>Recheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../UpdaterDialog.cpp" line="156"/>
+        <source>Release notes are currently not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../UpdaterDialog.cpp" line="204"/>
+        <source>Are you sure you want to cancel the update?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2510,6 +2645,34 @@ Please report to the developer if you find any.</source>
     <message>
         <location filename="../paintbar1.ui" line="584"/>
         <source>Toggle mosaic/blur</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>updatedialog</name>
+    <message>
+        <location filename="../updaterdialog.ui" line="22"/>
+        <source>Latest version:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../updaterdialog.ui" line="68"/>
+        <source>Your version:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../updaterdialog.ui" line="84"/>
+        <source>Last check:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../updaterdialog.ui" line="172"/>
+        <source>Download and install updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../updaterdialog.ui" line="179"/>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
