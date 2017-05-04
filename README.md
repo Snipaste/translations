@@ -18,11 +18,18 @@ For your convenience, we have prepared the portable packages of Qt Linguist:
 * [Windows x64](https://bitbucket.org/liule/snipaste/downloads/VC2015_dll_x64.zip) | [Windows x86](https://bitbucket.org/liule/snipaste/downloads/VC2015_dll_x86.zip)
 
 Basic steps to translate using Qt Linguist:
+
 <details>
 <img src="https://cloud.githubusercontent.com/assets/2010459/25688906/911ad78a-30b5-11e7-8dc2-c8bcd2955615.png" alt="linguist_basic"/>
 
 Tip: You may open multiple .ts files of different languages (such as `zh_cn.ts` and `zh_tw.ts`) in the same window, used for reference.
+
 </details>
+
+Note: Each language has two .ts files.
+For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh_cn.ts`.
+* `qt_zh_cn.ts` contains strings from Qt's source code and only need to be translated once.
+* `zh_cn.ts` is from Snipaste's source code and will change with each release of Snipaste.
 
 ## How to add a new language
 
