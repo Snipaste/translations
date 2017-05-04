@@ -6,7 +6,7 @@
    * If you don't know how to send a pull request:
      * [Create an issue](https://github.com/Snipaste/translations/issues) and tell us where we can download your translation.
      * Or, you may just email the language files to snipaste.app@gmail.com.
-* Tell us your name (or id) and link as a translator.
+* Tell us your name (or id) and link as a contributor.
 * Your translation will be included in the next version of Snipaste.
 
 # How to translate
@@ -33,6 +33,23 @@ Tip: You may open multiple .ts files of different languages (such as `zh_cn.ts` 
 1. Download `new.ts` and rename it to `xyz.ts`.
 1. Repeat Step 3 and 4 for `xyz.ts`.
 1. Done!
+
+# Status
+
+| Language | Code | Status | Contributors |
+| ---- | --- | --- | --- |
+| Chinese (Simplified) | zh_cn | **v1.13** | [liulex](https://github.com/liulex) |
+| Chinese (Traditional) | zh_tw | **v1.13** | [zhtw](http://greedphantom.blogspot.tw) |
+| German | de | **v1.13** | [Samuel Marcius](http://www.fontenvironment.com) |
+| Greek | el_gr | **v1.13** | [geogeo.gr](http://www.geogeo.gr) |
+| Swedish | sv | **v1.13** | [Åke Engelbrektson](https://svenskasprakfiler.se) |
+| Japanese | ja_jp | **v1.13** | 鳳凰院カミ |
+| Portuguese (Brazil) | pt_br | **v1.13** | Igor Rückert |
+| Polish | pl_pl | _v1.11.3_ | [Wirus deleted my username](https://github.com/Wirus-deleted-my-username) |
+| Dutch | nl_nl | **v1.13** | Stephan Paternotte |
+| Portuguese (Portugal) | pt_pt | _v1.12_ | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
+| Vietnamese | vi_vn | _v1.11.3_ | [evildeepblue](mailto:it4u.mm@gmail.com) |
+| French | fr_fr | **v1.13** | rico-sos |
 
 # Contact
 
