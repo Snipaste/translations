@@ -26,7 +26,7 @@ Tip: You may open multiple .ts files of different languages (such as `zh_cn.ts` 
 
 # How to add a new language
 
-1. Suppose you language code is **xyz**.
+1. Suppose your language code is **xyz**.
 1. Download `qt_new.ts` and rename it to `qt_xyz.ts`.
 1. Open `qt_xyz.ts` with your favorite text editor, replace the 3rd line with `<TS version="2.1" language="xyz">`, save and quit.
 1. Translate `qt_xyz.ts` using Qt Linguist.
