@@ -34,12 +34,12 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 
 ## How to add a new language
 
-1. Suppose your language code is **xyz**.
+(Suppose your language code is `xyz`.)
 1. Download `qt_new.ts` and rename it to `qt_xyz.ts`.
 1. Open `qt_xyz.ts` with your favorite text editor, replace the 3rd line with `<TS version="2.1" language="xyz">`, save and quit.
 1. Translate `qt_xyz.ts` using Qt Linguist.
 1. Download `new.ts` and rename it to `xyz.ts`.
-1. Repeat Step 3 and 4 for `xyz.ts`.
+1. Repeat Step 2 and 3 for `xyz.ts`.
 1. Done!
 
 ## Status
