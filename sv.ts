@@ -1054,6 +1054,10 @@ Klicka här för att uppdatera nu</translation>
         <source>Restart</source>
         <translation>Starta om</translation>
     </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Klipp och kopiera</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>

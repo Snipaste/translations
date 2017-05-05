@@ -1054,6 +1054,10 @@ Cliquez ici pour mettre à jour maintenant</translation>
         <source>Restart</source>
         <translation>Redémarrer</translation>
     </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>capturer et copier</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="el_GR">
+<TS version="2.1" language="el_GR">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -1055,6 +1055,10 @@ Click here to update now</source>
     <message>
         <source>Restart</source>
         <translation>Επανεκκίνηση</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Στιγμιότυπο και αντιγραφή</translation>
     </message>
 </context>
 <context>

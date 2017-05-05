@@ -1050,6 +1050,10 @@ Click here to update now</source>
         <source>Restart</source>
         <translation>再起動</translation>
     </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>スニップとコピー</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1960,11 +1964,11 @@ Snipasteを自動設定したい場合は-1。</translation>
     </message>
     <message>
         <source>Anchors&apos; border color:</source>
-        <translation>アンカー&apos; ボーダーの色</translation>
+        <translation>アンカー&apos; ボーダーの色：</translation>
     </message>
     <message>
         <source>In the magnifier, show:</source>
-        <translation>拡大鏡での表示</translation>
+        <translation>拡大鏡での表示：</translation>
     </message>
     <message>
         <source>mask</source>
@@ -1984,7 +1988,7 @@ Snipasteを自動設定したい場合は-1。</translation>
     </message>
     <message>
         <source>Switch to another image group:</source>
-        <translation>他の画像グループに切り替え</translation>
+        <translation>他の画像グループに切り替え：</translation>
     </message>
     <message>
         <source>The shortcut to switch to another image group</source>
@@ -1996,7 +2000,7 @@ Snipasteを自動設定したい場合は-1。</translation>
     </message>
     <message>
         <source>Snip and copy:</source>
-        <translation>スニップとコピー</translation>
+        <translation>スニップとコピー：</translation>
     </message>
     <message>
         <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>

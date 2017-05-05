@@ -4,103 +4,103 @@
 <context>
     <name>FvUpdater</name>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="273"/>
+        <location filename="../fervor/fvupdater.cpp" line="276"/>
         <source>Redirecting</source>
         <translation>Redirecionando</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="278"/>
+        <location filename="../fervor/fvupdater.cpp" line="281"/>
         <source>Download complete.</source>
         <translation>Download concluído.</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="301"/>
-        <location filename="../fervor/fvupdater.cpp" line="319"/>
-        <location filename="../fervor/fvupdater.cpp" line="337"/>
-        <location filename="../fervor/fvupdater.cpp" line="384"/>
-        <location filename="../fervor/fvupdater.cpp" line="402"/>
-        <location filename="../fervor/fvupdater.cpp" line="419"/>
-        <location filename="../fervor/fvupdater.cpp" line="431"/>
-        <location filename="../fervor/fvupdater.cpp" line="445"/>
-        <location filename="../fervor/fvupdater.cpp" line="458"/>
-        <location filename="../fervor/fvupdater.cpp" line="464"/>
-        <location filename="../fervor/fvupdater.cpp" line="472"/>
-        <location filename="../fervor/fvupdater.cpp" line="481"/>
+        <location filename="../fervor/fvupdater.cpp" line="304"/>
+        <location filename="../fervor/fvupdater.cpp" line="322"/>
+        <location filename="../fervor/fvupdater.cpp" line="340"/>
+        <location filename="../fervor/fvupdater.cpp" line="387"/>
+        <location filename="../fervor/fvupdater.cpp" line="405"/>
+        <location filename="../fervor/fvupdater.cpp" line="422"/>
+        <location filename="../fervor/fvupdater.cpp" line="434"/>
+        <location filename="../fervor/fvupdater.cpp" line="448"/>
+        <location filename="../fervor/fvupdater.cpp" line="461"/>
+        <location filename="../fervor/fvupdater.cpp" line="467"/>
+        <location filename="../fervor/fvupdater.cpp" line="475"/>
+        <location filename="../fervor/fvupdater.cpp" line="484"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="301"/>
+        <location filename="../fervor/fvupdater.cpp" line="304"/>
         <source>File hash does not match.</source>
         <translation>O hash do arquivo não corresponde.</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="302"/>
-        <location filename="../fervor/fvupdater.cpp" line="338"/>
+        <location filename="../fervor/fvupdater.cpp" line="305"/>
+        <location filename="../fervor/fvupdater.cpp" line="341"/>
         <source>Please retry.</source>
         <translation>Por favor, tente novamente.</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="313"/>
+        <location filename="../fervor/fvupdater.cpp" line="316"/>
         <source>Writing downloaded file into</source>
         <translation>Salvando informações do arquivo baixado</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="320"/>
+        <location filename="../fervor/fvupdater.cpp" line="323"/>
         <source>Do you have write access to %1?</source>
         <translation>Você possui permissão de gravação para %1?</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="326"/>
+        <location filename="../fervor/fvupdater.cpp" line="329"/>
         <source>Saved successfully.</source>
         <translation>Salvo com sucesso.</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="391"/>
+        <location filename="../fervor/fvupdater.cpp" line="394"/>
         <source>Download errors occurred! HTTP Error Code: %1</source>
         <translation>Ocorreu um erro no download! Código de erro HTTP: %1</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="485"/>
+        <location filename="../fervor/fvupdater.cpp" line="488"/>
         <source>Unzipped successfully.</source>
         <translation>Descompactado com sucesso.</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="584"/>
+        <location filename="../fervor/fvupdater.cpp" line="587"/>
         <source>Unable to download updates.</source>
         <translation>Não foi possível baixar atualizações.</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="585"/>
+        <location filename="../fervor/fvupdater.cpp" line="588"/>
         <source>Please try later.</source>
         <translation>Por favor, tente novamente mais tarde.</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="600"/>
+        <location filename="../fervor/fvupdater.cpp" line="603"/>
         <source>Downloading</source>
         <translation>Baixando</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="602"/>
+        <location filename="../fervor/fvupdater.cpp" line="605"/>
         <source>Retrying</source>
         <translation>Repetindo</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="691"/>
+        <location filename="../fervor/fvupdater.cpp" line="694"/>
         <source>Feed download failed.
 Network Error: %1</source>
         <translation>Falha ao baixar feed.
 Erro de rede: %1</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="752"/>
+        <location filename="../fervor/fvupdater.cpp" line="755"/>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
         <translation>Há algo de errado com o feed de atualização (%1).
 Por favor, contate o desenvolvedor.</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="910"/>
+        <location filename="../fervor/fvupdater.cpp" line="913"/>
         <source>Restarting</source>
         <translation>Reiniciando</translation>
     </message>
@@ -108,47 +108,47 @@ Por favor, contate o desenvolvedor.</translation>
 <context>
     <name>HelpDialog</name>
     <message>
-        <location filename="../helpdialog.cpp" line="21"/>
+        <location filename="../helpdialog.cpp" line="29"/>
         <source>Help</source>
         <translation>Ajuda</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="69"/>
+        <location filename="../helpdialog.cpp" line="77"/>
         <source>Visit Online</source>
         <translation>Visitar Online</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="146"/>
+        <location filename="../helpdialog.cpp" line="156"/>
         <source>Basic Operations</source>
         <translation>Operações Básicas</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="151"/>
+        <location filename="../helpdialog.cpp" line="161"/>
         <source>Key Bindings</source>
         <translation>Combinações de Teclas</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="153"/>
+        <location filename="../helpdialog.cpp" line="163"/>
         <source>Command Line Options</source>
         <translation>Opções da Linha de Comando</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="158"/>
+        <location filename="../helpdialog.cpp" line="168"/>
         <source>Advanced Configs</source>
         <translation>Configurações Avançadas</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="163"/>
+        <location filename="../helpdialog.cpp" line="173"/>
         <source>Troubleshooting</source>
         <translation>Solução de Problemas</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="168"/>
+        <location filename="../helpdialog.cpp" line="178"/>
         <source>FAQ</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="173"/>
+        <location filename="../helpdialog.cpp" line="183"/>
         <source>Changelog</source>
         <translation>Log de Alterações</translation>
     </message>
@@ -467,427 +467,427 @@ Por favor, contate o desenvolvedor.</translation>
 <context>
     <name>OptionsDialog</name>
     <message>
-        <location filename="../optionsdialog.h" line="212"/>
+        <location filename="../optionsdialog.h" line="209"/>
         <source>Thank you for your support!</source>
         <translation>Obrigado pelo suporte!</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="237"/>
+        <location filename="../optionsdialog.cpp" line="245"/>
         <source>Checking...</source>
         <translation>Verificando...</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="243"/>
+        <location filename="../optionsdialog.cpp" line="251"/>
         <source>Check for updates</source>
         <translation>Verificar atualizações</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1404"/>
+        <location filename="../optionsdialog.cpp" line="1417"/>
         <source>-bit</source>
         <translation>-bits</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="792"/>
+        <location filename="../optionsdialog.cpp" line="800"/>
         <source>Select Color</source>
         <translation>Selecione a Cor</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="871"/>
+        <location filename="../optionsdialog.cpp" line="879"/>
         <source>Select Font</source>
         <translation>Selecione a Fonte</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="905"/>
+        <location filename="../optionsdialog.cpp" line="913"/>
         <source>Set Directory</source>
         <translation>Defina a Pasta</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="909"/>
+        <location filename="../optionsdialog.cpp" line="917"/>
         <source>Pick File</source>
         <translation>Escolha o Arquivo</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1124"/>
+        <location filename="../optionsdialog.cpp" line="1132"/>
         <source>Snip hotkey</source>
         <translation>Tecla de atalho para recortar</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1126"/>
+        <location filename="../optionsdialog.cpp" line="1134"/>
         <source>Paste hotkey</source>
         <translation>Tecla de atalho para colar</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1396"/>
+        <location filename="../optionsdialog.cpp" line="1409"/>
         <source>For XP</source>
         <translation>Para XP</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1353"/>
+        <location filename="../optionsdialog.cpp" line="1366"/>
         <source>Preview</source>
         <translation>Pré-visualização</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1412"/>
+        <location filename="../optionsdialog.cpp" line="1425"/>
         <source>Copyright</source>
         <translation>Copyright</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1512"/>
+        <location filename="../optionsdialog.cpp" line="1529"/>
         <source>Donate</source>
         <translation>Doação</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1527"/>
+        <location filename="../optionsdialog.cpp" line="1544"/>
         <source>Home Page</source>
         <translation>Site</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1529"/>
+        <location filename="../optionsdialog.cpp" line="1546"/>
         <source>Documentation</source>
         <translation>Documentação</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1531"/>
+        <location filename="../optionsdialog.cpp" line="1548"/>
         <source>Feedback</source>
         <translation>Feedback</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1533"/>
+        <location filename="../optionsdialog.cpp" line="1550"/>
         <source>Follow</source>
         <translation>Seguir</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1536"/>
+        <location filename="../optionsdialog.cpp" line="1553"/>
         <source>Weibo</source>
         <translation>Weibo</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1574"/>
+        <location filename="../optionsdialog.cpp" line="1591"/>
         <source>Simplified Chinese</source>
         <translation>Chinês Simplificado</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1576"/>
+        <location filename="../optionsdialog.cpp" line="1593"/>
         <source>Traditional Chinese</source>
         <translation>Chinês Tradicional</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1578"/>
+        <location filename="../optionsdialog.cpp" line="1595"/>
         <source>German</source>
         <translation>Alemão</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1580"/>
+        <location filename="../optionsdialog.cpp" line="1597"/>
         <source>Greek</source>
         <translation>Grego</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1582"/>
+        <location filename="../optionsdialog.cpp" line="1599"/>
         <source>Swedish</source>
         <translation>Sueco</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1584"/>
+        <location filename="../optionsdialog.cpp" line="1601"/>
         <source>Japanese</source>
         <translation>Japonês</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1588"/>
+        <location filename="../optionsdialog.cpp" line="1605"/>
         <source>Polish</source>
         <translation>Polonês</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1590"/>
+        <location filename="../optionsdialog.cpp" line="1607"/>
         <source>Dutch</source>
         <translation>Holandês</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1592"/>
+        <location filename="../optionsdialog.cpp" line="1609"/>
         <source>Portuguese (Portugal)</source>
         <translation>Portuguese (Portugal)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1594"/>
+        <location filename="../optionsdialog.cpp" line="1611"/>
         <source>Vietnamese</source>
         <translation>Vietnamita</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1596"/>
+        <location filename="../optionsdialog.cpp" line="1613"/>
         <source>French</source>
         <translation>Francês</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1624"/>
+        <location filename="../optionsdialog.cpp" line="1644"/>
         <source>Support</source>
         <translation>Suporte</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1628"/>
+        <location filename="../optionsdialog.cpp" line="1648"/>
         <source>Icons</source>
         <translation>Ícones</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1626"/>
+        <location filename="../optionsdialog.cpp" line="1646"/>
         <source>Translators</source>
         <translation>Tradutores</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1630"/>
+        <location filename="../optionsdialog.cpp" line="1650"/>
         <source>Contributors</source>
         <translation>Colaboradores</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1683"/>
+        <location filename="../optionsdialog.cpp" line="1703"/>
         <source>Day (1-31)</source>
         <translation>Dia (1-31)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1685"/>
+        <location filename="../optionsdialog.cpp" line="1705"/>
         <source>Day (01-31)</source>
         <translation>Dia (01-31)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1687"/>
+        <location filename="../optionsdialog.cpp" line="1707"/>
         <source>Localized day name (abbr.)</source>
         <translation>Nome do dia (abreviatura)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1689"/>
+        <location filename="../optionsdialog.cpp" line="1709"/>
         <source>Localized day name</source>
         <translation>Nome do dia</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1691"/>
+        <location filename="../optionsdialog.cpp" line="1711"/>
         <source>Month (1-12)</source>
         <translation>Mês (1-12)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1693"/>
+        <location filename="../optionsdialog.cpp" line="1713"/>
         <source>Month (01-12)</source>
         <translation>Mês (01-12)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1695"/>
+        <location filename="../optionsdialog.cpp" line="1715"/>
         <source>Localized month name (abbr.)</source>
         <translation>Nome do mês (abreviatura)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1697"/>
+        <location filename="../optionsdialog.cpp" line="1717"/>
         <source>Localized month name</source>
         <translation>Nome do mês</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1699"/>
+        <location filename="../optionsdialog.cpp" line="1719"/>
         <source>Year (2-digit)</source>
         <translation>Ano (2 dígitos)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1701"/>
+        <location filename="../optionsdialog.cpp" line="1721"/>
         <source>Year (4-digit)</source>
         <translation>Ano (4 dígitos)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1709"/>
+        <location filename="../optionsdialog.cpp" line="1729"/>
         <source>Hour (0-23)</source>
         <translation>Hora (0-23)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1712"/>
+        <location filename="../optionsdialog.cpp" line="1732"/>
         <source>Hour (00-23)</source>
         <translation>Hora (00-23)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1714"/>
+        <location filename="../optionsdialog.cpp" line="1734"/>
         <source>Minute (0-59)</source>
         <translation>Minuto (0-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1716"/>
+        <location filename="../optionsdialog.cpp" line="1736"/>
         <source>Minute (00-59)</source>
         <translation>Minuto (00-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1718"/>
+        <location filename="../optionsdialog.cpp" line="1738"/>
         <source>Second (0-59)</source>
         <translation>Segundos (0-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1720"/>
+        <location filename="../optionsdialog.cpp" line="1740"/>
         <source>Second (00-59)</source>
         <translation>Segundos (00-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1722"/>
+        <location filename="../optionsdialog.cpp" line="1742"/>
         <source>Milliseconds (0-999)</source>
         <translation>Milissegundos (0-999)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1724"/>
+        <location filename="../optionsdialog.cpp" line="1744"/>
         <source>Milliseconds (000-999)</source>
         <translation>Milissegundos (000-999)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1726"/>
+        <location filename="../optionsdialog.cpp" line="1746"/>
         <source>Timezone</source>
         <translation>Fuso horário</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1744"/>
+        <location filename="../optionsdialog.cpp" line="1764"/>
         <source>Operation system</source>
         <translation>Sistema operacional</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1746"/>
+        <location filename="../optionsdialog.cpp" line="1766"/>
         <source>Computer name</source>
         <translation>Nome do computador</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1748"/>
+        <location filename="../optionsdialog.cpp" line="1768"/>
         <source>User name</source>
         <translation>Nome do usuário</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1784"/>
+        <location filename="../optionsdialog.cpp" line="1804"/>
         <source>Allowed suffixes</source>
         <translation>Sufixos permitidos</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1786"/>
+        <location filename="../optionsdialog.cpp" line="1806"/>
         <source>Illegal characters</source>
         <translation>Caracteres ilegais</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1788"/>
+        <location filename="../optionsdialog.cpp" line="1808"/>
         <source>Environment variables</source>
         <translation>Variáveis de ambiente</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1791"/>
+        <location filename="../optionsdialog.cpp" line="1811"/>
         <source>Dates and times</source>
         <translation>Data e hora</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1889"/>
+        <location filename="../optionsdialog.cpp" line="1909"/>
         <source>Run Snipaste admin privileges.</source>
         <translation>Executa o Snipaste com privilégios de Administrador.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1895"/>
-        <location filename="../optionsdialog.cpp" line="1937"/>
-        <location filename="../optionsdialog.cpp" line="2163"/>
-        <location filename="../optionsdialog.cpp" line="2191"/>
-        <location filename="../optionsdialog.cpp" line="2695"/>
+        <location filename="../optionsdialog.cpp" line="1915"/>
+        <location filename="../optionsdialog.cpp" line="1957"/>
+        <location filename="../optionsdialog.cpp" line="2183"/>
+        <location filename="../optionsdialog.cpp" line="2211"/>
+        <location filename="../optionsdialog.cpp" line="2702"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1896"/>
+        <location filename="../optionsdialog.cpp" line="1916"/>
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
         <translation>Falha ao criar a tarefa agendada.
 Reinicie o Snipaste como Administrador e tente novamente.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1938"/>
+        <location filename="../optionsdialog.cpp" line="1958"/>
         <source>Failed to create a shortcut in the startup directory.</source>
         <translation>Falha ao criar atalho na pasta de inicialização.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1961"/>
+        <location filename="../optionsdialog.cpp" line="1981"/>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>Reiniciar o Snipaste como Administrador?</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2191"/>
+        <location filename="../optionsdialog.cpp" line="2211"/>
         <source>Cannot write into the config file.
 All settings will use defaults.</source>
         <translation>Arquivo the config file não possui permissão de escrita.
 Todas as configurações usarão os padrões.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2548"/>
+        <location filename="../optionsdialog.cpp" line="2555"/>
         <source>Off</source>
         <translation>Desligado</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2550"/>
+        <location filename="../optionsdialog.cpp" line="2557"/>
         <source>Debug</source>
         <translation>Depuração</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2552"/>
+        <location filename="../optionsdialog.cpp" line="2559"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2696"/>
+        <location filename="../optionsdialog.cpp" line="2703"/>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
         <translation>Algo deu errado com o atalho da inicialização.
 A inicialização no boot foi cancelada.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2497"/>
+        <location filename="../optionsdialog.cpp" line="2504"/>
         <source>No Proxy</source>
         <translation>Sem Proxy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2526"/>
+        <location filename="../optionsdialog.cpp" line="2533"/>
         <source>None</source>
         <translation>Nenhum</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2528"/>
+        <location filename="../optionsdialog.cpp" line="2535"/>
         <source>Copy to clipboard</source>
         <translation>Copiar para área de transferência</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2530"/>
+        <location filename="../optionsdialog.cpp" line="2537"/>
         <source>Pin to screen</source>
         <translation>Fixar na tela</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2532"/>
+        <location filename="../optionsdialog.cpp" line="2539"/>
         <source>Save to file</source>
         <translation>Salvar para arquivo</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2534"/>
+        <location filename="../optionsdialog.cpp" line="2541"/>
         <source>Quick save</source>
         <translation>Salvamento rápido</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2499"/>
+        <location filename="../optionsdialog.cpp" line="2506"/>
         <source>System Proxy</source>
         <translation>Proxy do Sistema</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1586"/>
+        <location filename="../optionsdialog.cpp" line="1603"/>
         <source>Portuguese (Brazil)</source>
         <translation>Portuguese (Brazil)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2159"/>
+        <location filename="../optionsdialog.cpp" line="2179"/>
         <source>Failed to register shortcut:</source>
         <translation>Falha ao registrar tecla de atalho:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2168"/>
+        <location filename="../optionsdialog.cpp" line="2188"/>
         <source>Snipaste is running</source>
         <translation>O Snipaste está em execução</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2168"/>
+        <location filename="../optionsdialog.cpp" line="2188"/>
         <source>You can control it via the tray icon.</source>
         <translation>Você pode controlá-lo pelo ícone da Área de Notificação.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2182"/>
+        <location filename="../optionsdialog.cpp" line="2202"/>
         <source>Snipaste has been updated to %1.</source>
         <translation>O Snipaste foi atualizado para %1.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2183"/>
+        <location filename="../optionsdialog.cpp" line="2203"/>
         <source>Click here to see the changelog</source>
         <translation>Clique aqui para ver o log de alterações</translation>
     </message>
@@ -919,179 +919,179 @@ A inicialização no boot foi cancelada.</translation>
     </message>
     <message>
         <location filename="../paster.cpp" line="547"/>
-        <location filename="../paster.cpp" line="817"/>
-        <location filename="../paster.cpp" line="3012"/>
+        <location filename="../paster.cpp" line="820"/>
+        <location filename="../paster.cpp" line="3015"/>
         <source>Speed</source>
         <translation>Velocidade</translation>
     </message>
     <message>
         <location filename="../paster.cpp" line="555"/>
-        <location filename="../paster.cpp" line="825"/>
+        <location filename="../paster.cpp" line="828"/>
         <source>Size</source>
         <translation>Tamanho</translation>
     </message>
     <message>
         <location filename="../paster.cpp" line="565"/>
-        <location filename="../paster.cpp" line="808"/>
-        <location filename="../paster.cpp" line="3010"/>
+        <location filename="../paster.cpp" line="811"/>
+        <location filename="../paster.cpp" line="3013"/>
         <source>Opacity</source>
         <translation>Opacidade</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2771"/>
+        <location filename="../paster.cpp" line="2774"/>
         <source>Play</source>
         <translation>Reproduzir</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2771"/>
+        <location filename="../paster.cpp" line="2774"/>
         <source>Pause</source>
         <translation>Pausar</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2782"/>
+        <location filename="../paster.cpp" line="2785"/>
         <source>Copy image</source>
         <translation>Copiar imagem</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2786"/>
+        <location filename="../paster.cpp" line="2789"/>
         <source>Save image as...</source>
         <translation>Salvar imagem como...</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2794"/>
+        <location filename="../paster.cpp" line="2797"/>
         <source>Restore</source>
         <translation>Restaurar</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2805"/>
+        <location filename="../paster.cpp" line="2808"/>
         <source>Copy plain text</source>
         <translation>Copiar texto simples</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2816"/>
+        <location filename="../paster.cpp" line="2819"/>
         <source>Copy HTML</source>
         <translation>Copiar HTML</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2830"/>
+        <location filename="../paster.cpp" line="2833"/>
         <source>Copy</source>
         <translation>Copiar</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2844"/>
+        <location filename="../paster.cpp" line="2847"/>
         <source>Edit</source>
         <translation>Editar</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2853"/>
+        <location filename="../paster.cpp" line="2856"/>
         <source>Ignore format</source>
         <translation>Ignorar formato</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2863"/>
+        <location filename="../paster.cpp" line="2866"/>
         <source>Shadow</source>
         <translation>Sombra</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2873"/>
-        <location filename="../paster.cpp" line="3015"/>
+        <location filename="../paster.cpp" line="2876"/>
+        <location filename="../paster.cpp" line="3018"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2899"/>
+        <location filename="../paster.cpp" line="2902"/>
         <source>Current</source>
         <translation>Atual</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2902"/>
+        <location filename="../paster.cpp" line="2905"/>
         <source>Smoothing</source>
         <translation>Suavização</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2912"/>
+        <location filename="../paster.cpp" line="2915"/>
         <source>Background mode</source>
         <translation>Modo de plano de fundo</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2917"/>
+        <location filename="../paster.cpp" line="2920"/>
         <source>Transparent</source>
         <translation>Transparente</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2920"/>
+        <location filename="../paster.cpp" line="2923"/>
         <source>Dark checkerboard</source>
         <translation>Quadriculado escuro</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2921"/>
+        <location filename="../paster.cpp" line="2924"/>
         <source>Light checkerboard</source>
         <translation>Quadriculado claro</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2943"/>
+        <location filename="../paster.cpp" line="2946"/>
         <source>Paste</source>
         <translation>Colar</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2947"/>
+        <location filename="../paster.cpp" line="2950"/>
         <source>Replace by file...</source>
         <translation>Substituir pelo arquivo...</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2958"/>
+        <location filename="../paster.cpp" line="2961"/>
         <source>Move to group</source>
         <translation>Mover para grupo</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2971"/>
+        <location filename="../paster.cpp" line="2974"/>
         <source>New group...</source>
         <translation>Novo grupo...</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2980"/>
+        <location filename="../paster.cpp" line="2983"/>
         <source>View in folder</source>
         <translation>Visualizar na pasta</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2992"/>
+        <location filename="../paster.cpp" line="2995"/>
         <source>Close</source>
         <translation>Fechar</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2996"/>
+        <location filename="../paster.cpp" line="2999"/>
         <source>Destroy</source>
         <translation>Destruir</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3009"/>
+        <location filename="../paster.cpp" line="3012"/>
         <source>Group</source>
         <translation>Grupo</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3016"/>
+        <location filename="../paster.cpp" line="3019"/>
         <source>Rotation</source>
         <translation>Rotação</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3017"/>
+        <location filename="../paster.cpp" line="3020"/>
         <source>X-mirror</source>
         <translation>Espelhar-X</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3017"/>
-        <location filename="../paster.cpp" line="3018"/>
+        <location filename="../paster.cpp" line="3020"/>
+        <location filename="../paster.cpp" line="3021"/>
         <source>Yes</source>
         <translation>Sim</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3017"/>
-        <location filename="../paster.cpp" line="3018"/>
+        <location filename="../paster.cpp" line="3020"/>
+        <location filename="../paster.cpp" line="3021"/>
         <source>No</source>
         <translation>Não</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3018"/>
+        <location filename="../paster.cpp" line="3021"/>
         <source>Y-mirror</source>
         <translation>Espelhar -Y</translation>
     </message>
@@ -1123,226 +1123,231 @@ A inicialização no boot foi cancelada.</translation>
     </message>
     <message>
         <location filename="../snipaste.cpp" line="521"/>
+        <source>Snip and copy</source>
+        <translation>Recortar e copiar</translation>
+    </message>
+    <message>
+        <location filename="../snipaste.cpp" line="525"/>
         <source>Delayed snip</source>
         <translation>Recorte adiado</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="526"/>
+        <location filename="../snipaste.cpp" line="530"/>
         <source>Paste</source>
         <translation>Colar</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="532"/>
-        <location filename="../snipaste.cpp" line="588"/>
-        <location filename="../snipaste.cpp" line="619"/>
+        <location filename="../snipaste.cpp" line="536"/>
+        <location filename="../snipaste.cpp" line="592"/>
+        <location filename="../snipaste.cpp" line="623"/>
         <source>Hide all images</source>
         <translation>Ocultar todas as imagens</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="532"/>
-        <location filename="../snipaste.cpp" line="588"/>
+        <location filename="../snipaste.cpp" line="536"/>
+        <location filename="../snipaste.cpp" line="592"/>
         <source>Show all images</source>
         <translation>Exibir todas as imagens</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="541"/>
+        <location filename="../snipaste.cpp" line="545"/>
         <source>Clear snip records</source>
         <translation>Limpar registros de recortes</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="547"/>
-        <location filename="../snipaste.cpp" line="1289"/>
+        <location filename="../snipaste.cpp" line="551"/>
+        <location filename="../snipaste.cpp" line="1293"/>
         <source>Images</source>
         <translation>Imagens</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="571"/>
-        <location filename="../snipaste.cpp" line="2485"/>
+        <location filename="../snipaste.cpp" line="575"/>
+        <location filename="../snipaste.cpp" line="2489"/>
         <source>Rename</source>
         <translation>Renomear</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="575"/>
+        <location filename="../snipaste.cpp" line="579"/>
         <source>Close</source>
         <translation>Fechar</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="594"/>
+        <location filename="../snipaste.cpp" line="598"/>
         <source>Import group...</source>
         <translation>Importar grupo...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="596"/>
+        <location filename="../snipaste.cpp" line="600"/>
         <source>Import image group</source>
         <translation>Importar grupo de imagens</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="606"/>
+        <location filename="../snipaste.cpp" line="610"/>
         <source>Remove empty groups</source>
         <translation>Remover grupos vazios</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="610"/>
+        <location filename="../snipaste.cpp" line="614"/>
         <source>Create new group...</source>
         <translation>Criar novo grupo...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="619"/>
+        <location filename="../snipaste.cpp" line="623"/>
         <source>Show images</source>
         <translation>Exibir imagens</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="628"/>
+        <location filename="../snipaste.cpp" line="632"/>
         <source>Preferences...</source>
         <translation>Preferências...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="642"/>
+        <location filename="../snipaste.cpp" line="646"/>
         <source>Checking for updates...</source>
         <translation>Verificando por atualizações...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="648"/>
+        <location filename="../snipaste.cpp" line="652"/>
         <source>Update now...</source>
         <translation>Atualizar agora...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="649"/>
+        <location filename="../snipaste.cpp" line="653"/>
         <source>Check for updates...</source>
         <translation>Verificar por atualizações...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="634"/>
+        <location filename="../snipaste.cpp" line="638"/>
         <source>Help</source>
         <translation>Ajuda</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="674"/>
+        <location filename="../snipaste.cpp" line="678"/>
         <source>Restart</source>
         <translation>Reiniciar</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="677"/>
+        <location filename="../snipaste.cpp" line="681"/>
         <source>Quit</source>
         <translation>Fechar</translation>
     </message>
     <message>
         <location filename="../snipaste.cpp" line="457"/>
-        <location filename="../snipaste.cpp" line="2846"/>
-        <location filename="../snipaste.cpp" line="2858"/>
-        <location filename="../snipaste.cpp" line="2916"/>
+        <location filename="../snipaste.cpp" line="2850"/>
+        <location filename="../snipaste.cpp" line="2862"/>
+        <location filename="../snipaste.cpp" line="2920"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="536"/>
+        <location filename="../snipaste.cpp" line="540"/>
         <source>Cancel mouse click-through</source>
         <translation>Cancelar clicar através com o mouse</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2847"/>
+        <location filename="../snipaste.cpp" line="2851"/>
         <source>%1 is not set!</source>
         <translation>%1 não está definido!</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2859"/>
+        <location filename="../snipaste.cpp" line="2863"/>
         <source>The file name pattern is not valid!</source>
         <translation>O padrão do nome de arquivo não é válido!</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2904"/>
+        <location filename="../snipaste.cpp" line="2908"/>
         <source>Success</source>
         <translation>Sucesso</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2905"/>
+        <location filename="../snipaste.cpp" line="2909"/>
         <source>Image saved to</source>
         <translation>Imagem salva em</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2917"/>
+        <location filename="../snipaste.cpp" line="2921"/>
         <source>Failed to save the image to</source>
         <translation>Falha ao salvar imagem para</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="1336"/>
+        <location filename="../snipaste.cpp" line="1340"/>
         <source>is already running.</source>
         <translation>já está em execução.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="1384"/>
+        <location filename="../snipaste.cpp" line="1388"/>
         <source>Save image as</source>
         <translation>Salvar imagem como</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="1421"/>
+        <location filename="../snipaste.cpp" line="1425"/>
         <source>Failed to save the image!</source>
         <translation>Falha ao salvar a imagem!</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2079"/>
+        <location filename="../snipaste.cpp" line="2083"/>
         <source>Snipaste %1 is released!
 Click here to update now</source>
         <translation>O Snipaste %1 foi lançado!
 Clique aqui para atualizar agora</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2289"/>
-        <location filename="../snipaste.cpp" line="2304"/>
-        <location filename="../snipaste.cpp" line="2317"/>
+        <location filename="../snipaste.cpp" line="2293"/>
+        <location filename="../snipaste.cpp" line="2308"/>
+        <location filename="../snipaste.cpp" line="2321"/>
         <source>Fail to import group.</source>
         <translation>Falha ao importar grupo.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2289"/>
+        <location filename="../snipaste.cpp" line="2293"/>
         <source>File %1 not found.</source>
         <translation>Arquivo %1 não encontrado.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2304"/>
-        <location filename="../snipaste.cpp" line="2317"/>
+        <location filename="../snipaste.cpp" line="2308"/>
+        <location filename="../snipaste.cpp" line="2321"/>
         <source>Error Code</source>
         <translation>Código de Erro</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2323"/>
+        <location filename="../snipaste.cpp" line="2327"/>
         <source>This group already exists.</source>
         <translation>Este grupo já existe.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2331"/>
+        <location filename="../snipaste.cpp" line="2335"/>
         <source>Imported Group</source>
         <translation>Grupo Importado</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2355"/>
+        <location filename="../snipaste.cpp" line="2359"/>
         <source>Import successful</source>
         <translation>Importado com sucesso</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2356"/>
+        <location filename="../snipaste.cpp" line="2360"/>
         <source>Rename the imported group:</source>
         <translation>Renomear grupo importado:</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2357"/>
+        <location filename="../snipaste.cpp" line="2361"/>
         <source>Switch to the imported group</source>
         <translation>Alterar para o grupo importado</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2486"/>
+        <location filename="../snipaste.cpp" line="2490"/>
         <source>New group name:</source>
         <translation>Nome do novo grupo:</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2509"/>
+        <location filename="../snipaste.cpp" line="2513"/>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
         <translation>Deseja realmente fechar &quot;%1&quot;? Esta ação não pode ser desfeita.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2525"/>
-        <location filename="../snipaste.cpp" line="2545"/>
-        <location filename="../snipaste.cpp" line="2807"/>
+        <location filename="../snipaste.cpp" line="2529"/>
+        <location filename="../snipaste.cpp" line="2549"/>
+        <location filename="../snipaste.cpp" line="2811"/>
         <source>Default</source>
         <translation>Padrão</translation>
     </message>

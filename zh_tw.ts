@@ -4,100 +4,100 @@
 <context>
     <name>FvUpdater</name>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="273"/>
+        <location filename="../fervor/fvupdater.cpp" line="276"/>
         <source>Redirecting</source>
         <translation>正在重新導向</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="278"/>
+        <location filename="../fervor/fvupdater.cpp" line="281"/>
         <source>Download complete.</source>
         <translation>下載完畢。</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="301"/>
+        <location filename="../fervor/fvupdater.cpp" line="304"/>
         <source>File hash does not match.</source>
         <translation>檔案校驗值不符合。</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="302"/>
-        <location filename="../fervor/fvupdater.cpp" line="338"/>
+        <location filename="../fervor/fvupdater.cpp" line="305"/>
+        <location filename="../fervor/fvupdater.cpp" line="341"/>
         <source>Please retry.</source>
         <translation>請重試。</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="313"/>
+        <location filename="../fervor/fvupdater.cpp" line="316"/>
         <source>Writing downloaded file into</source>
         <translation>正在將已下載檔案寫入到</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="320"/>
+        <location filename="../fervor/fvupdater.cpp" line="323"/>
         <source>Do you have write access to %1?</source>
         <translation>你是否對 %1 擁有寫入權限?</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="326"/>
+        <location filename="../fervor/fvupdater.cpp" line="329"/>
         <source>Saved successfully.</source>
         <translation>儲存成功。</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="391"/>
+        <location filename="../fervor/fvupdater.cpp" line="394"/>
         <source>Download errors occurred! HTTP Error Code: %1</source>
         <translation>下載出錯! HTTP 錯誤碼: %1</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="485"/>
+        <location filename="../fervor/fvupdater.cpp" line="488"/>
         <source>Unzipped successfully.</source>
         <translation>解壓成功。</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="910"/>
+        <location filename="../fervor/fvupdater.cpp" line="913"/>
         <source>Restarting</source>
         <translation>正在重啟</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="301"/>
-        <location filename="../fervor/fvupdater.cpp" line="319"/>
-        <location filename="../fervor/fvupdater.cpp" line="337"/>
-        <location filename="../fervor/fvupdater.cpp" line="384"/>
-        <location filename="../fervor/fvupdater.cpp" line="402"/>
-        <location filename="../fervor/fvupdater.cpp" line="419"/>
-        <location filename="../fervor/fvupdater.cpp" line="431"/>
-        <location filename="../fervor/fvupdater.cpp" line="445"/>
-        <location filename="../fervor/fvupdater.cpp" line="458"/>
-        <location filename="../fervor/fvupdater.cpp" line="464"/>
-        <location filename="../fervor/fvupdater.cpp" line="472"/>
-        <location filename="../fervor/fvupdater.cpp" line="481"/>
+        <location filename="../fervor/fvupdater.cpp" line="304"/>
+        <location filename="../fervor/fvupdater.cpp" line="322"/>
+        <location filename="../fervor/fvupdater.cpp" line="340"/>
+        <location filename="../fervor/fvupdater.cpp" line="387"/>
+        <location filename="../fervor/fvupdater.cpp" line="405"/>
+        <location filename="../fervor/fvupdater.cpp" line="422"/>
+        <location filename="../fervor/fvupdater.cpp" line="434"/>
+        <location filename="../fervor/fvupdater.cpp" line="448"/>
+        <location filename="../fervor/fvupdater.cpp" line="461"/>
+        <location filename="../fervor/fvupdater.cpp" line="467"/>
+        <location filename="../fervor/fvupdater.cpp" line="475"/>
+        <location filename="../fervor/fvupdater.cpp" line="484"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="584"/>
+        <location filename="../fervor/fvupdater.cpp" line="587"/>
         <source>Unable to download updates.</source>
         <translation>無法下載更新。</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="585"/>
+        <location filename="../fervor/fvupdater.cpp" line="588"/>
         <source>Please try later.</source>
         <translation>請稍後再試。</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="600"/>
+        <location filename="../fervor/fvupdater.cpp" line="603"/>
         <source>Downloading</source>
         <translation>正在下載</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="602"/>
+        <location filename="../fervor/fvupdater.cpp" line="605"/>
         <source>Retrying</source>
         <translation>正在重試</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="691"/>
+        <location filename="../fervor/fvupdater.cpp" line="694"/>
         <source>Feed download failed.
 Network Error: %1</source>
         <translation>下載更新來源失敗。網路錯誤: %1</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="752"/>
+        <location filename="../fervor/fvupdater.cpp" line="755"/>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
         <translation>更新來源出錯啦 (%1)。請聯絡開發者。</translation>
@@ -106,47 +106,47 @@ Please contact the developer.</source>
 <context>
     <name>HelpDialog</name>
     <message>
-        <location filename="../helpdialog.cpp" line="21"/>
+        <location filename="../helpdialog.cpp" line="29"/>
         <source>Help</source>
         <translation>求助</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="69"/>
+        <location filename="../helpdialog.cpp" line="77"/>
         <source>Visit Online</source>
         <translation>線上檢視</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="146"/>
+        <location filename="../helpdialog.cpp" line="156"/>
         <source>Basic Operations</source>
         <translation>基本操作</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="151"/>
+        <location filename="../helpdialog.cpp" line="161"/>
         <source>Key Bindings</source>
         <translation>內建快速鍵</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="153"/>
+        <location filename="../helpdialog.cpp" line="163"/>
         <source>Command Line Options</source>
         <translation>指令行選項</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="158"/>
+        <location filename="../helpdialog.cpp" line="168"/>
         <source>Advanced Configs</source>
         <translation>進階設定</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="163"/>
+        <location filename="../helpdialog.cpp" line="173"/>
         <source>Troubleshooting</source>
         <translation>故障排除</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="168"/>
+        <location filename="../helpdialog.cpp" line="178"/>
         <source>FAQ</source>
         <translation>常見問題集</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="173"/>
+        <location filename="../helpdialog.cpp" line="183"/>
         <source>Changelog</source>
         <translation>更新日誌</translation>
     </message>
@@ -465,427 +465,427 @@ Please contact the developer.</source>
 <context>
     <name>OptionsDialog</name>
     <message>
-        <location filename="../optionsdialog.cpp" line="1512"/>
+        <location filename="../optionsdialog.cpp" line="1529"/>
         <source>Donate</source>
         <translation>贊助</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1404"/>
+        <location filename="../optionsdialog.cpp" line="1417"/>
         <source>-bit</source>
         <translation> 位元</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="792"/>
+        <location filename="../optionsdialog.cpp" line="800"/>
         <source>Select Color</source>
         <translation>選擇色彩</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="871"/>
+        <location filename="../optionsdialog.cpp" line="879"/>
         <source>Select Font</source>
         <translation>選擇字型</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1124"/>
+        <location filename="../optionsdialog.cpp" line="1132"/>
         <source>Snip hotkey</source>
         <translation>擷圖快速鍵</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1126"/>
+        <location filename="../optionsdialog.cpp" line="1134"/>
         <source>Paste hotkey</source>
         <translation>貼圖快速鍵</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1586"/>
+        <location filename="../optionsdialog.cpp" line="1603"/>
         <source>Portuguese (Brazil)</source>
         <translation>葡萄牙語（巴西）</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1626"/>
+        <location filename="../optionsdialog.cpp" line="1646"/>
         <source>Translators</source>
         <translation>翻譯者</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1576"/>
+        <location filename="../optionsdialog.cpp" line="1593"/>
         <source>Traditional Chinese</source>
         <translation>繁體中文</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="237"/>
+        <location filename="../optionsdialog.cpp" line="245"/>
         <source>Checking...</source>
         <translation>正在檢查...</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="243"/>
+        <location filename="../optionsdialog.cpp" line="251"/>
         <source>Check for updates</source>
         <translation>檢查更新</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="905"/>
+        <location filename="../optionsdialog.cpp" line="913"/>
         <source>Set Directory</source>
         <translation>設定目錄</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="909"/>
+        <location filename="../optionsdialog.cpp" line="917"/>
         <source>Pick File</source>
         <translation>選擇檔案</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1396"/>
+        <location filename="../optionsdialog.cpp" line="1409"/>
         <source>For XP</source>
         <translation>XP 版</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1412"/>
+        <location filename="../optionsdialog.cpp" line="1425"/>
         <source>Copyright</source>
         <translation>版權所有</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1527"/>
+        <location filename="../optionsdialog.cpp" line="1544"/>
         <source>Home Page</source>
         <translation>首頁</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1529"/>
+        <location filename="../optionsdialog.cpp" line="1546"/>
         <source>Documentation</source>
         <translation>使用者手冊</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1531"/>
+        <location filename="../optionsdialog.cpp" line="1548"/>
         <source>Feedback</source>
         <translation>問題回報</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1533"/>
+        <location filename="../optionsdialog.cpp" line="1550"/>
         <source>Follow</source>
         <translation>關注</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1536"/>
+        <location filename="../optionsdialog.cpp" line="1553"/>
         <source>Weibo</source>
         <translation>微博</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1574"/>
+        <location filename="../optionsdialog.cpp" line="1591"/>
         <source>Simplified Chinese</source>
         <translation>簡體中文</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1578"/>
+        <location filename="../optionsdialog.cpp" line="1595"/>
         <source>German</source>
         <translation>德語</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1580"/>
+        <location filename="../optionsdialog.cpp" line="1597"/>
         <source>Greek</source>
         <translation>希臘語</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1582"/>
+        <location filename="../optionsdialog.cpp" line="1599"/>
         <source>Swedish</source>
         <translation>瑞典語</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1584"/>
+        <location filename="../optionsdialog.cpp" line="1601"/>
         <source>Japanese</source>
         <translation>日語</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1588"/>
+        <location filename="../optionsdialog.cpp" line="1605"/>
         <source>Polish</source>
         <translation>波蘭語</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1590"/>
+        <location filename="../optionsdialog.cpp" line="1607"/>
         <source>Dutch</source>
         <translation>荷蘭語</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1592"/>
+        <location filename="../optionsdialog.cpp" line="1609"/>
         <source>Portuguese (Portugal)</source>
         <translation>葡萄牙語（葡萄牙）</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1594"/>
+        <location filename="../optionsdialog.cpp" line="1611"/>
         <source>Vietnamese</source>
         <translation>越南語</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1596"/>
+        <location filename="../optionsdialog.cpp" line="1613"/>
         <source>French</source>
         <translation>法文</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1624"/>
+        <location filename="../optionsdialog.cpp" line="1644"/>
         <source>Support</source>
         <translation>支援</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1628"/>
+        <location filename="../optionsdialog.cpp" line="1648"/>
         <source>Icons</source>
         <translation>圖示</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1630"/>
+        <location filename="../optionsdialog.cpp" line="1650"/>
         <source>Contributors</source>
         <translation>貢獻者</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1683"/>
+        <location filename="../optionsdialog.cpp" line="1703"/>
         <source>Day (1-31)</source>
         <translation>日期 (1-31)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1685"/>
+        <location filename="../optionsdialog.cpp" line="1705"/>
         <source>Day (01-31)</source>
         <translation>日期 (01-31)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1687"/>
+        <location filename="../optionsdialog.cpp" line="1707"/>
         <source>Localized day name (abbr.)</source>
         <translation>周幾</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1689"/>
+        <location filename="../optionsdialog.cpp" line="1709"/>
         <source>Localized day name</source>
         <translation>星期幾</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1691"/>
+        <location filename="../optionsdialog.cpp" line="1711"/>
         <source>Month (1-12)</source>
         <translation>月份 (1-12)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1693"/>
+        <location filename="../optionsdialog.cpp" line="1713"/>
         <source>Month (01-12)</source>
         <translation>月份 (01-12)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1695"/>
+        <location filename="../optionsdialog.cpp" line="1715"/>
         <source>Localized month name (abbr.)</source>
         <translation>月份名稱 (小寫)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1697"/>
+        <location filename="../optionsdialog.cpp" line="1717"/>
         <source>Localized month name</source>
         <translation>月份名稱 (大寫)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1699"/>
+        <location filename="../optionsdialog.cpp" line="1719"/>
         <source>Year (2-digit)</source>
         <translation>年 (兩位數)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1701"/>
+        <location filename="../optionsdialog.cpp" line="1721"/>
         <source>Year (4-digit)</source>
         <translation>年 (四位數)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1709"/>
+        <location filename="../optionsdialog.cpp" line="1729"/>
         <source>Hour (0-23)</source>
         <translation>時 (0-23)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1712"/>
+        <location filename="../optionsdialog.cpp" line="1732"/>
         <source>Hour (00-23)</source>
         <translation>時 (00-23)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1714"/>
+        <location filename="../optionsdialog.cpp" line="1734"/>
         <source>Minute (0-59)</source>
         <translation>分 (0-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1716"/>
+        <location filename="../optionsdialog.cpp" line="1736"/>
         <source>Minute (00-59)</source>
         <translation>分 (00-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1718"/>
+        <location filename="../optionsdialog.cpp" line="1738"/>
         <source>Second (0-59)</source>
         <translation>秒 (0-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1720"/>
+        <location filename="../optionsdialog.cpp" line="1740"/>
         <source>Second (00-59)</source>
         <translation>秒 (00-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1722"/>
+        <location filename="../optionsdialog.cpp" line="1742"/>
         <source>Milliseconds (0-999)</source>
         <translation>毫秒 (0-999)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1724"/>
+        <location filename="../optionsdialog.cpp" line="1744"/>
         <source>Milliseconds (000-999)</source>
         <translation>毫秒 (000-999)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1726"/>
+        <location filename="../optionsdialog.cpp" line="1746"/>
         <source>Timezone</source>
         <translation>時區</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1744"/>
+        <location filename="../optionsdialog.cpp" line="1764"/>
         <source>Operation system</source>
         <translation>作業系統</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1746"/>
+        <location filename="../optionsdialog.cpp" line="1766"/>
         <source>Computer name</source>
         <translation>電腦名稱</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1748"/>
+        <location filename="../optionsdialog.cpp" line="1768"/>
         <source>User name</source>
         <translation>使用者名稱</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1784"/>
+        <location filename="../optionsdialog.cpp" line="1804"/>
         <source>Allowed suffixes</source>
         <translation>可用尾碼</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1786"/>
+        <location filename="../optionsdialog.cpp" line="1806"/>
         <source>Illegal characters</source>
         <translation>非法的字元</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1788"/>
+        <location filename="../optionsdialog.cpp" line="1808"/>
         <source>Environment variables</source>
         <translation>環境變數</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1791"/>
+        <location filename="../optionsdialog.cpp" line="1811"/>
         <source>Dates and times</source>
         <translation>日期和時間</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1889"/>
+        <location filename="../optionsdialog.cpp" line="1909"/>
         <source>Run Snipaste admin privileges.</source>
         <translation>以管理員權限執行 Snipaste.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1895"/>
-        <location filename="../optionsdialog.cpp" line="1937"/>
-        <location filename="../optionsdialog.cpp" line="2163"/>
-        <location filename="../optionsdialog.cpp" line="2191"/>
-        <location filename="../optionsdialog.cpp" line="2695"/>
+        <location filename="../optionsdialog.cpp" line="1915"/>
+        <location filename="../optionsdialog.cpp" line="1957"/>
+        <location filename="../optionsdialog.cpp" line="2183"/>
+        <location filename="../optionsdialog.cpp" line="2211"/>
+        <location filename="../optionsdialog.cpp" line="2702"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1896"/>
+        <location filename="../optionsdialog.cpp" line="1916"/>
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
         <translation>無法建立工作排程。
 請嘗試以管理員身份重啟 Snipaste 並重試。</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1938"/>
+        <location filename="../optionsdialog.cpp" line="1958"/>
         <source>Failed to create a shortcut in the startup directory.</source>
         <translation>無法在啟動資料夾中建立捷徑方式。</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1961"/>
+        <location filename="../optionsdialog.cpp" line="1981"/>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>以管理員身份重新啟動 Snipaste?</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2191"/>
+        <location filename="../optionsdialog.cpp" line="2211"/>
         <source>Cannot write into the config file.
 All settings will use defaults.</source>
         <translation>無法寫入設定檔，
 所有設定將使用預設值。</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2548"/>
+        <location filename="../optionsdialog.cpp" line="2555"/>
         <source>Off</source>
         <translation>關</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2550"/>
+        <location filename="../optionsdialog.cpp" line="2557"/>
         <source>Debug</source>
         <translation>偵錯</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2552"/>
+        <location filename="../optionsdialog.cpp" line="2559"/>
         <source>Normal</source>
         <translation>普通</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2696"/>
+        <location filename="../optionsdialog.cpp" line="2703"/>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
         <translation>啟動資料夾中的捷徑似乎出錯了。
 已自動取消開機啟動。</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2497"/>
+        <location filename="../optionsdialog.cpp" line="2504"/>
         <source>No Proxy</source>
         <translation>不使用代理伺服器</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2526"/>
+        <location filename="../optionsdialog.cpp" line="2533"/>
         <source>None</source>
         <translation>無</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2528"/>
+        <location filename="../optionsdialog.cpp" line="2535"/>
         <source>Copy to clipboard</source>
         <translation>複製到剪貼簿</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2530"/>
+        <location filename="../optionsdialog.cpp" line="2537"/>
         <source>Pin to screen</source>
         <translation>貼到螢幕</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2532"/>
+        <location filename="../optionsdialog.cpp" line="2539"/>
         <source>Save to file</source>
         <translation>儲存到檔案</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2534"/>
+        <location filename="../optionsdialog.cpp" line="2541"/>
         <source>Quick save</source>
         <translation>快速儲存</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2499"/>
+        <location filename="../optionsdialog.cpp" line="2506"/>
         <source>System Proxy</source>
         <translation>系統代理伺服器</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2168"/>
+        <location filename="../optionsdialog.cpp" line="2188"/>
         <source>Snipaste is running</source>
         <translation>Snipaste 正在執行</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2168"/>
+        <location filename="../optionsdialog.cpp" line="2188"/>
         <source>You can control it via the tray icon.</source>
         <translation>你可以透過工具列圖示進行相關控制。</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2182"/>
+        <location filename="../optionsdialog.cpp" line="2202"/>
         <source>Snipaste has been updated to %1.</source>
         <translation>Snipaste 已成功更新到 %1.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2183"/>
+        <location filename="../optionsdialog.cpp" line="2203"/>
         <source>Click here to see the changelog</source>
         <translation>點選這裡檢視更新日誌</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2159"/>
+        <location filename="../optionsdialog.cpp" line="2179"/>
         <source>Failed to register shortcut:</source>
         <translation>快速鍵註冊失敗:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1353"/>
+        <location filename="../optionsdialog.cpp" line="1366"/>
         <source>Preview</source>
         <translation>預覽</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.h" line="212"/>
+        <location filename="../optionsdialog.h" line="209"/>
         <source>Thank you for your support!</source>
         <translation>感謝您的支持！</translation>
     </message>
@@ -901,73 +901,73 @@ Startup on boot has been cancelled.</source>
 <context>
     <name>Paster</name>
     <message>
-        <location filename="../paster.cpp" line="2844"/>
+        <location filename="../paster.cpp" line="2847"/>
         <source>Edit</source>
         <translation>編輯</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2782"/>
+        <location filename="../paster.cpp" line="2785"/>
         <source>Copy image</source>
         <translation>複製圖像</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2786"/>
+        <location filename="../paster.cpp" line="2789"/>
         <source>Save image as...</source>
         <translation>圖像另存為...</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2794"/>
+        <location filename="../paster.cpp" line="2797"/>
         <source>Restore</source>
         <translation>還原</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2805"/>
+        <location filename="../paster.cpp" line="2808"/>
         <source>Copy plain text</source>
         <translation>複製 純文字</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2816"/>
+        <location filename="../paster.cpp" line="2819"/>
         <source>Copy HTML</source>
         <translation>複製 HTML</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2830"/>
+        <location filename="../paster.cpp" line="2833"/>
         <source>Copy</source>
         <translation>複製</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2853"/>
+        <location filename="../paster.cpp" line="2856"/>
         <source>Ignore format</source>
         <translation>略過格式</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2863"/>
+        <location filename="../paster.cpp" line="2866"/>
         <source>Shadow</source>
         <translation>視窗陰影</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2873"/>
-        <location filename="../paster.cpp" line="3015"/>
+        <location filename="../paster.cpp" line="2876"/>
+        <location filename="../paster.cpp" line="3018"/>
         <source>Zoom</source>
         <translation>縮放</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2912"/>
+        <location filename="../paster.cpp" line="2915"/>
         <source>Background mode</source>
         <translation>背景模式</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2917"/>
+        <location filename="../paster.cpp" line="2920"/>
         <source>Transparent</source>
         <translation>透明</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2920"/>
+        <location filename="../paster.cpp" line="2923"/>
         <source>Dark checkerboard</source>
         <translation>暗色棋盤</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2921"/>
+        <location filename="../paster.cpp" line="2924"/>
         <source>Light checkerboard</source>
         <translation>亮色棋盤</translation>
     </message>
@@ -976,74 +976,74 @@ Startup on boot has been cancelled.</source>
         <translation type="vanished">偽透明</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2943"/>
+        <location filename="../paster.cpp" line="2946"/>
         <source>Paste</source>
         <translation>貼上</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2947"/>
+        <location filename="../paster.cpp" line="2950"/>
         <source>Replace by file...</source>
         <translation>取代為檔案...</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2958"/>
+        <location filename="../paster.cpp" line="2961"/>
         <source>Move to group</source>
         <translation>移動到分組</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2971"/>
+        <location filename="../paster.cpp" line="2974"/>
         <source>New group...</source>
         <translation>新分組...</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2980"/>
+        <location filename="../paster.cpp" line="2983"/>
         <source>View in folder</source>
         <translation>在資料夾中檢視</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3009"/>
+        <location filename="../paster.cpp" line="3012"/>
         <source>Group</source>
         <translation>所在分組</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3016"/>
+        <location filename="../paster.cpp" line="3019"/>
         <source>Rotation</source>
         <translation>旋轉</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3017"/>
+        <location filename="../paster.cpp" line="3020"/>
         <source>X-mirror</source>
         <translation>水平映像</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3017"/>
-        <location filename="../paster.cpp" line="3018"/>
+        <location filename="../paster.cpp" line="3020"/>
+        <location filename="../paster.cpp" line="3021"/>
         <source>Yes</source>
         <translation>是</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3017"/>
-        <location filename="../paster.cpp" line="3018"/>
+        <location filename="../paster.cpp" line="3020"/>
+        <location filename="../paster.cpp" line="3021"/>
         <source>No</source>
         <translation>否</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3018"/>
+        <location filename="../paster.cpp" line="3021"/>
         <source>Y-mirror</source>
         <translation>垂直映像</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2996"/>
+        <location filename="../paster.cpp" line="2999"/>
         <source>Destroy</source>
         <translation>銷毀</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2992"/>
+        <location filename="../paster.cpp" line="2995"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2771"/>
+        <location filename="../paster.cpp" line="2774"/>
         <source>Pause</source>
         <translation>暫停</translation>
     </message>
@@ -1064,36 +1064,36 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <location filename="../paster.cpp" line="547"/>
-        <location filename="../paster.cpp" line="817"/>
-        <location filename="../paster.cpp" line="3012"/>
+        <location filename="../paster.cpp" line="820"/>
+        <location filename="../paster.cpp" line="3015"/>
         <source>Speed</source>
         <translation>速度</translation>
     </message>
     <message>
         <location filename="../paster.cpp" line="565"/>
-        <location filename="../paster.cpp" line="808"/>
-        <location filename="../paster.cpp" line="3010"/>
+        <location filename="../paster.cpp" line="811"/>
+        <location filename="../paster.cpp" line="3013"/>
         <source>Opacity</source>
         <translation>不透明度</translation>
     </message>
     <message>
         <location filename="../paster.cpp" line="555"/>
-        <location filename="../paster.cpp" line="825"/>
+        <location filename="../paster.cpp" line="828"/>
         <source>Size</source>
         <translation>大小</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2899"/>
+        <location filename="../paster.cpp" line="2902"/>
         <source>Current</source>
         <translation>目前</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2902"/>
+        <location filename="../paster.cpp" line="2905"/>
         <source>Smoothing</source>
         <translation>平滑處理</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2771"/>
+        <location filename="../paster.cpp" line="2774"/>
         <source>Play</source>
         <translation>播放</translation>
     </message>
@@ -1114,47 +1114,47 @@ Startup on boot has been cancelled.</source>
         <translation>擷圖</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="526"/>
+        <location filename="../snipaste.cpp" line="530"/>
         <source>Paste</source>
         <translation>貼圖</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="532"/>
-        <location filename="../snipaste.cpp" line="588"/>
+        <location filename="../snipaste.cpp" line="536"/>
+        <location filename="../snipaste.cpp" line="592"/>
         <source>Show all images</source>
         <translation>顯示所有貼圖</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="547"/>
-        <location filename="../snipaste.cpp" line="1289"/>
+        <location filename="../snipaste.cpp" line="551"/>
+        <location filename="../snipaste.cpp" line="1293"/>
         <source>Images</source>
         <translation>貼圖</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="571"/>
-        <location filename="../snipaste.cpp" line="2485"/>
+        <location filename="../snipaste.cpp" line="575"/>
+        <location filename="../snipaste.cpp" line="2489"/>
         <source>Rename</source>
         <translation>重新命名</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="575"/>
+        <location filename="../snipaste.cpp" line="579"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="532"/>
-        <location filename="../snipaste.cpp" line="588"/>
-        <location filename="../snipaste.cpp" line="619"/>
+        <location filename="../snipaste.cpp" line="536"/>
+        <location filename="../snipaste.cpp" line="592"/>
+        <location filename="../snipaste.cpp" line="623"/>
         <source>Hide all images</source>
         <translation>隱藏所有貼圖</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="619"/>
+        <location filename="../snipaste.cpp" line="623"/>
         <source>Show images</source>
         <translation>顯示貼圖</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="541"/>
+        <location filename="../snipaste.cpp" line="545"/>
         <source>Clear snip records</source>
         <translation>清除擷圖記錄</translation>
     </message>
@@ -1164,65 +1164,65 @@ Startup on boot has been cancelled.</source>
         <translation>沒有可用的更新。</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="521"/>
+        <location filename="../snipaste.cpp" line="525"/>
         <source>Delayed snip</source>
         <translation>延時擷取螢幕</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="536"/>
+        <location filename="../snipaste.cpp" line="540"/>
         <source>Cancel mouse click-through</source>
         <translation>取消滑鼠穿透</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="594"/>
+        <location filename="../snipaste.cpp" line="598"/>
         <source>Import group...</source>
         <translation>匯入分組...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="596"/>
+        <location filename="../snipaste.cpp" line="600"/>
         <source>Import image group</source>
         <translation>匯入貼圖組</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="628"/>
+        <location filename="../snipaste.cpp" line="632"/>
         <source>Preferences...</source>
         <translation>偏好設定...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="642"/>
+        <location filename="../snipaste.cpp" line="646"/>
         <source>Checking for updates...</source>
         <translation>正在檢查更新...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="648"/>
+        <location filename="../snipaste.cpp" line="652"/>
         <source>Update now...</source>
         <translation>更新新版...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="649"/>
+        <location filename="../snipaste.cpp" line="653"/>
         <source>Check for updates...</source>
         <translation>檢查更新...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="634"/>
+        <location filename="../snipaste.cpp" line="638"/>
         <source>Help</source>
         <translation>求助</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="674"/>
+        <location filename="../snipaste.cpp" line="678"/>
         <source>Restart</source>
         <translation>重新啟動</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="677"/>
+        <location filename="../snipaste.cpp" line="681"/>
         <source>Quit</source>
         <translation>離開</translation>
     </message>
     <message>
         <location filename="../snipaste.cpp" line="457"/>
-        <location filename="../snipaste.cpp" line="2846"/>
-        <location filename="../snipaste.cpp" line="2858"/>
-        <location filename="../snipaste.cpp" line="2916"/>
+        <location filename="../snipaste.cpp" line="2850"/>
+        <location filename="../snipaste.cpp" line="2862"/>
+        <location filename="../snipaste.cpp" line="2920"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -1232,119 +1232,124 @@ Startup on boot has been cancelled.</source>
         <translation>無效的指令行參數。</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2847"/>
+        <location filename="../snipaste.cpp" line="2851"/>
         <source>%1 is not set!</source>
         <translation>未設定 %1!</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2859"/>
+        <location filename="../snipaste.cpp" line="2863"/>
         <source>The file name pattern is not valid!</source>
         <translation>無效的檔案命名規則!</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2904"/>
+        <location filename="../snipaste.cpp" line="2908"/>
         <source>Success</source>
         <translation>成功</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2905"/>
+        <location filename="../snipaste.cpp" line="2909"/>
         <source>Image saved to</source>
         <translation>圖像已儲存到</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2917"/>
+        <location filename="../snipaste.cpp" line="2921"/>
         <source>Failed to save the image to</source>
         <translation>無法將圖像儲存到</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="1336"/>
+        <location filename="../snipaste.cpp" line="1340"/>
         <source>is already running.</source>
         <translation>已經在執行。</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="1384"/>
+        <location filename="../snipaste.cpp" line="521"/>
+        <source>Snip and copy</source>
+        <translation>擷取螢幕並自動複製</translation>
+    </message>
+    <message>
+        <location filename="../snipaste.cpp" line="1388"/>
         <source>Save image as</source>
         <translation>圖像另存為</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="1421"/>
+        <location filename="../snipaste.cpp" line="1425"/>
         <source>Failed to save the image!</source>
         <translation>圖片儲存失敗!</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2079"/>
+        <location filename="../snipaste.cpp" line="2083"/>
         <source>Snipaste %1 is released!
 Click here to update now</source>
         <translation>Snipaste %1 已經發布!
 點選這裡馬上更新</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2289"/>
-        <location filename="../snipaste.cpp" line="2304"/>
-        <location filename="../snipaste.cpp" line="2317"/>
+        <location filename="../snipaste.cpp" line="2293"/>
+        <location filename="../snipaste.cpp" line="2308"/>
+        <location filename="../snipaste.cpp" line="2321"/>
         <source>Fail to import group.</source>
         <translation>匯入分組失敗。</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2289"/>
+        <location filename="../snipaste.cpp" line="2293"/>
         <source>File %1 not found.</source>
         <translation>找不到檔案 %1.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2304"/>
-        <location filename="../snipaste.cpp" line="2317"/>
+        <location filename="../snipaste.cpp" line="2308"/>
+        <location filename="../snipaste.cpp" line="2321"/>
         <source>Error Code</source>
         <translation>錯誤語法</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2323"/>
+        <location filename="../snipaste.cpp" line="2327"/>
         <source>This group already exists.</source>
         <translation>該分組已經存在。</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2331"/>
+        <location filename="../snipaste.cpp" line="2335"/>
         <source>Imported Group</source>
         <translation>匯入分組</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2355"/>
+        <location filename="../snipaste.cpp" line="2359"/>
         <source>Import successful</source>
         <translation>匯入成功</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2356"/>
+        <location filename="../snipaste.cpp" line="2360"/>
         <source>Rename the imported group:</source>
         <translation>重新命名匯入分組:</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2357"/>
+        <location filename="../snipaste.cpp" line="2361"/>
         <source>Switch to the imported group</source>
         <translation>切換到匯入分組</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2486"/>
+        <location filename="../snipaste.cpp" line="2490"/>
         <source>New group name:</source>
         <translation>新的分組名稱:</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2509"/>
+        <location filename="../snipaste.cpp" line="2513"/>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
         <translation>確定要關閉 &quot;%1&quot; 嗎？此操作將不能還原。</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2525"/>
-        <location filename="../snipaste.cpp" line="2545"/>
-        <location filename="../snipaste.cpp" line="2807"/>
+        <location filename="../snipaste.cpp" line="2529"/>
+        <location filename="../snipaste.cpp" line="2549"/>
+        <location filename="../snipaste.cpp" line="2811"/>
         <source>Default</source>
         <translation>預設</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="606"/>
+        <location filename="../snipaste.cpp" line="610"/>
         <source>Remove empty groups</source>
         <translation>刪除空分組</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="610"/>
+        <location filename="../snipaste.cpp" line="614"/>
         <source>Create new group...</source>
         <translation>新增分組...</translation>
     </message>
