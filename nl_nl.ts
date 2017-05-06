@@ -504,7 +504,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     <message>
         <location filename="../optionsdialog.cpp" line="1646"/>
         <source>Translators</source>
-        <translation>Vertalers</translation>
+        <translation>Vertalingen</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="1593"/>
@@ -1536,7 +1536,7 @@ Klik hier om direct te vernieuwen</translation>
     <message>
         <location filename="../optionsdialog.ui" line="118"/>
         <source>So that the global hotkeys are effective when the active window has administrator privileges.</source>
-        <translation>Zodat de algemene sneltoetsen van toepassing zijn wanneer het actieve venster beheerdersrechten heeft.</translation>
+        <translation>Hiermee functioneren de algemene sneltoetsen ook bij vensters onder beheerdersrechten.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.ui" line="271"/>
@@ -1628,7 +1628,7 @@ Klik hier om direct te vernieuwen</translation>
     <message>
         <location filename="../optionsdialog.ui" line="957"/>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
-        <translation>U kunt het ook tijdelijk wisselen door de Tab-toets te drukken.</translation>
+        <translation>U kunt dit ook tijdelijk wisselen door de Tab-toets te drukken.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.ui" line="1003"/>
@@ -1763,7 +1763,7 @@ Indien afgeschakeld, wordt het altijd weergegeven midden op het primaire scherm.
     <message>
         <location filename="../optionsdialog.ui" line="1879"/>
         <source>This may cause flickers.</source>
-        <translation>Dit kan flikkeren.</translation>
+        <translation>Dit kan resulteren in schermflikkeringen.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.ui" line="1933"/>
@@ -1875,7 +1875,7 @@ Indien er zich geen afbeeldingsvenster onder de cursor bevindt, zullen alle niet
         <location filename="../optionsdialog.ui" line="3570"/>
         <source>Beta versions may contain more bugs.
 Please report to the developer if you find any.</source>
-        <translation>Beta-versies kunnen meer problemen bevatten.
+        <translation>Beta-versies kunnen problemen bevatten.
 Meld deze wanneer u ze vindt.</translation>
     </message>
     <message>
