@@ -2466,7 +2466,7 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     <message>
         <location filename="../optionsdialog.ui" line="3073"/>
         <source>Hotkey</source>
-        <translation>Sneltoets</translation>
+        <translation>Sneltoetsen</translation>
     </message>
     <message>
         <location filename="../optionsdialog.ui" line="3099"/>
