@@ -4,103 +4,103 @@
 <context>
     <name>FvUpdater</name>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="276"/>
+        <location filename="../fervor/fvupdater.cpp" line="287"/>
         <source>Redirecting</source>
         <translation>Przekierowanie</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="281"/>
+        <location filename="../fervor/fvupdater.cpp" line="292"/>
         <source>Download complete.</source>
         <translation>Pobieranie ukończone.</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="304"/>
-        <location filename="../fervor/fvupdater.cpp" line="322"/>
-        <location filename="../fervor/fvupdater.cpp" line="340"/>
-        <location filename="../fervor/fvupdater.cpp" line="387"/>
-        <location filename="../fervor/fvupdater.cpp" line="405"/>
-        <location filename="../fervor/fvupdater.cpp" line="422"/>
+        <location filename="../fervor/fvupdater.cpp" line="317"/>
+        <location filename="../fervor/fvupdater.cpp" line="334"/>
+        <location filename="../fervor/fvupdater.cpp" line="352"/>
+        <location filename="../fervor/fvupdater.cpp" line="399"/>
+        <location filename="../fervor/fvupdater.cpp" line="417"/>
         <location filename="../fervor/fvupdater.cpp" line="434"/>
-        <location filename="../fervor/fvupdater.cpp" line="448"/>
-        <location filename="../fervor/fvupdater.cpp" line="461"/>
-        <location filename="../fervor/fvupdater.cpp" line="467"/>
-        <location filename="../fervor/fvupdater.cpp" line="475"/>
-        <location filename="../fervor/fvupdater.cpp" line="484"/>
+        <location filename="../fervor/fvupdater.cpp" line="446"/>
+        <location filename="../fervor/fvupdater.cpp" line="460"/>
+        <location filename="../fervor/fvupdater.cpp" line="473"/>
+        <location filename="../fervor/fvupdater.cpp" line="479"/>
+        <location filename="../fervor/fvupdater.cpp" line="487"/>
+        <location filename="../fervor/fvupdater.cpp" line="496"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="304"/>
+        <location filename="../fervor/fvupdater.cpp" line="317"/>
         <source>File hash does not match.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="305"/>
-        <location filename="../fervor/fvupdater.cpp" line="341"/>
+        <location filename="../fervor/fvupdater.cpp" line="318"/>
+        <location filename="../fervor/fvupdater.cpp" line="353"/>
         <source>Please retry.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="316"/>
+        <location filename="../fervor/fvupdater.cpp" line="328"/>
         <source>Writing downloaded file into</source>
         <translation>Kopiowanie pobranego pliku do </translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="323"/>
+        <location filename="../fervor/fvupdater.cpp" line="335"/>
         <source>Do you have write access to %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="329"/>
+        <location filename="../fervor/fvupdater.cpp" line="341"/>
         <source>Saved successfully.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="394"/>
+        <location filename="../fervor/fvupdater.cpp" line="406"/>
         <source>Download errors occurred! HTTP Error Code: %1</source>
         <translation>Nastąpił błąd pobierania! Kod błędu HTTP: %1</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="488"/>
+        <location filename="../fervor/fvupdater.cpp" line="500"/>
         <source>Unzipped successfully.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="587"/>
+        <location filename="../fervor/fvupdater.cpp" line="599"/>
         <source>Unable to download updates.</source>
         <translation>Nie można pobrać aktualizacji.</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="588"/>
+        <location filename="../fervor/fvupdater.cpp" line="600"/>
         <source>Please try later.</source>
         <translation>Spróbuj ponownie później.</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="603"/>
+        <location filename="../fervor/fvupdater.cpp" line="615"/>
         <source>Downloading</source>
         <translation>Pobieranie</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="605"/>
+        <location filename="../fervor/fvupdater.cpp" line="617"/>
         <source>Retrying</source>
         <translation>Ponawianie próby pobierania</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="694"/>
+        <location filename="../fervor/fvupdater.cpp" line="735"/>
         <source>Feed download failed.
 Network Error: %1</source>
         <translation>Błąd pobierania feedu.
 Błąd sieci: %1</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="755"/>
+        <location filename="../fervor/fvupdater.cpp" line="804"/>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
         <translation>Coś jest nie tak z feedem aktualizacji (%1).
 Proszę skontaktować się z deweloperem.</translation>
     </message>
     <message>
-        <location filename="../fervor/fvupdater.cpp" line="913"/>
+        <location filename="../fervor/fvupdater.cpp" line="963"/>
         <source>Restarting</source>
         <translation type="unfinished"></translation>
     </message>
@@ -108,47 +108,47 @@ Proszę skontaktować się z deweloperem.</translation>
 <context>
     <name>HelpDialog</name>
     <message>
-        <location filename="../helpdialog.cpp" line="29"/>
+        <location filename="../helpdialog.cpp" line="72"/>
         <source>Help</source>
         <translation type="unfinished">Pomoc</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="77"/>
+        <location filename="../helpdialog.cpp" line="120"/>
         <source>Visit Online</source>
         <translation>Odwiedź online</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="156"/>
+        <location filename="../helpdialog.cpp" line="201"/>
         <source>Basic Operations</source>
         <translation>Podstawowe operacje</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="161"/>
+        <location filename="../helpdialog.cpp" line="206"/>
         <source>Key Bindings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="163"/>
+        <location filename="../helpdialog.cpp" line="208"/>
         <source>Command Line Options</source>
         <translation>Opcje wiersza poleceń</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="168"/>
+        <location filename="../helpdialog.cpp" line="213"/>
         <source>Advanced Configs</source>
         <translation>Zaawansowane ustawienia</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="173"/>
+        <location filename="../helpdialog.cpp" line="218"/>
         <source>Troubleshooting</source>
         <translation>Rozwiązywanie problemów</translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="178"/>
+        <location filename="../helpdialog.cpp" line="223"/>
         <source>FAQ</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../helpdialog.cpp" line="183"/>
+        <location filename="../helpdialog.cpp" line="228"/>
         <source>Changelog</source>
         <translation>Lista zmian</translation>
     </message>
@@ -482,412 +482,417 @@ Proszę skontaktować się z deweloperem.</translation>
         <translation>Sprawdź dostępność aktualizacji</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1417"/>
+        <location filename="../optionsdialog.cpp" line="1493"/>
         <source>-bit</source>
         <translation>-bit</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="800"/>
+        <location filename="../optionsdialog.cpp" line="859"/>
         <source>Select Color</source>
         <translation>Wybierz kolor</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="879"/>
+        <location filename="../optionsdialog.cpp" line="940"/>
         <source>Select Font</source>
         <translation>Wybierz czcionkę</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="913"/>
+        <location filename="../optionsdialog.cpp" line="975"/>
         <source>Set Directory</source>
         <translation>Ustaw folder</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="917"/>
+        <location filename="../optionsdialog.cpp" line="979"/>
         <source>Pick File</source>
         <translation>Wybierz plik</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1132"/>
+        <location filename="../optionsdialog.cpp" line="1205"/>
         <source>Snip hotkey</source>
         <translation>Klawisz skrótu przechwytywania ekranu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1134"/>
+        <location filename="../optionsdialog.cpp" line="1207"/>
         <source>Paste hotkey</source>
         <translation>Klawisz skrótu wklejania</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1409"/>
+        <location filename="../optionsdialog.cpp" line="1485"/>
         <source>For XP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1366"/>
+        <location filename="../optionsdialog.cpp" line="1439"/>
         <source>Preview</source>
         <translation>Podgląd</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1425"/>
+        <location filename="../optionsdialog.cpp" line="1501"/>
         <source>Copyright</source>
         <translation>Prawa autorskie</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1529"/>
+        <location filename="../optionsdialog.cpp" line="1605"/>
         <source>Donate</source>
         <translation>Wyślij dotację</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1544"/>
+        <location filename="../optionsdialog.cpp" line="1620"/>
         <source>Home Page</source>
         <translation>Strona główna</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1546"/>
+        <location filename="../optionsdialog.cpp" line="1622"/>
         <source>Documentation</source>
         <translation>Dokumentacja</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1548"/>
+        <location filename="../optionsdialog.cpp" line="1624"/>
         <source>Feedback</source>
         <translation>Informacje zwrotne</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1550"/>
+        <location filename="../optionsdialog.cpp" line="1626"/>
         <source>Follow</source>
         <translation>Śledź</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1553"/>
+        <location filename="../optionsdialog.cpp" line="1629"/>
         <source>Weibo</source>
         <translation>Weibo</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1591"/>
+        <location filename="../optionsdialog.cpp" line="1667"/>
         <source>Simplified Chinese</source>
         <translation>Chiński uproszczony</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1593"/>
+        <location filename="../optionsdialog.cpp" line="1669"/>
         <source>Traditional Chinese</source>
         <translation>Chiński tradycyjny</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1595"/>
+        <location filename="../optionsdialog.cpp" line="1671"/>
         <source>German</source>
         <translation>Niemiecki</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1597"/>
+        <location filename="../optionsdialog.cpp" line="1673"/>
         <source>Greek</source>
         <translation>Grecki</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1599"/>
+        <location filename="../optionsdialog.cpp" line="1675"/>
         <source>Swedish</source>
         <translation>Szwedzki</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1601"/>
+        <location filename="../optionsdialog.cpp" line="1677"/>
         <source>Japanese</source>
         <translation>Japoński</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1605"/>
+        <location filename="../optionsdialog.cpp" line="1681"/>
         <source>Polish</source>
         <translation>Polski</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1607"/>
+        <location filename="../optionsdialog.cpp" line="1683"/>
         <source>Dutch</source>
         <translation>Holenderski</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1609"/>
+        <location filename="../optionsdialog.cpp" line="1685"/>
         <source>Portuguese (Portugal)</source>
         <translation>Portugalski (Portugalia)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1611"/>
+        <location filename="../optionsdialog.cpp" line="1687"/>
         <source>Vietnamese</source>
         <translation>Wietnamski</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1613"/>
+        <location filename="../optionsdialog.cpp" line="1689"/>
         <source>French</source>
         <translation>Francuski</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1644"/>
+        <location filename="../optionsdialog.cpp" line="1720"/>
         <source>Support</source>
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1648"/>
+        <location filename="../optionsdialog.cpp" line="1724"/>
         <source>Icons</source>
         <translation>Ikony</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1646"/>
+        <location filename="../optionsdialog.cpp" line="1722"/>
         <source>Translators</source>
         <translation>Tłumacze</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1650"/>
+        <location filename="../optionsdialog.cpp" line="1726"/>
         <source>Contributors</source>
         <translation>Współtwórcy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1703"/>
+        <location filename="../optionsdialog.cpp" line="1779"/>
         <source>Day (1-31)</source>
         <translation>Dzień (1-31)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1705"/>
+        <location filename="../optionsdialog.cpp" line="1781"/>
         <source>Day (01-31)</source>
         <translation>Dzień (01-31)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1707"/>
+        <location filename="../optionsdialog.cpp" line="1783"/>
         <source>Localized day name (abbr.)</source>
         <translation>Lokalna nazwa dnia (skrócona)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1709"/>
+        <location filename="../optionsdialog.cpp" line="1785"/>
         <source>Localized day name</source>
         <translation>Lokalna nazwa dnia</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1711"/>
+        <location filename="../optionsdialog.cpp" line="1787"/>
         <source>Month (1-12)</source>
         <translation>Miesiąc (1-12)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1713"/>
+        <location filename="../optionsdialog.cpp" line="1789"/>
         <source>Month (01-12)</source>
         <translation>Miesiąc (01-12)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1715"/>
+        <location filename="../optionsdialog.cpp" line="1791"/>
         <source>Localized month name (abbr.)</source>
         <translation>Lokalna nazwa miesiąca (skrócona)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1717"/>
+        <location filename="../optionsdialog.cpp" line="1793"/>
         <source>Localized month name</source>
         <translation>Lokalna nazwa miesiąca</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1719"/>
+        <location filename="../optionsdialog.cpp" line="1795"/>
         <source>Year (2-digit)</source>
         <translation>Rok (2 cyfry)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1721"/>
+        <location filename="../optionsdialog.cpp" line="1797"/>
         <source>Year (4-digit)</source>
         <translation>Rok (4 cyfry)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1729"/>
+        <location filename="../optionsdialog.cpp" line="1805"/>
         <source>Hour (0-23)</source>
         <translation>Godzina (0-23)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1732"/>
+        <location filename="../optionsdialog.cpp" line="1808"/>
         <source>Hour (00-23)</source>
         <translation>Godzina (00-23)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1734"/>
+        <location filename="../optionsdialog.cpp" line="1810"/>
         <source>Minute (0-59)</source>
         <translation>Minuta (0-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1736"/>
+        <location filename="../optionsdialog.cpp" line="1812"/>
         <source>Minute (00-59)</source>
         <translation>Minuta (00-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1738"/>
+        <location filename="../optionsdialog.cpp" line="1814"/>
         <source>Second (0-59)</source>
         <translation>Sekunda (0-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1740"/>
+        <location filename="../optionsdialog.cpp" line="1816"/>
         <source>Second (00-59)</source>
         <translation>Sekunda (00-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1742"/>
+        <location filename="../optionsdialog.cpp" line="1818"/>
         <source>Milliseconds (0-999)</source>
         <translation>Milisekundy (0-999)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1744"/>
+        <location filename="../optionsdialog.cpp" line="1820"/>
         <source>Milliseconds (000-999)</source>
         <translation>Milisekundy (000-999)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1746"/>
+        <location filename="../optionsdialog.cpp" line="1822"/>
         <source>Timezone</source>
         <translation>Strefa czasowa</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1764"/>
+        <location filename="../optionsdialog.cpp" line="1840"/>
         <source>Operation system</source>
         <translation>System operacyjny</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1766"/>
+        <location filename="../optionsdialog.cpp" line="1842"/>
         <source>Computer name</source>
         <translation>Nazwa komputera</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1768"/>
+        <location filename="../optionsdialog.cpp" line="1844"/>
         <source>User name</source>
         <translation>Nazwa użytkownika</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1804"/>
+        <location filename="../optionsdialog.cpp" line="1880"/>
         <source>Allowed suffixes</source>
         <translation>Dozwolone przyrostki</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1806"/>
+        <location filename="../optionsdialog.cpp" line="1882"/>
         <source>Illegal characters</source>
         <translation>Niedozwolone znaki</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1808"/>
+        <location filename="../optionsdialog.cpp" line="1884"/>
         <source>Environment variables</source>
         <translation>Zmienne środowiska </translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1811"/>
+        <location filename="../optionsdialog.cpp" line="1887"/>
         <source>Dates and times</source>
         <translation>Data i czas</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1909"/>
+        <location filename="../optionsdialog.cpp" line="1985"/>
         <source>Run Snipaste admin privileges.</source>
         <translation>Uruchom jako administrator.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1915"/>
-        <location filename="../optionsdialog.cpp" line="1957"/>
-        <location filename="../optionsdialog.cpp" line="2183"/>
-        <location filename="../optionsdialog.cpp" line="2211"/>
-        <location filename="../optionsdialog.cpp" line="2702"/>
+        <location filename="../optionsdialog.cpp" line="1991"/>
+        <location filename="../optionsdialog.cpp" line="2033"/>
+        <location filename="../optionsdialog.cpp" line="2260"/>
+        <location filename="../optionsdialog.cpp" line="2288"/>
+        <location filename="../optionsdialog.cpp" line="2779"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1916"/>
+        <location filename="../optionsdialog.cpp" line="1992"/>
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
         <translation>Nie udało się stworzyć zaplanowanego zadania.
 Otwórz Snipaste jako administrator i spróbuj ponownie.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1958"/>
+        <location filename="../optionsdialog.cpp" line="2034"/>
         <source>Failed to create a shortcut in the startup directory.</source>
         <translation>Nie udało się stworzyć skrótu w folderze startup.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1981"/>
+        <location filename="../optionsdialog.cpp" line="2057"/>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>Uruchomić Snipaste jako administrator?</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2211"/>
+        <location filename="../optionsdialog.cpp" line="2288"/>
         <source>Cannot write into the config file.
 All settings will use defaults.</source>
         <translation>the config file nie jest dostępny.
 Używanie ustawień domyślnych.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2555"/>
+        <location filename="../optionsdialog.cpp" line="2632"/>
         <source>Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2557"/>
+        <location filename="../optionsdialog.cpp" line="2634"/>
         <source>Debug</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2559"/>
+        <location filename="../optionsdialog.cpp" line="2636"/>
         <source>Normal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2703"/>
+        <location filename="../optionsdialog.cpp" line="2638"/>
+        <source>Trace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../optionsdialog.cpp" line="2780"/>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
         <translation>Coś poszło nie tak ze skrótem w folderze uruchamiania.
 Uruchamianie przy stacie systemu zostało anulowane.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2504"/>
+        <location filename="../optionsdialog.cpp" line="2581"/>
         <source>No Proxy</source>
         <translation>Brak Proxy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2533"/>
+        <location filename="../optionsdialog.cpp" line="2609"/>
         <source>None</source>
         <translation>Brak</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2535"/>
+        <location filename="../optionsdialog.cpp" line="2611"/>
         <source>Copy to clipboard</source>
         <translation>Skopiuj do schowka</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2537"/>
+        <location filename="../optionsdialog.cpp" line="2613"/>
         <source>Pin to screen</source>
         <translation>Przypnij do ekranu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2539"/>
+        <location filename="../optionsdialog.cpp" line="2615"/>
         <source>Save to file</source>
         <translation>Zapisz do pliku</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2541"/>
+        <location filename="../optionsdialog.cpp" line="2617"/>
         <source>Quick save</source>
         <translation>Szybki zapis</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2506"/>
+        <location filename="../optionsdialog.cpp" line="2583"/>
         <source>System Proxy</source>
         <translation>Proxy systemu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1603"/>
+        <location filename="../optionsdialog.cpp" line="1679"/>
         <source>Portuguese (Brazil)</source>
         <translation>Portugalski (Brazylia)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2179"/>
+        <location filename="../optionsdialog.cpp" line="2256"/>
         <source>Failed to register shortcut:</source>
         <translation>Nie udało się zarejestrować skrótu:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2188"/>
+        <location filename="../optionsdialog.cpp" line="2265"/>
         <source>Snipaste is running</source>
         <translation>Snipaste jest uruchomiony</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2188"/>
+        <location filename="../optionsdialog.cpp" line="2265"/>
         <source>You can control it via the tray icon.</source>
         <translation>Możesz nim sterować przez ikonę w zasobniku.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2202"/>
+        <location filename="../optionsdialog.cpp" line="2279"/>
         <source>Snipaste has been updated to %1.</source>
         <translation>Snipaste został zaktualizowany do %1.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2203"/>
+        <location filename="../optionsdialog.cpp" line="2280"/>
         <source>Click here to see the changelog</source>
         <translation>Kliknij tu aby zobaczyć listę zmian</translation>
     </message>
@@ -895,7 +900,7 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
 <context>
     <name>PaintBar</name>
     <message>
-        <location filename="../paintbar.cpp" line="426"/>
+        <location filename="../paintbar.cpp" line="450"/>
         <source>Select Color</source>
         <translation>Wybierz kolor</translation>
     </message>
@@ -903,195 +908,200 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
 <context>
     <name>Paster</name>
     <message>
-        <location filename="../paster.cpp" line="495"/>
+        <location filename="../paster.cpp" line="505"/>
         <source>Load image</source>
         <translation>Wczytaj obrazek</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="496"/>
+        <location filename="../paster.cpp" line="506"/>
         <source>Images</source>
         <translation>Obrazy</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="498"/>
+        <location filename="../paster.cpp" line="508"/>
         <source>All files</source>
         <translation>Wszystkie pliki</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="547"/>
-        <location filename="../paster.cpp" line="820"/>
-        <location filename="../paster.cpp" line="3015"/>
+        <location filename="../paster.cpp" line="557"/>
+        <location filename="../paster.cpp" line="831"/>
+        <location filename="../paster.cpp" line="3054"/>
         <source>Speed</source>
         <translation>Prędkość</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="555"/>
-        <location filename="../paster.cpp" line="828"/>
+        <location filename="../paster.cpp" line="565"/>
+        <location filename="../paster.cpp" line="839"/>
         <source>Size</source>
         <translation>Rozmiar</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="565"/>
-        <location filename="../paster.cpp" line="811"/>
-        <location filename="../paster.cpp" line="3013"/>
+        <location filename="../paster.cpp" line="575"/>
+        <location filename="../paster.cpp" line="822"/>
+        <location filename="../paster.cpp" line="3052"/>
         <source>Opacity</source>
         <translation>Nieprzezroczystość</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2774"/>
+        <location filename="../paster.cpp" line="2804"/>
         <source>Play</source>
         <translation>Start</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2774"/>
+        <location filename="../paster.cpp" line="2804"/>
         <source>Pause</source>
         <translation>Pauza</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2785"/>
+        <location filename="../paster.cpp" line="2822"/>
         <source>Copy image</source>
         <translation>Kopiuj obrazek</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2789"/>
+        <location filename="../paster.cpp" line="2826"/>
         <source>Save image as...</source>
         <translation>Zapisz obaz jako...</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2797"/>
+        <location filename="../paster.cpp" line="2815"/>
         <source>Restore</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2808"/>
+        <location filename="../paster.cpp" line="2836"/>
         <source>Copy plain text</source>
         <translation>Skopiuj jako niesformatowany tekst</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2819"/>
+        <location filename="../paster.cpp" line="2847"/>
         <source>Copy HTML</source>
         <translation>Kopiuj HTML</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2833"/>
+        <location filename="../paster.cpp" line="2861"/>
         <source>Copy</source>
         <translation>Kopiuj</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2847"/>
+        <location filename="../paster.cpp" line="2875"/>
         <source>Edit</source>
         <translation>Edycja</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2856"/>
+        <location filename="../paster.cpp" line="2884"/>
         <source>Ignore format</source>
         <translation>Ignoruj formatowanie</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2866"/>
+        <location filename="../paster.cpp" line="2894"/>
         <source>Shadow</source>
         <translation>Cień</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2876"/>
-        <location filename="../paster.cpp" line="3018"/>
+        <location filename="../paster.cpp" line="2904"/>
+        <source>Stay on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../paster.cpp" line="2915"/>
+        <location filename="../paster.cpp" line="3057"/>
         <source>Zoom</source>
         <translation>Powiększenie</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2902"/>
+        <location filename="../paster.cpp" line="2941"/>
         <source>Current</source>
         <translation>Bieżący</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2905"/>
+        <location filename="../paster.cpp" line="2944"/>
         <source>Smoothing</source>
         <translation>Wygładzanie</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2915"/>
+        <location filename="../paster.cpp" line="2954"/>
         <source>Background mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2920"/>
+        <location filename="../paster.cpp" line="2959"/>
         <source>Transparent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2923"/>
+        <location filename="../paster.cpp" line="2962"/>
         <source>Dark checkerboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2924"/>
+        <location filename="../paster.cpp" line="2963"/>
         <source>Light checkerboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2946"/>
+        <location filename="../paster.cpp" line="2985"/>
         <source>Paste</source>
         <translation>Wklej</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2950"/>
+        <location filename="../paster.cpp" line="2989"/>
         <source>Replace by file...</source>
         <translation>Zamień plik...</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2961"/>
+        <location filename="../paster.cpp" line="3000"/>
         <source>Move to group</source>
         <translation>Przenieś do grupy</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2974"/>
+        <location filename="../paster.cpp" line="3013"/>
         <source>New group...</source>
         <translation>Nowa grupa...</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2983"/>
+        <location filename="../paster.cpp" line="3022"/>
         <source>View in folder</source>
         <translation>Pokaż w folderze</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2995"/>
+        <location filename="../paster.cpp" line="3034"/>
         <source>Close</source>
         <translation>Zamknij</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2999"/>
+        <location filename="../paster.cpp" line="3038"/>
         <source>Destroy</source>
         <translation>Zniszcz</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3012"/>
+        <location filename="../paster.cpp" line="3051"/>
         <source>Group</source>
         <translation>Grupa</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3019"/>
+        <location filename="../paster.cpp" line="3058"/>
         <source>Rotation</source>
         <translation>Obrót</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3020"/>
+        <location filename="../paster.cpp" line="3059"/>
         <source>X-mirror</source>
         <translation>Oś X</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3020"/>
-        <location filename="../paster.cpp" line="3021"/>
+        <location filename="../paster.cpp" line="3059"/>
+        <location filename="../paster.cpp" line="3060"/>
         <source>Yes</source>
         <translation>Tak</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3020"/>
-        <location filename="../paster.cpp" line="3021"/>
+        <location filename="../paster.cpp" line="3059"/>
+        <location filename="../paster.cpp" line="3060"/>
         <source>No</source>
         <translation>Nie</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3021"/>
+        <location filename="../paster.cpp" line="3060"/>
         <source>Y-mirror</source>
         <translation>Oś Y</translation>
     </message>
@@ -1112,242 +1122,242 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
         <translation>Brak dostępnych aktualizacji.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="457"/>
+        <location filename="../snipaste.cpp" line="492"/>
         <source>Invalid command line options.</source>
         <translation>Błędna opcja wiersza poleceń.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="515"/>
+        <location filename="../snipaste.cpp" line="550"/>
         <source>Snip</source>
         <translation>Przechwytywanie ekranu</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="521"/>
+        <location filename="../snipaste.cpp" line="556"/>
         <source>Snip and copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="525"/>
+        <location filename="../snipaste.cpp" line="560"/>
         <source>Delayed snip</source>
         <translation>Przechwytywanie ekranu odłożone w czasie</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="530"/>
+        <location filename="../snipaste.cpp" line="565"/>
         <source>Paste</source>
         <translation>Wklej</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="536"/>
-        <location filename="../snipaste.cpp" line="592"/>
-        <location filename="../snipaste.cpp" line="623"/>
+        <location filename="../snipaste.cpp" line="571"/>
+        <location filename="../snipaste.cpp" line="630"/>
+        <location filename="../snipaste.cpp" line="661"/>
         <source>Hide all images</source>
         <translation>Ukryj wszystkie obrazy</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="536"/>
-        <location filename="../snipaste.cpp" line="592"/>
+        <location filename="../snipaste.cpp" line="571"/>
+        <location filename="../snipaste.cpp" line="630"/>
         <source>Show all images</source>
         <translation>Pokaż wszystkie obrazy</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="545"/>
+        <location filename="../snipaste.cpp" line="580"/>
         <source>Clear snip records</source>
         <translation>Wyczyść zapisy przechwytywania ekranu</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="551"/>
-        <location filename="../snipaste.cpp" line="1293"/>
+        <location filename="../snipaste.cpp" line="586"/>
+        <location filename="../snipaste.cpp" line="1331"/>
         <source>Images</source>
         <translation>Obrazy</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="575"/>
-        <location filename="../snipaste.cpp" line="2489"/>
+        <location filename="../snipaste.cpp" line="611"/>
+        <location filename="../snipaste.cpp" line="2534"/>
         <source>Rename</source>
         <translation>Zmień nazwę</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="579"/>
+        <location filename="../snipaste.cpp" line="616"/>
         <source>Close</source>
         <translation>Zamknij</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="598"/>
+        <location filename="../snipaste.cpp" line="636"/>
         <source>Import group...</source>
         <translation>Importuj grupę...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="600"/>
+        <location filename="../snipaste.cpp" line="638"/>
         <source>Import image group</source>
         <translation>Importuj grupę obrazów</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="610"/>
+        <location filename="../snipaste.cpp" line="648"/>
         <source>Remove empty groups</source>
         <translation>Usuń puste grupy</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="614"/>
+        <location filename="../snipaste.cpp" line="652"/>
         <source>Create new group...</source>
         <translation>Stwórz nową grupę...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="623"/>
+        <location filename="../snipaste.cpp" line="661"/>
         <source>Show images</source>
         <translation>Pokaż obrazy</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="632"/>
+        <location filename="../snipaste.cpp" line="670"/>
         <source>Preferences...</source>
         <translation>Ustawienia...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="646"/>
+        <location filename="../snipaste.cpp" line="684"/>
         <source>Checking for updates...</source>
         <translation>Sprawdzanie aktualizacji...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="652"/>
+        <location filename="../snipaste.cpp" line="690"/>
         <source>Update now...</source>
         <translation>Aktualizuj teraz....</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="653"/>
+        <location filename="../snipaste.cpp" line="691"/>
         <source>Check for updates...</source>
         <translation>Sprawdź aktualizacje...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="638"/>
+        <location filename="../snipaste.cpp" line="676"/>
         <source>Help</source>
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="678"/>
+        <location filename="../snipaste.cpp" line="716"/>
         <source>Restart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="681"/>
+        <location filename="../snipaste.cpp" line="719"/>
         <source>Quit</source>
         <translation>Zamknij</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="457"/>
-        <location filename="../snipaste.cpp" line="2850"/>
-        <location filename="../snipaste.cpp" line="2862"/>
-        <location filename="../snipaste.cpp" line="2920"/>
+        <location filename="../snipaste.cpp" line="492"/>
+        <location filename="../snipaste.cpp" line="2895"/>
+        <location filename="../snipaste.cpp" line="2907"/>
+        <location filename="../snipaste.cpp" line="2965"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="540"/>
+        <location filename="../snipaste.cpp" line="575"/>
         <source>Cancel mouse click-through</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2851"/>
+        <location filename="../snipaste.cpp" line="2896"/>
         <source>%1 is not set!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2863"/>
+        <location filename="../snipaste.cpp" line="2908"/>
         <source>The file name pattern is not valid!</source>
         <translation>Wzór nazwy plików nie jest prawidłowy!</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2908"/>
+        <location filename="../snipaste.cpp" line="2953"/>
         <source>Success</source>
         <translation>Sukces</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2909"/>
+        <location filename="../snipaste.cpp" line="2954"/>
         <source>Image saved to</source>
         <translation>Obraz zapisany do</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2921"/>
+        <location filename="../snipaste.cpp" line="2966"/>
         <source>Failed to save the image to</source>
         <translation>Nie udało zapisać się obrazu do</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="1340"/>
+        <location filename="../snipaste.cpp" line="1378"/>
         <source>is already running.</source>
         <translation>już jest uruchomiony.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="1388"/>
+        <location filename="../snipaste.cpp" line="1426"/>
         <source>Save image as</source>
         <translation>Zapisz obraz jako</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="1425"/>
+        <location filename="../snipaste.cpp" line="1463"/>
         <source>Failed to save the image!</source>
         <translation>Nie udało się zapisać obrazka!</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2083"/>
+        <location filename="../snipaste.cpp" line="2126"/>
         <source>Snipaste %1 is released!
 Click here to update now</source>
         <translation>Snipaste %1 jest dostępny!
 Kliknij tu aby zaktualizować</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2293"/>
-        <location filename="../snipaste.cpp" line="2308"/>
-        <location filename="../snipaste.cpp" line="2321"/>
+        <location filename="../snipaste.cpp" line="2338"/>
+        <location filename="../snipaste.cpp" line="2353"/>
+        <location filename="../snipaste.cpp" line="2366"/>
         <source>Fail to import group.</source>
         <translation>Nie udało się zaimportować obrazu.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2293"/>
+        <location filename="../snipaste.cpp" line="2338"/>
         <source>File %1 not found.</source>
         <translation>Plik %1 nie został znaleziony.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2308"/>
-        <location filename="../snipaste.cpp" line="2321"/>
+        <location filename="../snipaste.cpp" line="2353"/>
+        <location filename="../snipaste.cpp" line="2366"/>
         <source>Error Code</source>
         <translation>Kod błędu</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2327"/>
+        <location filename="../snipaste.cpp" line="2372"/>
         <source>This group already exists.</source>
         <translation>Taka grupa już istnieje.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2335"/>
+        <location filename="../snipaste.cpp" line="2380"/>
         <source>Imported Group</source>
         <translation>Zaimportowano grupę</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2359"/>
+        <location filename="../snipaste.cpp" line="2404"/>
         <source>Import successful</source>
         <translation>Pomyślnie zaimportowano</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2360"/>
+        <location filename="../snipaste.cpp" line="2405"/>
         <source>Rename the imported group:</source>
         <translation>Zmień nazwę zaimportowanej grupy:</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2361"/>
+        <location filename="../snipaste.cpp" line="2406"/>
         <source>Switch to the imported group</source>
         <translation>Przełącz do zaimportowanej grupy</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2490"/>
+        <location filename="../snipaste.cpp" line="2535"/>
         <source>New group name:</source>
         <translation>Nowa nazwa grupy:</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2513"/>
+        <location filename="../snipaste.cpp" line="2558"/>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
         <translation>Czy jesteś pewien, że chcesz zamknąć &quot;%1&quot;? Ta akcja nie może zostać cofnięta.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2529"/>
-        <location filename="../snipaste.cpp" line="2549"/>
-        <location filename="../snipaste.cpp" line="2811"/>
+        <location filename="../snipaste.cpp" line="2574"/>
+        <location filename="../snipaste.cpp" line="2594"/>
+        <location filename="../snipaste.cpp" line="2856"/>
         <source>Default</source>
         <translation>Domyślne</translation>
     </message>
@@ -1355,12 +1365,12 @@ Kliknij tu aby zaktualizować</translation>
 <context>
     <name>Snipper</name>
     <message>
-        <location filename="../snipper.cpp" line="659"/>
+        <location filename="../snipper.cpp" line="665"/>
         <source>Delay time (1.0-10.0):</source>
         <translation>Czas odstępu (1.0-10.0):</translation>
     </message>
     <message>
-        <location filename="../snipper.cpp" line="660"/>
+        <location filename="../snipper.cpp" line="666"/>
         <source>s</source>
         <translation>s</translation>
     </message>
@@ -1514,7 +1524,7 @@ Kliknij tu aby zaktualizować</translation>
         <translation>Jako administrator</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3593"/>
+        <location filename="../optionsdialog.ui" line="3587"/>
         <source>Check for updates on startup</source>
         <translation>Wyszukaj aktualizacji po uruchomieniu</translation>
     </message>
@@ -1561,277 +1571,277 @@ Kliknij tu aby zaktualizować</translation>
         <translation>Kopiuj bez &quot;#&quot;</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="313"/>
+        <location filename="../optionsdialog.ui" line="307"/>
         <source>Interface</source>
         <translation>Interfejs</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="319"/>
+        <location filename="../optionsdialog.ui" line="313"/>
         <source>Language:</source>
         <translation>Język:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="334"/>
+        <location filename="../optionsdialog.ui" line="328"/>
         <source>The interface language of Snipaste</source>
         <translation>Język interfejsu Snipaste</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="359"/>
+        <location filename="../optionsdialog.ui" line="353"/>
         <source>Interface font:</source>
         <translation>Czcionka interfejsu:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="390"/>
+        <location filename="../optionsdialog.ui" line="384"/>
         <source>Theme color:</source>
         <translation>Kolor motywu:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="399"/>
+        <location filename="../optionsdialog.ui" line="393"/>
         <source>The theme color of Snipaste</source>
         <translation>Kolor motywu Snipaste</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="427"/>
+        <location filename="../optionsdialog.ui" line="421"/>
         <source>Tray icon:</source>
         <translation>Ikona w zasobniku:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="436"/>
+        <location filename="../optionsdialog.ui" line="430"/>
         <source>Use default tray icon.</source>
         <translation>Używaj domyślnej ikony zasobnika.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="439"/>
+        <location filename="../optionsdialog.ui" line="433"/>
         <source>Default</source>
         <translation>Domyślny</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="446"/>
+        <location filename="../optionsdialog.ui" line="440"/>
         <source>Use tray icon with custom color.</source>
         <translation>Używaj ikony zasobnika z dowolnym kolorem.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="456"/>
+        <location filename="../optionsdialog.ui" line="450"/>
         <source>Set the color for the tray icon.</source>
         <translation>Ustaw kolor ikony zasobnika.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="459"/>
+        <location filename="../optionsdialog.ui" line="453"/>
         <source>Custom</source>
         <translation>Własny</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="537"/>
-        <location filename="../optionsdialog.ui" line="883"/>
-        <location filename="../optionsdialog.ui" line="1465"/>
-        <location filename="../optionsdialog.ui" line="1759"/>
-        <location filename="../optionsdialog.ui" line="2228"/>
-        <location filename="../optionsdialog.ui" line="2697"/>
-        <location filename="../optionsdialog.ui" line="3057"/>
-        <location filename="../optionsdialog.ui" line="3530"/>
-        <location filename="../optionsdialog.ui" line="3920"/>
+        <location filename="../optionsdialog.ui" line="531"/>
+        <location filename="../optionsdialog.ui" line="877"/>
+        <location filename="../optionsdialog.ui" line="1459"/>
+        <location filename="../optionsdialog.ui" line="1753"/>
+        <location filename="../optionsdialog.ui" line="2222"/>
+        <location filename="../optionsdialog.ui" line="2691"/>
+        <location filename="../optionsdialog.ui" line="3051"/>
+        <location filename="../optionsdialog.ui" line="3524"/>
+        <location filename="../optionsdialog.ui" line="3914"/>
         <source>Restore all settings on this page to their default states.</source>
         <translation>Przywróc wszystkie ustawienia na tej stronie do ich domyślnych wartości.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="540"/>
-        <location filename="../optionsdialog.ui" line="886"/>
-        <location filename="../optionsdialog.ui" line="1468"/>
-        <location filename="../optionsdialog.ui" line="1762"/>
-        <location filename="../optionsdialog.ui" line="2231"/>
-        <location filename="../optionsdialog.ui" line="2700"/>
-        <location filename="../optionsdialog.ui" line="3060"/>
-        <location filename="../optionsdialog.ui" line="3533"/>
-        <location filename="../optionsdialog.ui" line="3923"/>
+        <location filename="../optionsdialog.ui" line="534"/>
+        <location filename="../optionsdialog.ui" line="880"/>
+        <location filename="../optionsdialog.ui" line="1462"/>
+        <location filename="../optionsdialog.ui" line="1756"/>
+        <location filename="../optionsdialog.ui" line="2225"/>
+        <location filename="../optionsdialog.ui" line="2694"/>
+        <location filename="../optionsdialog.ui" line="3054"/>
+        <location filename="../optionsdialog.ui" line="3527"/>
+        <location filename="../optionsdialog.ui" line="3917"/>
         <source>Restore Defaults</source>
         <translation>Przywróć domyślne</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="553"/>
+        <location filename="../optionsdialog.ui" line="547"/>
         <source>Snip</source>
         <translation>Przechwytywanie</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="566"/>
-        <location filename="../optionsdialog.ui" line="1498"/>
+        <location filename="../optionsdialog.ui" line="560"/>
+        <location filename="../optionsdialog.ui" line="1492"/>
         <source>Display</source>
         <translation>Wyświetlacz</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="899"/>
-        <location filename="../optionsdialog.ui" line="1779"/>
+        <location filename="../optionsdialog.ui" line="893"/>
+        <location filename="../optionsdialog.ui" line="1773"/>
         <source>Behavior</source>
         <translation>Zachowanie</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="907"/>
+        <location filename="../optionsdialog.ui" line="901"/>
         <source>Auto detect the regions of windows when snipping.</source>
         <translation>Automatycznie wykrywaj obszary okien przy przechwytywaniu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="910"/>
+        <location filename="../optionsdialog.ui" line="904"/>
         <source>Auto detect windows</source>
         <translation>Automatycznie wykrywaj okna</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="917"/>
+        <location filename="../optionsdialog.ui" line="911"/>
         <source>Hide the 1x1 region indicator before you decide the snipping region.</source>
         <translation>Ukrywaj obszary 1x1 przed wybraniem obszaru przechwytywania.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="920"/>
+        <location filename="../optionsdialog.ui" line="914"/>
         <source>Hide 1x1</source>
         <translation>Ukryj 1x1</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="947"/>
+        <location filename="../optionsdialog.ui" line="941"/>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
         <translation>Automatycznie wykrywaj regiony elementów UI (np. przycisków i menu) podczas przechwytywania.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="950"/>
+        <location filename="../optionsdialog.ui" line="944"/>
         <source>Auto detect UI elements</source>
         <translation>Automatycznie wykrywaj elementy interfejsu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3179"/>
+        <location filename="../optionsdialog.ui" line="3173"/>
         <source>The shortcut to hide/show all image windows</source>
         <translation>Skrót do ukrycia/pokazania wszystkich obrazów</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3195"/>
+        <location filename="../optionsdialog.ui" line="3189"/>
         <source>Switch to another image group:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3211"/>
+        <location filename="../optionsdialog.ui" line="3205"/>
         <source>The shortcut to switch to another image group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3260"/>
+        <location filename="../optionsdialog.ui" line="3254"/>
         <source>Delayed snip:</source>
         <translation>Przechwytywanie ekranu odłożone w czasie:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3276"/>
+        <location filename="../optionsdialog.ui" line="3270"/>
         <source>The shortcut to delayed snip</source>
         <translation>Skrót do opóźnionego przechwytywania ekranu </translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3546"/>
+        <location filename="../optionsdialog.ui" line="3540"/>
         <source>Update</source>
         <translation>Aktualizacja</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3623"/>
+        <location filename="../optionsdialog.ui" line="3617"/>
         <source>Delay:</source>
         <translation>Odstęp:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3640"/>
+        <location filename="../optionsdialog.ui" line="3634"/>
         <source>s</source>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3684"/>
+        <location filename="../optionsdialog.ui" line="3678"/>
         <source>Every</source>
         <translation>Każde</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3694"/>
+        <location filename="../optionsdialog.ui" line="3688"/>
         <source>h</source>
         <translation>h</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3163"/>
+        <location filename="../optionsdialog.ui" line="3157"/>
         <source>Hide/Show all images:</source>
         <translation>Ukryj/Pokaż wszystkie obrazy:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3227"/>
+        <location filename="../optionsdialog.ui" line="3221"/>
         <source>Cancel mouse click-through:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3243"/>
+        <location filename="../optionsdialog.ui" line="3237"/>
         <source>The shortcut to cancel the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3563"/>
+        <location filename="../optionsdialog.ui" line="3557"/>
         <source>Include beta builds</source>
         <translation>Zawieraj wersje beta</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3720"/>
+        <location filename="../optionsdialog.ui" line="3714"/>
         <source>Proxy</source>
         <translation>Proxy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3726"/>
+        <location filename="../optionsdialog.ui" line="3720"/>
         <source>Proxy type:</source>
         <translation>Typ proxy:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3753"/>
+        <location filename="../optionsdialog.ui" line="3747"/>
         <source>Server:</source>
         <translation>Serwer:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3796"/>
+        <location filename="../optionsdialog.ui" line="3790"/>
         <source>Proxy server requires password</source>
         <translation>Serwer proxy wymaga hasła</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3818"/>
+        <location filename="../optionsdialog.ui" line="3812"/>
         <source>Username:</source>
         <translation>Nazwa użytkownika:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3845"/>
+        <location filename="../optionsdialog.ui" line="3839"/>
         <source>Password:</source>
         <translation>Hasło:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="4031"/>
+        <location filename="../optionsdialog.ui" line="4025"/>
         <source>Licenses</source>
         <translation>Licencje</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="779"/>
+        <location filename="../optionsdialog.ui" line="773"/>
         <source>Show the mask in the magnifier.</source>
         <translation>Pokazuj maskę w lupie.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="789"/>
+        <location filename="../optionsdialog.ui" line="783"/>
         <source>Show the border of the snipping area in the magnifier.</source>
         <translation>Pokaż granicę obszaru przechwytywania w trybie lupy.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="993"/>
+        <location filename="../optionsdialog.ui" line="987"/>
         <source>Capture the cursor by default.</source>
         <translation>Przechwytuj kursor domyślnie.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="996"/>
+        <location filename="../optionsdialog.ui" line="990"/>
         <source>Capture the cursor</source>
         <translation>Przechwytuj kursor</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="827"/>
+        <location filename="../optionsdialog.ui" line="821"/>
         <source>Automatically show the fullscreen cross lines every time you start snipping.</source>
         <translation>Automatycznie pokazuj pełnoekranowe, przecinające się linie przy każdym przechwytywaniu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="830"/>
+        <location filename="../optionsdialog.ui" line="824"/>
         <source>Auto show cross lines</source>
         <translation>Pokazuj przecinające się linie</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1036"/>
-        <location filename="../optionsdialog.ui" line="2041"/>
+        <location filename="../optionsdialog.ui" line="1030"/>
+        <location filename="../optionsdialog.ui" line="2035"/>
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
@@ -1840,224 +1850,224 @@ wklejanie obrazu do niektórych aplikacji np. Syke.
 Kanał alpha obrazu jest utracony.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1041"/>
-        <location filename="../optionsdialog.ui" line="2046"/>
+        <location filename="../optionsdialog.ui" line="1035"/>
+        <location filename="../optionsdialog.ui" line="2040"/>
         <source>Copy as Windows Bitmap</source>
         <translation>Kopiuj jako bitmapę</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1065"/>
+        <location filename="../optionsdialog.ui" line="1059"/>
         <source>Click the mid-button to pin the screenshot to the screen.</source>
         <translation>Kliknij środkowym przyciskiem myszy aby przypiąć zrzut ekranu do ekranu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1068"/>
+        <location filename="../optionsdialog.ui" line="1062"/>
         <source>Pin to screen by clicking the mid-button</source>
         <translation>Przypnij do ekranu środkowym przyciskiem myszy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1092"/>
+        <location filename="../optionsdialog.ui" line="1086"/>
         <source>Quit snipping if any window of other programs is activated.</source>
         <translation>Anuluj przechwytywanie, jeżeli inne okno jest aktywowane.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1095"/>
+        <location filename="../optionsdialog.ui" line="1089"/>
         <source>Quit snipping if any other window is activated</source>
         <translation>Anuluj przechwytywanie, jeżeli inne okno jest aktywowane</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1186"/>
+        <location filename="../optionsdialog.ui" line="1180"/>
         <source>Ignore Win key:</source>
         <translation>Ignoruj klawisz Windows:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1193"/>
+        <location filename="../optionsdialog.ui" line="1187"/>
         <source>Ignore the left Windows key when snipping.</source>
         <translation>Ignoruj lewy klawisz Windows w czasie przechwytywania.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1196"/>
+        <location filename="../optionsdialog.ui" line="1190"/>
         <source>Left</source>
         <translation>Lewy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1203"/>
+        <location filename="../optionsdialog.ui" line="1197"/>
         <source>Ignore the right Windows key when snipping.</source>
         <translation>Ignoruj prawy klawisz Windows w czasie przechwytywania.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1206"/>
+        <location filename="../optionsdialog.ui" line="1200"/>
         <source>Right</source>
         <translation>Prawy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="635"/>
+        <location filename="../optionsdialog.ui" line="629"/>
         <source>Mask color:</source>
         <translation>Kolor maski:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="645"/>
-        <location filename="../optionsdialog.ui" line="725"/>
+        <location filename="../optionsdialog.ui" line="639"/>
+        <location filename="../optionsdialog.ui" line="719"/>
         <source>The mask color of snipping</source>
         <translation>Kolor maski przechwytywania</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="593"/>
+        <location filename="../optionsdialog.ui" line="587"/>
         <source>Border width:</source>
         <translation>Szerokość granicy:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="603"/>
+        <location filename="../optionsdialog.ui" line="597"/>
         <source>Set the width of the border around the snipping area.</source>
         <translation>Ustaw szerokość granicy dookoła obszaru przechwytywania.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="610"/>
-        <location filename="../optionsdialog.ui" line="2376"/>
-        <location filename="../optionsdialog.ui" line="2441"/>
+        <location filename="../optionsdialog.ui" line="604"/>
+        <location filename="../optionsdialog.ui" line="2370"/>
+        <location filename="../optionsdialog.ui" line="2435"/>
         <source>px</source>
         <translation>px</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1260"/>
-        <location filename="../optionsdialog.ui" line="1324"/>
+        <location filename="../optionsdialog.ui" line="1254"/>
+        <location filename="../optionsdialog.ui" line="1318"/>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
         <translation>Ustaw maksymalną ilość zrzutów, które są przechowywane w historii.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1347"/>
+        <location filename="../optionsdialog.ui" line="1341"/>
         <source>Sound Effect</source>
         <translation>Efekt dźwiękowy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1355"/>
+        <location filename="../optionsdialog.ui" line="1349"/>
         <source>Sound file:</source>
         <translation>Plik dźwięku:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1369"/>
+        <location filename="../optionsdialog.ui" line="1363"/>
         <source>Play</source>
         <translation>Start</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1383"/>
+        <location filename="../optionsdialog.ui" line="1377"/>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
         <translation>Zagraj efekt dźwiękowy kiedy zrzut ekranu jest zapisywany do schowka.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1386"/>
+        <location filename="../optionsdialog.ui" line="1380"/>
         <source>Clipboard</source>
         <translation>Schowek</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1393"/>
+        <location filename="../optionsdialog.ui" line="1387"/>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
         <translation>Zagraj efekt dźwiękowy kiedy zrzut ekranu jest zapisywany z użyciem szybkiego zapisu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1396"/>
-        <location filename="../optionsdialog.ui" line="2854"/>
+        <location filename="../optionsdialog.ui" line="1390"/>
+        <location filename="../optionsdialog.ui" line="2848"/>
         <source>Quick Save</source>
         <translation>Szybki zapis</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1416"/>
+        <location filename="../optionsdialog.ui" line="1410"/>
         <source>Pick a sound file (.wav).</source>
         <translation>Wybierz plik dźwiękowy (.wav).</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1419"/>
-        <location filename="../optionsdialog.ui" line="2922"/>
-        <location filename="../optionsdialog.ui" line="3011"/>
+        <location filename="../optionsdialog.ui" line="1413"/>
+        <location filename="../optionsdialog.ui" line="2916"/>
+        <location filename="../optionsdialog.ui" line="3005"/>
         <source>Change</source>
         <translation>Zmień</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1485"/>
+        <location filename="../optionsdialog.ui" line="1479"/>
         <source>Paste</source>
         <translation>Wklej</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1787"/>
+        <location filename="../optionsdialog.ui" line="1781"/>
         <source>Backup the states of the image windows so that they can be recovered the next time you open Snipaste.</source>
         <translation>Zrób kopię zapasową obrazów, aby mogły zostać przywrócone przy następnym otworzeniu Snipaste.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1790"/>
+        <location filename="../optionsdialog.ui" line="1784"/>
         <source>Auto backup</source>
         <translation>Kopia zapasowa</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1817"/>
+        <location filename="../optionsdialog.ui" line="1811"/>
         <source>If the source is a screenshot, show it where you snipped. 
 If disabled, it would always be shown at the center of the primary screen.</source>
         <translation>Jeżeli źródłem jest zrzut ekrnau, pokaż go w miejscu zrobienia zrzutu.
 Jeżeli wyłączone, zawsze będzie pokazany na środku domyślnego ekranu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1821"/>
+        <location filename="../optionsdialog.ui" line="1815"/>
         <source>Use snipping position</source>
         <translation>Używaj pozycji zrzutu ekranu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1845"/>
+        <location filename="../optionsdialog.ui" line="1839"/>
         <source>Zoom by mouse wheel</source>
         <translation>Przybliżaj kołem myszy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1551"/>
+        <location filename="../optionsdialog.ui" line="1545"/>
         <source>Enable hotkeys on the context menu of image windows.</source>
         <translation>Włącz klawisze skrótu menu kontekstowego na oknie obrazu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1554"/>
+        <location filename="../optionsdialog.ui" line="1548"/>
         <source>Mnemonics on the context menu</source>
         <translation>Mnemonika na menu kontekstowym</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1905"/>
+        <location filename="../optionsdialog.ui" line="1899"/>
         <source>Let new images use smooth scaling when zooming.
 You can also find this option in the context menu of individual image window.</source>
         <translation>Obrazy będą użyały gładkiego skalowania przy przybliżaniu.
 Możesz znaleźć tą opcję w menu kontekstowym każdego okna obrazu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1909"/>
+        <location filename="../optionsdialog.ui" line="1903"/>
         <source>Smooth scaling</source>
         <translation>Gładkie skalowanie</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1960"/>
+        <location filename="../optionsdialog.ui" line="1954"/>
         <source>Let the image window be translucent if its border is flashing.</source>
         <translation>Okno obrazu będzie przezroczyste jeżeli obramowanie błyszczy.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1963"/>
+        <location filename="../optionsdialog.ui" line="1957"/>
         <source>Translucent when flashing</source>
         <translation>Przezroczyste w trakcie błysku</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1987"/>
+        <location filename="../optionsdialog.ui" line="1981"/>
         <source>Flash the image windows after you have switched to another image group.</source>
         <translation>Błysk okna obrazu po przełączeniu na inną grupę obrazów.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1990"/>
+        <location filename="../optionsdialog.ui" line="1984"/>
         <source>Flash after switching to another group</source>
         <translation>Błysk po przełączeniu na inną grupę</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2014"/>
+        <location filename="../optionsdialog.ui" line="2008"/>
         <source>When you paste, automatically hide all image windows, if any image window is currently flashing.</source>
         <translation>Po wklejeniu, automatycznie ukryj wszystkie okna obrazu, jeżeli właśnie błysczy.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2017"/>
+        <location filename="../optionsdialog.ui" line="2011"/>
         <source>Hide all images if you paste when any image is flashing</source>
         <translation>Ukryj wszystkie okna obrazu po wklejeniu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2309"/>
+        <location filename="../optionsdialog.ui" line="2303"/>
         <source>If you copy an image file, the first paste will show the image, the second paste will show the file path.
 If you copy a non-image file, a paste will immediately show the file path.
 If this option is checked, the above features will be disabled.</source>
@@ -2066,54 +2076,54 @@ Jeżeli kopiujesz inny plik niż obraz, kopia będzie od razu pokazywała ście�
 Jeżeli ta opcja jest zaznaczona, powyższe ustawienia zostaną wyłączone.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2314"/>
+        <location filename="../optionsdialog.ui" line="2308"/>
         <source>Never paste file paths</source>
         <translation>Nie wklejaj ścieżek plików</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1509"/>
+        <location filename="../optionsdialog.ui" line="1503"/>
         <source>Let new image windows have shadows. 
 You can also find this option in the context menu of individual image window.</source>
         <translation>Okna obrazów będą miały cienie.
 Tą opcję znajdziesz także w menu kontekstowym indywidualnego okna obrazu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1516"/>
+        <location filename="../optionsdialog.ui" line="1510"/>
         <source>Window shadow</source>
         <translation>Cień okna</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1523"/>
+        <location filename="../optionsdialog.ui" line="1517"/>
         <source>Set the color of the window shadow.</source>
         <translation>Ustaw kolor cienia okna.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2100"/>
+        <location filename="../optionsdialog.ui" line="2094"/>
         <source>When a new image is pasted:</source>
         <translation>Kiedy nowy obraz zostanie wklejony:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2107"/>
+        <location filename="../optionsdialog.ui" line="2101"/>
         <source>Let the border of a new image window flash.</source>
         <translation>Obramowanie nowego obrazu będzie błyszczało.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2110"/>
+        <location filename="../optionsdialog.ui" line="2104"/>
         <source>Flash</source>
         <translation>Błysk</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2117"/>
+        <location filename="../optionsdialog.ui" line="2111"/>
         <source>Let the new image window gain keyboard focus.</source>
         <translation>Nowe okno obrazu będzie zaznaczone.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2120"/>
+        <location filename="../optionsdialog.ui" line="2114"/>
         <source>Activate</source>
         <translation>Aktywacja</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1582"/>
+        <location filename="../optionsdialog.ui" line="1576"/>
         <source>Default opacity:</source>
         <translation>Domyślny poziom nieprzezroczystości:</translation>
     </message>
@@ -2128,256 +2138,256 @@ Tą opcję znajdziesz także w menu kontekstowym indywidualnego okna obrazu.</tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="287"/>
+        <location filename="../optionsdialog.ui" line="281"/>
         <source>Open log file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="505"/>
+        <location filename="../optionsdialog.ui" line="499"/>
         <source>Hover over an option to see its detailed explanation.</source>
         <translation>Najedź na opcję aby zobaczyć jej szczegółowe wytłumaczenie.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="672"/>
+        <location filename="../optionsdialog.ui" line="666"/>
         <source>Show anchors around the snipping area.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="675"/>
+        <location filename="../optionsdialog.ui" line="669"/>
         <source>Show anchors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="718"/>
+        <location filename="../optionsdialog.ui" line="712"/>
         <source>Anchors&apos; border color:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="772"/>
+        <location filename="../optionsdialog.ui" line="766"/>
         <source>In the magnifier, show:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="782"/>
+        <location filename="../optionsdialog.ui" line="776"/>
         <source>mask</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="792"/>
+        <location filename="../optionsdialog.ui" line="786"/>
         <source>border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="799"/>
+        <location filename="../optionsdialog.ui" line="793"/>
         <source>Show the anchors in the magnifier.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="802"/>
+        <location filename="../optionsdialog.ui" line="796"/>
         <source>anchors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="957"/>
+        <location filename="../optionsdialog.ui" line="951"/>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1003"/>
+        <location filename="../optionsdialog.ui" line="997"/>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1119"/>
+        <location filename="../optionsdialog.ui" line="1113"/>
         <source>&apos;Enter&apos; key action:</source>
         <translation>Akcja klawisza Enter:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1126"/>
+        <location filename="../optionsdialog.ui" line="1120"/>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
         <translation>Co zrobić po wciśnięciu Enter po przechwytywaniu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1133"/>
+        <location filename="../optionsdialog.ui" line="1127"/>
         <source>then</source>
         <translation>później</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1140"/>
+        <location filename="../optionsdialog.ui" line="1134"/>
         <source>quit snipping</source>
         <translation>wyjdź z przechwytywania</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1250"/>
+        <location filename="../optionsdialog.ui" line="1244"/>
         <source>Max number of history areas:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1270"/>
+        <location filename="../optionsdialog.ui" line="1264"/>
         <source>Loop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1314"/>
+        <location filename="../optionsdialog.ui" line="1308"/>
         <source>Max number of history records:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1592"/>
+        <location filename="../optionsdialog.ui" line="1586"/>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
         <translation>Ustaw nowy poziom nieprzezroczystości nowego okna obrazu.
 Zakres: 10 - 100</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1647"/>
+        <location filename="../optionsdialog.ui" line="1641"/>
         <source>Thumbnail size:</source>
         <translation>Rozmiar miniatury:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1869"/>
+        <location filename="../optionsdialog.ui" line="1863"/>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>Jeżeli nie zaznaczone, przybliż do lewego górnego rogu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1872"/>
+        <location filename="../optionsdialog.ui" line="1866"/>
         <source>at mouse cursor</source>
         <translation>na kursor myszy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1879"/>
+        <location filename="../optionsdialog.ui" line="1873"/>
         <source>This may cause flickers.</source>
         <translation>To może powodować  mruganie.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1933"/>
+        <location filename="../optionsdialog.ui" line="1927"/>
         <source>Let the &apos;reset&apos; operation work on thumbnail too.</source>
         <translation>Pozwól opcji Reset działać na miniaturach.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="1936"/>
+        <location filename="../optionsdialog.ui" line="1930"/>
         <source>Reset on thumbnail</source>
         <translation>Resetuj miniatury</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2070"/>
+        <location filename="../optionsdialog.ui" line="2064"/>
         <source>If not checked, the original window will be automatically hidden for drag-and-drop.</source>
         <translation>Jeśli nie jest zaznaczone, oryginalne okno zostanie automatycznie ukryte przy przeciąganiu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2073"/>
+        <location filename="../optionsdialog.ui" line="2067"/>
         <source>Preserve the original window for drag-and-drop</source>
         <translation>Pozostaw oryginalne okno przy przeciąganiu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2163"/>
+        <location filename="../optionsdialog.ui" line="2157"/>
         <source>Max recoverable closed images:</source>
         <translation>Maksymalna ilość przywróconych okien:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2173"/>
+        <location filename="../optionsdialog.ui" line="2167"/>
         <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Zamknięte okno obazu może zostać przywrócona jeżeli liczba zamkniętych obrazów nie przekracza limitu.
 Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2244"/>
+        <location filename="../optionsdialog.ui" line="2238"/>
         <source>Conversion</source>
         <translation>Konwersja</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2250"/>
+        <location filename="../optionsdialog.ui" line="2244"/>
         <source>Text to Image</source>
         <translation>Tekst na obrazek</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2282"/>
+        <location filename="../optionsdialog.ui" line="2276"/>
         <source>Always treat text as plain text when converting text to image.</source>
         <translation>Zawsze traktuj tekst jako niesformatowany przy konwertowaniu na obraz.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2285"/>
+        <location filename="../optionsdialog.ui" line="2279"/>
         <source>Always ignore HTML formats</source>
         <translation>Ignoruj format HTML</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2347"/>
+        <location filename="../optionsdialog.ui" line="2341"/>
         <source>Page margin:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2360"/>
+        <location filename="../optionsdialog.ui" line="2354"/>
         <source>The blank space around the text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2412"/>
+        <location filename="../optionsdialog.ui" line="2406"/>
         <source>Max width:</source>
         <translation>Maksymalna szerokość:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2425"/>
+        <location filename="../optionsdialog.ui" line="2419"/>
         <source>The max width of the image converted from text</source>
         <translation>Maksymalna szerokość obrazu konwertowanego z tekstu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2477"/>
+        <location filename="../optionsdialog.ui" line="2471"/>
         <source>Font:</source>
         <translation>Czcionka:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2486"/>
+        <location filename="../optionsdialog.ui" line="2480"/>
         <source>The font used for plain text conversion</source>
         <translation>Czcionka używana do konwersji na tekst niesformatowany</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2511"/>
+        <location filename="../optionsdialog.ui" line="2505"/>
         <source>Colors:</source>
         <translation>Kolory:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2520"/>
+        <location filename="../optionsdialog.ui" line="2514"/>
         <source>The background color used for plain text conversion</source>
         <translation>Kolor tła używany do konwersji na tekst niesformatowany</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2523"/>
+        <location filename="../optionsdialog.ui" line="2517"/>
         <source>Background</source>
         <translation>Tło</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2533"/>
+        <location filename="../optionsdialog.ui" line="2527"/>
         <source>The text color used for plain text conversion</source>
         <translation>Kolor tekstu używany dla konwersji na tekst niesformatowany</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2536"/>
+        <location filename="../optionsdialog.ui" line="2530"/>
         <source>Text</source>
         <translation>Tekst</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2616"/>
+        <location filename="../optionsdialog.ui" line="2610"/>
         <source>Text-to-image conversion preview</source>
         <translation>Podgląd konwersji tekstu na obraz</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2717"/>
+        <location filename="../optionsdialog.ui" line="2711"/>
         <source>Output</source>
         <translation>Wyjście</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2744"/>
+        <location filename="../optionsdialog.ui" line="2738"/>
         <source>Image quality:</source>
         <translation>Jakość obrazu:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2754"/>
+        <location filename="../optionsdialog.ui" line="2748"/>
         <source>Set the default output image quality.</source>
         <translation>Ustaw domyślną jakość obrazu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2764"/>
+        <location filename="../optionsdialog.ui" line="2758"/>
         <source>Range: 0 to 100 or -1.
 Specify 0 to obtain small compressed files, 100 for large uncompressed files.
 Specify -1 to let Snipaste decide for you.</source>
@@ -2386,176 +2396,176 @@ Ustaw 0 aby otrzymać małe, skompresowane pliki, 100 dla dużych nieskompresowa
 Ustawienie -1 pozwoli Snipaste ustawić odpowiednią jakość.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2798"/>
+        <location filename="../optionsdialog.ui" line="2792"/>
         <source>File Name</source>
         <translation>Nazwa pliku</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2807"/>
+        <location filename="../optionsdialog.ui" line="2801"/>
         <source>Pattern:</source>
         <translation>Wzór:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2817"/>
+        <location filename="../optionsdialog.ui" line="2811"/>
         <source>Preview:</source>
         <translation>Podgląd:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2834"/>
+        <location filename="../optionsdialog.ui" line="2828"/>
         <source>Grammar:</source>
         <translation>Gramatyka:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2862"/>
-        <location filename="../optionsdialog.ui" line="2948"/>
+        <location filename="../optionsdialog.ui" line="2856"/>
+        <location filename="../optionsdialog.ui" line="2942"/>
         <source>Folder:</source>
         <translation>Folder:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2906"/>
+        <location filename="../optionsdialog.ui" line="2900"/>
         <source>Browse the quick save folder.</source>
         <translation>Przeglądaj folder szybkiego zapisu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2909"/>
-        <location filename="../optionsdialog.ui" line="2998"/>
+        <location filename="../optionsdialog.ui" line="2903"/>
+        <location filename="../optionsdialog.ui" line="2992"/>
         <source>Open</source>
         <translation>Otwórz</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2919"/>
+        <location filename="../optionsdialog.ui" line="2913"/>
         <source>Change the quick save folder.</source>
         <translation>Zmień folder szybkiego zapisu.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2937"/>
+        <location filename="../optionsdialog.ui" line="2931"/>
         <source>Auto Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2966"/>
+        <location filename="../optionsdialog.ui" line="2960"/>
         <source>Automatically save every screenshot will be saved to this folder.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="2995"/>
+        <location filename="../optionsdialog.ui" line="2989"/>
         <source>Browse the auto save folder.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3008"/>
+        <location filename="../optionsdialog.ui" line="3002"/>
         <source>Change the auto save folder.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3073"/>
+        <location filename="../optionsdialog.ui" line="3067"/>
         <source>Hotkey</source>
         <translation>Klawisz skrótu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3079"/>
+        <location filename="../optionsdialog.ui" line="3073"/>
         <source>Global Hotkeys</source>
         <translation>Globalne klawisze skrótu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3099"/>
+        <location filename="../optionsdialog.ui" line="3093"/>
         <source>Snip:</source>
         <translation>Przechwytywanie:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3115"/>
+        <location filename="../optionsdialog.ui" line="3109"/>
         <source>The shortcut to snip</source>
         <translation>Skrót klawiszowy przechwytywania ekranu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3131"/>
+        <location filename="../optionsdialog.ui" line="3125"/>
         <source>Paste:</source>
         <translation>Wklej:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3147"/>
+        <location filename="../optionsdialog.ui" line="3141"/>
         <source>The shortcut to paste the clipboard content as an image window</source>
         <translation>Skrót klawiszowy wklejania zawartości schowka jako okna obrazu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3292"/>
+        <location filename="../optionsdialog.ui" line="3286"/>
         <source>Snip and copy:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3308"/>
+        <location filename="../optionsdialog.ui" line="3302"/>
         <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3332"/>
+        <location filename="../optionsdialog.ui" line="3326"/>
         <source>* Press Backspace to clear</source>
         <translation>* Wciśnij Backspace aby wyczyścić</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3347"/>
+        <location filename="../optionsdialog.ui" line="3341"/>
         <source>Image Operations</source>
         <translation>Operacje na obrazach</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3355"/>
+        <location filename="../optionsdialog.ui" line="3349"/>
         <source>Close image:</source>
         <translation>Zamknij obraz:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3389"/>
+        <location filename="../optionsdialog.ui" line="3383"/>
         <source>Reset image:</source>
         <translation>Resetuj obraz:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3423"/>
+        <location filename="../optionsdialog.ui" line="3417"/>
         <source>Toggle thumbnail:</source>
         <translation>Przełącz miniaturę:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3474"/>
+        <location filename="../optionsdialog.ui" line="3468"/>
         <source>* If conflicted, the upper operation will be matched</source>
         <translation>* Jeżeli powstanie konflikt, powyższa operacja zostanie wykonana</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3507"/>
+        <location filename="../optionsdialog.ui" line="3501"/>
         <source>Key Bindings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3560"/>
+        <location filename="../optionsdialog.ui" line="3554"/>
         <source>Be the first to test new features of Snipaste!</source>
         <translation>Bądź pierwszy aby testować nowe możliwości Snipaste!</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3570"/>
+        <location filename="../optionsdialog.ui" line="3564"/>
         <source>Beta versions may contain more bugs.
 Please report to the developer if you find any.</source>
         <translation>Wersje beta mogą zawierać więcej błędów.
 Zgłoś je jeżeli jakieś znajdziesz.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3936"/>
+        <location filename="../optionsdialog.ui" line="3930"/>
         <source>About</source>
         <translation>O programie</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="4005"/>
+        <location filename="../optionsdialog.ui" line="3999"/>
         <source>Version</source>
         <translation>Wersja</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="3897"/>
+        <location filename="../optionsdialog.ui" line="3891"/>
         <source>Check for updates</source>
         <translation>Sprawdź dostępność aktualizacji</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="4028"/>
+        <location filename="../optionsdialog.ui" line="4022"/>
         <source>Open source softwares used in Snipaste</source>
         <translation>Licencje open source użyte w Snipaste</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.ui" line="4134"/>
+        <location filename="../optionsdialog.ui" line="4128"/>
         <source>Contact:</source>
         <translation>Kontakt:</translation>
     </message>

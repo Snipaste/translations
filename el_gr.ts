@@ -705,6 +705,10 @@ Startup on boot has been cancelled.</source>
         <source>Normal</source>
         <translation>Κανονικό</translation>
     </message>
+    <message>
+        <source>Trace</source>
+        <translation>Ανίχνευση</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -863,6 +867,10 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Light checkerboard</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Stay on top</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

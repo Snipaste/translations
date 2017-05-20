@@ -704,6 +704,10 @@ Autostart vid systemstart har avbrutits.</translation>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
+    <message>
+        <source>Trace</source>
+        <translation>Spåra</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -861,6 +865,10 @@ Autostart vid systemstart har avbrutits.</translation>
     <message>
         <source>Light checkerboard</source>
         <translation>Ljust schackbräde</translation>
+    </message>
+    <message>
+        <source>Stay on top</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

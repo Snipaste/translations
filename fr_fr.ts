@@ -704,6 +704,10 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
+    <message>
+        <source>Trace</source>
+        <translation>Trace</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -861,6 +865,10 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     <message>
         <source>Light checkerboard</source>
         <translation>Damier léger</translation>
+    </message>
+    <message>
+        <source>Stay on top</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

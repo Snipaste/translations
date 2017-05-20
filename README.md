@@ -26,7 +26,7 @@ Tip: You may open multiple .ts files of different languages (such as `zh_cn.ts` 
 
 </details>
 
-##### 
+#####
 Note: Each language has two .ts files.
 For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh_cn.ts`.
 * `qt_zh_cn.ts` contains strings from Qt's source code and only needs to be translated once.
@@ -46,18 +46,18 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 
 | Language              | Code  | Status      | Contributors |
 | --------------------- | ----- | ----------- | ------------ |
-| Chinese (Simplified)  | zh_cn | **v1.13.1** | [liulex](https://github.com/liulex) |
-| Chinese (Traditional) | zh_tw | **v1.13.1** | [zhtw](http://greedphantom.blogspot.tw) |
-| German                | de_de | **v1.13.1** | [Samuel Marcius](http://www.fontenvironment.com) |
-| Greek                 | el_gr | **v1.13.1** | [geogeo.gr](http://www.geogeo.gr) |
-| Swedish               | sv    | **v1.13.1** | [Åke Engelbrektson](https://svenskasprakfiler.se) |
-| Japanese              | ja_jp | **v1.13.1** | 鳳凰院カミ |
-| Portuguese (Brazil)   | pt_br | **v1.13.1** | Igor Rückert |
+| Chinese (Simplified)  | zh_cn | **v1.13.2** | [liulex](https://github.com/liulex) |
+| Chinese (Traditional) | zh_tw | **v1.13.2** | [zhtw](http://greedphantom.blogspot.tw) |
+| German                | de_de | **v1.13.2** | [Samuel Marcius](http://www.fontenvironment.com) |
+| Greek                 | el_gr | **v1.13.2** | [geogeo.gr](http://www.geogeo.gr) |
+| Swedish               | sv    | **v1.13.2** | [Åke Engelbrektson](https://svenskasprakfiler.se) |
+| Japanese              | ja_jp | **v1.13.2** | 鳳凰院カミ |
+| Portuguese (Brazil)   | pt_br | **v1.13.2** | Igor Rückert |
 | Polish                | pl_pl | _v1.11.3_   | [Wirus deleted my username](https://github.com/Wirus-deleted-my-username) |
-| Dutch                 | nl_nl | **v1.13.1** | Stephan Paternotte |
-| Portuguese (Portugal) | pt_pt | **v1.13.1** | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
+| Dutch                 | nl_nl | **v1.13.2** | Stephan Paternotte |
+| Portuguese (Portugal) | pt_pt | **v1.13.2** | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
 | Vietnamese            | vi_vn | _v1.11.3_   | [evildeepblue](mailto:it4u.mm@gmail.com) |
-| French                | fr_fr | **v1.13.1** | rico-sos |
+| French                | fr_fr | **v1.13.2** | rico-sos |
 
 ## Contact
 

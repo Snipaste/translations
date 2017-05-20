@@ -700,6 +700,10 @@ Startup on boot has been cancelled.</source>
         <source>Normal</source>
         <translation>ノーマル</translation>
     </message>
+    <message>
+        <source>Trace</source>
+        <translation>トレース</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -857,6 +861,10 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Light checkerboard</source>
         <translation>ライトチェッカーボード</translation>
+    </message>
+    <message>
+        <source>Stay on top</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
