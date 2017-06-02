@@ -46,7 +46,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 
 | Language              | Code  | Status      | Contributors |
 | --------------------- | ----- | ----------- | ------------ |
-| Chinese (Simplified)  | zh_cn | **v1.13.2** | [liulex](https://github.com/liulex) |
+| Chinese (Simplified)  | zh_cn | **v1.13.3** | [liulex](https://github.com/liulex) |
 | Chinese (Traditional) | zh_tw | **v1.13.2** | [zhtw](http://greedphantom.blogspot.tw) |
 | German                | de_de | **v1.13.2** | [Samuel Marcius](http://www.fontenvironment.com) |
 | Greek                 | el_gr | **v1.13.2** | [geogeo.gr](http://www.geogeo.gr) |

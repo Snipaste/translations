@@ -870,6 +870,14 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
         <source>Stay on top</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">Sélectionner Couleur</translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1066,6 +1074,10 @@ Cliquez ici pour mettre à jour maintenant</translation>
         <source>Snip and copy</source>
         <translation>capturer et copier</translation>
     </message>
+    <message>
+        <source>Manage groups</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1114,6 +1126,17 @@ Cliquez ici pour mettre à jour maintenant</translation>
     <message>
         <source>Cancel</source>
         <translation>Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>groupmanager</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
     </message>
 </context>
 <context>

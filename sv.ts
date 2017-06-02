@@ -870,6 +870,14 @@ Autostart vid systemstart har avbrutits.</translation>
         <source>Stay on top</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">Välj färg</translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1066,6 +1074,10 @@ Klicka här för att uppdatera nu</translation>
         <source>Snip and copy</source>
         <translation>Klipp och kopiera</translation>
     </message>
+    <message>
+        <source>Manage groups</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1114,6 +1126,17 @@ Klicka här för att uppdatera nu</translation>
     <message>
         <source>Cancel</source>
         <translation>Avbryt</translation>
+    </message>
+</context>
+<context>
+    <name>groupmanager</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Avbryt</translation>
     </message>
 </context>
 <context>

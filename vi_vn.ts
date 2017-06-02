@@ -480,415 +480,415 @@ Please contact the developer.</source>
         <translation>Kiểm tra cập nhật</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1493"/>
+        <location filename="../optionsdialog.cpp" line="1494"/>
         <source>-bit</source>
         <translation>-bit</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="859"/>
+        <location filename="../optionsdialog.cpp" line="860"/>
         <source>Select Color</source>
         <translation>Chọn màu sắc</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="940"/>
+        <location filename="../optionsdialog.cpp" line="941"/>
         <source>Select Font</source>
         <translation>Chọn kiểu chữ</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="975"/>
+        <location filename="../optionsdialog.cpp" line="976"/>
         <source>Set Directory</source>
         <translation>Thiết lập thư mục</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="979"/>
+        <location filename="../optionsdialog.cpp" line="980"/>
         <source>Pick File</source>
         <translation>Chọn tập tin</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1205"/>
+        <location filename="../optionsdialog.cpp" line="1206"/>
         <source>Snip hotkey</source>
         <translation>Snip hotkey</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1207"/>
+        <location filename="../optionsdialog.cpp" line="1208"/>
         <source>Paste hotkey</source>
         <translation>Dán hotkey</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1485"/>
+        <location filename="../optionsdialog.cpp" line="1486"/>
         <source>For XP</source>
         <translation>Cho XP</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1439"/>
+        <location filename="../optionsdialog.cpp" line="1440"/>
         <source>Preview</source>
         <translation>xem trước</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1501"/>
+        <location filename="../optionsdialog.cpp" line="1502"/>
         <source>Copyright</source>
         <translation>Bản quyền</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1605"/>
+        <location filename="../optionsdialog.cpp" line="1606"/>
         <source>Donate</source>
         <translation>Ủng hộ</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1620"/>
+        <location filename="../optionsdialog.cpp" line="1621"/>
         <source>Home Page</source>
         <translation>Trang chủ</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1622"/>
+        <location filename="../optionsdialog.cpp" line="1623"/>
         <source>Documentation</source>
         <translation>Tài liệu</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1624"/>
+        <location filename="../optionsdialog.cpp" line="1625"/>
         <source>Feedback</source>
         <translation>Phản hồi</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1626"/>
+        <location filename="../optionsdialog.cpp" line="1627"/>
         <source>Follow</source>
         <translation>Theo dõi</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1629"/>
+        <location filename="../optionsdialog.cpp" line="1630"/>
         <source>Weibo</source>
         <translation>Weibo</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1667"/>
+        <location filename="../optionsdialog.cpp" line="1668"/>
         <source>Simplified Chinese</source>
         <translation>Tiếng hoa giản thể</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1669"/>
+        <location filename="../optionsdialog.cpp" line="1670"/>
         <source>Traditional Chinese</source>
         <translation>Tiếng hoa phồn thể</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1671"/>
+        <location filename="../optionsdialog.cpp" line="1672"/>
         <source>German</source>
         <translation>Tiếng Đức</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1673"/>
+        <location filename="../optionsdialog.cpp" line="1674"/>
         <source>Greek</source>
         <translation>Tiếng Hy Lạp</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1675"/>
+        <location filename="../optionsdialog.cpp" line="1676"/>
         <source>Swedish</source>
         <translation>Tiếng Thụy Điển</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1677"/>
+        <location filename="../optionsdialog.cpp" line="1678"/>
         <source>Japanese</source>
         <translation>Tiếng Nhật</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1681"/>
+        <location filename="../optionsdialog.cpp" line="1682"/>
         <source>Polish</source>
         <translation>Tiếng Ba Lan</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1683"/>
+        <location filename="../optionsdialog.cpp" line="1684"/>
         <source>Dutch</source>
         <translation>Tiếng Hà Lan</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1685"/>
+        <location filename="../optionsdialog.cpp" line="1686"/>
         <source>Portuguese (Portugal)</source>
         <translation>Portuguese(Portugal)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1687"/>
+        <location filename="../optionsdialog.cpp" line="1688"/>
         <source>Vietnamese</source>
         <translation>Tiếng Việt</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1689"/>
+        <location filename="../optionsdialog.cpp" line="1690"/>
         <source>French</source>
         <translation>Tiếng Pháp</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1720"/>
+        <location filename="../optionsdialog.cpp" line="1721"/>
         <source>Support</source>
         <translation>Ủng hộ</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1724"/>
+        <location filename="../optionsdialog.cpp" line="1725"/>
         <source>Icons</source>
         <translation>Icons</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1722"/>
+        <location filename="../optionsdialog.cpp" line="1723"/>
         <source>Translators</source>
         <translation>Người dịch</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1726"/>
+        <location filename="../optionsdialog.cpp" line="1727"/>
         <source>Contributors</source>
         <translation>
 Những người cộng tác</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1779"/>
+        <location filename="../optionsdialog.cpp" line="1780"/>
         <source>Day (1-31)</source>
         <translation>Ngày ( 1-31)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1781"/>
+        <location filename="../optionsdialog.cpp" line="1782"/>
         <source>Day (01-31)</source>
         <translation>Ngày (01-31)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1783"/>
+        <location filename="../optionsdialog.cpp" line="1784"/>
         <source>Localized day name (abbr.)</source>
         <translation>Khoanh vùng tên ngày (abbr)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1785"/>
+        <location filename="../optionsdialog.cpp" line="1786"/>
         <source>Localized day name</source>
         <translation>Khoanh vùng tên ngày</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1787"/>
+        <location filename="../optionsdialog.cpp" line="1788"/>
         <source>Month (1-12)</source>
         <translation>Tháng(1-12)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1789"/>
+        <location filename="../optionsdialog.cpp" line="1790"/>
         <source>Month (01-12)</source>
         <translation>Tháng(01-12)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1791"/>
+        <location filename="../optionsdialog.cpp" line="1792"/>
         <source>Localized month name (abbr.)</source>
         <translation>Khoanh vùng tên tháng(abbr)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1793"/>
+        <location filename="../optionsdialog.cpp" line="1794"/>
         <source>Localized month name</source>
         <translation>Khoanh vùng tên tháng</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1795"/>
+        <location filename="../optionsdialog.cpp" line="1796"/>
         <source>Year (2-digit)</source>
         <translation>Năm (2-digit)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1797"/>
+        <location filename="../optionsdialog.cpp" line="1798"/>
         <source>Year (4-digit)</source>
         <translation>Năm(4-digit)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1805"/>
+        <location filename="../optionsdialog.cpp" line="1806"/>
         <source>Hour (0-23)</source>
         <translation>Giờ(0-23)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1808"/>
+        <location filename="../optionsdialog.cpp" line="1809"/>
         <source>Hour (00-23)</source>
         <translation>Giờ(00-23)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1810"/>
+        <location filename="../optionsdialog.cpp" line="1811"/>
         <source>Minute (0-59)</source>
         <translation>Phút(00-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1812"/>
+        <location filename="../optionsdialog.cpp" line="1813"/>
         <source>Minute (00-59)</source>
         <translation>Phút(00-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1814"/>
+        <location filename="../optionsdialog.cpp" line="1815"/>
         <source>Second (0-59)</source>
         <translation>Giây(0-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1816"/>
+        <location filename="../optionsdialog.cpp" line="1817"/>
         <source>Second (00-59)</source>
         <translation>Giây(0-59)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1818"/>
+        <location filename="../optionsdialog.cpp" line="1819"/>
         <source>Milliseconds (0-999)</source>
         <translation>Một phần nghìn giây(0-999)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1820"/>
+        <location filename="../optionsdialog.cpp" line="1821"/>
         <source>Milliseconds (000-999)</source>
         <translation>Một phần nghìn giây(000-999</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1822"/>
+        <location filename="../optionsdialog.cpp" line="1823"/>
         <source>Timezone</source>
         <translation>Múi giờ</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1840"/>
+        <location filename="../optionsdialog.cpp" line="1841"/>
         <source>Operation system</source>
         <translation>Hoạt động hệ thống</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1842"/>
+        <location filename="../optionsdialog.cpp" line="1843"/>
         <source>Computer name</source>
         <translation>Tên máy tính</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1844"/>
+        <location filename="../optionsdialog.cpp" line="1845"/>
         <source>User name</source>
         <translation>Tên người dùng</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1880"/>
+        <location filename="../optionsdialog.cpp" line="1881"/>
         <source>Allowed suffixes</source>
         <translation>Cho phép hậu tố</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1882"/>
+        <location filename="../optionsdialog.cpp" line="1883"/>
         <source>Illegal characters</source>
         <translation>Những ký tự không được phép dùng</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1884"/>
+        <location filename="../optionsdialog.cpp" line="1885"/>
         <source>Environment variables</source>
         <translation>Môi trường biến thiên</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1887"/>
+        <location filename="../optionsdialog.cpp" line="1888"/>
         <source>Dates and times</source>
         <translation>Ngày và giờ</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1985"/>
+        <location filename="../optionsdialog.cpp" line="1986"/>
         <source>Run Snipaste admin privileges.</source>
         <translation>Chạy đặc quyền quản trị Snipaste.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1991"/>
-        <location filename="../optionsdialog.cpp" line="2033"/>
-        <location filename="../optionsdialog.cpp" line="2260"/>
-        <location filename="../optionsdialog.cpp" line="2288"/>
-        <location filename="../optionsdialog.cpp" line="2779"/>
+        <location filename="../optionsdialog.cpp" line="1992"/>
+        <location filename="../optionsdialog.cpp" line="2034"/>
+        <location filename="../optionsdialog.cpp" line="2261"/>
+        <location filename="../optionsdialog.cpp" line="2289"/>
+        <location filename="../optionsdialog.cpp" line="2780"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1992"/>
+        <location filename="../optionsdialog.cpp" line="1993"/>
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
         <translation>Tạo bản liệt kê nhiệm vụ thất bại. Bản có thể thử khởi động lại Snipaste với đặc quyền quản trị.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2034"/>
+        <location filename="../optionsdialog.cpp" line="2035"/>
         <source>Failed to create a shortcut in the startup directory.</source>
         <translation>Tạo một đường tắt trong thư mục khởi động thất bại.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2057"/>
+        <location filename="../optionsdialog.cpp" line="2058"/>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>Khởi động lại Snipast với đặc quyền quản trị ?</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2256"/>
+        <location filename="../optionsdialog.cpp" line="2257"/>
         <source>Failed to register shortcut:</source>
         <translation>Đăng ký shortcut thất bại:</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2265"/>
+        <location filename="../optionsdialog.cpp" line="2266"/>
         <source>Snipaste is running</source>
         <translation>Snipaste đang chạy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2265"/>
+        <location filename="../optionsdialog.cpp" line="2266"/>
         <source>You can control it via the tray icon.</source>
         <translation>Bạn có thể kiểm soát nó thông qua khay biểu tượng.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2279"/>
+        <location filename="../optionsdialog.cpp" line="2280"/>
         <source>Snipaste has been updated to %1.</source>
         <translation>Snipaste đã được cập nhật %1.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2280"/>
+        <location filename="../optionsdialog.cpp" line="2281"/>
         <source>Click here to see the changelog</source>
         <translation>Nhấp ở đây để xem changelog </translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2288"/>
+        <location filename="../optionsdialog.cpp" line="2289"/>
         <source>Cannot write into the config file.
 All settings will use defaults.</source>
         <translation>Bạn không thể viết vào cấu hình ini.Tất cả cài đặt sẽ sử dụng mặc định.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2632"/>
+        <location filename="../optionsdialog.cpp" line="2633"/>
         <source>Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2634"/>
+        <location filename="../optionsdialog.cpp" line="2635"/>
         <source>Debug</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2636"/>
+        <location filename="../optionsdialog.cpp" line="2637"/>
         <source>Normal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2638"/>
+        <location filename="../optionsdialog.cpp" line="2639"/>
         <source>Trace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2780"/>
+        <location filename="../optionsdialog.cpp" line="2781"/>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
         <translation>Một cái gì đó đã đi sai với đường tắt khởi động. Khởi động trong boot đã bị hủy.</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2581"/>
+        <location filename="../optionsdialog.cpp" line="2582"/>
         <source>No Proxy</source>
         <translation>Không Proxy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="1679"/>
+        <location filename="../optionsdialog.cpp" line="1680"/>
         <source>Portuguese (Brazil)</source>
         <translation>Portuguese (Brazil)</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2583"/>
+        <location filename="../optionsdialog.cpp" line="2584"/>
         <source>System Proxy</source>
         <translation>Hệ thống Proxy</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2609"/>
+        <location filename="../optionsdialog.cpp" line="2610"/>
         <source>None</source>
         <translation>Không</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2611"/>
+        <location filename="../optionsdialog.cpp" line="2612"/>
         <source>Copy to clipboard</source>
         <translation>Sao chép đên bảng ghi tạm</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2613"/>
+        <location filename="../optionsdialog.cpp" line="2614"/>
         <source>Pin to screen</source>
         <translation>gắn đến màn hình</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2615"/>
+        <location filename="../optionsdialog.cpp" line="2616"/>
         <source>Save to file</source>
         <translation>Lưu tập tin</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="2617"/>
+        <location filename="../optionsdialog.cpp" line="2618"/>
         <source>Quick save</source>
         <translation>Lưu nhanh</translation>
     </message>
@@ -921,7 +921,7 @@ Startup on boot has been cancelled.</source>
     <message>
         <location filename="../paster.cpp" line="557"/>
         <location filename="../paster.cpp" line="831"/>
-        <location filename="../paster.cpp" line="3054"/>
+        <location filename="../paster.cpp" line="3081"/>
         <source>Speed</source>
         <translation>Nhanh</translation>
     </message>
@@ -934,170 +934,180 @@ Startup on boot has been cancelled.</source>
     <message>
         <location filename="../paster.cpp" line="575"/>
         <location filename="../paster.cpp" line="822"/>
-        <location filename="../paster.cpp" line="3052"/>
+        <location filename="../paster.cpp" line="3079"/>
         <source>Opacity</source>
         <translation>Chắn sáng</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2804"/>
+        <location filename="../paster.cpp" line="2812"/>
         <source>Play</source>
         <translation>Tiếp tục</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2804"/>
+        <location filename="../paster.cpp" line="2812"/>
         <source>Pause</source>
         <translation>Tạm dừng</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2822"/>
+        <location filename="../paster.cpp" line="2830"/>
         <source>Copy image</source>
         <translation>Sao chép hình ảnh</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2826"/>
+        <location filename="../paster.cpp" line="2834"/>
         <source>Save image as...</source>
         <translation>Lưu ảnh như...</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2815"/>
+        <location filename="../paster.cpp" line="2823"/>
         <source>Restore</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2836"/>
+        <location filename="../paster.cpp" line="2844"/>
         <source>Copy plain text</source>
         <translation>Sao chép đoạn văn ngắn</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2847"/>
+        <location filename="../paster.cpp" line="2855"/>
         <source>Copy HTML</source>
         <translation>Sao chép HTML</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2861"/>
+        <location filename="../paster.cpp" line="2867"/>
+        <source>Edit color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../paster.cpp" line="2872"/>
+        <source>Select Color</source>
+        <translation type="unfinished">Chọn màu sắc</translation>
+    </message>
+    <message>
+        <location filename="../paster.cpp" line="2888"/>
         <source>Copy</source>
         <translation>Sao chép</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2875"/>
+        <location filename="../paster.cpp" line="2902"/>
         <source>Edit</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2884"/>
+        <location filename="../paster.cpp" line="2911"/>
         <source>Ignore format</source>
         <translation>Bỏ qua dạng mẫu </translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2894"/>
+        <location filename="../paster.cpp" line="2921"/>
         <source>Shadow</source>
         <translation>Bóng</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2904"/>
+        <location filename="../paster.cpp" line="2931"/>
         <source>Stay on top</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2915"/>
-        <location filename="../paster.cpp" line="3057"/>
+        <location filename="../paster.cpp" line="2942"/>
+        <location filename="../paster.cpp" line="3084"/>
         <source>Zoom</source>
         <translation>Phóng to</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2941"/>
+        <location filename="../paster.cpp" line="2968"/>
         <source>Current</source>
         <translation>Dòng hiện hành</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2944"/>
+        <location filename="../paster.cpp" line="2971"/>
         <source>Smoothing</source>
         <translation>Làm nhẵn</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2954"/>
+        <location filename="../paster.cpp" line="2981"/>
         <source>Background mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2959"/>
+        <location filename="../paster.cpp" line="2986"/>
         <source>Transparent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2962"/>
+        <location filename="../paster.cpp" line="2989"/>
         <source>Dark checkerboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2963"/>
+        <location filename="../paster.cpp" line="2990"/>
         <source>Light checkerboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2985"/>
+        <location filename="../paster.cpp" line="3012"/>
         <source>Paste</source>
         <translation>Dán</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="2989"/>
+        <location filename="../paster.cpp" line="3016"/>
         <source>Replace by file...</source>
         <translation>Thay thế bởi tập tin...</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3000"/>
+        <location filename="../paster.cpp" line="3027"/>
         <source>Move to group</source>
         <translation>Chuyển đến nhóm</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3013"/>
+        <location filename="../paster.cpp" line="3040"/>
         <source>New group...</source>
         <translation>Nhóm mới...</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3022"/>
+        <location filename="../paster.cpp" line="3049"/>
         <source>View in folder</source>
         <translation>Xem trong thư mục</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3034"/>
+        <location filename="../paster.cpp" line="3061"/>
         <source>Close</source>
         <translation>Đóng</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3038"/>
+        <location filename="../paster.cpp" line="3065"/>
         <source>Destroy</source>
         <translation>Phá bỏ</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3051"/>
+        <location filename="../paster.cpp" line="3078"/>
         <source>Group</source>
         <translation>Nhóm</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3058"/>
+        <location filename="../paster.cpp" line="3085"/>
         <source>Rotation</source>
         <translation>Sự quay</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3059"/>
+        <location filename="../paster.cpp" line="3086"/>
         <source>X-mirror</source>
         <translation>X- đối xứng</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3059"/>
-        <location filename="../paster.cpp" line="3060"/>
+        <location filename="../paster.cpp" line="3086"/>
+        <location filename="../paster.cpp" line="3087"/>
         <source>Yes</source>
         <translation>Đồng ý</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3059"/>
-        <location filename="../paster.cpp" line="3060"/>
+        <location filename="../paster.cpp" line="3086"/>
+        <location filename="../paster.cpp" line="3087"/>
         <source>No</source>
         <translation>Không</translation>
     </message>
     <message>
-        <location filename="../paster.cpp" line="3060"/>
+        <location filename="../paster.cpp" line="3087"/>
         <source>Y-mirror</source>
         <translation>Y- đối xứng</translation>
     </message>
@@ -1113,246 +1123,252 @@ Startup on boot has been cancelled.</source>
 <context>
     <name>Snipaste</name>
     <message>
-        <location filename="../snipaste.cpp" line="243"/>
+        <location filename="../snipaste.cpp" line="255"/>
         <source>No update available.</source>
         <translation>Bản cập nhật không có sẵn.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="492"/>
-        <location filename="../snipaste.cpp" line="2895"/>
-        <location filename="../snipaste.cpp" line="2907"/>
-        <location filename="../snipaste.cpp" line="2965"/>
+        <location filename="../snipaste.cpp" line="305"/>
+        <location filename="../snipaste.cpp" line="740"/>
+        <source>Manage groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../snipaste.cpp" line="597"/>
+        <location filename="../snipaste.cpp" line="3023"/>
+        <location filename="../snipaste.cpp" line="3035"/>
+        <location filename="../snipaste.cpp" line="3093"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="492"/>
+        <location filename="../snipaste.cpp" line="597"/>
         <source>Invalid command line options.</source>
         <translation>Tùy chọn dòng lệnh không hợp lệ.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="550"/>
+        <location filename="../snipaste.cpp" line="655"/>
         <source>Snip</source>
         <translation>Snip</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="556"/>
+        <location filename="../snipaste.cpp" line="661"/>
         <source>Snip and copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="560"/>
+        <location filename="../snipaste.cpp" line="665"/>
         <source>Delayed snip</source>
         <translation>Tạm dừng snip</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="565"/>
+        <location filename="../snipaste.cpp" line="670"/>
         <source>Paste</source>
         <translation>Dán</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="571"/>
-        <location filename="../snipaste.cpp" line="630"/>
-        <location filename="../snipaste.cpp" line="661"/>
+        <location filename="../snipaste.cpp" line="676"/>
+        <location filename="../snipaste.cpp" line="735"/>
+        <location filename="../snipaste.cpp" line="770"/>
         <source>Hide all images</source>
         <translation>Ẩn tất cả ảnh</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="571"/>
-        <location filename="../snipaste.cpp" line="630"/>
+        <location filename="../snipaste.cpp" line="676"/>
+        <location filename="../snipaste.cpp" line="735"/>
         <source>Show all images</source>
         <translation>Hiện thị tất cả ảnh</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="575"/>
+        <location filename="../snipaste.cpp" line="680"/>
         <source>Cancel mouse click-through</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="580"/>
+        <location filename="../snipaste.cpp" line="685"/>
         <source>Clear snip records</source>
         <translation>xóa snip đã lưu</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="586"/>
-        <location filename="../snipaste.cpp" line="1331"/>
+        <location filename="../snipaste.cpp" line="691"/>
+        <location filename="../snipaste.cpp" line="1460"/>
         <source>Images</source>
         <translation>Hình ảnh</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="611"/>
-        <location filename="../snipaste.cpp" line="2534"/>
+        <location filename="../snipaste.cpp" line="716"/>
+        <location filename="../snipaste.cpp" line="2664"/>
         <source>Rename</source>
         <translation>Đổi tên</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="616"/>
+        <location filename="../snipaste.cpp" line="721"/>
         <source>Close</source>
         <translation>Đóng</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="636"/>
+        <location filename="../snipaste.cpp" line="746"/>
         <source>Import group...</source>
         <translation>Thêm nhóm...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="638"/>
+        <location filename="../snipaste.cpp" line="748"/>
         <source>Import image group</source>
         <translation>Thêm hình ảnh vào nhóm</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="648"/>
+        <location filename="../snipaste.cpp" line="757"/>
         <source>Remove empty groups</source>
         <translation>Di chuyển nhóm trống</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="652"/>
+        <location filename="../snipaste.cpp" line="761"/>
         <source>Create new group...</source>
         <translation>Tạo nhóm mới...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="661"/>
+        <location filename="../snipaste.cpp" line="770"/>
         <source>Show images</source>
         <translation>Hiện hình ảnh</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="670"/>
+        <location filename="../snipaste.cpp" line="779"/>
         <source>Preferences...</source>
         <translation>Sở thích...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="684"/>
+        <location filename="../snipaste.cpp" line="793"/>
         <source>Checking for updates...</source>
         <translation>Đang kiểm tra cập nhật...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="690"/>
+        <location filename="../snipaste.cpp" line="799"/>
         <source>Update now...</source>
         <translation>Cập nhật bây giờ...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="691"/>
+        <location filename="../snipaste.cpp" line="800"/>
         <source>Check for updates...</source>
         <translation>Kiểm tra cập nhật...</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="676"/>
+        <location filename="../snipaste.cpp" line="785"/>
         <source>Help</source>
         <translation>Giúp đỡ</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="716"/>
+        <location filename="../snipaste.cpp" line="825"/>
         <source>Restart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="719"/>
+        <location filename="../snipaste.cpp" line="828"/>
         <source>Quit</source>
         <translation>Thoát</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2896"/>
+        <location filename="../snipaste.cpp" line="3024"/>
         <source>%1 is not set!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2908"/>
+        <location filename="../snipaste.cpp" line="3036"/>
         <source>The file name pattern is not valid!</source>
         <translation>Mẫu tên tập tin không hợp lệ!</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2953"/>
+        <location filename="../snipaste.cpp" line="3081"/>
         <source>Success</source>
         <translation>Thành công</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2954"/>
+        <location filename="../snipaste.cpp" line="3082"/>
         <source>Image saved to</source>
         <translation>Hình ảnh đã được lưu đến</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2966"/>
+        <location filename="../snipaste.cpp" line="3094"/>
         <source>Failed to save the image to</source>
         <translation>Lưu hình ảnh thất bại</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="1378"/>
+        <location filename="../snipaste.cpp" line="1507"/>
         <source>is already running.</source>
         <translation>Đang chạy.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="1426"/>
+        <location filename="../snipaste.cpp" line="1555"/>
         <source>Save image as</source>
         <translation>Lưu hình ảnh tại</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="1463"/>
+        <location filename="../snipaste.cpp" line="1592"/>
         <source>Failed to save the image!</source>
         <translation>Lưu hình ảnh thất bại!</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2126"/>
+        <location filename="../snipaste.cpp" line="2260"/>
         <source>Snipaste %1 is released!
 Click here to update now</source>
         <translation>Snipaste %1 được hoạt động. Nhắp ở đây để cập nhật ngay bây giờ</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2338"/>
-        <location filename="../snipaste.cpp" line="2353"/>
-        <location filename="../snipaste.cpp" line="2366"/>
+        <location filename="../snipaste.cpp" line="2470"/>
+        <location filename="../snipaste.cpp" line="2485"/>
+        <location filename="../snipaste.cpp" line="2498"/>
         <source>Fail to import group.</source>
         <translation>Thêm nhóm thất bại.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2338"/>
+        <location filename="../snipaste.cpp" line="2470"/>
         <source>File %1 not found.</source>
         <translation> %1Tập tin không được tìm thấy.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2353"/>
-        <location filename="../snipaste.cpp" line="2366"/>
+        <location filename="../snipaste.cpp" line="2485"/>
+        <location filename="../snipaste.cpp" line="2498"/>
         <source>Error Code</source>
         <translation>Lỗi mã</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2372"/>
+        <location filename="../snipaste.cpp" line="2504"/>
         <source>This group already exists.</source>
         <translation>Nhóm này đã tồn tại.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2380"/>
+        <location filename="../snipaste.cpp" line="2512"/>
         <source>Imported Group</source>
         <translation>Đã thêm nhóm</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2404"/>
+        <location filename="../snipaste.cpp" line="2534"/>
         <source>Import successful</source>
         <translation>Thêm thành công</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2405"/>
+        <location filename="../snipaste.cpp" line="2535"/>
         <source>Rename the imported group:</source>
         <translation>Đổi tên nhóm nhập khẩu:</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2406"/>
+        <location filename="../snipaste.cpp" line="2536"/>
         <source>Switch to the imported group</source>
         <translation>Chuyến đến nhóm nhập</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2535"/>
+        <location filename="../snipaste.cpp" line="2665"/>
         <source>New group name:</source>
         <translation>Tên nhóm mới:</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2558"/>
+        <location filename="../snipaste.cpp" line="2688"/>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
         <translation>Bạn có chắc chắn muốn đóng &quot;%1&quot;? Hoạt động này không thể được hoàn tác.</translation>
     </message>
     <message>
-        <location filename="../snipaste.cpp" line="2574"/>
-        <location filename="../snipaste.cpp" line="2594"/>
-        <location filename="../snipaste.cpp" line="2856"/>
+        <location filename="../snipaste.cpp" line="2704"/>
+        <location filename="../snipaste.cpp" line="2722"/>
+        <location filename="../snipaste.cpp" line="2984"/>
         <source>Default</source>
         <translation>Mặc định</translation>
     </message>
@@ -1360,12 +1376,12 @@ Click here to update now</source>
 <context>
     <name>Snipper</name>
     <message>
-        <location filename="../snipper.cpp" line="665"/>
+        <location filename="../snipper.cpp" line="678"/>
         <source>Delay time (1.0-10.0):</source>
         <translation>Thời gian hoãn (1.0-10.0):</translation>
     </message>
     <message>
-        <location filename="../snipper.cpp" line="666"/>
+        <location filename="../snipper.cpp" line="679"/>
         <source>s</source>
         <translation>s</translation>
     </message>
@@ -1414,6 +1430,19 @@ Click here to update now</source>
         <location filename="../doubleinputdialog.ui" line="70"/>
         <source>Cancel</source>
         <translation>Hủy bỏ</translation>
+    </message>
+</context>
+<context>
+    <name>groupmanager</name>
+    <message>
+        <location filename="../groupmanager.ui" line="57"/>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <location filename="../groupmanager.ui" line="64"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Hủy bỏ</translation>
     </message>
 </context>
 <context>

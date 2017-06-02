@@ -866,6 +866,14 @@ Startup on boot has been cancelled.</source>
         <source>Stay on top</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">色を選択</translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1062,6 +1070,10 @@ Click here to update now</source>
         <source>Snip and copy</source>
         <translation>スニップとコピー</translation>
     </message>
+    <message>
+        <source>Manage groups</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1110,6 +1122,17 @@ Click here to update now</source>
     <message>
         <source>Cancel</source>
         <translation>キャンセル</translation>
+    </message>
+</context>
+<context>
+    <name>groupmanager</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">確認</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
     </message>
 </context>
 <context>

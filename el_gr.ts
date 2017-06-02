@@ -872,6 +872,14 @@ Startup on boot has been cancelled.</source>
         <source>Stay on top</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">Επιλογή χρώματος</translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1068,6 +1076,10 @@ Click here to update now</source>
         <source>Snip and copy</source>
         <translation>Στιγμιότυπο και αντιγραφή</translation>
     </message>
+    <message>
+        <source>Manage groups</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1116,6 +1128,17 @@ Click here to update now</source>
     <message>
         <source>Cancel</source>
         <translation>Άκυρο</translation>
+    </message>
+</context>
+<context>
+    <name>groupmanager</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">Εντάξει</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Άκυρο</translation>
     </message>
 </context>
 <context>
