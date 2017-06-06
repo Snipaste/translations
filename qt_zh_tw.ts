@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>Help</source>
-        <translation>說明</translation>
+        <translation>幫助</translation>
     </message>
     <message>
         <source>Open</source>
@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation>全部回答否(&amp;O)</translation>
+        <translation>全部皆否(&amp;O)</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation>全部回答是(&amp;A)</translation>
+        <translation>全部皆是(&amp;A)</translation>
     </message>
     <message>
         <source>Don&apos;t Save</source>
@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>Help</source>
-        <translation>說明</translation>
+        <translation>幫助</translation>
     </message>
     <message>
         <source>Home</source>
@@ -251,7 +251,7 @@
     </message>
     <message>
         <source>Media Previous</source>
-        <translation>媒體前一首</translation>
+        <translation>媒體上一首</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -335,7 +335,7 @@
     </message>
     <message>
         <source>Hangup</source>
-        <translation>掛斷</translation>
+        <translation>色調(&amp;E):</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -415,11 +415,11 @@
     </message>
     <message>
         <source>Bass Up</source>
-        <translation>Bass Up</translation>
+        <translation>低音升高</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation>刷新</translation>
+        <translation>重新整理</translation>
     </message>
     <message>
         <source>Launch Mail</source>
@@ -431,7 +431,7 @@
     </message>
     <message>
         <source>Bass Down</source>
-        <translation>Bass Down</translation>
+        <translation>低音降低</translation>
     </message>
     <message>
         <source>Standby</source>
@@ -439,7 +439,7 @@
     </message>
     <message>
         <source>Treble Up</source>
-        <translation>Treble Up</translation>
+        <translation>高音升高</translation>
     </message>
     <message>
         <source>Num Lock</source>
@@ -451,7 +451,7 @@
     </message>
     <message>
         <source>Favorites</source>
-        <translation>我的最愛</translation>
+        <translation>最愛</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -602,11 +602,11 @@
     </message>
     <message>
         <source>&amp;Options &lt;&lt;</source>
-        <translation>操作 (&amp;O) &lt;&lt;</translation>
+        <translation>選項 (&amp;O) &lt;&lt;</translation>
     </message>
     <message>
         <source>&amp;Options &gt;&gt;</source>
-        <translation>操作 (&amp;O) &gt;&gt;</translation>
+        <translation>選項 (&amp;O) &gt;&gt;</translation>
     </message>
     <message>
         <source>B6 (125 x 176 mm)</source>
@@ -650,7 +650,7 @@
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation>列印(&amp;P)</translation>
+        <translation>列印(&amp;P)...</translation>
     </message>
     <message>
         <source>A3 (297 x 420 mm)</source>
@@ -788,7 +788,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>US Common #10 Envelope</source>
-        <translation>US Common #10 Envelope</translation>
+        <translation>US 常用 10 號信封 (105x241 mm)</translation>
     </message>
     <message>
         <source>%1 is a directory.
@@ -846,7 +846,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Help</source>
-        <translation>說明</translation>
+        <translation>幫助</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -877,7 +877,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Select ActiveX Control</source>
-        <translation>選擇 ActiveX 控制</translation>
+        <translation>選擇 ActiveX 控制項</translation>
     </message>
 </context>
 <context>
@@ -900,7 +900,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Help</source>
-        <translation>說明</translation>
+        <translation>幫助</translation>
     </message>
     <message>
         <source>Open</source>
@@ -956,7 +956,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation>全部回答否(&amp;O)</translation>
+        <translation>全部皆否(&amp;O)</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -972,7 +972,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation>全部回答是(&amp;A)</translation>
+        <translation>全部皆是(&amp;A)</translation>
     </message>
     <message>
         <source>Don&apos;t Save</source>
@@ -1101,7 +1101,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Output Settings</source>
-        <translation>輸出設定</translation>
+        <translation>輸出設定值</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -1200,11 +1200,11 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>匯出到 PDF 檔</translation>
+        <translation>匯出到 PDF </translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>前一頁</translation>
+        <translation>上一頁</translation>
     </message>
     <message>
         <source>Next page</source>
@@ -1287,7 +1287,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Write: %1</source>
-        <translation>寫入：%1</translation>
+        <translation>寫入: %1</translation>
     </message>
     <message>
         <source>Sort by &amp;Size</source>
@@ -1311,11 +1311,11 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>File &amp;type:</source>
-        <translation>檔案型態(&amp;T)：</translation>
+        <translation>檔案類型(&amp;T):</translation>
     </message>
     <message>
         <source>File &amp;name:</source>
-        <translation>檔名(&amp;N)：</translation>
+        <translation>檔案名稱(&amp;N):</translation>
     </message>
     <message>
         <source>Delete %1</source>
@@ -1339,7 +1339,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Look &amp;in:</source>
-        <translation>尋找於(&amp;I)：</translation>
+        <translation>尋找於(&amp;I):</translation>
     </message>
     <message>
         <source>Preview File Contents</source>
@@ -1363,7 +1363,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you wish to delete %1 &quot;%2&quot;?&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;您確定要刪除 %1 &quot;%2&quot; 嗎？&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;你確定要刪除 %1 &quot;%2&quot; 嗎？&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Find Directory</source>
@@ -1375,11 +1375,11 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
-        <translation>顯示隱藏檔(&amp;H)</translation>
+        <translation>顯示隱藏檔案(&amp;H)</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>另存新檔</translation>
+        <translation>另存為</translation>
     </message>
     <message>
         <source>Inaccessible</source>
@@ -1391,7 +1391,7 @@ File not found.
 Check path and filename.</source>
         <translation>%1
 找不到檔案。
-請檢查路徑與檔名。</translation>
+請檢查路徑與檔案名稱。</translation>
     </message>
     <message>
         <source>List View</source>
@@ -1399,7 +1399,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Special</source>
-        <translation>特殊節點</translation>
+        <translation>特殊</translation>
     </message>
     <message>
         <source>Write-only</source>
@@ -1427,7 +1427,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Select a Directory</source>
-        <translation>請選擇一個目錄</translation>
+        <translation>選擇一個目錄</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -1435,7 +1435,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Read: %1</source>
-        <translation>讀取：%1</translation>
+        <translation>讀取: %1</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -1443,7 +1443,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Directory:</source>
-        <translation>目錄：</translation>
+        <translation>目錄: </translation>
     </message>
     <message>
         <source>One directory up</source>
@@ -1471,7 +1471,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Detail View</source>
-        <translation>詳細檢視</translation>
+        <translation>細節檢視</translation>
     </message>
 </context>
 <context>
@@ -1482,7 +1482,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Fatal Error:</source>
-        <translation>嚴重錯誤：</translation>
+        <translation>嚴重錯誤:</translation>
     </message>
     <message>
         <source>&amp;Show this message again</source>
@@ -1490,11 +1490,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Debug Message:</source>
-        <translation>除錯訊息：</translation>
+        <translation>除錯訊息:</translation>
     </message>
     <message>
         <source>Warning:</source>
-        <translation>警告：</translation>
+        <translation>警告: </translation>
     </message>
 </context>
 <context>
@@ -1509,19 +1509,19 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Type:</source>
-        <translation>型態：</translation>
+        <translation>類型: </translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>名稱(&amp;N)：</translation>
+        <translation>名稱(&amp;N): </translation>
     </message>
     <message>
         <source>Output &amp;file:</source>
-        <translation>輸出檔案(&amp;F)：</translation>
+        <translation>輸出檔案(&amp;F): </translation>
     </message>
     <message>
         <source>P&amp;roperties</source>
-        <translation>屬性(&amp;R)</translation>
+        <translation>特性(&amp;R)...</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1533,7 +1533,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Location:</source>
-        <translation>位置：</translation>
+        <translation>位置: </translation>
     </message>
 </context>
 <context>
@@ -1584,7 +1584,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Oriya</source>
-        <translation>Oriya</translation>
+        <translation>歐里亞</translation>
     </message>
     <message>
         <source>Runic</source>
@@ -1600,11 +1600,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Kannada</source>
-        <translation>坎達那</translation>
+        <translation>坎那達</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation>馬來語</translation>
+        <translation>馬來亞蘭</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -1644,11 +1644,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Telugu</source>
-        <translation>Telugu</translation>
+        <translation>泰魯固</translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation>Thaana</translation>
+        <translation>坦那</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -1660,7 +1660,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Devanagari</source>
-        <translation>Devanagari</translation>
+        <translation>天城體</translation>
     </message>
     <message>
         <source>Japanese</source>
@@ -1688,7 +1688,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation>Gujarati</translation>
+        <translation>古加拉提</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
@@ -1700,7 +1700,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation>Gurmukhi</translation>
+        <translation>古魯目齊</translation>
     </message>
 </context>
 <context>
@@ -1783,11 +1783,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Add To Dictionary</source>
-        <translation>新增到字典</translation>
+        <translation>加入到字典</translation>
     </message>
     <message>
         <source>Delete to the start of the word</source>
-        <translation>刪除到此單字的起頭</translation>
+        <translation>刪除到此單字的開頭</translation>
     </message>
     <message>
         <source>Recent searches</source>
@@ -1904,7 +1904,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the start of the document</source>
-        <translation>移動游標到這一個文件的起頭</translation>
+        <translation>移動游標到這一個文件的開頭</translation>
     </message>
     <message>
         <source>Move the cursor to the next character</source>
@@ -1957,7 +1957,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Choose File</source>
-        <translation>選擇檔案</translation>
+        <translation>選取檔案</translation>
     </message>
     <message>
         <source>Scroll up</source>
@@ -2047,15 +2047,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>This is a searchable index. Enter search keywords: </source>
-        <translation>這是可搜尋的索引。請輸入關鍵字：　</translation>
+        <translation>這是可搜尋的索引。請輸入關鍵詞:</translation>
     </message>
     <message>
         <source>Select to the previous character</source>
-        <translation>選擇到前一個字元</translation>
+        <translation>選擇到上一個字元</translation>
     </message>
     <message>
         <source>Go Back</source>
-        <translation>往回</translation>
+        <translation>往上一步</translation>
     </message>
     <message>
         <source>Open in New Window</source>
@@ -2176,7 +2176,7 @@ Check path and filename.</source>
     <name>QFileDialog</name>
     <message>
         <source>Back</source>
-        <translation>返回</translation>
+        <translation>上一步</translation>
     </message>
     <message>
         <source>File</source>
@@ -2206,11 +2206,11 @@ Check path and filename.</source>
         <source>&apos;%1&apos; is write protected.
 Do you want to delete it anyway?</source>
         <translation>%1 有寫入保護。
-您確定要刪除它嗎？</translation>
+你確定要刪除它嗎？</translation>
     </message>
     <message>
         <source>File &amp;name:</source>
-        <translation>檔名(&amp;N)：</translation>
+        <translation>檔案名稱(&amp;N):</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -2218,7 +2218,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Parent Directory</source>
-        <translation>父目錄</translation>
+        <translation>上層目錄</translation>
     </message>
     <message>
         <source>&amp;New Folder</source>
@@ -2234,11 +2234,11 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Look in:</source>
-        <translation>尋找於：</translation>
+        <translation>尋找於: </translation>
     </message>
     <message>
         <source>Files of type:</source>
-        <translation>檔案型態：</translation>
+        <translation>檔案類型: </translation>
     </message>
     <message>
         <source>Find Directory</source>
@@ -2246,15 +2246,15 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
-        <translation>顯示隱藏檔(&amp;H)</translation>
+        <translation>顯示隱藏檔案(&amp;H)</translation>
     </message>
     <message>
         <source>Are sure you want to delete &apos;%1&apos;?</source>
-        <translation>您確定要刪除 %1 嗎？</translation>
+        <translation>你確定要刪除 %1 嗎？</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>另存新檔</translation>
+        <translation>另存為</translation>
     </message>
     <message>
         <source>%1
@@ -2270,7 +2270,7 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>&amp;Choose</source>
-        <translation>選擇(&amp;C)</translation>
+        <translation>選取(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -2298,7 +2298,7 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>Directory:</source>
-        <translation>目錄：</translation>
+        <translation>目錄: </translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -2308,11 +2308,11 @@ Please verify the correct directory name was given.</source>
         <source>%1 already exists.
 Do you want to replace it?</source>
         <translation>%1 已存在
-您要取代它嗎？</translation>
+你要取代它嗎？</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>往前</translation>
+        <translation>下一步</translation>
     </message>
     <message>
         <source>Recent Places</source>
@@ -2324,7 +2324,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Detail View</source>
-        <translation>詳細檢視</translation>
+        <translation>細節檢視</translation>
     </message>
     <message>
         <source>%1
@@ -2332,7 +2332,7 @@ File not found.
 Please verify the correct file name was given.</source>
         <translation>%1
 找不到檔案。
-請檢查檔名是否正確。</translation>
+請檢查檔案名稱是否正確。</translation>
     </message>
 </context>
 <context>
@@ -2466,15 +2466,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Help</source>
-        <translation>說明</translation>
+        <translation>幫助</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>說明(&amp;H)</translation>
+        <translation>幫助(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>下一個(&amp;N)</translation>
+        <translation>下一步(&amp;N)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2494,15 +2494,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Next &gt;</source>
-        <translation>下一個(&amp;N)＞</translation>
+        <translation>下一步(&amp;N)＞</translation>
     </message>
     <message>
         <source>Go Back</source>
-        <translation>往回</translation>
+        <translation>往上一步</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
-        <translation>＜返回(&amp;B)</translation>
+        <translation>＜往上一步(&amp;B)</translation>
     </message>
 </context>
 <context>
@@ -2513,7 +2513,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>bottom margin</source>
-        <translation>下緣</translation>
+        <translation>下邊界</translation>
     </message>
     <message>
         <source>Paper</source>
@@ -2521,7 +2521,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Paper source:</source>
-        <translation>紙張來源：</translation>
+        <translation>紙張來源: </translation>
     </message>
     <message>
         <source>Centimeters (cm)</source>
@@ -2529,11 +2529,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>right margin</source>
-        <translation>右緣</translation>
+        <translation>右邊界</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation>邊緣</translation>
+        <translation>邊界</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -2541,7 +2541,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation>寬度：</translation>
+        <translation>寬度: </translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -2553,15 +2553,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>top margin</source>
-        <translation>上緣</translation>
+        <translation>上邊界</translation>
     </message>
     <message>
         <source>left margin</source>
-        <translation>左緣</translation>
+        <translation>左邊界</translation>
     </message>
     <message>
         <source>Page size:</source>
-        <translation>紙張大小：</translation>
+        <translation>紙張大小: </translation>
     </message>
     <message>
         <source>Reverse portrait</source>
@@ -2569,7 +2569,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Millimeters (mm)</source>
-        <translation>公厘</translation>
+        <translation>公釐</translation>
     </message>
     <message>
         <source>Points (pt)</source>
@@ -2585,7 +2585,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Height:</source>
-        <translation>高度：</translation>
+        <translation>高度: </translation>
     </message>
 </context>
 <context>
@@ -2607,7 +2607,7 @@ Please verify the correct file name was given.</source>
     <name>QMdiSubWindow</name>
     <message>
         <source>Help</source>
-        <translation>說明</translation>
+        <translation>幫助</translation>
     </message>
     <message>
         <source>Menu</source>
@@ -2690,19 +2690,19 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Invalid URI: %1</source>
-        <translation>不合法的網址：%1</translation>
+        <translation>無效的網址: %1</translation>
     </message>
     <message>
         <source>Socket error on %1: %2</source>
-        <translation>%1 上發生 socket 錯誤：%2</translation>
+        <translation>%1 上發生 socket 錯誤: %2</translation>
     </message>
     <message>
         <source>No host name given</source>
-        <translation>未指定主機</translation>
+        <translation>未給定主機名稱</translation>
     </message>
     <message>
         <source>Read error reading from %1: %2</source>
-        <translation>從 %1 讀取錯誤：%2</translation>
+        <translation>從 %1 讀取錯誤: %2</translation>
     </message>
     <message>
         <source>Remote host closed the connection prematurely on %1</source>
@@ -2714,7 +2714,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
-        <translation>寫入 %1 時發生錯誤：%2</translation>
+        <translation>寫入 %1 時發生錯誤: %2</translation>
     </message>
 </context>
 <context>
@@ -2733,11 +2733,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Type</source>
-        <translation>型態</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation>變更日期</translation>
+        <translation>已變更日期</translation>
     </message>
 </context>
 <context>
@@ -2796,7 +2796,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation>變更日期</translation>
+        <translation>變更的日期</translation>
     </message>
 </context>
 <context>
@@ -2807,7 +2807,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>More</source>
-        <translation>更多</translation>
+        <translation>較多</translation>
     </message>
 </context>
 <context>
@@ -2933,23 +2933,23 @@ Please verify the correct file name was given.</source>
     <name>QSslSocket</name>
     <message>
         <source>Error creating SSL session: %1</source>
-        <translation>建立 SSL 工作階段時發生錯誤：%1</translation>
+        <translation>建立 SSL 期間時發生錯誤: %1</translation>
     </message>
     <message>
         <source>Error creating SSL session, %1</source>
-        <translation>建立 SSL 工作階段時發生錯誤：%1</translation>
+        <translation>建立 SSL 期間時發生錯誤：%1</translation>
     </message>
     <message>
         <source>Cannot provide a certificate with no key, %1</source>
-        <translation>沒有金鑰無法提供憑證：%1</translation>
+        <translation>沒有金鑰無法提供憑證: %1</translation>
     </message>
     <message>
         <source>Unable to write data: %1</source>
-        <translation>無法寫入資料：%1</translation>
+        <translation>無法寫入資料: %1</translation>
     </message>
     <message>
         <source>Error during SSL handshake: %1</source>
-        <translation>SSL 同步時發生錯誤：%1</translation>
+        <translation>SSL 交握時發生錯誤: %1</translation>
     </message>
     <message>
         <source>Error loading local certificate, %1</source>
@@ -2957,7 +2957,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Invalid or empty cipher list (%1)</source>
-        <translation>不合法或空白的加密清單（%1）</translation>
+        <translation>無效的或空白的加密清單（%1）</translation>
     </message>
     <message>
         <source>Private key does not certificate public key, %1</source>
@@ -2973,54 +2973,54 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Error loading private key, %1</source>
-        <translation>載入私鑰時發生錯誤：%1</translation>
+        <translation>載入私密金鑰時發生錯誤：%1</translation>
     </message>
 </context>
 <context>
     <name>QLocalSocket</name>
     <message>
         <source>%1: Connection error</source>
-        <translation>%1：連線錯誤</translation>
+        <translation>%1 :連線錯誤</translation>
     </message>
     <message>
         <source>%1: Connection refused</source>
-        <translation>%1：連線被拒</translation>
+        <translation>%1 :連線已被拒</translation>
     </message>
     <message>
         <source>%1: Unknown error %2</source>
-        <translation>%1：未知的錯誤 %2</translation>
+        <translation>%1 :未知的錯誤 %2</translation>
     </message>
     <message>
         <source>%1: Socket access error</source>
-        <translation>%1：Socket 位址錯誤</translation>
+        <translation>%1 :Socket 位址錯誤</translation>
     </message>
     <message>
         <source>%1: Socket resource error</source>
-        <translation>%1：Socket 資源錯誤</translation>
+        <translation>%1 :Socket 資源錯誤</translation>
     </message>
     <message>
         <source>%1: The socket operation is not supported</source>
-        <translation>%1：socket 操作未支援</translation>
+        <translation>%1 :socket 操作未支援</translation>
     </message>
     <message>
         <source>%1: Invalid name</source>
-        <translation>%1：不合法的名稱</translation>
+        <translation>%1 :無效的名稱</translation>
     </message>
     <message>
         <source>%1: Unknown error</source>
-        <translation>%1：未知的錯誤</translation>
+        <translation>%1 :未知的錯誤</translation>
     </message>
     <message>
         <source>%1: Socket operation timed out</source>
-        <translation>%1：Socket 操作逾時</translation>
+        <translation>%1 :Socket 操作已逾時</translation>
     </message>
     <message>
         <source>%1: Datagram too large</source>
-        <translation>%1：資料包過大</translation>
+        <translation>%1 :資料包過大</translation>
     </message>
     <message>
         <source>%1: Remote closed</source>
-        <translation>%1：遠端已關閉</translation>
+        <translation>%1 :遠端已關閉</translation>
     </message>
 </context>
 <context>
@@ -3143,7 +3143,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is an invalid flag for regular expressions. Valid flags are:</source>
-        <translation>%1 是正規表示式中不合法的旗標。合法的旗標有：</translation>
+        <translation>%1 是正規表示式中無效的旗標。合法的旗標有：</translation>
     </message>
     <message>
         <source>At least one %1-element must occur inside %2.</source>
@@ -3247,7 +3247,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is not a valid numeric literal.</source>
-        <translation>%1 不是合法的數值。</translation>
+        <translation>%1 是無效的數值。</translation>
     </message>
     <message numerus="yes">
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
@@ -3359,7 +3359,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is not a valid value of type %2.</source>
-        <translation>%1 不是合法的 %2 型態的值。</translation>
+        <translation>%1 無效的 %2 型態的值。</translation>
     </message>
     <message>
         <source>Multiplication of a value of type %1 by %2 or %3 (plus or minus infinity) is not allowed.</source>
@@ -3399,7 +3399,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is not a valid target name in a processing instruction. It must be a %2 value, e.g. %3.</source>
-        <translation>%1 不是一個合法的處理指令的目標名稱。必須是 %2 的值，例如 %3。</translation>
+        <translation>%1 無效的處理指令的目標名稱。必須是 %2 的值，例如 %3。</translation>
     </message>
     <message>
         <source>%1 is an complex type. Casting to complex types is not possible. However, casting to atomic types such as %2 works.</source>
@@ -3427,7 +3427,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is an invalid %2</source>
-        <translation>%1 是不合法的 %2</translation>
+        <translation>%1 是無效的 %2</translation>
     </message>
     <message>
         <source>The first argument to %1 cannot be of type %2. It must be a numeric type, xs:yearMonthDuration or xs:dayTimeDuration.</source>
@@ -3487,7 +3487,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is an invalid namespace URI.</source>
-        <translation>%1 是不合法的命名空間網址。</translation>
+        <translation>%1 是無效的命名空間網址。</translation>
     </message>
     <message>
         <source>The attribute %1 cannot appear on %2, when it is a child of %3.</source>
@@ -3531,7 +3531,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is not a valid name for a processing-instruction.</source>
-        <translation>%1 不是處理指令的合法名稱。</translation>
+        <translation>%1 處理指令無效的名稱。</translation>
     </message>
     <message>
         <source>%1 was called.</source>
@@ -3591,7 +3591,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is an invalid regular expression pattern: %2</source>
-        <translation>%1 是不合法的正規表示式樣式：%2</translation>
+        <translation>%1 是無效的正規表示式樣式：%2</translation>
     </message>
     <message>
         <source>Element %1 is not allowed at this location.</source>
@@ -3760,11 +3760,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is not valid as a value of type %2.</source>
-        <translation>%1 不是合法的 %2 型態的值。</translation>
+        <translation>%1 無效的 %2 型態的值。</translation>
     </message>
     <message>
         <source>zero or more</source>
-        <translation>0 個以上</translation>
+        <translation>0 或以上</translation>
     </message>
     <message>
         <source>%1 is not in the in-scope attribute declarations. Note that the schema import feature is not supported.</source>
@@ -3776,7 +3776,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is an invalid template mode name.</source>
-        <translation>%1 不是合法的樣本模式名稱。</translation>
+        <translation>%1 是無效的樣本模式名稱。</translation>
     </message>
     <message>
         <source>At least one time component must appear after the %1-delimiter.</source>
@@ -3796,7 +3796,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is not a valid XML 1.0 character.</source>
-        <translation>%1 不是合法的 XML 1.0 字元。</translation>
+        <translation>%1 無效的 XML 1.0 字元。</translation>
     </message>
     <message>
         <source>The first argument to %1 cannot be of type %2. It must be of type %3, %4, or %5.</source>
@@ -3840,7 +3840,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>No external functions are supported. All supported functions can be used directly, without first declaring them as external</source>
-        <translation>未支援外部函式。所有支援的含式可以直接使用而不需要先宣告為外部函式。</translation>
+        <translation>未支援外部函式。所有支援的函式可以直接使用，而不需要先宣告為外部函式。</translation>
     </message>
     <message>
         <source>The last step in a path must contain either nodes or atomic values. It cannot be a mixture between the two.</source>
@@ -3859,7 +3859,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Sample</source>
-        <translation>範例</translation>
+        <translation>樣本</translation>
     </message>
     <message>
         <source>Font st&amp;yle</source>
@@ -3890,7 +3890,7 @@ Please verify the correct file name was given.</source>
     <name>Q3Wizard</name>
     <message>
         <source>&amp;Help</source>
-        <translation>說明(&amp;H)</translation>
+        <translation>幫助(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -3906,7 +3906,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
-        <translation>＜返回(&amp;B)</translation>
+        <translation>＜上一步(&amp;B)</translation>
     </message>
 </context>
 <context>
@@ -3978,19 +3978,19 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation>紅(&amp;R)：</translation>
+        <translation>紅(&amp;R): </translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>飽和度(&amp;S)：</translation>
+        <translation>飽和度(&amp;S): </translation>
     </message>
     <message>
         <source>&amp;Val:</source>
-        <translation>亮度(&amp;V)：</translation>
+        <translation>亮度(&amp;V): </translation>
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation>色調(&amp;E)：</translation>
+        <translation>色調(&amp;E): </translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -3998,15 +3998,15 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
-        <translation>新增到自訂色彩(&amp;A)</translation>
+        <translation>加入到自訂色彩(&amp;A)</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation>藍(&amp;U)：</translation>
+        <translation>藍(&amp;U): </translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation>綠(&amp;G)：</translation>
+        <translation>綠(&amp;G): </translation>
     </message>
     <message>
         <source>&amp;Basic colors</source>
@@ -4025,75 +4025,75 @@ Press ESC to cancel</source>
     <name>QSharedMemory</name>
     <message>
         <source>%1: system-imposed size restrictions</source>
-        <translation>%1：系統大小限制</translation>
+        <translation>%1 :系統大小限制</translation>
     </message>
     <message>
         <source>%1: unix key file doesn&apos;t exists</source>
-        <translation>%1：unix 鍵值檔不存在</translation>
+        <translation>%1 :unix 鍵值檔案不存在</translation>
     </message>
     <message>
         <source>%1: doesn&apos;t exists</source>
-        <translation>%1：不存在</translation>
+        <translation>%1 :不存在</translation>
     </message>
     <message>
         <source>%1: key is empty</source>
-        <translation>%1：鍵值是空的</translation>
+        <translation>%1 :鍵值是空的</translation>
     </message>
     <message>
         <source>%1: key error</source>
-        <translation>%1：鍵值錯誤</translation>
+        <translation>%1 :鍵值錯誤</translation>
     </message>
     <message>
         <source>%1: create size is less then 0</source>
-        <translation>%1：建立大小小於 0</translation>
+        <translation>%1 :建立大小小於 0</translation>
     </message>
     <message>
         <source>%1: already exists</source>
-        <translation>%1：已存在</translation>
+        <translation>%1 :已存在</translation>
     </message>
     <message>
         <source>%1: unknown error %2</source>
-        <translation>%1：未知的錯誤 %2</translation>
+        <translation>%1 :未知的錯誤 %2</translation>
     </message>
     <message>
         <source>%1: invalid size</source>
-        <translation>%1：不合法的大小</translation>
+        <translation>%1 :不合法的大小</translation>
     </message>
     <message>
         <source>%1: unable to make key</source>
-        <translation>%1：無法產生鍵值</translation>
+        <translation>%1 :無法產生鍵值</translation>
     </message>
     <message>
         <source>%1: unable to set key on lock</source>
-        <translation>%1：無法設定鍵值</translation>
+        <translation>%1 :鎖定時無法設定鍵值</translation>
     </message>
     <message>
         <source>%1: unable to unlock</source>
-        <translation>%1：無法解除鎖定</translation>
+        <translation>%1 :無法解除鎖定</translation>
     </message>
     <message>
         <source>%1: permission denied</source>
-        <translation>%1：存取被拒</translation>
+        <translation>%1 :存取被拒</translation>
     </message>
     <message>
         <source>%1: ftok failed</source>
-        <translation>%1：ftok 失敗</translation>
+        <translation>%1 :ftok 失敗</translation>
     </message>
     <message>
         <source>%1: out of resources</source>
-        <translation>%1：資源不足</translation>
+        <translation>%1 :資源不足</translation>
     </message>
     <message>
         <source>%1: not attached</source>
-        <translation>%1：未附加</translation>
+        <translation>%1 :未附加</translation>
     </message>
     <message>
         <source>%1: size query failed</source>
-        <translation>%1：大小查詢失敗</translation>
+        <translation>%1 :大小查詢失敗</translation>
     </message>
     <message>
         <source>%1: unable to lock</source>
-        <translation>%1：無法鎖定</translation>
+        <translation>%1 :無法鎖定</translation>
     </message>
 </context>
 <context>
@@ -6000,7 +6000,7 @@ libgstreamer-plugins-base 套件。</translation>
     </message>
     <message>
         <source>Preferences...</source>
-        <translation>偏好設定⋯</translation>
+        <translation>偏好設定?</translation>
     </message>
     <message>
         <source>Services</source>
