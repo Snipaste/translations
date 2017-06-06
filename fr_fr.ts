@@ -876,7 +876,7 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Sélectionner Couleur</translation>
+        <translation>Sélectionner Couleur</translation>
     </message>
 </context>
 <context>
@@ -1076,6 +1076,10 @@ Cliquez ici pour mettre à jour maintenant</translation>
     </message>
     <message>
         <source>Manage groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1381,12 +1385,6 @@ Cliquez ici pour mettre à jour maintenant</translation>
         <translation>Nombre maximum d&apos;entrées d&apos;historique qui sont stockés dans l&apos;histoirique/snip.</translation>
     </message>
     <message>
-        <source>If the source is a screenshot, show it where you snipped. 
-If disabled, it would always be shown at the center of the primary screen.</source>
-        <translation>Si source est une capture d&apos;écran, montrez-la où vous avez coupé.
-Si désactivée, elle sera toujours affichée au centre de l&apos;écran principal.</translation>
-    </message>
-    <message>
         <source>Theme color:</source>
         <translation>Couleur Thème:</translation>
     </message>
@@ -1421,12 +1419,6 @@ Si désactivée, elle sera toujours affichée au centre de l&apos;écran princip
     <message>
         <source>The shortcut to paste the clipboard content as an image window</source>
         <translation>Raccourci clavier pour coller le presse-papiers dans une nouvelle fenêtre d&apos;image</translation>
-    </message>
-    <message>
-        <source>Let new image windows have shadows. 
-You can also find this option in the context menu of individual image window.</source>
-        <translation>Laisser les nouvelles fenêtres d&apos;image avoir des ombres.
-Vous pouvez également trouver cette option dans le menu contextuel de la fenêtre d&apos;image individuelle.</translation>
     </message>
     <message>
         <source>The mask color of snipping</source>
@@ -2043,6 +2035,18 @@ Précisez -1 pour laisser Snipaste décider pour vous.</translation>
     <message>
         <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
         <translation>Raccourci pour couper et envoyer la capture d&apos;écran dans le presse papier une fois la zone de capture déterminée</translation>
+    </message>
+    <message>
+        <source>Let new image windows have shadows.
+You can also find this option in the context menu of individual image window.</source>
+        <translation>Laisser les nouvelles fenêtres d&apos;image avoir des ombres.
+Vous pouvez également trouver cette option dans le menu contextuel de la fenêtre d&apos;image individuelle.</translation>
+    </message>
+    <message>
+        <source>If the source is a screenshot, show it where you snipped.
+If disabled, it would always be shown at the center of the primary screen.</source>
+        <translation>Si source est une capture d&apos;écran, montrez-la où vous avez coupé.
+Si désactivée, elle sera toujours affichée au centre de l&apos;écran principal.</translation>
     </message>
 </context>
 <context>

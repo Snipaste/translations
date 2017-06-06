@@ -872,7 +872,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">色を選択</translation>
+        <translation>色を選択</translation>
     </message>
 </context>
 <context>
@@ -1072,6 +1072,10 @@ Click here to update now</source>
     </message>
     <message>
         <source>Manage groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1305,12 +1309,6 @@ Click here to update now</source>
         <translation>スニップのヒストリー数の設定, スニップは history/snip に保存する.</translation>
     </message>
     <message>
-        <source>If the source is a screenshot, show it where you snipped. 
-If disabled, it would always be shown at the center of the primary screen.</source>
-        <translation>貼り画像がスクショの場合、スクショ時の位置に貼り付け.
-このオプションを無効した場合、スニップはいつもスクリーンの中央に貼り付け.</translation>
-    </message>
-    <message>
         <source>Theme color:</source>
         <translation>テーマ色:</translation>
     </message>
@@ -1337,12 +1335,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <message>
         <source>The shortcut to paste the clipboard content as an image window</source>
         <translation>画像を貼り付けのショートカット</translation>
-    </message>
-    <message>
-        <source>Let new image windows have shadows. 
-You can also find this option in the context menu of individual image window.</source>
-        <translation>新しい貼り画像をシャドウ付け.
-貼り画像別に各自設定することもできます（右クリックメニュー）。</translation>
     </message>
     <message>
         <source>The mask color of snipping</source>
@@ -2036,6 +2028,18 @@ Snipasteを自動設定したい場合は-1。</translation>
     <message>
         <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
         <translation>スニッピング領域が決定されたら、クリップボードにスクリーンショットをスニップして送信するためのショートカット</translation>
+    </message>
+    <message>
+        <source>Let new image windows have shadows.
+You can also find this option in the context menu of individual image window.</source>
+        <translation>新しい貼り画像をシャドウ付け.
+貼り画像別に各自設定することもできます（右クリックメニュー）。</translation>
+    </message>
+    <message>
+        <source>If the source is a screenshot, show it where you snipped.
+If disabled, it would always be shown at the center of the primary screen.</source>
+        <translation>貼り画像がスクショの場合、スクショ時の位置に貼り付け.
+このオプションを無効した場合、スニップはいつもスクリーンの中央に貼り付け.</translation>
     </message>
 </context>
 <context>

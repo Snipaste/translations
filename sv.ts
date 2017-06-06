@@ -876,7 +876,7 @@ Autostart vid systemstart har avbrutits.</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Välj färg</translation>
+        <translation>Välj färg</translation>
     </message>
 </context>
 <context>
@@ -1078,6 +1078,10 @@ Klicka här för att uppdatera nu</translation>
         <source>Manage groups</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1265,12 +1269,6 @@ Klicka här för att uppdatera nu</translation>
         <translation>Ange max antal historikposter för klipp, som lagras i history/snip.</translation>
     </message>
     <message>
-        <source>If the source is a screenshot, show it where you snipped. 
-If disabled, it would always be shown at the center of the primary screen.</source>
-        <translation>Visa klippet där det togs, om källan är ett skärmklipp.
-Vid inaktivering, visas det alltid centrerat på primär skärm.</translation>
-    </message>
-    <message>
         <source>Theme color:</source>
         <translation>Temafärg:</translation>
     </message>
@@ -1285,12 +1283,6 @@ Vid inaktivering, visas det alltid centrerat på primär skärm.</translation>
     <message>
         <source>The shortcut to paste the clipboard content as an image window</source>
         <translation>Genväg för att klistra in urklippsinnehållet som ett bildfönster</translation>
-    </message>
-    <message>
-        <source>Let new image windows have shadows. 
-You can also find this option in the context menu of individual image window.</source>
-        <translation>Låt nya bildfönster få skuggor
-Detta alternativ hittas också i kontextmenyn för varje individuellt bildfönster.</translation>
     </message>
     <message>
         <source>The mask color of snipping</source>
@@ -2043,6 +2035,18 @@ Ange -1 för att låta Snipaste avgöra åt dig.</translation>
     <message>
         <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
         <translation>Genväg för att klippa ut och skicka skärmklippet till Urklipp, när klippområdet väl är definierat</translation>
+    </message>
+    <message>
+        <source>Let new image windows have shadows.
+You can also find this option in the context menu of individual image window.</source>
+        <translation>Låt nya bildfönster få skuggor
+Detta alternativ hittas också i kontextmenyn för varje individuellt bildfönster.</translation>
+    </message>
+    <message>
+        <source>If the source is a screenshot, show it where you snipped.
+If disabled, it would always be shown at the center of the primary screen.</source>
+        <translation>Visa klippet där det togs, om källan är ett skärmklipp.
+Vid inaktivering, visas det alltid centrerat på primär skärm.</translation>
     </message>
 </context>
 <context>

@@ -878,7 +878,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Επιλογή χρώματος</translation>
+        <translation>Επιλογή χρώματος</translation>
     </message>
 </context>
 <context>
@@ -1080,6 +1080,10 @@ Click here to update now</source>
         <source>Manage groups</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1268,12 +1272,6 @@ Click here to update now</source>
 τα οποία αποθηκεύονται στο ιστορικό/στιγμιότυπο.</translation>
     </message>
     <message>
-        <source>If the source is a screenshot, show it where you snipped. 
-If disabled, it would always be shown at the center of the primary screen.</source>
-        <translation>Εάν η πηγή είναι ένα στιγμιότυπο, αυτό θα εμφανιστεί όπου λήφθηκε το στιγμιότυπο.
-Αν απενεργοποιηθεί, θα εμφανίζεται πάντα στο κέντρο της κύριας οθόνης.</translation>
-    </message>
-    <message>
         <source>Theme color:</source>
         <translation>Χρώμα φόντου:</translation>
     </message>
@@ -1288,12 +1286,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <message>
         <source>The shortcut to paste the clipboard content as an image window</source>
         <translation>Η συντόμευση για επικόλληση το περιεχόμενου του Πρόχειρου σαν παράθυρο εικόνας</translation>
-    </message>
-    <message>
-        <source>Let new image windows have shadows. 
-You can also find this option in the context menu of individual image window.</source>
-        <translation>Τα νέα παράθυρα εικόνας θα έχουν σκιές.
-Μπορείτε επίσης να βρείτε αυτή την επιλογή στο μενού περιβάλλοντος του παράθυρου μεμονωμένης εικόνας.</translation>
     </message>
     <message>
         <source>The mask color of snipping</source>
@@ -2053,6 +2045,18 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
         <translation>Η συντόμευση για τη λήψη και αποστολή του στιγμιότυπου στο πρόχειρο αφού καθοριστεί η περιοχή στιγμιοτύπου</translation>
+    </message>
+    <message>
+        <source>Let new image windows have shadows.
+You can also find this option in the context menu of individual image window.</source>
+        <translation>Τα νέα παράθυρα εικόνας θα έχουν σκιές.
+Μπορείτε επίσης να βρείτε αυτή την επιλογή στο μενού περιβάλλοντος του παράθυρου μεμονωμένης εικόνας.</translation>
+    </message>
+    <message>
+        <source>If the source is a screenshot, show it where you snipped.
+If disabled, it would always be shown at the center of the primary screen.</source>
+        <translation>Εάν η πηγή είναι ένα στιγμιότυπο, αυτό θα εμφανιστεί όπου λήφθηκε το στιγμιότυπο.
+Αν απενεργοποιηθεί, θα εμφανίζεται πάντα στο κέντρο της κύριας οθόνης.</translation>
     </message>
 </context>
 <context>
