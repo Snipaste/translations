@@ -1736,7 +1736,8 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Show the color as a Hex value instead of RGB in the magnifier.
  Also affect the color value copying.</source>
-        <translation>将放大镜中的颜色值显示为 Hex 而不是 RGB.同时也会影响颜色值的复制。</translation>
+        <translation type="obsolete">将放大镜中的颜色值显示为 Hex 而不是 RGB.
+同时也会影响颜色值的复制。</translation>
     </message>
     <message>
         <source>Use Hex value for color picker</source>
@@ -2043,6 +2044,12 @@ Please report to the developer if you find any.</source>
     <message>
         <source>Language:</source>
         <translation>显示语言:</translation>
+    </message>
+    <message>
+        <source>Show the color as a Hex value instead of RGB in the magnifier.
+Also affect the color value copying.</source>
+        <translation>将放大镜中的颜色值显示为 Hex 而不是 RGB.
+同时也会影响颜色值的复制。</translation>
     </message>
 </context>
 <context>

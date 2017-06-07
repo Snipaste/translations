@@ -1487,12 +1487,6 @@ Vid kopiering av icke bildfil, kommer inklistring att visa filens sökväg direk
 Om detta alternativ aktiveras, kommer ovanstående funktioner att inaktiveras.</translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
- Also affect the color value copying.</source>
-        <translation>Visa färg som hexvärde istället för RGB i förstoringsglaset.
-Påverkar också färgvärdeskopiering.</translation>
-    </message>
-    <message>
         <source>Show the color picker usage tips on the magnifier.</source>
         <translation>Visa användartips för färgväljare, på förstoringsglaset.</translation>
     </message>
@@ -2047,6 +2041,12 @@ Detta alternativ hittas också i kontextmenyn för varje individuellt bildfönst
 If disabled, it would always be shown at the center of the primary screen.</source>
         <translation>Visa klippet där det togs, om källan är ett skärmklipp.
 Vid inaktivering, visas det alltid centrerat på primär skärm.</translation>
+    </message>
+    <message>
+        <source>Show the color as a Hex value instead of RGB in the magnifier.
+Also affect the color value copying.</source>
+        <translation>Visa färg som hexvärde istället för RGB i förstoringsglaset.
+Påverkar också färgvärdeskopiering.</translation>
     </message>
 </context>
 <context>

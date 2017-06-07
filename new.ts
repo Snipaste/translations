@@ -1243,11 +1243,6 @@ Click here to update now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
- Also affect the color value copying.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Use Hex value for color picker</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2026,6 +2021,11 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Contact:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show the color as a Hex value instead of RGB in the magnifier.
+Also affect the color value copying.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

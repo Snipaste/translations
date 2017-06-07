@@ -1249,12 +1249,6 @@ Clique aqui para actualizar</translation>
         <translation>Menu melhorado na área de notificação</translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
- Also affect the color value copying.</source>
-        <translation>Exibe a cor na lupa como um valor Hex em vez de RGB.
-Também produz efeito na cópia do valor da cor.</translation>
-    </message>
-    <message>
         <source>Use Hex value for color picker</source>
         <translation>Usar valor Hex no selector de cor</translation>
     </message>
@@ -2047,6 +2041,12 @@ Por favor, reporte-os para mim se descobrir algum.</translation>
     <message>
         <source>Contact:</source>
         <translation>Contacto:</translation>
+    </message>
+    <message>
+        <source>Show the color as a Hex value instead of RGB in the magnifier.
+Also affect the color value copying.</source>
+        <translation>Exibe a cor na lupa como um valor Hex em vez de RGB.
+Também produz efeito na cópia do valor da cor.</translation>
     </message>
 </context>
 <context>

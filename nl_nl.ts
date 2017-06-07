@@ -1821,12 +1821,6 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
         <translation>Aangepast</translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
- Also affect the color value copying.</source>
-        <translation>Kleur in het vergrootglas weergeven als Hex-waarde in plaats van RGB.
-Dit heeft ook gevolgen voor het kopiëren van een kleur.</translation>
-    </message>
-    <message>
         <source>Use Hex value for color picker</source>
         <translation>Kleur-pipet in Hex-waarde</translation>
     </message>
@@ -2047,6 +2041,12 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     <message>
         <source>Language:</source>
         <translation>Taal:</translation>
+    </message>
+    <message>
+        <source>Show the color as a Hex value instead of RGB in the magnifier.
+Also affect the color value copying.</source>
+        <translation>Kleur in het vergrootglas weergeven als Hex-waarde in plaats van RGB.
+Dit heeft ook gevolgen voor het kopiëren van een kleur.</translation>
     </message>
 </context>
 <context>

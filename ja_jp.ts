@@ -1674,11 +1674,6 @@ Range: 10 - 100</source>
         <translation>マウスホイールをクリックしてスニップをスクリーンに貼り付け。</translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
- Also affect the color value copying.</source>
-        <translation>拡大鏡にカラー値をHexで表示、同時にカラー値のコピーも影響する。</translation>
-    </message>
-    <message>
         <source>Hide 1x1</source>
         <translation> 1×1 ヒントを非表示</translation>
     </message>
@@ -2040,6 +2035,11 @@ You can also find this option in the context menu of individual image window.</s
 If disabled, it would always be shown at the center of the primary screen.</source>
         <translation>貼り画像がスクショの場合、スクショ時の位置に貼り付け.
 このオプションを無効した場合、スニップはいつもスクリーンの中央に貼り付け.</translation>
+    </message>
+    <message>
+        <source>Show the color as a Hex value instead of RGB in the magnifier.
+Also affect the color value copying.</source>
+        <translation>拡大鏡にカラー値をHexで表示、同時にカラー値のコピーも影響する。</translation>
     </message>
 </context>
 <context>

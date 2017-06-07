@@ -1255,11 +1255,6 @@ Click here to update now</source>
         <translation>增強版工具列選單</translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
- Also affect the color value copying.</source>
-        <translation>將放大鏡中的色彩值顯示為 Hex 而不是 RGB.同時也會影響色彩值的複製。</translation>
-    </message>
-    <message>
         <source>Interface</source>
         <translation>介面</translation>
     </message>
@@ -2043,6 +2038,12 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Language:</source>
         <translation>顯示語言:</translation>
+    </message>
+    <message>
+        <source>Show the color as a Hex value instead of RGB in the magnifier.
+Also affect the color value copying.</source>
+        <translation>將放大鏡中的色彩值顯示為 Hex 而不是 RGB.
+同時也會影響色彩值的複製。</translation>
     </message>
 </context>
 <context>

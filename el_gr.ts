@@ -1482,12 +1482,6 @@ You can also find this option in the context menu of individual image window.</s
         <translation>Απόκρυψη 1x1</translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
- Also affect the color value copying.</source>
-        <translation> Εμφάνιση του χρώματος ως δεκαεξαδική τιμή αντί του RGB στον μεγεθυντικό φακό.
- Θα επηρεάσει επίσης την αντιγραφή της τιμής χρώματος.</translation>
-    </message>
-    <message>
         <source>Use Hex value for color picker</source>
         <translation>Χρήση δεκαεξαδικής τιμής για την επιλογή χρώματος</translation>
     </message>
@@ -2057,6 +2051,12 @@ You can also find this option in the context menu of individual image window.</s
 If disabled, it would always be shown at the center of the primary screen.</source>
         <translation>Εάν η πηγή είναι ένα στιγμιότυπο, αυτό θα εμφανιστεί όπου λήφθηκε το στιγμιότυπο.
 Αν απενεργοποιηθεί, θα εμφανίζεται πάντα στο κέντρο της κύριας οθόνης.</translation>
+    </message>
+    <message>
+        <source>Show the color as a Hex value instead of RGB in the magnifier.
+Also affect the color value copying.</source>
+        <translation>Εμφάνιση του χρώματος ως δεκαεξαδική τιμή αντί του RGB στον μεγεθυντικό φακό.
+Θα επηρεάσει επίσης την αντιγραφή της τιμής χρώματος.</translation>
     </message>
 </context>
 <context>

@@ -370,7 +370,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>-bit</source>
-        <translation> -bit</translation>
+        <translation>-bit</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1349,7 +1349,7 @@ Hier klicken um jetzt upzudaten</translation>
     </message>
     <message>
         <source>Show anchors around the snipping area.</source>
-        <translation>Zeige Anker um Aufnahmebereich. </translation>
+        <translation>Zeige Anker um Aufnahmebereich.</translation>
     </message>
     <message>
         <source>Show anchors</source>
@@ -1798,12 +1798,6 @@ Geben Sie -1 an, damit Snipaste für Sie entscheiden kann.</translation>
         <translation>Angepasst</translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
- Also affect the color value copying.</source>
-        <translation>Farbe als Hex-Wert statt RGB-Wert in Lupe anzeigen.
-        Hat Auswirkung auf den kopierten Farbwert.</translation>
-    </message>
-    <message>
         <source>Use Hex value for color picker</source>
         <translation>Hex-Werte für Farbwähler</translation>
     </message>
@@ -2031,7 +2025,7 @@ Bitte melden Sie Fehler, wenn Sie welche finden.</translation>
     </message>
     <message>
         <source>Proxy server requires password</source>
-        <translation>Proxy-Server erfordert Passwort </translation>
+        <translation>Proxy-Server erfordert Passwort</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -2052,6 +2046,12 @@ Bitte melden Sie Fehler, wenn Sie welche finden.</translation>
     <message>
         <source>Language:</source>
         <translation>Sprache:</translation>
+    </message>
+    <message>
+        <source>Show the color as a Hex value instead of RGB in the magnifier.
+Also affect the color value copying.</source>
+        <translation>Farbe als Hex-Wert statt RGB-Wert in Lupe anzeigen.
+Hat Auswirkung auf den kopierten Farbwert.</translation>
     </message>
 </context>
 <context>

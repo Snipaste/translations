@@ -368,7 +368,7 @@ Veuillez contacter le développeur.</translation>
     <name>OptionsDialog</name>
     <message>
         <source>-bit</source>
-        <translation> -bit</translation>
+        <translation>-bit</translation>
     </message>
     <message>
         <source>None</source>
@@ -1901,12 +1901,6 @@ Cependant, en attendant, le canal alpha de l&apos;image est perdu.</translation>
         <translation>Cliquez sur le bouton milieu pour fixer la capture d&apos;écran à l&apos;écran.</translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
- Also affect the color value copying.</source>
-        <translation>Afficher la couleur comme une valeur Hex au lieu de RVB dans la loupe.
- Affecte également la copie de la valeur de couleur.</translation>
-    </message>
-    <message>
         <source>Licenses</source>
         <translation>Licenses</translation>
     </message>
@@ -2047,6 +2041,12 @@ Vous pouvez également trouver cette option dans le menu contextuel de la fenêt
 If disabled, it would always be shown at the center of the primary screen.</source>
         <translation>Si source est une capture d&apos;écran, montrez-la où vous avez coupé.
 Si désactivée, elle sera toujours affichée au centre de l&apos;écran principal.</translation>
+    </message>
+    <message>
+        <source>Show the color as a Hex value instead of RGB in the magnifier.
+Also affect the color value copying.</source>
+        <translation>Afficher la couleur comme une valeur Hex au lieu de RVB dans la loupe.
+Affecte également la copie de la valeur de couleur.</translation>
     </message>
 </context>
 <context>
