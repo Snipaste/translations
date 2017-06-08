@@ -2052,14 +2052,6 @@ Dit heeft ook gevolgen voor het kopiëren van een kleur.</translation>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Rectangle</source>
-        <translation>Rechthoek</translation>
-    </message>
-    <message>
-        <source>Ellipse</source>
-        <translation>Ellips</translation>
-    </message>
-    <message>
         <source>Line strip</source>
         <translation>Lijnstuk</translation>
     </message>
@@ -2114,6 +2106,10 @@ Dit heeft ook gevolgen voor het kopiëren van een kleur.</translation>
     <message>
         <source>Quit snipping (Esc)</source>
         <translation>Schermopname afbreken (Esc)</translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Rechthoek/Ellips</translation>
     </message>
 </context>
 <context>

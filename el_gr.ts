@@ -2102,14 +2102,6 @@ Also affect the color value copying.</source>
         <translation>Αποθήκευση σε αρχείο (Ctrl+S)</translation>
     </message>
     <message>
-        <source>Rectangle</source>
-        <translation>Ορθογώνιο</translation>
-    </message>
-    <message>
-        <source>Ellipse</source>
-        <translation>Έλλειψη</translation>
-    </message>
-    <message>
         <source>Mosaic/Blur</source>
         <translation>Μωσαϊκό/Θάμπωμα</translation>
     </message>
@@ -2124,6 +2116,10 @@ Also affect the color value copying.</source>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
         <translation>Καρφίτσωμα στην οθόνη (Ctrl+T)</translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Ορθογώνιο/Έλλειψη</translation>
     </message>
 </context>
 <context>

@@ -2092,14 +2092,6 @@ Påverkar också färgvärdeskopiering.</translation>
         <translation>Spara till fil (Ctrl+S)</translation>
     </message>
     <message>
-        <source>Rectangle</source>
-        <translation>Rektangel</translation>
-    </message>
-    <message>
-        <source>Ellipse</source>
-        <translation>Ellips</translation>
-    </message>
-    <message>
         <source>Mosaic/Blur</source>
         <translation>Mosaik/Oskärpa</translation>
     </message>
@@ -2114,6 +2106,10 @@ Påverkar också färgvärdeskopiering.</translation>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
         <translation>Fäst på skärmen (Ctrl+T)</translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Rektangel/Ellips</translation>
     </message>
 </context>
 <context>

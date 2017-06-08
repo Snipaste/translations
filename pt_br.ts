@@ -2052,14 +2052,6 @@ Também afeta na cópia do valor da cor.</translation>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Rectangle</source>
-        <translation>Retângulo</translation>
-    </message>
-    <message>
-        <source>Ellipse</source>
-        <translation>Elipse</translation>
-    </message>
-    <message>
         <source>Line strip</source>
         <translation>Linha</translation>
     </message>
@@ -2114,6 +2106,10 @@ Também afeta na cópia do valor da cor.</translation>
     <message>
         <source>Finish edit (Esc)</source>
         <translation>Concluir edição (Esc)</translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Retângulo/Elipse</translation>
     </message>
 </context>
 <context>

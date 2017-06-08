@@ -2057,14 +2057,6 @@ Hat Auswirkung auf den kopierten Farbwert.</translation>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Rectangle</source>
-        <translation>Rechteck</translation>
-    </message>
-    <message>
-        <source>Ellipse</source>
-        <translation>Kreis</translation>
-    </message>
-    <message>
         <source>Line strip</source>
         <translation>Linie</translation>
     </message>
@@ -2119,6 +2111,10 @@ Hat Auswirkung auf den kopierten Farbwert.</translation>
     <message>
         <source>Quit snipping (Esc)</source>
         <translation>Aufnahme beenden (Esc)</translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Rechteck/Kreis</translation>
     </message>
 </context>
 <context>

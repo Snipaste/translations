@@ -46,7 +46,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 
 | Language              | Code  | Status      | Contributors |
 | --------------------- | ----- | ----------- | ------------ |
-| Chinese (Simplified)  | zh_cn | **v1.13.4** | [liulex](https://github.com/liulex) |
+| Chinese (Simplified)  | zh_cn | **v1.13.5** | [liulex](https://github.com/liulex) |
 | Chinese (Traditional) | zh_tw | _v1.13.2_   | [zhtw](http://greedphantom.blogspot.tw) |
 | German                | de_de | _v1.13.2_   | [Samuel Marcius](http://www.fontenvironment.com) |
 | Greek                 | el_gr | _v1.13.2_   | [geogeo.gr](http://www.geogeo.gr) |
@@ -54,7 +54,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Japanese              | ja_jp | _v1.13.2_   | 鳳凰院カミ |
 | Portuguese (Brazil)   | pt_br | _v1.13.2_   | Igor Rückert |
 | Polish                | pl_pl | _v1.11.3_   | [Wirus deleted my username](https://github.com/Wirus-deleted-my-username) |
-| Dutch                 | nl_nl | **v1.13.4** | Stephan Paternotte |
+| Dutch                 | nl_nl | **v1.13.5** | Stephan Paternotte |
 | Portuguese (Portugal) | pt_pt | _v1.13.2_   | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
 | Vietnamese            | vi_vn | _v1.11.3_   | [evildeepblue](mailto:it4u.mm@gmail.com) |
 | French                | fr_fr | _v1.13.2_   | rico-sos |

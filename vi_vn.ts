@@ -2037,14 +2037,6 @@ Also affect the color value copying.</source>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Rectangle</source>
-        <translation>Sao chép vào clipboard</translation>
-    </message>
-    <message>
-        <source>Ellipse</source>
-        <translation>Hình ellip</translation>
-    </message>
-    <message>
         <source>Line strip</source>
         <translation>Hàng dòng</translation>
     </message>
@@ -2099,6 +2091,10 @@ Also affect the color value copying.</source>
     <message>
         <source>Finish edit (Esc)</source>
         <translation>Hoàn tất chỉnh sửa</translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Sao chép vào clipboard/Hình ellip</translation>
     </message>
 </context>
 <context>

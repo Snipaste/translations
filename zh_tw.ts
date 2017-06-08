@@ -2049,14 +2049,6 @@ Also affect the color value copying.</source>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Rectangle</source>
-        <translation>矩形框</translation>
-    </message>
-    <message>
-        <source>Ellipse</source>
-        <translation>橢圓框</translation>
-    </message>
-    <message>
         <source>Line strip</source>
         <translation>連續線段</translation>
     </message>
@@ -2111,6 +2103,10 @@ Also affect the color value copying.</source>
     <message>
         <source>Quit snipping (Esc)</source>
         <translation>離開擷圖 (Esc)</translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>矩形/橢圓</translation>
     </message>
 </context>
 <context>

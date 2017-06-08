@@ -2089,14 +2089,6 @@ Also affect the color value copying.</source>
         <translation>ファイルに保存 (Ctrl+S)</translation>
     </message>
     <message>
-        <source>Rectangle</source>
-        <translation>長方形</translation>
-    </message>
-    <message>
-        <source>Ellipse</source>
-        <translation>楕円</translation>
-    </message>
-    <message>
         <source>Mosaic/Blur</source>
         <translation>モザイク/ぼかし</translation>
     </message>
@@ -2107,6 +2099,10 @@ Also affect the color value copying.</source>
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
         <translation>クリップボードにコピー (Ctrl+C)</translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>長方形/楕円</translation>
     </message>
 </context>
 <context>

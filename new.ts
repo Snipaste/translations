@@ -2032,14 +2032,6 @@ Also affect the color value copying.</source>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Rectangle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ellipse</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Line strip</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2093,6 +2085,10 @@ Also affect the color value copying.</source>
     </message>
     <message>
         <source>Finish edit (Esc)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

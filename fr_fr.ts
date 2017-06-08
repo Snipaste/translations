@@ -2096,14 +2096,6 @@ Affecte également la copie de la valeur de couleur.</translation>
         <translation>Enregistrer dans un fichier (Ctrl+S)</translation>
     </message>
     <message>
-        <source>Rectangle</source>
-        <translation>Rectangle</translation>
-    </message>
-    <message>
-        <source>Ellipse</source>
-        <translation>Ellipse</translation>
-    </message>
-    <message>
         <source>Mosaic/Blur</source>
         <translation>Mosaique/Flou</translation>
     </message>
@@ -2114,6 +2106,10 @@ Affecte également la copie de la valeur de couleur.</translation>
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
         <translation>Copier vers presse-papier (Ctrl+C)</translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Rectangle/Ellipse</translation>
     </message>
 </context>
 <context>

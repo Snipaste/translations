@@ -2051,14 +2051,6 @@ Także oddziałuje na kopiowanie wartości koloru.</translation>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Rectangle</source>
-        <translation>Prostokąt</translation>
-    </message>
-    <message>
-        <source>Ellipse</source>
-        <translation>Elipsa</translation>
-    </message>
-    <message>
         <source>Line strip</source>
         <translation>Linie</translation>
     </message>
@@ -2113,6 +2105,10 @@ Także oddziałuje na kopiowanie wartości koloru.</translation>
     <message>
         <source>Finish edit (Esc)</source>
         <translation>Zakończ edycję (Esc)</translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Prostokąt/Elipsa</translation>
     </message>
 </context>
 <context>
