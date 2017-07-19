@@ -58,6 +58,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Portuguese (Portugal) | pt_pt | _v1.13.2_   | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
 | Vietnamese            | vi_vn | _v1.11.3_   | [evildeepblue](mailto:it4u.mm@gmail.com) |
 | French                | fr_fr | _v1.13.2_   | rico-sos |
+| Russian               | ru    | **v1.13.5** | [vanja-san](https://github.com/vanja-san) |
 
 ## Contact
 
