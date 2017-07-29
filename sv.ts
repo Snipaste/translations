@@ -708,12 +708,20 @@ Autostart vid systemstart har avbrutits.</translation>
         <source>Trace</source>
         <translation>Spåra</translation>
     </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Välj färg</translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -725,10 +733,6 @@ Autostart vid systemstart har avbrutits.</translation>
     <message>
         <source>Copy</source>
         <translation>Kopiera</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation>Redigera</translation>
     </message>
     <message>
         <source>Play</source>
@@ -877,6 +881,10 @@ Autostart vid systemstart har avbrutits.</translation>
     <message>
         <source>Select Color</source>
         <translation>Välj färg</translation>
+    </message>
+    <message>
+        <source>Annotate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2133,6 +2141,13 @@ Påverkar också färgvärdeskopiering.</translation>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Växla mosaik/oskärpa</translation>
+    </message>
+</context>
+<context>
+    <name>tipsdialog</name>
+    <message>
+        <source>Tips:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

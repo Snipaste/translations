@@ -708,12 +708,20 @@ Startup on boot has been cancelled.</source>
         <translation>Что-то пошло не так с ярлыком запуска.
 Запуск при загрузке был отменен.</translation>
     </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Выбрать цвет</translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -781,10 +789,6 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Copy</source>
         <translation>Копировать</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation>Изменить</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -877,6 +881,10 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Y-mirror</source>
         <translation>Y-зеркало</translation>
+    </message>
+    <message>
+        <source>Annotate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2133,6 +2141,13 @@ Also affect the color value copying.</source>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Переключить Мозайку/Размытие</translation>
+    </message>
+</context>
+<context>
+    <name>tipsdialog</name>
+    <message>
+        <source>Tips:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

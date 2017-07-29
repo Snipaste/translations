@@ -706,6 +706,10 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
         <source>Thank you for your support!</source>
         <translation>Danke für Ihre Unterstützung!</translation>
     </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -713,13 +717,13 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
         <source>Select Color</source>
         <translation>Farbe wählen</translation>
     </message>
+    <message>
+        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
-    <message>
-        <source>Edit</source>
-        <translation>Bearbeiten</translation>
-    </message>
     <message>
         <source>Copy image</source>
         <translation>Bild kopieren</translation>
@@ -875,6 +879,10 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     <message>
         <source>Play</source>
         <translation>Abspielen</translation>
+    </message>
+    <message>
+        <source>Annotate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2138,6 +2146,13 @@ Hat Auswirkung auf den kopierten Farbwert.</translation>
     <message>
         <source>Font family</source>
         <translation>Schriftfamilie</translation>
+    </message>
+</context>
+<context>
+    <name>tipsdialog</name>
+    <message>
+        <source>Tips:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

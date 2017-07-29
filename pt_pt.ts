@@ -708,12 +708,20 @@ O arranque com o sistema foi cancelado.</translation>
         <source>Quick save</source>
         <translation>Guardar rápido</translation>
     </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Seleccionar Cor</translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -781,10 +789,6 @@ O arranque com o sistema foi cancelado.</translation>
     <message>
         <source>Copy</source>
         <translation>Copiar</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation>Editar</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -877,6 +881,10 @@ O arranque com o sistema foi cancelado.</translation>
     <message>
         <source>Y-mirror</source>
         <translation>Espelho-Y</translation>
+    </message>
+    <message>
+        <source>Annotate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2133,6 +2141,13 @@ Também produz efeito na cópia do valor da cor.</translation>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Alternar mosaico/desfocar</translation>
+    </message>
+</context>
+<context>
+    <name>tipsdialog</name>
+    <message>
+        <source>Tips:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

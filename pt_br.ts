@@ -708,12 +708,20 @@ A inicialização no boot foi cancelada.</translation>
         <source>Click here to see the changelog</source>
         <translation>Clique aqui para ver o log de alterações</translation>
     </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Selecione o Cor</translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -781,10 +789,6 @@ A inicialização no boot foi cancelada.</translation>
     <message>
         <source>Copy</source>
         <translation>Copiar</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation>Editar</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -877,6 +881,10 @@ A inicialização no boot foi cancelada.</translation>
     <message>
         <source>Y-mirror</source>
         <translation>Espelhar -Y</translation>
+    </message>
+    <message>
+        <source>Annotate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2133,6 +2141,13 @@ Também afeta na cópia do valor da cor.</translation>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Alterar mosaico/desfoque</translation>
+    </message>
+</context>
+<context>
+    <name>tipsdialog</name>
+    <message>
+        <source>Tips:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

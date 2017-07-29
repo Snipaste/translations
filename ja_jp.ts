@@ -704,12 +704,20 @@ Startup on boot has been cancelled.</source>
         <source>Trace</source>
         <translation>トレース</translation>
     </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>色を選択</translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -729,10 +737,6 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Copy</source>
         <translation>コピー</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation>編集</translation>
     </message>
     <message>
         <source>Play</source>
@@ -873,6 +877,10 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Select Color</source>
         <translation>色を選択</translation>
+    </message>
+    <message>
+        <source>Annotate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2126,6 +2134,13 @@ Also affect the color value copying.</source>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>モザイク/ぼかしを切り替えます</translation>
+    </message>
+</context>
+<context>
+    <name>tipsdialog</name>
+    <message>
+        <source>Tips:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

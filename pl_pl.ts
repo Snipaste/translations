@@ -708,12 +708,20 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
         <source>Click here to see the changelog</source>
         <translation>Kliknij tu aby zobaczyć listę zmian</translation>
     </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Wybierz kolor</translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -781,10 +789,6 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
     <message>
         <source>Copy</source>
         <translation>Kopiuj</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation>Edycja</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -877,6 +881,10 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
     <message>
         <source>Y-mirror</source>
         <translation>Oś Y</translation>
+    </message>
+    <message>
+        <source>Annotate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2132,6 +2140,13 @@ Także oddziałuje na kopiowanie wartości koloru.</translation>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Przełącz mozaikę/rozmazanie</translation>
+    </message>
+</context>
+<context>
+    <name>tipsdialog</name>
+    <message>
+        <source>Tips:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -708,6 +708,10 @@ Automatisch opstarten is uitgeschakeld.</translation>
         <source>Thank you for your support!</source>
         <translation>Bedankt voor uw ondersteuning!</translation>
     </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -715,13 +719,13 @@ Automatisch opstarten is uitgeschakeld.</translation>
         <source>Select Color</source>
         <translation>Kleur selecteren</translation>
     </message>
+    <message>
+        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
-    <message>
-        <source>Edit</source>
-        <translation>Bewerken</translation>
-    </message>
     <message>
         <source>Copy image</source>
         <translation>Afbeelding kopiëren</translation>
@@ -877,6 +881,10 @@ Automatisch opstarten is uitgeschakeld.</translation>
     <message>
         <source>Play</source>
         <translation>Afspelen</translation>
+    </message>
+    <message>
+        <source>Annotate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2133,6 +2141,13 @@ Dit heeft ook gevolgen voor het kopiëren van een kleur.</translation>
     <message>
         <source>Font family</source>
         <translation>Lettertype</translation>
+    </message>
+</context>
+<context>
+    <name>tipsdialog</name>
+    <message>
+        <source>Tips:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -704,12 +704,20 @@ Startup on boot has been cancelled.</source>
         <source>Quick save</source>
         <translation>Lưu nhanh</translation>
     </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Chọn màu sắc</translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -777,10 +785,6 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Copy</source>
         <translation>Sao chép</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation></translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -873,6 +877,10 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Y-mirror</source>
         <translation>Y- đối xứng</translation>
+    </message>
+    <message>
+        <source>Annotate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2118,6 +2126,13 @@ Also affect the color value copying.</source>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Thay đổi mosaic/blur</translation>
+    </message>
+</context>
+<context>
+    <name>tipsdialog</name>
+    <message>
+        <source>Tips:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

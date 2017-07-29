@@ -706,6 +706,10 @@ Startup on boot has been cancelled.</source>
         <source>Thank you for your support!</source>
         <translation>感謝您的支持！</translation>
     </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -713,13 +717,13 @@ Startup on boot has been cancelled.</source>
         <source>Select Color</source>
         <translation>選擇色彩</translation>
     </message>
+    <message>
+        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
-    <message>
-        <source>Edit</source>
-        <translation>編輯</translation>
-    </message>
     <message>
         <source>Copy image</source>
         <translation>複製圖像</translation>
@@ -875,6 +879,10 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Play</source>
         <translation>播放</translation>
+    </message>
+    <message>
+        <source>Annotate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2130,6 +2138,13 @@ Also affect the color value copying.</source>
     <message>
         <source>Font family</source>
         <translation>字族</translation>
+    </message>
+</context>
+<context>
+    <name>tipsdialog</name>
+    <message>
+        <source>Tips:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
