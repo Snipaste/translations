@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.0" language="sv">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -710,7 +710,7 @@ Autostart vid systemstart har avbrutits.</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ryska</translation>
     </message>
 </context>
 <context>
@@ -721,7 +721,7 @@ Autostart vid systemstart har avbrutits.</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrolla eller tryck &quot;1&quot; eller &quot;2&quot;, för att ändra penntjocklek.</translation>
     </message>
 </context>
 <context>
@@ -872,11 +872,11 @@ Autostart vid systemstart har avbrutits.</translation>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Alltid överst</translation>
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera färger</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -884,7 +884,7 @@ Autostart vid systemstart har avbrutits.</translation>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentera</translation>
     </message>
 </context>
 <context>
@@ -1084,11 +1084,11 @@ Klicka här för att uppdatera nu</translation>
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Hantera grupper</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera snabbtangenter</translation>
     </message>
 </context>
 <context>
@@ -1144,11 +1144,11 @@ Klicka här för att uppdatera nu</translation>
     <name>groupmanager</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
@@ -2147,7 +2147,7 @@ Påverkar också färgvärdeskopiering.</translation>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tips:</translation>
     </message>
 </context>
 <context>

@@ -50,14 +50,14 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Chinese (Traditional) | zh_tw | _v1.13.2_   | [zhtw](http://greedphantom.blogspot.tw) |
 | German                | de_de | _v1.13.2_   | [Samuel Marcius](http://www.fontenvironment.com) |
 | Greek                 | el_gr | _v1.13.2_   | [geogeo.gr](http://www.geogeo.gr) |
-| Swedish               | sv    | _v1.13.2_   | [Åke Engelbrektson](https://svenskasprakfiler.se) |
+| Swedish               | sv    | **v1.14**   | [Åke Engelbrektson](https://svenskasprakfiler.se) |
 | Japanese              | ja_jp | _v1.13.2_   | 鳳凰院カミ |
 | Portuguese (Brazil)   | pt_br | _v1.13.2_   | Igor Rückert |
 | Polish                | pl_pl | _v1.11.3_   | [Wirus deleted my username](https://github.com/Wirus-deleted-my-username) |
 | Dutch                 | nl_nl | _v1.13.5_   | Stephan Paternotte |
 | Portuguese (Portugal) | pt_pt | _v1.13.2_   | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
 | Vietnamese            | vi_vn | _v1.11.3_   | [evildeepblue](mailto:it4u.mm@gmail.com) |
-| French                | fr_fr | _v1.13.2_   | rico-sos |
+| French                | fr_fr | **v1.14**   | rico-sos |
 | Russian               | ru    | _v1.13.5_   | [vanja-san](https://github.com/vanja-san) |
 
 ## Contact

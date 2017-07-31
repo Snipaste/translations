@@ -710,7 +710,7 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Russe</translation>
     </message>
 </context>
 <context>
@@ -721,7 +721,7 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour changer la largeur du stylet, faites défiler la molette de votre souris ou appuyez sur &apos;1&apos; ou &apos;2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -872,11 +872,11 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Rester sur</translation>
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation>Editer Couleur</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -884,7 +884,7 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Annoter</translation>
     </message>
 </context>
 <context>
@@ -1084,11 +1084,11 @@ Cliquez ici pour mettre à jour maintenant</translation>
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Gérer les groupes</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactiver raccourcis clavier</translation>
     </message>
 </context>
 <context>
@@ -1144,11 +1144,11 @@ Cliquez ici pour mettre à jour maintenant</translation>
     <name>groupmanager</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -2147,7 +2147,7 @@ Affecte également la copie de la valeur de couleur.</translation>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conseils:</translation>
     </message>
 </context>
 <context>
