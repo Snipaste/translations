@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ar_JO">
+<TS version="2.0" language="ar_JO">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -706,7 +706,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>روسيا</translation>
     </message>
 </context>
 <context>
@@ -717,7 +717,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>لتغيير عرض القلم ، الرجاء تمرير عجله الماوس أو الضغط علي &apos; 1 &apos; أو &apos; 2 &apos;.</translation>
     </message>
 </context>
 <context>
@@ -872,15 +872,15 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير اللون</translation>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق توضيحي</translation>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>البقاء علي القمه</translation>
     </message>
 </context>
 <context>
@@ -1079,11 +1079,11 @@ Click here to update now</source>
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>أداره المجموعات</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل مفاتيح الاختصار</translation>
     </message>
 </context>
 <context>
@@ -2128,7 +2128,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميحات:</translation>
     </message>
 </context>
 <context>

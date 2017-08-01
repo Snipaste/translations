@@ -708,7 +708,7 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Russisch</translation>
     </message>
 </context>
 <context>
@@ -719,7 +719,7 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Um die Stiftbreite zu ändern, bitte mit dem Mausrad scrollen oder &apos;1&apos; oder &apos;2 drücken.</translation>
     </message>
 </context>
 <context>
@@ -746,11 +746,11 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe bearbeiten</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe Wählen</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -766,7 +766,7 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Immer oben liegend</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -882,7 +882,7 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentieren</translation>
     </message>
 </context>
 <context>
@@ -1012,7 +1012,7 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppen verwalten</translation>
     </message>
     <message>
         <source>Snip and copy</source>
@@ -1020,7 +1020,7 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Hotkeys deaktivieren</translation>
     </message>
     <message>
         <source>Save image as</source>
@@ -1146,11 +1146,11 @@ Hier klicken um jetzt upzudaten</translation>
     <name>groupmanager</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -2152,7 +2152,7 @@ Hat Auswirkung auf den kopierten Farbwert.</translation>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipps:</translation>
     </message>
 </context>
 <context>

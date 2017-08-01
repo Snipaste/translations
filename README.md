@@ -47,19 +47,19 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Language              | Code  | Status      | Contributors |
 | --------------------- | ----- | ----------- | ------------ |
 | Chinese (Simplified)  | zh_cn | **v1.14**   | [liulex](https://github.com/liulex) |
-| Chinese (Traditional) | zh_tw | _v1.13.2_   | [zhtw](http://greedphantom.blogspot.tw) |
-| German                | de_de | _v1.13.2_   | [Samuel Marcius](http://www.fontenvironment.com) |
-| Greek                 | el_gr | _v1.13.2_   | [geogeo.gr](http://www.geogeo.gr) |
+| Chinese (Traditional) | zh_tw | **v1.14**   | [zhtw](http://greedphantom.blogspot.tw) |
+| German                | de_de | **v1.14**   | [Samuel Marcius](http://www.fontenvironment.com) |
+| Greek                 | el_gr | **v1.14**   | [geogeo.gr](http://www.geogeo.gr) |
 | Swedish               | sv    | **v1.14**   | [Åke Engelbrektson](https://svenskasprakfiler.se) |
-| Japanese              | ja_jp | _v1.13.2_   | 鳳凰院カミ |
-| Portuguese (Brazil)   | pt_br | _v1.13.2_   | Igor Rückert |
+| Japanese              | ja_jp | **v1.14**   | 鳳凰院カミ |
+| Portuguese (Brazil)   | pt_br | **v1.14**   | Igor Rückert |
 | Polish                | pl_pl | _v1.11.3_   | [Wirus deleted my username](https://github.com/Wirus-deleted-my-username) |
-| Dutch                 | nl_nl | _v1.13.5_   | Stephan Paternotte |
+| Dutch                 | nl_nl | **v1.14**   | Stephan Paternotte |
 | Portuguese (Portugal) | pt_pt | _v1.13.2_   | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
 | Vietnamese            | vi_vn | _v1.11.3_   | [evildeepblue](mailto:it4u.mm@gmail.com) |
 | French                | fr_fr | **v1.14**   | rico-sos |
 | Russian               | ru    | _v1.13.5_   | [vanja-san](https://github.com/vanja-san) |
-| Arabic                | ar_jo | _v1.13.5_   | MFMDawdeh |
+| Arabic                | ar_jo | **v1.14**   | MFMDawdeh |
 
 ## Contact
 

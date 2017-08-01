@@ -710,7 +710,7 @@ A inicialização no boot foi cancelada.</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Russo</translation>
     </message>
 </context>
 <context>
@@ -721,7 +721,7 @@ A inicialização no boot foi cancelada.</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para mudar a largura da caneta, gire a roda do mouse ou pressione &apos;1&apos; ou &apos;2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -780,11 +780,11 @@ A inicialização no boot foi cancelada.</translation>
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar cor</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione a Cor</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -800,7 +800,7 @@ A inicialização no boot foi cancelada.</translation>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficar no topo</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -884,7 +884,7 @@ A inicialização no boot foi cancelada.</translation>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotar</translation>
     </message>
 </context>
 <context>
@@ -902,7 +902,7 @@ A inicialização no boot foi cancelada.</translation>
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerenciar grupos</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
@@ -938,7 +938,7 @@ A inicialização no boot foi cancelada.</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Desativar teclas de atalho</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1144,11 +1144,11 @@ Clique aqui para atualizar agora</translation>
     <name>groupmanager</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -1742,7 +1742,7 @@ Se esta opção estiver marcada, os recursos acima serão desabilitados.</transl
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>Você também pode exibir/ocultar o cursor capturado pela tecla ` ao recortar. </translation>
+        <translation>Você também pode exibir/ocultar o cursor capturado pela tecla ` ao recortar.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key action:</source>
@@ -2147,7 +2147,7 @@ Também afeta na cópia do valor da cor.</translation>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicas:</translation>
     </message>
 </context>
 <context>

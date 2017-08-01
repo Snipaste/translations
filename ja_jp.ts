@@ -706,7 +706,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>ロシア</translation>
     </message>
 </context>
 <context>
@@ -717,7 +717,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>ペンの幅を変更するには、マウスホイールをスクロールするか、&apos;1&apos;或は&apos;2&apos;を押してください。</translation>
     </message>
 </context>
 <context>
@@ -868,11 +868,11 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>手前にする</translation>
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation>色を編集</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -880,7 +880,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>注釈</translation>
     </message>
 </context>
 <context>
@@ -1080,11 +1080,11 @@ Click here to update now</source>
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>グループの管理</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>ホットキーを無効にする</translation>
     </message>
 </context>
 <context>
@@ -1140,11 +1140,11 @@ Click here to update now</source>
     <name>groupmanager</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">確認</translation>
+        <translation>確認</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
 </context>
 <context>
@@ -2140,7 +2140,7 @@ Also affect the color value copying.</source>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation type="unfinished"></translation>
+        <translation>ヒント：</translation>
     </message>
 </context>
 <context>

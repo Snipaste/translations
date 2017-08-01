@@ -750,7 +750,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation>选择颜色选择颜色</translation>
+        <translation>选择颜色</translation>
     </message>
     <message>
         <source>Copy</source>

@@ -708,7 +708,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>俄語</translation>
     </message>
 </context>
 <context>
@@ -719,7 +719,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>若要調整畫筆粗細，請滾動滑鼠滾輪或按鍵盤上的 1 或 2.</translation>
     </message>
 </context>
 <context>
@@ -746,11 +746,11 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯色彩</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">選擇色彩</translation>
+        <translation>選擇色彩</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -766,7 +766,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>最上層顯示</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -882,7 +882,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>標註</translation>
     </message>
 </context>
 <context>
@@ -1012,7 +1012,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>管理貼圖組</translation>
     </message>
     <message>
         <source>Snip and copy</source>
@@ -2144,7 +2144,7 @@ Also affect the color value copying.</source>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation type="unfinished"></translation>
+        <translation>提示:</translation>
     </message>
 </context>
 <context>

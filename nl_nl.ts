@@ -710,7 +710,7 @@ Automatisch opstarten is uitgeschakeld.</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Russisch</translation>
     </message>
 </context>
 <context>
@@ -721,7 +721,7 @@ Automatisch opstarten is uitgeschakeld.</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de pendikte aan met het muiswiel of toets &apos;1&apos; of &apos;2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -884,7 +884,7 @@ Automatisch opstarten is uitgeschakeld.</translation>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Aantekening toevoegen</translation>
     </message>
 </context>
 <context>
@@ -2147,7 +2147,7 @@ Dit heeft ook gevolgen voor het kopiëren van een kleur.</translation>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tips:</translation>
     </message>
 </context>
 <context>
