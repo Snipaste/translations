@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="el_GR">
+<TS version="2.0" language="el_GR">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -711,7 +711,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρωσικά</translation>
     </message>
 </context>
 <context>
@@ -722,7 +722,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>To change the pen width, please scroll your mouse wheel or press «1» or «2».</translation>
     </message>
 </context>
 <context>
@@ -874,11 +874,11 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Διατήρηση στην κορυφή</translation>
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασία χρώματος</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -886,7 +886,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Σχολιασμός</translation>
     </message>
 </context>
 <context>
@@ -1086,11 +1086,11 @@ Click here to update now</source>
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχείριση ομάδων</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Απενεργοποίηση πλήκτρων προσβασης</translation>
     </message>
 </context>
 <context>
@@ -1146,11 +1146,11 @@ Click here to update now</source>
     <name>groupmanager</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Εντάξει</translation>
+        <translation>Εντάξει</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Άκυρο</translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -2157,7 +2157,7 @@ Also affect the color value copying.</source>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμβουλές:</translation>
     </message>
 </context>
 <context>
