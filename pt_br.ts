@@ -712,6 +712,10 @@ A inicialização no boot foi cancelada.</translation>
         <source>Russian</source>
         <translation>Russo</translation>
     </message>
+    <message>
+        <source>Arabic</source>
+        <translation>Árabe</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

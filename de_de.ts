@@ -710,6 +710,10 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
         <source>Russian</source>
         <translation>Russisch</translation>
     </message>
+    <message>
+        <source>Arabic</source>
+        <translation>Arabisch</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

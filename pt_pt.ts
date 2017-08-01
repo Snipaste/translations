@@ -712,6 +712,10 @@ O arranque com o sistema foi cancelado.</translation>
         <source>Russian</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Arabic</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="el_GR">
+<TS version="2.1" language="el_GR">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -712,6 +712,10 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Russian</source>
         <translation>Ρωσικά</translation>
+    </message>
+    <message>
+        <source>Arabic</source>
+        <translation>Αραβικά</translation>
     </message>
 </context>
 <context>

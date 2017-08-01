@@ -710,6 +710,10 @@ Startup on boot has been cancelled.</source>
         <source>Russian</source>
         <translation>俄语</translation>
     </message>
+    <message>
+        <source>Arabic</source>
+        <translation>阿拉伯语</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

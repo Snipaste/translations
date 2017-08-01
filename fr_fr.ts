@@ -712,6 +712,10 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
         <source>Russian</source>
         <translation>Russe</translation>
     </message>
+    <message>
+        <source>Arabic</source>
+        <translation>Arabe</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

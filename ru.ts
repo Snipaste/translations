@@ -710,7 +710,11 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Русский</translation>
+    </message>
+    <message>
+        <source>Arabic</source>
+        <translation>Арабский</translation>
     </message>
 </context>
 <context>

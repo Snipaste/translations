@@ -712,6 +712,10 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
         <source>Russian</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Arabic</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

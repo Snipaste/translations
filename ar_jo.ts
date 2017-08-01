@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ar_JO">
+<TS version="2.1" language="ar_JO">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -707,6 +707,10 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Russian</source>
         <translation>روسيا</translation>
+    </message>
+    <message>
+        <source>Arabic</source>
+        <translation>العربية</translation>
     </message>
 </context>
 <context>
