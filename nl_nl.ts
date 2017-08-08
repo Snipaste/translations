@@ -119,7 +119,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation>Opname alleen:</translation>
+        <translation>Tijdens schermopname:</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
@@ -179,7 +179,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Abort snipping</source>
-        <translation>Schermopname afbreken</translation>
+        <translation>Schermopname annuleren</translation>
     </message>
     <message>
         <source>Mouse right-click</source>
@@ -187,11 +187,11 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Re-decide the snipping area / abort snipping</source>
-        <translation>Schermopnamegebied opnieuw vaststellen/schermopname afbreken</translation>
+        <translation>Schermopnamegebied opnieuw vaststellen / schermopname annuleren</translation>
     </message>
     <message>
         <source>Paste only:</source>
-        <translation>Alleen plakken:</translation>
+        <translation>Tijdens plakken:</translation>
     </message>
     <message>
         <source>Rotate the image clockwise by 90 degrees</source>
@@ -942,7 +942,7 @@ Automatisch opstarten is uitgeschakeld.</translation>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation>Vertraagde opname</translation>
+        <translation>Vertraagde schermopname</translation>
     </message>
     <message>
         <source>Cancel mouse click-through</source>
@@ -1022,7 +1022,7 @@ Automatisch opstarten is uitgeschakeld.</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation>Opname en kopiëren</translation>
+        <translation>Schermopname kopiëren</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
@@ -1482,7 +1482,7 @@ Gebruik -1 voor automatische kwaliteit.</translation>
     </message>
     <message>
         <source>Switch to another image group:</source>
-        <translation>Schakelen naar een andere afbeeldingengroep:</translation>
+        <translation>Naar andere afbeeldingengroep schakelen:</translation>
     </message>
     <message>
         <source>The shortcut to switch to another image group</source>
@@ -1500,7 +1500,7 @@ Indien er zich geen afbeeldingsvenster onder de cursor bevindt, zullen alle niet
     </message>
     <message>
         <source>Snip and copy:</source>
-        <translation>Opname en kopiëren:</translation>
+        <translation>Schermopname kopiëren:</translation>
     </message>
     <message>
         <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
@@ -1562,7 +1562,7 @@ Meld deze wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>Grammar:</source>
-        <translation>Syntax:</translation>
+        <translation>Syntaxis:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -1754,7 +1754,7 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
     </message>
     <message>
         <source>Delayed snip:</source>
-        <translation>Vertraagde opname:</translation>
+        <translation>Vertraagde schermopname:</translation>
     </message>
     <message>
         <source>The shortcut to delayed snip</source>
@@ -2117,7 +2117,7 @@ Dit heeft ook gevolgen voor het kopiëren van een kleur.</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
-        <translation>Schermopname afbreken (Esc)</translation>
+        <translation>Schermopname annuleren (Esc)</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -2128,7 +2128,7 @@ Dit heeft ook gevolgen voor het kopiëren van een kleur.</translation>
     <name>paintbar1</name>
     <message>
         <source>Fill</source>
-        <translation>Vullen</translation>
+        <translation>Vlak</translation>
     </message>
     <message>
         <source>Bold</source>
