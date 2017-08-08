@@ -710,11 +710,11 @@ O arranque com o sistema foi cancelado.</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Russo</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Árabe</translation>
     </message>
 </context>
 <context>
@@ -725,7 +725,7 @@ O arranque com o sistema foi cancelado.</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para alterar a largura do traço, rode a roda do rato ou pressione &apos;1&apos; ou &apos;2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -784,7 +784,7 @@ O arranque com o sistema foi cancelado.</translation>
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar cor</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -804,7 +804,7 @@ O arranque com o sistema foi cancelado.</translation>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Permanecer visível</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -888,7 +888,7 @@ O arranque com o sistema foi cancelado.</translation>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotar</translation>
     </message>
 </context>
 <context>
@@ -906,7 +906,7 @@ O arranque com o sistema foi cancelado.</translation>
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerir grupos</translation>
     </message>
     <message>
         <source>Error</source>
@@ -950,7 +950,7 @@ O arranque com o sistema foi cancelado.</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar teclas de atalho</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1148,11 +1148,11 @@ Clique aqui para actualizar</translation>
     <name>groupmanager</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2151,7 +2151,7 @@ Também produz efeito na cópia do valor da cor.</translation>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicas:</translation>
     </message>
 </context>
 <context>
