@@ -119,7 +119,7 @@ Please contact the developer.</source>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation>Только фрагмент:</translation>
+        <translation>Только область:</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
@@ -131,11 +131,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Set the snipping area to fullscreen</source>
-        <translation>Установить область выделения фрагментов экрана в полноэкранный режим</translation>
+        <translation>Установить выделение области экрана в полноэкранный режим</translation>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation>Установите область выделения фрагментов так же, как и последняя успешная</translation>
+        <translation>Установите выделение области так же, как и последнее успешноя</translation>
     </message>
     <message>
         <source>, (Comma)</source>
@@ -143,7 +143,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
-        <translation>Переключение на предыдущую запись фрагмента</translation>
+        <translation>Переключение на предыдущую запись области</translation>
     </message>
     <message>
         <source>. (Period)</source>
@@ -151,7 +151,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Switch to the next snip record</source>
-        <translation>Переключиться на следующую запись отсечения</translation>
+        <translation>Переключиться на следующую запись области</translation>
     </message>
     <message>
         <source>Ctrl + Arrow keys</source>
@@ -159,7 +159,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
-        <translation>Увеличить область выделения фрагментов на 1 пиксел</translation>
+        <translation>Увеличить выделение области на 1 пиксель</translation>
     </message>
     <message>
         <source>Shift + Arrow keys</source>
@@ -167,7 +167,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
-        <translation>Уменьшить область выделения фрагментов на 1 пиксел</translation>
+        <translation>Уменьшить выделение области на 1 пиксель</translation>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
@@ -175,11 +175,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
-        <translation>Скопировать снимок экрана и закрыть выделение фрагментов экрана</translation>
+        <translation>Скопировать снимок экрана и закрыть выделение области экрана</translation>
     </message>
     <message>
         <source>Abort snipping</source>
-        <translation>Прервать выделение фрагмента экрана</translation>
+        <translation>Прервать выделение области экрана</translation>
     </message>
     <message>
         <source>Mouse right-click</source>
@@ -187,7 +187,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Re-decide the snipping area / abort snipping</source>
-        <translation>Повторно определить область выделения фрагментов экрана / отменить выделение фрагментов экрана</translation>
+        <translation>Повторно определить выделение области экрана / отменить выделение области экрана</translation>
     </message>
     <message>
         <source>Paste only:</source>
@@ -361,7 +361,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Play</source>
-        <translation>Начать</translation>
+        <translation>Воспроизвести</translation>
     </message>
 </context>
 <context>
@@ -396,11 +396,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Snip hotkey</source>
-        <translation>Горячие клавишиа Snip</translation>
+        <translation>Горячие клавишиа для &quot;Область&quot;</translation>
     </message>
     <message>
         <source>Paste hotkey</source>
-        <translation>Вставить горячие клавиши</translation>
+        <translation>Горячие клавиши для &quot;Вставить&quot;</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -420,7 +420,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Donate</source>
-        <translation>Донат</translation>
+        <translation>Пожертвование</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -638,7 +638,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Snipaste is running</source>
-        <translation>Snipaste работает</translation>
+        <translation>Snipaste запущен</translation>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
@@ -668,7 +668,7 @@ All settings will use defaults.</source>
     </message>
     <message>
         <source>None</source>
-        <translation>Ничто</translation>
+        <translation>Ничего</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -723,10 +723,6 @@ Startup on boot has been cancelled.</source>
         <source>Select Color</source>
         <translation>Выбрать цвет</translation>
     </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -756,7 +752,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Play</source>
-        <translation>Начать</translation>
+        <translation>Воспроизвести</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -793,6 +789,10 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Copy</source>
         <translation>Копировать</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Изменить</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -886,10 +886,6 @@ Startup on boot has been cancelled.</source>
         <source>Y-mirror</source>
         <translation>Y-зеркало</translation>
     </message>
-    <message>
-        <source>Annotate</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -918,15 +914,15 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Snip</source>
-        <translation>Фрагмент</translation>
+        <translation>Область</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation>Отсечь и скопировать</translation>
+        <translation>Выделить и скопировать</translation>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation>Отсечение отложенно</translation>
+        <translation>Выделение отложенно</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -942,11 +938,11 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Cancel mouse click-through</source>
-        <translation>Отменить нажатия мыши - через</translation>
+        <translation>Отменить нажатия мыши-через</translation>
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation>Очистить записи отсечения</translation>
+        <translation>Очистить записи области</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
@@ -1203,7 +1199,7 @@ Click here to update now</source>
     <name>newgroup</name>
     <message>
         <source>Create New Group</source>
-        <translation>Создание новой группы</translation>
+        <translation>Создать новую группу</translation>
     </message>
     <message>
         <source>Group name:</source>
@@ -1226,15 +1222,15 @@ Click here to update now</source>
     </message>
     <message>
         <source>Run Snipaste when the operating system starts.</source>
-        <translation>Запускать Snipaste при запуске операционной системы.</translation>
+        <translation>Запускать Snipaste после старта операционной системы.</translation>
     </message>
     <message>
         <source>Run on system startup</source>
-        <translation>Запуск при запуске системы</translation>
+        <translation>Запуск после старта системы</translation>
     </message>
     <message>
         <source>Run as administrator for startup.</source>
-        <translation>Запуск от имени администратора для запуска.</translation>
+        <translation>Запуск от имени администратора после старта.</translation>
     </message>
     <message>
         <source>As administrator</source>
@@ -1310,7 +1306,7 @@ Click here to update now</source>
     </message>
     <message>
         <source>Use default tray icon.</source>
-        <translation>Использовать значок в трее по умолчанию.</translation>
+        <translation>Использовать иконку в трее по умолчанию.</translation>
     </message>
     <message>
         <source>Default</source>
@@ -1318,11 +1314,11 @@ Click here to update now</source>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
-        <translation>Использовать значок в трее с настраиваемым цветом.</translation>
+        <translation>Использовать иконку в трее с настраиваемым цветом.</translation>
     </message>
     <message>
         <source>Set the color for the tray icon.</source>
-        <translation>Установить цвет для значка в трее.</translation>
+        <translation>Установить цвет для иконки в трее.</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1342,7 +1338,7 @@ Click here to update now</source>
     </message>
     <message>
         <source>Snip</source>
-        <translation>Фрагмент</translation>
+        <translation>Область</translation>
     </message>
     <message>
         <source>Display</source>
@@ -1354,7 +1350,7 @@ Click here to update now</source>
     </message>
     <message>
         <source>Set the width of the border around the snipping area.</source>
-        <translation>Задайте ширину границы вокруг фрагмента экрана.</translation>
+        <translation>Задайте ширину границы вокруг выделенной области.</translation>
     </message>
     <message>
         <source>px</source>
@@ -1366,15 +1362,15 @@ Click here to update now</source>
     </message>
     <message>
         <source>The mask color of snipping</source>
-        <translation>Цвет маски выделения фрагментов</translation>
+        <translation>Цвет маски выделенной области</translation>
     </message>
     <message>
         <source>Show anchors around the snipping area.</source>
-        <translation>Отображать якоря вокруг области выделения фрагментов.</translation>
+        <translation>Отображать якоря вокруг выделенной области.</translation>
     </message>
     <message>
         <source>Show anchors</source>
-        <translation>Показать якоря</translation>
+        <translation>Отображать якоря</translation>
     </message>
     <message>
         <source>Anchors&apos; border color:</source>
@@ -1382,27 +1378,27 @@ Click here to update now</source>
     </message>
     <message>
         <source>In the magnifier, show:</source>
-        <translation>В окне &apos;Экранная лупа&apos; показать:</translation>
+        <translation>В окне &quot;Экранная лупа&quot;, показывать:</translation>
     </message>
     <message>
         <source>Show the mask in the magnifier.</source>
-        <translation>Отображение маски на экранной лупы.</translation>
+        <translation>Отображать маски на экранной лупе.</translation>
     </message>
     <message>
         <source>mask</source>
-        <translation>маска</translation>
+        <translation>маску</translation>
     </message>
     <message>
         <source>Show the border of the snipping area in the magnifier.</source>
-        <translation>Отображение границы фрагмента экрана с экранной лупы.</translation>
+        <translation>Отображать границы выделенной области на экранной лупе.</translation>
     </message>
     <message>
         <source>border</source>
-        <translation>границы</translation>
+        <translation>границу</translation>
     </message>
     <message>
         <source>Show the anchors in the magnifier.</source>
-        <translation>Отображение якорей на экранной лупы.</translation>
+        <translation>Отображать якоря на экранной лупе.</translation>
     </message>
     <message>
         <source>anchors</source>
@@ -1410,7 +1406,7 @@ Click here to update now</source>
     </message>
     <message>
         <source>Automatically show the fullscreen cross lines every time you start snipping.</source>
-        <translation>Автоматически отображать перекрестные линии на полноэкранном режиме при каждом запуске ножниц.</translation>
+        <translation>Автоотображать перекрестные линии на полноэкранном режиме при каждом запуске выделения области.</translation>
     </message>
     <message>
         <source>Auto show cross lines</source>
@@ -1422,15 +1418,15 @@ Click here to update now</source>
     </message>
     <message>
         <source>Auto detect the regions of windows when snipping.</source>
-        <translation>Автоматическое обнаружение областей Windows при использовании фрагментов экрана.</translation>
+        <translation>Автообнаружение областей окон при использовании выделения области.</translation>
     </message>
     <message>
         <source>Auto detect windows</source>
-        <translation>Автоматическое обнаружение окон</translation>
+        <translation>Автообнаружение окон</translation>
     </message>
     <message>
         <source>Hide the 1x1 region indicator before you decide the snipping region.</source>
-        <translation>Скрыть индикатор области 1x1, прежде чем определять область выделения фрагментов.</translation>
+        <translation>Скрыть индикатор области 1x1, прежде чем определять область выделения.</translation>
     </message>
     <message>
         <source>Hide 1x1</source>
@@ -1438,15 +1434,15 @@ Click here to update now</source>
     </message>
     <message>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
-        <translation>Автоматически определять области элементов пользовательского интерфейса (например, кнопки и меню), когда отображаются фрагменты области.</translation>
+        <translation>Автоопределять области элементов пользовательского интерфейса (например, кнопки и меню), при отображении выделенной области.</translation>
     </message>
     <message>
         <source>Auto detect UI elements</source>
-        <translation>Автоматическое определение элементов пользовательского интерфейса</translation>
+        <translation>Автоопределение элементов пользовательского интерфейса</translation>
     </message>
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
-        <translation>Вы также можете временно переключать его, нажав клавишу Tab, когда отображаются фрагменты области.</translation>
+        <translation>Вы также можете временно переключать его, нажав клавишу Tab, при отображении выделенной области.</translation>
     </message>
     <message>
         <source>Capture the cursor by default.</source>
@@ -1474,7 +1470,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>Нажмите среднюю кнопку, чтобы закрепить снимок экрана на экране.</translation>
+        <translation>Нажмите среднюю кнопку, чтобы закрепить скриншот на экране.</translation>
     </message>
     <message>
         <source>Pin to screen by clicking the mid-button</source>
@@ -1482,19 +1478,19 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Quit snipping if any window of other programs is activated.</source>
-        <translation>Отключить область выделения фрагментов, если активировано любое окно других программ.</translation>
+        <translation>Отключить выделение области, если активировано любое окно других программ.</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
-        <translation>Отключить область выделения фрагментов, если активировано любое другое окно</translation>
+        <translation>Отключить выделение области, если активировано любое другое окно</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key action:</source>
-        <translation>Действие ключа &apos;Enter&apos;:</translation>
+        <translation>Действие кнопки &apos;Enter&apos;:</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
-        <translation>Действие, которое необходимо выполнить для нажатия кнопки &apos;Enter&apos;, при области выделения фрагментов.</translation>
+        <translation>Действие, которое необходимо выполнить для нажатия кнопки &apos;Enter&apos;, при выделении области.</translation>
     </message>
     <message>
         <source>then</source>
@@ -1502,15 +1498,15 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>quit snipping</source>
-        <translation>закрыть область выделения фрагментов</translation>
+        <translation>выйти из выделения области</translation>
     </message>
     <message>
         <source>Ignore Win key:</source>
-        <translation>Игнорировать ключ Win:</translation>
+        <translation>Игнорировать кнопку Win:</translation>
     </message>
     <message>
         <source>Ignore the left Windows key when snipping.</source>
-        <translation>Игнорировать левую клавишу Windows в области выделения фрагментов.</translation>
+        <translation>Игнорировать левую клавишу Windows при выделении области.</translation>
     </message>
     <message>
         <source>Left</source>
@@ -1518,7 +1514,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
-        <translation>Игнорировать правую клавишу Windows в области выделения фрагментов.</translation>
+        <translation>Игнорировать правую клавишу Windows при выделении области.</translation>
     </message>
     <message>
         <source>Right</source>
@@ -1526,11 +1522,11 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Max number of history areas:</source>
-        <translation>Максимальное количество областей истории:</translation>
+        <translation>Максимальное количество истории областей:</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
-        <translation>Задайте максимальное число записей журнала для выделения фрагментов, хранящихся в журнале/отчасти.</translation>
+        <translation>Задайте максимальное число записей журнала для выделенной области, хранящихся в журнале/отчасти.</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -1627,12 +1623,12 @@ You can also find this option in the context menu of individual image window.</s
     <message>
         <source>If the source is a screenshot, show it where you snipped.
 If disabled, it would always be shown at the center of the primary screen.</source>
-        <translation>Если источником является скриншот, покажите его там, где у вас область выделения фрагментов.
+        <translation>Если источником является скриншот, покажите его там, где у вас выделенная область.
 Если он отключен, он всегда будет отображаться в центре основного экрана.</translation>
     </message>
     <message>
         <source>Use snipping position</source>
-        <translation>Использовать положение области выделения фрагментов</translation>
+        <translation>Использовать положение выделенной области</translation>
     </message>
     <message>
         <source>Zoom by mouse wheel</source>
@@ -1640,7 +1636,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
-        <translation>Если флажок не установлен, увеличьте изображение за верхний левый угол.</translation>
+        <translation>Если флажок не установлен, увеличьте изображение взявшись за верхний левый угол.</translation>
     </message>
     <message>
         <source>at mouse cursor</source>
@@ -1836,7 +1832,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Preview:</source>
-        <translation>Предварительный просмотр:</translation>
+        <translation>Предпросмотр:</translation>
     </message>
     <message>
         <source>Grammar:</source>
@@ -1848,7 +1844,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
-        <translation>Перейдите в папку &apos;Быстрое сохранение&apos;.</translation>
+        <translation>Открыть папку &apos;Быстрое сохранение&apos;.</translation>
     </message>
     <message>
         <source>Open</source>
@@ -1868,11 +1864,11 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Browse the auto save folder.</source>
-        <translation>Просмотр папки автоматического сохранения.</translation>
+        <translation>Открыть папку автосохранения.</translation>
     </message>
     <message>
         <source>Change the auto save folder.</source>
-        <translation>Измените папку автоматического сохранения.</translation>
+        <translation>Изменить папку автосохранения.</translation>
     </message>
     <message>
         <source>Hotkey</source>
@@ -1884,11 +1880,11 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Snip:</source>
-        <translation>Фрагмент:</translation>
+        <translation>Область:</translation>
     </message>
     <message>
         <source>The shortcut to snip</source>
-        <translation>Ярлык для фрагмента</translation>
+        <translation>Ярлык для области</translation>
     </message>
     <message>
         <source>Paste:</source>
@@ -1916,7 +1912,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Cancel mouse click-through:</source>
-        <translation>Отменить щелчок мышью:</translation>
+        <translation>Отменить щелчок мыши:</translation>
     </message>
     <message>
         <source>The shortcut to cancel the click-through mode of the image under the cursor.
@@ -1926,19 +1922,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Delayed snip:</source>
-        <translation>Отложенный фрагмент:</translation>
+        <translation>Отложенная область:</translation>
     </message>
     <message>
         <source>The shortcut to delayed snip</source>
-        <translation>Ярлык для отложенного фрагмента</translation>
+        <translation>Ярлык для отложенной области</translation>
     </message>
     <message>
         <source>Snip and copy:</source>
-        <translation>Фрагмент и копирование:</translation>
+        <translation>Область и копирование:</translation>
     </message>
     <message>
         <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
-        <translation>Ярлык для фрагмента и отправка снимка экрана в буфер обмена после определения области выделения фрагментов</translation>
+        <translation>Ярлык для области и отправка снимка экрана в буфер обмена после определения выделенной области</translation>
     </message>
     <message>
         <source>* Press Backspace to clear</source>
@@ -1962,7 +1958,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>* If conflicted, the upper operation will be matched</source>
-        <translation>* При конфликте верхняя операция будет сопоставлена</translation>
+        <translation>* При конфликте, верхняя операция будет сопоставлена</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -2048,11 +2044,11 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Licenses</source>
-        <translation>Лицензия</translation>
+        <translation>Лицензии</translation>
     </message>
     <message>
         <source>Contact:</source>
-        <translation>Контактное лицо:</translation>
+        <translation>Контакт:</translation>
     </message>
     <message>
         <source>Show the color as a Hex value instead of RGB in the magnifier.
@@ -2097,11 +2093,11 @@ Also affect the color value copying.</source>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>Повторить отменённое (Ctrl+Y)</translation>
+        <translation>Восстановить (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
-        <translation>Прекратить обрезку (Esc)</translation>
+        <translation>Закрыть область (Esc)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
@@ -2140,18 +2136,11 @@ Also affect the color value copying.</source>
     </message>
     <message>
         <source>Font family</source>
-        <translation>Семейство шрифтов</translation>
+        <translation>Шрифты</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Переключить Мозайку/Размытие</translation>
-    </message>
-</context>
-<context>
-    <name>tipsdialog</name>
-    <message>
-        <source>Tips:</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
