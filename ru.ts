@@ -210,14 +210,6 @@ Please contact the developer.</source>
         <translation>Отразить изображение по вертикали</translation>
     </message>
     <message>
-        <source>Double tap X</source>
-        <translation>Двойное нажатие X</translation>
-    </message>
-    <message>
-        <source>Make the image unclickable</source>
-        <translation>Сделать изображение некликабельным</translation>
-    </message>
-    <message>
         <source>Mouse scroll or +/-</source>
         <translation>Прокрутка мыши или +/-</translation>
     </message>
@@ -716,12 +708,36 @@ Startup on boot has been cancelled.</source>
         <source>Arabic</source>
         <translation>Арабский</translation>
     </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to another configuration file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Выбрать цвет</translation>
+    </message>
+    <message>
+        <source>You can drag the corner of the text box to change the text size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -789,10 +805,6 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Copy</source>
         <translation>Копировать</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation>Изменить</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -886,6 +898,15 @@ Startup on boot has been cancelled.</source>
         <source>Y-mirror</source>
         <translation>Y-зеркало</translation>
     </message>
+    <message>
+        <source>The &apos;Double-tap X&apos; action has been cancelled.
+For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Annotate</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -935,10 +956,6 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Show all images</source>
         <translation>Показать все изображения</translation>
-    </message>
-    <message>
-        <source>Cancel mouse click-through</source>
-        <translation>Отменить нажатия мыши-через</translation>
     </message>
     <message>
         <source>Clear snip records</source>
@@ -1090,6 +1107,10 @@ Click here to update now</source>
         <source>Failed to save the image to</source>
         <translation>Не удалось сохранить изображение</translation>
     </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1100,6 +1121,14 @@ Click here to update now</source>
     <message>
         <source>s</source>
         <translation>с</translation>
+    </message>
+    <message>
+        <source>Do you want to abort snipping?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show this again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1911,16 +1940,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>Ярлык для переключения в другую группу изображения</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through:</source>
-        <translation>Отменить щелчок мыши:</translation>
-    </message>
-    <message>
-        <source>The shortcut to cancel the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Ярлык для отмены режима щелчка изображения под курсором.
-Если окно изображения не находится под курсором, все недоступные изображения будут сделаны кликабельными.</translation>
-    </message>
-    <message>
         <source>Delayed snip:</source>
         <translation>Отложенная область:</translation>
     </message>
@@ -2056,6 +2075,40 @@ Also affect the color value copying.</source>
         <translation>Показывать цвет как значение Hex вместо RGB в лупе.
 Также влияют на копирование цвета.</translation>
     </message>
+    <message>
+        <source>For Windows Store version, if you need to turn this off,
+please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the config file in your default text editor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the location of the config file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation when Esc is pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
@@ -2141,6 +2194,13 @@ Also affect the color value copying.</source>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Переключить Мозайку/Размытие</translation>
+    </message>
+</context>
+<context>
+    <name>tipsdialog</name>
+    <message>
+        <source>Tips:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

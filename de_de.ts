@@ -208,14 +208,6 @@ Please contact the developer.</source>
         <translation>Bild vertikal drehen</translation>
     </message>
     <message>
-        <source>Double tap X</source>
-        <translation>X doppelt drücken</translation>
-    </message>
-    <message>
-        <source>Make the image unclickable</source>
-        <translation>Machen Sie da Bild nicht anklickbar</translation>
-    </message>
-    <message>
         <source>Mouse scroll or +/-</source>
         <translation>Maus scrollen oder +/-</translation>
     </message>
@@ -714,6 +706,22 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
         <source>Arabic</source>
         <translation>Arabisch</translation>
     </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to another configuration file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -724,6 +732,10 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
         <translation>Um die Stiftbreite zu ändern, bitte mit dem Mausrad scrollen oder &apos;1&apos; oder &apos;2 drücken.</translation>
+    </message>
+    <message>
+        <source>You can drag the corner of the text box to change the text size.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -888,6 +900,11 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
         <source>Annotate</source>
         <translation>Kommentieren</translation>
     </message>
+    <message>
+        <source>The &apos;Double-tap X&apos; action has been cancelled.
+For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -941,10 +958,6 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     <message>
         <source>Delayed snip</source>
         <translation>Verzögertes Aufnehmen</translation>
-    </message>
-    <message>
-        <source>Cancel mouse click-through</source>
-        <translation>Durchklicken mit der Maus unterbrechen</translation>
     </message>
     <message>
         <source>Import group...</source>
@@ -1092,6 +1105,10 @@ Hier klicken um jetzt upzudaten</translation>
         <source>Create new group...</source>
         <translation>Neue Gruppe erstellen...</translation>
     </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1102,6 +1119,14 @@ Hier klicken um jetzt upzudaten</translation>
     <message>
         <source>s</source>
         <translation>s</translation>
+    </message>
+    <message>
+        <source>Do you want to abort snipping?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show this again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1984,16 +2009,6 @@ Wenn diese Option aktiviert ist, sind die o.g. Eigenschaften deaktiviert.</trans
         <translation>Einfügen:</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through:</source>
-        <translation>Durchklicken mit der Maus unterbrechen:</translation>
-    </message>
-    <message>
-        <source>The shortcut to cancel the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Die Verknüpfung zum Abbrechen des Durchklicken-Modus des Bildes unter dem Cursor.
-Wenn kein Bildfenster unter dem Cursor ist, werden alle nicht klickbaren Bilder anklickbar gemacht.</translation>
-    </message>
-    <message>
         <source>Update</source>
         <translation>Update</translation>
     </message>
@@ -2064,6 +2079,40 @@ Bitte melden Sie Fehler, wenn Sie welche finden.</translation>
 Also affect the color value copying.</source>
         <translation>Farbe als Hex-Wert statt RGB-Wert in Lupe anzeigen.
 Hat Auswirkung auf den kopierten Farbwert.</translation>
+    </message>
+    <message>
+        <source>For Windows Store version, if you need to turn this off,
+please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the config file in your default text editor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the location of the config file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation when Esc is pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

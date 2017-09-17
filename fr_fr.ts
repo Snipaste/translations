@@ -210,10 +210,6 @@ Veuillez contacter le développeur.</translation>
         <translation>Retourner l&apos;image verticalement</translation>
     </message>
     <message>
-        <source>Make the image unclickable</source>
-        <translation>Rendre l&apos;image non cliquable</translation>
-    </message>
-    <message>
         <source>Mouse scroll or +/-</source>
         <translation>Souris défilement ou +/-</translation>
     </message>
@@ -324,10 +320,6 @@ Veuillez contacter le développeur.</translation>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation>Diminuer/Augmenter la largeur du stylet en mode édition</translation>
-    </message>
-    <message>
-        <source>Double tap X</source>
-        <translation>Double-cliquez sur X</translation>
     </message>
 </context>
 <context>
@@ -716,6 +708,22 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
         <source>Arabic</source>
         <translation>Arabe</translation>
     </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to another configuration file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -726,6 +734,10 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
         <translation>Pour changer la largeur du stylet, faites défiler la molette de votre souris ou appuyez sur &apos;1&apos; ou &apos;2&apos;.</translation>
+    </message>
+    <message>
+        <source>You can drag the corner of the text box to change the text size.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -889,6 +901,11 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     <message>
         <source>Annotate</source>
         <translation>Annoter</translation>
+    </message>
+    <message>
+        <source>The &apos;Double-tap X&apos; action has been cancelled.
+For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1071,10 +1088,6 @@ Cliquez ici pour mettre à jour maintenant</translation>
         <translation>Enregistrement différé</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through</source>
-        <translation>Annuler clic de souris</translation>
-    </message>
-    <message>
         <source>%1 is not set!</source>
         <translation>%1 est pas réglé!</translation>
     </message>
@@ -1094,6 +1107,10 @@ Cliquez ici pour mettre à jour maintenant</translation>
         <source>Disable hotkeys</source>
         <translation>Désactiver raccourcis clavier</translation>
     </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1104,6 +1121,14 @@ Cliquez ici pour mettre à jour maintenant</translation>
     <message>
         <source>Delay time (1.0-10.0):</source>
         <translation>Temporisation (1.0-10.00):</translation>
+    </message>
+    <message>
+        <source>Do you want to abort snipping?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show this again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1937,16 +1962,6 @@ Cependant, en attendant, le canal alpha de l&apos;image est perdu.</translation>
         <translation>Enregistrer automatiquement chaque capture d&apos;écran sera enregistré dans ce dossier.</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through:</source>
-        <translation>Annuler le clic de souris:</translation>
-    </message>
-    <message>
-        <source>The shortcut to cancel the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Le raccourci pour annuler le mode de clic de l&apos;image sous le curseur.
-Si aucune fenêtre image n&apos;est sous le curseur, toutes images non cliquables seront rendues cliquables.</translation>
-    </message>
-    <message>
         <source>So that the global hotkeys are effective when the active window has administrator privileges.</source>
         <translation>Pour que les raccourcis globaux soient efficaces quand fenêtre active possède des privilèges d&apos;administrateur.</translation>
     </message>
@@ -2059,6 +2074,40 @@ Si désactivée, elle sera toujours affichée au centre de l&apos;écran princip
 Also affect the color value copying.</source>
         <translation>Afficher la couleur comme une valeur Hex au lieu de RVB dans la loupe.
 Affecte également la copie de la valeur de couleur.</translation>
+    </message>
+    <message>
+        <source>For Windows Store version, if you need to turn this off,
+please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the config file in your default text editor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the location of the config file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation when Esc is pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

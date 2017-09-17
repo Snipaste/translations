@@ -210,10 +210,6 @@ Kontakta programutvecklaren.</translation>
         <translation>Vänd bilden vertikalt</translation>
     </message>
     <message>
-        <source>Make the image unclickable</source>
-        <translation>Gör bilden oklickbar</translation>
-    </message>
-    <message>
         <source>Mouse scroll or +/-</source>
         <translation>Skroll eller +/-</translation>
     </message>
@@ -324,10 +320,6 @@ Kontakta programutvecklaren.</translation>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation>Minska /Öka pennbredden i redigeringsläget</translation>
-    </message>
-    <message>
-        <source>Double tap X</source>
-        <translation>Dubbeltryck på X</translation>
     </message>
 </context>
 <context>
@@ -716,6 +708,22 @@ Autostart vid systemstart har avbrutits.</translation>
         <source>Arabic</source>
         <translation>Arabiska</translation>
     </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to another configuration file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -726,6 +734,10 @@ Autostart vid systemstart har avbrutits.</translation>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
         <translation>Skrolla eller tryck &quot;1&quot; eller &quot;2&quot;, för att ändra penntjocklek.</translation>
+    </message>
+    <message>
+        <source>You can drag the corner of the text box to change the text size.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -889,6 +901,11 @@ Autostart vid systemstart har avbrutits.</translation>
     <message>
         <source>Annotate</source>
         <translation>Kommentera</translation>
+    </message>
+    <message>
+        <source>The &apos;Double-tap X&apos; action has been cancelled.
+For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1071,10 +1088,6 @@ Klicka här för att uppdatera nu</translation>
         <translation>Ogiltiga kommandoalternativ.</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through</source>
-        <translation>Avbryt musklick igenom</translation>
-    </message>
-    <message>
         <source>%1 is not set!</source>
         <translation>%1 är inte inställt!</translation>
     </message>
@@ -1094,6 +1107,10 @@ Klicka här för att uppdatera nu</translation>
         <source>Disable hotkeys</source>
         <translation>Inaktivera snabbtangenter</translation>
     </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1104,6 +1121,14 @@ Klicka här för att uppdatera nu</translation>
     <message>
         <source>s</source>
         <translation>s</translation>
+    </message>
+    <message>
+        <source>Do you want to abort snipping?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show this again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1937,16 +1962,6 @@ Rapportera gärna om du hittar några.</translation>
         <translation>Spara varje skärmklipp automatiskt, i denna mapp.</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through:</source>
-        <translation>Avbryt musklick igenom:</translation>
-    </message>
-    <message>
-        <source>The shortcut to cancel the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Genväg för att avbryta klick-igenom-läget för bilden under muspekaren.
-Om inget bildfönster finns under muspekaren, kommer alla oklickbara bilder att bli klickbara.</translation>
-    </message>
-    <message>
         <source>So that the global hotkeys are effective when the active window has administrator privileges.</source>
         <translation>Så att globala snabbtangenter fungerar när det aktiva fönstret har administratörsrättigheter.</translation>
     </message>
@@ -2059,6 +2074,40 @@ Vid inaktivering, visas det alltid centrerat på primär skärm.</translation>
 Also affect the color value copying.</source>
         <translation>Visa färg som hexvärde istället för RGB i förstoringsglaset.
 Påverkar också färgvärdeskopiering.</translation>
+    </message>
+    <message>
+        <source>For Windows Store version, if you need to turn this off,
+please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the config file in your default text editor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the location of the config file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation when Esc is pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

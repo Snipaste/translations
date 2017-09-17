@@ -210,14 +210,6 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <translation>Görüntüyü dikey çevir</translation>
     </message>
     <message>
-        <source>Double tap X</source>
-        <translation>X&apos;e çift dokun</translation>
-    </message>
-    <message>
-        <source>Make the image unclickable</source>
-        <translation>Görüntüyü tıklanamaz yap</translation>
-    </message>
-    <message>
         <source>Mouse scroll or +/-</source>
         <translation>Fare tekeri veya +/-</translation>
     </message>
@@ -716,6 +708,22 @@ Açılışta başlatma iptal edildi.</translation>
         <source>Arabic</source>
         <translation>Arapça</translation>
     </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to another configuration file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -726,6 +734,10 @@ Açılışta başlatma iptal edildi.</translation>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
         <translation>Kalem genişliğini değiştirmek için lütfen fare tekerleğini kaydırın veya &apos;1&apos; veya &apos;2&apos; tuşlarına basın.</translation>
+    </message>
+    <message>
+        <source>You can drag the corner of the text box to change the text size.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -890,6 +902,11 @@ Açılışta başlatma iptal edildi.</translation>
         <source>Annotate</source>
         <translation>Açıklama</translation>
     </message>
+    <message>
+        <source>The &apos;Double-tap X&apos; action has been cancelled.
+For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -939,10 +956,6 @@ Açılışta başlatma iptal edildi.</translation>
     <message>
         <source>Show all images</source>
         <translation>Tüm görüntüleri göster</translation>
-    </message>
-    <message>
-        <source>Cancel mouse click-through</source>
-        <translation>Fare tıklamasını iptal et</translation>
     </message>
     <message>
         <source>Clear snip records</source>
@@ -1094,6 +1107,10 @@ Güncellemek için tıklayın</translation>
         <source>Failed to save the image to</source>
         <translation>Görüntü kaydetme başarısız</translation>
     </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1104,6 +1121,14 @@ Güncellemek için tıklayın</translation>
     <message>
         <source>s</source>
         <translation>saniye</translation>
+    </message>
+    <message>
+        <source>Do you want to abort snipping?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show this again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1915,16 +1940,6 @@ Snipaste&apos;in sizin için karar vermesine izin vermek için -1 yazın.</trans
         <translation>Başka bir resim grubuna geçiş kısayolu</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through:</source>
-        <translation>Fare tıklatmasını iptal et:</translation>
-    </message>
-    <message>
-        <source>The shortcut to cancel the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>İmlecin altındaki görüntünün tıklama modunu iptal etme kısayolu.
-İmlecin altında herhangi bir görüntü penceresi yoksa, tıklanamayan tüm görüntüler tıklanabilir hale getirilir.</translation>
-    </message>
-    <message>
         <source>Delayed snip:</source>
         <translation>Gecikmeli kırpma:</translation>
     </message>
@@ -2059,6 +2074,40 @@ Herhangi bir hata bulursanız lütfen geliştiriciye bildirin.</translation>
 Also affect the color value copying.</source>
         <translation>Büyüteçteki rengi RGB yerine Hex değer olarak görüntüler.
 Ayrıca, renk değeri kopyalamayı etkiler.</translation>
+    </message>
+    <message>
+        <source>For Windows Store version, if you need to turn this off,
+please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the config file in your default text editor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the location of the config file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation when Esc is pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

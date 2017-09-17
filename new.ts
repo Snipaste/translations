@@ -208,14 +208,6 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Double tap X</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Make the image unclickable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Mouse scroll or +/-</source>
         <translation type="unfinished"></translation>
     </message>
@@ -711,6 +703,22 @@ Startup on boot has been cancelled.</source>
         <source>Arabic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to another configuration file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -720,6 +728,10 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can drag the corner of the text box to change the text size.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -885,6 +897,11 @@ Startup on boot has been cancelled.</source>
         <source>Annotate</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The &apos;Double-tap X&apos; action has been cancelled.
+For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -933,10 +950,6 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Show all images</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel mouse click-through</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1088,6 +1101,10 @@ Click here to update now</source>
         <source>Failed to save the image to</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1097,6 +1114,14 @@ Click here to update now</source>
     </message>
     <message>
         <source>s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to abort snipping?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show this again</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1898,15 +1923,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel mouse click-through:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The shortcut to cancel the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delayed snip:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2038,6 +2054,40 @@ Please report to the developer if you find any.</source>
     <message>
         <source>Show the color as a Hex value instead of RGB in the magnifier.
 Also affect the color value copying.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For Windows Store version, if you need to turn this off,
+please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the config file in your default text editor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the location of the config file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation when Esc is pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -208,14 +208,6 @@ Please contact the developer.</source>
         <translation>垂直翻转贴图</translation>
     </message>
     <message>
-        <source>Double tap X</source>
-        <translation>双击 X</translation>
-    </message>
-    <message>
-        <source>Make the image unclickable</source>
-        <translation>使贴图无法被点击</translation>
-    </message>
-    <message>
         <source>Mouse scroll or +/-</source>
         <translation>鼠标滚轮 或 +/-</translation>
     </message>
@@ -714,6 +706,26 @@ Startup on boot has been cancelled.</source>
         <source>Arabic</source>
         <translation>阿拉伯语</translation>
     </message>
+    <message>
+        <source>Turkish</source>
+        <translation>土耳其语</translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation>注意: 你将切换到另一配置文件，文件中的所有设置项将被应用，你的当前设置将被覆盖。
+
+此外，即使选择了另一配置文件，你也不能移除默认的配置文件，因为它记录着你的新配置文件的位置。
+
+确定要切换到另一配置文件吗？</translation>
+    </message>
+    <message>
+        <source>Switch to another configuration file</source>
+        <translation>切换到另一配置文件</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -724,6 +736,10 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
         <translation>若要调整画笔粗细，请滚动鼠标滚轮或按键盘上的 1 或 2.</translation>
+    </message>
+    <message>
+        <source>You can drag the corner of the text box to change the text size.</source>
+        <translation>通过拖动文字框的边角可以改变文字的大小。</translation>
     </message>
 </context>
 <context>
@@ -888,6 +904,12 @@ Startup on boot has been cancelled.</source>
         <source>Annotate</source>
         <translation>标注</translation>
     </message>
+    <message>
+        <source>The &apos;Double-tap X&apos; action has been cancelled.
+For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation>双击 X 键这一触发方式已被取消。
+如需使用鼠标穿透公开，请在&quot;首选项 - 快捷键&quot;中设置其按键。</translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -941,10 +963,6 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Delayed snip</source>
         <translation>延时截屏</translation>
-    </message>
-    <message>
-        <source>Cancel mouse click-through</source>
-        <translation>取消鼠标穿透</translation>
     </message>
     <message>
         <source>Import group...</source>
@@ -1092,6 +1110,10 @@ Click here to update now</source>
         <source>Create new group...</source>
         <translation>新建分组...</translation>
     </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>鼠标穿透开关</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1102,6 +1124,14 @@ Click here to update now</source>
     <message>
         <source>s</source>
         <translation>秒</translation>
+    </message>
+    <message>
+        <source>Do you want to abort snipping?</source>
+        <translation>你确定要退出截图吗？</translation>
+    </message>
+    <message>
+        <source>Do not show this again</source>
+        <translation>以后不再显示此消息</translation>
     </message>
 </context>
 <context>
@@ -1970,16 +2000,6 @@ If this option is checked, the above features will be disabled.</source>
         <translation>切换到另一贴图组的快捷键</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through:</source>
-        <translation>取消鼠标穿透:</translation>
-    </message>
-    <message>
-        <source>The shortcut to cancel the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>该快捷键用于取消光标所在位置的贴图的鼠标穿透状态。
-如果没有贴图位于光标之下，则取消所有贴图的鼠标穿透状态。</translation>
-    </message>
-    <message>
         <source>Update</source>
         <translation>更新</translation>
     </message>
@@ -2062,6 +2082,42 @@ Please report to the developer if you find any.</source>
 Also affect the color value copying.</source>
         <translation>将放大镜中的颜色值显示为 Hex 而不是 RGB.
 同时也会影响颜色值的复制。</translation>
+    </message>
+    <message>
+        <source>For Windows Store version, if you need to turn this off,
+please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
+        <translation>对于微软商店版本，如需取消会计启动，
+请在&quot;任务管理器-启动&quot;中找到 Snipaste 并将其禁用即可。</translation>
+    </message>
+    <message>
+        <source>Configuration Storage</source>
+        <translation>配置文件存储位置</translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation>路径:</translation>
+    </message>
+    <message>
+        <source>Open the config file in your default text editor.</source>
+        <translation>使用默认文本编辑器打开配置文件。</translation>
+    </message>
+    <message>
+        <source>Change the location of the config file.</source>
+        <translation>更改配置文件的存储路径。</translation>
+    </message>
+    <message>
+        <source>Ask for confirmation when Esc is pressed</source>
+        <translation>Esc 键被按下时是弹出确认对话框</translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through:</source>
+        <translation>鼠标穿透开关:</translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>该快捷键用于开启/关闭光标所在位置的贴图的鼠标穿透状态。
+如果快捷键按下时没有贴图位于光标之下，则会取消所有贴图的鼠标穿透状态。</translation>
     </message>
 </context>
 <context>

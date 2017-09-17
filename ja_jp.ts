@@ -208,10 +208,6 @@ Please contact the developer.</source>
         <translation>上下に反転</translation>
     </message>
     <message>
-        <source>Make the image unclickable</source>
-        <translation>画像をクリック不能にする</translation>
-    </message>
-    <message>
         <source>Mouse scroll or +/-</source>
         <translation>マウススクロール 或いは +/-</translation>
     </message>
@@ -322,10 +318,6 @@ Please contact the developer.</source>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation>編集モードでのペンの幅の減少/増加</translation>
-    </message>
-    <message>
-        <source>Double tap X</source>
-        <translation>ダブルタップX</translation>
     </message>
 </context>
 <context>
@@ -712,6 +704,22 @@ Startup on boot has been cancelled.</source>
         <source>Arabic</source>
         <translation>アラビア語</translation>
     </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to another configuration file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -722,6 +730,10 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
         <translation>ペンの幅を変更するには、マウスホイールをスクロールするか、&apos;1&apos;或は&apos;2&apos;を押してください。</translation>
+    </message>
+    <message>
+        <source>You can drag the corner of the text box to change the text size.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -885,6 +897,11 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Annotate</source>
         <translation>注釈</translation>
+    </message>
+    <message>
+        <source>The &apos;Double-tap X&apos; action has been cancelled.
+For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1067,10 +1084,6 @@ Click here to update now</source>
         <translation>無効なコマンドラインオプション。</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through</source>
-        <translation>マウスのクリックスルーをキャンセル</translation>
-    </message>
-    <message>
         <source>%1 is not set!</source>
         <translation>%1はセットしていません！</translation>
     </message>
@@ -1090,6 +1103,10 @@ Click here to update now</source>
         <source>Disable hotkeys</source>
         <translation>ホットキーを無効にする</translation>
     </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1100,6 +1117,14 @@ Click here to update now</source>
     <message>
         <source>s</source>
         <translation>秒</translation>
+    </message>
+    <message>
+        <source>Do you want to abort snipping?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show this again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1932,15 +1957,6 @@ Please report to the developer if you find any.</source>
         <translation>自動的にすべてのスクリーンショットをこのフォルダに保存する。</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through:</source>
-        <translation>マウスのクリックスルーをキャンセル：</translation>
-    </message>
-    <message>
-        <source>The shortcut to cancel the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>このショートカットで、カーソル下の画像のクリックスルーモードをキャンセルすることができますが、カーソル下画像ウィンドウがない場合、すべてのクリック不能の画像はクリック可能になります。</translation>
-    </message>
-    <message>
         <source>So that the global hotkeys are effective when the active window has administrator privileges.</source>
         <translation>グローバルホットキーは、アクティブウィンドウに管理者権限がある場合に有効です。</translation>
     </message>
@@ -2052,6 +2068,40 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <source>Show the color as a Hex value instead of RGB in the magnifier.
 Also affect the color value copying.</source>
         <translation>拡大鏡にカラー値をHexで表示、同時にカラー値のコピーも影響する。</translation>
+    </message>
+    <message>
+        <source>For Windows Store version, if you need to turn this off,
+please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the config file in your default text editor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the location of the config file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation when Esc is pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

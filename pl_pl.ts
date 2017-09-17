@@ -210,14 +210,6 @@ Proszę skontaktować się z deweloperem.</translation>
         <translation>Odwróć obraz pionowo</translation>
     </message>
     <message>
-        <source>Double tap X</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Make the image unclickable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Mouse scroll or +/-</source>
         <translation>scroll myszy lub +/-</translation>
     </message>
@@ -716,6 +708,22 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
         <source>Arabic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to another configuration file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -725,6 +733,10 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can drag the corner of the text box to change the text size.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -890,6 +902,11 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
         <source>Annotate</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The &apos;Double-tap X&apos; action has been cancelled.
+For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1009,10 +1026,6 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
         <translation>Błąd</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1 is not set!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1094,6 +1107,10 @@ Kliknij tu aby zaktualizować</translation>
         <source>Default</source>
         <translation>Domyślne</translation>
     </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1104,6 +1121,14 @@ Kliknij tu aby zaktualizować</translation>
     <message>
         <source>s</source>
         <translation>s</translation>
+    </message>
+    <message>
+        <source>Do you want to abort snipping?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show this again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1407,15 +1432,6 @@ Kliknij tu aby zaktualizować</translation>
     <message>
         <source>Hide/Show all images:</source>
         <translation>Ukryj/Pokaż wszystkie obrazy:</translation>
-    </message>
-    <message>
-        <source>Cancel mouse click-through:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The shortcut to cancel the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Include beta builds</source>
@@ -2058,6 +2074,40 @@ Zgłoś je jeżeli jakieś znajdziesz.</translation>
 Also affect the color value copying.</source>
         <translation>Pokazuj kolor jako wartość HEX zamiast RGB na lupie
 Także oddziałuje na kopiowanie wartości koloru.</translation>
+    </message>
+    <message>
+        <source>For Windows Store version, if you need to turn this off,
+please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the config file in your default text editor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the location of the config file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation when Esc is pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

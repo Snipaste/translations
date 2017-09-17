@@ -172,10 +172,6 @@ Please contact the developer.</source>
         <translation>التبديل بين كشف الاطار وكشف العنصر</translation>
     </message>
     <message>
-        <source>Double tap X</source>
-        <translation>انقر نقرا مزدوجا x</translation>
-    </message>
-    <message>
         <source>Ctrl + Arrow keys</source>
         <translation>Ctrl + Arrow keys</translation>
     </message>
@@ -238,10 +234,6 @@ Please contact the developer.</source>
     <message>
         <source>Paste only:</source>
         <translation>لصق فقط:</translation>
-    </message>
-    <message>
-        <source>Make the image unclickable</source>
-        <translation>جعل الصورة غير قابله للنقر</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -712,6 +704,22 @@ You may restart Snipaste with admin privileges and try again.</source>
         <source>Arabic</source>
         <translation>العربية</translation>
     </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to another configuration file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -722,6 +730,10 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
         <translation>لتغيير عرض القلم ، الرجاء تمرير عجله الماوس أو الضغط علي &apos; 1 &apos; أو &apos; 2 &apos;.</translation>
+    </message>
+    <message>
+        <source>You can drag the corner of the text box to change the text size.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -885,6 +897,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Stay on top</source>
         <translation>البقاء علي القمه</translation>
+    </message>
+    <message>
+        <source>The &apos;Double-tap X&apos; action has been cancelled.
+For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1058,10 +1075,6 @@ Click here to update now</source>
         <translation>اخفاء كل الصور</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through</source>
-        <translation>الغاء النقر بالماوس من خلال</translation>
-    </message>
-    <message>
         <source>This group already exists.</source>
         <translation>هذه المجموعة موجودة بالفعل.</translation>
     </message>
@@ -1089,6 +1102,10 @@ Click here to update now</source>
         <source>Disable hotkeys</source>
         <translation>تعطيل مفاتيح الاختصار</translation>
     </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1099,6 +1116,14 @@ Click here to update now</source>
     <message>
         <source>Delay time (1.0-10.0):</source>
         <translation>وقت التاخير (1.0-10.0):</translation>
+    </message>
+    <message>
+        <source>Do you want to abort snipping?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show this again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1813,11 +1838,6 @@ You can also find this option in the context menu of individual image window.</s
         <translation>تجاهل مفتاح win:</translation>
     </message>
     <message>
-        <source>The shortcut to cancel the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>الاختصار للغاء وضع النقرة من الصورة تحت المؤشر. اذا لم يكن اطار الصورة تحت المؤشر ، سيتم النقر فوق كافة الصور غير القابلة للنقر.</translation>
-    </message>
-    <message>
         <source>Text to Image</source>
         <translation>نص الى صوره</translation>
     </message>
@@ -2010,10 +2030,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <translation>السماح لنافذه الصورة الجديدة الحصول على لوحه المفاتيح التركيز.</translation>
     </message>
     <message>
-        <source>Cancel mouse click-through:</source>
-        <translation>الغاء النقر بالماوس من خلال:</translation>
-    </message>
-    <message>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
         <translation>تشغيل تاثير الصوت اذا تم حفظ لقطه للشاشة الحافظة.</translation>
     </message>
@@ -2040,6 +2056,40 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <message>
         <source>Be the first to test new features of Snipaste!</source>
         <translation>كن اول من يختبر ميزات جديده من القصاص!</translation>
+    </message>
+    <message>
+        <source>For Windows Store version, if you need to turn this off,
+please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration Storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the config file in your default text editor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the location of the config file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation when Esc is pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
