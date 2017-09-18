@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="el_GR">
+<TS version="2.0" language="el_GR">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -711,11 +711,11 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Τουρκικά</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλαγή σε άλλο αρχείο ρυθμίσεων</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
@@ -723,7 +723,11 @@ Startup on boot has been cancelled.</source>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Σημείωση: Θα μεταβείτε σε ένα άλλο αρχείο ρυθμίσεων. Θα εφαρμοστούν οι ρυθμίσεις από αυτό και όλες οι τρέχουσες ρυθμίσεις σας θα αντικατασταθούν.
+
+Εκτός αυτού, δεν πρέπει να καταργήσετε το προεπιλεγμένο αρχείο ρυθμίσεων μετά από αυτή τη λειτουργία, διότι καταγράφει πού θα βρείτε το νέο αρχείο ρυθμίσεων.
+
+Είστε βέβαιος ότι θέλετε να μεταβείτε σε άλλο αρχείο ρυθμίσεων;</translation>
     </message>
 </context>
 <context>
@@ -738,7 +742,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μπορείτε να σύρετε τη γωνία του πλαισίου κειμένου για να αλλάξετε το μέγεθος του κειμένου.</translation>
     </message>
 </context>
 <context>
@@ -907,7 +911,8 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η ενέργεια «Διπλό ταπ Χ» έχει ακυρωθεί.
+Για κλικ του ποντικιού, μπορείτε να βρείτε το πλήκτρο πρόσβασής του στις «Προτιμήσεις - Πλήκτρα πρόσβασης».</translation>
     </message>
 </context>
 <context>
@@ -1111,7 +1116,7 @@ Click here to update now</source>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Εναλλαγή κλικ ποντικιού</translation>
     </message>
 </context>
 <context>
@@ -1126,11 +1131,11 @@ Click here to update now</source>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>Θέλετε να ματαιώσετε τη λήψη του στιγμιότυπου;</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Να μην εμφανιστεί αυτό ξανά</translation>
     </message>
 </context>
 <context>
@@ -2087,36 +2092,40 @@ Also affect the color value copying.</source>
     <message>
         <source>For Windows Store version, if you need to turn this off,
 please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Για την έκδοση των Windows Store, αν χρειάζεται να το
+απενεργοποιήσετε, πηγαίνετε στη «Διαχείριση Εργασιών» - «Εκκίνηση»,
+ βρείτε το «Snipaste» και απενεργοποιήστε το.</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρύθμιση αποθήκευσης</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάλογος:</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανοίγει το αρχείο ρυθμίσεων στον προεπιλεγμένο σας επεξεργαστή κειμένου.</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλάζει τη θέση του αρχείου ρυθμίσεων.</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ερώτηση για επιβεβαίωση όταν πατηθεί το Esc</translation>
     </message>
     <message>
         <source>Toggle mouse click-through:</source>
-        <translation type="unfinished"></translation>
+        <translation>Εναλλαγή κλικ ποντικιού:</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η συντόμευση για εναλλαγή της λειτουργίας κλικ ποντικιού της εικόνας κάτω από το δρομέα.
+Αν δεν υπάρχει παράθυρο εικόνας κάτω από τον δείκτη, όλες οι χωρίς δυνατότητα 
+κλικ εικόνες, θα γίνουν με δυνατότητα κλικ.</translation>
     </message>
 </context>
 <context>
