@@ -710,11 +710,11 @@ Açılışta başlatma iptal edildi.</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Türkçe</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Başka bir yapılandırma dosyasına geç</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
@@ -722,7 +722,11 @@ Açılışta başlatma iptal edildi.</translation>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Not: Başka bir yapılandırma dosyasına geçeceksiniz. İçindeki ayarlar uygulanır ve tüm geçerli ayarlarınız değiştirilir.
+
+Ayrıca, bu işlemden sonra varsayılan yapılandırma dosyasını kaldırmamalısınız, çünkü yeni yapılandırma dosyanızı nerede bulacağınızı kaydeder.
+
+Başka bir yapılandırma dosyasına geçmek istediğinizden emin misiniz?</translation>
     </message>
 </context>
 <context>
@@ -737,7 +741,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin boyutunu değiştirmek için metin kutusunun köşesinden sürükleyebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -905,7 +909,8 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;X&apos;e çift dokunma&quot; işlemi iptal edildi.
+Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&apos; bölümünden bulabilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -1109,7 +1114,7 @@ Güncellemek için tıklayın</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Fare tıklaması aç/kapat</translation>
     </message>
 </context>
 <context>
@@ -1124,11 +1129,11 @@ Güncellemek için tıklayın</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırpmadan vazgeçmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Bunu tekrar gösterme</translation>
     </message>
 </context>
 <context>
@@ -2078,36 +2083,38 @@ Ayrıca, renk değeri kopyalamayı etkiler.</translation>
     <message>
         <source>For Windows Store version, if you need to turn this off,
 please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Mağaza sürümü için, bunu kapatmanız gerekiyorsa,
+lütfen &apos;Görev Yöneticisi&apos; - &apos;Başlangıç&apos; bölümüne gidin, &apos;Snipaste&apos; öğesini bulun ve devre dışı bırakın.</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Yapılandırma Depolama</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Konum:</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yapılandırma dosyasını carsayılan metin düzenleyicisinde açın.</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yapılandırma dosyasının konumunu değiştirin.</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc tuşuna basıldığında onay iste</translation>
     </message>
     <message>
         <source>Toggle mouse click-through:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fare tıklamasıyla geçiş:</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>İmlecin altındaki görüntünün tıklama modunu değiştirmek için kullanılan kısayol.
+İmlecin altında herhangi bir görüntü penceresi yoksa, tıklanamayan tüm görüntüler tıklanabilir hale getirilir.</translation>
     </message>
 </context>
 <context>
