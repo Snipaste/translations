@@ -710,11 +710,11 @@ Automatisch opstarten is uitgeschakeld.</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Turks</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuratiebestand schakelen</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
@@ -722,7 +722,11 @@ Automatisch opstarten is uitgeschakeld.</translation>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Let op: Bij het schakelen naar een andere configuratie gaan de huidige instellingen verloren.
+
+Daarbij mag het bestand van de standaardconfiguratie niet worden gewist, omdat deze verwijst naar de nieuwe configuratie.
+
+Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
 </context>
 <context>
@@ -737,7 +741,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sleep de hoek van het tekstkader om de tekstgroote aan te passen.</translation>
     </message>
 </context>
 <context>
@@ -905,7 +909,8 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>De actie dubbelklik X is onderbroken.
+De sneltoets voor Muis-doorklikken kunt u vinden in Voorkeuren - Sneltoetsen.</translation>
     </message>
 </context>
 <context>
@@ -1109,7 +1114,7 @@ Klik hier om direct te vernieuwen</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Muis-doorklikken aan/uitschakelen</translation>
     </message>
 </context>
 <context>
@@ -1124,11 +1129,11 @@ Klik hier om direct te vernieuwen</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wilt u de schermopname afbreken?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit niet meer tonen</translation>
     </message>
 </context>
 <context>
@@ -2078,36 +2083,38 @@ Dit heeft ook gevolgen voor het kopiëren van een kleur.</translation>
     <message>
         <source>For Windows Store version, if you need to turn this off,
 please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze optie moet in de Windows Store versie afgeschakeld worden.
+Start Windows Taakbeheer - Startup en schakel de automatische start van Snipaste uit.</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuratie-opslag</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad:</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open het configuratiebestand met de standaard tekstbewerker.</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>De opslaglocatie van de configuratiebestand aanpassen.</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestiging vragen wanneer Esc wordt gedrukt</translation>
     </message>
     <message>
         <source>Toggle mouse click-through:</source>
-        <translation type="unfinished"></translation>
+        <translation>Muis-doorklikken schakelen:</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze sneltoets schakelt Muis-doorklikken van de afbeelding onder de cursor aan/uit.
+Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare afbeeldingen klikbaar gemaakt.</translation>
     </message>
 </context>
 <context>

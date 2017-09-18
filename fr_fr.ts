@@ -710,11 +710,11 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Turc</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Passer à un autre fichier de configuration</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
@@ -722,7 +722,11 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Remarque: vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés.
+
+En outre, vous ne devez pas supprimer le fichier de configuration par défaut après cette opération, car il enregistre où trouver votre nouveau fichier de configuration.
+
+Êtes-vous sûr de vouloir passer à un autre fichier de configuration?</translation>
     </message>
 </context>
 <context>
@@ -737,7 +741,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez faire glisser le coin de la zone de texte pour modifier la taille du texte.</translation>
     </message>
 </context>
 <context>
@@ -905,7 +909,8 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;action &apos;Double-tap X&apos; a été annulée.
+Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Préférences - Raccourci clavier&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1109,7 +1114,7 @@ Cliquez ici pour mettre à jour maintenant</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>basculer le clic de souris</translation>
     </message>
 </context>
 <context>
@@ -1124,11 +1129,11 @@ Cliquez ici pour mettre à jour maintenant</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous interrompre le coup de fouet?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne plus afficher cela</translation>
     </message>
 </context>
 <context>
@@ -2078,36 +2083,38 @@ Affecte également la copie de la valeur de couleur.</translation>
     <message>
         <source>For Windows Store version, if you need to turn this off,
 please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour la version de Windows Store, si vous devez éteindre cela,
+S&apos;il vous plaît allez à &apos; Gestionnaire des tâches &apos; - &apos; Démarrage &apos;, trouver « Snipaste » et le désactive.</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuration stockage</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chemin:</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir fichier de configuration dans votre éditeur de texte par défaut.</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer l&apos;emplacement du fichier de configuration.</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Demander confirmation lorsque vous appuyez sur Echap</translation>
     </message>
     <message>
         <source>Toggle mouse click-through:</source>
-        <translation type="unfinished"></translation>
+        <translation>Basculer le clic-droit de la souris:</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le raccourci pour basculer le mode de clic de l&apos;image sous le curseur.
+Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images non cliquables seront cliquables.</translation>
     </message>
 </context>
 <context>

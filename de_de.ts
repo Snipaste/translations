@@ -708,11 +708,11 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Türkisch</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Wechsle zu anderer Konfigurationsdatei</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
@@ -720,7 +720,11 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinweis: Sie wechseln zu einer anderen Konfigurationsdatei. Die Einstellungen werden angewendet und alle aktuellen Einstellungen werden überschrieben.
+
+Sie sollten die Standardkonfigurationsdatei nach dieser Operation nicht entfernen, da sie den Speicherort speichert, wo Sie die  neue Konfigurationsdatei finden.
+
+Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?</translation>
     </message>
 </context>
 <context>
@@ -735,7 +739,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie können an den Ecken des Textfeldes ziehen, um die Schriftgröße zu ändern.</translation>
     </message>
 </context>
 <context>
@@ -903,7 +907,8 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die &apos;Doppelklick X&apos;-Aktion wurde abgebrochen.
+Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellungen - Hotkey&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1091,7 +1096,7 @@ Hier klicken um jetzt upzudaten</translation>
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Möchten Sie &quot;%1&quot; wirklich schließen? Diese Aktion kann nicht rückgängig gemacht werden. </translation>
+        <translation>Möchten Sie &quot;%1&quot; wirklich schließen? Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Default</source>
@@ -1107,7 +1112,7 @@ Hier klicken um jetzt upzudaten</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchklicken mit de Maus umschalten</translation>
     </message>
 </context>
 <context>
@@ -1122,11 +1127,11 @@ Hier klicken um jetzt upzudaten</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie das Aufnehmen abbrechen?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht mehr anzeigen</translation>
     </message>
 </context>
 <context>
@@ -1576,8 +1581,7 @@ Falls deaktiviert, immer zentriert auf dem primären Bildschirm anzeigen.</trans
     </message>
     <message>
         <source>Preserve the original window for drag-and-drop</source>
-        <translation>
-Das ursprüngliche Fenster wird für Drag &amp; Drop bewahrt</translation>
+        <translation>Das ursprüngliche Fenster wird für Drag &amp; Drop bewahrt</translation>
     </message>
     <message>
         <source>Never paste file paths</source>
@@ -2083,36 +2087,38 @@ Hat Auswirkung auf den kopierten Farbwert.</translation>
     <message>
         <source>For Windows Store version, if you need to turn this off,
 please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Um dies in der Windwos Store Version auszuschalten, wechelsen Sie bitte zum
+Taskmanaver - Autostart, suchen Sie nach Snipaste und deaktivieren Sie es.</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurationsspeicher</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad:</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne Konfigurationsdatei in standard Text Editor.</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändere Standort der Konfigurationsdatei.</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach Bestätigung fragen, wenn Esc gedrückt wird</translation>
     </message>
     <message>
         <source>Toggle mouse click-through:</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchklicken mit de Maus umschalten:</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verknüpfung, um den Klick-Modus des Bildes unter dem Cursor umzuschalten.
+Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilder anklickbar gemacht.</translation>
     </message>
 </context>
 <context>

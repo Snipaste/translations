@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ar_JO">
+<TS version="2.0" language="ar_JO">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -706,11 +706,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>تركي</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل الى ملف تكوين اخر</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
@@ -718,7 +718,9 @@ You may restart Snipaste with admin privileges and try again.</source>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظة: انت ذاهب للتبديل الى ملف تكوين اخر. سيتم تطبيق الاعدادات فيه وسيتم الغاء جميع الاعدادات الحالية.
+  بالاضافة الى ذلك، يجب عدم ازالة ملف التكوين الافتراضي بعد هذه العملية، لانه يسجل مكان العثور على ملف التكوين الجديد.
+هل تريد بالتاكيد التبديل الى ملف تهيئة اخر؟</translation>
     </message>
 </context>
 <context>
@@ -733,7 +735,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكنك سحب ركن مربع النص لتغيير حجم النص.</translation>
     </message>
 </context>
 <context>
@@ -901,7 +903,8 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم إلغاء اجراء &apos; النقر المزدوج &apos;.
+للنقر بالماوس من خلال ، يمكنك العثور على مفتاح التشغيل السريع في &apos; تفضيلات-مفتاح التشغيل السريع &apos;.</translation>
     </message>
 </context>
 <context>
@@ -1104,7 +1107,7 @@ Click here to update now</source>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل الماوس من خلال النقر</translation>
     </message>
 </context>
 <context>
@@ -1119,11 +1122,11 @@ Click here to update now</source>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد إحباط القص؟</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>لا تظهر هذا مجددا</translation>
     </message>
 </context>
 <context>
@@ -2060,36 +2063,38 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <message>
         <source>For Windows Store version, if you need to turn this off,
 please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation type="unfinished"></translation>
+        <translation>لاصدار تخزين وندوز ، اذا كنت بحاجه إلى ايقاف تشغيله ،
+الرجاء الانتقال الى &apos; اداره المهام &apos;-&apos; بدء التشغيل &apos; ، والعثور علي &apos; القصاص &apos; وتعطيله.</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>تكوين التخزين</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار:</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح ملف التهيئة في محرر النص الافتراضي.</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير موقع ملف التكوين.</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>اطلب تأكيد عند الضغط على هروب</translation>
     </message>
     <message>
         <source>Toggle mouse click-through:</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل نقرات الماوس:</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>الاختصار لتبديل وضع النقرة من الصورة تحت المؤشر. إذا لم يكن اطار الصورة تحت المؤشر ،
+سيتم النقر على جميع الصور الغير قابلة للنقر.</translation>
     </message>
 </context>
 <context>

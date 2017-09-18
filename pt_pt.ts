@@ -710,11 +710,11 @@ O arranque com o sistema foi cancelado.</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Turco</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar para outro ficheiro de configuração</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
@@ -722,7 +722,11 @@ O arranque com o sistema foi cancelado.</translation>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: vai mudar para outro ficheiro de configuração.As definições nele contidas serão aplicadas e as definições actuais serão destruídas.
+
+Além disso, não deve remover o ficheiro de configuração padrão depois desta operação, porque ele regista onde localizar o seu novo ficheiro de configuração.
+
+Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translation>
     </message>
 </context>
 <context>
@@ -737,7 +741,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pode arrastar o canto da caixa de texto para alterar o tamanho do texto.</translation>
     </message>
 </context>
 <context>
@@ -905,7 +909,8 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>A acção &apos;Toque duplo X&apos; foi cancelada.
+Para o modo clique do rato, pode encontrar a sua tecla de atalho em &apos;Preferências - Tecla de Atalho&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1109,7 +1114,7 @@ Clique aqui para actualizar</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar para clique do rato</translation>
     </message>
 </context>
 <context>
@@ -1124,11 +1129,11 @@ Clique aqui para actualizar</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseja abortar a captura?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Não mostrar mais isto</translation>
     </message>
 </context>
 <context>
@@ -2078,36 +2083,37 @@ Também produz efeito na cópia do valor da cor.</translation>
     <message>
         <source>For Windows Store version, if you need to turn this off,
 please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para a versão &apos;Windows store&apos;, se necessitar de desligar isto, vá ao &apos;Gestor de Tarefas&apos; - &apos;Arranque&apos;, localize o &apos;Snipaste&apos; e desactive-o.</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Armazenamento da Configuração</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atalho:</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir o ficheiro de configuração no seu editor de texto padrão.</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar a localização do ficheiro de configuração.</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pedir confirmação quando for pressionado Esc</translation>
     </message>
     <message>
         <source>Toggle mouse click-through:</source>
-        <translation type="unfinished"></translation>
+        <translation>Altarnar para clique do rato:</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>A tecla de atalho para alternar para o modo clique do rato da imagem sob o cursor.
+Se não existir imagem sob o cursor, todas as imagens não clicáveis seráo tornadas clicáveis.</translation>
     </message>
 </context>
 <context>
