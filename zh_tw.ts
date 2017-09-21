@@ -708,11 +708,11 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>土耳其語</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>切換到另一個設定檔</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
@@ -720,7 +720,11 @@ Startup on boot has been cancelled.</source>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+        <translation>注意: 你將切換到另一個設定檔，檔案中的所有設定項將被套用，你目前的設定將被覆寫。
+
+此外，即使選擇了另一個設定檔，你也不能移除預設的設定檔，因為它記錄著你新的設定檔之位置。
+
+確定要切換到另一個設定檔嗎？</translation>
     </message>
 </context>
 <context>
@@ -735,7 +739,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="unfinished"></translation>
+        <translation>透過拖動文字框的邊角可以改變文字的大小。</translation>
     </message>
 </context>
 <context>
@@ -903,7 +907,8 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>雙按 X 鍵這一觸發方式已被取消。
+如需使用滑鼠穿透功能，請在&quot;偏好設定 - 快速鍵&quot;中設定其按鍵。</translation>
     </message>
 </context>
 <context>
@@ -1017,7 +1022,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Image saved to</source>
-        <translation>圖像已儲存到</translation>
+        <translation>圖像已儲存至</translation>
     </message>
     <message>
         <source>Failed to save the image to</source>
@@ -1107,7 +1112,7 @@ Click here to update now</source>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>滑鼠穿透開關</translation>
     </message>
 </context>
 <context>
@@ -1122,11 +1127,11 @@ Click here to update now</source>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>你確定要結束擷圖嗎？</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>以後不再顯示此訊息</translation>
     </message>
 </context>
 <context>
@@ -2075,36 +2080,38 @@ Also affect the color value copying.</source>
     <message>
         <source>For Windows Store version, if you need to turn this off,
 please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation type="unfinished"></translation>
+        <translation>對於微軟商店版本，如需取消開機啟動，
+請在&quot;工作管理員-啟動&quot;中找到 Snipaste 並將其停用即可。</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>設定檔儲存位置</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>路徑:</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用預設文字編輯器開啟設定檔。</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>變更設定檔的儲存路徑。</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc 鍵被按下時彈出確認對話方塊</translation>
     </message>
     <message>
         <source>Toggle mouse click-through:</source>
-        <translation type="unfinished"></translation>
+        <translation>滑鼠穿透開關:</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>該快速鍵用於開啟/關閉游標所在位置的貼圖的滑鼠穿透狀態。
+如果快速鍵按下時沒有貼圖位於游標之下，則會取消所有貼圖的滑鼠穿透狀態。</translation>
     </message>
 </context>
 <context>

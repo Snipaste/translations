@@ -908,7 +908,7 @@ Are you sure you want to switch to another configuration file?</source>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>双击 X 键这一触发方式已被取消。
-如需使用鼠标穿透公开，请在&quot;首选项 - 快捷键&quot;中设置其按键。</translation>
+如需使用鼠标穿透，请在&quot;首选项 - 快捷键&quot;中设置其按键。</translation>
     </message>
 </context>
 <context>
@@ -2086,7 +2086,7 @@ Also affect the color value copying.</source>
     <message>
         <source>For Windows Store version, if you need to turn this off,
 please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation>对于微软商店版本，如需取消会计启动，
+        <translation>对于微软商店版本，如需取消开机启动，
 请在&quot;任务管理器-启动&quot;中找到 Snipaste 并将其禁用即可。</translation>
     </message>
     <message>
@@ -2107,7 +2107,7 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation>Esc 键被按下时是弹出确认对话框</translation>
+        <translation>Esc 键被按下时弹出确认对话框</translation>
     </message>
     <message>
         <source>Toggle mouse click-through:</source>
