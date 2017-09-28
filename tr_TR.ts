@@ -464,7 +464,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation>Polonyaca</translation>
+        <translation>Lehçe</translation>
     </message>
     <message>
         <source>Dutch</source>
