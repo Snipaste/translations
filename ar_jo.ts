@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ar_JO">
+<TS version="2.1" language="ar_JO">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -425,16 +425,8 @@ Please contact the developer.</source>
         <translation>مللي ثانيه (0-999)</translation>
     </message>
     <message>
-        <source>Set Directory</source>
-        <translation>تعيين الدليل</translation>
-    </message>
-    <message>
         <source>Checking...</source>
         <translation>التحقق...</translation>
-    </message>
-    <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation>فشل في انشاء اختصار في دليل بدء التشغيل.</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -455,10 +447,6 @@ Please contact the developer.</source>
     <message>
         <source>Paste hotkey</source>
         <translation>لصق مفتاح نشطة</translation>
-    </message>
-    <message>
-        <source>Select Color</source>
-        <translation>حدد اللون</translation>
     </message>
     <message>
         <source>Localized month name (abbr.)</source>
@@ -555,37 +543,12 @@ Startup on boot has been cancelled.</source>
         <translation>اليابانية</translation>
     </message>
     <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation>لا يمكن الكتابة في ملف التكوين. ستستخدم جميع الاعدادات الاعدادات الافتراضية.</translation>
-    </message>
-    <message>
-        <source>Click here to see the changelog</source>
-        <translation>انقر هنا لمشاهدة التغيير</translation>
-    </message>
-    <message>
-        <source>Failed to register shortcut:</source>
-        <translation>اخفق تسجيل الاختصار:</translation>
-    </message>
-    <message>
         <source>Portuguese (Portugal)</source>
         <translation>البرتغالية (البرتغال)</translation>
     </message>
     <message>
-        <source>Snipaste is running</source>
-        <translation>Snipaste  قيد التشغيل</translation>
-    </message>
-    <message>
         <source>Quick save</source>
         <translation>حفظ سريع</translation>
-    </message>
-    <message>
-        <source>Pick File</source>
-        <translation>اختر ملف</translation>
-    </message>
-    <message>
-        <source>Select Font</source>
-        <translation>حدد الخط</translation>
     </message>
     <message>
         <source>Translators</source>
@@ -628,20 +591,8 @@ All settings will use defaults.</source>
         <translation>يوم (01-31)</translation>
     </message>
     <message>
-        <source>You can control it via the tray icon.</source>
-        <translation>يمكنك التحكم بها عبر رمز الدرج.</translation>
-    </message>
-    <message>
-        <source>Run Snipaste admin privileges.</source>
-        <translation>Snipaste  تشغيل امتيازات المشرف.</translation>
-    </message>
-    <message>
         <source>Feedback</source>
         <translation>ردود الفعل</translation>
-    </message>
-    <message>
-        <source>Snipaste has been updated to %1.</source>
-        <translation>Snipaste تم تحديث الى %1.</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
@@ -652,17 +603,8 @@ All settings will use defaults.</source>
         <translation>اسم المستخدم</translation>
     </message>
     <message>
-        <source>Restart Snipaste with admin privileges?</source>
-        <translation>اعادة تشغيل Snipaste مع امتيازات المسؤول؟</translation>
-    </message>
-    <message>
         <source>Dates and times</source>
         <translation>التواريخ و الاوقات</translation>
-    </message>
-    <message>
-        <source>Failed to create the schedule task.
-You may restart Snipaste with admin privileges and try again.</source>
-        <translation>فشل انشاء مهمة الجدول الزمني. يمكنك اعادة تشغيل سنيباست مع امتيازات المشرف والمحاولة مرة اخرى.</translation>
     </message>
     <message>
         <source>Allowed suffixes</source>
@@ -905,6 +847,92 @@ Are you sure you want to switch to another configuration file?</source>
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>تم إلغاء اجراء &apos; النقر المزدوج &apos;.
 للنقر بالماوس من خلال ، يمكنك العثور على مفتاح التشغيل السريع في &apos; تفضيلات-مفتاح التشغيل السريع &apos;.</translation>
+    </message>
+    <message>
+        <source>Hide other images for now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Error</source>
+        <translation>خطا</translation>
+    </message>
+    <message>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Snipaste admin privileges.</source>
+        <translation>Snipaste  تشغيل امتيازات المشرف.</translation>
+    </message>
+    <message>
+        <source>Failed to create the schedule task.
+You may restart Snipaste with admin privileges and try again.</source>
+        <translation>فشل انشاء مهمة الجدول الزمني. يمكنك اعادة تشغيل سنيباست مع امتيازات المشرف والمحاولة مرة اخرى.</translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
+        <translation>فشل في انشاء اختصار في دليل بدء التشغيل.</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation>اعادة تشغيل Snipaste مع امتيازات المسؤول؟</translation>
+    </message>
+</context>
+<context>
+    <name>SettingBinder</name>
+    <message>
+        <source>Failed to register shortcut:</source>
+        <translation>اخفق تسجيل الاختصار:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>خطا</translation>
+    </message>
+    <message>
+        <source>Snipaste is running</source>
+        <translation>Snipaste  قيد التشغيل</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>يمكنك التحكم بها عبر رمز الدرج.</translation>
+    </message>
+    <message>
+        <source>Snipaste has been updated to %1.</source>
+        <translation>Snipaste تم تحديث الى %1.</translation>
+    </message>
+    <message>
+        <source>Click here to see the changelog</source>
+        <translation>انقر هنا لمشاهدة التغيير</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>حدد اللون</translation>
+    </message>
+    <message>
+        <source>Select Font</source>
+        <translation>حدد الخط</translation>
+    </message>
+    <message>
+        <source>Set Directory</source>
+        <translation>تعيين الدليل</translation>
+    </message>
+    <message>
+        <source>Pick File</source>
+        <translation>اختر ملف</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>Error</source>
+        <translation>خطا</translation>
+    </message>
+    <message>
+        <source>No write permission on the config file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1326,10 +1354,6 @@ Click here to update now</source>
     <message>
         <source>Show the mask in the magnifier.</source>
         <translation>اظهار القناع في المكبر.</translation>
-    </message>
-    <message>
-        <source>Clipboard</source>
-        <translation>حافظه</translation>
     </message>
     <message>
         <source>The shortcut to delayed snip</source>
@@ -2095,6 +2119,18 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>الاختصار لتبديل وضع النقرة من الصورة تحت المؤشر. إذا لم يكن اطار الصورة تحت المؤشر ،
 سيتم النقر على جميع الصور الغير قابلة للنقر.</translation>
+    </message>
+    <message>
+        <source>When:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation>نسخ الى الحافظة</translation>
+    </message>
+    <message>
+        <source>Disable mouse scrolling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

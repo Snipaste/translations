@@ -371,22 +371,6 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <translation>Güncellemeleri kontrol et</translation>
     </message>
     <message>
-        <source>Select Color</source>
-        <translation>Renk seç</translation>
-    </message>
-    <message>
-        <source>Select Font</source>
-        <translation>Yazı tipi seç</translation>
-    </message>
-    <message>
-        <source>Set Directory</source>
-        <translation>Dizin belirleyin</translation>
-    </message>
-    <message>
-        <source>Pick File</source>
-        <translation>Dosya seç</translation>
-    </message>
-    <message>
         <source>Snip hotkey</source>
         <translation>Kırpma kısayolu</translation>
     </message>
@@ -603,52 +587,8 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <translation>Tarihler ve saatler</translation>
     </message>
     <message>
-        <source>Run Snipaste admin privileges.</source>
-        <translation>Snipaste&apos;i yönetici olarak çalıştır.</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Hata</translation>
-    </message>
-    <message>
-        <source>Failed to create the schedule task.
-You may restart Snipaste with admin privileges and try again.</source>
-        <translation>Zamanlanmış görev oluşturma başarısız oldu.
-Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation>
-    </message>
-    <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation>Başlangıç dizininde kısayol oluşturulamadı.</translation>
-    </message>
-    <message>
-        <source>Restart Snipaste with admin privileges?</source>
-        <translation>Snipaste yönetici olarak çalıştırılsın mı?</translation>
-    </message>
-    <message>
-        <source>Failed to register shortcut:</source>
-        <translation>Kısayol kaydedilemedi:</translation>
-    </message>
-    <message>
-        <source>Snipaste is running</source>
-        <translation>Snipaste çalışıyor</translation>
-    </message>
-    <message>
-        <source>You can control it via the tray icon.</source>
-        <translation>Tepsi simgesiyle de kontrol edebilirsiniz.</translation>
-    </message>
-    <message>
-        <source>Snipaste has been updated to %1.</source>
-        <translation>Snipaste güncellendi %1.</translation>
-    </message>
-    <message>
-        <source>Click here to see the changelog</source>
-        <translation>Değişiklikleri görmek için tıklayın</translation>
-    </message>
-    <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation>Yapılandırma dosyasına yazılamıyor.
-Tüm ayarlar varsayılan kullanacaktır.</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -911,6 +851,93 @@ Başka bir yapılandırma dosyasına geçmek istediğinizden emin misiniz?</tran
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>&quot;X&apos;e çift dokunma&quot; işlemi iptal edildi.
 Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&apos; bölümünden bulabilirsiniz.</translation>
+    </message>
+    <message>
+        <source>Hide other images for now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Error</source>
+        <translation>Hata</translation>
+    </message>
+    <message>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Snipaste admin privileges.</source>
+        <translation>Snipaste&apos;i yönetici olarak çalıştır.</translation>
+    </message>
+    <message>
+        <source>Failed to create the schedule task.
+You may restart Snipaste with admin privileges and try again.</source>
+        <translation>Zamanlanmış görev oluşturma başarısız oldu.
+Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
+        <translation>Başlangıç dizininde kısayol oluşturulamadı.</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation>Snipaste yönetici olarak çalıştırılsın mı?</translation>
+    </message>
+</context>
+<context>
+    <name>SettingBinder</name>
+    <message>
+        <source>Failed to register shortcut:</source>
+        <translation>Kısayol kaydedilemedi:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Hata</translation>
+    </message>
+    <message>
+        <source>Snipaste is running</source>
+        <translation>Snipaste çalışıyor</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>Tepsi simgesiyle de kontrol edebilirsiniz.</translation>
+    </message>
+    <message>
+        <source>Snipaste has been updated to %1.</source>
+        <translation>Snipaste güncellendi %1.</translation>
+    </message>
+    <message>
+        <source>Click here to see the changelog</source>
+        <translation>Değişiklikleri görmek için tıklayın</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>Renk seç</translation>
+    </message>
+    <message>
+        <source>Select Font</source>
+        <translation>Yazı tipi seç</translation>
+    </message>
+    <message>
+        <source>Set Directory</source>
+        <translation>Dizin belirleyin</translation>
+    </message>
+    <message>
+        <source>Pick File</source>
+        <translation>Dosya seç</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>Error</source>
+        <translation>Hata</translation>
+    </message>
+    <message>
+        <source>No write permission on the config file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1587,10 +1614,6 @@ Ancak, bu sırada, görüntü alfa kanalı kaybolur.</translation>
         <translation>Bir resim panoya kaydedilirse ses efekti çalın.</translation>
     </message>
     <message>
-        <source>Clipboard</source>
-        <translation>Pano</translation>
-    </message>
-    <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
         <translation>Hızlı Kaydet ile bir resim kaydedilirse ses efekti çalın.</translation>
     </message>
@@ -2115,6 +2138,18 @@ lütfen &apos;Görev Yöneticisi&apos; - &apos;Başlangıç&apos; bölümüne gi
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>İmlecin altındaki görüntünün tıklama modunu değiştirmek için kullanılan kısayol.
 İmlecin altında herhangi bir görüntü penceresi yoksa, tıklanamayan tüm görüntüler tıklanabilir hale getirilir.</translation>
+    </message>
+    <message>
+        <source>When:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation>Panoya kopyala</translation>
+    </message>
+    <message>
+        <source>Disable mouse scrolling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

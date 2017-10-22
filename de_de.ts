@@ -365,14 +365,6 @@ Please contact the developer.</source>
         <translation>-bit</translation>
     </message>
     <message>
-        <source>Select Color</source>
-        <translation>Farbe auswählen</translation>
-    </message>
-    <message>
-        <source>Select Font</source>
-        <translation>Schrift auswählen</translation>
-    </message>
-    <message>
         <source>Snip hotkey</source>
         <translation>Hotkey Aufnahme</translation>
     </message>
@@ -399,14 +391,6 @@ Please contact the developer.</source>
     <message>
         <source>Check for updates</source>
         <translation>Auf Updates prüfen</translation>
-    </message>
-    <message>
-        <source>Set Directory</source>
-        <translation>Verzeichnis setzen</translation>
-    </message>
-    <message>
-        <source>Pick File</source>
-        <translation>Datei wählen</translation>
     </message>
     <message>
         <source>For XP</source>
@@ -593,32 +577,8 @@ Please contact the developer.</source>
         <translation>Datum und Zeit</translation>
     </message>
     <message>
-        <source>Run Snipaste admin privileges.</source>
-        <translation>Snipaste-Administratorrechte ausführen.</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Fehler</translation>
-    </message>
-    <message>
-        <source>Failed to create the schedule task.
-You may restart Snipaste with admin privileges and try again.</source>
-        <translation>Die geplante Aufgabe  konnte nicht erstellt werden.
-Sie können Snipaste mit Administratorrechten neu starten und es erneut versuchen.</translation>
-    </message>
-    <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation>Fehler beim Erstellen einer Verknüpfung im Startverzeichnis.</translation>
-    </message>
-    <message>
-        <source>Restart Snipaste with admin privileges?</source>
-        <translation>Snipaste mit Administratorrechten neu starten?</translation>
-    </message>
-    <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation>Kann nicht in the config file schreiben.
-In allen Einstellungen werden die Standardwerte verwendet.</translation>
     </message>
     <message>
         <source>Off</source>
@@ -669,26 +629,6 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     <message>
         <source>System Proxy</source>
         <translation>System Proxy</translation>
-    </message>
-    <message>
-        <source>Snipaste is running</source>
-        <translation>Snipaste läuft</translation>
-    </message>
-    <message>
-        <source>You can control it via the tray icon.</source>
-        <translation>Kann über das Benachrichtigungssymbol verwaltet werden.</translation>
-    </message>
-    <message>
-        <source>Snipaste has been updated to %1.</source>
-        <translation>Snipaste wurde zu %1 aktualisiert.</translation>
-    </message>
-    <message>
-        <source>Click here to see the changelog</source>
-        <translation>Hier klicken um das Änderungsprotkoll einzusehen</translation>
-    </message>
-    <message>
-        <source>Failed to register shortcut:</source>
-        <translation>Kürzel konnte nicht registriert werden:</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -909,6 +849,93 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>Die &apos;Doppelklick X&apos;-Aktion wurde abgebrochen.
 Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellungen - Hotkey&apos;.</translation>
+    </message>
+    <message>
+        <source>Hide other images for now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Error</source>
+        <translation>Fehler</translation>
+    </message>
+    <message>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Snipaste admin privileges.</source>
+        <translation>Snipaste-Administratorrechte ausführen.</translation>
+    </message>
+    <message>
+        <source>Failed to create the schedule task.
+You may restart Snipaste with admin privileges and try again.</source>
+        <translation>Die geplante Aufgabe  konnte nicht erstellt werden.
+Sie können Snipaste mit Administratorrechten neu starten und es erneut versuchen.</translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
+        <translation>Fehler beim Erstellen einer Verknüpfung im Startverzeichnis.</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation>Snipaste mit Administratorrechten neu starten?</translation>
+    </message>
+</context>
+<context>
+    <name>SettingBinder</name>
+    <message>
+        <source>Failed to register shortcut:</source>
+        <translation>Kürzel konnte nicht registriert werden:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Fehler</translation>
+    </message>
+    <message>
+        <source>Snipaste is running</source>
+        <translation>Snipaste läuft</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>Kann über das Benachrichtigungssymbol verwaltet werden.</translation>
+    </message>
+    <message>
+        <source>Snipaste has been updated to %1.</source>
+        <translation>Snipaste wurde zu %1 aktualisiert.</translation>
+    </message>
+    <message>
+        <source>Click here to see the changelog</source>
+        <translation>Hier klicken um das Änderungsprotkoll einzusehen</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>Farbe wählen</translation>
+    </message>
+    <message>
+        <source>Select Font</source>
+        <translation>Schrift auswählen</translation>
+    </message>
+    <message>
+        <source>Set Directory</source>
+        <translation>Verzeichnis setzen</translation>
+    </message>
+    <message>
+        <source>Pick File</source>
+        <translation>Datei wählen</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>Error</source>
+        <translation>Fehler</translation>
+    </message>
+    <message>
+        <source>No write permission on the config file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1516,10 +1543,6 @@ However, in the meantime, the alpha channel of the image is lost.</source>
         <translation>Sound abspielen wenn ein Screenshot in die Zwischenablage gespeichert wurde.</translation>
     </message>
     <message>
-        <source>Clipboard</source>
-        <translation>Zwischenablage</translation>
-    </message>
-    <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
         <translation>Sound abspielen wenn ein Screenshot mit Quick Save gespeichert wurde.</translation>
     </message>
@@ -2119,6 +2142,18 @@ Taskmanaver - Autostart, suchen Sie nach Snipaste und deaktivieren Sie es.</tran
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>Verknüpfung, um den Klick-Modus des Bildes unter dem Cursor umzuschalten.
 Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilder anklickbar gemacht.</translation>
+    </message>
+    <message>
+        <source>When:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation>Kopiere in Zwischenablage</translation>
+    </message>
+    <message>
+        <source>Disable mouse scrolling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -415,16 +415,8 @@ Veuillez contacter le développeur.</translation>
         <translation>Millisecondes (0-999)</translation>
     </message>
     <message>
-        <source>Set Directory</source>
-        <translation>Définir répertoire</translation>
-    </message>
-    <message>
         <source>Checking...</source>
         <translation>Vérification...</translation>
-    </message>
-    <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation>Impossible de créer raccourci dans répertoire de démarrage.</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -445,10 +437,6 @@ Veuillez contacter le développeur.</translation>
     <message>
         <source>Paste hotkey</source>
         <translation>Coller raccourci clavier</translation>
-    </message>
-    <message>
-        <source>Select Color</source>
-        <translation>Sélectionner Couleur</translation>
     </message>
     <message>
         <source>Localized month name (abbr.)</source>
@@ -537,32 +525,12 @@ Le démarrage sur le démarrage a été annulé.</translation>
         <translation>Japonais</translation>
     </message>
     <message>
-        <source>Click here to see the changelog</source>
-        <translation>Cliquez ici pour voir journal des changements</translation>
-    </message>
-    <message>
-        <source>Failed to register shortcut:</source>
-        <translation>Échec enregistrement du raccourci:</translation>
-    </message>
-    <message>
         <source>Portuguese (Portugal)</source>
         <translation>Portugais (Portugal)</translation>
     </message>
     <message>
-        <source>Snipaste is running</source>
-        <translation>Snipaste est en cours d&apos;exécution</translation>
-    </message>
-    <message>
         <source>Quick save</source>
         <translation>Sauvegarde rapide</translation>
-    </message>
-    <message>
-        <source>Pick File</source>
-        <translation>Choisisser Fichier</translation>
-    </message>
-    <message>
-        <source>Select Font</source>
-        <translation>Sélectionner Police</translation>
     </message>
     <message>
         <source>Translators</source>
@@ -605,20 +573,8 @@ Le démarrage sur le démarrage a été annulé.</translation>
         <translation>Jour (01-31)</translation>
     </message>
     <message>
-        <source>You can control it via the tray icon.</source>
-        <translation>Vous pouvez contrôler via l&apos;icône de la barre.</translation>
-    </message>
-    <message>
-        <source>Run Snipaste admin privileges.</source>
-        <translation>Exécutez Snipaste privilèges d&apos;administrateur.</translation>
-    </message>
-    <message>
         <source>Feedback</source>
         <translation>Retour&apos;information</translation>
-    </message>
-    <message>
-        <source>Snipaste has been updated to %1.</source>
-        <translation>Snipaste a été mis à jour pour %1.</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
@@ -629,24 +585,8 @@ Le démarrage sur le démarrage a été annulé.</translation>
         <translation>Nom d&apos;utilisateur</translation>
     </message>
     <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation>Impossible d&apos;écrire dans the config file.
-Tous les paramètres utilisent les valeurs par défaut.</translation>
-    </message>
-    <message>
-        <source>Restart Snipaste with admin privileges?</source>
-        <translation>Redémarrer Snipaste avec des privilèges administrateur?</translation>
-    </message>
-    <message>
         <source>Dates and times</source>
         <translation>Dates et heures</translation>
-    </message>
-    <message>
-        <source>Failed to create the schedule task.
-You may restart Snipaste with admin privileges and try again.</source>
-        <translation>Impossible de créer la tâche de planification.
-Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessayer.</translation>
     </message>
     <message>
         <source>Allowed suffixes</source>
@@ -911,6 +851,93 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>L&apos;action &apos;Double-tap X&apos; a été annulée.
 Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Préférences - Raccourci clavier&apos;.</translation>
+    </message>
+    <message>
+        <source>Hide other images for now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Error</source>
+        <translation>Erreur</translation>
+    </message>
+    <message>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Snipaste admin privileges.</source>
+        <translation>Exécutez Snipaste privilèges d&apos;administrateur.</translation>
+    </message>
+    <message>
+        <source>Failed to create the schedule task.
+You may restart Snipaste with admin privileges and try again.</source>
+        <translation>Impossible de créer la tâche de planification.
+Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessayer.</translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
+        <translation>Impossible de créer raccourci dans répertoire de démarrage.</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation>Redémarrer Snipaste avec des privilèges administrateur?</translation>
+    </message>
+</context>
+<context>
+    <name>SettingBinder</name>
+    <message>
+        <source>Failed to register shortcut:</source>
+        <translation>Échec enregistrement du raccourci:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Erreur</translation>
+    </message>
+    <message>
+        <source>Snipaste is running</source>
+        <translation>Snipaste est en cours d&apos;exécution</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>Vous pouvez contrôler via l&apos;icône de la barre.</translation>
+    </message>
+    <message>
+        <source>Snipaste has been updated to %1.</source>
+        <translation>Snipaste a été mis à jour pour %1.</translation>
+    </message>
+    <message>
+        <source>Click here to see the changelog</source>
+        <translation>Cliquez ici pour voir journal des changements</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>Sélectionner Couleur</translation>
+    </message>
+    <message>
+        <source>Select Font</source>
+        <translation>Sélectionner Police</translation>
+    </message>
+    <message>
+        <source>Set Directory</source>
+        <translation>Définir répertoire</translation>
+    </message>
+    <message>
+        <source>Pick File</source>
+        <translation>Choisisser Fichier</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>Error</source>
+        <translation>Erreur</translation>
+    </message>
+    <message>
+        <source>No write permission on the config file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1325,10 +1352,6 @@ Cliquez ici pour mettre à jour maintenant</translation>
     <message>
         <source>Show the mask in the magnifier.</source>
         <translation>Afficher le masque dans la loupe.</translation>
-    </message>
-    <message>
-        <source>Clipboard</source>
-        <translation>Presse-papiers</translation>
     </message>
     <message>
         <source>The shortcut to delayed snip</source>
@@ -2115,6 +2138,18 @@ S&apos;il vous plaît allez à &apos; Gestionnaire des tâches &apos; - &apos; D
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>Le raccourci pour basculer le mode de clic de l&apos;image sous le curseur.
 Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images non cliquables seront cliquables.</translation>
+    </message>
+    <message>
+        <source>When:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation>Copier vers presse-papier</translation>
+    </message>
+    <message>
+        <source>Disable mouse scrolling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

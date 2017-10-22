@@ -80,7 +80,7 @@ Proszę skontaktować się z deweloperem.</translation>
     <name>HelpDialog</name>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Pomoc</translation>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <source>Visit Online</source>
@@ -375,22 +375,6 @@ Proszę skontaktować się z deweloperem.</translation>
         <translation>-bit</translation>
     </message>
     <message>
-        <source>Select Color</source>
-        <translation>Wybierz kolor</translation>
-    </message>
-    <message>
-        <source>Select Font</source>
-        <translation>Wybierz czcionkę</translation>
-    </message>
-    <message>
-        <source>Set Directory</source>
-        <translation>Ustaw folder</translation>
-    </message>
-    <message>
-        <source>Pick File</source>
-        <translation>Wybierz plik</translation>
-    </message>
-    <message>
         <source>Snip hotkey</source>
         <translation>Klawisz skrótu przechwytywania ekranu</translation>
     </message>
@@ -599,32 +583,8 @@ Proszę skontaktować się z deweloperem.</translation>
         <translation>Data i czas</translation>
     </message>
     <message>
-        <source>Run Snipaste admin privileges.</source>
-        <translation>Uruchom jako administrator.</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Błąd</translation>
-    </message>
-    <message>
-        <source>Failed to create the schedule task.
-You may restart Snipaste with admin privileges and try again.</source>
-        <translation>Nie udało się stworzyć zaplanowanego zadania.
-Otwórz Snipaste jako administrator i spróbuj ponownie.</translation>
-    </message>
-    <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation>Nie udało się stworzyć skrótu w folderze startup.</translation>
-    </message>
-    <message>
-        <source>Restart Snipaste with admin privileges?</source>
-        <translation>Uruchomić Snipaste jako administrator?</translation>
-    </message>
-    <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation>the config file nie jest dostępny.
-Używanie ustawień domyślnych.</translation>
     </message>
     <message>
         <source>Off</source>
@@ -679,26 +639,6 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
     <message>
         <source>Portuguese (Brazil)</source>
         <translation>Portugalski (Brazylia)</translation>
-    </message>
-    <message>
-        <source>Failed to register shortcut:</source>
-        <translation>Nie udało się zarejestrować skrótu:</translation>
-    </message>
-    <message>
-        <source>Snipaste is running</source>
-        <translation>Snipaste jest uruchomiony</translation>
-    </message>
-    <message>
-        <source>You can control it via the tray icon.</source>
-        <translation>Możesz nim sterować przez ikonę w zasobniku.</translation>
-    </message>
-    <message>
-        <source>Snipaste has been updated to %1.</source>
-        <translation>Snipaste został zaktualizowany do %1.</translation>
-    </message>
-    <message>
-        <source>Click here to see the changelog</source>
-        <translation>Kliknij tu aby zobaczyć listę zmian</translation>
     </message>
     <message>
         <source>Russian</source>
@@ -800,7 +740,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Wybierz kolor</translation>
+        <translation>Wybierz kolor</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -905,6 +845,93 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide other images for now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Error</source>
+        <translation>Błąd</translation>
+    </message>
+    <message>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Snipaste admin privileges.</source>
+        <translation>Uruchom jako administrator.</translation>
+    </message>
+    <message>
+        <source>Failed to create the schedule task.
+You may restart Snipaste with admin privileges and try again.</source>
+        <translation>Nie udało się stworzyć zaplanowanego zadania.
+Otwórz Snipaste jako administrator i spróbuj ponownie.</translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
+        <translation>Nie udało się stworzyć skrótu w folderze startup.</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation>Uruchomić Snipaste jako administrator?</translation>
+    </message>
+</context>
+<context>
+    <name>SettingBinder</name>
+    <message>
+        <source>Failed to register shortcut:</source>
+        <translation>Nie udało się zarejestrować skrótu:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Błąd</translation>
+    </message>
+    <message>
+        <source>Snipaste is running</source>
+        <translation>Snipaste jest uruchomiony</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>Możesz nim sterować przez ikonę w zasobniku.</translation>
+    </message>
+    <message>
+        <source>Snipaste has been updated to %1.</source>
+        <translation>Snipaste został zaktualizowany do %1.</translation>
+    </message>
+    <message>
+        <source>Click here to see the changelog</source>
+        <translation>Kliknij tu aby zobaczyć listę zmian</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>Wybierz kolor</translation>
+    </message>
+    <message>
+        <source>Select Font</source>
+        <translation>Wybierz czcionkę</translation>
+    </message>
+    <message>
+        <source>Set Directory</source>
+        <translation>Ustaw folder</translation>
+    </message>
+    <message>
+        <source>Pick File</source>
+        <translation>Wybierz plik</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>Error</source>
+        <translation>Błąd</translation>
+    </message>
+    <message>
+        <source>No write permission on the config file!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1173,11 +1200,11 @@ Kliknij tu aby zaktualizować</translation>
     <name>groupmanager</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -1576,10 +1603,6 @@ Kanał alpha obrazu jest utracony.</translation>
     <message>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
         <translation>Zagraj efekt dźwiękowy kiedy zrzut ekranu jest zapisywany do schowka.</translation>
-    </message>
-    <message>
-        <source>Clipboard</source>
-        <translation>Schowek</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
@@ -2107,6 +2130,18 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation>Skopiuj do schowka</translation>
+    </message>
+    <message>
+        <source>Disable mouse scrolling</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

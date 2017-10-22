@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="el_GR">
+<TS version="2.1" language="el_GR">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -367,10 +367,6 @@ Please contact the developer.</source>
         <translation>Πλήκτρο πρόσβασης επικόλλησης</translation>
     </message>
     <message>
-        <source>Select Color</source>
-        <translation>Επιλογή χρώματος</translation>
-    </message>
-    <message>
         <source>Donate</source>
         <translation>Δωρεά</translation>
     </message>
@@ -381,14 +377,6 @@ Please contact the developer.</source>
     <message>
         <source>Preview</source>
         <translation>Προεπισκόπηση</translation>
-    </message>
-    <message>
-        <source>Failed to register shortcut:</source>
-        <translation>Απέτυχε η καταχώρηση της συντόμευσης:</translation>
-    </message>
-    <message>
-        <source>Select Font</source>
-        <translation>Επιλογή γραμματοσειράς</translation>
     </message>
     <message>
         <source>Translators</source>
@@ -447,18 +435,6 @@ Please contact the developer.</source>
         <translation>Συντελεστές</translation>
     </message>
     <message>
-        <source>Snipaste is running</source>
-        <translation>Το Snipaste εκτελείται</translation>
-    </message>
-    <message>
-        <source>You can control it via the tray icon.</source>
-        <translation>Μπορείτε να το ελέγχετε μέσω του εικονιδίου της περιοχής ειδοποιήσεων.</translation>
-    </message>
-    <message>
-        <source>Snipaste has been updated to %1.</source>
-        <translation>Το Snipaste έχει ενημερωθεί σε %1.</translation>
-    </message>
-    <message>
         <source>Follow</source>
         <translation>Ακολουθήστε</translation>
     </message>
@@ -467,16 +443,8 @@ Please contact the developer.</source>
         <translation></translation>
     </message>
     <message>
-        <source>Set Directory</source>
-        <translation>Ορισμός καταλόγου</translation>
-    </message>
-    <message>
         <source>Japanese</source>
         <translation>Ιαπωνικά</translation>
-    </message>
-    <message>
-        <source>Pick File</source>
-        <translation>Επιλέξτε αρχείο</translation>
     </message>
     <message>
         <source>Polish</source>
@@ -587,37 +555,8 @@ Please contact the developer.</source>
         <translation>Ημερομηνίες και ώρες</translation>
     </message>
     <message>
-        <source>Click here to see the changelog</source>
-        <translation>Κάντε κλικ εδώ για να δείτε το αρχείο μεταβολών</translation>
-    </message>
-    <message>
-        <source>Run Snipaste admin privileges.</source>
-        <translation>Εκτέλεση του Snipaste με δικαιώματα διαχειριστή.</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Σφάλμα</translation>
-    </message>
-    <message>
-        <source>Failed to create the schedule task.
-You may restart Snipaste with admin privileges and try again.</source>
-        <translation>Απέτυχε η δημιουργία χρονοδιαγράμματος εργασιών.
-Μπορείτε να κάνετε επανεκκίνηση του Snipaste με δικαιώματα 
-διαχειριστή και να προσπαθήστε ξανά.</translation>
-    </message>
-    <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation>Απέτυχε η δημιουργία συντόμευσης στον κατάλογο εκκίνησης.</translation>
-    </message>
-    <message>
-        <source>Restart Snipaste with admin privileges?</source>
-        <translation>Επανεκκίνηση του Snipaste με δικαιώματα διαχειριστή;</translation>
-    </message>
-    <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation>Το αρχείο ρυθμίσεων είναι μόνο για ανάγνωση.
-Για όλες τις ρυθμίσεις θα χρησιμοποιηθούν οι προεπιλογές.</translation>
     </message>
     <message>
         <source>Something went wrong with the startup shortcut.
@@ -913,6 +852,94 @@ Are you sure you want to switch to another configuration file?</source>
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>Η ενέργεια «Διπλό ταπ Χ» έχει ακυρωθεί.
 Για κλικ του ποντικιού, μπορείτε να βρείτε το πλήκτρο πρόσβασής του στις «Προτιμήσεις - Πλήκτρα πρόσβασης».</translation>
+    </message>
+    <message>
+        <source>Hide other images for now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Error</source>
+        <translation>Σφάλμα</translation>
+    </message>
+    <message>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Snipaste admin privileges.</source>
+        <translation>Εκτέλεση του Snipaste με δικαιώματα διαχειριστή.</translation>
+    </message>
+    <message>
+        <source>Failed to create the schedule task.
+You may restart Snipaste with admin privileges and try again.</source>
+        <translation>Απέτυχε η δημιουργία χρονοδιαγράμματος εργασιών.
+Μπορείτε να κάνετε επανεκκίνηση του Snipaste με δικαιώματα 
+διαχειριστή και να προσπαθήστε ξανά.</translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
+        <translation>Απέτυχε η δημιουργία συντόμευσης στον κατάλογο εκκίνησης.</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation>Επανεκκίνηση του Snipaste με δικαιώματα διαχειριστή;</translation>
+    </message>
+</context>
+<context>
+    <name>SettingBinder</name>
+    <message>
+        <source>Failed to register shortcut:</source>
+        <translation>Απέτυχε η καταχώρηση της συντόμευσης:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Σφάλμα</translation>
+    </message>
+    <message>
+        <source>Snipaste is running</source>
+        <translation>Το Snipaste εκτελείται</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>Μπορείτε να το ελέγχετε μέσω του εικονιδίου της περιοχής ειδοποιήσεων.</translation>
+    </message>
+    <message>
+        <source>Snipaste has been updated to %1.</source>
+        <translation>Το Snipaste έχει ενημερωθεί σε %1.</translation>
+    </message>
+    <message>
+        <source>Click here to see the changelog</source>
+        <translation>Κάντε κλικ εδώ για να δείτε το αρχείο μεταβολών</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>Επιλογή χρώματος</translation>
+    </message>
+    <message>
+        <source>Select Font</source>
+        <translation>Επιλογή γραμματοσειράς</translation>
+    </message>
+    <message>
+        <source>Set Directory</source>
+        <translation>Ορισμός καταλόγου</translation>
+    </message>
+    <message>
+        <source>Pick File</source>
+        <translation>Επιλέξτε αρχείο</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>Error</source>
+        <translation>Σφάλμα</translation>
+    </message>
+    <message>
+        <source>No write permission on the config file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1778,10 +1805,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Αναπαραγωγή ηχητικού εφέ όταν ένα στιγμιότυπο αποθηκεύεται στο πρόχειρο.</translation>
     </message>
     <message>
-        <source>Clipboard</source>
-        <translation>Πρόχειρο</translation>
-    </message>
-    <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
         <translation>Αναπαραγωγή ηχητικού εφέ όταν ένα στιγμιότυπο αποθηκεύεται μέσω της Ταχείας αποθήκευσης.</translation>
     </message>
@@ -2126,6 +2149,18 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Η συντόμευση για εναλλαγή της λειτουργίας κλικ ποντικιού της εικόνας κάτω από το δρομέα.
 Αν δεν υπάρχει παράθυρο εικόνας κάτω από τον δείκτη, όλες οι χωρίς δυνατότητα 
 κλικ εικόνες, θα γίνουν με δυνατότητα κλικ.</translation>
+    </message>
+    <message>
+        <source>When:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation>Αντιγραφή στο πρόχειρο</translation>
+    </message>
+    <message>
+        <source>Disable mouse scrolling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -375,22 +375,6 @@ Por favor, contate o desenvolvedor.</translation>
         <translation>-bits</translation>
     </message>
     <message>
-        <source>Select Color</source>
-        <translation>Selecione a Cor</translation>
-    </message>
-    <message>
-        <source>Select Font</source>
-        <translation>Selecione a Fonte</translation>
-    </message>
-    <message>
-        <source>Set Directory</source>
-        <translation>Defina a Pasta</translation>
-    </message>
-    <message>
-        <source>Pick File</source>
-        <translation>Escolha o Arquivo</translation>
-    </message>
-    <message>
         <source>Snip hotkey</source>
         <translation>Tecla de atalho para recortar</translation>
     </message>
@@ -599,32 +583,8 @@ Por favor, contate o desenvolvedor.</translation>
         <translation>Data e hora</translation>
     </message>
     <message>
-        <source>Run Snipaste admin privileges.</source>
-        <translation>Executa o Snipaste com privilégios de Administrador.</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Erro</translation>
-    </message>
-    <message>
-        <source>Failed to create the schedule task.
-You may restart Snipaste with admin privileges and try again.</source>
-        <translation>Falha ao criar a tarefa agendada.
-Reinicie o Snipaste como Administrador e tente novamente.</translation>
-    </message>
-    <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation>Falha ao criar atalho na pasta de inicialização.</translation>
-    </message>
-    <message>
-        <source>Restart Snipaste with admin privileges?</source>
-        <translation>Reiniciar o Snipaste como Administrador?</translation>
-    </message>
-    <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation>Arquivo the config file não possui permissão de escrita.
-Todas as configurações usarão os padrões.</translation>
     </message>
     <message>
         <source>Off</source>
@@ -679,26 +639,6 @@ A inicialização no boot foi cancelada.</translation>
     <message>
         <source>Portuguese (Brazil)</source>
         <translation>Portuguese (Brazil)</translation>
-    </message>
-    <message>
-        <source>Failed to register shortcut:</source>
-        <translation>Falha ao registrar tecla de atalho:</translation>
-    </message>
-    <message>
-        <source>Snipaste is running</source>
-        <translation>O Snipaste está em execução</translation>
-    </message>
-    <message>
-        <source>You can control it via the tray icon.</source>
-        <translation>Você pode controlá-lo pelo ícone da Área de Notificação.</translation>
-    </message>
-    <message>
-        <source>Snipaste has been updated to %1.</source>
-        <translation>O Snipaste foi atualizado para %1.</translation>
-    </message>
-    <message>
-        <source>Click here to see the changelog</source>
-        <translation>Clique aqui para ver o log de alterações</translation>
     </message>
     <message>
         <source>Russian</source>
@@ -911,6 +851,93 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>A ação &apos;Duplo toque X&apos; foi cancelada.
 Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Preferências - Teclas de Atalho&apos;.</translation>
+    </message>
+    <message>
+        <source>Hide other images for now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Error</source>
+        <translation>Erro</translation>
+    </message>
+    <message>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Snipaste admin privileges.</source>
+        <translation>Executa o Snipaste com privilégios de Administrador.</translation>
+    </message>
+    <message>
+        <source>Failed to create the schedule task.
+You may restart Snipaste with admin privileges and try again.</source>
+        <translation>Falha ao criar a tarefa agendada.
+Reinicie o Snipaste como Administrador e tente novamente.</translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
+        <translation>Falha ao criar atalho na pasta de inicialização.</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation>Reiniciar o Snipaste como Administrador?</translation>
+    </message>
+</context>
+<context>
+    <name>SettingBinder</name>
+    <message>
+        <source>Failed to register shortcut:</source>
+        <translation>Falha ao registrar tecla de atalho:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Erro</translation>
+    </message>
+    <message>
+        <source>Snipaste is running</source>
+        <translation>O Snipaste está em execução</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>Você pode controlá-lo pelo ícone da Área de Notificação.</translation>
+    </message>
+    <message>
+        <source>Snipaste has been updated to %1.</source>
+        <translation>O Snipaste foi atualizado para %1.</translation>
+    </message>
+    <message>
+        <source>Click here to see the changelog</source>
+        <translation>Clique aqui para ver o log de alterações</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>Selecione a Cor</translation>
+    </message>
+    <message>
+        <source>Select Font</source>
+        <translation>Selecione a Fonte</translation>
+    </message>
+    <message>
+        <source>Set Directory</source>
+        <translation>Defina a Pasta</translation>
+    </message>
+    <message>
+        <source>Pick File</source>
+        <translation>Escolha o Arquivo</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>Error</source>
+        <translation>Erro</translation>
+    </message>
+    <message>
+        <source>No write permission on the config file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1587,10 +1614,6 @@ No entanto, nesse meio tempo, o canal alfa da imagem é perdido.</translation>
         <translation>Reproduzir um efeito sonoro se uma captura é salva na Área de Transferência.</translation>
     </message>
     <message>
-        <source>Clipboard</source>
-        <translation>Área de Transferência</translation>
-    </message>
-    <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
         <translation>Reproduzir um efeito sonoro se uma captura é salva via Salvamento Rápido.</translation>
     </message>
@@ -2115,6 +2138,18 @@ vá até o Gerenciador de Tarefas - Inicializar, encontre &apos;Snipaste&apos; e
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>O atalho para alternar o modo de clique da imagem sob o cursor.
 Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáveis se tornarão clicáveis.</translation>
+    </message>
+    <message>
+        <source>When:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation>Copiar para área de transferência</translation>
+    </message>
+    <message>
+        <source>Disable mouse scrolling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

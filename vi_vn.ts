@@ -78,7 +78,7 @@ Please contact the developer.</source>
     <name>HelpDialog</name>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Giúp đỡ</translation>
+        <translation>Giúp đỡ</translation>
     </message>
     <message>
         <source>Visit Online</source>
@@ -373,22 +373,6 @@ Please contact the developer.</source>
         <translation>-bit</translation>
     </message>
     <message>
-        <source>Select Color</source>
-        <translation>Chọn màu sắc</translation>
-    </message>
-    <message>
-        <source>Select Font</source>
-        <translation>Chọn kiểu chữ</translation>
-    </message>
-    <message>
-        <source>Set Directory</source>
-        <translation>Thiết lập thư mục</translation>
-    </message>
-    <message>
-        <source>Pick File</source>
-        <translation>Chọn tập tin</translation>
-    </message>
-    <message>
         <source>Snip hotkey</source>
         <translation>Snip hotkey</translation>
     </message>
@@ -598,50 +582,8 @@ Những người cộng tác</translation>
         <translation>Ngày và giờ</translation>
     </message>
     <message>
-        <source>Run Snipaste admin privileges.</source>
-        <translation>Chạy đặc quyền quản trị Snipaste.</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Lỗi</translation>
-    </message>
-    <message>
-        <source>Failed to create the schedule task.
-You may restart Snipaste with admin privileges and try again.</source>
-        <translation>Tạo bản liệt kê nhiệm vụ thất bại. Bản có thể thử khởi động lại Snipaste với đặc quyền quản trị.</translation>
-    </message>
-    <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation>Tạo một đường tắt trong thư mục khởi động thất bại.</translation>
-    </message>
-    <message>
-        <source>Restart Snipaste with admin privileges?</source>
-        <translation>Khởi động lại Snipast với đặc quyền quản trị ?</translation>
-    </message>
-    <message>
-        <source>Failed to register shortcut:</source>
-        <translation>Đăng ký shortcut thất bại:</translation>
-    </message>
-    <message>
-        <source>Snipaste is running</source>
-        <translation>Snipaste đang chạy</translation>
-    </message>
-    <message>
-        <source>You can control it via the tray icon.</source>
-        <translation>Bạn có thể kiểm soát nó thông qua khay biểu tượng.</translation>
-    </message>
-    <message>
-        <source>Snipaste has been updated to %1.</source>
-        <translation>Snipaste đã được cập nhật %1.</translation>
-    </message>
-    <message>
-        <source>Click here to see the changelog</source>
-        <translation>Nhấp ở đây để xem changelog </translation>
-    </message>
-    <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation>Bạn không thể viết vào cấu hình ini.Tất cả cài đặt sẽ sử dụng mặc định.</translation>
     </message>
     <message>
         <source>Off</source>
@@ -796,7 +738,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Chọn màu sắc</translation>
+        <translation>Chọn màu sắc</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -901,6 +843,92 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide other images for now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Error</source>
+        <translation>Lỗi</translation>
+    </message>
+    <message>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Snipaste admin privileges.</source>
+        <translation>Chạy đặc quyền quản trị Snipaste.</translation>
+    </message>
+    <message>
+        <source>Failed to create the schedule task.
+You may restart Snipaste with admin privileges and try again.</source>
+        <translation>Tạo bản liệt kê nhiệm vụ thất bại. Bản có thể thử khởi động lại Snipaste với đặc quyền quản trị.</translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
+        <translation>Tạo một đường tắt trong thư mục khởi động thất bại.</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation>Khởi động lại Snipast với đặc quyền quản trị ?</translation>
+    </message>
+</context>
+<context>
+    <name>SettingBinder</name>
+    <message>
+        <source>Failed to register shortcut:</source>
+        <translation>Đăng ký shortcut thất bại:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Lỗi</translation>
+    </message>
+    <message>
+        <source>Snipaste is running</source>
+        <translation>Snipaste đang chạy</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>Bạn có thể kiểm soát nó thông qua khay biểu tượng.</translation>
+    </message>
+    <message>
+        <source>Snipaste has been updated to %1.</source>
+        <translation>Snipaste đã được cập nhật %1.</translation>
+    </message>
+    <message>
+        <source>Click here to see the changelog</source>
+        <translation>Nhấp ở đây để xem changelog </translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>Chọn màu sắc</translation>
+    </message>
+    <message>
+        <source>Select Font</source>
+        <translation>Chọn kiểu chữ</translation>
+    </message>
+    <message>
+        <source>Set Directory</source>
+        <translation>Thiết lập thư mục</translation>
+    </message>
+    <message>
+        <source>Pick File</source>
+        <translation>Chọn tập tin</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>Error</source>
+        <translation>Lỗi</translation>
+    </message>
+    <message>
+        <source>No write permission on the config file!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1168,11 +1196,11 @@ Click here to update now</source>
     <name>groupmanager</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hủy bỏ</translation>
+        <translation>Hủy bỏ</translation>
     </message>
 </context>
 <context>
@@ -1546,10 +1574,6 @@ Chỉ định -1 để Snipaste quyết định cho bạn.</translation>
     <message>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
         <translation>Nếu như chụp màn hình được lưu đến bản ghi tạm, sẽ phát âm thanh hiệu quả.</translation>
-    </message>
-    <message>
-        <source>Clipboard</source>
-        <translation>Bảng ghi nhớ tạm</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
@@ -2093,6 +2117,18 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation>Sao chép đên bảng ghi tạm</translation>
+    </message>
+    <message>
+        <source>Disable mouse scrolling</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

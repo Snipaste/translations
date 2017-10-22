@@ -389,10 +389,6 @@ Please contact the developer.</source>
         <translation>貼り付けホットキー</translation>
     </message>
     <message>
-        <source>Select Color</source>
-        <translation>色を選択</translation>
-    </message>
-    <message>
         <source>Donate</source>
         <translation>寄付</translation>
     </message>
@@ -413,18 +409,6 @@ Please contact the developer.</source>
         <translation>プレビュー</translation>
     </message>
     <message>
-        <source>Failed to register shortcut:</source>
-        <translation>ショートカット登録に失敗しました:</translation>
-    </message>
-    <message>
-        <source>Snipaste is running</source>
-        <translation>Snipaste実行中</translation>
-    </message>
-    <message>
-        <source>Select Font</source>
-        <translation>フォントを選択</translation>
-    </message>
-    <message>
         <source>Translators</source>
         <translation>翻訳者</translation>
     </message>
@@ -441,16 +425,8 @@ Please contact the developer.</source>
         <translation>協力者</translation>
     </message>
     <message>
-        <source>You can control it via the tray icon.</source>
-        <translation>トレイアイコンで制御することができます。</translation>
-    </message>
-    <message>
         <source>Feedback</source>
         <translation>フィードバック</translation>
-    </message>
-    <message>
-        <source>Snipaste has been updated to %1.</source>
-        <translation>Snipasteは%1に更新しました。</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
@@ -465,16 +441,8 @@ Please contact the developer.</source>
         <translation>ドキュメント</translation>
     </message>
     <message>
-        <source>Set Directory</source>
-        <translation>ディレクトリの設定</translation>
-    </message>
-    <message>
         <source>Japanese</source>
         <translation>日本語</translation>
-    </message>
-    <message>
-        <source>Pick File</source>
-        <translation>ファイルを選択</translation>
     </message>
     <message>
         <source>Polish</source>
@@ -585,35 +553,8 @@ Please contact the developer.</source>
         <translation>日付と時刻</translation>
     </message>
     <message>
-        <source>Click here to see the changelog</source>
-        <translation>変更履歴を見るにはここをクリックしてください</translation>
-    </message>
-    <message>
-        <source>Run Snipaste admin privileges.</source>
-        <translation>Snipasteを管理者として実行。</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>エラー</translation>
-    </message>
-    <message>
-        <source>Failed to create the schedule task.
-You may restart Snipaste with admin privileges and try again.</source>
-        <translation>スケジュールタスクの作成に失敗、Snipasteを管理者として実行して再試行してください。</translation>
-    </message>
-    <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation>スタートアップディレクトリにショートカットの作成に失敗。</translation>
-    </message>
-    <message>
-        <source>Restart Snipaste with admin privileges?</source>
-        <translation>Snipasteを管理者として再起動しますか？</translation>
-    </message>
-    <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation>the config fileに書き込むことができません。
-すべての設定はデフォルト値を使用します。</translation>
     </message>
     <message>
         <source>Something went wrong with the startup shortcut.
@@ -901,6 +842,92 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide other images for now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Error</source>
+        <translation>エラー</translation>
+    </message>
+    <message>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Snipaste admin privileges.</source>
+        <translation>Snipasteを管理者として実行。</translation>
+    </message>
+    <message>
+        <source>Failed to create the schedule task.
+You may restart Snipaste with admin privileges and try again.</source>
+        <translation>スケジュールタスクの作成に失敗、Snipasteを管理者として実行して再試行してください。</translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
+        <translation>スタートアップディレクトリにショートカットの作成に失敗。</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation>Snipasteを管理者として再起動しますか？</translation>
+    </message>
+</context>
+<context>
+    <name>SettingBinder</name>
+    <message>
+        <source>Failed to register shortcut:</source>
+        <translation>ショートカット登録に失敗しました:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>エラー</translation>
+    </message>
+    <message>
+        <source>Snipaste is running</source>
+        <translation>Snipaste実行中</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>トレイアイコンで制御することができます。</translation>
+    </message>
+    <message>
+        <source>Snipaste has been updated to %1.</source>
+        <translation>Snipasteは%1に更新しました。</translation>
+    </message>
+    <message>
+        <source>Click here to see the changelog</source>
+        <translation>変更履歴を見るにはここをクリックしてください</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>色を選択</translation>
+    </message>
+    <message>
+        <source>Select Font</source>
+        <translation>フォントを選択</translation>
+    </message>
+    <message>
+        <source>Set Directory</source>
+        <translation>ディレクトリの設定</translation>
+    </message>
+    <message>
+        <source>Pick File</source>
+        <translation>ファイルを選択</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>Error</source>
+        <translation>エラー</translation>
+    </message>
+    <message>
+        <source>No write permission on the config file!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1759,10 +1786,6 @@ Range: 10 - 100</source>
         <translation>スニップをクリップボードに保存した時に音声を再生する。</translation>
     </message>
     <message>
-        <source>Clipboard</source>
-        <translation>クリップボード</translation>
-    </message>
-    <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
         <translation>スニップをクイック保存した時に音声を再生する。</translation>
     </message>
@@ -2101,6 +2124,18 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation>クリップボードにコピー</translation>
+    </message>
+    <message>
+        <source>Disable mouse scrolling</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

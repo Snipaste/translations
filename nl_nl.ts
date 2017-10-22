@@ -367,14 +367,6 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <translation>-bit</translation>
     </message>
     <message>
-        <source>Select Color</source>
-        <translation>Kleur selecteren</translation>
-    </message>
-    <message>
-        <source>Select Font</source>
-        <translation>Lettertype selecteren</translation>
-    </message>
-    <message>
         <source>Snip hotkey</source>
         <translation>Sneltoets Schermopname</translation>
     </message>
@@ -401,14 +393,6 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     <message>
         <source>Check for updates</source>
         <translation>Nieuwe versie zoeken</translation>
-    </message>
-    <message>
-        <source>Set Directory</source>
-        <translation>Map instellen</translation>
-    </message>
-    <message>
-        <source>Pick File</source>
-        <translation>Bestand kiezen</translation>
     </message>
     <message>
         <source>For XP</source>
@@ -595,36 +579,8 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <translation>Datum en tijd</translation>
     </message>
     <message>
-        <source>Run Snipaste admin privileges.</source>
-        <translation>Snipaste uitvoeren met beheerdersrechten.</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Fout</translation>
-    </message>
-    <message>
-        <source>Failed to create the schedule task.
-You may restart Snipaste with admin privileges and try again.</source>
-        <translation>Geplande taak is niet aangemaakt.
-Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
-    </message>
-    <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation>Snelkoppeling in de map Opstarten is niet aangemaakt.</translation>
-    </message>
-    <message>
-        <source>Restart Snipaste with admin privileges?</source>
-        <translation>Snipaste opnieuw starten met beheerdersrechten?</translation>
-    </message>
-    <message>
-        <source>Click here to see the changelog</source>
-        <translation>Klik hier om het versiebestand te lezen</translation>
-    </message>
-    <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation>Configuratiebestand niet opgeslagen.
-Standaardinstellingen zijn van toepassing.</translation>
     </message>
     <message>
         <source>Off</source>
@@ -675,22 +631,6 @@ Automatisch opstarten is uitgeschakeld.</translation>
     <message>
         <source>System Proxy</source>
         <translation>Systeem-proxy</translation>
-    </message>
-    <message>
-        <source>Snipaste is running</source>
-        <translation>Snipaste is actief</translation>
-    </message>
-    <message>
-        <source>You can control it via the tray icon.</source>
-        <translation>U kunt dit aanpassen via het systeemvakpictogram.</translation>
-    </message>
-    <message>
-        <source>Snipaste has been updated to %1.</source>
-        <translation>Snipaste is vernieuwd naar %1.</translation>
-    </message>
-    <message>
-        <source>Failed to register shortcut:</source>
-        <translation>Snelkoppeling is niet aangemeld:</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -911,6 +851,93 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>De actie dubbelklik X is onderbroken.
 De sneltoets voor Muis-doorklikken kunt u vinden in Voorkeuren - Sneltoetsen.</translation>
+    </message>
+    <message>
+        <source>Hide other images for now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Error</source>
+        <translation>Fout</translation>
+    </message>
+    <message>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Snipaste admin privileges.</source>
+        <translation>Snipaste uitvoeren met beheerdersrechten.</translation>
+    </message>
+    <message>
+        <source>Failed to create the schedule task.
+You may restart Snipaste with admin privileges and try again.</source>
+        <translation>Geplande taak is niet aangemaakt.
+Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
+        <translation>Snelkoppeling in de map Opstarten is niet aangemaakt.</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation>Snipaste opnieuw starten met beheerdersrechten?</translation>
+    </message>
+</context>
+<context>
+    <name>SettingBinder</name>
+    <message>
+        <source>Failed to register shortcut:</source>
+        <translation>Snelkoppeling is niet aangemeld:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Fout</translation>
+    </message>
+    <message>
+        <source>Snipaste is running</source>
+        <translation>Snipaste is actief</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>U kunt dit aanpassen via het systeemvakpictogram.</translation>
+    </message>
+    <message>
+        <source>Snipaste has been updated to %1.</source>
+        <translation>Snipaste is vernieuwd naar %1.</translation>
+    </message>
+    <message>
+        <source>Click here to see the changelog</source>
+        <translation>Klik hier om het versiebestand te lezen</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>Kleur selecteren</translation>
+    </message>
+    <message>
+        <source>Select Font</source>
+        <translation>Lettertype selecteren</translation>
+    </message>
+    <message>
+        <source>Set Directory</source>
+        <translation>Map instellen</translation>
+    </message>
+    <message>
+        <source>Pick File</source>
+        <translation>Bestand kiezen</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>Error</source>
+        <translation>Fout</translation>
+    </message>
+    <message>
+        <source>No write permission on the config file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1425,10 +1452,6 @@ De alfa-transparantie van de afbeelding raakt hiermee verloren.</translation>
     <message>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
         <translation>Geluidseffect geven wanneer een schermopname naar het klembord wordt gekopiëerd.</translation>
-    </message>
-    <message>
-        <source>Clipboard</source>
-        <translation>Klembord</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
@@ -2115,6 +2138,18 @@ Start Windows Taakbeheer - Startup en schakel de automatische start van Snipaste
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>Deze sneltoets schakelt Muis-doorklikken van de afbeelding onder de cursor aan/uit.
 Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare afbeeldingen klikbaar gemaakt.</translation>
+    </message>
+    <message>
+        <source>When:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation>Naar klembord kopiëren</translation>
+    </message>
+    <message>
+        <source>Disable mouse scrolling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

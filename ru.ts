@@ -371,22 +371,6 @@ Please contact the developer.</source>
         <translation>Проверить обновления</translation>
     </message>
     <message>
-        <source>Select Color</source>
-        <translation>Выбрать цвет</translation>
-    </message>
-    <message>
-        <source>Select Font</source>
-        <translation>Выбрать шрифт</translation>
-    </message>
-    <message>
-        <source>Set Directory</source>
-        <translation>Установить директорию</translation>
-    </message>
-    <message>
-        <source>Pick File</source>
-        <translation>Выбрать файл</translation>
-    </message>
-    <message>
         <source>Snip hotkey</source>
         <translation>Горячие клавишиа для &quot;Область&quot;</translation>
     </message>
@@ -603,52 +587,8 @@ Please contact the developer.</source>
         <translation>Даты и время</translation>
     </message>
     <message>
-        <source>Run Snipaste admin privileges.</source>
-        <translation>Запускать Snipaste с правами администратора.</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Ошибка</translation>
-    </message>
-    <message>
-        <source>Failed to create the schedule task.
-You may restart Snipaste with admin privileges and try again.</source>
-        <translation>Не удалось создать задание по расписанию.
-Вы можете перезапустить Snipaste с правами администратора и попробовать снова.</translation>
-    </message>
-    <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation>Не удалось создать ярлык в каталоге автозагрузки.</translation>
-    </message>
-    <message>
-        <source>Restart Snipaste with admin privileges?</source>
-        <translation>Перезапустить Snipaste с правами администратора?</translation>
-    </message>
-    <message>
-        <source>Failed to register shortcut:</source>
-        <translation>Не удалось зарегистрировать ярлык:</translation>
-    </message>
-    <message>
-        <source>Snipaste is running</source>
-        <translation>Snipaste запущен</translation>
-    </message>
-    <message>
-        <source>You can control it via the tray icon.</source>
-        <translation>Вы можете контролировать его через иконку в трее.</translation>
-    </message>
-    <message>
-        <source>Snipaste has been updated to %1.</source>
-        <translation>Snipaste был обновлён до %1.</translation>
-    </message>
-    <message>
-        <source>Click here to see the changelog</source>
-        <translation>Нажмите здесь, чтобы посмотреть список изменений</translation>
-    </message>
-    <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation>Не удаётся записать конфиг в файл.
-Все параметры будут использоваться по умолчанию.</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -905,6 +845,93 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Annotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide other images for now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Snipaste admin privileges.</source>
+        <translation>Запускать Snipaste с правами администратора.</translation>
+    </message>
+    <message>
+        <source>Failed to create the schedule task.
+You may restart Snipaste with admin privileges and try again.</source>
+        <translation>Не удалось создать задание по расписанию.
+Вы можете перезапустить Snipaste с правами администратора и попробовать снова.</translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
+        <translation>Не удалось создать ярлык в каталоге автозагрузки.</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation>Перезапустить Snipaste с правами администратора?</translation>
+    </message>
+</context>
+<context>
+    <name>SettingBinder</name>
+    <message>
+        <source>Failed to register shortcut:</source>
+        <translation>Не удалось зарегистрировать ярлык:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <source>Snipaste is running</source>
+        <translation>Snipaste запущен</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>Вы можете контролировать его через иконку в трее.</translation>
+    </message>
+    <message>
+        <source>Snipaste has been updated to %1.</source>
+        <translation>Snipaste был обновлён до %1.</translation>
+    </message>
+    <message>
+        <source>Click here to see the changelog</source>
+        <translation>Нажмите здесь, чтобы посмотреть список изменений</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>Выбрать цвет</translation>
+    </message>
+    <message>
+        <source>Select Font</source>
+        <translation>Выбрать шрифт</translation>
+    </message>
+    <message>
+        <source>Set Directory</source>
+        <translation>Установить директорию</translation>
+    </message>
+    <message>
+        <source>Pick File</source>
+        <translation>Выбрать файл</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <source>No write permission on the config file!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1582,10 +1609,6 @@ However, in the meantime, the alpha channel of the image is lost.</source>
         <translation>Воспроизведение звукового эффекта при сохранении снимка экрана в буфер обмена.</translation>
     </message>
     <message>
-        <source>Clipboard</source>
-        <translation>Буфер обмена</translation>
-    </message>
-    <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
         <translation>Воспроизведение звукового эффекта при сохранении снимка экрана с помощью быстрого сохранения.</translation>
     </message>
@@ -2107,6 +2130,18 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation>Скопировать в буфер обмена</translation>
+    </message>
+    <message>
+        <source>Disable mouse scrolling</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
