@@ -86,7 +86,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Basic Operations</source>
-        <translation>基本操作</translation>
+        <translation>基础操作</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -365,14 +365,6 @@ Please contact the developer.</source>
         <translation> 位</translation>
     </message>
     <message>
-        <source>Select Color</source>
-        <translation>选择颜色</translation>
-    </message>
-    <message>
-        <source>Select Font</source>
-        <translation>选择字体</translation>
-    </message>
-    <message>
         <source>Snip hotkey</source>
         <translation>截图快捷键</translation>
     </message>
@@ -399,14 +391,6 @@ Please contact the developer.</source>
     <message>
         <source>Check for updates</source>
         <translation>检查更新</translation>
-    </message>
-    <message>
-        <source>Set Directory</source>
-        <translation>设置目录</translation>
-    </message>
-    <message>
-        <source>Pick File</source>
-        <translation>选择文件</translation>
     </message>
     <message>
         <source>For XP</source>
@@ -593,32 +577,8 @@ Please contact the developer.</source>
         <translation>日期和时间</translation>
     </message>
     <message>
-        <source>Run Snipaste admin privileges.</source>
-        <translation>以管理员权限运行 Snipaste.</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>错误</translation>
-    </message>
-    <message>
-        <source>Failed to create the schedule task.
-You may restart Snipaste with admin privileges and try again.</source>
-        <translation>无法创建计划任务。
-请尝试以管理员身份重启 Snipaste 并重试。</translation>
-    </message>
-    <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation>无法在启动文件夹中创建快捷方式。</translation>
-    </message>
-    <message>
-        <source>Restart Snipaste with admin privileges?</source>
-        <translation>以管理员身份重新启动 Snipaste?</translation>
-    </message>
-    <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation>无法写入配置文件，
-所有设置将使用默认值。</translation>
     </message>
     <message>
         <source>Off</source>
@@ -669,26 +629,6 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>System Proxy</source>
         <translation>系统代理</translation>
-    </message>
-    <message>
-        <source>Snipaste is running</source>
-        <translation>Snipaste 正在运行</translation>
-    </message>
-    <message>
-        <source>You can control it via the tray icon.</source>
-        <translation>你可以通过托盘图标进行相关控制。</translation>
-    </message>
-    <message>
-        <source>Snipaste has been updated to %1.</source>
-        <translation>Snipaste 已成功更新到 %1.</translation>
-    </message>
-    <message>
-        <source>Click here to see the changelog</source>
-        <translation>点击这里查看更新日志</translation>
-    </message>
-    <message>
-        <source>Failed to register shortcut:</source>
-        <translation>快捷键注册失败:</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -909,6 +849,99 @@ Are you sure you want to switch to another configuration file?</source>
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>双击 X 键这一触发方式已被取消。
 如需使用鼠标穿透，请在&quot;首选项 - 快捷键&quot;中设置其按键。</translation>
+    </message>
+    <message>
+        <source>Hide other images for now</source>
+        <translation>暂时隐藏其它贴图</translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Error</source>
+        <translation>错误</translation>
+    </message>
+    <message>
+        <source>Run Snipaste admin privileges.</source>
+        <translation>以管理员权限运行 Snipaste.</translation>
+    </message>
+    <message>
+        <source>Failed to create the schedule task.
+You may restart Snipaste with admin privileges and try again.</source>
+        <translation>无法创建计划任务。
+请尝试以管理员身份重启 Snipaste 并重试。</translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
+        <translation>无法在启动文件夹中创建快捷方式。</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation>以管理员身份重新启动 Snipaste?</translation>
+    </message>
+    <message>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <translation>设置开机启动失败！你需要在任务管理器里将 Snipaste 的启动项手动设为启用。</translation>
+    </message>
+</context>
+<context>
+    <name>SettingBinder</name>
+    <message>
+        <source>Failed to register shortcut:</source>
+        <translation>快捷键注册失败:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>错误</translation>
+    </message>
+    <message>
+        <source>Snipaste is running</source>
+        <translation>Snipaste 正在运行</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>你可以通过托盘图标进行相关控制。</translation>
+    </message>
+    <message>
+        <source>Snipaste has been updated to %1.</source>
+        <translation>Snipaste 已成功更新到 %1.</translation>
+    </message>
+    <message>
+        <source>Click here to see the changelog</source>
+        <translation>点击这里查看更新日志</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>选择颜色</translation>
+    </message>
+    <message>
+        <source>Select Font</source>
+        <translation>选择字体</translation>
+    </message>
+    <message>
+        <source>Set Directory</source>
+        <translation>设置目录</translation>
+    </message>
+    <message>
+        <source>Pick File</source>
+        <translation>选择文件</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>Error</source>
+        <translation>错误</translation>
+    </message>
+    <message>
+        <source>Cannot write into the config file.
+All settings will use defaults.</source>
+        <translation type="obsolete">无法写入配置文件，
+所有设置将使用默认值。</translation>
+    </message>
+    <message>
+        <source>No write permission on the config file!</source>
+        <translation>无法写入配置文件！</translation>
     </message>
 </context>
 <context>
@@ -1441,10 +1474,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <message>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
         <translation>当截图被保存至剪贴板时播放音效。</translation>
-    </message>
-    <message>
-        <source>Clipboard</source>
-        <translation>剪贴板</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
@@ -2118,6 +2147,18 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>该快捷键用于开启/关闭光标所在位置的贴图的鼠标穿透状态。
 如果快捷键按下时没有贴图位于光标之下，则会取消所有贴图的鼠标穿透状态。</translation>
+    </message>
+    <message>
+        <source>When:</source>
+        <translation>何时:</translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation>复制到剪贴板</translation>
+    </message>
+    <message>
+        <source>Disable mouse scrolling</source>
+        <translation>禁用鼠标滚轮功能</translation>
     </message>
 </context>
 <context>
