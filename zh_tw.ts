@@ -852,7 +852,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation>暫時隱藏其它貼圖</translation>
     </message>
 </context>
 <context>
@@ -863,7 +863,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>設定開機啟動失敗！你需要在工作管理員裡將 Snipaste 的啟動項目手動設為啟用。</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -935,7 +935,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation type="unfinished"></translation>
+        <translation>無法寫入設定檔！</translation>
     </message>
 </context>
 <context>
@@ -2138,7 +2138,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>何時:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2146,7 +2146,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>停用滑鼠滾輪功能</translation>
     </message>
 </context>
 <context>
