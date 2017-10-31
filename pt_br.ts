@@ -854,7 +854,7 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar outras imagens por enquanto</translation>
     </message>
 </context>
 <context>
@@ -865,7 +865,7 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao ativar a inicialização no boot. Talvez seja necessário habilitá-la manualmente no Gerenciador de Tarefas primeiro.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -937,7 +937,7 @@ Reinicie o Snipaste como Administrador e tente novamente.</translation>
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem permissão de escrita no arquivo de configurações!</translation>
     </message>
 </context>
 <context>
@@ -2141,7 +2141,7 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2149,7 +2149,7 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Desativar rolagem do mouse</translation>
     </message>
 </context>
 <context>
