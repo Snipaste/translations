@@ -854,7 +854,7 @@ De sneltoets voor Muis-doorklikken kunt u vinden in Voorkeuren - Sneltoetsen.</t
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere afbeeldingen verder verbergen</translation>
     </message>
 </context>
 <context>
@@ -865,7 +865,7 @@ De sneltoets voor Muis-doorklikken kunt u vinden in Voorkeuren - Sneltoetsen.</t
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatische start niet kunnen instellen.U moet dit mogelijk eerst handmatig instellen in Taakbeheer.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -937,7 +937,7 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen schrijfrechten op het configuratiebestand!</translation>
     </message>
 </context>
 <context>
@@ -2055,7 +2055,7 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     </message>
     <message>
         <source>Every</source>
-        <translation>Elke</translation>
+        <translation>Ieder(e)</translation>
     </message>
     <message>
         <source>h</source>
@@ -2141,7 +2141,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wanneer:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2149,7 +2149,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Muiswiel deactiveren</translation>
     </message>
 </context>
 <context>
