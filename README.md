@@ -4,17 +4,17 @@
 * Translate (see below for instructions).
 * Send a pull request.
    * If you don't know how to send a pull request:
-     * [Create an issue](https://github.com/Snipaste/translations/issues) and tell us where we can download your translation.
+     * [Create an issue](https://github.com/Snipaste/translations/issues) and tell me where I can download your translation.
      * Or, you may just email the language files to snipaste.app@gmail.com.
-* Tell us your name (or id) and link as a contributor.
+* Tell me your name (or id) and link as a contributor.
 * Your translation will be included in the next version of Snipaste.
 
 ## How to translate
 
 Though you may open the .ts files with a text editor,
-we strongly recommend you translate them using [Qt Linguist](http://doc.qt.io/qt-5/qtlinguist-index.html).
+I strongly recommend you to translate them using [Qt Linguist](http://doc.qt.io/qt-5/qtlinguist-index.html).
 
-For your convenience, we have prepared the portable packages of Qt Linguist:
+For your convenience, I have prepared the portable packages of Qt Linguist:
 * [Windows x64](https://bitbucket.org/liule/snipaste/downloads/VC2015_dll_x64.zip) | [Windows x86](https://bitbucket.org/liule/snipaste/downloads/VC2015_dll_x86.zip)
 
 Basic steps to translate using Qt Linguist:
@@ -64,4 +64,4 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 
 ## Contact
 
-If you need any help, feel free to [create an issue](https://github.com/Snipaste/translations/issues). We will help you.
+If you need any help, feel free to [create an issue](https://github.com/Snipaste/translations/issues). I will help you.
