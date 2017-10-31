@@ -48,16 +48,16 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | --------------------- | ----- | ----------- | ------------ |
 | Chinese (Simplified)  | zh_cn | 📕 v1.15.2  | [liulex](https://github.com/liulex) |
 | Chinese (Traditional) | zh_tw | 📕 v1.15.2  | [zhtw](http://greedphantom.blogspot.tw) |
-| German                | de_de | 📖 v1.15    | [Samuel Marcius](http://www.fontenvironment.com) |
-| Greek                 | el_gr | 📖 v1.15    | [geogeo.gr](http://www.geogeo.gr) |
+| German                | de_de | 📕 v1.15.2  | [Samuel Marcius](http://www.fontenvironment.com) |
+| Greek                 | el_gr | 📕 v1.15.2  | [geogeo.gr](http://www.geogeo.gr) |
 | Swedish               | sv    | 📖 v1.14    | [Åke Engelbrektson](https://svenskasprakfiler.se) |
 | Japanese              | ja_jp | 📖 v1.14    | 鳳凰院カミ |
-| Portuguese (Brazil)   | pt_br | 📖 v1.15    | Igor Rückert |
+| Portuguese (Brazil)   | pt_br | 📕 v1.15.2  | Igor Rückert |
 | Polish                | pl_pl | 📖 v1.11.3  | [Wirus deleted my username](https://github.com/Wirus-deleted-my-username) |
 | Dutch                 | nl_nl | 📖 v1.15    | Stephan Paternotte |
-| Portuguese (Portugal) | pt_pt | 📖 v1.15    | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
+| Portuguese (Portugal) | pt_pt | 📕 v1.15.2  | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
 | Vietnamese            | vi_vn | 📖 v1.11.3  | [evildeepblue](mailto:it4u.mm@gmail.com) |
-| French                | fr_fr | 📖 v1.15    | rico-sos |
+| French                | fr_fr | 📕 v1.15.2  | rico-sos |
 | Russian               | ru    | 📖 v1.14    | [vanja-san](https://github.com/vanja-san) |
 | Arabic                | ar_jo | 📖 v1.15    | MFMDawdeh |
 | Turkish               | tr_tr | 📖 v1.15    | [thrylmz](https://github.com/thrylmz) |
