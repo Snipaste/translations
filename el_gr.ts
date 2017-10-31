@@ -855,7 +855,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation>Απόκρυψη άλλων εικόνων για τώρα</translation>
     </message>
 </context>
 <context>
@@ -866,7 +866,8 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατή η ενεργοποίηση εκκίνησης με το σύστημα. 
+Ίσως πρέπει πρώτα να την ενεργοποιήσετε χειροκίνητα στη Διαχείριση εργασιών.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -939,7 +940,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν έχετε δικαιώματα εγγραφής στο αρχείο διαμόρφωσης!</translation>
     </message>
 </context>
 <context>
@@ -1972,7 +1973,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Beta versions may contain more bugs.
 Please report to the developer if you find any.</source>
         <translation>Οι δοκιμαστικές εκδόσεις μπορεί να περιέχουν περισσότερα σφάλματα.
-Παρακαλούμε να μας αναφέρετε εάν βρείτε κάποια.</translation>
+Παρακαλούμε ενημερώστε μας αν βρείτε κάποια.</translation>
     </message>
     <message>
         <source>Max number of history areas:</source>
@@ -2152,7 +2153,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όταν:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2160,7 +2161,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Απενεργοποίηση κύλισης ποντικιού</translation>
     </message>
 </context>
 <context>
