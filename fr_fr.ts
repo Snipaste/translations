@@ -854,7 +854,7 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation>Masquer les autres images pour l&apos;instant</translation>
     </message>
 </context>
 <context>
@@ -865,7 +865,7 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;activer le démarrage au démarrage. Vous devrez peut-être d&apos;abord l&apos;activer manuellement dans le Gestionnaire de tâches.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -937,7 +937,7 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune autorisation d&apos;écriture sur le fichier de configuration!</translation>
     </message>
 </context>
 <context>
@@ -2141,7 +2141,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>Quand:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2149,7 +2149,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactiver le défilement de la souris</translation>
     </message>
 </context>
 <context>

@@ -852,7 +852,7 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Bilder für jetzt verstecken</translation>
     </message>
 </context>
 <context>
@@ -863,7 +863,7 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Aktivieren des Startvorgangs beim Booten Möglicherweise müssen Sie es zunächst manuell im Task-Manager aktivieren.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -935,7 +935,7 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Schreibberechtigung für die Konfigurationsdatei!</translation>
     </message>
 </context>
 <context>
@@ -2145,7 +2145,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2153,7 +2153,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Maus-Scrolling deaktivieren</translation>
     </message>
 </context>
 <context>

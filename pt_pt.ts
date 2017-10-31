@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation>Não tem acesso de escrita para %1?</translation>
+        <translation>Tem acesso de escrita para %1?</translation>
     </message>
     <message>
         <source>Saved successfully.</source>
@@ -854,7 +854,7 @@ Para o modo clique do rato, pode encontrar a sua tecla de atalho em &apos;Prefer
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar outras imagens por agora</translation>
     </message>
 </context>
 <context>
@@ -865,7 +865,7 @@ Para o modo clique do rato, pode encontrar a sua tecla de atalho em &apos;Prefer
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao activar a inicialização no arranque. Pode ser necessário activá-la primeiro no Gestor de Tarefas.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -914,7 +914,7 @@ Deve reiniciar o Snipaste como administrador e tentar de novo.</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar Cor</translation>
     </message>
     <message>
         <source>Select Font</source>
@@ -937,7 +937,7 @@ Deve reiniciar o Snipaste como administrador e tentar de novo.</translation>
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Não tem permissão de escrita no ficheiro de configuração!</translation>
     </message>
 </context>
 <context>
@@ -2136,11 +2136,11 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>A tecla de atalho para alternar para o modo clique do rato da imagem sob o cursor.
-Se não existir imagem sob o cursor, todas as imagens não clicáveis seráo tornadas clicáveis.</translation>
+Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tornadas clicáveis.</translation>
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2148,7 +2148,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis seráo tor
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar rolagem do rato</translation>
     </message>
 </context>
 <context>
