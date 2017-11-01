@@ -854,7 +854,7 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation>Şimdilik diğer resimleri gizle</translation>
     </message>
 </context>
 <context>
@@ -865,7 +865,7 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlangıçta  etkinleştirme başarısız oldu. Görev Yöneticisi'nden manuel olarak etkinleştirmeniz gerekebilir.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -937,7 +937,7 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yapılandırma dosyasına yazma izni yok!</translation>
     </message>
 </context>
 <context>
@@ -2141,7 +2141,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaman:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2149,7 +2149,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Fare kaydırmayı devre dışı bırak</translation>
     </message>
 </context>
 <context>
