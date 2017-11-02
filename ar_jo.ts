@@ -850,7 +850,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation>اخفاء الصور الاخرى الان</translation>
     </message>
 </context>
 <context>
@@ -861,7 +861,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تمكين بدء التشغيل عند الاقلاع . قد تحتاج الى تمكينه يدويا في اداره المهام اولا.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -932,7 +932,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يوجد اذن كتابه علي ملف التكوين!</translation>
     </message>
 </context>
 <context>
@@ -2122,7 +2122,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>عندما:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2130,7 +2130,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل تمرير الماوس</translation>
     </message>
 </context>
 <context>
