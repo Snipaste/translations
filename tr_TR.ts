@@ -2111,7 +2111,7 @@ lütfen &apos;Görev Yöneticisi&apos; - &apos;Başlangıç&apos; bölümüne gi
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation>Yapılandırma Depolama</translation>
+        <translation>Yapılandırma Dosyası</translation>
     </message>
     <message>
         <source>Path:</source>
