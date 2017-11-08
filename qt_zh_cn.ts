@@ -2399,7 +2399,7 @@ Please verify the correct file name was given.</source>
     </message>
 </context>
 <context>
-    <name>QTextControl</name>
+    <name>QWidgetTextControl</name>
     <message>
         <source>Cu&amp;t</source>
         <translation>剪切(&amp;T)</translation>
@@ -5079,9 +5079,9 @@ to
         <translation>无效的源类型。</translation>
     </message>
     <message>
-        <source>Cannot start playback. 
+        <source>Cannot start playback.
 
-Check your Gstreamer installation and make sure you 
+Check your Gstreamer installation and make sure you
 have libgstreamer-plugins-base installed.</source>
         <translation>不能开始回放。
 

@@ -1313,7 +1313,7 @@ Please verify the correct file name was given.</source>
     </message>
 </context>
 <context>
-    <name>QTextControl</name>
+    <name>QWidgetTextControl</name>
     <message>
         <source>Cu&amp;t</source>
         <translation>Αποκοπ&amp;ή</translation>

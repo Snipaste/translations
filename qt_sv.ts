@@ -734,7 +734,7 @@
     <message>
         <source>%1 already exists.
 Do you want to overwrite it?</source>
-        <translation>%1 finns redan. 
+        <translation>%1 finns redan.
 Vill du skriva över den?</translation>
     </message>
     <message>
@@ -808,7 +808,7 @@ Vill du skriva över den?</translation>
     <message>
         <source>File %1 is not writable.
 Please choose a different file name.</source>
-        <translation>Filen %1 är inte skrivbar. 
+        <translation>Filen %1 är inte skrivbar.
 Välj ett annat filnamn.</translation>
     </message>
     <message>
@@ -1073,7 +1073,7 @@ Välj ett annat filnamn.</translation>
 File not found.
 Check path and filename.</source>
         <translation>%1
-Filen hittades inte. 
+Filen hittades inte.
 Kontrollera sökväg och filnamn.</translation>
     </message>
     <message>
@@ -1371,7 +1371,7 @@ Kontrollera sökväg och filnamn.</translation>
     <message>
         <source>&apos;%1&apos; is write protected.
 Do you want to delete it anyway?</source>
-        <translation>\&quot;%1\&quot; är skrivskyddad. 
+        <translation>\&quot;%1\&quot; är skrivskyddad.
 Vill du ta bort den ändå?</translation>
     </message>
     <message>
@@ -1414,8 +1414,8 @@ Vill du ta bort den ändå?</translation>
         <source>%1
 Directory not found.
 Please verify the correct directory name was given.</source>
-        <translation>%1 
-Katalogen hittades inte. 
+        <translation>%1
+Katalogen hittades inte.
 Kontrollera att det korrekta katalognamnet angavs.</translation>
     </message>
     <message>
@@ -1457,7 +1457,7 @@ Kontrollera att det korrekta katalognamnet angavs.</translation>
     <message>
         <source>%1 already exists.
 Do you want to replace it?</source>
-        <translation>%1 finns redan. 
+        <translation>%1 finns redan.
 Vill du ersätta den?</translation>
     </message>
     <message>
@@ -1476,8 +1476,8 @@ Vill du ersätta den?</translation>
         <source>%1
 File not found.
 Please verify the correct file name was given.</source>
-        <translation>%1 
-Filen hittades inte. 
+        <translation>%1
+Filen hittades inte.
 Kontrollera att det korrekta filnamnet angavs.</translation>
     </message>
 </context>
@@ -1544,7 +1544,7 @@ Kontrollera att det korrekta filnamnet angavs.</translation>
     </message>
 </context>
 <context>
-    <name>QTextControl</name>
+    <name>QWidgetTextControl</name>
     <message>
         <source>Cu&amp;t</source>
         <translation>Klipp u&amp;t</translation>
@@ -2125,19 +2125,19 @@ Tryck ESC för att avbryta</translation>
     <message>
         <source>Could not open
 %1</source>
-        <translation>Kunde inte öppna 
+        <translation>Kunde inte öppna
 %1</translation>
     </message>
     <message>
         <source>Could not remove file or directory
 %1</source>
-        <translation>Kunde inte ta bort filen eller katalogen 
+        <translation>Kunde inte ta bort filen eller katalogen
 %1</translation>
     </message>
     <message>
         <source>Could not create directory
 %1</source>
-        <translation>Kunde inte skapa katalogen 
+        <translation>Kunde inte skapa katalogen
 %1</translation>
     </message>
     <message>
@@ -2151,15 +2151,15 @@ Tryck ESC för att avbryta</translation>
 %1
 to
 %2</source>
-        <translation>Kunde inte byta namn på 
-%1 
-till 
+        <translation>Kunde inte byta namn på
+%1
+till
 %2</translation>
     </message>
     <message>
         <source>Could not write
 %1</source>
-        <translation>Kunde inte skriva till 
+        <translation>Kunde inte skriva till
 %1</translation>
     </message>
 </context>
@@ -2331,13 +2331,13 @@ till
     <message>
         <source>Listing directory failed:
 %1</source>
-        <translation>Listning av katalogen misslyckades: 
+        <translation>Listning av katalogen misslyckades:
 %1</translation>
     </message>
     <message>
         <source>Creating directory failed:
 %1</source>
-        <translation>Skapandet av katalogen misslyckades: 
+        <translation>Skapandet av katalogen misslyckades:
 %1</translation>
     </message>
     <message>
@@ -2351,13 +2351,13 @@ till
     <message>
         <source>Login failed:
 %1</source>
-        <translation>Inloggning misslyckades: 
+        <translation>Inloggning misslyckades:
 %1</translation>
     </message>
     <message>
         <source>Downloading file failed:
 %1</source>
-        <translation>Nedladdningen av filen misslyckades: 
+        <translation>Nedladdningen av filen misslyckades:
 %1</translation>
     </message>
     <message>
@@ -2371,7 +2371,7 @@ till
     <message>
         <source>Connecting to host failed:
 %1</source>
-        <translation>Anslutning till värden misslyckades: 
+        <translation>Anslutning till värden misslyckades:
 %1</translation>
     </message>
     <message>
@@ -2381,13 +2381,13 @@ till
     <message>
         <source>Uploading file failed:
 %1</source>
-        <translation>Uppladdningen av filen misslyckades: 
+        <translation>Uppladdningen av filen misslyckades:
 %1</translation>
     </message>
     <message>
         <source>Changing directory failed:
 %1</source>
-        <translation>Byte av katalog misslyckades: 
+        <translation>Byte av katalog misslyckades:
 %1</translation>
     </message>
     <message>
@@ -2397,7 +2397,7 @@ till
     <message>
         <source>Removing directory failed:
 %1</source>
-        <translation>Borttagning av katalogen misslyckades: 
+        <translation>Borttagning av katalogen misslyckades:
 %1</translation>
     </message>
     <message>
@@ -2411,7 +2411,7 @@ till
     <message>
         <source>Removing file failed:
 %1</source>
-        <translation>Borttagning av filen misslyckades: 
+        <translation>Borttagning av filen misslyckades:
 %1</translation>
     </message>
     <message>
