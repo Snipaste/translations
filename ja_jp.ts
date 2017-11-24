@@ -647,11 +647,11 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>トルコ語</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>別の設定ファイルに切り替える</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
@@ -659,7 +659,11 @@ Startup on boot has been cancelled.</source>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+        <translation>注：別のファイルへの切り替えを行っています。それの中での設定を適用し、すべての現在の設置はカバーをカバーします。
+		
+		また、この操作をした後、デフォルトの配置ファイルを削除すべきではなく、どこで新しい配置ファイルを見つけることを記録しているから。
+		
+		別の配置ファイルを切り替えることを確定しますか？</translation>
     </message>
 </context>
 <context>
@@ -674,7 +678,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="unfinished"></translation>
+        <translation>テキストボックスのコーナーをドラッグ、テキストのサイズを変更することができます。</translation>
     </message>
 </context>
 <context>
@@ -842,11 +846,12 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;ダブルタップ X&apos;行動がキャンセルされた
+マウスクリックを通して、そのホットキーは&apos;好みのホットキー&apos;の中に見つけることができる </translation>
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation>今は他の画像を隠す</translation>
     </message>
 </context>
 <context>
@@ -857,7 +862,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>ブート時に起動失敗。</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -928,7 +933,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation type="unfinished"></translation>
+        <translation>配置ファイルに書き込み権限がありません！</translation>
     </message>
 </context>
 <context>
@@ -1132,7 +1137,7 @@ Click here to update now</source>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>マウスクリックを切り替えます</translation>
     </message>
 </context>
 <context>
@@ -1147,11 +1152,11 @@ Click here to update now</source>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>スニップを中止したいか？</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>今度表示しない</translation>
     </message>
 </context>
 <context>
@@ -2095,40 +2100,41 @@ Also affect the color value copying.</source>
     <message>
         <source>For Windows Store version, if you need to turn this off,
 please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Storeバージョンについて、もしこれをオフにする必要がある場合は、&apos;タスクマネージャ&apos; − &apos;スタートアップで&apos;、&apos;Snipaste&apos;を見つけて、それを無効にしてください</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>設定記憶</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>パス：</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>デフォルトテキストエディタで設定ファイルを開く</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>設定ファイルの場所を変更する</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Escを押すとき確認を求める</translation>
     </message>
     <message>
         <source>Toggle mouse click-through:</source>
-        <translation type="unfinished"></translation>
+        <translation>マウスクリックを切り替えます：</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>カーソルの下で画像を切り替えるモのクリックモードのショートカット。
+もしカーソルの下に画像ウィンドウがなかったら、すべてのクリックできない画像をクリック可能に変更する</translation>
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>のときに：</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2136,7 +2142,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>マウスのスクロールを無効にする</translation>
     </message>
 </context>
 <context>

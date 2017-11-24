@@ -51,7 +51,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | German                | de_de | 📕 v1.15.2  | [Samuel Marcius](http://www.fontenvironment.com) |
 | Greek                 | el_gr | 📕 v1.15.2  | [geogeo.gr](http://www.geogeo.gr) |
 | Swedish               | sv    | 📖 v1.14    | [Åke Engelbrektson](https://svenskasprakfiler.se) |
-| Japanese              | ja_jp | 📖 v1.14    | 鳳凰院カミ |
+| Japanese              | ja_jp | 📖 v1.15.2  | 鳳凰院カミ, [Sayori Studio](https://t.me/SayoriStudio) |
 | Portuguese (Brazil)   | pt_br | 📕 v1.15.2  | Igor Rückert |
 | Polish                | pl_pl | 📖 v1.11.3  | [Wirus deleted my username](https://github.com/Wirus-deleted-my-username) |
 | Dutch                 | nl_nl | 📕 v1.15.2  | Stephan Paternotte |
