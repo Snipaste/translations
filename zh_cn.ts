@@ -73,6 +73,22 @@ Network Error: %1</source>
 Please contact the developer.</source>
         <translation>更新源出错啦 (%1)。请联系开发者。</translation>
     </message>
+    <message>
+        <source>The new version of Snipaste has been downloaded to:</source>
+        <translation>新版 Snipaste 已经下载到:</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Open Download folder</source>
+        <translation>打开下载文件夹</translation>
+    </message>
+    <message>
+        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
+        <translation>请退出 Snipaste 后，将其解压后拖到&quot;应用程序&quot;文件夹来完成更新。</translation>
+    </message>
 </context>
 <context>
     <name>HelpDialog</name>
@@ -112,6 +128,21 @@ Please contact the developer.</source>
         <source>Changelog</source>
         <translation>更新日志</translation>
     </message>
+    <message>
+        <source>Beta for Mac</source>
+        <translation>Mac 公测版</translation>
+    </message>
+</context>
+<context>
+    <name>HotkeyCmdDialog</name>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>名称不能为空!</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>命令不能为空!</translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -124,10 +155,6 @@ Please contact the developer.</source>
         <translation>切换检测窗口/检测界面元素</translation>
     </message>
     <message>
-        <source>Show/Hide the captured cursor</source>
-        <translation>显示/隐藏捕获的鼠标指针</translation>
-    </message>
-    <message>
         <source>Set the snipping area to fullscreen</source>
         <translation>设置截屏区域为全屏</translation>
     </message>
@@ -136,32 +163,16 @@ Please contact the developer.</source>
         <translation>将截屏区域设置为上一次成功截图时的区域</translation>
     </message>
     <message>
-        <source>, (Comma)</source>
-        <translation>, (逗号)</translation>
-    </message>
-    <message>
         <source>Switch to the previous snip record</source>
         <translation>切换到上一次截屏记录</translation>
-    </message>
-    <message>
-        <source>. (Period)</source>
-        <translation>. (句号)</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
         <translation>切换到下一次截屏记录</translation>
     </message>
     <message>
-        <source>Ctrl + Arrow keys</source>
-        <translation>Ctrl + 方向键</translation>
-    </message>
-    <message>
         <source>Enlarge the snipping area by 1 pixel</source>
         <translation>将截屏区域相应边界扩大 1 像素</translation>
-    </message>
-    <message>
-        <source>Shift + Arrow keys</source>
-        <translation>Shift + 方向键</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
@@ -208,16 +219,8 @@ Please contact the developer.</source>
         <translation>垂直翻转贴图</translation>
     </message>
     <message>
-        <source>Mouse scroll or +/-</source>
-        <translation>鼠标滚轮 或 +/-</translation>
-    </message>
-    <message>
         <source>Scale the image</source>
         <translation>对贴图进行缩放</translation>
-    </message>
-    <message>
-        <source>Ctrl + Mouse scroll or Ctrl + +/-</source>
-        <translation>Ctrl + 鼠标滚轮 或 Ctrl + +/-</translation>
     </message>
     <message>
         <source>Increase/Decrease the translucency of the image window</source>
@@ -318,6 +321,26 @@ Please contact the developer.</source>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation>调整画笔粗细（编辑模式时）</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation>或</translation>
+    </message>
+    <message>
+        <source>Show/Hide the captured mouse cursor</source>
+        <translation>显示/隐藏捕获的鼠标指针</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <translation>逗号</translation>
+    </message>
+    <message>
+        <source>Period</source>
+        <translation>句号</translation>
+    </message>
+    <message>
+        <source>Mouse scroll</source>
+        <translation>鼠标滚轮</translation>
     </message>
 </context>
 <context>
@@ -666,6 +689,26 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Switch to another configuration file</source>
         <translation>切换到另一配置文件</translation>
     </message>
+    <message>
+        <source>Serbian</source>
+        <translation>塞尔维亚语</translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation>要启用界面元素检测，Snipaste 需要辅助功能权限。</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation>打开系统设置</translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation>如需启用该特性，请先到 系统偏好设置-安全性与隐私-隐私-辅助功能 添加 Snipaste.</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -675,7 +718,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation>若要调整画笔粗细，请滚动鼠标滚轮或按键盘上的 1 或 2.</translation>
+        <translation>若要调整画笔粗细，请滑动鼠标滚轮或按键盘上的 1 或 2.</translation>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
@@ -1160,7 +1203,7 @@ Click here to update now</source>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation>你确定要退出截图吗？</translation>
+        <translation>确定要退出截图吗？</translation>
     </message>
     <message>
         <source>Do not show this again</source>
@@ -1221,6 +1264,29 @@ Click here to update now</source>
     <message>
         <source>Pages:</source>
         <translation>页面:</translation>
+    </message>
+</context>
+<context>
+    <name>hotkeycmddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation>增加命令</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>名称:</translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation>命令:</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -1902,7 +1968,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Hide all images if you paste when any image is flashing</source>
-        <translation>在贴图闪烁时，按下贴图键隐藏所有贴图</translation>
+        <translation>在贴图闪烁时按下贴图键，隐藏所有贴图</translation>
     </message>
     <message>
         <source>If you copy an image file, the first paste will show the image, the second paste will show the file path.
@@ -2159,6 +2225,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable mouse scrolling</source>
         <translation>禁用鼠标滚轮功能</translation>
+    </message>
+    <message>
+        <source>Show notification</source>
+        <translation>显示通知</translation>
+    </message>
+    <message>
+        <source>Add custom hotkey</source>
+        <translation>增加自定义快捷键</translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation>鼠标</translation>
     </message>
 </context>
 <context>
