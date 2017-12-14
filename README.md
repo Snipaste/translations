@@ -60,7 +60,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | French                | fr_fr | 📕 v1.15.2  | rico-sos |
 | Russian               | ru    | 📖 v1.14    | [vanja-san](https://github.com/vanja-san) |
 | Arabic                | ar_jo | 📕 v1.15.2  | MFMDawdeh |
-| Turkish               | tr_tr | 📕 v1.15.2  | [thrylmz](https://github.com/thrylmz) |
+| Turkish               | tr_tr | 📕 v1.15.2  | [mthryilmaz](https://github.com/mthryilmaz) |
 | Serbian               | sr    | 📕 v1.15.2  | [ozzii.translate](mailto:ozzii.translate@gmail.com) |
 
 ## Contact
