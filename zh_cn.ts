@@ -143,6 +143,14 @@ Please contact the developer.</source>
         <source>The command cannot be empty!</source>
         <translation>命令不能为空!</translation>
     </message>
+    <message>
+        <source>Remove command</source>
+        <translation>移除命令</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>确定要移除这个命令吗?</translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -217,14 +225,6 @@ Please contact the developer.</source>
     <message>
         <source>Flip the image vertically</source>
         <translation>垂直翻转贴图</translation>
-    </message>
-    <message>
-        <source>Scale the image</source>
-        <translation>对贴图进行缩放</translation>
-    </message>
-    <message>
-        <source>Increase/Decrease the translucency of the image window</source>
-        <translation>增加/减少贴图的透明度</translation>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
@@ -337,10 +337,6 @@ Please contact the developer.</source>
     <message>
         <source>Period</source>
         <translation>句号</translation>
-    </message>
-    <message>
-        <source>Mouse scroll</source>
-        <translation>鼠标滚轮</translation>
     </message>
 </context>
 <context>
@@ -988,10 +984,67 @@ All settings will use defaults.</source>
     </message>
 </context>
 <context>
+    <name>ShortcutContainer</name>
+    <message>
+        <source>Snip</source>
+        <translation>截图</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>截屏并自动复制</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>延时截屏</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>贴图</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>隐藏/显示所有贴图</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>切换到另一贴图组</translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>鼠标穿透开关</translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>该快捷键用于开启/关闭光标所在位置的贴图的鼠标穿透状态。
+如果快捷键按下时没有贴图位于光标之下，则会取消所有贴图的鼠标穿透状态。</translation>
+    </message>
+    <message>
+        <source>Edit command</source>
+        <translation>编辑命令</translation>
+    </message>
+    <message>
+        <source>Switch to the previous group</source>
+        <translation>切换到上一个组</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation>禁用/启用全局快捷键</translation>
+    </message>
+</context>
+<context>
     <name>ShortcutEdit</name>
     <message>
         <source>Press shortcut</source>
         <translation>按下快捷键</translation>
+    </message>
+    <message>
+        <source>Snip:</source>
+        <translation type="obsolete">截屏:</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation type="obsolete">截图</translation>
     </message>
 </context>
 <context>
@@ -1129,12 +1182,6 @@ All settings will use defaults.</source>
         <translation>图片保存失败！</translation>
     </message>
     <message>
-        <source>Snipaste %1 is released!
-Click here to update now</source>
-        <translation>Snipaste %1 已经发布！
-点击这里马上更新</translation>
-    </message>
-    <message>
         <source>Fail to import group.</source>
         <translation>导入组失败。</translation>
     </message>
@@ -1190,6 +1237,14 @@ Click here to update now</source>
         <source>Toggle mouse click-through</source>
         <translation>鼠标穿透开关</translation>
     </message>
+    <message>
+        <source>Snipaste %1 is released!</source>
+        <translation>Snipaste %1 已经发布！</translation>
+    </message>
+    <message>
+        <source>Click here to update now</source>
+        <translation>点击这里马上更新</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1235,6 +1290,10 @@ Click here to update now</source>
     <message>
         <source>Are you sure you want to cancel the update?</source>
         <translation>确定要取消更新吗？</translation>
+    </message>
+    <message>
+        <source>Download updates</source>
+        <translation>下载更新</translation>
     </message>
 </context>
 <context>
@@ -1287,6 +1346,18 @@ Click here to update now</source>
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>测试</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>预设</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>移除</translation>
     </message>
 </context>
 <context>
@@ -1771,26 +1842,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>全局快捷键</translation>
     </message>
     <message>
-        <source>The shortcut to hide/show all image windows</source>
-        <translation>隐藏/显示所有贴图的快捷键</translation>
-    </message>
-    <message>
-        <source>Delayed snip:</source>
-        <translation>延时截屏:</translation>
-    </message>
-    <message>
-        <source>The shortcut to delayed snip</source>
-        <translation>延时截屏的快捷键</translation>
-    </message>
-    <message>
-        <source>Snip and copy:</source>
-        <translation>截屏并自动复制:</translation>
-    </message>
-    <message>
-        <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
-        <translation>开始截屏，并在截屏区域选定之后自动将截图复制到剪贴板的快捷键</translation>
-    </message>
-    <message>
         <source>* Press Backspace to clear</source>
         <translation>* 按 Backspace 键清除当前快捷键</translation>
     </message>
@@ -2015,14 +2066,6 @@ If this option is checked, the above features will be disabled.</source>
         <translation>纯文本转图片的效果预览</translation>
     </message>
     <message>
-        <source>The shortcut to snip</source>
-        <translation>截屏的快捷键</translation>
-    </message>
-    <message>
-        <source>The shortcut to paste the clipboard content as an image window</source>
-        <translation>贴图的快捷键</translation>
-    </message>
-    <message>
         <source>Contact:</source>
         <translation>联系:</translation>
     </message>
@@ -2073,26 +2116,6 @@ If this option is checked, the above features will be disabled.</source>
     <message>
         <source>Hotkey</source>
         <translation>快捷键</translation>
-    </message>
-    <message>
-        <source>Snip:</source>
-        <translation>截屏:</translation>
-    </message>
-    <message>
-        <source>Paste:</source>
-        <translation>贴图:</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images:</source>
-        <translation>隐藏/显示所有贴图:</translation>
-    </message>
-    <message>
-        <source>Switch to another image group:</source>
-        <translation>切换到另一贴图组:</translation>
-    </message>
-    <message>
-        <source>The shortcut to switch to another image group</source>
-        <translation>切换到另一贴图组的快捷键</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2179,12 +2202,6 @@ Also affect the color value copying.</source>
 同时也会影响颜色值的复制。</translation>
     </message>
     <message>
-        <source>For Windows Store version, if you need to turn this off,
-please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation>对于微软商店版本，如需取消开机启动，
-请在&quot;任务管理器-启动&quot;中找到 Snipaste 并将其禁用即可。</translation>
-    </message>
-    <message>
         <source>Configuration Storage</source>
         <translation>配置文件存储位置</translation>
     </message>
@@ -2203,16 +2220,6 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
         <translation>Esc 键被按下时弹出确认对话框</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through:</source>
-        <translation>鼠标穿透开关:</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>该快捷键用于开启/关闭光标所在位置的贴图的鼠标穿透状态。
-如果快捷键按下时没有贴图位于光标之下，则会取消所有贴图的鼠标穿透状态。</translation>
     </message>
     <message>
         <source>When:</source>
@@ -2237,6 +2244,36 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Mouse</source>
         <translation>鼠标</translation>
+    </message>
+    <message>
+        <source>Disable permanently</source>
+        <translation>永久禁用</translation>
+    </message>
+    <message>
+        <source>Check this if you never need cursor capture.
+You will gain better response time on entering snipping.</source>
+        <translation>如果你永不需要捕捉光标，请勾选此项。
+你将获得更快的截图响应速度。</translation>
+    </message>
+    <message>
+        <source>Adjust opacity:</source>
+        <translation>调整透明度:</translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation>鼠标滚轮</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation>或</translation>
+    </message>
+    <message>
+        <source>Zoom:</source>
+        <translation>贴图缩放:</translation>
+    </message>
+    <message>
+        <source>Add new command</source>
+        <translation>添加新命令</translation>
     </message>
 </context>
 <context>
