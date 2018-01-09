@@ -75,6 +75,22 @@ Please contact the developer.</source>
         <source>Restarting</source>
         <translation>Επανεκκίνηση</translation>
     </message>
+    <message>
+        <source>The new version of Snipaste has been downloaded to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Άκυρο</translation>
+    </message>
+    <message>
+        <source>Open Download folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HelpDialog</name>
@@ -114,6 +130,29 @@ Please contact the developer.</source>
         <source>Help</source>
         <translation>Βοήθεια</translation>
     </message>
+    <message>
+        <source>Beta for Mac</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HotkeyCmdDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -126,10 +165,6 @@ Please contact the developer.</source>
         <translation>Εναλλαγή μεταξύ εντοπισμού παραθύρου και εντοπισμού στοιχείου</translation>
     </message>
     <message>
-        <source>Show/Hide the captured cursor</source>
-        <translation>Εμφάνιση/Απόκρυψη του καταγεγραμμένου δρομέα</translation>
-    </message>
-    <message>
         <source>Set the snipping area to fullscreen</source>
         <translation>Ορίζει την περιοχή στιγμιότυπου σε πλήρη οθόνη</translation>
     </message>
@@ -138,32 +173,16 @@ Please contact the developer.</source>
         <translation>Ορίζει την περιοχή στιγμιότυπου όπως το τελευταίο σας επιτυχημένο στιγμιότυπο</translation>
     </message>
     <message>
-        <source>, (Comma)</source>
-        <translation>, (Κόμμα)</translation>
-    </message>
-    <message>
         <source>Switch to the previous snip record</source>
         <translation>Μετάβαση στην προηγούμενη καταχώρηση στιγμιοτύπου</translation>
-    </message>
-    <message>
-        <source>. (Period)</source>
-        <translation>. (Τελεία)</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Μετάβαση στην επόμενη καταχώρηση στιγμιοτύπου</translation>
     </message>
     <message>
-        <source>Ctrl + Arrow keys</source>
-        <translation>Ctrl + Πλήκτρα βέλους</translation>
-    </message>
-    <message>
         <source>Enlarge the snipping area by 1 pixel</source>
         <translation>Μεγαλώνει την περιοχή στιγμιοτύπου κατά 1 πίξελ</translation>
-    </message>
-    <message>
-        <source>Shift + Arrow keys</source>
-        <translation>Shift + Πλήκτρα βέλους</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
@@ -208,22 +227,6 @@ Please contact the developer.</source>
     <message>
         <source>Flip the image vertically</source>
         <translation>Αντιστροφή της εικόνας κατακόρυφα</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or +/-</source>
-        <translation>Κύλιση ποντικιού ή +/-</translation>
-    </message>
-    <message>
-        <source>Scale the image</source>
-        <translation>Μεγέθυνση-Σμίκρυνση της εικόνας</translation>
-    </message>
-    <message>
-        <source>Ctrl + Mouse scroll or Ctrl + +/-</source>
-        <translation>Ctrl + Κύλιση ποντικιού ή Ctrl + +/-</translation>
-    </message>
-    <message>
-        <source>Increase/Decrease the translucency of the image window</source>
-        <translation>Αύξηση / Μείωση την διαύγειας του παραθύρου εικόνας</translation>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
@@ -320,6 +323,22 @@ Please contact the developer.</source>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation>Μειώνει / Αυξάνει το πλάτος της πένας κατά τη λειτουργία επεξεργασίας</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide the captured mouse cursor</source>
+        <translation>Εμφάνιση/Απόκρυψη του καταγεγραμμένου δρομέα</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <translation>Κόμμα</translation>
+    </message>
+    <message>
+        <source>Period</source>
+        <translation>Τελεία</translation>
     </message>
 </context>
 <context>
@@ -668,6 +687,26 @@ Are you sure you want to switch to another configuration file?</source>
 
 Είστε βέβαιος ότι θέλετε να μεταβείτε σε άλλο αρχείο ρυθμίσεων;</translation>
     </message>
+    <message>
+        <source>Serbian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Άκυρο</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -944,6 +983,56 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
 </context>
 <context>
+    <name>ShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Στιγμιότυπο</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Στιγμιότυπο και αντιγραφή</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Καθυστερημένο στιγμιότυπο</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Επικόλληση</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Απόκρυψη/Εμφάνιση όλων των εικόνων</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Εναλλαγή σε άλλη ομάδα εικόνων</translation>
+    </message>
+    <message>
+        <source>Switch to the previous group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>Εναλλαγή κλικ ποντικιού</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>Η συντόμευση για εναλλαγή της λειτουργίας κλικ ποντικιού της εικόνας κάτω από το δρομέα.
+Αν δεν υπάρχει παράθυρο εικόνας κάτω από τον δείκτη, όλες οι χωρίς δυνατότητα 
+κλικ εικόνες, θα γίνουν με δυνατότητα κλικ.</translation>
+    </message>
+</context>
+<context>
     <name>ShortcutEdit</name>
     <message>
         <source>Press shortcut</source>
@@ -1039,12 +1128,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
         <translation>Είστε βέβαιος για το κλείσιμο  του «%1»; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.</translation>
-    </message>
-    <message>
-        <source>Snipaste %1 is released!
-Click here to update now</source>
-        <translation>Το Snipaste %1 κυκλοφόρησε!
-Κάντε κλικ εδώ για ενημέρωση τώρα</translation>
     </message>
     <message>
         <source>Import group...</source>
@@ -1146,6 +1229,14 @@ Click here to update now</source>
         <source>Toggle mouse click-through</source>
         <translation>Εναλλαγή κλικ ποντικιού</translation>
     </message>
+    <message>
+        <source>Snipaste %1 is released!</source>
+        <translation>Το Snipaste %1 κυκλοφόρησε!</translation>
+    </message>
+    <message>
+        <source>Click here to update now</source>
+        <translation>Κάντε κλικ εδώ για ενημέρωση τώρα</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1192,6 +1283,10 @@ Click here to update now</source>
         <source>Recheck</source>
         <translation>Επενέλεγχος</translation>
     </message>
+    <message>
+        <source>Download updates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1220,6 +1315,41 @@ Click here to update now</source>
     <message>
         <source>Pages:</source>
         <translation>Σελίδες:</translation>
+    </message>
+</context>
+<context>
+    <name>hotkeycmddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>Εντάξει</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -1313,10 +1443,6 @@ Click here to update now</source>
         <translation>Δεξιού</translation>
     </message>
     <message>
-        <source>Snip:</source>
-        <translation>Στιγμιότυπο:</translation>
-    </message>
-    <message>
         <source>The theme color of Snipaste</source>
         <translation>Το χρώμα θέματος του Snipaste</translation>
     </message>
@@ -1354,10 +1480,6 @@ Click here to update now</source>
         <translation>Αυτόματη ανίχνευση περιοχών των παραθύρων κατά τη λήψη στιγμιοτύπων.</translation>
     </message>
     <message>
-        <source>The shortcut to paste the clipboard content as an image window</source>
-        <translation>Η συντόμευση για επικόλληση το περιεχόμενου του Πρόχειρου σαν παράθυρο εικόνας</translation>
-    </message>
-    <message>
         <source>The mask color of snipping</source>
         <translation>Το χρώμα της μάσκας λήψης στιγμιότυπου</translation>
     </message>
@@ -1390,10 +1512,6 @@ Click here to update now</source>
         <source>Backup the states of the image windows so that they can be recovered the next time you open Snipaste.</source>
         <translation>Αντίγραφα ασφαλείας των καταστάσεων από τα παράθυρα εικόνας, ώστε να μπορούν 
 να ανακτηθούν την επόμενη φορά που θα ανοίξετε το Snipaste.</translation>
-    </message>
-    <message>
-        <source>Paste:</source>
-        <translation>Επικόλληση:</translation>
     </message>
     <message>
         <source>Always ignore HTML formats</source>
@@ -1530,10 +1648,6 @@ You can also find this option in the context menu of individual image window.</s
     <message>
         <source>The text color used for plain text conversion</source>
         <translation>Το χρώμα κειμένου που χρησιμοποιείται για τη μετατροπή απλού κειμένου</translation>
-    </message>
-    <message>
-        <source>The shortcut to snip</source>
-        <translation>Η συντόμευση για λήψη στιγμιότυπου</translation>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
@@ -1850,18 +1964,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Σύνταξη:</translation>
     </message>
     <message>
-        <source>The shortcut to hide/show all image windows</source>
-        <translation>Η συντόμευση για απόκρυψη/εμφάνιση όλων των παραθύρων εικόνας</translation>
-    </message>
-    <message>
-        <source>Delayed snip:</source>
-        <translation>Καθυστερημένο στιγμιότυπο:</translation>
-    </message>
-    <message>
-        <source>The shortcut to delayed snip</source>
-        <translation>Η συντόμευση για λήψη στιγμιότυπου με καθυστέρηση</translation>
-    </message>
-    <message>
         <source>Licenses</source>
         <translation>Άδειες χρήσης</translation>
     </message>
@@ -1912,10 +2014,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Password:</source>
         <translation>Κωδικός:</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images:</source>
-        <translation>Απόκρυψη/Εμφάνιση όλων των εικόνων:</translation>
     </message>
     <message>
         <source>Hover over an option to see its detailed explanation.</source>
@@ -2076,24 +2174,8 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>αγκυρώσεις</translation>
     </message>
     <message>
-        <source>Switch to another image group:</source>
-        <translation>Εναλλαγή σε άλλη ομάδα εικόνων:</translation>
-    </message>
-    <message>
-        <source>The shortcut to switch to another image group</source>
-        <translation>Η συντόμευση για μετάβαση σε άλλη ομάδα εικόνων</translation>
-    </message>
-    <message>
         <source>Open log file</source>
         <translation>Άνοιγμα αρχείου καταγραφής</translation>
-    </message>
-    <message>
-        <source>Snip and copy:</source>
-        <translation>Στιγμιότυπο και αντιγραφή:</translation>
-    </message>
-    <message>
-        <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
-        <translation>Η συντόμευση για τη λήψη και αποστολή του στιγμιότυπου στο πρόχειρο αφού καθοριστεί η περιοχή στιγμιοτύπου</translation>
     </message>
     <message>
         <source>Let new image windows have shadows.
@@ -2112,13 +2194,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
 Also affect the color value copying.</source>
         <translation>Εμφάνιση του χρώματος ως δεκαεξαδική τιμή αντί του RGB στον μεγεθυντικό φακό.
 Θα επηρεάσει επίσης την αντιγραφή της τιμής χρώματος.</translation>
-    </message>
-    <message>
-        <source>For Windows Store version, if you need to turn this off,
-please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation>Για την έκδοση των Windows Store, αν χρειάζεται να το
-απενεργοποιήσετε, πηγαίνετε στη «Διαχείριση Εργασιών» - «Εκκίνηση»,
- βρείτε το «Snipaste» και απενεργοποιήστε το.</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
@@ -2141,17 +2216,6 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
         <translation>Ερώτηση για επιβεβαίωση όταν πατηθεί το Esc</translation>
     </message>
     <message>
-        <source>Toggle mouse click-through:</source>
-        <translation>Εναλλαγή κλικ ποντικιού:</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Η συντόμευση για εναλλαγή της λειτουργίας κλικ ποντικιού της εικόνας κάτω από το δρομέα.
-Αν δεν υπάρχει παράθυρο εικόνας κάτω από τον δείκτη, όλες οι χωρίς δυνατότητα 
-κλικ εικόνες, θα γίνουν με δυνατότητα κλικ.</translation>
-    </message>
-    <message>
         <source>When:</source>
         <translation>Όταν:</translation>
     </message>
@@ -2162,6 +2226,47 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable mouse scrolling</source>
         <translation>Απενεργοποίηση κύλισης ποντικιού</translation>
+    </message>
+    <message>
+        <source>Disable permanently</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this if you never need cursor capture.
+You will gain better response time on entering snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add custom hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add new command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust opacity:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation>Κύλιση ποντικιού</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -73,6 +73,22 @@ Network Error: %1</source>
 Please contact the developer.</source>
         <translation>هناك شيء خاطئ في تغذيه التحديث (%1). الرجاء الاتصال بالمطور.</translation>
     </message>
+    <message>
+        <source>The new version of Snipaste has been downloaded to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>الغاء الامر</translation>
+    </message>
+    <message>
+        <source>Open Download folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HelpDialog</name>
@@ -112,6 +128,29 @@ Please contact the developer.</source>
         <source>Key Bindings</source>
         <translation>مفتاح الارتباطات</translation>
     </message>
+    <message>
+        <source>Beta for Mac</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HotkeyCmdDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -148,10 +187,6 @@ Please contact the developer.</source>
         <translation>حفظ الصورة الى مجلد الحفظ السريع</translation>
     </message>
     <message>
-        <source>Shift + Arrow keys</source>
-        <translation>Shift + Arrow keys</translation>
-    </message>
-    <message>
         <source>Mouse right-click</source>
         <translation>Mouse right-click</translation>
     </message>
@@ -170,10 +205,6 @@ Please contact the developer.</source>
     <message>
         <source>Toggle between window detection and element detection</source>
         <translation>التبديل بين كشف الاطار وكشف العنصر</translation>
-    </message>
-    <message>
-        <source>Ctrl + Arrow keys</source>
-        <translation>Ctrl + Arrow keys</translation>
     </message>
     <message>
         <source>Move the cursor by 1 pixel</source>
@@ -196,10 +227,6 @@ Please contact the developer.</source>
         <translation>فتح مربع حوار التفضيلات</translation>
     </message>
     <message>
-        <source>Increase/Decrease the translucency of the image window</source>
-        <translation>زيادة/انقاص الشفافية من نافذه الصورة</translation>
-    </message>
-    <message>
         <source>Flip the image horizontally</source>
         <translation>اقلب الصورة افقيا</translation>
     </message>
@@ -220,10 +247,6 @@ Please contact the developer.</source>
         <translation>تبديل تنسيقات الوان اذا كان المكبر مرئيا</translation>
     </message>
     <message>
-        <source>. (Period)</source>
-        <translation>. (فترة)</translation>
-    </message>
-    <message>
         <source>Show/Hide the paint bar</source>
         <translation>اظهار/اخفاء شريط الرسام</translation>
     </message>
@@ -238,10 +261,6 @@ Please contact the developer.</source>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>نقل منطقه القص/اطار الصورة بمقدار 1 بيكسل اذا لم يكن التحرير</translation>
-    </message>
-    <message>
-        <source>Show/Hide the captured cursor</source>
-        <translation>اظهار/اخفاء المؤشر الملتقط</translation>
     </message>
     <message>
         <source>Copy the plain text (if this image is converted from text)</source>
@@ -272,18 +291,6 @@ Please contact the developer.</source>
         <translation>تمرير الماوس أو 1/2</translation>
     </message>
     <message>
-        <source>Mouse scroll or +/-</source>
-        <translation>تمرير الماوس أو +/--</translation>
-    </message>
-    <message>
-        <source>, (Comma)</source>
-        <translation>، (فاصله)</translation>
-    </message>
-    <message>
-        <source>Ctrl + Mouse scroll or Ctrl + +/-</source>
-        <translation>السيطرة + الماوس التمرير او السيطرة + +/--</translation>
-    </message>
-    <message>
         <source>Show the magnifier if it is not visible</source>
         <translation>اظهار المكبر اذا لم يكن مرئيا</translation>
     </message>
@@ -312,12 +319,24 @@ Please contact the developer.</source>
         <translation>استعاده التحرير التالي</translation>
     </message>
     <message>
-        <source>Scale the image</source>
-        <translation>قياس الصورة</translation>
-    </message>
-    <message>
         <source>Copy the color value if the magnifier is visible</source>
         <translation>انسخ قيمة اللون اذا كان المكبر مرئيا</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide the captured mouse cursor</source>
+        <translation>اظهار/اخفاء المؤشر الملتقط</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <translation>فاصله</translation>
+    </message>
+    <message>
+        <source>Period</source>
+        <translation>فترة</translation>
     </message>
 </context>
 <context>
@@ -664,6 +683,26 @@ Are you sure you want to switch to another configuration file?</source>
   بالاضافة الى ذلك، يجب عدم ازالة ملف التكوين الافتراضي بعد هذه العملية، لانه يسجل مكان العثور على ملف التكوين الجديد.
 هل تريد بالتاكيد التبديل الى ملف تهيئة اخر؟</translation>
     </message>
+    <message>
+        <source>Serbian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>الغاء الامر</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -936,6 +975,55 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
 </context>
 <context>
+    <name>ShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>قصاصه</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>قص و نسخ</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>القصاصة المؤجلة</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>لصق</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>اخفاء/اظهار كافة الصور</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>التبديل الى مجموعه صور اخرى</translation>
+    </message>
+    <message>
+        <source>Switch to the previous group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>تبديل نقرات الماوس</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>الاختصار لتبديل وضع النقرة من الصورة تحت المؤشر. إذا لم يكن اطار الصورة تحت المؤشر ،
+سيتم النقر على جميع الصور الغير قابلة للنقر.</translation>
+    </message>
+</context>
+<context>
     <name>ShortcutEdit</name>
     <message>
         <source>Press shortcut</source>
@@ -995,11 +1083,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Failed to save the image!</source>
         <translation>فشل في حفظ الصورة!</translation>
-    </message>
-    <message>
-        <source>Snipaste %1 is released!
-Click here to update now</source>
-        <translation>تم الإفراج عن القصاصات%1! انقر هنا لتحديث الان</translation>
     </message>
     <message>
         <source>Imported Group</source>
@@ -1137,6 +1220,14 @@ Click here to update now</source>
         <source>Toggle mouse click-through</source>
         <translation>تبديل الماوس من خلال النقر</translation>
     </message>
+    <message>
+        <source>Snipaste %1 is released!</source>
+        <translation>تم الإفراج عن القصاصات%1!</translation>
+    </message>
+    <message>
+        <source>Click here to update now</source>
+        <translation> انقر هنا لتحديث الان</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1183,6 +1274,10 @@ Click here to update now</source>
         <source>Release notes are currently not available.</source>
         <translation>ملاحظات الاصدار غير متوفرة حاليا.</translation>
     </message>
+    <message>
+        <source>Download updates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1211,6 +1306,41 @@ Click here to update now</source>
     <message>
         <source>Pages:</source>
         <translation>صفحات:</translation>
+    </message>
+</context>
+<context>
+    <name>hotkeycmddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>موافق</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>الغاء الامر</translation>
     </message>
 </context>
 <context>
@@ -1344,20 +1474,8 @@ Click here to update now</source>
         <translation>يمين</translation>
     </message>
     <message>
-        <source>Snip:</source>
-        <translation>قصاصه:</translation>
-    </message>
-    <message>
-        <source>The shortcut to switch to another image group</source>
-        <translation>الاختصار للتبديل الى مجموعه صور اخرى</translation>
-    </message>
-    <message>
         <source>Show the mask in the magnifier.</source>
         <translation>اظهار القناع في المكبر.</translation>
-    </message>
-    <message>
-        <source>The shortcut to delayed snip</source>
-        <translation>اختصار القصاصة المؤجلة</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
@@ -1479,10 +1597,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>لون السمة:</translation>
     </message>
     <message>
-        <source>Snip and copy:</source>
-        <translation>قص و نسخ:</translation>
-    </message>
-    <message>
         <source>Reset image:</source>
         <translation>اعاده تعيين الصورة:</translation>
     </message>
@@ -1517,10 +1631,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Max recoverable closed images:</source>
         <translation>اقصى الصور المغلقة قابله للاسترداد:</translation>
-    </message>
-    <message>
-        <source>The shortcut to paste the clipboard content as an image window</source>
-        <translation>الاختصار للصق محتوي الحافظة كاطار صوره</translation>
     </message>
     <message>
         <source>The mask color of snipping</source>
@@ -1575,10 +1685,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>تعيين عرض الحدود حول منطقه القص.</translation>
     </message>
     <message>
-        <source>The shortcut to hide/show all image windows</source>
-        <translation>الاختصار لاخفاء/اظهار كافة اطارات الصور</translation>
-    </message>
-    <message>
         <source>&apos;Enter&apos; key action:</source>
         <translation>&apos; ادخل &apos; الاجراء الرئيسي:</translation>
     </message>
@@ -1593,10 +1699,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>This may cause flickers.</source>
         <translation>هذا قد يسبب ومضات.</translation>
-    </message>
-    <message>
-        <source>Paste:</source>
-        <translation>لصق:</translation>
     </message>
     <message>
         <source>Max number of history areas:</source>
@@ -1752,10 +1854,6 @@ Please report to the developer if you find any.</source>
         <translation>دع نافذه الصورة تكون شفافة اذا كانت الحدود تومض.</translation>
     </message>
     <message>
-        <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
-        <translation>الاختصار الى قص و ارسال لقطه الشاشة الى الحافظة مره واحده في منطقه التقطيع يتم تحديد</translation>
-    </message>
-    <message>
         <source>Show usage tips on the magnifier</source>
         <translation>اظهار تلميحات الاستخدام علي المكبر</translation>
     </message>
@@ -1909,14 +2007,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>تشغيل كمسؤول عن بدء التشغيل.</translation>
     </message>
     <message>
-        <source>Switch to another image group:</source>
-        <translation>التبديل الى مجموعه صور اخرى:</translation>
-    </message>
-    <message>
-        <source>Delayed snip:</source>
-        <translation>القصاصة المؤجلة:</translation>
-    </message>
-    <message>
         <source>Version</source>
         <translation>الاصدار</translation>
     </message>
@@ -1967,10 +2057,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>quit snipping</source>
         <translation>انهاء القص</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images:</source>
-        <translation>اخفاء/اظهار كافة الصور:</translation>
     </message>
     <message>
         <source>Smooth scaling</source>
@@ -2028,10 +2114,6 @@ However, in the meantime, the alpha channel of the image is lost.</source>
         <translation>لون النص المستخدم لتحويل النص العادي</translation>
     </message>
     <message>
-        <source>The shortcut to snip</source>
-        <translation>اختصار القصاصة</translation>
-    </message>
-    <message>
         <source>Snipaste Preferences</source>
         <translation>تفضيلات القصاص</translation>
     </message>
@@ -2085,12 +2167,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <translation>كن اول من يختبر ميزات جديده من القصاص!</translation>
     </message>
     <message>
-        <source>For Windows Store version, if you need to turn this off,
-please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation>لاصدار تخزين وندوز ، اذا كنت بحاجه إلى ايقاف تشغيله ،
-الرجاء الانتقال الى &apos; اداره المهام &apos;-&apos; بدء التشغيل &apos; ، والعثور علي &apos; القصاص &apos; وتعطيله.</translation>
-    </message>
-    <message>
         <source>Configuration Storage</source>
         <translation>تكوين التخزين</translation>
     </message>
@@ -2111,16 +2187,6 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
         <translation>اطلب تأكيد عند الضغط على هروب</translation>
     </message>
     <message>
-        <source>Toggle mouse click-through:</source>
-        <translation>تبديل نقرات الماوس:</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>الاختصار لتبديل وضع النقرة من الصورة تحت المؤشر. إذا لم يكن اطار الصورة تحت المؤشر ،
-سيتم النقر على جميع الصور الغير قابلة للنقر.</translation>
-    </message>
-    <message>
         <source>When:</source>
         <translation>عندما:</translation>
     </message>
@@ -2131,6 +2197,47 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable mouse scrolling</source>
         <translation>تعطيل تمرير الماوس</translation>
+    </message>
+    <message>
+        <source>Disable permanently</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this if you never need cursor capture.
+You will gain better response time on entering snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add custom hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add new command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust opacity:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

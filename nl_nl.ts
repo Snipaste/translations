@@ -75,6 +75,22 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <source>Restarting</source>
         <translation>Opnieuw starten</translation>
     </message>
+    <message>
+        <source>The new version of Snipaste has been downloaded to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuleren</translation>
+    </message>
+    <message>
+        <source>Open Download folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HelpDialog</name>
@@ -114,6 +130,29 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <source>Changelog</source>
         <translation>Versiebestand</translation>
     </message>
+    <message>
+        <source>Beta for Mac</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HotkeyCmdDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -126,10 +165,6 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <translation>Wisselen tussen schermdetectie en elementdetectie</translation>
     </message>
     <message>
-        <source>Show/Hide the captured cursor</source>
-        <translation>Cursor in schermopname weergeven/verbergen</translation>
-    </message>
-    <message>
         <source>Set the snipping area to fullscreen</source>
         <translation>Volledig scherm instellen als opnamegebied</translation>
     </message>
@@ -138,32 +173,16 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <translation>Opnamegebied gelijkstellen aan laatste schermopname</translation>
     </message>
     <message>
-        <source>, (Comma)</source>
-        <translation>, (komma)</translation>
-    </message>
-    <message>
         <source>Switch to the previous snip record</source>
         <translation>Naar vorige opname schakelen</translation>
-    </message>
-    <message>
-        <source>. (Period)</source>
-        <translation>. (punt)</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Naar volgende opname schakelen</translation>
     </message>
     <message>
-        <source>Ctrl + Arrow keys</source>
-        <translation>Ctrl + Pijltoetsen</translation>
-    </message>
-    <message>
         <source>Enlarge the snipping area by 1 pixel</source>
         <translation>Opnamegebied met 1 pixel vergroten</translation>
-    </message>
-    <message>
-        <source>Shift + Arrow keys</source>
-        <translation>Shift + Pijltoetsen</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
@@ -208,22 +227,6 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     <message>
         <source>Flip the image vertically</source>
         <translation>Afbeelding verticaal spiegelen</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or +/-</source>
-        <translation>Muiswiel of +/-</translation>
-    </message>
-    <message>
-        <source>Scale the image</source>
-        <translation>Afbeelding verschalen</translation>
-    </message>
-    <message>
-        <source>Ctrl + Mouse scroll or Ctrl + +/-</source>
-        <translation>Ctrl + Muiswiel of Ctrl + +/-</translation>
-    </message>
-    <message>
-        <source>Increase/Decrease the translucency of the image window</source>
-        <translation>Meer/minder transparantie van het afbeeldingsvenster</translation>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
@@ -320,6 +323,22 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation>Pendikte verkleinen/vergroten</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide the captured mouse cursor</source>
+        <translation>Cursor in schermopname weergeven/verbergen</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <translation>komma</translation>
+    </message>
+    <message>
+        <source>Period</source>
+        <translation>punt</translation>
     </message>
 </context>
 <context>
@@ -668,6 +687,26 @@ Daarbij mag het bestand van de standaardconfiguratie niet worden gewist, omdat d
 
 Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
+    <message>
+        <source>Serbian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuleren</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -941,6 +980,55 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
 </context>
 <context>
+    <name>ShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Schermopname</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Schermopname kopiëren</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Vertraagde schermopname</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Plakken</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Alle afbeeldingen verbergen/weergeven</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Naar andere afbeeldingengroep schakelen</translation>
+    </message>
+    <message>
+        <source>Switch to the previous group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>Muis-doorklikken aan/uitschakelen</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>Deze sneltoets schakelt Muis-doorklikken van de afbeelding onder de cursor aan/uit.
+Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare afbeeldingen klikbaar gemaakt.</translation>
+    </message>
+</context>
+<context>
     <name>ShortcutEdit</name>
     <message>
         <source>Press shortcut</source>
@@ -1082,12 +1170,6 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
         <translation>Afbeelding niet opgeslagen!</translation>
     </message>
     <message>
-        <source>Snipaste %1 is released!
-Click here to update now</source>
-        <translation>Snipaste %1 is uit.
-Klik hier om direct te vernieuwen</translation>
-    </message>
-    <message>
         <source>Fail to import group.</source>
         <translation>Groep is niet geïmporteerd.</translation>
     </message>
@@ -1143,6 +1225,14 @@ Klik hier om direct te vernieuwen</translation>
         <source>Toggle mouse click-through</source>
         <translation>Muis-doorklikken aan/uitschakelen</translation>
     </message>
+    <message>
+        <source>Snipaste %1 is released!</source>
+        <translation>Snipaste %1 is uit.</translation>
+    </message>
+    <message>
+        <source>Click here to update now</source>
+        <translation>Klik hier om direct te vernieuwen</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1189,6 +1279,10 @@ Klik hier om direct te vernieuwen</translation>
         <source>Are you sure you want to cancel the update?</source>
         <translation>Wilt u deze nieuwe versie niet downloaden?</translation>
     </message>
+    <message>
+        <source>Download updates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1217,6 +1311,41 @@ Klik hier om direct te vernieuwen</translation>
     <message>
         <source>Pages:</source>
         <translation>Pagina&apos;s:</translation>
+    </message>
+</context>
+<context>
+    <name>hotkeycmddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -1534,22 +1663,6 @@ Gebruik -1 voor automatische kwaliteit.</translation>
         <translation>Automatische opslagmap aanpassen.</translation>
     </message>
     <message>
-        <source>Switch to another image group:</source>
-        <translation>Naar andere afbeeldingengroep schakelen:</translation>
-    </message>
-    <message>
-        <source>The shortcut to switch to another image group</source>
-        <translation>De sneltoets waarmee u naar een andere afbeeldingengroep schakelt</translation>
-    </message>
-    <message>
-        <source>Snip and copy:</source>
-        <translation>Schermopname kopiëren:</translation>
-    </message>
-    <message>
-        <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
-        <translation>De sneltoets om een schermopname te maken en deze naar het klembord te kopiëren</translation>
-    </message>
-    <message>
         <source>Key Bindings</source>
         <translation>Toets-koppelingen</translation>
     </message>
@@ -1788,22 +1901,6 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
         <translation>Algemene sneltoetsen</translation>
     </message>
     <message>
-        <source>Hide/Show all images:</source>
-        <translation>Alle afbeeldingen verbergen/weergeven:</translation>
-    </message>
-    <message>
-        <source>The shortcut to hide/show all image windows</source>
-        <translation>De sneltoets om alle afbeeldingen te verbergen/weergeven</translation>
-    </message>
-    <message>
-        <source>Delayed snip:</source>
-        <translation>Vertraagde schermopname:</translation>
-    </message>
-    <message>
-        <source>The shortcut to delayed snip</source>
-        <translation>De sneltoets om een vertraagde schermopname te maken</translation>
-    </message>
-    <message>
         <source>* Press Backspace to clear</source>
         <translation>* Toets Backspace om te wissen</translation>
     </message>
@@ -2002,14 +2099,6 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
         <translation>Voorvertoning conversie tekst-afbeelding</translation>
     </message>
     <message>
-        <source>The shortcut to snip</source>
-        <translation>De sneltoets om een schermopname te maken</translation>
-    </message>
-    <message>
-        <source>The shortcut to paste the clipboard content as an image window</source>
-        <translation>De sneltoets om inhoud van het klembord te plakken als afbeeldingsvenster</translation>
-    </message>
-    <message>
         <source>Contact:</source>
         <translation>Contact:</translation>
     </message>
@@ -2024,14 +2113,6 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     <message>
         <source>Hotkey</source>
         <translation>Sneltoetsen</translation>
-    </message>
-    <message>
-        <source>Snip:</source>
-        <translation>Schermopname:</translation>
-    </message>
-    <message>
-        <source>Paste:</source>
-        <translation>Plakken:</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2104,12 +2185,6 @@ Also affect the color value copying.</source>
 Dit heeft ook gevolgen voor het kopiëren van een kleur.</translation>
     </message>
     <message>
-        <source>For Windows Store version, if you need to turn this off,
-please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation>Deze optie moet in de Windows Store versie afgeschakeld worden.
-Start Windows Taakbeheer - Startup en schakel de automatische start van Snipaste uit.</translation>
-    </message>
-    <message>
         <source>Configuration Storage</source>
         <translation>Configuratie-opslag</translation>
     </message>
@@ -2130,16 +2205,6 @@ Start Windows Taakbeheer - Startup en schakel de automatische start van Snipaste
         <translation>Bevestiging vragen wanneer Esc wordt gedrukt</translation>
     </message>
     <message>
-        <source>Toggle mouse click-through:</source>
-        <translation>Muis-doorklikken schakelen:</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Deze sneltoets schakelt Muis-doorklikken van de afbeelding onder de cursor aan/uit.
-Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare afbeeldingen klikbaar gemaakt.</translation>
-    </message>
-    <message>
         <source>When:</source>
         <translation>Wanneer:</translation>
     </message>
@@ -2150,6 +2215,47 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Disable mouse scrolling</source>
         <translation>Muiswiel deactiveren</translation>
+    </message>
+    <message>
+        <source>Disable permanently</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this if you never need cursor capture.
+You will gain better response time on entering snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add custom hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add new command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust opacity:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation>Muiswiel</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

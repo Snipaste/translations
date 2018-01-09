@@ -75,6 +75,22 @@ Kontakta programutvecklaren.</translation>
         <source>Restarting</source>
         <translation>Startar om</translation>
     </message>
+    <message>
+        <source>The new version of Snipaste has been downloaded to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Avbryt</translation>
+    </message>
+    <message>
+        <source>Open Download folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HelpDialog</name>
@@ -114,6 +130,29 @@ Kontakta programutvecklaren.</translation>
         <source>Help</source>
         <translation>Hjälp</translation>
     </message>
+    <message>
+        <source>Beta for Mac</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HotkeyCmdDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -126,10 +165,6 @@ Kontakta programutvecklaren.</translation>
         <translation>Växla mellan fönster- och elementidentifiering</translation>
     </message>
     <message>
-        <source>Show/Hide the captured cursor</source>
-        <translation>Visa/Dölj muspekaren i klippet</translation>
-    </message>
-    <message>
         <source>Set the snipping area to fullscreen</source>
         <translation>Ange klipprektangel som helskärm</translation>
     </message>
@@ -138,32 +173,16 @@ Kontakta programutvecklaren.</translation>
         <translation>Ange klipprektangeln till samma storlek som senast lyckade klipp</translation>
     </message>
     <message>
-        <source>, (Comma)</source>
-        <translation>, (Komma)</translation>
-    </message>
-    <message>
         <source>Switch to the previous snip record</source>
         <translation>Växla till föregående klippost</translation>
-    </message>
-    <message>
-        <source>. (Period)</source>
-        <translation>. (Punkt)</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Växla till nästa klippost</translation>
     </message>
     <message>
-        <source>Ctrl + Arrow keys</source>
-        <translation>Ctrl + Piltangenter</translation>
-    </message>
-    <message>
         <source>Enlarge the snipping area by 1 pixel</source>
         <translation>Förstora klipprektangeln med 1 pixel</translation>
-    </message>
-    <message>
-        <source>Shift + Arrow keys</source>
-        <translation>Shift + Piltangenter</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
@@ -208,22 +227,6 @@ Kontakta programutvecklaren.</translation>
     <message>
         <source>Flip the image vertically</source>
         <translation>Vänd bilden vertikalt</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or +/-</source>
-        <translation>Skroll eller +/-</translation>
-    </message>
-    <message>
-        <source>Scale the image</source>
-        <translation>Skala bilden</translation>
-    </message>
-    <message>
-        <source>Ctrl + Mouse scroll or Ctrl + +/-</source>
-        <translation>Ctrl+Skroll eller Ctrl++/-</translation>
-    </message>
-    <message>
-        <source>Increase/Decrease the translucency of the image window</source>
-        <translation>Öka/Minska transparens i bildfönster</translation>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
@@ -320,6 +323,22 @@ Kontakta programutvecklaren.</translation>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation>Minska /Öka pennbredden i redigeringsläget</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide the captured mouse cursor</source>
+        <translation>Visa/Dölj muspekaren i klippet</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <translation>Komma</translation>
+    </message>
+    <message>
+        <source>Period</source>
+        <translation>Punkt</translation>
     </message>
 </context>
 <context>
@@ -664,6 +683,26 @@ Besides, you should not remove the default configuration file after this operati
 Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Serbian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Avbryt</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -936,6 +975,54 @@ Du kan starta om Snipaste som administratör och försöka igen.</translation>
     </message>
 </context>
 <context>
+    <name>ShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Klipp</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Klipp och kopiera</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Fördröjt klipp</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Klistra in</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Dölj/Visa alla bilder</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Växla till annan bildgrupp</translation>
+    </message>
+    <message>
+        <source>Switch to the previous group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ShortcutEdit</name>
     <message>
         <source>Press shortcut</source>
@@ -1031,12 +1118,6 @@ Du kan starta om Snipaste som administratör och försöka igen.</translation>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
         <translation>Vill du verkligen stänga &quot;%1&quot;? Åtgärden kan inte ångras.</translation>
-    </message>
-    <message>
-        <source>Snipaste %1 is released!
-Click here to update now</source>
-        <translation>Snipaste %1 har släppts!
-Klicka här för att uppdatera nu</translation>
     </message>
     <message>
         <source>Import group...</source>
@@ -1138,6 +1219,14 @@ Klicka här för att uppdatera nu</translation>
         <source>Toggle mouse click-through</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Snipaste %1 is released!</source>
+        <translation>Snipaste %1 har släppts!</translation>
+    </message>
+    <message>
+        <source>Click here to update now</source>
+        <translation>Klicka här för att uppdatera nu</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1184,6 +1273,10 @@ Klicka här för att uppdatera nu</translation>
         <source>Recheck</source>
         <translation>Sök igen</translation>
     </message>
+    <message>
+        <source>Download updates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1212,6 +1305,41 @@ Klicka här för att uppdatera nu</translation>
     <message>
         <source>Pages:</source>
         <translation>Sidor:</translation>
+    </message>
+</context>
+<context>
+    <name>hotkeycmddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
@@ -1305,10 +1433,6 @@ Klicka här för att uppdatera nu</translation>
         <translation>Höger</translation>
     </message>
     <message>
-        <source>Snip:</source>
-        <translation>Klipp:</translation>
-    </message>
-    <message>
         <source>The theme color of Snipaste</source>
         <translation>Temafärg för Snipaste</translation>
     </message>
@@ -1345,10 +1469,6 @@ Klicka här för att uppdatera nu</translation>
         <translation>Identifiera fönsterområden automatiskt, vid klipp.</translation>
     </message>
     <message>
-        <source>The shortcut to paste the clipboard content as an image window</source>
-        <translation>Genväg för att klistra in urklippsinnehållet som ett bildfönster</translation>
-    </message>
-    <message>
         <source>The mask color of snipping</source>
         <translation>Maskfärgen för klippning</translation>
     </message>
@@ -1375,10 +1495,6 @@ Klicka här för att uppdatera nu</translation>
     <message>
         <source>Backup the states of the image windows so that they can be recovered the next time you open Snipaste.</source>
         <translation>Säkerhetskopiera status för bildfönster, så att de kan återställas nästa gång Snipaste öppnas.</translation>
-    </message>
-    <message>
-        <source>Paste:</source>
-        <translation>Klistra in:</translation>
     </message>
     <message>
         <source>Always ignore HTML formats</source>
@@ -1509,10 +1625,6 @@ Detta alternativ hittas också i kontextmenyn för varje individuellt bildfönst
     <message>
         <source>The text color used for plain text conversion</source>
         <translation>Textfärg för konvertering av ofarmaterad text</translation>
-    </message>
-    <message>
-        <source>The shortcut to snip</source>
-        <translation>Genväg för skärmklipp</translation>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
@@ -1835,18 +1947,6 @@ När gränsen är nådd, kommer den äldsta att tas bort.</translation>
         <translation>Gramatik:</translation>
     </message>
     <message>
-        <source>The shortcut to hide/show all image windows</source>
-        <translation>Genväg för att dölja/visa alla bildfönster</translation>
-    </message>
-    <message>
-        <source>Delayed snip:</source>
-        <translation>Fördröjt klipp:</translation>
-    </message>
-    <message>
-        <source>The shortcut to delayed snip</source>
-        <translation>Genväg för fördröjt klipp</translation>
-    </message>
-    <message>
         <source>Licenses</source>
         <translation>Licenser</translation>
     </message>
@@ -1897,10 +1997,6 @@ När gränsen är nådd, kommer den äldsta att tas bort.</translation>
     <message>
         <source>Password:</source>
         <translation>Lösenord:</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images:</source>
-        <translation>Dölj/Visa alla bilder:</translation>
     </message>
     <message>
         <source>Hover over an option to see its detailed explanation.</source>
@@ -2061,24 +2157,8 @@ Ange -1 för att låta Snipaste avgöra åt dig.</translation>
         <translation>ankare</translation>
     </message>
     <message>
-        <source>Switch to another image group:</source>
-        <translation>Växla till annan bildgrupp:</translation>
-    </message>
-    <message>
-        <source>The shortcut to switch to another image group</source>
-        <translation>Genväg för att växla till annan bildgrupp</translation>
-    </message>
-    <message>
         <source>Open log file</source>
         <translation>Öppna loggfilen</translation>
-    </message>
-    <message>
-        <source>Snip and copy:</source>
-        <translation>Klipp och kopiera:</translation>
-    </message>
-    <message>
-        <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
-        <translation>Genväg för att klippa ut och skicka skärmklippet till Urklipp, när klippområdet väl är definierat</translation>
     </message>
     <message>
         <source>Let new image windows have shadows.
@@ -2097,11 +2177,6 @@ Vid inaktivering, visas det alltid centrerat på primär skärm.</translation>
 Also affect the color value copying.</source>
         <translation>Visa färg som hexvärde istället för RGB i förstoringsglaset.
 Påverkar också färgvärdeskopiering.</translation>
-    </message>
-    <message>
-        <source>For Windows Store version, if you need to turn this off,
-please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Configuration Storage</source>
@@ -2124,15 +2199,6 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Toggle mouse click-through:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>When:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2142,6 +2208,47 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Disable mouse scrolling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable permanently</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this if you never need cursor capture.
+You will gain better response time on entering snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add custom hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add new command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust opacity:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

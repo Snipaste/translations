@@ -75,6 +75,22 @@ Por favor, contate o desenvolvedor.</translation>
         <source>Restarting</source>
         <translation>Reiniciando</translation>
     </message>
+    <message>
+        <source>The new version of Snipaste has been downloaded to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Open Download folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HelpDialog</name>
@@ -114,6 +130,29 @@ Por favor, contate o desenvolvedor.</translation>
         <source>Changelog</source>
         <translation>Log de Alterações</translation>
     </message>
+    <message>
+        <source>Beta for Mac</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HotkeyCmdDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -126,10 +165,6 @@ Por favor, contate o desenvolvedor.</translation>
         <translation>Altera em detecção de janela e detecção de elemento</translation>
     </message>
     <message>
-        <source>Show/Hide the captured cursor</source>
-        <translation>Exibe/Oculta o cursor capturado</translation>
-    </message>
-    <message>
         <source>Set the snipping area to fullscreen</source>
         <translation>Define a área de recorte para tela cheia</translation>
     </message>
@@ -138,32 +173,16 @@ Por favor, contate o desenvolvedor.</translation>
         <translation>Define a área de recorte como a mesma do último recorte bem sucedido</translation>
     </message>
     <message>
-        <source>, (Comma)</source>
-        <translation>, (Vírgula)</translation>
-    </message>
-    <message>
         <source>Switch to the previous snip record</source>
         <translation>Altera para o registro de recorte anterior</translation>
-    </message>
-    <message>
-        <source>. (Period)</source>
-        <translation>. (Ponto Final)</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Altera para o próximo registro de recorte</translation>
     </message>
     <message>
-        <source>Ctrl + Arrow keys</source>
-        <translation>Ctrl + Teclas direcionais</translation>
-    </message>
-    <message>
         <source>Enlarge the snipping area by 1 pixel</source>
         <translation>Amplia a área de recorte em 1 pixel</translation>
-    </message>
-    <message>
-        <source>Shift + Arrow keys</source>
-        <translation>Shift + Teclas direcionais</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
@@ -208,22 +227,6 @@ Por favor, contate o desenvolvedor.</translation>
     <message>
         <source>Flip the image vertically</source>
         <translation>Gira a imagem verticalmente</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or +/-</source>
-        <translation>Roda do mouse ou +/-</translation>
-    </message>
-    <message>
-        <source>Scale the image</source>
-        <translation>Redimensiona a imagem</translation>
-    </message>
-    <message>
-        <source>Ctrl + Mouse scroll or Ctrl + +/-</source>
-        <translation>Ctrl + Roda do mouse ou Ctrl + +/-</translation>
-    </message>
-    <message>
-        <source>Increase/Decrease the translucency of the image window</source>
-        <translation>Aumenta / diminui a translucência da janela de imagem</translation>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
@@ -320,6 +323,22 @@ Por favor, contate o desenvolvedor.</translation>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation>Aumenta / diminui a largura da caneta no modo de edição</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide the captured mouse cursor</source>
+        <translation>Exibe/Oculta o cursor capturado</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <translation>Vírgula</translation>
+    </message>
+    <message>
+        <source>Period</source>
+        <translation>Ponto Final</translation>
     </message>
 </context>
 <context>
@@ -668,6 +687,26 @@ Além disso, você não deve remover o arquivo de configurações padrão após 
 
 Você deseja realmente alterar para outro arquivo de configurações?</translation>
     </message>
+    <message>
+        <source>Serbian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -941,6 +980,55 @@ Reinicie o Snipaste como Administrador e tente novamente.</translation>
     </message>
 </context>
 <context>
+    <name>ShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Recorte</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Recortar e copiar</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Recorte atrasado</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Colar</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Ocultar/Exibir todas as imagens</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Mudar para outro grupo de imagens</translation>
+    </message>
+    <message>
+        <source>Switch to the previous group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>Alternar clique do mouse</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>O atalho para alternar o modo de clique da imagem sob o cursor.
+Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáveis se tornarão clicáveis.</translation>
+    </message>
+</context>
+<context>
     <name>ShortcutEdit</name>
     <message>
         <source>Press shortcut</source>
@@ -1090,12 +1178,6 @@ Reinicie o Snipaste como Administrador e tente novamente.</translation>
         <translation>Falha ao salvar a imagem!</translation>
     </message>
     <message>
-        <source>Snipaste %1 is released!
-Click here to update now</source>
-        <translation>O Snipaste %1 foi lançado!
-Clique aqui para atualizar agora</translation>
-    </message>
-    <message>
         <source>Fail to import group.</source>
         <translation>Falha ao importar grupo.</translation>
     </message>
@@ -1143,6 +1225,14 @@ Clique aqui para atualizar agora</translation>
         <source>Toggle mouse click-through</source>
         <translation>Alternar clique do mouse</translation>
     </message>
+    <message>
+        <source>Snipaste %1 is released!</source>
+        <translation>O Snipaste %1 foi lançado!</translation>
+    </message>
+    <message>
+        <source>Click here to update now</source>
+        <translation>Clique aqui para atualizar agora</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1189,6 +1279,10 @@ Clique aqui para atualizar agora</translation>
         <source>Are you sure you want to cancel the update?</source>
         <translation>Deseja realmente cancelar a atualização?</translation>
     </message>
+    <message>
+        <source>Download updates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1217,6 +1311,41 @@ Clique aqui para atualizar agora</translation>
     <message>
         <source>Pages:</source>
         <translation>Páginas:</translation>
+    </message>
+</context>
+<context>
+    <name>hotkeycmddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -1426,26 +1555,6 @@ Clique aqui para atualizar agora</translation>
         <translation>fecha o recorte</translation>
     </message>
     <message>
-        <source>The shortcut to hide/show all image windows</source>
-        <translation>Atalho para ocultar/exibir todas as janelas de imagens</translation>
-    </message>
-    <message>
-        <source>Switch to another image group:</source>
-        <translation>Mudar para outro grupo de imagens:</translation>
-    </message>
-    <message>
-        <source>The shortcut to switch to another image group</source>
-        <translation>Atalho para mudar para outro grupo de imagens</translation>
-    </message>
-    <message>
-        <source>Delayed snip:</source>
-        <translation>Recorte atrasado:</translation>
-    </message>
-    <message>
-        <source>The shortcut to delayed snip</source>
-        <translation>Atalho para recorte atrasado</translation>
-    </message>
-    <message>
         <source>Update</source>
         <translation>Atualização</translation>
     </message>
@@ -1464,10 +1573,6 @@ Clique aqui para atualizar agora</translation>
     <message>
         <source>h</source>
         <translation>h</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images:</source>
-        <translation>Ocultar/Exibir todas as imagens:</translation>
     </message>
     <message>
         <source>Include beta builds</source>
@@ -2016,30 +2121,6 @@ Especifique -1 para deixar que o Snipaste decida para você.</translation>
         <translation>Teclas de Atalho Globais</translation>
     </message>
     <message>
-        <source>Snip:</source>
-        <translation>Recorte:</translation>
-    </message>
-    <message>
-        <source>The shortcut to snip</source>
-        <translation>Atalho para recortar</translation>
-    </message>
-    <message>
-        <source>Paste:</source>
-        <translation>Colar:</translation>
-    </message>
-    <message>
-        <source>The shortcut to paste the clipboard content as an image window</source>
-        <translation>Atalho para colar conteúdo da Área de Transferência como uma janela de imagem</translation>
-    </message>
-    <message>
-        <source>Snip and copy:</source>
-        <translation>Recortar e copiar:</translation>
-    </message>
-    <message>
-        <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
-        <translation>Atalho para recortar e enviar a captura para a área de transferência assim que a área a ser recortdada estiver determinada</translation>
-    </message>
-    <message>
         <source>* Press Backspace to clear</source>
         <translation>* Pressione Barra de Espaço para limpar</translation>
     </message>
@@ -2104,12 +2185,6 @@ Also affect the color value copying.</source>
 Também afeta na cópia do valor da cor.</translation>
     </message>
     <message>
-        <source>For Windows Store version, if you need to turn this off,
-please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation>Para a versão da Loja do Windows, se você precisar desativar isto,
-vá até o Gerenciador de Tarefas - Inicializar, encontre &apos;Snipaste&apos; e desabilite-o.</translation>
-    </message>
-    <message>
         <source>Configuration Storage</source>
         <translation>Armazenamento de Configurações</translation>
     </message>
@@ -2130,16 +2205,6 @@ vá até o Gerenciador de Tarefas - Inicializar, encontre &apos;Snipaste&apos; e
         <translation>Solicitar confirmação ao pressionar ESC</translation>
     </message>
     <message>
-        <source>Toggle mouse click-through:</source>
-        <translation>Alternar clique do mouse:</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>O atalho para alternar o modo de clique da imagem sob o cursor.
-Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáveis se tornarão clicáveis.</translation>
-    </message>
-    <message>
         <source>When:</source>
         <translation>Quando:</translation>
     </message>
@@ -2150,6 +2215,47 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <message>
         <source>Disable mouse scrolling</source>
         <translation>Desativar rolagem do mouse</translation>
+    </message>
+    <message>
+        <source>Disable permanently</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this if you never need cursor capture.
+You will gain better response time on entering snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add custom hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add new command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust opacity:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

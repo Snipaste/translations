@@ -73,6 +73,22 @@ Please contact the developer.</source>
         <source>Restarting</source>
         <translation>再起動中</translation>
     </message>
+    <message>
+        <source>The new version of Snipaste has been downloaded to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Open Download folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HelpDialog</name>
@@ -112,6 +128,29 @@ Please contact the developer.</source>
         <source>Help</source>
         <translation>ヘルプ</translation>
     </message>
+    <message>
+        <source>Beta for Mac</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HotkeyCmdDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -124,10 +163,6 @@ Please contact the developer.</source>
         <translation>ウィンドウ検出と要素検出の切り替え</translation>
     </message>
     <message>
-        <source>Show/Hide the captured cursor</source>
-        <translation>カーソルを表示／非表示</translation>
-    </message>
-    <message>
         <source>Set the snipping area to fullscreen</source>
         <translation>スニップエリアをフルスクリーンに設定</translation>
     </message>
@@ -136,32 +171,16 @@ Please contact the developer.</source>
         <translation>スニップエリアを最後に成功したエリアに設定</translation>
     </message>
     <message>
-        <source>, (Comma)</source>
-        <translation>, (コンマ)</translation>
-    </message>
-    <message>
         <source>Switch to the previous snip record</source>
         <translation>前のスニップ記録に切り替え</translation>
-    </message>
-    <message>
-        <source>. (Period)</source>
-        <translation>. (ピリオド)</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
         <translation>次のスニップ記録に切り替え</translation>
     </message>
     <message>
-        <source>Ctrl + Arrow keys</source>
-        <translation>Ctrl + 矢印キー</translation>
-    </message>
-    <message>
         <source>Enlarge the snipping area by 1 pixel</source>
         <translation>スニップエリアの境界を 1 ピクセル拡大</translation>
-    </message>
-    <message>
-        <source>Shift + Arrow keys</source>
-        <translation>Shift + 矢印キー</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
@@ -206,22 +225,6 @@ Please contact the developer.</source>
     <message>
         <source>Flip the image vertically</source>
         <translation>上下に反転</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or +/-</source>
-        <translation>マウススクロール 或いは +/-</translation>
-    </message>
-    <message>
-        <source>Scale the image</source>
-        <translation>貼り画像をズームする</translation>
-    </message>
-    <message>
-        <source>Ctrl + Mouse scroll or Ctrl + +/-</source>
-        <translation>Ctrl + マウスホイールスクロール 或は Ctrl + +/-</translation>
-    </message>
-    <message>
-        <source>Increase/Decrease the translucency of the image window</source>
-        <translation>貼り画像の透明度を上げる/下げる</translation>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
@@ -318,6 +321,22 @@ Please contact the developer.</source>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation>編集モードでのペンの幅の減少/増加</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide the captured mouse cursor</source>
+        <translation>カーソルを表示／非表示</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <translation>コンマ</translation>
+    </message>
+    <message>
+        <source>Period</source>
+        <translation>ピリオド</translation>
     </message>
 </context>
 <context>
@@ -665,6 +684,26 @@ Are you sure you want to switch to another configuration file?</source>
 		
 		別の配置ファイルを切り替えることを確定しますか？</translation>
     </message>
+    <message>
+        <source>Serbian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -937,6 +976,55 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
 </context>
 <context>
+    <name>ShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>スニップ</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>スニップとコピー</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>遅延スニップ</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>貼り付け</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>すべての貼り画像を非表示/表示</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>他の画像グループに切り替え</translation>
+    </message>
+    <message>
+        <source>Switch to the previous group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>マウスクリックを切り替えます</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>カーソルの下で画像を切り替えるモのクリックモードのショートカット。
+もしカーソルの下に画像ウィンドウがなかったら、すべてのクリックできない画像をクリック可能に変更する</translation>
+    </message>
+</context>
+<context>
     <name>ShortcutEdit</name>
     <message>
         <source>Press shortcut</source>
@@ -976,12 +1064,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Failed to save the image!</source>
         <translation>画像の保存に失敗しました!</translation>
-    </message>
-    <message>
-        <source>Snipaste %1 is released!
-Click here to update now</source>
-        <translation>Snipaste %1 は利用可能です!
-ここをクリックして更新する</translation>
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
@@ -1139,6 +1221,14 @@ Click here to update now</source>
         <source>Toggle mouse click-through</source>
         <translation>マウスクリックを切り替えます</translation>
     </message>
+    <message>
+        <source>Snipaste %1 is released!</source>
+        <translation>Snipaste %1 は利用可能です!</translation>
+    </message>
+    <message>
+        <source>Click here to update now</source>
+        <translation>ここをクリックして更新する</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1185,6 +1275,10 @@ Click here to update now</source>
         <source>Recheck</source>
         <translation>再チェック</translation>
     </message>
+    <message>
+        <source>Download updates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1213,6 +1307,41 @@ Click here to update now</source>
     <message>
         <source>Pages:</source>
         <translation>ページ：</translation>
+    </message>
+</context>
+<context>
+    <name>hotkeycmddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確認</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
     </message>
 </context>
 <context>
@@ -1310,10 +1439,6 @@ Click here to update now</source>
         <translation>右</translation>
     </message>
     <message>
-        <source>Snip:</source>
-        <translation>スニップ:</translation>
-    </message>
-    <message>
         <source>Show the mask in the magnifier.</source>
         <translation>拡大鏡にマスクを表示.</translation>
     </message>
@@ -1402,10 +1527,6 @@ Click here to update now</source>
         <translation>回復できるスニップ数:</translation>
     </message>
     <message>
-        <source>The shortcut to paste the clipboard content as an image window</source>
-        <translation>画像を貼り付けのショートカット</translation>
-    </message>
-    <message>
         <source>The mask color of snipping</source>
         <translation>スニップ時のマスクの色</translation>
     </message>
@@ -1444,10 +1565,6 @@ Click here to update now</source>
     <message>
         <source>Backup the states of the image windows so that they can be recovered the next time you open Snipaste.</source>
         <translation>すべての貼り画像の状態をバックアップし、Snipasteを再起動した後元のままに回復する。</translation>
-    </message>
-    <message>
-        <source>Paste:</source>
-        <translation>貼り付け:</translation>
     </message>
     <message>
         <source>Copy the Hex value without &apos;#&apos;</source>
@@ -1719,10 +1836,6 @@ Range: 10 - 100</source>
         <translation>文字を画像に転換する時の色</translation>
     </message>
     <message>
-        <source>The shortcut to snip</source>
-        <translation>スニップのホットキー</translation>
-    </message>
-    <message>
         <source>Snipaste Preferences</source>
         <translation>Snipasteの環境設定</translation>
     </message>
@@ -1835,18 +1948,6 @@ Range: 10 - 100</source>
         <translation>文法：</translation>
     </message>
     <message>
-        <source>The shortcut to hide/show all image windows</source>
-        <translation>すべての画像ウインドウを表示/非表示のショットカット</translation>
-    </message>
-    <message>
-        <source>Delayed snip:</source>
-        <translation>遅延スニップ：</translation>
-    </message>
-    <message>
-        <source>The shortcut to delayed snip</source>
-        <translation>遅延スニップのショットカット</translation>
-    </message>
-    <message>
         <source>Licenses</source>
         <translation>ライセンス</translation>
     </message>
@@ -1897,10 +1998,6 @@ Range: 10 - 100</source>
     <message>
         <source>Password:</source>
         <translation>パスワード：</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images:</source>
-        <translation>すべての貼り画像を非表示/表示:</translation>
     </message>
     <message>
         <source>Hover over an option to see its detailed explanation.</source>
@@ -2061,24 +2158,8 @@ Snipasteを自動設定したい場合は-1。</translation>
         <translation>アンカー</translation>
     </message>
     <message>
-        <source>Switch to another image group:</source>
-        <translation>他の画像グループに切り替え：</translation>
-    </message>
-    <message>
-        <source>The shortcut to switch to another image group</source>
-        <translation>他の画像グループに切り替えるためのショートカット</translation>
-    </message>
-    <message>
         <source>Open log file</source>
         <translation>ログファイルを開く</translation>
-    </message>
-    <message>
-        <source>Snip and copy:</source>
-        <translation>スニップとコピー：</translation>
-    </message>
-    <message>
-        <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
-        <translation>スニッピング領域が決定されたら、クリップボードにスクリーンショットをスニップして送信するためのショートカット</translation>
     </message>
     <message>
         <source>Let new image windows have shadows.
@@ -2096,11 +2177,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <source>Show the color as a Hex value instead of RGB in the magnifier.
 Also affect the color value copying.</source>
         <translation>拡大鏡にカラー値をHexで表示、同時にカラー値のコピーも影響する。</translation>
-    </message>
-    <message>
-        <source>For Windows Store version, if you need to turn this off,
-please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation>Windows Storeバージョンについて、もしこれをオフにする必要がある場合は、&apos;タスクマネージャ&apos; − &apos;スタートアップで&apos;、&apos;Snipaste&apos;を見つけて、それを無効にしてください</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
@@ -2123,16 +2199,6 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
         <translation>Escを押すとき確認を求める</translation>
     </message>
     <message>
-        <source>Toggle mouse click-through:</source>
-        <translation>マウスクリックを切り替えます：</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>カーソルの下で画像を切り替えるモのクリックモードのショートカット。
-もしカーソルの下に画像ウィンドウがなかったら、すべてのクリックできない画像をクリック可能に変更する</translation>
-    </message>
-    <message>
         <source>When:</source>
         <translation>のときに：</translation>
     </message>
@@ -2143,6 +2209,47 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable mouse scrolling</source>
         <translation>マウスのスクロールを無効にする</translation>
+    </message>
+    <message>
+        <source>Disable permanently</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this if you never need cursor capture.
+You will gain better response time on entering snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add custom hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add new command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust opacity:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation>マウススクロール</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

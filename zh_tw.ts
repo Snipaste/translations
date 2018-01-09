@@ -73,6 +73,22 @@ Network Error: %1</source>
 Please contact the developer.</source>
         <translation>更新來源出錯啦 (%1)。請聯絡開發者。</translation>
     </message>
+    <message>
+        <source>The new version of Snipaste has been downloaded to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Open Download folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HelpDialog</name>
@@ -112,6 +128,29 @@ Please contact the developer.</source>
         <source>Changelog</source>
         <translation>更新日誌</translation>
     </message>
+    <message>
+        <source>Beta for Mac</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HotkeyCmdDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -124,10 +163,6 @@ Please contact the developer.</source>
         <translation>切換偵測視窗/偵測介面元素</translation>
     </message>
     <message>
-        <source>Show/Hide the captured cursor</source>
-        <translation>顯示/隱藏取得的游標</translation>
-    </message>
-    <message>
         <source>Set the snipping area to fullscreen</source>
         <translation>設定擷取螢幕區域為全螢幕</translation>
     </message>
@@ -136,32 +171,16 @@ Please contact the developer.</source>
         <translation>把擷圖區域設定為上一次成功擷圖時的區域</translation>
     </message>
     <message>
-        <source>, (Comma)</source>
-        <translation>, (逗號)</translation>
-    </message>
-    <message>
         <source>Switch to the previous snip record</source>
         <translation>切換到上一次擷圖記錄</translation>
-    </message>
-    <message>
-        <source>. (Period)</source>
-        <translation>. (句號)</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
         <translation>切換到下一次擷圖記錄</translation>
     </message>
     <message>
-        <source>Ctrl + Arrow keys</source>
-        <translation>Ctrl + 方向鍵</translation>
-    </message>
-    <message>
         <source>Enlarge the snipping area by 1 pixel</source>
         <translation>把擷圖區域相對版邊擴大 1 像素</translation>
-    </message>
-    <message>
-        <source>Shift + Arrow keys</source>
-        <translation>Shift + 方向鍵</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
@@ -206,22 +225,6 @@ Please contact the developer.</source>
     <message>
         <source>Flip the image vertically</source>
         <translation>垂直翻轉貼圖</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or +/-</source>
-        <translation>滑鼠滾輪 或 +/-</translation>
-    </message>
-    <message>
-        <source>Scale the image</source>
-        <translation>對貼圖進行縮放</translation>
-    </message>
-    <message>
-        <source>Ctrl + Mouse scroll or Ctrl + +/-</source>
-        <translation>Ctrl + 滑鼠滾輪 或 Ctrl + +/-</translation>
-    </message>
-    <message>
-        <source>Increase/Decrease the translucency of the image window</source>
-        <translation>增加/減少貼圖的不透明度</translation>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
@@ -318,6 +321,22 @@ Please contact the developer.</source>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation>調整畫筆粗細(編輯模式時)</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide the captured mouse cursor</source>
+        <translation>顯示/隱藏取得的游標</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <translation>逗號</translation>
+    </message>
+    <message>
+        <source>Period</source>
+        <translation>句號</translation>
     </message>
 </context>
 <context>
@@ -666,6 +685,26 @@ Are you sure you want to switch to another configuration file?</source>
 
 確定要切換到另一個設定檔嗎？</translation>
     </message>
+    <message>
+        <source>Serbian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -939,6 +978,55 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
 </context>
 <context>
+    <name>ShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>擷圖</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>擷取螢幕並自動複製</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>延時擷取螢幕</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>貼圖</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>隱藏/顯示所有貼圖</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>切換到另一貼圖組</translation>
+    </message>
+    <message>
+        <source>Switch to the previous group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>滑鼠穿透開關</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>該快速鍵用於開啟/關閉游標所在位置的貼圖的滑鼠穿透狀態。
+如果快速鍵按下時沒有貼圖位於游標之下，則會取消所有貼圖的滑鼠穿透狀態。</translation>
+    </message>
+</context>
+<context>
     <name>ShortcutEdit</name>
     <message>
         <source>Press shortcut</source>
@@ -1080,12 +1168,6 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>圖片儲存失敗!</translation>
     </message>
     <message>
-        <source>Snipaste %1 is released!
-Click here to update now</source>
-        <translation>Snipaste %1 已經發布!
-點選這裡馬上更新</translation>
-    </message>
-    <message>
         <source>Fail to import group.</source>
         <translation>匯入分組失敗。</translation>
     </message>
@@ -1141,6 +1223,14 @@ Click here to update now</source>
         <source>Toggle mouse click-through</source>
         <translation>滑鼠穿透開關</translation>
     </message>
+    <message>
+        <source>Snipaste %1 is released!</source>
+        <translation>Snipaste %1 已經發布!</translation>
+    </message>
+    <message>
+        <source>Click here to update now</source>
+        <translation>點選這裡馬上更新</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1187,6 +1277,10 @@ Click here to update now</source>
         <source>Are you sure you want to cancel the update?</source>
         <translation>確定要取消更新嗎?</translation>
     </message>
+    <message>
+        <source>Download updates</source>
+        <translation>下載更新</translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1215,6 +1309,41 @@ Click here to update now</source>
     <message>
         <source>Pages:</source>
         <translation>頁面:</translation>
+    </message>
+</context>
+<context>
+    <name>hotkeycmddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -1747,34 +1876,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>全域快速鍵</translation>
     </message>
     <message>
-        <source>The shortcut to hide/show all image windows</source>
-        <translation>隱藏/顯示所有貼圖的快速鍵</translation>
-    </message>
-    <message>
-        <source>Switch to another image group:</source>
-        <translation>切換到另一貼圖組:</translation>
-    </message>
-    <message>
-        <source>The shortcut to switch to another image group</source>
-        <translation>切換到另一貼圖組的快速鍵</translation>
-    </message>
-    <message>
-        <source>Delayed snip:</source>
-        <translation>延時擷取螢幕:</translation>
-    </message>
-    <message>
-        <source>The shortcut to delayed snip</source>
-        <translation>延時擷取螢幕的快速鍵</translation>
-    </message>
-    <message>
-        <source>Snip and copy:</source>
-        <translation>擷取螢幕並自動複製:</translation>
-    </message>
-    <message>
-        <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
-        <translation>開始擷取螢幕，並在擷取螢幕區域選定之後自動將擷圖複製到剪貼簿的快速鍵</translation>
-    </message>
-    <message>
         <source>* Press Backspace to clear</source>
         <translation>* 按 Backspace 鍵清除目前快速鍵</translation>
     </message>
@@ -1995,14 +2096,6 @@ If this option is checked, the above features will be disabled.</source>
         <translation>純文字轉圖片的效果預覽</translation>
     </message>
     <message>
-        <source>The shortcut to snip</source>
-        <translation>擷圖的快速鍵</translation>
-    </message>
-    <message>
-        <source>The shortcut to paste the clipboard content as an image window</source>
-        <translation>貼圖的快速鍵</translation>
-    </message>
-    <message>
         <source>Contact:</source>
         <translation>聯絡:</translation>
     </message>
@@ -2017,18 +2110,6 @@ If this option is checked, the above features will be disabled.</source>
     <message>
         <source>Hotkey</source>
         <translation>快速鍵</translation>
-    </message>
-    <message>
-        <source>Snip:</source>
-        <translation>擷圖:</translation>
-    </message>
-    <message>
-        <source>Paste:</source>
-        <translation>貼圖:</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images:</source>
-        <translation>隱藏/顯示所有貼圖:</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2101,12 +2182,6 @@ Also affect the color value copying.</source>
 同時也會影響色彩值的複製。</translation>
     </message>
     <message>
-        <source>For Windows Store version, if you need to turn this off,
-please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation>對於微軟商店版本，如需取消開機啟動，
-請在&quot;工作管理員-啟動&quot;中找到 Snipaste 並將其停用即可。</translation>
-    </message>
-    <message>
         <source>Configuration Storage</source>
         <translation>設定檔儲存位置</translation>
     </message>
@@ -2127,16 +2202,6 @@ please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste
         <translation>Esc 鍵被按下時彈出確認對話方塊</translation>
     </message>
     <message>
-        <source>Toggle mouse click-through:</source>
-        <translation>滑鼠穿透開關:</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>該快速鍵用於開啟/關閉游標所在位置的貼圖的滑鼠穿透狀態。
-如果快速鍵按下時沒有貼圖位於游標之下，則會取消所有貼圖的滑鼠穿透狀態。</translation>
-    </message>
-    <message>
         <source>When:</source>
         <translation>何時:</translation>
     </message>
@@ -2147,6 +2212,47 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable mouse scrolling</source>
         <translation>停用滑鼠滾輪功能</translation>
+    </message>
+    <message>
+        <source>Disable permanently</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this if you never need cursor capture.
+You will gain better response time on entering snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add custom hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add new command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust opacity:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation>滑鼠滾輪</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation>或</translation>
+    </message>
+    <message>
+        <source>Zoom:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

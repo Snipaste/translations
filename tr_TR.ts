@@ -75,6 +75,22 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <source>Restarting</source>
         <translation>Yeniden başlatılıyor</translation>
     </message>
+    <message>
+        <source>The new version of Snipaste has been downloaded to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>İptal</translation>
+    </message>
+    <message>
+        <source>Open Download folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HelpDialog</name>
@@ -114,6 +130,29 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <source>Changelog</source>
         <translation>Değişiklikler</translation>
     </message>
+    <message>
+        <source>Beta for Mac</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HotkeyCmdDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -126,10 +165,6 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <translation>Pencere algılama ve öğe algılama arasında geçiş yapma</translation>
     </message>
     <message>
-        <source>Show/Hide the captured cursor</source>
-        <translation>Yakalanan imleci göster/gizle</translation>
-    </message>
-    <message>
         <source>Set the snipping area to fullscreen</source>
         <translation>Kırpma alanını tam ekran olarak belirleyin</translation>
     </message>
@@ -138,32 +173,16 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <translation>Kırpma alanını son başarılı kırpma ile aynı şekilde belirleyin</translation>
     </message>
     <message>
-        <source>, (Comma)</source>
-        <translation>, (Virgül)</translation>
-    </message>
-    <message>
         <source>Switch to the previous snip record</source>
         <translation>Önceki kırpma kaydına geç</translation>
-    </message>
-    <message>
-        <source>. (Period)</source>
-        <translation>. (Nokta)</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Sonraki kırpma kaydına geç</translation>
     </message>
     <message>
-        <source>Ctrl + Arrow keys</source>
-        <translation>Ctrl + Ok Tuşları</translation>
-    </message>
-    <message>
         <source>Enlarge the snipping area by 1 pixel</source>
         <translation>Kırpma alanını 1 piksel genişletir</translation>
-    </message>
-    <message>
-        <source>Shift + Arrow keys</source>
-        <translation>Shift + Ok tuşları</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
@@ -208,22 +227,6 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     <message>
         <source>Flip the image vertically</source>
         <translation>Görüntüyü dikey çevir</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or +/-</source>
-        <translation>Fare tekeri veya +/-</translation>
-    </message>
-    <message>
-        <source>Scale the image</source>
-        <translation>Görüntüyü ölçeklendir</translation>
-    </message>
-    <message>
-        <source>Ctrl + Mouse scroll or Ctrl + +/-</source>
-        <translation>Ctrl + Fare tekeri veya Ctrl + +/-</translation>
-    </message>
-    <message>
-        <source>Increase/Decrease the translucency of the image window</source>
-        <translation>Görüntü penceresi saydamlığını arttır/azalt</translation>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
@@ -320,6 +323,22 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation>Düzenleme modunda kalem genişliğini azalt/arttır</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide the captured mouse cursor</source>
+        <translation>Yakalanan imleci göster/gizle</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <translation>Virgül</translation>
+    </message>
+    <message>
+        <source>Period</source>
+        <translation>Nokta</translation>
     </message>
 </context>
 <context>
@@ -668,6 +687,26 @@ Ayrıca, bu işlemden sonra varsayılan yapılandırma dosyasını kaldırmamal�
 
 Başka bir yapılandırma dosyasına geçmek istediğinizden emin misiniz?</translation>
     </message>
+    <message>
+        <source>Serbian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>İptal</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -865,7 +904,7 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation>Başlangıçta  etkinleştirme başarısız oldu. Görev Yöneticisi'nden manuel olarak etkinleştirmeniz gerekebilir.</translation>
+        <translation>Başlangıçta  etkinleştirme başarısız oldu. Görev Yöneticisi&apos;nden manuel olarak etkinleştirmeniz gerekebilir.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -938,6 +977,55 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     <message>
         <source>No write permission on the config file!</source>
         <translation>Yapılandırma dosyasına yazma izni yok!</translation>
+    </message>
+</context>
+<context>
+    <name>ShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Kırp</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Kırp ve kopyala</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Gecikmeli kırpma</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Yapıştır</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Tüm resimleri gizle/göster</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Başka bir resim grubuna geçin</translation>
+    </message>
+    <message>
+        <source>Switch to the previous group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>Fare tıklamasıyla geçiş</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>İmlecin altındaki görüntünün tıklama modunu değiştirmek için kullanılan kısayol.
+İmlecin altında herhangi bir görüntü penceresi yoksa, tıklanamayan tüm görüntüler tıklanabilir hale getirilir.</translation>
     </message>
 </context>
 <context>
@@ -1070,12 +1158,6 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
         <translation>Görüntü kaydetme başarısız!</translation>
     </message>
     <message>
-        <source>Snipaste %1 is released!
-Click here to update now</source>
-        <translation>Snipaste %1 yayınladı!
-Güncellemek için tıklayın</translation>
-    </message>
-    <message>
         <source>Fail to import group.</source>
         <translation>Grup alma başarısız.</translation>
     </message>
@@ -1143,6 +1225,14 @@ Güncellemek için tıklayın</translation>
         <source>Toggle mouse click-through</source>
         <translation>Fare tıklaması aç/kapat</translation>
     </message>
+    <message>
+        <source>Snipaste %1 is released!</source>
+        <translation>Snipaste %1 yayınladı!</translation>
+    </message>
+    <message>
+        <source>Click here to update now</source>
+        <translation>Güncellemek için tıklayın</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
@@ -1189,6 +1279,10 @@ Güncellemek için tıklayın</translation>
         <source>Are you sure you want to cancel the update?</source>
         <translation>Güncellemeyi iptal etmek istediğinizden emin misiniz?</translation>
     </message>
+    <message>
+        <source>Download updates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1217,6 +1311,41 @@ Güncellemek için tıklayın</translation>
     <message>
         <source>Pages:</source>
         <translation>Sayfalar:</translation>
+    </message>
+</context>
+<context>
+    <name>hotkeycmddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>Tamam</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -1936,54 +2065,6 @@ Snipaste&apos;in sizin için karar vermesine izin vermek için -1 yazın.</trans
         <translation>Genel Kısayollar</translation>
     </message>
     <message>
-        <source>Snip:</source>
-        <translation>Kırp:</translation>
-    </message>
-    <message>
-        <source>The shortcut to snip</source>
-        <translation>Kırpma kısayolu</translation>
-    </message>
-    <message>
-        <source>Paste:</source>
-        <translation>Yapıştır:</translation>
-    </message>
-    <message>
-        <source>The shortcut to paste the clipboard content as an image window</source>
-        <translation>Pano içeriğini bir görüntü penceresi olarak yapıştırma kısayolu</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images:</source>
-        <translation>Tüm resimleri gizle/göster:</translation>
-    </message>
-    <message>
-        <source>The shortcut to hide/show all image windows</source>
-        <translation>Tüm görüntü pencerelerini gizlemek / göstermek için kısayol</translation>
-    </message>
-    <message>
-        <source>Switch to another image group:</source>
-        <translation>Başka bir resim grubuna geçin:</translation>
-    </message>
-    <message>
-        <source>The shortcut to switch to another image group</source>
-        <translation>Başka bir resim grubuna geçiş kısayolu</translation>
-    </message>
-    <message>
-        <source>Delayed snip:</source>
-        <translation>Gecikmeli kırpma:</translation>
-    </message>
-    <message>
-        <source>The shortcut to delayed snip</source>
-        <translation>Gecikmeli kırpma kısayol</translation>
-    </message>
-    <message>
-        <source>Snip and copy:</source>
-        <translation>Kırp ve kopyala:</translation>
-    </message>
-    <message>
-        <source>The shortcut to snip and send the screenshot to the clipboard once the snipping area is determined</source>
-        <translation>Kesme alanı belirlendiğinde ekran görüntüsünü kesip panoya göndermek için kısayol</translation>
-    </message>
-    <message>
         <source>* Press Backspace to clear</source>
         <translation>* Temizlemek için silme tuşuna basın</translation>
     </message>
@@ -2104,12 +2185,6 @@ Also affect the color value copying.</source>
 Ayrıca, renk değeri kopyalamayı etkiler.</translation>
     </message>
     <message>
-        <source>For Windows Store version, if you need to turn this off,
-please go to &apos;Task Manager&apos; - &apos;Startup&apos;, find &apos;Snipaste&apos; and disable it.</source>
-        <translation>Windows Mağaza sürümü için, bunu kapatmanız gerekiyorsa,
-lütfen &apos;Görev Yöneticisi&apos; - &apos;Başlangıç&apos; bölümüne gidin, &apos;Snipaste&apos; öğesini bulun ve devre dışı bırakın.</translation>
-    </message>
-    <message>
         <source>Configuration Storage</source>
         <translation>Yapılandırma Dosyası</translation>
     </message>
@@ -2130,16 +2205,6 @@ lütfen &apos;Görev Yöneticisi&apos; - &apos;Başlangıç&apos; bölümüne gi
         <translation>Esc tuşuna basıldığında onay iste</translation>
     </message>
     <message>
-        <source>Toggle mouse click-through:</source>
-        <translation>Fare tıklamasıyla geçiş:</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>İmlecin altındaki görüntünün tıklama modunu değiştirmek için kullanılan kısayol.
-İmlecin altında herhangi bir görüntü penceresi yoksa, tıklanamayan tüm görüntüler tıklanabilir hale getirilir.</translation>
-    </message>
-    <message>
         <source>When:</source>
         <translation>Zaman:</translation>
     </message>
@@ -2150,6 +2215,47 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable mouse scrolling</source>
         <translation>Fare kaydırmayı devre dışı bırak</translation>
+    </message>
+    <message>
+        <source>Disable permanently</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this if you never need cursor capture.
+You will gain better response time on entering snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add custom hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add new command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust opacity:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
