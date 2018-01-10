@@ -77,7 +77,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>De nieuwe versie van Snipaste is gedownload in:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -85,11 +85,11 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Download-map openen</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pak het zipbestand uit, sluit Snipaste af en sleep het programma naar zijn installatiemap.</translation>
     </message>
 </context>
 <context>
@@ -132,26 +132,26 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Bèta voor Mac</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdracht verwijderen</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet u zeker dat u deze opdracht wilt verwijderen?/translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer een naam in!</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Geef een opdracht op!</translation>
     </message>
 </context>
 <context>
@@ -326,7 +326,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>of</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
@@ -689,11 +689,11 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Servisch</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste heeft toegankelijkheidsinstellingen nodig voor de detectie van vensterelementen</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -701,11 +701,11 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeeminstellingen openen</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voor deze functie dient u dit programma toegang te verlenen in de Privacyinstellingen in Systeeminstellingen.</translation>
     </message>
 </context>
 <context>
@@ -863,7 +863,7 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Dekking</translation>
+        <translation>Kleurdekking</translation>
     </message>
     <message>
         <source>Size</source>
@@ -983,7 +983,7 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     <name>ShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdracht bewerken</translation>
     </message>
     <message>
         <source>Snip</source>
@@ -1011,7 +1011,7 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>Switch to the previous group</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar vorige groep schakelen</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1019,7 +1019,7 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Algemene sneltoetsen aan/uitschakelen</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1281,7 +1281,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Download updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe versie downloaden</translation>
     </message>
 </context>
 <context>
@@ -1317,27 +1317,27 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdracht toevoegen</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdracht:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorinstellingen</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1836,12 +1836,12 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     </message>
     <message>
         <source>Default opacity:</source>
-        <translation>Standaard-dekking:</translation>
+        <translation>Standaard-kleurdekking:</translation>
     </message>
     <message>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
-        <translation>Standaard-dekking instellen voor nieuwe afbeeldingsvensters.
+        <translation>Standaard-kleurdekking instellen voor nieuwe afbeeldingsvensters.
 Bereik: 10-100</translation>
     </message>
     <message>
@@ -2218,32 +2218,33 @@ Dit heeft ook gevolgen voor het kopiëren van een kleur.</translation>
     </message>
     <message>
         <source>Disable permanently</source>
-        <translation type="unfinished"></translation>
+        <translation>Definitief afschakelen</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activeer als u nooit de cursor wilt opnemen.
+Dit zorgt voor een snellere opstart van de schermopname.</translation>
     </message>
     <message>
         <source>Show notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Melding weergeven</translation>
     </message>
     <message>
         <source>Add custom hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste sneltoets toevoegen</translation>
     </message>
     <message>
         <source>Add new command</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe opdracht toevoegen</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Muis</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleurdekking aanpassen</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
@@ -2251,11 +2252,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>of</translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom:</translation>
     </message>
 </context>
 <context>
