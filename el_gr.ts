@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="el_GR">
+<TS version="2.0" language="el_GR">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -77,7 +77,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Η νέα έκδοση του Snipaste έχει ληφθεί στο:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -85,11 +85,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα φακέλου λήψης</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποσυμπιέστε το και σύρετε την εφαρμογή στο φάκελο των εφαρμογών, μετά το κλείσιμο του Snipaste.</translation>
     </message>
 </context>
 <context>
@@ -132,26 +132,26 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Beta για Mac</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάργηση εντολής</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>Είστε βέβαιος ότι θέλετε να καταργήσετε αυτή την εντολή;</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Το όνομα δεν μπορεί να είναι κενό!</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Η εντολή δεν μπορεί να είναι κενή!</translation>
     </message>
 </context>
 <context>
@@ -326,7 +326,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>ή</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
@@ -689,11 +689,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Σερβικά</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Για ενεργοποίηση του εντοπισμού στοιχείων περιβάλλοντος χρήστη, το Snipaste απαιτεί έλεγχο προσβασιμότητας.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -701,11 +701,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Ρυθμίσεων συστήματος</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εάν θέλετε αυτό το χαρακτηριστικό, παρακαλούμε να παραχωρήσετε πρόσβαση σε αυτήν την εφαρμογή από τις προτιμήσεις Ασφάλειας &amp; Προσωπικών δεδομένων στις Ρυθμίσεις συστήματος.</translation>
     </message>
 </context>
 <context>
@@ -986,7 +986,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     <name>ShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασία εντολής</translation>
     </message>
     <message>
         <source>Snip</source>
@@ -998,7 +998,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation>Καθυστερημένο στιγμιότυπο</translation>
+        <translation>Στιγμιότυπο με καθυστέρηση</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1010,11 +1010,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Switch to another image group</source>
-        <translation>Εναλλαγή σε άλλη ομάδα εικόνων</translation>
+        <translation>Μετάβαση σε άλλη ομάδα εικόνων</translation>
     </message>
     <message>
         <source>Switch to the previous group</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετάβαση στην προηγούμενη ομάδα</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1022,7 +1022,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Απ-Ενεργοποίηση καθολικών πλήκτρων πρόσβασης</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1171,7 +1171,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation>Καθυστερημένο στιγμιότυπο</translation>
+        <translation>Στιγμιότυπο με καθυστέρηση</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1285,7 +1285,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Download updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη ενημερώσεων</translation>
     </message>
 </context>
 <context>
@@ -1321,27 +1321,27 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη εντολής</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Εντολή:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Δοκιμή</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Προεπιλογές</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάργηση</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2087,7 +2087,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Log level:</source>
-        <translation>Επίπεδο καταγραφής μητρώου:</translation>
+        <translation>Επίπεδο μητρώου καταγραφής:</translation>
     </message>
     <message>
         <source>Auto Save</source>
@@ -2229,32 +2229,33 @@ Also affect the color value copying.</source>
     </message>
     <message>
         <source>Disable permanently</source>
-        <translation type="unfinished"></translation>
+        <translation>Μόνιμη απενεργοποίηση</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε το αυτό, αν δεν χρειάζεστε ποτέ καταγραφή του δρομέα. 
+Θα έχετε καλύτερο χρόνο απόκρισης στην είσοδο στην καταγραφή.</translation>
     </message>
     <message>
         <source>Show notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση ειδοποίησεων</translation>
     </message>
     <message>
         <source>Add custom hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη προσαρμοσμένου πλήκτρου πρόσβασης</translation>
     </message>
     <message>
         <source>Add new command</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη νέας εντολής</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Ποντίκι</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρύθμιση αδιαφάνειας:</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
@@ -2262,11 +2263,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>ή</translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεγέθυνση:</translation>
     </message>
 </context>
 <context>

@@ -75,7 +75,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipasteの新しいバージョンがダウンロードされました：</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -83,11 +83,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロードフォルダを開く</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipasteを終了した後、Appを解凍してアプリケーションフォルダにドラッグしてください。</translation>
     </message>
 </context>
 <context>
@@ -130,26 +130,26 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Mac用ベータ版</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>コマンドを削除</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>このコマンドを削除してもよろしいですか？</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>名前を正しく入力してください！</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation >名前を正しく入力してください！</translation>
     </message>
 </context>
 <context>
@@ -324,7 +324,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>或は</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
@@ -686,11 +686,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>セルビア語</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
+        <translation>UI要素の検出を有効にするには、Snipasteはアクセシビリティコントロールが必要です。</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -698,11 +698,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>システム環境設定を開く</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>この機能を使用するには、システム環境設定にある「セキュリティとプライバシー」でこのアプリケーションへのアクセスを許可する。</translation>
     </message>
 </context>
 <context>
@@ -979,7 +979,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     <name>ShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation type="unfinished"></translation>
+        <translation>コマンドを編集</translation>
     </message>
     <message>
         <source>Snip</source>
@@ -1007,7 +1007,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Switch to the previous group</source>
-        <translation type="unfinished"></translation>
+        <translation>前のグループに切り替え</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1015,7 +1015,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>グローバルホットキーを無効/有効にする</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1277,7 +1277,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Download updates</source>
-        <translation type="unfinished"></translation>
+        <translation>更新をダウンロード</translation>
     </message>
 </context>
 <context>
@@ -1313,27 +1313,27 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>コマンドを追加</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>名前：</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>コマンド：</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>テスト</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセット</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2212,32 +2212,33 @@ Also affect the color value copying.</source>
     </message>
     <message>
         <source>Disable permanently</source>
-        <translation type="unfinished"></translation>
+        <translation>永久に無効にする</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>カーソルキャプチャが必要ない場合は、これをチェックしてください。
+スナッピングの応答時間が向上します。</translation>
     </message>
     <message>
         <source>Show notification</source>
-        <translation type="unfinished"></translation>
+        <translation>通知を表示</translation>
     </message>
     <message>
         <source>Add custom hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムホットキーを追加</translation>
     </message>
     <message>
         <source>Add new command</source>
-        <translation type="unfinished"></translation>
+        <translation>新規コマンドを追加</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>マウス</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>不透明度の調整：</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
@@ -2245,11 +2246,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>或は</translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>ズーム：</translation>
     </message>
 </context>
 <context>
