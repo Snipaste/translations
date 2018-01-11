@@ -75,7 +75,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Die neue Snipaste-Version wurde hierher heruntergeladen:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -83,11 +83,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne Download-Ordner</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte verschieben Sie die Anwendung nach dem Entpacken in den  Snipaste- Orner.Beenden Sie zuvor Snipaste. </translation>
     </message>
 </context>
 <context>
@@ -130,26 +130,26 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Betaversion für Mac</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>Entferne Befehl</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie diesen Befehl wirklich entfernen?</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Name darf nicht leer sein!</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Befehl darf nicht leer sein!</translation>
     </message>
 </context>
 <context>
@@ -324,7 +324,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>oder</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
@@ -687,11 +687,11 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbisch</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Um die Erkennung von Oberflächenelementen zu aktivieren, benötigt Snipaste Zugriffsrechte.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -699,11 +699,11 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne Systemeinstellungen</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn Sie diese Funktion wünschen, gewähren Sie bitte Zugriff auf diese Anwendung in den Einstellungen für Sicherheit und Datenschutz in den Systemeinstellungen.</translation>
     </message>
 </context>
 <context>
@@ -981,7 +981,7 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
     <name>ShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation type="unfinished"></translation>
+        <translation>Befehl bearbeiten</translation>
     </message>
     <message>
         <source>Snip</source>
@@ -1009,15 +1009,15 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
     </message>
     <message>
         <source>Switch to the previous group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zur vorherigen Gruppe wechseln</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished">Durchklicken mit de Maus umschalten</translation>
+        <translation>Durchklicken mit der Maus umschalten</translation>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivieren/aktivieren Sie die  globalen Hotkeys</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1221,7 +1221,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation>Durchklicken mit de Maus umschalten</translation>
+        <translation>Durchklicken mit der Maus umschalten</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -1283,7 +1283,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Download updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisierung herunterladen</translation>
     </message>
 </context>
 <context>
@@ -1319,27 +1319,27 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>Befehl hinzufügen</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Name:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Befehl:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Voreinstellungen</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Entfernen</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2222,32 +2222,33 @@ Hat Auswirkung auf den kopierten Farbwert.</translation>
     </message>
     <message>
         <source>Disable permanently</source>
-        <translation type="unfinished"></translation>
+        <translation>Dauerhaft deaktivieren</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren, falls Sie nie den Mauszeiger aufnehmen wollen.
+Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
     </message>
     <message>
         <source>Show notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Benachrichtigung anzeigen</translation>
     </message>
     <message>
         <source>Add custom hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierten Hotkey hinzufügen</translation>
     </message>
     <message>
         <source>Add new command</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuen Befehl hinzufügen</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Maus</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Deckkraft anpassen:</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
@@ -2255,11 +2256,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>oder</translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom:</translation>
     </message>
 </context>
 <context>

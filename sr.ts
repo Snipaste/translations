@@ -77,7 +77,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Нова верзија је преузета у:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -85,11 +85,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Отвори фасциклу</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Декомпресујте и повуците апликацију у фасцикли апликације после затварања Snipaste-а.</translation>
     </message>
 </context>
 <context>
@@ -132,26 +132,26 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Бета за Mac</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>Уклони команду</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>Сигурно уклонити команду?</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Име не може да буде празно!</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда не може да буде празна!</translation>
     </message>
 </context>
 <context>
@@ -326,7 +326,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>или</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
@@ -689,11 +689,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Српски</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Да би могли да нађете елементе, Snipaste треба да има контролу приступа.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -701,11 +701,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Отворити подешавања система</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако желите ову опцију, требате да дозволите овај програм у Security &amp; Privacyм у системска подешавања.</translation>
     </message>
 </context>
 <context>
@@ -983,7 +983,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     <name>ShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation type="unfinished"></translation>
+        <translation>Уредити команду</translation>
     </message>
     <message>
         <source>Snip</source>
@@ -1011,7 +1011,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Switch to the previous group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ићи на претходну групу</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1019,7 +1019,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Угаси/упали глобалне пречице</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1281,7 +1281,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Download updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Преузети ажурирања</translation>
     </message>
 </context>
 <context>
@@ -1317,27 +1317,27 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати команду</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Име:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Проба</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Подешавања</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Уклонити</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2218,44 +2218,45 @@ Also affect the color value copying.</source>
     </message>
     <message>
         <source>Disable permanently</source>
-        <translation type="unfinished"></translation>
+        <translation>Онемогућите трајно</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Одабраати ако Вам не требакурсор.
+Добићете боље време одзива приликом снимања.</translation>
     </message>
     <message>
         <source>Show notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати нотификацију</translation>
     </message>
     <message>
         <source>Add custom hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати Вашу пречицу</translation>
     </message>
     <message>
         <source>Add new command</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати нову команду</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Чиш</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Подеси опацитет:</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Точак миша</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>или</translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Зум:</translation>
     </message>
 </context>
 <context>

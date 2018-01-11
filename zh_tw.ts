@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>Writing downloaded file into</source>
-        <translation>正在將已下載檔案寫入到</translation>
+        <translation>正在將已下載檔案寫入至</translation>
     </message>
     <message>
         <source>Do you have write access to %1?</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Unzipped successfully.</source>
-        <translation>解壓成功。</translation>
+        <translation>解壓縮成功。</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -75,7 +75,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>新版 Snipaste 已經下載至:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -83,11 +83,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟下載資料夾</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>請結束 Snipaste 後，將其解壓縮並拖曳至&quot;應用程式&quot;資料夾以完成更新。</translation>
     </message>
 </context>
 <context>
@@ -110,7 +110,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Command Line Options</source>
-        <translation>指令行選項</translation>
+        <translation>命令列選項</translation>
     </message>
     <message>
         <source>Advanced Configs</source>
@@ -126,30 +126,30 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Changelog</source>
-        <translation>更新日誌</translation>
+        <translation>更新記錄</translation>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Mac 公測版</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>移除命令</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>確定要移除這個命令嗎?</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>名稱不能為空的!</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>命令不能为空的!</translation>
     </message>
 </context>
 <context>
@@ -168,27 +168,27 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation>把擷圖區域設定為上一次成功擷圖時的區域</translation>
+        <translation>將擷圖區域設定為上一次成功擷圖時的區域</translation>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
-        <translation>切換到上一次擷圖記錄</translation>
+        <translation>切換至上一次擷圖記錄</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
-        <translation>切換到下一次擷圖記錄</translation>
+        <translation>切換至下一次擷圖記錄</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
-        <translation>把擷圖區域相對版邊擴大 1 像素</translation>
+        <translation>將擷圖區域相對版邊擴大 1 像素</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
-        <translation>把擷圖區域相對版邊縮小 1 像素</translation>
+        <translation>將擷圖區域相對版邊縮小 1 像素</translation>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
-        <translation>直接把擷圖貼到螢幕</translation>
+        <translation>直接將擷圖貼到螢幕上</translation>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
@@ -264,7 +264,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the cursor by 1 pixel</source>
-        <translation>把游標移動 1 像素</translation>
+        <translation>將游標移動 1 像素</translation>
     </message>
     <message>
         <source>Arrow keys</source>
@@ -272,7 +272,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
-        <translation>非編輯狀態下，把擷圖區域/貼圖視窗移動 1 像素</translation>
+        <translation>非編輯狀態下，將擷圖區域/貼圖視窗移動 1 像素</translation>
     </message>
     <message>
         <source>Space</source>
@@ -284,11 +284,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Undo the last edit (can be redone later)</source>
-        <translation>還原上一次標註（可以再恢復）</translation>
+        <translation>還原上一次標註（可以再還原）</translation>
     </message>
     <message>
         <source>Remove all edits (cannot be undone)</source>
-        <translation>移除所有標註（無法再恢復）</translation>
+        <translation>移除所有標註（無法再還原）</translation>
     </message>
     <message>
         <source>Copy the image</source>
@@ -296,19 +296,19 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Restore the next edit</source>
-        <translation>恢復下一個標註</translation>
+        <translation>還原下一個標註</translation>
     </message>
     <message>
         <source>Save the image as a file</source>
-        <translation>把圖像儲存為檔案</translation>
+        <translation>將圖像儲存為檔案</translation>
     </message>
     <message>
         <source>Save the image to the Quick Save folder</source>
-        <translation>儲存圖像到快速儲存目錄</translation>
+        <translation>儲存圖像至快速儲存目錄</translation>
     </message>
     <message>
         <source>Send the image to the printer</source>
-        <translation>傳送圖像到印表機</translation>
+        <translation>傳送圖像至印表機</translation>
     </message>
     <message>
         <source>Finish editing current shape when in edit mode</source>
@@ -324,7 +324,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>或</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
@@ -631,7 +631,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>複製到剪貼簿</translation>
+        <translation>複製至剪貼簿</translation>
     </message>
     <message>
         <source>Pin to screen</source>
@@ -639,7 +639,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Save to file</source>
-        <translation>儲存到檔案</translation>
+        <translation>儲存至檔案</translation>
     </message>
     <message>
         <source>Quick save</source>
@@ -671,7 +671,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation>切換到另一個設定檔</translation>
+        <translation>切換至另一個設定檔</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
@@ -679,19 +679,19 @@ Startup on boot has been cancelled.</source>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>注意: 你將切換到另一個設定檔，檔案中的所有設定項將被套用，你目前的設定將被覆寫。
+        <translation>注意: 你將切換至另一個設定檔，檔案中的所有設定項將被套用，你目前的設定將被覆寫。
 
 此外，即使選擇了另一個設定檔，你也不能移除預設的設定檔，因為它記錄著你新的設定檔之位置。
 
-確定要切換到另一個設定檔嗎？</translation>
+確定要切換至另一個設定檔嗎？</translation>
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>塞爾維亞語</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
+        <translation>要啟用介面元素偵測，Snipaste 需要系統開啟輔助功能權限。</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -699,11 +699,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟系統設定</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>如需啟用該特性，請先至 系統偏好設定-安全性與隱私-隱私-輔助功能 新增 Snipaste.</translation>
     </message>
 </context>
 <context>
@@ -797,7 +797,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Move to group</source>
-        <translation>移動到分組</translation>
+        <translation>移動至分組</translation>
     </message>
     <message>
         <source>New group...</source>
@@ -943,11 +943,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Snipaste has been updated to %1.</source>
-        <translation>Snipaste 已成功更新到 %1.</translation>
+        <translation>Snipaste 已成功更新至 %1.</translation>
     </message>
     <message>
         <source>Click here to see the changelog</source>
-        <translation>點選這裡檢視更新日誌</translation>
+        <translation>點選這裡檢視更新記錄</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -981,7 +981,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     <name>ShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯命令</translation>
     </message>
     <message>
         <source>Snip</source>
@@ -1005,11 +1005,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Switch to another image group</source>
-        <translation>切換到另一貼圖組</translation>
+        <translation>切換至另一貼圖組</translation>
     </message>
     <message>
         <source>Switch to the previous group</source>
-        <translation type="unfinished"></translation>
+        <translation>切換至上一個分組</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1017,7 +1017,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>停用/啟用全域快速鍵</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1113,7 +1113,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Quit</source>
-        <translation>離開</translation>
+        <translation>結束</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1121,7 +1121,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Invalid command line options.</source>
-        <translation>無效的指令行參數。</translation>
+        <translation>無效的命令列參數。</translation>
     </message>
     <message>
         <source>%1 is not set!</source>
@@ -1141,7 +1141,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Failed to save the image to</source>
-        <translation>無法將圖像儲存到</translation>
+        <translation>無法將圖像儲存至</translation>
     </message>
     <message>
         <source>is already running.</source>
@@ -1157,7 +1157,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation>禁用快速鍵</translation>
+        <translation>停用快速鍵</translation>
     </message>
     <message>
         <source>Save image as</source>
@@ -1177,7 +1177,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Error Code</source>
-        <translation>錯誤語法</translation>
+        <translation>錯誤代碼</translation>
     </message>
     <message>
         <source>This group already exists.</source>
@@ -1197,7 +1197,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Switch to the imported group</source>
-        <translation>切換到匯入分組</translation>
+        <translation>切換至匯入分組</translation>
     </message>
     <message>
         <source>New group name:</source>
@@ -1271,7 +1271,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Release notes are currently not available.</source>
-        <translation>目前無法取得更新日誌。</translation>
+        <translation>目前無法取得更新記錄。</translation>
     </message>
     <message>
         <source>Are you sure you want to cancel the update?</source>
@@ -1315,27 +1315,27 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>新增命令</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>名稱:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>命令:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>測試</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>預設</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1361,7 +1361,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>licensedialog</name>
     <message>
         <source>Open source licenses</source>
-        <translation>開源協議</translation>
+        <translation>開源授權</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste:</source>
@@ -1446,7 +1446,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Add more commands to the tray menu.</source>
-        <translation>在工具列選單中加入更多指令。</translation>
+        <translation>在工具列選單中新增更多命令。</translation>
     </message>
     <message>
         <source>Enhanced tray menu</source>
@@ -1470,11 +1470,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Restore all settings on this page to their default states.</source>
-        <translation>恢復此頁的所有設定到預設狀態。</translation>
+        <translation>還原此頁的所有設定至預設狀態。</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation>恢復預設</translation>
+        <translation>還原預設</translation>
     </message>
     <message>
         <source>Auto detect the regions of windows when snipping.</source>
@@ -1526,7 +1526,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Log level:</source>
-        <translation>日誌層級:</translation>
+        <translation>記錄層級:</translation>
     </message>
     <message>
         <source>Open log file</source>
@@ -1534,7 +1534,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Hover over an option to see its detailed explanation.</source>
-        <translation>將滑鼠指標懸停在選項上可檢視詳細說明。</translation>
+        <translation>將滑鼠游標暫留在選項上可檢視詳細說明。</translation>
     </message>
     <message>
         <source>Display</source>
@@ -1593,8 +1593,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
         <translation>複製圖像時使用 Windows Bitmap 格式，從而
-可以把它貼上到一些特殊應用程式（如 Skype），但
-同時會丟失圖像的透明通道。</translation>
+可以將它貼到一些特殊應用程式（如 Skype），但
+同時會遺失圖像的透明通道。</translation>
     </message>
     <message>
         <source>Copy as Windows Bitmap</source>
@@ -1610,19 +1610,19 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Quit snipping if any window of other programs is activated.</source>
-        <translation>擷圖時如有其他程式視窗被啟用，自動離開擷圖。</translation>
+        <translation>擷圖時如有其他程式視窗被啟用，自動結束擷圖。</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
-        <translation>擷圖時如有其他程式視窗被啟用，自動離開擷圖</translation>
+        <translation>擷圖時如有其他程式視窗被啟用，自動結束擷圖</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key action:</source>
-        <translation>Enter鍵功能:</translation>
+        <translation>Enter 鍵功能:</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
-        <translation>擷圖時按下Enter鍵執行的動作。</translation>
+        <translation>擷圖時按下 Enter 鍵執行的動作。</translation>
     </message>
     <message>
         <source>then</source>
@@ -1630,11 +1630,11 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>quit snipping</source>
-        <translation>離開擷圖</translation>
+        <translation>結束擷圖</translation>
     </message>
     <message>
         <source>Ignore the left Windows key when snipping.</source>
-        <translation>擷圖時封鎖左Win鍵。</translation>
+        <translation>擷圖時封鎖左 Win 鍵。</translation>
     </message>
     <message>
         <source>Left</source>
@@ -1642,7 +1642,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
-        <translation>擷圖時封鎖右Win鍵。</translation>
+        <translation>擷圖時封鎖右 Win 鍵。</translation>
     </message>
     <message>
         <source>Right</source>
@@ -1666,7 +1666,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
-        <translation>當擷圖被儲存到剪貼簿時播放音效。</translation>
+        <translation>當擷圖被儲存至剪貼簿時播放音效。</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
@@ -1682,7 +1682,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Mnemonics on the context menu</source>
-        <translation>在右鍵功能表顯示選單助記鍵</translation>
+        <translation>在右鍵選單顯示助憶鍵</translation>
     </message>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
@@ -1690,7 +1690,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>at mouse cursor</source>
-        <translation>以滑鼠指標為中心</translation>
+        <translation>以滑鼠游標為中心</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -1706,11 +1706,11 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Flash the image windows after you have switched to another image group.</source>
-        <translation>切換到另一貼圖分組時自動閃爍所有貼圖視窗一次。</translation>
+        <translation>切換至另一貼圖分組時自動閃爍所有貼圖視窗一次。</translation>
     </message>
     <message>
         <source>Flash after switching to another group</source>
-        <translation>切換到另一分組時貼圖自動閃爍</translation>
+        <translation>切換至另一分組時貼圖自動閃爍</translation>
     </message>
     <message>
         <source>If not checked, the original window will be automatically hidden for drag-and-drop.</source>
@@ -1722,7 +1722,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Never paste file paths</source>
-        <translation>不把檔案路徑轉化成貼圖</translation>
+        <translation>不將檔案路徑轉化為貼圖</translation>
     </message>
     <message>
         <source>Let new image windows have shadows.
@@ -1787,12 +1787,12 @@ Range: 10 - 100</source>
     </message>
     <message>
         <source>Max recoverable closed images:</source>
-        <translation>可被恢復的貼圖數:</translation>
+        <translation>可被還原的貼圖數:</translation>
     </message>
     <message>
         <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
-        <translation>被關閉的貼圖視窗可以透過再次按下貼圖鍵來恢復，只要已經被關閉的貼圖數沒有超過這個值。
+        <translation>被關閉的貼圖視窗可以透過再次按下貼圖鍵來還原，只要已經被關閉的貼圖數沒有超過這個值。
 當已關閉的貼圖數超過這個值時，最早被關閉的貼圖將被銷毀。</translation>
     </message>
     <message>
@@ -1853,7 +1853,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Grammar:</source>
-        <translation>語法:</translation>
+        <translation>文法:</translation>
     </message>
     <message>
         <source>Auto Save</source>
@@ -1861,7 +1861,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Automatically save every screenshot will be saved to this folder.</source>
-        <translation>所有擷圖將被自動儲存到該資料夾。</translation>
+        <translation>所有擷圖將被自動儲存至該資料夾。</translation>
     </message>
     <message>
         <source>Browse the auto save folder.</source>
@@ -1923,7 +1923,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Licenses</source>
-        <translation>開源協議</translation>
+        <translation>開源授權</translation>
     </message>
     <message>
         <source>Max width:</source>
@@ -2059,13 +2059,13 @@ You can also find this option in the context menu of individual image window.</s
         <source>If you copy an image file, the first paste will show the image, the second paste will show the file path.
 If you copy a non-image file, a paste will immediately show the file path.
 If this option is checked, the above features will be disabled.</source>
-        <translation>如果你複製了一個圖片檔案，第一次按貼圖鍵會把圖像貼圖，再按貼圖鍵會把檔案路徑貼出。
-如果你複製了一個非圖片檔案，按貼圖鍵會把檔案路徑貼圖。
+        <translation>如果你複製了一個圖片檔案，第一次按貼圖鍵會將圖像貼圖，再按貼圖鍵會將檔案路徑貼出。
+如果你複製了一個非圖片檔案，按貼圖鍵會將檔案路徑貼圖。
 如果勾選了這個選項，以上特性將被停用。</translation>
     </message>
     <message>
         <source>Backup the states of the image windows so that they can be recovered the next time you open Snipaste.</source>
-        <translation>備份所有貼圖視窗的狀態，使得下次啟動 Snipaste 時能夠恢復。</translation>
+        <translation>備份所有貼圖視窗的狀態，使得下次啟動 Snipaste 時能夠還原。</translation>
     </message>
     <message>
         <source>The max width of the image converted from text</source>
@@ -2207,7 +2207,7 @@ Also affect the color value copying.</source>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>複製到剪貼簿</translation>
+        <translation>複製至剪貼簿</translation>
     </message>
     <message>
         <source>Disable mouse scrolling</source>
@@ -2215,32 +2215,33 @@ Also affect the color value copying.</source>
     </message>
     <message>
         <source>Disable permanently</source>
-        <translation type="unfinished"></translation>
+        <translation>永久停用</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你不需要擷取游標，請勾選此項。
+你將獲得更快的擷圖回應速度。</translation>
     </message>
     <message>
         <source>Show notification</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示通知</translation>
     </message>
     <message>
         <source>Add custom hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>新增自訂快速鍵</translation>
     </message>
     <message>
         <source>Add new command</source>
-        <translation type="unfinished"></translation>
+        <translation>加入新的命令</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>滑鼠</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>調整透明度:</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
@@ -2252,7 +2253,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>貼圖縮放:</translation>
     </message>
 </context>
 <context>
@@ -2279,7 +2280,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
-        <translation>複製到剪貼簿 (Ctrl+C)</translation>
+        <translation>複製至剪貼簿 (Ctrl+C)</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -2303,7 +2304,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
-        <translation>儲存到檔案 (Ctrl+S)</translation>
+        <translation>儲存至檔案 (Ctrl+S)</translation>
     </message>
     <message>
         <source>Finish edit (Esc)</source>
@@ -2311,7 +2312,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
-        <translation>離開擷圖 (Esc)</translation>
+        <translation>結束擷圖 (Esc)</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
