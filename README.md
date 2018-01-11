@@ -47,8 +47,8 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Language              | Code  | Status      | Contributors |
 | --------------------- | ----- | ----------- | ------------ |
 | Chinese (Simplified)  | zh_cn | 📕 v1.16    | [liulex](https://github.com/liulex) |
-| Chinese (Traditional) | zh_tw | 📖 v1.15.2  | [zhtw](http://greedphantom.blogspot.tw) |
-| German                | de_de | 📖 v1.15.2  | [Samuel Marcius](http://www.fontenvironment.com) |
+| Chinese (Traditional) | zh_tw | 📕 v1.16    | [zhtw](http://greedphantom.blogspot.tw) |
+| German                | de_de | 📕 v1.16    | [Samuel Marcius](http://www.fontenvironment.com) |
 | Greek                 | el_gr | 📕 v1.16    | [geogeo.gr](http://www.geogeo.gr) |
 | Swedish               | sv    | 📖 v1.14    | [Åke Engelbrektson](https://svenskasprakfiler.se) |
 | Japanese              | ja_jp | 📕 v1.16    | 鳳凰院カミ, [Sayori Studio](https://t.me/SayoriStudio) |
@@ -61,7 +61,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Russian               | ru    | 📖 v1.14    | [vanja-san](https://github.com/vanja-san) |
 | Arabic                | ar_jo | 📖 v1.15.2  | MFMDawdeh |
 | Turkish               | tr_tr | 📖 v1.15.2  | [mthryilmaz](https://github.com/mthryilmaz) |
-| Serbian               | sr    | 📖 v1.15.2  | [ozzii.translate](mailto:ozzii.translate@gmail.com) |
+| Serbian               | sr    | 📕 v1.16    | [ozzii.translate](mailto:ozzii.translate@gmail.com) |
 
 ## Contact
 
