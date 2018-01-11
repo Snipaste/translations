@@ -143,7 +143,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation>Weet u zeker dat u deze opdracht wilt verwijderen?/translation>
+        <translation>Weet u zeker dat u deze opdracht wilt verwijderen?</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
