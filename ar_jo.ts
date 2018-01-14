@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ar_JO">
+<TS version="2.0" language="ar_JO">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -75,7 +75,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>الى Snipaste تم تحميل الاصدار الجديد من:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -83,11 +83,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح مجلد التحميل</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste الرجاء فك الضغط واسحب التطبيق الى مجلد التطبيقات بعد الاقلاع عن.</translation>
     </message>
 </context>
 <context>
@@ -130,26 +130,26 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Beta for Mac</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>أزاله الأمر</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد بالتاكيد ازاله هذا الامر ؟</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن ان يكون الاسم فارغا!</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن ان يكون الامر فارغا!</translation>
     </message>
 </context>
 <context>
@@ -324,7 +324,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>او</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
@@ -685,11 +685,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>الصربية</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
+        <translation>التحكم في امكانيه الوصول Snipaste لتمكين الكشف عن عنصر واجهه المستخدم ، يتطلب.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -697,11 +697,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح تفضيلات النظام</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>اذا كنت تريد هذه الميزة ، الرجاء منح الوصول لهذا التطبيق في تفضيلات الامان &amp;الخصوصية ، الموجود في تفضيلات النظام.</translation>
     </message>
 </context>
 <context>
@@ -978,7 +978,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     <name>ShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation type="unfinished"></translation>
+        <translation>امر تحرير</translation>
     </message>
     <message>
         <source>Snip</source>
@@ -1006,7 +1006,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Switch to the previous group</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل إلى المجموعة السابقة</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1014,7 +1014,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل/تمكين مفاتيح الاختصار العالمية</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1276,7 +1276,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Download updates</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل التحديثات</translation>
     </message>
 </context>
 <context>
@@ -1312,27 +1312,27 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>امر اضافه</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>الاسم:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>الامر:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>اختبار</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>المسبقة</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>ازالة</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2200,44 +2200,44 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Disable permanently</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل بشكل دائم</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحقق من ذلك اذا لم تكن بحاجه الى التقاط المؤشر. سوف تحصل على افضل وقت للاستجابة على دخول القص.</translation>
     </message>
     <message>
         <source>Show notification</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار الاعلام</translation>
     </message>
     <message>
         <source>Add custom hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>أضافه مفتاح ساخن مخصص</translation>
     </message>
     <message>
         <source>Add new command</source>
-        <translation type="unfinished"></translation>
+        <translation>اضافه امر جديد</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>فأرة</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>ضبط العتامه:</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>عجلة التمرير</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>او</translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير/تصغير:</translation>
     </message>
 </context>
 <context>
