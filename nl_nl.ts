@@ -904,7 +904,7 @@ De sneltoets voor Muis-doorklikken kunt u vinden in Voorkeuren - Sneltoetsen.</t
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation>Automatische start niet kunnen instellen.U moet dit mogelijk eerst handmatig instellen in Taakbeheer.</translation>
+        <translation>Automatisch starten niet kunnen instellen. U moet dit mogelijk handmatig instellen in Taakbeheer.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
