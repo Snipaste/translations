@@ -452,7 +452,7 @@ Druk ESC om te annulleren</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation>&Blauw:</translation>
+        <translation>&amp;Blauw:</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
