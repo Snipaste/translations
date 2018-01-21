@@ -168,7 +168,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation>将截屏区域设置为上一次成功截图时的区域</translation>
+        <translation>将截屏区域设置为上一次成功截屏时的区域</translation>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
@@ -385,7 +385,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Snip hotkey</source>
-        <translation>截图快捷键</translation>
+        <translation>截屏快捷键</translation>
     </message>
     <message>
         <source>Paste hotkey</source>
@@ -973,12 +973,6 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>错误</translation>
     </message>
     <message>
-        <source>Cannot write into the config file.
-All settings will use defaults.</source>
-        <translation type="obsolete">无法写入配置文件，
-所有设置将使用默认值。</translation>
-    </message>
-    <message>
         <source>No write permission on the config file!</source>
         <translation>无法写入配置文件！</translation>
     </message>
@@ -987,7 +981,7 @@ All settings will use defaults.</source>
     <name>ShortcutContainer</name>
     <message>
         <source>Snip</source>
-        <translation>截图</translation>
+        <translation>截屏</translation>
     </message>
     <message>
         <source>Snip and copy</source>
@@ -1038,20 +1032,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Press shortcut</source>
         <translation>按下快捷键</translation>
     </message>
-    <message>
-        <source>Snip:</source>
-        <translation type="obsolete">截屏:</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation type="obsolete">截图</translation>
-    </message>
 </context>
 <context>
     <name>Snipaste</name>
     <message>
         <source>Snip</source>
-        <translation>截图</translation>
+        <translation>截屏</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1258,7 +1244,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation>确定要退出截图吗？</translation>
+        <translation>确定要退出截屏吗？</translation>
     </message>
     <message>
         <source>Do not show this again</source>
@@ -1424,7 +1410,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip</source>
-        <translation>截图</translation>
+        <translation>截屏</translation>
     </message>
     <message>
         <source>Colors:</source>
@@ -1454,7 +1440,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Auto detect the regions of windows when snipping.</source>
-        <translation>截图时自动检测窗口区域。</translation>
+        <translation>截屏时自动检测窗口区域。</translation>
     </message>
     <message>
         <source>Auto detect windows</source>
@@ -1462,7 +1448,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
-        <translation>截图时自动检测窗口元素区域（如按钮和菜单）。</translation>
+        <translation>截屏时自动检测窗口元素区域（如按钮和菜单）。</translation>
     </message>
     <message>
         <source>Auto detect UI elements</source>
@@ -1470,7 +1456,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Ignore the left Windows key when snipping.</source>
-        <translation>截图时屏蔽左 Win 键。</translation>
+        <translation>截屏时屏蔽左 Win 键。</translation>
     </message>
     <message>
         <source>Left</source>
@@ -1478,7 +1464,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
-        <translation>截图时屏蔽右 Win 键。</translation>
+        <translation>截屏时屏蔽右 Win 键。</translation>
     </message>
     <message>
         <source>Right</source>
@@ -1513,7 +1499,7 @@ You can also find this option in the context menu of individual image window.</s
     <message>
         <source>If the source is a screenshot, show it where you snipped.
 If disabled, it would always be shown at the center of the primary screen.</source>
-        <translation>如果贴图来源是屏幕截图，贴在截图时的位置。
+        <translation>如果贴图来源是屏幕截图，贴在截屏时的位置。
 如果不选中，贴图则总是出现在主屏幕中央。</translation>
     </message>
     <message>
@@ -1590,11 +1576,11 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Quit snipping if any window of other programs is activated.</source>
-        <translation>截图时如有其他程序窗口被激活，自动退出截图。</translation>
+        <translation>截屏时如有其他程序窗口被激活，自动退出截屏。</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
-        <translation>截图时如有其他程序窗口被激活，自动退出截图</translation>
+        <translation>截屏时如有其他程序窗口被激活，自动退出截屏</translation>
     </message>
     <message>
         <source>Sound Effect</source>
@@ -1714,15 +1700,15 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
-        <translation>也可以在截图时按下 Tab 键进行临时切换。</translation>
+        <translation>也可以在截屏时按下 Tab 键进行临时切换。</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>也可以在截图时按下 ` 键来显示/隐藏已捕获的光标。</translation>
+        <translation>也可以在截屏时按下 ` 键来显示/隐藏已捕获的光标。</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
-        <translation>截图时按下回车键执行的动作。</translation>
+        <translation>截屏时按下回车键执行的动作。</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -1922,12 +1908,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>自定义</translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
- Also affect the color value copying.</source>
-        <translation type="obsolete">将放大镜中的颜色值显示为 Hex 而不是 RGB.
-同时也会影响颜色值的复制。</translation>
-    </message>
-    <message>
         <source>Use Hex value for color picker</source>
         <translation>取色器使用 Hex 颜色值</translation>
     </message>
@@ -1957,7 +1937,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>The mask color of snipping</source>
-        <translation>截图时的遮罩颜色</translation>
+        <translation>截屏时的遮罩颜色</translation>
     </message>
     <message>
         <source>Hide the 1x1 region indicator before you decide the snipping region.</source>
@@ -2095,7 +2075,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>quit snipping</source>
-        <translation>退出截图</translation>
+        <translation>退出截屏</translation>
     </message>
     <message>
         <source>Max number of history areas:</source>
@@ -2247,13 +2227,13 @@ Also affect the color value copying.</source>
     </message>
     <message>
         <source>Disable permanently</source>
-        <translation>永久禁用</translation>
+        <translation>完全禁用</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
         <translation>如果你永不需要捕捉光标，请勾选此项。
-你将获得更快的截图响应速度。</translation>
+你将获得更快的截屏响应速度。</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
@@ -2332,7 +2312,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
-        <translation>退出截图 (Esc)</translation>
+        <translation>退出截屏 (Esc)</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>

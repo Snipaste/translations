@@ -2215,7 +2215,7 @@ Also affect the color value copying.</source>
     </message>
     <message>
         <source>Disable permanently</source>
-        <translation>永久停用</translation>
+        <translation>完全停用</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
