@@ -111,11 +111,11 @@
     <name>QShortcut</name>
     <message>
         <source>+</source>
-        <translation></translation>
+        <translation>+</translation>
     </message>
     <message>
         <source>No</source>
-        <translation></translation>
+        <translation>Nee</translation>
     </message>
     <message>
         <source>Up</source>
@@ -123,115 +123,115 @@
     </message>
     <message>
         <source>Alt</source>
-        <translation></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>F%1</source>
-        <translation></translation>
+        <translation>F%1</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <source>End</source>
-        <translation></translation>
+        <translation>End</translation>
     </message>
     <message>
         <source>Esc</source>
-        <translation></translation>
+        <translation>Esc</translation>
     </message>
     <message>
         <source>Ins</source>
-        <translation></translation>
+        <translation>Ins</translation>
     </message>
     <message>
         <source>Tab</source>
-        <translation></translation>
+        <translation>Tab</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation></translation>
+        <translation>Terug</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation></translation>
+        <translation>Bellen</translation>
     </message>
     <message>
         <source>Ctrl</source>
-        <translation></translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation></translation>
+        <translation>Omlaag</translation>
     </message>
     <message>
         <source>Flip</source>
-        <translation></translation>
+        <translation>Omkeren</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation></translation>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation></translation>
+        <translation>Home</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation></translation>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>Meta</source>
-        <translation></translation>
+        <translation>Meta</translation>
     </message>
     <message>
         <source>PgUp</source>
-        <translation></translation>
+        <translation>PgUp</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation></translation>
+        <translation>Stoppen</translation>
     </message>
     <message>
         <source>Enter</source>
-        <translation></translation>
+        <translation>Enter</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation></translation>
+        <translation>Pauze</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation></translation>
+        <translation>Afdrukken</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation></translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation></translation>
+        <translation>Spatie</translation>
     </message>
     <message>
         <source>Media Record</source>
-        <translation></translation>
+        <translation>Media opnemen</translation>
     </message>
     <message>
         <source>Print Screen</source>
-        <translation></translation>
+        <translation>Schermafdruk</translation>
     </message>
     <message>
         <source>Treble Down</source>
@@ -239,111 +239,111 @@
     </message>
     <message>
         <source>Scroll Lock</source>
-        <translation></translation>
+        <translation>Scroll Lock</translation>
     </message>
     <message>
         <source>Volume Down</source>
-        <translation></translation>
+        <translation>Volume +</translation>
     </message>
     <message>
         <source>Volume Mute</source>
-        <translation></translation>
+        <translation>Dempen</translation>
     </message>
     <message>
         <source>Media Previous</source>
-        <translation></translation>
+        <translation>Vorige</translation>
     </message>
     <message>
         <source>Home Page</source>
-        <translation></translation>
+        <translation>Homepage</translation>
     </message>
     <message>
         <source>Volume Up</source>
-        <translation></translation>
+        <translation>Volume -</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation></translation>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Escape</source>
-        <translation></translation>
+        <translation>Escape</translation>
     </message>
     <message>
         <source>Hangup</source>
-        <translation></translation>
+        <translation>Ophangen</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation></translation>
+        <translation>Invoegen</translation>
     </message>
     <message>
         <source>Bass Boost</source>
-        <translation></translation>
+        <translation>Bas versterken</translation>
     </message>
     <message>
         <source>PgDown</source>
-        <translation></translation>
+        <translation>PgDown</translation>
     </message>
     <message>
         <source>Return</source>
-        <translation></translation>
+        <translation>Return</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation></translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation></translation>
+        <translation>Selecteren</translation>
     </message>
     <message>
         <source>SysReq</source>
-        <translation></translation>
+        <translation>SysReq</translation>
     </message>
     <message>
         <source>NumLock</source>
-        <translation></translation>
+        <translation>NumLock</translation>
     </message>
     <message>
         <source>ScrollLock</source>
-        <translation></translation>
+        <translation>ScrollLock</translation>
     </message>
     <message>
         <source>Context1</source>
-        <translation></translation>
+        <translation>Context1</translation>
     </message>
     <message>
         <source>Context2</source>
-        <translation></translation>
+        <translation>Context2</translation>
     </message>
     <message>
         <source>Context3</source>
-        <translation></translation>
+        <translation>Context3</translation>
     </message>
     <message>
         <source>Context4</source>
-        <translation></translation>
+        <translation>Context4</translation>
     </message>
     <message>
         <source>Page Up</source>
-        <translation></translation>
+        <translation>Page Up</translation>
     </message>
     <message>
         <source>Open URL</source>
-        <translation></translation>
+        <translation>URL openen</translation>
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation></translation>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>System Request</source>
-        <translation></translation>
+        <translation>System Request</translation>
     </message>
     <message>
         <source>CapsLock</source>
-        <translation></translation>
+        <translation>CapsLock</translation>
     </message>
     <message>
         <source>Backtab</source>
@@ -351,27 +351,27 @@
     </message>
     <message>
         <source>Bass Up</source>
-        <translation></translation>
+        <translation>Bas +</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation></translation>
+        <translation>Verversen</translation>
     </message>
     <message>
         <source>Launch Mail</source>
-        <translation></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Backspace</source>
-        <translation></translation>
+        <translation>Backspace</translation>
     </message>
     <message>
         <source>Bass Down</source>
-        <translation></translation>
+        <translation>Bas -</translation>
     </message>
     <message>
         <source>Standby</source>
-        <translation></translation>
+        <translation>Standby</translation>
     </message>
     <message>
         <source>Treble Up</source>
@@ -379,39 +379,39 @@
     </message>
     <message>
         <source>Num Lock</source>
-        <translation></translation>
+        <translation>Num Lock</translation>
     </message>
     <message>
         <source>Number Lock</source>
-        <translation></translation>
+        <translation>Num Lock</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation></translation>
+        <translation>Favorieten</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation></translation>
+        <translation>Volgende</translation>
     </message>
     <message>
         <source>Page Down</source>
-        <translation></translation>
+        <translation>Page Down</translation>
     </message>
     <message>
         <source>Media Play</source>
-        <translation></translation>
+        <translation>Media afspelen</translation>
     </message>
     <message>
         <source>Media Stop</source>
-        <translation></translation>
+        <translation>Media stoppen</translation>
     </message>
     <message>
         <source>Media Next</source>
-        <translation></translation>
+        <translation>Volgende</translation>
     </message>
     <message>
         <source>Launch Media</source>
-        <translation></translation>
+        <translation>Mediaspeler</translation>
     </message>
 </context>
 <context>
@@ -428,19 +428,19 @@ Druk ESC om te annulleren</translation>
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation></translation>
+        <translation>&amp;Rood:</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation></translation>
+        <translation>&amp;Sat:</translation>
     </message>
     <message>
         <source>&amp;Val:</source>
-        <translation></translation>
+        <translation>&amp;Val:</translation>
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation></translation>
+        <translation>HU&amp;e:</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -452,11 +452,11 @@ Druk ESC om te annulleren</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation></translation>
+        <translation>&Blauw:</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation></translation>
+        <translation>&amp;Groen:</translation>
     </message>
     <message>
         <source>&amp;Basic colors</source>
@@ -468,7 +468,7 @@ Druk ESC om te annulleren</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation></translation>
+        <translation>A&amp;lfa:</translation>
     </message>
 </context>
 <context>
@@ -545,123 +545,123 @@ Druk ESC om te annulleren</translation>
     <name>QFontDatabase</name>
     <message>
         <source>Any</source>
-        <translation></translation>
+        <translation>Elke</translation>
     </message>
     <message>
         <source>Lao</source>
-        <translation></translation>
+        <translation>Lao</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Demi</source>
-        <translation></translation>
+        <translation>Demi</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation></translation>
+        <translation>Thai</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation></translation>
+        <translation>Zwart</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation></translation>
+        <translation>Grieks</translation>
     </message>
     <message>
         <source>Khmer</source>
-        <translation></translation>
+        <translation>Khmer</translation>
     </message>
     <message>
         <source>Latin</source>
-        <translation></translation>
+        <translation>Latijn</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation></translation>
+        <translation>Light</translation>
     </message>
     <message>
         <source>Ogham</source>
-        <translation></translation>
+        <translation>Ogham</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation></translation>
+        <translation>Oriya</translation>
     </message>
     <message>
         <source>Runic</source>
-        <translation></translation>
+        <translation>Runic</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation></translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <source>Cyrillic</source>
-        <translation></translation>
+        <translation>Cyrillisch</translation>
     </message>
     <message>
         <source>Kannada</source>
-        <translation></translation>
+        <translation>Kannada</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation></translation>
+        <translation>Maleis</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
-        <translation></translation>
+        <translation>Vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Demi Bold</source>
-        <translation></translation>
+        <translation>Halfvet</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation></translation>
+        <translation>Arabisch</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation></translation>
+        <translation>Hebreeuws</translation>
     </message>
     <message>
         <source>Myanmar</source>
-        <translation></translation>
+        <translation>Myanmar</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation></translation>
+        <translation>Koreaans</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>Oblique</source>
-        <translation></translation>
+        <translation>Oblique</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation></translation>
+        <translation>Telugu</translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation></translation>
+        <translation>Thaana</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation></translation>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Syriac</source>
-        <translation></translation>
+        <translation>Syriac</translation>
     </message>
     <message>
         <source>Devanagari</source>
@@ -669,43 +669,43 @@ Druk ESC om te annulleren</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation></translation>
+        <translation>Japans</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation></translation>
+        <translation>Bengaals</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation></translation>
+        <translation>Armeens</translation>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation></translation>
+        <translation>Sinhala</translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation></translation>
+        <translation>Tibetaans</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation></translation>
+        <translation>Vietnamees</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation></translation>
+        <translation>Gujarati</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
-        <translation></translation>
+        <translation>Traditioneel Chinees</translation>
     </message>
     <message>
         <source>Georgian</source>
-        <translation></translation>
+        <translation>Georgisch</translation>
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation></translation>
+        <translation>Gurmukhi</translation>
     </message>
 </context>
 </TS>
