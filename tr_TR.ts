@@ -77,7 +77,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste&apos;in yeni sürümü şu dizine indirildi:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -85,11 +85,11 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>İndirilen klasörü aç</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen, dosyayı çıkartın ve Snipaste&apos;tan çıktıktan sonra uygulamayı, Uygulamalar klasörüne sürükleyin.</translation>
     </message>
 </context>
 <context>
@@ -132,26 +132,26 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Mac için Beta</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>Komutu kaldır</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu komutu kaldırmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ad boş olamaz!</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Komut boş olamaz!</translation>
     </message>
 </context>
 <context>
@@ -326,7 +326,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>veya</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
@@ -689,11 +689,11 @@ Başka bir yapılandırma dosyasına geçmek istediğinizden emin misiniz?</tran
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Sırpça</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
+        <translation>UI öğesi algılamayı etkinleştirmek için, Snipaste erişilebilirlik kontrolü gerektirir.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -701,11 +701,11 @@ Başka bir yapılandırma dosyasına geçmek istediğinizden emin misiniz?</tran
     </message>
     <message>
         <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem Tercihlerini Aç</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu özelliği isterseniz, lütfen bu uygulamaya Sistem Ayarları&apos;nda bulunan Güvenlik ve Gizlilik tercihlerinde erişim izni verin.</translation>
     </message>
 </context>
 <context>
@@ -983,7 +983,7 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     <name>ShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation type="unfinished"></translation>
+        <translation>Komutu düzenle</translation>
     </message>
     <message>
         <source>Snip</source>
@@ -1011,7 +1011,7 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     </message>
     <message>
         <source>Switch to the previous group</source>
-        <translation type="unfinished"></translation>
+        <translation>Önceki gruba geç</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1019,7 +1019,7 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Genel kısayol tuşlarını devredışı bırak / etkinleştir</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1281,7 +1281,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Download updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeleri indir</translation>
     </message>
 </context>
 <context>
@@ -1317,27 +1317,27 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>Komut ekle</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adı:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Komut:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Şablon</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2218,44 +2218,45 @@ Ayrıca, renk değeri kopyalamayı etkiler.</translation>
     </message>
     <message>
         <source>Disable permanently</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalıcı olarak devredışı bırak</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>İmleç yakalamaya ihtiyacınız yoksa bunu deneyin.
+Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     </message>
     <message>
         <source>Show notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildirimleri göster</translation>
     </message>
     <message>
         <source>Add custom hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel kısayol tuşu ekle</translation>
     </message>
     <message>
         <source>Add new command</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni komut ekle</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Fare</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opaklığı ayarlayın:</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Fare tekeri</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>veya</translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yakınlaştırma:</translation>
     </message>
 </context>
 <context>
