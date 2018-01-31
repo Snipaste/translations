@@ -211,7 +211,7 @@
     </message>
     <message>
         <source>Print</source>
-        <translation>Afdrukken</translation>
+        <translation>Print Screen</translation>
     </message>
     <message>
         <source>Right</source>
@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>Print Screen</source>
-        <translation>Schermafdruk</translation>
+        <translation>Print Screen</translation>
     </message>
     <message>
         <source>Treble Down</source>
