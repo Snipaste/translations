@@ -705,6 +705,60 @@ Are you sure you want to switch to another configuration file?</source>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>如需启用该特性，请先到 系统偏好设置-安全性与隐私-隐私-辅助功能 添加 Snipaste.</translation>
     </message>
+    <message>
+        <source>Mouse drag</source>
+        <translation>鼠标左键拖拽</translation>
+    </message>
+    <message>
+        <source>Transparent</source>
+        <translation>透明</translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation>伪透明</translation>
+    </message>
+    <message>
+        <source>Dark checkerboard</source>
+        <translation>暗色棋盘</translation>
+    </message>
+    <message>
+        <source>Light checkerboard</source>
+        <translation>亮色棋盘</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>截屏并贴图</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>截屏并自动复制</translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation>鼠标滚轮</translation>
+    </message>
+    <message>
+        <source>Invalid data!</source>
+        <translation>无效数据！</translation>
+    </message>
+    <message>
+        <source>Pallette data has been copied to the clipboard.
+Share it to your friends!</source>
+        <translation>调色板数据已被复制到剪贴板。
+分享给你的朋友们吧！</translation>
+    </message>
+    <message>
+        <source>Snipping</source>
+        <translation>截屏</translation>
+    </message>
+    <message>
+        <source>Existing image windows</source>
+        <translation>当前的贴图窗口</translation>
+    </message>
+    <message>
+        <source>Select color</source>
+        <translation>选择颜色</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -893,6 +947,14 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Hide other images for now</source>
         <translation>暂时隐藏其它贴图</translation>
     </message>
+    <message>
+        <source>Crop</source>
+        <translation>裁剪</translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation>伪透明</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1025,6 +1087,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Disable/Enable global hotkeys</source>
         <translation>禁用/启用全局快捷键</translation>
     </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation>显示托盘菜单</translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1074,10 +1140,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>No update available.</source>
         <translation>没有可用的更新。</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>延时截屏</translation>
     </message>
     <message>
         <source>Import group...</source>
@@ -1152,10 +1214,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>管理贴图组</translation>
     </message>
     <message>
-        <source>Snip and copy</source>
-        <translation>截屏并自动复制</translation>
-    </message>
-    <message>
         <source>Disable hotkeys</source>
         <translation>禁用快捷键</translation>
     </message>
@@ -1218,10 +1276,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Create new group...</source>
         <translation>新建分组...</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>鼠标穿透开关</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -1303,6 +1357,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
+    <message>
+        <source>Image groups:</source>
+        <translation>贴图组:</translation>
+    </message>
 </context>
 <context>
     <name>helpdialog</name>
@@ -1344,6 +1402,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Remove</source>
         <translation>移除</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>忽略程序列表:</translation>
+    </message>
+    <message>
+        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <translation>输入以英文逗号分隔的程序文件名（如: a.exe, b.exe）</translation>
     </message>
 </context>
 <context>
@@ -1561,10 +1627,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <message>
         <source>Capture the cursor</source>
         <translation>捕捉鼠标指针</translation>
-    </message>
-    <message>
-        <source>Copy as Windows Bitmap</source>
-        <translation>以 Windows Bitmap 格式复制图片</translation>
     </message>
     <message>
         <source>Click the mid-button to pin the screenshot to the screen.</source>
@@ -1912,14 +1974,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>取色器使用 Hex 颜色值</translation>
     </message>
     <message>
-        <source>Show the color picker usage tips on the magnifier.</source>
-        <translation>在放大镜中显示如何取色的操作提示。</translation>
-    </message>
-    <message>
-        <source>Show usage tips on the magnifier</source>
-        <translation>在放大镜中显示操作提示</translation>
-    </message>
-    <message>
         <source>Copy the Hex value without &apos;#&apos;</source>
         <translation>取色复制 Hex 颜色值时不要加 #</translation>
     </message>
@@ -2094,10 +2148,6 @@ If this option is checked, the above features will be disabled.</source>
         <translation>不把文件路径转化成贴图</translation>
     </message>
     <message>
-        <source>Hotkey</source>
-        <translation>快捷键</translation>
-    </message>
-    <message>
         <source>Update</source>
         <translation>更新</translation>
     </message>
@@ -2226,10 +2276,6 @@ Also affect the color value copying.</source>
         <translation>鼠标</translation>
     </message>
     <message>
-        <source>Disable permanently</source>
-        <translation>完全禁用</translation>
-    </message>
-    <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
         <translation>如果你永不需要捕捉光标，请勾选此项。
@@ -2238,10 +2284,6 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Adjust opacity:</source>
         <translation>调整透明度:</translation>
-    </message>
-    <message>
-        <source>Wheel scroll</source>
-        <translation>鼠标滚轮</translation>
     </message>
     <message>
         <source>or</source>
@@ -2254,6 +2296,170 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Add new command</source>
         <translation>添加新命令</translation>
+    </message>
+    <message>
+        <source>Magnifier</source>
+        <translation>放大镜</translation>
+    </message>
+    <message>
+        <source>Show usage tips</source>
+        <translation>显示操作提示</translation>
+    </message>
+    <message>
+        <source>Toolbar</source>
+        <translation>工具条</translation>
+    </message>
+    <message>
+        <source>Number of pen sizes:</source>
+        <translation>笔尖数量:</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.</source>
+        <translation>需要重启 Snipaste 以使修改生效。</translation>
+    </message>
+    <message>
+        <source>Disable completely</source>
+        <translation>完全禁用</translation>
+    </message>
+    <message>
+        <source>Control</source>
+        <translation>控制</translation>
+    </message>
+    <message>
+        <source>Tray Icon</source>
+        <translation>托盘图标</translation>
+    </message>
+    <message>
+        <source>Left click:</source>
+        <translation>左键点击:</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>预设</translation>
+    </message>
+    <message>
+        <source>Middle click:</source>
+        <translation>中键点击:</translation>
+    </message>
+    <message>
+        <source>Right click:</source>
+        <translation>右键点击:</translation>
+    </message>
+    <message>
+        <source>Show up automatically on entering snipping</source>
+        <translation>截屏时自动出现</translation>
+    </message>
+    <message>
+        <source>Show grid lines</source>
+        <translation>显示网格线</translation>
+    </message>
+    <message>
+        <source>Pixel scale:</source>
+        <translation>像素大小：</translation>
+    </message>
+    <message>
+        <source>Use separate colors for different shapes</source>
+        <translation>为不同标注形状分别记忆颜色</translation>
+    </message>
+    <message>
+        <source>Palette</source>
+        <translation>调色板</translation>
+    </message>
+    <message>
+        <source>Apply to</source>
+        <translation>应用到</translation>
+    </message>
+    <message>
+        <source>Import from clipboard</source>
+        <translation>从剪贴板导入</translation>
+    </message>
+    <message>
+        <source>Export to clipboard</source>
+        <translation>导出到剪贴板</translation>
+    </message>
+    <message>
+        <source>Include unsaved screenshots</source>
+        <translation>包含未保存的截图</translation>
+    </message>
+    <message>
+        <source>Default background mode:</source>
+        <translation>默认背景模式:</translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation>剪贴板</translation>
+    </message>
+    <message>
+        <source>Copy as Windows Bitmap:</source>
+        <translation>以 Windows Bitmap 格式复制图片:</translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation>截图</translation>
+    </message>
+    <message>
+        <source>Image windows</source>
+        <translation>贴图</translation>
+    </message>
+    <message>
+        <source>So that you can also paste the image into file explorer.</source>
+        <translation>这样你可以直接将图片粘贴到文件管理器中。</translation>
+    </message>
+    <message>
+        <source>Copy image as file</source>
+        <translation>复制为文件</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>文件</translation>
+    </message>
+    <message>
+        <source>Super Snip</source>
+        <translation>超级截屏</translation>
+    </message>
+    <message>
+        <source>Hot Corner</source>
+        <translation>触发角</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>启用</translation>
+    </message>
+    <message>
+        <source>Corner size:</source>
+        <translation>区域大小:</translation>
+    </message>
+    <message>
+        <source>Trigger delay:</source>
+        <translation>触发延迟:</translation>
+    </message>
+    <message>
+        <source>ms</source>
+        <translation>毫秒</translation>
+    </message>
+    <message>
+        <source>Check interval:</source>
+        <translation>检查间隔:</translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation>功能</translation>
+    </message>
+    <message>
+        <source>Top left:</source>
+        <translation>左上角:</translation>
+    </message>
+    <message>
+        <source>Top right:</source>
+        <translation>右上角:</translation>
+    </message>
+    <message>
+        <source>Bottom left:</source>
+        <translation>左下角:</translation>
+    </message>
+    <message>
+        <source>Bottom right:</source>
+        <translation>右下角:</translation>
     </message>
 </context>
 <context>

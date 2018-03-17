@@ -705,6 +705,59 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>Wenn Sie diese Funktion wünschen, gewähren Sie bitte Zugriff auf diese Anwendung in den Einstellungen für Sicherheit und Datenschutz in den Systemeinstellungen.</translation>
     </message>
+    <message>
+        <source>Mouse drag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transparent</source>
+        <translation type="unfinished">Transparent</translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark checkerboard</source>
+        <translation type="unfinished">Dunkles Schachbrettmuster</translation>
+    </message>
+    <message>
+        <source>Light checkerboard</source>
+        <translation type="unfinished">Helles Schachbrettmuster</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation type="unfinished">Aufnehmen und kopieren</translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation type="unfinished">Maus scrollen</translation>
+    </message>
+    <message>
+        <source>Invalid data!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pallette data has been copied to the clipboard.
+Share it to your friends!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Existing image windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select color</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -893,6 +946,14 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
         <source>Hide other images for now</source>
         <translation>Andere Bilder für jetzt verstecken</translation>
     </message>
+    <message>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1025,6 +1086,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Verknüpfung, um den Klick-Modus des Bildes unter dem Cursor umzuschalten.
 Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilder anklickbar gemacht.</translation>
     </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1074,10 +1139,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>No update available.</source>
         <translation>Kein Update verfügbar.</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>Verzögertes Aufnehmen</translation>
     </message>
     <message>
         <source>Import group...</source>
@@ -1152,10 +1213,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>Gruppen verwalten</translation>
     </message>
     <message>
-        <source>Snip and copy</source>
-        <translation>Aufnehmen und kopieren</translation>
-    </message>
-    <message>
         <source>Disable hotkeys</source>
         <translation>Hotkeys deaktivieren</translation>
     </message>
@@ -1218,10 +1275,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Create new group...</source>
         <translation>Neue Gruppe erstellen...</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>Durchklicken mit der Maus umschalten</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -1307,6 +1360,10 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
+    <message>
+        <source>Image groups:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>helpdialog</name>
@@ -1348,6 +1405,14 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1598,10 +1663,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
         <translation>Bild wird als Windows Bitmap kopiert, so dass es in spezielle Applikationen wie Skype eingefügt werden kann. Allerdings geht dabei der Alpha Kanal des Bildes verloren.</translation>
-    </message>
-    <message>
-        <source>Copy as Windows Bitmap</source>
-        <translation>Als Windows Bitmap kopieren</translation>
     </message>
     <message>
         <source>Click the mid-button to pin the screenshot to the screen.</source>
@@ -1963,14 +2024,6 @@ Geben Sie -1 an, damit Snipaste für Sie entscheiden kann.</translation>
         <translation>Hex-Werte für Farbwähler</translation>
     </message>
     <message>
-        <source>Show the color picker usage tips on the magnifier.</source>
-        <translation>Tipps für Farbwähler an der Lupe anzeigen.</translation>
-    </message>
-    <message>
-        <source>Show usage tips on the magnifier</source>
-        <translation>Tipps bei Verwendung der Lupe anzeigen</translation>
-    </message>
-    <message>
         <source>Copy the Hex value without &apos;#&apos;</source>
         <translation>Hex-Wert ohne # kopieren</translation>
     </message>
@@ -2113,10 +2166,6 @@ Wenn diese Option aktiviert ist, sind die o.g. Eigenschaften deaktiviert.</trans
         <translation>Das neue Bild erhält Tastatur-Fokus.</translation>
     </message>
     <message>
-        <source>Hotkey</source>
-        <translation>Hotkey</translation>
-    </message>
-    <message>
         <source>Update</source>
         <translation>Update</translation>
     </message>
@@ -2221,10 +2270,6 @@ Hat Auswirkung auf den kopierten Farbwert.</translation>
         <translation>Maus-Scrolling deaktivieren</translation>
     </message>
     <message>
-        <source>Disable permanently</source>
-        <translation>Dauerhaft deaktivieren</translation>
-    </message>
-    <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
         <translation>Aktivieren, falls Sie nie den Mauszeiger aufnehmen wollen.
@@ -2251,16 +2296,176 @@ Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
         <translation>Deckkraft anpassen:</translation>
     </message>
     <message>
-        <source>Wheel scroll</source>
-        <translation>Maus scrollen</translation>
-    </message>
-    <message>
         <source>or</source>
         <translation>oder</translation>
     </message>
     <message>
         <source>Zoom:</source>
         <translation>Zoom:</translation>
+    </message>
+    <message>
+        <source>Magnifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show up automatically on entering snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show usage tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show grid lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel scale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use separate colors for different shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of pen sizes:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import from clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable completely</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Include unsaved screenshots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default background mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy as Windows Bitmap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>So that you can also paste the image into file explorer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy image as file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super Snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished">Voreinstellungen</translation>
+    </message>
+    <message>
+        <source>Middle click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hot Corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Corner size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trigger delay:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check interval:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top right:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom right:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

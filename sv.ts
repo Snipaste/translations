@@ -703,6 +703,59 @@ Are you sure you want to switch to another configuration file?</source>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Mouse drag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transparent</source>
+        <translation type="unfinished">Transparent</translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark checkerboard</source>
+        <translation type="unfinished">Mörkt schackbräde</translation>
+    </message>
+    <message>
+        <source>Light checkerboard</source>
+        <translation type="unfinished">Ljust schackbräde</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation type="unfinished">Klipp och kopiera</translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid data!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pallette data has been copied to the clipboard.
+Share it to your friends!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Existing image windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select color</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -890,6 +943,14 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Hide other images for now</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1019,6 +1080,10 @@ Du kan starta om Snipaste som administratör och försöka igen.</translation>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1160,10 +1225,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Växla till den importerade gruppen</translation>
     </message>
     <message>
-        <source>Delayed snip</source>
-        <translation>Fördröjt klipp</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -1204,20 +1265,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Starta om</translation>
     </message>
     <message>
-        <source>Snip and copy</source>
-        <translation>Klipp och kopiera</translation>
-    </message>
-    <message>
         <source>Manage groups</source>
         <translation>Hantera grupper</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
         <translation>Inaktivera snabbtangenter</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -1299,6 +1352,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
+    <message>
+        <source>Image groups:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>helpdialog</name>
@@ -1340,6 +1397,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>Avbryt</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1487,10 +1552,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Language:</source>
         <translation>Språk:</translation>
-    </message>
-    <message>
-        <source>Hotkey</source>
-        <translation>Snabbtangent</translation>
     </message>
     <message>
         <source>Backup the states of the image windows so that they can be recovered the next time you open Snipaste.</source>
@@ -1663,14 +1724,6 @@ Vid kopiering av icke bildfil, kommer inklistring att visa filens sökväg direk
 Om detta alternativ aktiveras, kommer ovanstående funktioner att inaktiveras.</translation>
     </message>
     <message>
-        <source>Show the color picker usage tips on the magnifier.</source>
-        <translation>Visa användartips för färgväljare, på förstoringsglaset.</translation>
-    </message>
-    <message>
-        <source>Show usage tips on the magnifier</source>
-        <translation>Visa användartips på förstoringsglaset</translation>
-    </message>
-    <message>
         <source>Quick Save</source>
         <translation>Snabbspara</translation>
     </message>
@@ -1765,10 +1818,6 @@ However, in the meantime, the alpha channel of the image is lost.</source>
         <translation>Låt bilden kopieras som Windows Bitmap (BMP), så att du
 kan klistra in den den i specialprogram som t.ex. Skype.
 Bildens alfakanal kommer dock att förloras.</translation>
-    </message>
-    <message>
-        <source>Copy as Windows Bitmap</source>
-        <translation>Kopiera som Windows Bitmap</translation>
     </message>
     <message>
         <source>Click the mid-button to pin the screenshot to the screen.</source>
@@ -2211,10 +2260,6 @@ Påverkar också färgvärdeskopiering.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable permanently</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
         <translation type="unfinished"></translation>
@@ -2240,15 +2285,175 @@ You will gain better response time on entering snipping.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Wheel scroll</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>or</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zoom:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magnifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show up automatically on entering snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show usage tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show grid lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel scale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use separate colors for different shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of pen sizes:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import from clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable completely</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Include unsaved screenshots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default background mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy as Windows Bitmap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>So that you can also paste the image into file explorer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy image as file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super Snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hot Corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Corner size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trigger delay:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check interval:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top right:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom right:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ar_JO">
+<TS version="2.1" language="ar_JO">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -703,6 +703,59 @@ Are you sure you want to switch to another configuration file?</source>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>اذا كنت تريد هذه الميزة ، الرجاء منح الوصول لهذا التطبيق في تفضيلات الامان &amp;الخصوصية ، الموجود في تفضيلات النظام.</translation>
     </message>
+    <message>
+        <source>Mouse drag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transparent</source>
+        <translation type="unfinished">شفاف</translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark checkerboard</source>
+        <translation type="unfinished">لوحه الشطرنج الداكنة</translation>
+    </message>
+    <message>
+        <source>Light checkerboard</source>
+        <translation type="unfinished">لوحه الشطرنج الخفيفة</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation type="unfinished">قص و نسخ</translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation type="unfinished">عجلة التمرير</translation>
+    </message>
+    <message>
+        <source>Invalid data!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pallette data has been copied to the clipboard.
+Share it to your friends!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Existing image windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select color</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -891,6 +944,14 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Hide other images for now</source>
         <translation>اخفاء الصور الاخرى الان</translation>
     </message>
+    <message>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1021,6 +1082,10 @@ You may restart Snipaste with admin privileges and try again.</source>
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>الاختصار لتبديل وضع النقرة من الصورة تحت المؤشر. إذا لم يكن اطار الصورة تحت المؤشر ،
 سيتم النقر على جميع الصور الغير قابلة للنقر.</translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1193,10 +1258,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>هذه المجموعة موجودة بالفعل.</translation>
     </message>
     <message>
-        <source>Snip and copy</source>
-        <translation>قص و نسخ</translation>
-    </message>
-    <message>
         <source>Switch to the imported group</source>
         <translation>التبديل الى المجموعة المستوردة</translation>
     </message>
@@ -1205,20 +1266,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>تحقق من وجود تحديثات...</translation>
     </message>
     <message>
-        <source>Delayed snip</source>
-        <translation>القصاصة المؤجلة</translation>
-    </message>
-    <message>
         <source>Manage groups</source>
         <translation>أداره المجموعات</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
         <translation>تعطيل مفاتيح الاختصار</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>تبديل الماوس من خلال النقر</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -1300,6 +1353,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Cancel</source>
         <translation>الغاء الامر</translation>
     </message>
+    <message>
+        <source>Image groups:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>helpdialog</name>
@@ -1341,6 +1398,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>الغاء الامر</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1525,10 +1590,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>لون الخلفية المستخدمة لتحويل النص العادي</translation>
     </message>
     <message>
-        <source>Copy as Windows Bitmap</source>
-        <translation>نسخ كصوره نقطية لنوافذ</translation>
-    </message>
-    <message>
         <source>Toggle thumbnail:</source>
         <translation>تبديل الصورة المصغرة:</translation>
     </message>
@@ -1579,10 +1640,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Open source softwares used in Snipaste</source>
         <translation>فتح مصدر البرمجيات المستخدمة في القص</translation>
-    </message>
-    <message>
-        <source>Show the color picker usage tips on the magnifier.</source>
-        <translation>اظهار تلميحات استخدام منتقي الوان علي المكبر.</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
@@ -1671,10 +1728,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Language:</source>
         <translation>اللغة:</translation>
-    </message>
-    <message>
-        <source>Hotkey</source>
-        <translation>مفتاح نشط</translation>
     </message>
     <message>
         <source>If not checked, the original window will be automatically hidden for drag-and-drop.</source>
@@ -1852,10 +1905,6 @@ Please report to the developer if you find any.</source>
     <message>
         <source>Let the image window be translucent if its border is flashing.</source>
         <translation>دع نافذه الصورة تكون شفافة اذا كانت الحدود تومض.</translation>
-    </message>
-    <message>
-        <source>Show usage tips on the magnifier</source>
-        <translation>اظهار تلميحات الاستخدام علي المكبر</translation>
     </message>
     <message>
         <source>Restore all settings on this page to their default states.</source>
@@ -2199,10 +2248,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <translation>تعطيل تمرير الماوس</translation>
     </message>
     <message>
-        <source>Disable permanently</source>
-        <translation>تعطيل بشكل دائم</translation>
-    </message>
-    <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
         <translation>تحقق من ذلك اذا لم تكن بحاجه الى التقاط المؤشر. سوف تحصل على افضل وقت للاستجابة على دخول القص.</translation>
@@ -2228,16 +2273,176 @@ You will gain better response time on entering snipping.</source>
         <translation>ضبط العتامه:</translation>
     </message>
     <message>
-        <source>Wheel scroll</source>
-        <translation>عجلة التمرير</translation>
-    </message>
-    <message>
         <source>or</source>
         <translation>او</translation>
     </message>
     <message>
         <source>Zoom:</source>
         <translation>تكبير/تصغير:</translation>
+    </message>
+    <message>
+        <source>Magnifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show up automatically on entering snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show usage tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show grid lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel scale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use separate colors for different shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of pen sizes:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import from clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable completely</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Include unsaved screenshots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default background mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy as Windows Bitmap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>So that you can also paste the image into file explorer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy image as file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super Snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished">المسبقة</translation>
+    </message>
+    <message>
+        <source>Middle click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hot Corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Corner size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trigger delay:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check interval:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top right:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom right:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

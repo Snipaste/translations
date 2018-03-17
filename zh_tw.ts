@@ -705,6 +705,59 @@ Are you sure you want to switch to another configuration file?</source>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>如需啟用該特性，請先至 系統偏好設定-安全性與隱私-隱私-輔助功能 新增 Snipaste.</translation>
     </message>
+    <message>
+        <source>Mouse drag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transparent</source>
+        <translation type="unfinished">透明</translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark checkerboard</source>
+        <translation type="unfinished">暗色棋盤</translation>
+    </message>
+    <message>
+        <source>Light checkerboard</source>
+        <translation type="unfinished">亮色棋盤</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation type="unfinished">擷取螢幕並自動複製</translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation type="unfinished">滑鼠滾輪</translation>
+    </message>
+    <message>
+        <source>Invalid data!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pallette data has been copied to the clipboard.
+Share it to your friends!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Existing image windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select color</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -893,6 +946,14 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Hide other images for now</source>
         <translation>暫時隱藏其它貼圖</translation>
     </message>
+    <message>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1025,6 +1086,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>該快速鍵用於開啟/關閉游標所在位置的貼圖的滑鼠穿透狀態。
 如果快速鍵按下時沒有貼圖位於游標之下，則會取消所有貼圖的滑鼠穿透狀態。</translation>
     </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1074,10 +1139,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>No update available.</source>
         <translation>沒有可用的更新。</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>延時擷取螢幕</translation>
     </message>
     <message>
         <source>Import group...</source>
@@ -1152,10 +1213,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>管理貼圖組</translation>
     </message>
     <message>
-        <source>Snip and copy</source>
-        <translation>擷取螢幕並自動複製</translation>
-    </message>
-    <message>
         <source>Disable hotkeys</source>
         <translation>停用快速鍵</translation>
     </message>
@@ -1218,10 +1275,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Create new group...</source>
         <translation>新增分組...</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>滑鼠穿透開關</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -1303,6 +1356,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
+    <message>
+        <source>Image groups:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>helpdialog</name>
@@ -1344,6 +1401,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1595,10 +1660,6 @@ However, in the meantime, the alpha channel of the image is lost.</source>
         <translation>複製圖像時使用 Windows Bitmap 格式，從而
 可以將它貼到一些特殊應用程式（如 Skype），但
 同時會遺失圖像的透明通道。</translation>
-    </message>
-    <message>
-        <source>Copy as Windows Bitmap</source>
-        <translation>以 Windows Bitmap 格式複製圖片</translation>
     </message>
     <message>
         <source>Click the mid-button to pin the screenshot to the screen.</source>
@@ -1966,14 +2027,6 @@ Please report to the developer if you find any.</source>
         <translation>取色器使用 Hex 色彩值</translation>
     </message>
     <message>
-        <source>Show the color picker usage tips on the magnifier.</source>
-        <translation>在放大鏡中顯示如何取色的操作提示。</translation>
-    </message>
-    <message>
-        <source>Show usage tips on the magnifier</source>
-        <translation>在放大鏡中顯示操作提示</translation>
-    </message>
-    <message>
         <source>Copy the Hex value without &apos;#&apos;</source>
         <translation>取色複製 Hex 色彩值時不要加 #</translation>
     </message>
@@ -2108,10 +2161,6 @@ If this option is checked, the above features will be disabled.</source>
         <translation>使新的貼圖視窗自動獲得鍵盤焦點。</translation>
     </message>
     <message>
-        <source>Hotkey</source>
-        <translation>快速鍵</translation>
-    </message>
-    <message>
         <source>Update</source>
         <translation>更新</translation>
     </message>
@@ -2214,10 +2263,6 @@ Also affect the color value copying.</source>
         <translation>停用滑鼠滾輪功能</translation>
     </message>
     <message>
-        <source>Disable permanently</source>
-        <translation>完全停用</translation>
-    </message>
-    <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
         <translation>如果你不需要擷取游標，請勾選此項。
@@ -2244,16 +2289,176 @@ You will gain better response time on entering snipping.</source>
         <translation>調整透明度:</translation>
     </message>
     <message>
-        <source>Wheel scroll</source>
-        <translation>滑鼠滾輪</translation>
-    </message>
-    <message>
         <source>or</source>
         <translation>或</translation>
     </message>
     <message>
         <source>Zoom:</source>
         <translation>貼圖縮放:</translation>
+    </message>
+    <message>
+        <source>Magnifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show up automatically on entering snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show usage tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show grid lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel scale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use separate colors for different shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of pen sizes:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import from clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable completely</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Include unsaved screenshots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default background mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy as Windows Bitmap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>So that you can also paste the image into file explorer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy image as file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super Snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished">預設</translation>
+    </message>
+    <message>
+        <source>Middle click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hot Corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Corner size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trigger delay:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check interval:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top right:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom right:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

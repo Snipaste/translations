@@ -149,7 +149,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation >名前を正しく入力してください！</translation>
+        <translation>名前を正しく入力してください！</translation>
     </message>
 </context>
 <context>
@@ -704,6 +704,59 @@ Are you sure you want to switch to another configuration file?</source>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>この機能を使用するには、システム環境設定にある「セキュリティとプライバシー」でこのアプリケーションへのアクセスを許可する。</translation>
     </message>
+    <message>
+        <source>Mouse drag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transparent</source>
+        <translation type="unfinished">透明</translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark checkerboard</source>
+        <translation type="unfinished">ダークチェッカーボード</translation>
+    </message>
+    <message>
+        <source>Light checkerboard</source>
+        <translation type="unfinished">ライトチェッカーボード</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation type="unfinished">スニップとコピー</translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation type="unfinished">マウススクロール</translation>
+    </message>
+    <message>
+        <source>Invalid data!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pallette data has been copied to the clipboard.
+Share it to your friends!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Existing image windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select color</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -892,6 +945,14 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Hide other images for now</source>
         <translation>今は他の画像を隠す</translation>
     </message>
+    <message>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1022,6 +1083,10 @@ You may restart Snipaste with admin privileges and try again.</source>
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>カーソルの下で画像を切り替えるモのクリックモードのショートカット。
 もしカーソルの下に画像ウィンドウがなかったら、すべてのクリックできない画像をクリック可能に変更する</translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1158,10 +1223,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>インポートしたグループに切り替え</translation>
     </message>
     <message>
-        <source>Delayed snip</source>
-        <translation>遅延スニップ</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
@@ -1206,20 +1267,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>再起動</translation>
     </message>
     <message>
-        <source>Snip and copy</source>
-        <translation>スニップとコピー</translation>
-    </message>
-    <message>
         <source>Manage groups</source>
         <translation>グループの管理</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
         <translation>ホットキーを無効にする</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>マウスクリックを切り替えます</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -1301,6 +1354,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
+    <message>
+        <source>Image groups:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>helpdialog</name>
@@ -1342,6 +1399,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1463,10 +1528,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>テキストを画像に転換する時使用する背景色</translation>
     </message>
     <message>
-        <source>Copy as Windows Bitmap</source>
-        <translation>Windows Bitmapフォーマットで画像をコピーする</translation>
-    </message>
-    <message>
         <source>Enable hotkeys on the context menu of image windows.</source>
         <translation>右ボタンメニューにホットキーを表示.</translation>
     </message>
@@ -1493,10 +1554,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Open source softwares used in Snipaste</source>
         <translation>使用したオープンソースソフトウェア</translation>
-    </message>
-    <message>
-        <source>Show the color picker usage tips on the magnifier.</source>
-        <translation>拡大鏡にスポイルの使い方を表示.</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
@@ -1553,10 +1610,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Language:</source>
         <translation>言語:</translation>
-    </message>
-    <message>
-        <source>Hotkey</source>
-        <translation>ホットキー</translation>
     </message>
     <message>
         <source>Set the width of the border around the snipping area.</source>
@@ -1653,10 +1706,6 @@ Skypeなど特別なプログラムに貼り付け可能になります。ただ
     <message>
         <source>Let the image window be translucent if its border is flashing.</source>
         <translation>貼り画像の境界線が点滅する時、ウィンドウを半透明にします。</translation>
-    </message>
-    <message>
-        <source>Show usage tips on the magnifier</source>
-        <translation>拡大鏡に操作ヒントを表示する</translation>
     </message>
     <message>
         <source>Restore all settings on this page to their default states.</source>
@@ -2211,10 +2260,6 @@ Also affect the color value copying.</source>
         <translation>マウスのスクロールを無効にする</translation>
     </message>
     <message>
-        <source>Disable permanently</source>
-        <translation>永久に無効にする</translation>
-    </message>
-    <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
         <translation>カーソルキャプチャが必要ない場合は、これをチェックしてください。
@@ -2241,16 +2286,176 @@ You will gain better response time on entering snipping.</source>
         <translation>不透明度の調整：</translation>
     </message>
     <message>
-        <source>Wheel scroll</source>
-        <translation>マウススクロール</translation>
-    </message>
-    <message>
         <source>or</source>
         <translation>或は</translation>
     </message>
     <message>
         <source>Zoom:</source>
         <translation>ズーム：</translation>
+    </message>
+    <message>
+        <source>Magnifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show up automatically on entering snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show usage tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show grid lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel scale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use separate colors for different shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of pen sizes:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import from clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable completely</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Include unsaved screenshots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default background mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy as Windows Bitmap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>So that you can also paste the image into file explorer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy image as file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super Snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished">プリセット</translation>
+    </message>
+    <message>
+        <source>Middle click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hot Corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Corner size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trigger delay:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check interval:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top right:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom right:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

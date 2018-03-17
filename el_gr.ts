@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="el_GR">
+<TS version="2.1" language="el_GR">
 <context>
     <name>FvUpdater</name>
     <message>
@@ -707,6 +707,59 @@ Are you sure you want to switch to another configuration file?</source>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>Εάν θέλετε αυτό το χαρακτηριστικό, παρακαλούμε να παραχωρήσετε πρόσβαση σε αυτήν την εφαρμογή από τις προτιμήσεις Ασφάλειας &amp; Προσωπικών δεδομένων στις Ρυθμίσεις συστήματος.</translation>
     </message>
+    <message>
+        <source>Mouse drag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transparent</source>
+        <translation type="unfinished">Διαφανής</translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark checkerboard</source>
+        <translation type="unfinished">Σκούρα σκακιέρα</translation>
+    </message>
+    <message>
+        <source>Light checkerboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation type="unfinished">Στιγμιότυπο και αντιγραφή</translation>
+    </message>
+    <message>
+        <source>Wheel scroll</source>
+        <translation type="unfinished">Κύλιση ποντικιού</translation>
+    </message>
+    <message>
+        <source>Invalid data!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pallette data has been copied to the clipboard.
+Share it to your friends!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Existing image windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select color</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -896,6 +949,14 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Hide other images for now</source>
         <translation>Απόκρυψη άλλων εικόνων για τώρα</translation>
     </message>
+    <message>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1030,6 +1091,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Η συντόμευση για εναλλαγή της λειτουργίας κλικ ποντικιού της εικόνας κάτω από το δρομέα.
 Αν δεν υπάρχει παράθυρο εικόνας κάτω από τον δείκτη, όλες οι χωρίς δυνατότητα 
 κλικ εικόνες, θα γίνουν με δυνατότητα κλικ.</translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1170,10 +1235,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Μετάβαση στην εισηγμένη ομάδα</translation>
     </message>
     <message>
-        <source>Delayed snip</source>
-        <translation>Στιγμιότυπο με καθυστέρηση</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Σφάλμα</translation>
     </message>
@@ -1214,20 +1275,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Επανεκκίνηση</translation>
     </message>
     <message>
-        <source>Snip and copy</source>
-        <translation>Στιγμιότυπο και αντιγραφή</translation>
-    </message>
-    <message>
         <source>Manage groups</source>
         <translation>Διαχείριση ομάδων</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
         <translation>Απενεργοποίηση πλήκτρων προσβασης</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>Εναλλαγή κλικ ποντικιού</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -1309,6 +1362,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Cancel</source>
         <translation>Άκυρο</translation>
     </message>
+    <message>
+        <source>Image groups:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>helpdialog</name>
@@ -1350,6 +1407,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>Άκυρο</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1503,10 +1568,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Language:</source>
         <translation>Γλώσσα / Language:</translation>
-    </message>
-    <message>
-        <source>Hotkey</source>
-        <translation>Πλήκτρα πρόσβασης</translation>
     </message>
     <message>
         <source>Backup the states of the image windows so that they can be recovered the next time you open Snipaste.</source>
@@ -1670,14 +1731,6 @@ You can also find this option in the context menu of individual image window.</s
         <translation>Χρήση δεκαεξαδικής τιμής για την επιλογή χρώματος</translation>
     </message>
     <message>
-        <source>Show the color picker usage tips on the magnifier.</source>
-        <translation>Εμφάνιση συμβουλών χρήσης της επιλογής χρώματος στον μεγεθυντικό φακό.</translation>
-    </message>
-    <message>
-        <source>Show usage tips on the magnifier</source>
-        <translation>Εμφάνιση συμβουλών χρήσης στον μεγεθυντικό φακό</translation>
-    </message>
-    <message>
         <source>Quick Save</source>
         <translation>Ταχεία αποθήκευση</translation>
     </message>
@@ -1789,10 +1842,6 @@ However, in the meantime, the alpha channel of the image is lost.</source>
 ώστε να μπορείτε κατόπιν να την επικολλήσετε σε κάποιες 
 ειδικές εφαρμογές, όπως το Skype.
 Ωστόσο, στο βασικό στοιχείο, το κανάλι άλφα της εικόνας χάνεται.</translation>
-    </message>
-    <message>
-        <source>Copy as Windows Bitmap</source>
-        <translation>Αντιγραφή ως Bitmap των Windows</translation>
     </message>
     <message>
         <source>Click the mid-button to pin the screenshot to the screen.</source>
@@ -2228,10 +2277,6 @@ Also affect the color value copying.</source>
         <translation>Απενεργοποίηση κύλισης ποντικιού</translation>
     </message>
     <message>
-        <source>Disable permanently</source>
-        <translation>Μόνιμη απενεργοποίηση</translation>
-    </message>
-    <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
         <translation>Επιλέξτε το αυτό, αν δεν χρειάζεστε ποτέ καταγραφή του δρομέα. 
@@ -2258,16 +2303,176 @@ You will gain better response time on entering snipping.</source>
         <translation>Ρύθμιση αδιαφάνειας:</translation>
     </message>
     <message>
-        <source>Wheel scroll</source>
-        <translation>Κύλιση ποντικιού</translation>
-    </message>
-    <message>
         <source>or</source>
         <translation>ή</translation>
     </message>
     <message>
         <source>Zoom:</source>
         <translation>Μεγέθυνση:</translation>
+    </message>
+    <message>
+        <source>Magnifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show up automatically on entering snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show usage tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show grid lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel scale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use separate colors for different shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of pen sizes:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import from clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable completely</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Include unsaved screenshots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default background mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy as Windows Bitmap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>So that you can also paste the image into file explorer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy image as file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super Snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished">Προεπιλογές</translation>
+    </message>
+    <message>
+        <source>Middle click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hot Corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Corner size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trigger delay:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check interval:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top right:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom right:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
