@@ -744,7 +744,7 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pallette data has been copied to the clipboard.
+        <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
         <translation type="unfinished"></translation>
     </message>

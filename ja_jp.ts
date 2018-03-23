@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ja_JP" sourcelanguage="en_US">
 <context>
@@ -741,7 +741,7 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pallette data has been copied to the clipboard.
+        <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
         <translation type="unfinished"></translation>
     </message>

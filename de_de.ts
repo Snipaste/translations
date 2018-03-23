@@ -742,7 +742,7 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pallette data has been copied to the clipboard.
+        <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
         <translation type="unfinished"></translation>
     </message>

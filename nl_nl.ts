@@ -744,7 +744,7 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pallette data has been copied to the clipboard.
+        <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
         <translation type="unfinished"></translation>
     </message>
