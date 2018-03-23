@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_CN" sourcelanguage="en_US">
 <context>
@@ -742,7 +742,7 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>无效数据！</translation>
     </message>
     <message>
-        <source>Pallette data has been copied to the clipboard.
+        <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
         <translation>调色板数据已被复制到剪贴板。
 分享给你的朋友们吧！</translation>
