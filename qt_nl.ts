@@ -211,7 +211,7 @@
     </message>
     <message>
         <source>Print</source>
-        <translation>Print Screen</translation>
+        <translation>Print</translation>
     </message>
     <message>
         <source>Right</source>
