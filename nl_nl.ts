@@ -1819,11 +1819,11 @@ Meld deze wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>Automatically show the fullscreen cross lines every time you start snipping.</source>
-        <translation>Bij schermopname automatisch haarkruis weergeven.</translation>
+        <translation>Bij schermopname automatisch richtkruis weergeven.</translation>
     </message>
     <message>
         <source>Auto show cross lines</source>
-        <translation>Haarkruis weergeven</translation>
+        <translation>Richtkruis weergeven</translation>
     </message>
     <message>
         <source>Click the mid-button to pin the screenshot to the screen.</source>
