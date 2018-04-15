@@ -72,7 +72,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annulleren</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -92,7 +92,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>A&amp;nnulleren</translation>
+        <translation>A&amp;nnuleren</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>Up</source>
-        <translation></translation>
+        <translation>Omhoog</translation>
     </message>
     <message>
         <source>Alt</source>
@@ -235,7 +235,7 @@
     </message>
     <message>
         <source>Treble Down</source>
-        <translation></translation>
+        <translation>Treble -</translation>
     </message>
     <message>
         <source>Scroll Lock</source>
@@ -347,7 +347,7 @@
     </message>
     <message>
         <source>Backtab</source>
-        <translation></translation>
+        <translation>Backtab</translation>
     </message>
     <message>
         <source>Bass Up</source>
@@ -375,7 +375,7 @@
     </message>
     <message>
         <source>Treble Up</source>
-        <translation></translation>
+        <translation>Treble +</translation>
     </message>
     <message>
         <source>Num Lock</source>
@@ -432,7 +432,7 @@ Druk ESC om te annulleren</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>&amp;Sat:</translation>
+        <translation>Verzadiging:</translation>
     </message>
     <message>
         <source>&amp;Val:</source>
@@ -440,7 +440,7 @@ Druk ESC om te annulleren</translation>
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation>HU&amp;e:</translation>
+        <translation>Tint:</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -491,7 +491,7 @@ Druk ESC om te annulleren</translation>
     </message>
     <message>
         <source>Show Details...</source>
-        <translation>Details tonen...</translation>
+        <translation>Details tonen…</translation>
     </message>
     <message>
         <source>About Qt</source>
@@ -499,7 +499,7 @@ Druk ESC om te annulleren</translation>
     </message>
     <message>
         <source>Hide Details...</source>
-        <translation>Details verbergen...</translation>
+        <translation>Details verbergen…</translation>
     </message>
 </context>
 <context>
@@ -665,7 +665,7 @@ Druk ESC om te annulleren</translation>
     </message>
     <message>
         <source>Devanagari</source>
-        <translation></translation>
+        <translation>Devanagari</translation>
     </message>
     <message>
         <source>Japanese</source>
