@@ -709,56 +709,57 @@ Başka bir yapılandırma dosyasına geçmek istediğinizden emin misiniz?</tran
     </message>
     <message>
         <source>Mouse drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Fare sürüklemesi</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished">Transparan</translation>
+        <translation>Şeffaflık</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahte şeffaflık</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished">Siyah dama tahtası</translation>
+        <translation>Siyah dama tahtası</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished">Beyaz dama tahtası</translation>
+        <translation>Beyaz dama tahtası</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırp ve sabitle</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation type="unfinished">Kırp ve kopyala</translation>
+        <translation>Kırp ve kopyala</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation type="unfinished">Fare tekeri</translation>
+        <translation>Fare tekeri</translation>
     </message>
     <message>
         <source>Invalid data!</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçersiz veri!</translation>
     </message>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation type="unfinished"></translation>
+        <translation>Palet verileri panoya kopyalandı.
+Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırpmak</translation>
     </message>
     <message>
         <source>Existing image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Mevcut görüntü pencereleri</translation>
     </message>
     <message>
         <source>Select color</source>
-        <translation type="unfinished"></translation>
+        <translation>Renk seç</translation>
     </message>
 </context>
 <context>
@@ -950,11 +951,11 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırp</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahte şeffaflık</translation>
     </message>
 </context>
 <context>
@@ -1090,7 +1091,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Show tray menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Tepsi menüsünü göster</translation>
     </message>
 </context>
 <context>
@@ -1360,7 +1361,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Image groups:</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüntü grupları:</translation>
     </message>
 </context>
 <context>
@@ -1406,11 +1407,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yok sayılanlar listesi:</translation>
     </message>
     <message>
         <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
-        <translation type="unfinished"></translation>
+        <translation>Virgülle ayrılmış çalıştırılabilir uygulama isimleri girin (ör: a.exe, b.exe)</translation>
     </message>
 </context>
 <context>
@@ -2301,167 +2302,167 @@ Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Büyüteç</translation>
     </message>
     <message>
         <source>Show up automatically on entering snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırpma esnasında otomatik olarak göster</translation>
     </message>
     <message>
         <source>Show usage tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanım ipuçlarını göster</translation>
     </message>
     <message>
         <source>Show grid lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Kılavuz çizgileri göster</translation>
     </message>
     <message>
         <source>Pixel scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Piksel ölçeği:</translation>
     </message>
     <message>
         <source>Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Araç Çubuğu</translation>
     </message>
     <message>
         <source>Use separate colors for different shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Farklı şekiller için ayrı renkler kullanın</translation>
     </message>
     <message>
         <source>Number of pen sizes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalem boyutu :</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Değişikliklerin etkili olması için Snipaste&apos;ı yeniden başlatın.</translation>
     </message>
     <message>
         <source>Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Palet</translation>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygula</translation>
     </message>
     <message>
         <source>Import from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Panodan içe aktar</translation>
     </message>
     <message>
         <source>Export to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoya dışa aktar</translation>
     </message>
     <message>
         <source>Disable completely</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamamen devre dışı bırak</translation>
     </message>
     <message>
         <source>Include unsaved screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydedilmemiş ekran görüntüleri dahil et</translation>
     </message>
     <message>
         <source>Default background mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan arka plan modu:</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Pano</translation>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Bitmap olarak kopyala:</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran görüntüsü</translation>
     </message>
     <message>
         <source>Image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüntü pencereleri</translation>
     </message>
     <message>
         <source>So that you can also paste the image into file explorer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Böylece görüntüyü dosya gezgini içine de yapıştırabilirsiniz.</translation>
     </message>
     <message>
         <source>Copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>Resmi dosya olarak kopyala</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya</translation>
     </message>
     <message>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrol</translation>
     </message>
     <message>
         <source>Super Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Süper Kırpma</translation>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Tepsi Simgesi</translation>
     </message>
     <message>
         <source>Left click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sol tık:</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished">Şablon</translation>
+        <translation>Şablon</translation>
     </message>
     <message>
         <source>Middle click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta düğme:</translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağ tık:</translation>
     </message>
     <message>
         <source>Hot Corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Sıcak Köşe</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Etkinleştir</translation>
     </message>
     <message>
         <source>Corner size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Köşe boyutu:</translation>
     </message>
     <message>
         <source>Trigger delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anahtar gecikmesi:</translation>
     </message>
     <message>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>milisaniye</translation>
     </message>
     <message>
         <source>Check interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrol aralığı:</translation>
     </message>
     <message>
         <source>Function</source>
-        <translation type="unfinished"></translation>
+        <translation>İşlev</translation>
     </message>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sol üst:</translation>
     </message>
     <message>
         <source>Top right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağ üst:</translation>
     </message>
     <message>
         <source>Bottom left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sol alt:</translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağ alt:</translation>
     </message>
 </context>
 <context>
