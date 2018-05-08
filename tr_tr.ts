@@ -2434,7 +2434,7 @@ Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     </message>
     <message>
         <source>Trigger delay:</source>
-        <translation>Anahtar gecikmesi:</translation>
+        <translation>Tetik gecikmesi:</translation>
     </message>
     <message>
         <source>ms</source>
