@@ -158,7 +158,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation>Tijdens schermopname:</translation>
+        <translation>Bij Knippen:</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
@@ -166,39 +166,39 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Set the snipping area to fullscreen</source>
-        <translation>Volledig scherm instellen als opnamegebied</translation>
+        <translation>Knipgebied instellen op volledig scherm</translation>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation>Opnamegebied gelijkstellen aan laatste schermopname</translation>
+        <translation>Knipgebied instellen gelijk aan vorige Knip</translation>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
-        <translation>Naar vorige opname schakelen</translation>
+        <translation>Naar vorige Knip overschakelen</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
-        <translation>Naar volgende opname schakelen</translation>
+        <translation>Naar volgende Knip overschakelen</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
-        <translation>Opnamegebied met 1 pixel vergroten</translation>
+        <translation>Knipgebied met 1 pixel vergroten</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
-        <translation>Opnamegebied met 1 pixel verkleinen</translation>
+        <translation>Knipgebied met 1 pixel verkleinen</translation>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
-        <translation>Schermopname direct naar het scherm kopiëren</translation>
+        <translation>Schermopname direct op het scherm plakken</translation>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
-        <translation>Schermopname kopiëren en opname stoppen</translation>
+        <translation>Schermopname kopiëren en Knip stoppen</translation>
     </message>
     <message>
         <source>Abort snipping</source>
-        <translation>Schermopname annuleren</translation>
+        <translation>Knippen afbreken</translation>
     </message>
     <message>
         <source>Mouse right-click</source>
@@ -206,11 +206,11 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Re-decide the snipping area / abort snipping</source>
-        <translation>Schermopnamegebied opnieuw vaststellen / schermopname annuleren</translation>
+        <translation>Knipgebied opnieuw vaststellen / Knippen afbreken</translation>
     </message>
     <message>
         <source>Paste only:</source>
-        <translation>Tijdens plakken:</translation>
+        <translation>Bij Plakken:</translation>
     </message>
     <message>
         <source>Rotate the image clockwise by 90 degrees</source>
@@ -274,7 +274,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
-        <translation>Opnamegebied/afbeeldingskader met 1 pixel verplaatsen</translation>
+        <translation>Knipgebied/afbeeldingskader met 1 pixel verplaatsen</translation>
     </message>
     <message>
         <source>Space</source>
@@ -387,7 +387,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
-        <translation>Sneltoets Schermopname</translation>
+        <translation>Sneltoets Knippen</translation>
     </message>
     <message>
         <source>Paste hotkey</source>
@@ -709,56 +709,57 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Mouse drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Slepen met muis</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished">Transparant</translation>
+        <translation>Transparant</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Quasi-transparant</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished">Donker raster</translation>
+        <translation>Donker geblokt</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished">Licht raster</translation>
+        <translation>Licht geblokt</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Knippen en vastpinnen</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation type="unfinished">Schermopname kopiëren</translation>
+        <translation>Knippen en kopiëren</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation type="unfinished">Muiswiel</translation>
+        <translation>Muiswiel</translation>
     </message>
     <message>
         <source>Invalid data!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldige gegevens!</translation>
     </message>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleurenpalet is naar het klembord gekopieerd.
+Deel het met vrienden!</translation>
     </message>
     <message>
         <source>Snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Knippen</translation>
     </message>
     <message>
         <source>Existing image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestaande afbeeldingsvensters</translation>
     </message>
     <message>
         <source>Select color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een kleur</translation>
     </message>
 </context>
 <context>
@@ -941,8 +942,8 @@ Share it to your friends!</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation>De actie dubbelklik X is onderbroken.
-De sneltoets voor Muis-doorklikken kunt u vinden in Voorkeuren - Sneltoetsen.</translation>
+        <translation>De actie &apos;Dubbelklik X&apos; is afgebroken.
+De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Voorkeuren - Sneltoetsen.</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -950,11 +951,11 @@ De sneltoets voor Muis-doorklikken kunt u vinden in Voorkeuren - Sneltoetsen.</t
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bijsnijden</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Quasi-transparant</translation>
     </message>
 </context>
 <context>
@@ -1048,15 +1049,15 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>Snip</source>
-        <translation>Schermopname</translation>
+        <translation>Knippen</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation>Schermopname kopiëren</translation>
+        <translation>Knippen en kopiëren</translation>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation>Vertraagde schermopname</translation>
+        <translation>Vertraagd Knippen</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1076,7 +1077,7 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation>Muis-doorklikken aan/uitschakelen</translation>
+        <translation>Doorklikken-met-de-muis aan/uitschakelen</translation>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
@@ -1085,12 +1086,12 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Deze sneltoets schakelt Muis-doorklikken van de afbeelding onder de cursor aan/uit.
+        <translation>Deze sneltoets schakelt Doorklikken-met-de-muis van de afbeelding onder de cursor aan/uit.
 Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare afbeeldingen klikbaar gemaakt.</translation>
     </message>
     <message>
         <source>Show tray menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeemvak-menu weergeven</translation>
     </message>
 </context>
 <context>
@@ -1104,7 +1105,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>Snipaste</name>
     <message>
         <source>Snip</source>
-        <translation>Schermopname</translation>
+        <translation>Knippen</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1299,7 +1300,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation>Wilt u de schermopname afbreken?</translation>
+        <translation>Wilt u  Knippen afbreken?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
@@ -1360,7 +1361,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Image groups:</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeeldingengroepen:</translation>
     </message>
 </context>
 <context>
@@ -1406,11 +1407,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Genegeerd:</translation>
     </message>
     <message>
         <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer de namen van uitvoerbare programma&apos;s in gescheiden door komma&apos;s (bijv. a.exe, b.exe)</translation>
     </message>
 </context>
 <context>
@@ -1477,7 +1478,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Snip</source>
-        <translation>Schermopname</translation>
+        <translation>Knippen</translation>
     </message>
     <message>
         <source>Colors:</source>
@@ -1493,7 +1494,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Text to Image</source>
-        <translation>Tekst - afbeelding</translation>
+        <translation>Tekst &gt; afbeelding</translation>
     </message>
     <message>
         <source>Ignore Win key:</source>
@@ -1529,7 +1530,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Show anchors around the snipping area.</source>
-        <translation>Ankers weergeven in het opnamegebied.</translation>
+        <translation>Ankers weergeven in het Knipgebied.</translation>
     </message>
     <message>
         <source>Show anchors</source>
@@ -1553,7 +1554,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Show the anchors in the magnifier.</source>
-        <translation>Ankers weergeven in het vergrootglas.</translation>
+        <translation>Ankers in het vergrootglas weergeven.</translation>
     </message>
     <message>
         <source>anchors</source>
@@ -1565,7 +1566,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Auto detect the regions of windows when snipping.</source>
-        <translation>Bij schermopname vensterranden automatisch detecteren.</translation>
+        <translation>Vensterranden automatisch detecteren bij Knippen.</translation>
     </message>
     <message>
         <source>Auto detect windows</source>
@@ -1573,7 +1574,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
-        <translation>Bij schermopname vensterelementen (knoppen, menu&apos;s, etc.) automatisch detecteren.</translation>
+        <translation>Vensterelementen (knoppen, menu&apos;s, etc.) automatisch detecteren bij Knippen.</translation>
     </message>
     <message>
         <source>Auto detect UI elements</source>
@@ -1601,7 +1602,7 @@ De alfa-transparantie van de afbeelding raakt hiermee verloren.</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
-        <translation>De uit te voeren actie bij &apos;Enter&apos; tijdens schermopname.</translation>
+        <translation>De uit te voeren actie bij &apos;Enter&apos; tijdens Knippen.</translation>
     </message>
     <message>
         <source>then</source>
@@ -1609,11 +1610,11 @@ De alfa-transparantie van de afbeelding raakt hiermee verloren.</translation>
     </message>
     <message>
         <source>quit snipping</source>
-        <translation>stoppen</translation>
+        <translation>stop met Knippen</translation>
     </message>
     <message>
         <source>Ignore the left Windows key when snipping.</source>
-        <translation>Bij schermopname de linker Windows-toets negeren.</translation>
+        <translation>Llinker Windows-toets negeren bij Knippen.</translation>
     </message>
     <message>
         <source>Left</source>
@@ -1621,7 +1622,7 @@ De alfa-transparantie van de afbeelding raakt hiermee verloren.</translation>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
-        <translation>Bij schermopname de rechter Windows-toets negeren.</translation>
+        <translation>Rechter Windows-toets negeren bij Knippen.</translation>
     </message>
     <message>
         <source>Right</source>
@@ -1629,7 +1630,7 @@ De alfa-transparantie van de afbeelding raakt hiermee verloren.</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
-        <translation>Het maximum aantal schermopnamen dat wordt opgeslagen in history/snip.</translation>
+        <translation>Het maximum aantal opnamen dat wordt opgeslagen in history/snip.</translation>
     </message>
     <message>
         <source>Sound Effect</source>
@@ -1645,11 +1646,11 @@ De alfa-transparantie van de afbeelding raakt hiermee verloren.</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
-        <translation>Geluidseffect geven wanneer een schermopname naar het klembord wordt gekopiëerd.</translation>
+        <translation>Geluidseffect afspelen wanneer een schermopname naar het klembord wordt gekopiëerd.</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
-        <translation>Geluidseffect geven bij Snelle opslag van een schermopname.</translation>
+        <translation>Geluidseffect afspelen bij Snelle opslag van een schermopname.</translation>
     </message>
     <message>
         <source>Pick a sound file (.wav).</source>
@@ -1681,7 +1682,7 @@ De alfa-transparantie van de afbeelding raakt hiermee verloren.</translation>
     </message>
     <message>
         <source>Reset on thumbnail</source>
-        <translation>Miniaturen herstellen</translation>
+        <translation>Miniatuur herstellen</translation>
     </message>
     <message>
         <source>If not checked, the original window will be automatically hidden for drag-and-drop.</source>
@@ -1747,7 +1748,7 @@ Meld deze wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
-        <translation>Snipaste voorkeuren</translation>
+        <translation>Snipaste Voorkeuren</translation>
     </message>
     <message>
         <source>Run on system startup</source>
@@ -1807,7 +1808,7 @@ Meld deze wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>Show the border of the snipping area in the magnifier.</source>
-        <translation>Rand van het schermopnamegebied in het vergrootglas tonen.</translation>
+        <translation>Rand van het Knipgebied in het vergrootglas tonen.</translation>
     </message>
     <message>
         <source>Capture the cursor by default.</source>
@@ -1819,7 +1820,7 @@ Meld deze wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>Automatically show the fullscreen cross lines every time you start snipping.</source>
-        <translation>Bij schermopname automatisch richtkruis weergeven.</translation>
+        <translation>Automatisch richtkruis weergeven bij Knippen.</translation>
     </message>
     <message>
         <source>Auto show cross lines</source>
@@ -1843,7 +1844,7 @@ Meld deze wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>Use snipping position</source>
-        <translation>Opname-positie gebruiken</translation>
+        <translation>Knip-positie gebruiken</translation>
     </message>
     <message>
         <source>Zoom by mouse wheel</source>
@@ -1863,15 +1864,15 @@ Meld deze wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>Flash the image windows after you have switched to another image group.</source>
-        <translation>Afbeeldingenvensters flitsen bij het schakelen tussen afbeeldingengroepen.</translation>
+        <translation>Afbeeldingenvensters oplichten bij het schakelen tussen afbeeldingengroepen.</translation>
     </message>
     <message>
         <source>Flash after switching to another group</source>
-        <translation>Flitsen na het schakelen tussen groepen</translation>
+        <translation>Oplichten na het schakelen tussen groepen</translation>
     </message>
     <message>
         <source>Never paste file paths</source>
-        <translation>Bestandspaden nooit plakken</translation>
+        <translation>Bestandspad nooit plakken</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -2055,11 +2056,11 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
     </message>
     <message>
         <source>The mask color of snipping</source>
-        <translation>De kleur van het raster bij schermopname</translation>
+        <translation>De kleur van het raster bij Knippen</translation>
     </message>
     <message>
         <source>Hide the 1x1 region indicator before you decide the snipping region.</source>
-        <translation>1x1 regio-indicator verbergen bij het bepalen van het schermopnamegebied.</translation>
+        <translation>1x1 regio-indicator verbergen bij het bepalen van het Knipgebied.</translation>
     </message>
     <message>
         <source>Hide 1x1</source>
@@ -2071,7 +2072,7 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
     </message>
     <message>
         <source>Set the width of the border around the snipping area.</source>
-        <translation>Randdikte rond het schermopnamegebied instellen.</translation>
+        <translation>Randdikte rond het Knipgebied instellen.</translation>
     </message>
     <message>
         <source>Quick Save</source>
@@ -2097,27 +2098,27 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     </message>
     <message>
         <source>When a new image is pasted:</source>
-        <translation>Bij het plakken van een nieuw afbeelding:</translation>
+        <translation>Bij het plakken van een nieuwe afbeelding:</translation>
     </message>
     <message>
         <source>Let the border of a new image window flash.</source>
-        <translation>De rand van het nieuwe afbeeldingsvenster laten flitsen.</translation>
+        <translation>De rand van het nieuwe afbeeldingsvenster laten oplichten.</translation>
     </message>
     <message>
         <source>Let the image window be translucent if its border is flashing.</source>
-        <translation>Het afbeeldingsvenster transparant maken wanneer de rand flitst.</translation>
+        <translation>Het afbeeldingsvenster doorschijnend maken wanneer de rand oplicht.</translation>
     </message>
     <message>
         <source>Translucent when flashing</source>
-        <translation>Transparant tijdens flitsen</translation>
+        <translation>Transparantie gebruiken bij het oplichten</translation>
     </message>
     <message>
         <source>When you paste, automatically hide all image windows, if any image window is currently flashing.</source>
-        <translation>Als een venster flitst bij het plakken, automatisch alle afbeeldingenvensters verbergen.</translation>
+        <translation>Als een venster oplicht bij het plakken, automatisch alle afbeeldingenvensters verbergen.</translation>
     </message>
     <message>
         <source>Hide all images if you paste when any image is flashing</source>
-        <translation>Wanneer een afbeelding flitst, alle afbeeldingen verbergen bij het plakken</translation>
+        <translation>Wanneer een afbeelding oplicht, alle afbeeldingen verbergen bij het plakken</translation>
     </message>
     <message>
         <source>Backup the states of the image windows so that they can be recovered the next time you open Snipaste.</source>
@@ -2157,7 +2158,7 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>Flitsen</translation>
+        <translation>Oplichten</translation>
     </message>
     <message>
         <source>Let the new image window gain keyboard focus.</source>
@@ -2269,7 +2270,7 @@ Dit heeft ook gevolgen voor het kopiëren van een kleur.</translation>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
         <translation>Activeer als u nooit de cursor wilt opnemen.
-Dit zorgt voor een snellere opstart van de schermopname.</translation>
+Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Show notification</source>
@@ -2301,167 +2302,167 @@ Dit zorgt voor een snellere opstart van de schermopname.</translation>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergrootglas</translation>
     </message>
     <message>
         <source>Show up automatically on entering snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch weergeven bij Knippen</translation>
     </message>
     <message>
         <source>Show usage tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikstips weergeven</translation>
     </message>
     <message>
         <source>Show grid lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasterlijnen weergeven</translation>
     </message>
     <message>
         <source>Pixel scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaal:</translation>
     </message>
     <message>
         <source>Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Gereedschapsbalk</translation>
     </message>
     <message>
         <source>Use separate colors for different shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschillende kleuren toepassen voor verschilende vormen</translation>
     </message>
     <message>
         <source>Number of pen sizes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aantal pendiktes:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Snipaste opnieuw om de aanpassingen door te voeren.</translation>
     </message>
     <message>
         <source>Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Palet</translation>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation>Toepassen op</translation>
     </message>
     <message>
         <source>Import from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Van het klembord inlezen</translation>
     </message>
     <message>
         <source>Export to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar het klembord kopiëren</translation>
     </message>
     <message>
         <source>Disable completely</source>
-        <translation type="unfinished"></translation>
+        <translation>Volledig deactiveren</translation>
     </message>
     <message>
         <source>Include unsaved screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet opgeslagen schermopnamen meenemen</translation>
     </message>
     <message>
         <source>Default background mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standaard achtergrond:</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Klembord</translation>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Als Windows Bitmap kopiëren</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermopname</translation>
     </message>
     <message>
         <source>Image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeeldingsvensters</translation>
     </message>
     <message>
         <source>So that you can also paste the image into file explorer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiermee kan een afbeelding ook in de Verkenner worden gekopieerd.</translation>
     </message>
     <message>
         <source>Copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding als bestand kopiëren</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand</translation>
     </message>
     <message>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controleren</translation>
     </message>
     <message>
         <source>Super Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Super-Knippen</translation>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeemvak-icoon</translation>
     </message>
     <message>
         <source>Left click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linker muisklik:</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished">Voorinstellingen</translation>
+        <translation>Voorinstellingen</translation>
     </message>
     <message>
         <source>Middle click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Midden muisklik:</translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechter muisklik:</translation>
     </message>
     <message>
         <source>Hot Corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Actie-hoek</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Activeren</translation>
     </message>
     <message>
         <source>Corner size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoekgrootte:</translation>
     </message>
     <message>
         <source>Trigger delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertraging:</translation>
     </message>
     <message>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ms</translation>
     </message>
     <message>
         <source>Check interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interval:</translation>
     </message>
     <message>
         <source>Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Functie</translation>
     </message>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linksboven:</translation>
     </message>
     <message>
         <source>Top right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsboven:</translation>
     </message>
     <message>
         <source>Bottom left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linksonder:</translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsonder:</translation>
     </message>
 </context>
 <context>
@@ -2520,7 +2521,7 @@ Dit zorgt voor een snellere opstart van de schermopname.</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
-        <translation>Schermopname annuleren (Esc)</translation>
+        <translation>Knippen afbreken (Esc)</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
