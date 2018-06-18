@@ -712,18 +712,6 @@ Startup on boot has been cancelled.</source>
         <translation>土耳其语</translation>
     </message>
     <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
-
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
-
-Are you sure you want to switch to another configuration file?</source>
-        <translation>注意: 你将切换到另一配置文件，文件中的所有设置项将被应用，你的当前设置将被覆盖。
-
-此外，即使选择了另一配置文件，你也不能移除默认的配置文件，因为它记录着你的新配置文件的位置。
-
-确定要切换到另一配置文件吗？</translation>
-    </message>
-    <message>
         <source>Switch to another configuration file</source>
         <translation>切换到另一配置文件</translation>
     </message>
@@ -804,6 +792,18 @@ Share it to your friends!</source>
     <message>
         <source>Same as %1</source>
         <translation>等同于 %1</translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation>注意: 你将切换到另一配置文件，文件中的所有设置项将被应用，你的当前设置将被覆盖。
+
+此外，即使选择了另一配置文件，你也不能移除默认的配置文件，因为它记录着你的新配置文件的位置。
+
+确定要切换到另一配置文件吗？</translation>
     </message>
 </context>
 <context>
