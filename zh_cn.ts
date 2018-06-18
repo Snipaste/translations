@@ -821,12 +821,12 @@ Share it to your friends!</source>
         <translation>通过拖动文字框的边角可以改变文字的大小。</translation>
     </message>
     <message>
-        <source>Drag to draw a single line, or click to draw line strips.</source>
-        <translation>在区域内拖拽可画单条直线，点按可画折线。</translation>
-    </message>
-    <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation>点击该按钮可以切换马赛克/高斯模糊。</translation>
+    </message>
+    <message>
+        <source>Drag to draw a single line or click to draw line strips.</source>
+        <translation>在区域内拖拽可画单条直线，点按可画折线。</translation>
     </message>
 </context>
 <context>
@@ -1543,8 +1543,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>忽略程序列表:</translation>
     </message>
     <message>
-        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
-        <translation>输入以英文逗号分隔的程序文件名（如: a.exe, b.exe）</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
+        <translation>输入以英文逗号分隔的程序文件名（如 a.exe, b.exe）</translation>
     </message>
 </context>
 <context>
@@ -1576,9 +1576,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>OK</source>
         <translation>确定</translation>
     </message>
-</context>
-<context>
-    <name>magnifier</name>
 </context>
 <context>
     <name>newgroup</name>
@@ -1917,10 +1914,6 @@ Range: 10 - 100</source>
         <translation>设置新贴图窗口的不透明度。范围: 10 - 100</translation>
     </message>
     <message>
-        <source>Thumbnail size:</source>
-        <translation>缩略图大小:</translation>
-    </message>
-    <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>若取消勾选，会以图像左上角为锚点进行缩放。</translation>
     </message>
@@ -2037,10 +2030,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>重置贴图:</translation>
     </message>
     <message>
-        <source>Toggle thumbnail:</source>
-        <translation>切换缩略图:</translation>
-    </message>
-    <message>
         <source>* If conflicted, the upper operation will be matched</source>
         <translation>* 如有冲突，由上至下优先匹配</translation>
     </message>
@@ -2055,10 +2044,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Check for updates</source>
         <translation>检查更新</translation>
-    </message>
-    <message>
-        <source>Open source softwares used in Snipaste</source>
-        <translation>Snipaste 用到的开源软件</translation>
     </message>
     <message>
         <source>Licenses</source>
@@ -2629,6 +2614,18 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
         <translation>自动定时重载 dll 文件以提高截屏的响应速度。</translation>
+    </message>
+    <message>
+        <source>Fast thumbnail size:</source>
+        <translation>快速缩略图大小:</translation>
+    </message>
+    <message>
+        <source>Fast thumbnail:</source>
+        <translation>快速缩略图:</translation>
+    </message>
+    <message>
+        <source>Open source software used in Snipaste</source>
+        <translation>Snipaste 用到的开源软件</translation>
     </message>
 </context>
 <context>
