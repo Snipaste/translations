@@ -5,22 +5,22 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation>Rengi kopyalamak için%1 tuşuna basın</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB / HEX arasında geçiş yapmak için%1 tuşuna basın</translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
         <source>s</source>
-        <translation type="unfinished">saniye</translation>
+        <translation>saniye</translation>
     </message>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Şablonları düzenle...</translation>
     </message>
 </context>
 <context>
@@ -118,7 +118,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen grupları kapatmak istediğinizden emin misiniz? Bu işlem geri alınamaz.</translation>
     </message>
 </context>
 <context>
@@ -375,15 +375,16 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Desteğin için teşekkürler!
+PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Tamam</translation>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonra</translation>
     </message>
 </context>
 <context>
@@ -804,7 +805,7 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Same as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ile aynı</translation>
     </message>
 </context>
 <context>
@@ -823,11 +824,11 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Drag to draw a single line, or click to draw line strips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tek bir çizgi çizmek için sürükleyin veya şeritleri çizmek için tıklayın.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mozaik ve Gauss bulanıklığı arasında geçiş yapmak için bu simgeye tıklayın.</translation>
     </message>
 </context>
 <context>
@@ -1012,15 +1013,15 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Copy annotation text</source>
-        <translation type="unfinished"></translation>
+        <translation>Ek açıklama metnini kopyala</translation>
     </message>
     <message>
         <source>Select all images</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm görüntüleri seç</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri tonlama</translation>
     </message>
 </context>
 <context>
@@ -1096,7 +1097,7 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     </message>
     <message>
         <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırmızı noktaları gördün mü? Yararlı ipuçları almak için onları tıklayın!</translation>
     </message>
 </context>
 <context>
@@ -1174,14 +1175,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>SizeInputDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Şablon düzenle...</translation>
     </message>
 </context>
 <context>
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Şablon boyutlarını düzenle</translation>
     </message>
 </context>
 <context>
@@ -1364,31 +1365,31 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Create new group</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni grup oluştur</translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished">Hata ayıklama</translation>
+        <translation>Hata ayıklama</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation type="unfinished">Günlük dosyası</translation>
+        <translation>Günlük dosyasını aç</translation>
     </message>
     <message>
         <source>Open config file</source>
-        <translation type="unfinished"></translation>
+        <translation>Yapılandırma dosyasını aç</translation>
     </message>
     <message>
         <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO kilidini aç ...</translation>
     </message>
     <message>
         <source>Export image group(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Resim grubunu dışa aktar</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste görüntü grupları</translation>
     </message>
 </context>
 <context>
@@ -1437,27 +1438,27 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>customsnipdialog</name>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Şablon</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Boyut:</translation>
     </message>
     <message>
         <source>Delay:</source>
-        <translation type="unfinished">Gecikme:</translation>
+        <translation>Gecikme:</translation>
     </message>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished">Sol üst:</translation>
+        <translation>Sol üst:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Tamam</translation>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">İptal</translation>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -1479,19 +1480,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Manage Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupları Yönet</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>İçe aktar</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Dışa aktar</translation>
     </message>
     <message>
         <source>Remove empty groups</source>
-        <translation type="unfinished">Boş grupları kaldır</translation>
+        <translation>Boş grupları kaldır</translation>
     </message>
 </context>
 <context>
@@ -1573,9 +1574,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>OK</source>
         <translation>Tamam</translation>
     </message>
-</context>
-<context>
-    <name>magnifier</name>
 </context>
 <context>
     <name>newgroup</name>
@@ -2558,75 +2556,75 @@ Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     </message>
     <message>
         <source>Keep responsive</source>
-        <translation type="unfinished"></translation>
+        <translation>Duyarlı tut</translation>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik olarak göster:</translation>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal Kırpma</translation>
     </message>
     <message>
         <source>Super snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Süper Kırpma</translation>
     </message>
     <message>
         <source>Color value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Renk değeri:</translation>
     </message>
     <message>
         <source>No &apos;#&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;#&apos; Yok</translation>
     </message>
     <message>
         <source>Uppercase Hex</source>
-        <translation type="unfinished"></translation>
+        <translation>Büyük harf Hex</translation>
     </message>
     <message>
         <source>Show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Göster:</translation>
     </message>
     <message>
         <source>Grid lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Kılavuz çizgileri</translation>
     </message>
     <message>
         <source>Screen coordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran koordinatı</translation>
     </message>
     <message>
         <source>Usage tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanım ipuçları</translation>
     </message>
     <message>
         <source>Copy text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Metni kopyala:</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Derecelendir</translation>
     </message>
     <message>
         <source>Unlock PRO features!</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO özellik kilidini açın!</translation>
     </message>
     <message>
         <source>Buy PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO satın al</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO ile ilgilenmiyorum</translation>
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste&apos;yi bir sonraki açışınızda kurtarılabilmeleri için, kırpma penceresinin ve görüntü pencerelerinin durumunu otomatik olarak yedekleyin.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Periyodik olarak dll&apos;leri otomatik olarak yükleyerek snipping yanıt hızını artırın.</translation>
     </message>
 </context>
 <context>
@@ -2716,33 +2714,33 @@ Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     </message>
     <message>
         <source>Fill with stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontur ile doldurun</translation>
     </message>
 </context>
 <context>
     <name>sizeinputdialog</name>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Şablon</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Tamam</translation>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">İptal</translation>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Tamam</translation>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">İptal</translation>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
