@@ -717,18 +717,6 @@ O arranque com o sistema foi cancelado.</translation>
         <translation>Mudar para outro ficheiro de configuração</translation>
     </message>
     <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
-
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
-
-Are you sure you want to switch to another configuration file?</source>
-        <translation>Nota: vai mudar para outro ficheiro de configuração.As definições nele contidas serão aplicadas e as definições actuais serão destruídas.
-
-Além disso, não deve remover o ficheiro de configuração padrão depois desta operação, porque ele regista onde localizar o seu novo ficheiro de configuração.
-
-Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translation>
-    </message>
-    <message>
         <source>Serbian</source>
         <translation>Sérvio</translation>
     </message>
@@ -804,6 +792,18 @@ Share it to your friends!</source>
     <message>
         <source>Same as %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation>Nota: vai mudar para outro ficheiro de configuração.As definições nele contidas serão aplicadas e as definições actuais serão destruídas.
+
+Além disso, não deve remover o ficheiro de configuração padrão depois desta operação, porque ele regista onde localizar o seu novo ficheiro de configuração.
+
+Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translation>
     </message>
 </context>
 <context>

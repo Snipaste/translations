@@ -717,18 +717,6 @@ Le démarrage sur le démarrage a été annulé.</translation>
         <translation>Passer à un autre fichier de configuration</translation>
     </message>
     <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
-
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
-
-Are you sure you want to switch to another configuration file?</source>
-        <translation>Remarque: vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés.
-
-En outre, vous ne devez pas supprimer le fichier de configuration par défaut après cette opération, car il enregistre où trouver votre nouveau fichier de configuration.
-
-Êtes-vous sûr de vouloir passer à un autre fichier de configuration?</translation>
-    </message>
-    <message>
         <source>Serbian</source>
         <translation>Serbe</translation>
     </message>
@@ -804,6 +792,18 @@ Share it to your friends!</source>
     <message>
         <source>Same as %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation>Remarque: vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés.
+
+En outre, vous ne devez pas supprimer le fichier de configuration par défaut après cette opération, car il enregistre où trouver votre nouveau fichier de configuration.
+
+Êtes-vous sûr de vouloir passer à un autre fichier de configuration?</translation>
     </message>
 </context>
 <context>

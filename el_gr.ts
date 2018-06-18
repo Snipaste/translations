@@ -717,18 +717,6 @@ Startup on boot has been cancelled.</source>
         <translation>Αλλαγή σε άλλο αρχείο ρυθμίσεων</translation>
     </message>
     <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
-
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
-
-Are you sure you want to switch to another configuration file?</source>
-        <translation>Σημείωση: Θα μεταβείτε σε ένα άλλο αρχείο ρυθμίσεων. Θα εφαρμοστούν οι ρυθμίσεις από αυτό και όλες οι τρέχουσες ρυθμίσεις σας θα αντικατασταθούν.
-
-Εκτός αυτού, δεν πρέπει να καταργήσετε το προεπιλεγμένο αρχείο ρυθμίσεων μετά από αυτή τη λειτουργία, διότι καταγράφει πού θα βρείτε το νέο αρχείο ρυθμίσεων.
-
-Είστε βέβαιος ότι θέλετε να μεταβείτε σε άλλο αρχείο ρυθμίσεων;</translation>
-    </message>
-    <message>
         <source>Serbian</source>
         <translation>Σερβικά</translation>
     </message>
@@ -804,6 +792,18 @@ Share it to your friends!</source>
     <message>
         <source>Same as %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation>Σημείωση: Θα μεταβείτε σε ένα άλλο αρχείο ρυθμίσεων. Θα εφαρμοστούν οι ρυθμίσεις από αυτό και όλες οι τρέχουσες ρυθμίσεις σας θα αντικατασταθούν.
+
+Εκτός αυτού, δεν πρέπει να καταργήσετε το προεπιλεγμένο αρχείο ρυθμίσεων μετά από αυτή τη λειτουργία, διότι καταγράφει πού θα βρείτε το νέο αρχείο ρυθμίσεων.
+
+Είστε βέβαιος ότι θέλετε να μεταβείτε σε άλλο αρχείο ρυθμίσεων;</translation>
     </message>
 </context>
 <context>

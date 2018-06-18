@@ -714,18 +714,6 @@ Startup on boot has been cancelled.</source>
         <translation>別の設定ファイルに切り替える</translation>
     </message>
     <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
-
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
-
-Are you sure you want to switch to another configuration file?</source>
-        <translation>注：別のファイルへの切り替えを行っています。それの中での設定を適用し、すべての現在の設置はカバーをカバーします。
-
-		また、この操作をした後、デフォルトの配置ファイルを削除すべきではなく、どこで新しい配置ファイルを見つけることを記録しているから。
-
-		別の配置ファイルを切り替えることを確定しますか？</translation>
-    </message>
-    <message>
         <source>Serbian</source>
         <translation>セルビア語</translation>
     </message>
@@ -801,6 +789,18 @@ Share it to your friends!</source>
     <message>
         <source>Same as %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation>注：別のファイルへの切り替えを行っています。それの中での設定を適用し、すべての現在の設置はカバーをカバーします。
+
+		また、この操作をした後、デフォルトの配置ファイルを削除すべきではなく、どこで新しい配置ファイルを見つけることを記録しているから。
+
+		別の配置ファイルを切り替えることを確定しますか？</translation>
     </message>
 </context>
 <context>

@@ -714,14 +714,6 @@ Startup on boot has been cancelled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
-
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
-
-Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Serbian</source>
         <translation type="unfinished"></translation>
     </message>
@@ -796,6 +788,14 @@ Share it to your friends!</source>
     </message>
     <message>
         <source>Same as %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

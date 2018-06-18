@@ -717,18 +717,6 @@ Startup on boot has been cancelled.</source>
         <translation>Пребацити у другу конфигурацијску датотеку</translation>
     </message>
     <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
-
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
-
-Are you sure you want to switch to another configuration file?</source>
-        <translation>Напомена: прелазите на другу конфигурацијску датотеку. Подешавања са ње се примењују и сва ваша тренутна подешавања ће бити преписана.
-
-Поред тога, након ове операције не би требало да уклоните подразумевану конфигурацијску датотеку, јер она бележи где ћете пронаћи нову конфигурацијску датотеку.
-
-Да ли сте сигурни да желите да пређете на другу конфигурацијску датотеку?</translation>
-    </message>
-    <message>
         <source>Serbian</source>
         <translation>Српски</translation>
     </message>
@@ -804,6 +792,18 @@ Share it to your friends!</source>
     <message>
         <source>Same as %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation>Напомена: прелазите на другу конфигурацијску датотеку. Подешавања са ње се примењују и сва ваша тренутна подешавања ће бити преписана.
+
+Поред тога, након ове операције не би требало да уклоните подразумевану конфигурацијску датотеку, јер она бележи где ћете пронаћи нову конфигурацијску датотеку.
+
+Да ли сте сигурни да желите да пређете на другу конфигурацијску датотеку?</translation>
     </message>
 </context>
 <context>

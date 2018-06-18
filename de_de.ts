@@ -715,18 +715,6 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
         <translation>Wechsle zu anderer Konfigurationsdatei</translation>
     </message>
     <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
-
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
-
-Are you sure you want to switch to another configuration file?</source>
-        <translation>Hinweis: Sie wechseln zu einer anderen Konfigurationsdatei. Die Einstellungen werden angewendet und alle aktuellen Einstellungen werden überschrieben.
-
-Sie sollten die Standardkonfigurationsdatei nach dieser Operation nicht entfernen, da sie den Speicherort speichert, wo Sie die  neue Konfigurationsdatei finden.
-
-Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?</translation>
-    </message>
-    <message>
         <source>Serbian</source>
         <translation>Serbisch</translation>
     </message>
@@ -802,6 +790,18 @@ Share it to your friends!</source>
     <message>
         <source>Same as %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
+
+Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation>Hinweis: Sie wechseln zu einer anderen Konfigurationsdatei. Die Einstellungen werden angewendet und alle aktuellen Einstellungen werden überschrieben.
+
+Sie sollten die Standardkonfigurationsdatei nach dieser Operation nicht entfernen, da sie den Speicherort speichert, wo Sie die  neue Konfigurationsdatei finden.
+
+Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?</translation>
     </message>
 </context>
 <context>
