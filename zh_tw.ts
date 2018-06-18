@@ -1,6 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_TW" sourcelanguage="en_US">
+<context>
+    <name>ColorPicker</name>
+    <message>
+        <source>Press %1 to copy color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press %1 to switch between RGB/HEX</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CustomSnipDialog</name>
+    <message>
+        <source>Edit presets...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>s</source>
+        <translation type="unfinished">秒</translation>
+    </message>
+</context>
 <context>
     <name>FvUpdater</name>
     <message>
@@ -88,6 +110,13 @@ Please contact the developer.</source>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
         <translation>請結束 Snipaste 後，將其解壓縮並拖曳至&quot;應用程式&quot;資料夾以完成更新。</translation>
+    </message>
+</context>
+<context>
+    <name>GroupManagerDialog</name>
+    <message>
+        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -340,6 +369,22 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>Thanks for your support!
+Restart now to enjoy PRO features?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">確定</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MouseActionEdit</name>
     <message>
         <source>None</source>
@@ -375,10 +420,6 @@ Please contact the developer.</source>
 </context>
 <context>
     <name>OptionsDialog</name>
-    <message>
-        <source>Donate</source>
-        <translation>贊助</translation>
-    </message>
     <message>
         <source>-bit</source>
         <translation> 位元</translation>
@@ -758,6 +799,10 @@ Share it to your friends!</source>
         <source>Select color</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Same as %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -772,6 +817,14 @@ Share it to your friends!</source>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
         <translation>透過拖動文字框的邊角可以改變文字的大小。</translation>
+    </message>
+    <message>
+        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -954,6 +1007,18 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Pseudo transparent</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Copy annotation text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1025,6 +1090,10 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Pick File</source>
         <translation>選擇檔案</translation>
+    </message>
+    <message>
+        <source>Did you notice the red dots? Click them to get useful tips!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1099,6 +1168,20 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>SizeInputDialog</name>
+    <message>
+        <source>Edit presets...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SizePresetsDialog</name>
+    <message>
+        <source>Edit preset sizes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Snipaste</name>
     <message>
         <source>Snip</source>
@@ -1139,10 +1222,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>No update available.</source>
         <translation>沒有可用的更新。</translation>
-    </message>
-    <message>
-        <source>Import group...</source>
-        <translation>匯入分組...</translation>
     </message>
     <message>
         <source>Import image group</source>
@@ -1273,10 +1352,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>刪除空分組</translation>
     </message>
     <message>
-        <source>Create new group...</source>
-        <translation>新增分組...</translation>
-    </message>
-    <message>
         <source>Snipaste %1 is released!</source>
         <translation>Snipaste %1 已經發布!</translation>
     </message>
@@ -1284,17 +1359,37 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Click here to update now</source>
         <translation>點選這裡馬上更新</translation>
     </message>
+    <message>
+        <source>Create new group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation type="unfinished">偵錯</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation type="unfinished">開啟記錄檔</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export image group(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipaste image groups</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
-    <message>
-        <source>Delay time (1.0-10.0):</source>
-        <translation>延遲時間 (1.0-10.0):</translation>
-    </message>
-    <message>
-        <source>s</source>
-        <translation>秒</translation>
-    </message>
     <message>
         <source>Do you want to abort snipping?</source>
         <translation>你確定要結束擷圖嗎？</translation>
@@ -1336,6 +1431,37 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>customsnipdialog</name>
+    <message>
+        <source>Top left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delay:</source>
+        <translation type="unfinished">延遲:</translation>
+    </message>
+    <message>
+        <source>s</source>
+        <translation type="obsolete">秒</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>doubleinputdialog</name>
     <message>
         <source>OK</source>
@@ -1349,16 +1475,24 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>groupmanager</name>
     <message>
-        <source>OK</source>
-        <translation>確定</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
         <source>Image groups:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage Groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation type="unfinished">刪除空分組</translation>
     </message>
 </context>
 <context>
@@ -1443,10 +1577,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 </context>
 <context>
     <name>magnifier</name>
-    <message>
-        <source>Press C to copy color</source>
-        <translation>按 C 複製色彩值</translation>
-    </message>
 </context>
 <context>
     <name>newgroup</name>
@@ -2023,18 +2153,6 @@ Please report to the developer if you find any.</source>
         <translation>自訂</translation>
     </message>
     <message>
-        <source>Use Hex value for color picker</source>
-        <translation>取色器使用 Hex 色彩值</translation>
-    </message>
-    <message>
-        <source>Copy the Hex value without &apos;#&apos;</source>
-        <translation>取色複製 Hex 色彩值時不要加 #</translation>
-    </message>
-    <message>
-        <source>Copy without &apos;#&apos;</source>
-        <translation>不要複製 #</translation>
-    </message>
-    <message>
         <source>Run Snipaste when the operating system starts.</source>
         <translation>系統開機啟動後自動執行 Snipaste.</translation>
     </message>
@@ -2115,10 +2233,6 @@ If this option is checked, the above features will be disabled.</source>
         <translation>如果你複製了一個圖片檔案，第一次按貼圖鍵會將圖像貼圖，再按貼圖鍵會將檔案路徑貼出。
 如果你複製了一個非圖片檔案，按貼圖鍵會將檔案路徑貼圖。
 如果勾選了這個選項，以上特性將被停用。</translation>
-    </message>
-    <message>
-        <source>Backup the states of the image windows so that they can be recovered the next time you open Snipaste.</source>
-        <translation>備份所有貼圖視窗的狀態，使得下次啟動 Snipaste 時能夠還原。</translation>
     </message>
     <message>
         <source>The max width of the image converted from text</source>
@@ -2225,12 +2339,6 @@ If this option is checked, the above features will be disabled.</source>
         <translation>顯示語言:</translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
-Also affect the color value copying.</source>
-        <translation>將放大鏡中的色彩值顯示為 Hex 而不是 RGB.
-同時也會影響色彩值的複製。</translation>
-    </message>
-    <message>
         <source>Configuration Storage</source>
         <translation>設定檔儲存位置</translation>
     </message>
@@ -2298,18 +2406,6 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show up automatically on entering snipping</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show usage tips</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show grid lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2460,6 +2556,78 @@ You will gain better response time on entering snipping.</source>
         <source>Bottom right:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Keep responsive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show up automatically for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color value:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No &apos;#&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uppercase Hex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen coordinate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Usage tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock PRO features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I&apos;m not interest in PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
@@ -2545,6 +2713,36 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Font family</source>
         <translation>字族</translation>
+    </message>
+    <message>
+        <source>Fill with stroke</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>sizeinputdialog</name>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+</context>
+<context>
+    <name>textinputdialog</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
     </message>
 </context>
 <context>

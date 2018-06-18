@@ -2,6 +2,28 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
+    <name>ColorPicker</name>
+    <message>
+        <source>Press %1 to copy color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press %1 to switch between RGB/HEX</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CustomSnipDialog</name>
+    <message>
+        <source>Edit presets...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>s</source>
+        <translation type="unfinished">s</translation>
+    </message>
+</context>
+<context>
     <name>FvUpdater</name>
     <message>
         <source>Redirecting</source>
@@ -89,6 +111,13 @@ Kontakta programutvecklaren.</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GroupManagerDialog</name>
+    <message>
+        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -342,6 +371,22 @@ Kontakta programutvecklaren.</translation>
     </message>
 </context>
 <context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>Thanks for your support!
+Restart now to enjoy PRO features?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MouseActionEdit</name>
     <message>
         <source>None</source>
@@ -384,10 +429,6 @@ Kontakta programutvecklaren.</translation>
     <message>
         <source>Paste hotkey</source>
         <translation>Snabbtangent för inklistring</translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation>Donera</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -756,6 +797,10 @@ Share it to your friends!</source>
         <source>Select color</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Same as %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -769,6 +814,14 @@ Share it to your friends!</source>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -951,6 +1004,18 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Pseudo transparent</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Copy annotation text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1022,6 +1087,10 @@ Du kan starta om Snipaste som administratör och försöka igen.</translation>
     <message>
         <source>Pick File</source>
         <translation>Välj fil</translation>
+    </message>
+    <message>
+        <source>Did you notice the red dots? Click them to get useful tips!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1095,6 +1164,20 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>SizeInputDialog</name>
+    <message>
+        <source>Edit presets...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SizePresetsDialog</name>
+    <message>
+        <source>Edit preset sizes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Snipaste</name>
     <message>
         <source>Quit</source>
@@ -1123,10 +1206,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Rename</source>
         <translation>Byt namn</translation>
-    </message>
-    <message>
-        <source>Create new group...</source>
-        <translation>Skapa ny grupp...</translation>
     </message>
     <message>
         <source>Show images</source>
@@ -1183,10 +1262,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
         <translation>Vill du verkligen stänga &quot;%1&quot;? Åtgärden kan inte ångras.</translation>
-    </message>
-    <message>
-        <source>Import group...</source>
-        <translation>Importera grupp...</translation>
     </message>
     <message>
         <source>Import image group</source>
@@ -1280,17 +1355,37 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Click here to update now</source>
         <translation>Klicka här för att uppdatera nu</translation>
     </message>
+    <message>
+        <source>Create new group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation type="unfinished">Felsök</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation type="unfinished">Öppna loggfilen</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export image group(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipaste image groups</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
-    <message>
-        <source>Delay time (1.0-10.0):</source>
-        <translation>fördröjningstid (1.0-10.0):</translation>
-    </message>
-    <message>
-        <source>s</source>
-        <translation>s</translation>
-    </message>
     <message>
         <source>Do you want to abort snipping?</source>
         <translation type="unfinished"></translation>
@@ -1332,6 +1427,37 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>customsnipdialog</name>
+    <message>
+        <source>Top left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delay:</source>
+        <translation type="unfinished">Fördröj:</translation>
+    </message>
+    <message>
+        <source>s</source>
+        <translation type="obsolete">s</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Avbryt</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>doubleinputdialog</name>
     <message>
         <source>OK</source>
@@ -1345,16 +1471,24 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>groupmanager</name>
     <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Avbryt</translation>
-    </message>
-    <message>
         <source>Image groups:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage Groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation type="unfinished">Ta bort tomma grupper</translation>
     </message>
 </context>
 <context>
@@ -1439,10 +1573,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 </context>
 <context>
     <name>magnifier</name>
-    <message>
-        <source>Press C to copy color</source>
-        <translation>Tryck C för att kopiera färg</translation>
-    </message>
 </context>
 <context>
     <name>newgroup</name>
@@ -1552,10 +1682,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Language:</source>
         <translation>Språk:</translation>
-    </message>
-    <message>
-        <source>Backup the states of the image windows so that they can be recovered the next time you open Snipaste.</source>
-        <translation>Säkerhetskopiera status för bildfönster, så att de kan återställas nästa gång Snipaste öppnas.</translation>
     </message>
     <message>
         <source>Always ignore HTML formats</source>
@@ -1704,10 +1830,6 @@ Detta alternativ hittas också i kontextmenyn för varje individuellt bildfönst
         <translation>Dölj 1x1</translation>
     </message>
     <message>
-        <source>Use Hex value for color picker</source>
-        <translation>Använd hexvärden för färgväljare</translation>
-    </message>
-    <message>
         <source>When you paste, automatically hide all image windows, if any image window is currently flashing.</source>
         <translation>Dölj alla bildfönster automatiskt vid inklistring, om något bildfönster blinkar vid tillfället.</translation>
     </message>
@@ -1738,14 +1860,6 @@ Om detta alternativ aktiveras, kommer ovanstående funktioner att inaktiveras.</
     <message>
         <source>Change</source>
         <translation>Ändra</translation>
-    </message>
-    <message>
-        <source>Copy the Hex value without &apos;#&apos;</source>
-        <translation>Kopiera hex-värdet utan &apos;#&apos;</translation>
-    </message>
-    <message>
-        <source>Copy without &apos;#&apos;</source>
-        <translation>Kopiera utan &apos;#&apos;</translation>
     </message>
     <message>
         <source>Border width:</source>
@@ -2222,12 +2336,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
 Vid inaktivering, visas det alltid centrerat på primär skärm.</translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
-Also affect the color value copying.</source>
-        <translation>Visa färg som hexvärde istället för RGB i förstoringsglaset.
-Påverkar också färgvärdeskopiering.</translation>
-    </message>
-    <message>
         <source>Configuration Storage</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2294,18 +2402,6 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show up automatically on entering snipping</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show usage tips</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show grid lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2456,6 +2552,78 @@ You will gain better response time on entering snipping.</source>
         <source>Bottom right:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Keep responsive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show up automatically for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color value:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No &apos;#&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uppercase Hex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen coordinate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Usage tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock PRO features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I&apos;m not interest in PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
@@ -2541,6 +2709,36 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Växla mosaik/oskärpa</translation>
+    </message>
+    <message>
+        <source>Fill with stroke</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>sizeinputdialog</name>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Avbryt</translation>
+    </message>
+</context>
+<context>
+    <name>textinputdialog</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Avbryt</translation>
     </message>
 </context>
 <context>

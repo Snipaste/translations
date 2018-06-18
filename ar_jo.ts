@@ -2,6 +2,28 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ar_JO">
 <context>
+    <name>ColorPicker</name>
+    <message>
+        <source>Press %1 to copy color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press %1 to switch between RGB/HEX</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CustomSnipDialog</name>
+    <message>
+        <source>Edit presets...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>s</source>
+        <translation type="unfinished">s</translation>
+    </message>
+</context>
+<context>
     <name>FvUpdater</name>
     <message>
         <source>Please try later.</source>
@@ -88,6 +110,13 @@ Please contact the developer.</source>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
         <translation>Snipaste الرجاء فك الضغط واسحب التطبيق الى مجلد التطبيقات بعد الاقلاع عن.</translation>
+    </message>
+</context>
+<context>
+    <name>GroupManagerDialog</name>
+    <message>
+        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -340,6 +369,22 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>Thanks for your support!
+Restart now to enjoy PRO features?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">موافق</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MouseActionEdit</name>
     <message>
         <source>None</source>
@@ -483,10 +528,6 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Milliseconds (000-999)</source>
         <translation>ميلي ثانية (000-999)</translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation>تبرع</translation>
     </message>
     <message>
         <source>Follow</source>
@@ -756,6 +797,10 @@ Share it to your friends!</source>
         <source>Select color</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Same as %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -770,6 +815,14 @@ Share it to your friends!</source>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
         <translation>يمكنك سحب ركن مربع النص لتغيير حجم النص.</translation>
+    </message>
+    <message>
+        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -952,6 +1005,18 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Pseudo transparent</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Copy annotation text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1022,6 +1087,10 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Pick File</source>
         <translation>اختر ملف</translation>
+    </message>
+    <message>
+        <source>Did you notice the red dots? Click them to get useful tips!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1096,14 +1165,24 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>SizeInputDialog</name>
+    <message>
+        <source>Edit presets...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SizePresetsDialog</name>
+    <message>
+        <source>Edit preset sizes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Snipaste</name>
     <message>
         <source>Help</source>
         <translation>التعليمات</translation>
-    </message>
-    <message>
-        <source>Import group...</source>
-        <translation>استيراد مجموعة ...</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -1184,10 +1263,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error Code</source>
         <translation>رمز الخطا</translation>
-    </message>
-    <message>
-        <source>Create new group...</source>
-        <translation>انشاء مجموعه جديده...</translation>
     </message>
     <message>
         <source>Show images</source>
@@ -1281,17 +1356,37 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Click here to update now</source>
         <translation> انقر هنا لتحديث الان</translation>
     </message>
+    <message>
+        <source>Create new group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation type="unfinished">التصحيح</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation type="unfinished">فتح ملف السجل</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export image group(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipaste image groups</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
-    <message>
-        <source>s</source>
-        <translation>s</translation>
-    </message>
-    <message>
-        <source>Delay time (1.0-10.0):</source>
-        <translation>وقت التاخير (1.0-10.0):</translation>
-    </message>
     <message>
         <source>Do you want to abort snipping?</source>
         <translation>هل تريد إحباط القص؟</translation>
@@ -1333,6 +1428,37 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>customsnipdialog</name>
+    <message>
+        <source>Top left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delay:</source>
+        <translation type="unfinished">تاخير:</translation>
+    </message>
+    <message>
+        <source>s</source>
+        <translation type="obsolete">s</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">موافق</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">الغاء الامر</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>doubleinputdialog</name>
     <message>
         <source>OK</source>
@@ -1346,16 +1472,24 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>groupmanager</name>
     <message>
-        <source>OK</source>
-        <translation>موافق</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>الغاء الامر</translation>
-    </message>
-    <message>
         <source>Image groups:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage Groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation type="unfinished">ازاله المجموعات الفارغة</translation>
     </message>
 </context>
 <context>
@@ -1440,10 +1574,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 </context>
 <context>
     <name>magnifier</name>
-    <message>
-        <source>Press C to copy color</source>
-        <translation>اضغط c لنسخ اللون</translation>
-    </message>
 </context>
 <context>
     <name>newgroup</name>
@@ -1545,11 +1675,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Restore Defaults</source>
         <translation>استعاده الافتراضات</translation>
-    </message>
-    <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
-Also affect the color value copying.</source>
-        <translation>اظهار اللون كقيمه عرافه بدلا من rgb في المكبر. يؤثر ايضا علي نسخ قيمه اللون.</translation>
     </message>
     <message>
         <source>Show the anchors in the magnifier.</source>
@@ -1678,10 +1803,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>اظهار الخطوط المتقاطعة ملء الشاشة تلقائيا في كل مره تبدا فيها بالقص.</translation>
     </message>
     <message>
-        <source>Use Hex value for color picker</source>
-        <translation>لمنتقي الوان hex استخدام قيمه</translation>
-    </message>
-    <message>
         <source>Open log file</source>
         <translation>فتح ملف السجل</translation>
     </message>
@@ -1742,10 +1863,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>&apos; ادخل &apos; الاجراء الرئيسي:</translation>
     </message>
     <message>
-        <source>Backup the states of the image windows so that they can be recovered the next time you open Snipaste.</source>
-        <translation>النسخ الاحتياطي للولايات من ويندوز الصورة بحيث يمكن استردادها في المرة القادمة التي تفتح القصاص.</translation>
-    </message>
-    <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
         <translation>يمكنك اضا تبديله مؤقتا بالضغط علي المفتاح tab عند القص.</translation>
     </message>
@@ -1760,10 +1877,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Output</source>
         <translation>الناتج</translation>
-    </message>
-    <message>
-        <source>Copy the Hex value without &apos;#&apos;</source>
-        <translation>انسخ القيمة hex بدون &apos; # &apos;</translation>
     </message>
     <message>
         <source>Always ignore HTML formats</source>
@@ -2088,10 +2201,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>انهاء القص اذا تم تنشيط اي اطار اخر</translation>
     </message>
     <message>
-        <source>Copy without &apos;#&apos;</source>
-        <translation>نسخ بدون &apos; # &apos;</translation>
-    </message>
-    <message>
         <source>Let the border of a new image window flash.</source>
         <translation>دع حدود نافذة الصورة الجديدة تومض.</translation>
     </message>
@@ -2285,18 +2394,6 @@ You will gain better response time on entering snipping.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show up automatically on entering snipping</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show usage tips</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show grid lines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Pixel scale:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2444,6 +2541,78 @@ You will gain better response time on entering snipping.</source>
         <source>Bottom right:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Keep responsive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show up automatically for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color value:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No &apos;#&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uppercase Hex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen coordinate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Usage tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock PRO features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I&apos;m not interest in PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
@@ -2529,6 +2698,36 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>تبديل الفسيفساء / طمس</translation>
+    </message>
+    <message>
+        <source>Fill with stroke</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>sizeinputdialog</name>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">موافق</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">الغاء الامر</translation>
+    </message>
+</context>
+<context>
+    <name>textinputdialog</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">موافق</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">الغاء الامر</translation>
     </message>
 </context>
 <context>
