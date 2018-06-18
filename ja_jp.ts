@@ -720,9 +720,9 @@ Besides, you should not remove the default configuration file after this operati
 
 Are you sure you want to switch to another configuration file?</source>
         <translation>注：別のファイルへの切り替えを行っています。それの中での設定を適用し、すべての現在の設置はカバーをカバーします。
-		
+
 		また、この操作をした後、デフォルトの配置ファイルを削除すべきではなく、どこで新しい配置ファイルを見つけることを記録しているから。
-		
+
 		別の配置ファイルを切り替えることを確定しますか？</translation>
     </message>
     <message>

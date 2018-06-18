@@ -1031,7 +1031,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation>Δεν ήταν δυνατή η ενεργοποίηση εκκίνησης με το σύστημα. 
+        <translation>Δεν ήταν δυνατή η ενεργοποίηση εκκίνησης με το σύστημα.
 Ίσως πρέπει πρώτα να την ενεργοποιήσετε χειροκίνητα στη Διαχείριση εργασιών.</translation>
     </message>
     <message>
@@ -1042,7 +1042,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
         <translation>Απέτυχε η δημιουργία χρονοδιαγράμματος εργασιών.
-Μπορείτε να κάνετε επανεκκίνηση του Snipaste με δικαιώματα 
+Μπορείτε να κάνετε επανεκκίνηση του Snipaste με δικαιώματα
 διαχειριστή και να προσπαθήστε ξανά.</translation>
     </message>
     <message>
@@ -1158,7 +1158,7 @@ You may restart Snipaste with admin privileges and try again.</source>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>Η συντόμευση για εναλλαγή της λειτουργίας κλικ ποντικιού της εικόνας κάτω από το δρομέα.
-Αν δεν υπάρχει παράθυρο εικόνας κάτω από τον δείκτη, όλες οι χωρίς δυνατότητα 
+Αν δεν υπάρχει παράθυρο εικόνας κάτω από τον δείκτη, όλες οι χωρίς δυνατότητα
 κλικ εικόνες, θα γίνουν με δυνατότητα κλικ.</translation>
     </message>
     <message>
@@ -1655,7 +1655,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
-        <translation>Ορίζει το μέγιστο αριθμό των εγγραφών στο ιστορικό λήψης στιγμιότυπων, 
+        <translation>Ορίζει το μέγιστο αριθμό των εγγραφών στο ιστορικό λήψης στιγμιότυπων,
 τα οποία αποθηκεύονται στο ιστορικό/στιγμιότυπο.</translation>
     </message>
     <message>
@@ -1779,7 +1779,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Let new images use smooth scaling when zooming.
 You can also find this option in the context menu of individual image window.</source>
         <translation>Οι νέες εικόνες να χρησιμοποιούν ομαλή κλιμάκωση όταν κάνετε ζουμ.
-Μπορείτε επίσης να βρείτε αυτή την επιλογή στο μενού περιβάλλοντος 
+Μπορείτε επίσης να βρείτε αυτή την επιλογή στο μενού περιβάλλοντος
 του παραθύρου της επιμέρους εικόνας.</translation>
     </message>
     <message>
@@ -1792,7 +1792,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
-        <translation>Αυτόματος εντοπισμός περιοχών των στοιχείων περιβάλλοντος χρήστη 
+        <translation>Αυτόματος εντοπισμός περιοχών των στοιχείων περιβάλλοντος χρήστη
 (όπως κουμπιά και μενού) κατά τη λήψη στιγμιοτύπων.</translation>
     </message>
     <message>
@@ -1947,8 +1947,8 @@ If this option is checked, the above features will be disabled.</source>
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
-        <translation>Αφήνει την εικόνα να αντιγραφεί ως Bitmap των Windows, 
-ώστε να μπορείτε κατόπιν να την επικολλήσετε σε κάποιες 
+        <translation>Αφήνει την εικόνα να αντιγραφεί ως Bitmap των Windows,
+ώστε να μπορείτε κατόπιν να την επικολλήσετε σε κάποιες
 ειδικές εφαρμογές, όπως το Skype.
 Ωστόσο, στο βασικό στοιχείο, το κανάλι άλφα της εικόνας χάνεται.</translation>
     </message>
@@ -2013,7 +2013,7 @@ Range: 10 - 100</source>
     <message>
         <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
-        <translation>Ένα κλεισμένο παράθυρο εικόνας μπορεί να ανακτηθεί από άλλη επικόλληση, 
+        <translation>Ένα κλεισμένο παράθυρο εικόνας μπορεί να ανακτηθεί από άλλη επικόλληση,
 αν ο αριθμός των κλεισμένων εικόνων δεν έχει φτάσει στο όριο.
 Όταν ξεπεραστεί το όριο, το παλαιότερο από αυτά θα καταστραφεί.</translation>
     </message>
@@ -2272,7 +2272,7 @@ Please report to the developer if you find any.</source>
 Specify 0 to obtain small compressed files, 100 for large uncompressed files.
 Specify -1 to let Snipaste decide for you.</source>
         <translation>Εύρος: 0 έως 100 ή -1.
-Ορίστε την τιμή 0 για απόκτηση μικρών συμπιεσμένων αρχείων, 100 για μεγάλα συμπιεσμένα αρχεία.  
+Ορίστε την τιμή 0 για απόκτηση μικρών συμπιεσμένων αρχείων, 100 για μεγάλα συμπιεσμένα αρχεία.
 Ορίστε -1 για να αποφασίσει το Snipaste για εσάς.</translation>
     </message>
     <message>
@@ -2382,7 +2382,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation>Επιλέξτε το αυτό, αν δεν χρειάζεστε ποτέ καταγραφή του δρομέα. 
+        <translation>Επιλέξτε το αυτό, αν δεν χρειάζεστε ποτέ καταγραφή του δρομέα.
 Θα έχετε καλύτερο χρόνο απόκρισης στην είσοδο στην καταγραφή.</translation>
     </message>
     <message>
