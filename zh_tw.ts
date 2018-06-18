@@ -819,11 +819,11 @@ Share it to your friends!</source>
         <translation>透過拖動文字框的邊角可以改變文字的大小。</translation>
     </message>
     <message>
-        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
+        <source>Drag to draw a single line or click to draw line strips.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1541,7 +1541,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1574,9 +1574,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>OK</source>
         <translation>確定</translation>
     </message>
-</context>
-<context>
-    <name>magnifier</name>
 </context>
 <context>
     <name>newgroup</name>
@@ -1973,10 +1970,6 @@ Range: 10 - 100</source>
         <translation>設定新貼圖視窗的不透明度。範圍: 10 - 100</translation>
     </message>
     <message>
-        <source>Thumbnail size:</source>
-        <translation>縮圖大小:</translation>
-    </message>
-    <message>
         <source>Max recoverable closed images:</source>
         <translation>可被還原的貼圖數:</translation>
     </message>
@@ -2083,10 +2076,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>重設貼圖:</translation>
     </message>
     <message>
-        <source>Toggle thumbnail:</source>
-        <translation>切換縮圖:</translation>
-    </message>
-    <message>
         <source>* If conflicted, the upper operation will be matched</source>
         <translation>* 如有衝突，由上至下優先對比</translation>
     </message>
@@ -2107,10 +2096,6 @@ Please report to the developer if you find any.</source>
     <message>
         <source>Check for updates</source>
         <translation>檢查更新</translation>
-    </message>
-    <message>
-        <source>Open source softwares used in Snipaste</source>
-        <translation>Snipaste 用到的開源軟體</translation>
     </message>
     <message>
         <source>Licenses</source>
@@ -2626,6 +2611,18 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open source software used in Snipaste</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

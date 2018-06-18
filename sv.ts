@@ -817,11 +817,11 @@ Share it to your friends!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
+        <source>Drag to draw a single line or click to draw line strips.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1537,7 +1537,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1570,9 +1570,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Open source software used in Snipaste:</source>
         <translation>Öppen källkodsmjukvara som används i Snipaste:</translation>
     </message>
-</context>
-<context>
-    <name>magnifier</name>
 </context>
 <context>
     <name>newgroup</name>
@@ -1642,10 +1639,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Auto detect UI elements</source>
         <translation>Hitta UI-element automatiskt</translation>
-    </message>
-    <message>
-        <source>Open source softwares used in Snipaste</source>
-        <translation>Öppen källkod som används i Snipaste</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
@@ -2018,10 +2011,6 @@ När gränsen är nådd, kommer den äldsta att tas bort.</translation>
         <translation>Återställ standardläge</translation>
     </message>
     <message>
-        <source>Thumbnail size:</source>
-        <translation>Miniatyrstorlek:</translation>
-    </message>
-    <message>
         <source>Output</source>
         <translation>Utdata</translation>
     </message>
@@ -2040,10 +2029,6 @@ När gränsen är nådd, kommer den äldsta att tas bort.</translation>
     <message>
         <source>Reset image:</source>
         <translation>Återställ bild:</translation>
-    </message>
-    <message>
-        <source>Toggle thumbnail:</source>
-        <translation>Växla miniatyr av/på:</translation>
     </message>
     <message>
         <source>* If conflicted, the upper operation will be matched</source>
@@ -2622,6 +2607,18 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open source software used in Snipaste</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

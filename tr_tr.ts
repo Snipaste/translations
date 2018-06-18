@@ -822,11 +822,11 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <translation>Metin boyutunu değiştirmek için metin kutusunun köşesinden sürükleyebilirsiniz.</translation>
     </message>
     <message>
-        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
+        <source>Drag to draw a single line or click to draw line strips.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1540,8 +1540,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Yok sayılanlar listesi:</translation>
     </message>
     <message>
-        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
-        <translation>Virgülle ayrılmış çalıştırılabilir uygulama isimleri girin (ör: a.exe, b.exe)</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1573,9 +1573,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>OK</source>
         <translation>Tamam</translation>
     </message>
-</context>
-<context>
-    <name>magnifier</name>
 </context>
 <context>
     <name>newgroup</name>
@@ -1957,10 +1954,6 @@ Range: 10 - 100</source>
 Aralık: 10 - 100</translation>
     </message>
     <message>
-        <source>Thumbnail size:</source>
-        <translation>Öngörüntü boyutu:</translation>
-    </message>
-    <message>
         <source>Auto backup</source>
         <translation>Oto yedek</translation>
     </message>
@@ -2241,10 +2234,6 @@ Snipaste&apos;in sizin için karar vermesine izin vermek için -1 yazın.</trans
         <translation>Resmi sıfırla:</translation>
     </message>
     <message>
-        <source>Toggle thumbnail:</source>
-        <translation>Öngörüntü seçimi:</translation>
-    </message>
-    <message>
         <source>* If conflicted, the upper operation will be matched</source>
         <translation>* Çakışırsa, üst işlem eşleşecektir</translation>
     </message>
@@ -2325,10 +2314,6 @@ Herhangi bir hata bulursanız lütfen geliştiriciye bildirin.</translation>
     <message>
         <source>Version</source>
         <translation>Sürüm</translation>
-    </message>
-    <message>
-        <source>Open source softwares used in Snipaste</source>
-        <translation>Snipaste&apos;de kullanılan açık kaynaklı yazılımlar</translation>
     </message>
     <message>
         <source>Licenses</source>
@@ -2626,6 +2611,18 @@ Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open source software used in Snipaste</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

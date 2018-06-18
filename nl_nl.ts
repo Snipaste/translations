@@ -16,7 +16,7 @@
     <name>CustomSnipDialog</name>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sec.</translation>
     </message>
     <message>
         <source>Edit presets...</source>
@@ -822,11 +822,11 @@ Deel het met vrienden!</translation>
         <translation>Sleep de hoek van het tekstkader om de tekstgroote aan te passen.</translation>
     </message>
     <message>
-        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
+        <source>Drag to draw a single line or click to draw line strips.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1540,8 +1540,8 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>Genegeerd:</translation>
     </message>
     <message>
-        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
-        <translation>Voer de namen van uitvoerbare programma&apos;s in gescheiden door komma&apos;s (bijv. a.exe, b.exe)</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1573,9 +1573,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <source>OK</source>
         <translation>OK</translation>
     </message>
-</context>
-<context>
-    <name>magnifier</name>
 </context>
 <context>
     <name>newgroup</name>
@@ -2033,10 +2030,6 @@ Range: 10 - 100</source>
 Bereik: 10-100</translation>
     </message>
     <message>
-        <source>Thumbnail size:</source>
-        <translation>Miniatuurgrootte:</translation>
-    </message>
-    <message>
         <source>If the source is a screenshot, show it where you snipped.
 If disabled, it would always be shown at the center of the primary screen.</source>
         <translation>Schermopname weergeven op de plaats van de opname.
@@ -2105,10 +2098,6 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
         <translation>Afbeelding herstellen:</translation>
     </message>
     <message>
-        <source>Toggle thumbnail:</source>
-        <translation>Miniauur wisselen:</translation>
-    </message>
-    <message>
         <source>* If conflicted, the upper operation will be matched</source>
         <translation>* Bij conflict wordt de bovenste opdracht uitgevoerd</translation>
     </message>
@@ -2119,10 +2108,6 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
     <message>
         <source>Check for updates</source>
         <translation>Nieuwe versie zoeken</translation>
-    </message>
-    <message>
-        <source>Open source softwares used in Snipaste</source>
-        <translation>Open Source-software in Snipaste</translation>
     </message>
     <message>
         <source>Max width:</source>
@@ -2626,6 +2611,18 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open source software used in Snipaste</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

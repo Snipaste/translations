@@ -817,11 +817,11 @@ Share it to your friends!</source>
         <translation>يمكنك سحب ركن مربع النص لتغيير حجم النص.</translation>
     </message>
     <message>
-        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
+        <source>Drag to draw a single line or click to draw line strips.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1538,7 +1538,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1571,9 +1571,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Open source software used in Snipaste:</source>
         <translation> افتح مصدرالبرمجيات المستخدمة في القص:</translation>
     </message>
-</context>
-<context>
-    <name>magnifier</name>
 </context>
 <context>
     <name>newgroup</name>
@@ -1715,10 +1712,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>لون الخلفية المستخدمة لتحويل النص العادي</translation>
     </message>
     <message>
-        <source>Toggle thumbnail:</source>
-        <translation>تبديل الصورة المصغرة:</translation>
-    </message>
-    <message>
         <source>Include beta builds</source>
         <translation>تضمين بنيان بيتا</translation>
     </message>
@@ -1743,10 +1736,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>الكشف التلقائي عن عناصر واجهه المستخدم</translation>
     </message>
     <message>
-        <source>Thumbnail size:</source>
-        <translation>حجم الصورة المصغرة:</translation>
-    </message>
-    <message>
         <source>Add more commands to the tray menu.</source>
         <translation>اضافه المزيد من الاوامر الى قائمه علبه الورق.</translation>
     </message>
@@ -1761,10 +1750,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Change the quick save folder.</source>
         <translation>تغيير المجلد  حفظ سريع.</translation>
-    </message>
-    <message>
-        <source>Open source softwares used in Snipaste</source>
-        <translation>فتح مصدر البرمجيات المستخدمة في القص</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
@@ -2611,6 +2596,18 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open source software used in Snipaste</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

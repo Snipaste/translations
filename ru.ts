@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">сек</translation>
     </message>
 </context>
 <context>
@@ -817,11 +817,11 @@ Share it to your friends!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
+        <source>Drag to draw a single line or click to draw line strips.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1533,7 +1533,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1566,9 +1566,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>OK</source>
         <translation>ОК</translation>
     </message>
-</context>
-<context>
-    <name>magnifier</name>
 </context>
 <context>
     <name>newgroup</name>
@@ -1950,10 +1947,6 @@ Range: 10 - 100</source>
 Диапазон: 10-100</translation>
     </message>
     <message>
-        <source>Thumbnail size:</source>
-        <translation>Размер миниатюры:</translation>
-    </message>
-    <message>
         <source>Auto backup</source>
         <translation>Автоматическое резервное копирование</translation>
     </message>
@@ -2234,10 +2227,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>Сброс изображения:</translation>
     </message>
     <message>
-        <source>Toggle thumbnail:</source>
-        <translation>Переключить миниатюру:</translation>
-    </message>
-    <message>
         <source>* If conflicted, the upper operation will be matched</source>
         <translation>* При конфликте, верхняя операция будет сопоставлена</translation>
     </message>
@@ -2318,10 +2307,6 @@ Please report to the developer if you find any.</source>
     <message>
         <source>Version</source>
         <translation>Версия</translation>
-    </message>
-    <message>
-        <source>Open source softwares used in Snipaste</source>
-        <translation>Программное обеспечение с открытым исходным кодом, используемое в Snipaste</translation>
     </message>
     <message>
         <source>Licenses</source>
@@ -2618,6 +2603,18 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open source software used in Snipaste</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

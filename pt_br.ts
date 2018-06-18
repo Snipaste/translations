@@ -821,11 +821,11 @@ Share it to your friends!</source>
         <translation>Você pode arrastar o canto da caixa de texto para alterar o tamanho do texto.</translation>
     </message>
     <message>
-        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
+        <source>Drag to draw a single line or click to draw line strips.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1543,7 +1543,7 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1576,9 +1576,6 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <source>OK</source>
         <translation>OK</translation>
     </message>
-</context>
-<context>
-    <name>magnifier</name>
 </context>
 <context>
     <name>newgroup</name>
@@ -2100,10 +2097,6 @@ Range: 10 - 100</source>
 Variação: 10 - 100</translation>
     </message>
     <message>
-        <source>Thumbnail size:</source>
-        <translation>Tamanho da thumbnail:</translation>
-    </message>
-    <message>
         <source>If the source is a screenshot, show it where you snipped.
 If disabled, it would always be shown at the center of the primary screen.</source>
         <translation>Se a fonte for uma captura , exibe onde você recortou.
@@ -2300,10 +2293,6 @@ Especifique -1 para deixar que o Snipaste decida para você.</translation>
         <translation>Redefinir imagem:</translation>
     </message>
     <message>
-        <source>Toggle thumbnail:</source>
-        <translation>Alternar thumbnail:</translation>
-    </message>
-    <message>
         <source>* If conflicted, the upper operation will be matched</source>
         <translation>* Se houver conflito, a operação superior será aplicada</translation>
     </message>
@@ -2332,10 +2321,6 @@ Por favor, reporte caso encontre algum.</translation>
     <message>
         <source>Check for updates</source>
         <translation>Verificar atualizações</translation>
-    </message>
-    <message>
-        <source>Open source softwares used in Snipaste</source>
-        <translation>Softwares de código aberto usados no Snipaste</translation>
     </message>
     <message>
         <source>Contact:</source>
@@ -2629,6 +2614,18 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open source software used in Snipaste</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

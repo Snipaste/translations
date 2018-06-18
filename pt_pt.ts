@@ -821,11 +821,11 @@ Share it to your friends!</source>
         <translation>Pode arrastar o canto da caixa de texto para alterar o tamanho do texto.</translation>
     </message>
     <message>
-        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
+        <source>Drag to draw a single line or click to draw line strips.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1543,7 +1543,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1576,9 +1576,6 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <source>OK</source>
         <translation>OK</translation>
     </message>
-</context>
-<context>
-    <name>magnifier</name>
 </context>
 <context>
     <name>newgroup</name>
@@ -1932,10 +1929,6 @@ Range: 10 - 100</source>
 Intervalo: 10 - 100</translation>
     </message>
     <message>
-        <source>Thumbnail size:</source>
-        <translation>Tamanho da miniatura:</translation>
-    </message>
-    <message>
         <source>Open log file</source>
         <translation>Abrir ficheiro de registo</translation>
     </message>
@@ -2244,10 +2237,6 @@ Se esta opção estiver seleccionada, as funcionalidades acima serão desactivad
         <translation>Repor imagem:</translation>
     </message>
     <message>
-        <source>Toggle thumbnail:</source>
-        <translation>Alternar miniatura:</translation>
-    </message>
-    <message>
         <source>* If conflicted, the upper operation will be matched</source>
         <translation>* Se existir conflito, a operação acima será executada</translation>
     </message>
@@ -2328,10 +2317,6 @@ Por favor, reporte-os para mim se descobrir algum.</translation>
     <message>
         <source>Version</source>
         <translation>Versão</translation>
-    </message>
-    <message>
-        <source>Open source softwares used in Snipaste</source>
-        <translation>Software de código aberto usado no Snipaste</translation>
     </message>
     <message>
         <source>Licenses</source>
@@ -2629,6 +2614,18 @@ Terá um melhor tempo de resposta ao efectuar a captura.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open source software used in Snipaste</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

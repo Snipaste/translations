@@ -821,11 +821,11 @@ Share it to your friends!</source>
         <translation>Vous pouvez faire glisser le coin de la zone de texte pour modifier la taille du texte.</translation>
     </message>
     <message>
-        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
+        <source>Drag to draw a single line or click to draw line strips.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1543,7 +1543,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
+        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1576,9 +1576,6 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <source>Open source software used in Snipaste:</source>
         <translation>Logiciel Open Source utilisé dans Snipaste:</translation>
     </message>
-</context>
-<context>
-    <name>magnifier</name>
 </context>
 <context>
     <name>newgroup</name>
@@ -1706,10 +1703,6 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Couleur d&apos;arrière-plan utilisée pour la conversion en texte brut</translation>
     </message>
     <message>
-        <source>Toggle thumbnail:</source>
-        <translation>Basculer vignette:</translation>
-    </message>
-    <message>
         <source>Include beta builds</source>
         <translation>Inclure versions bêta</translation>
     </message>
@@ -1730,10 +1723,6 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Détection automatique des éléments de l&apos;interface utilisateur</translation>
     </message>
     <message>
-        <source>Thumbnail size:</source>
-        <translation>Taille de la miniature:</translation>
-    </message>
-    <message>
         <source>Add more commands to the tray menu.</source>
         <translation>Ajouter plus de commandes au menu de la barre.</translation>
     </message>
@@ -1748,10 +1737,6 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <message>
         <source>Change the quick save folder.</source>
         <translation>Modifier le dossier de sauvegarde rapide.</translation>
-    </message>
-    <message>
-        <source>Open source softwares used in Snipaste</source>
-        <translation>Logiciels Open Source utilisés dans Snipaste</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
@@ -2629,6 +2614,18 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast thumbnail:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open source software used in Snipaste</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
