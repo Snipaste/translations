@@ -1,6 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_CN" sourcelanguage="en_US">
+<context>
+    <name>ColorPicker</name>
+    <message>
+        <source>Press %1 to copy color</source>
+        <translation>按 %1 复制颜色值</translation>
+    </message>
+    <message>
+        <source>Press %1 to switch between RGB/HEX</source>
+        <translation>按 %1 切换 RBG/HEX</translation>
+    </message>
+</context>
+<context>
+    <name>CustomSnipDialog</name>
+    <message>
+        <source>Edit presets...</source>
+        <translation>编辑预设值...</translation>
+    </message>
+    <message>
+        <source>s</source>
+        <translation>秒</translation>
+    </message>
+</context>
 <context>
     <name>FvUpdater</name>
     <message>
@@ -88,6 +110,13 @@ Please contact the developer.</source>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
         <translation>请退出 Snipaste 后，将其解压后拖到&quot;应用程序&quot;文件夹来完成更新。</translation>
+    </message>
+</context>
+<context>
+    <name>GroupManagerDialog</name>
+    <message>
+        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <translation>确定要关闭选中组吗？此操作无法撤销。</translation>
     </message>
 </context>
 <context>
@@ -340,6 +369,23 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>Thanks for your support!
+Restart now to enjoy PRO features?</source>
+        <translation>谢谢您的支持!
+马上重启即可享受专业版~</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>好的</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation>稍后</translation>
+    </message>
+</context>
+<context>
     <name>MouseActionEdit</name>
     <message>
         <source>None</source>
@@ -375,10 +421,6 @@ Please contact the developer.</source>
 </context>
 <context>
     <name>OptionsDialog</name>
-    <message>
-        <source>Donate</source>
-        <translation>捐赠</translation>
-    </message>
     <message>
         <source>-bit</source>
         <translation> 位</translation>
@@ -759,6 +801,10 @@ Share it to your friends!</source>
         <source>Select color</source>
         <translation>选择颜色</translation>
     </message>
+    <message>
+        <source>Same as %1</source>
+        <translation>等同于 %1</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -773,6 +819,14 @@ Share it to your friends!</source>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
         <translation>通过拖动文字框的边角可以改变文字的大小。</translation>
+    </message>
+    <message>
+        <source>Drag to draw a single line, or click to draw line strips.</source>
+        <translation>在区域内拖拽可画单条直线，点按可画折线。</translation>
+    </message>
+    <message>
+        <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
+        <translation>点击该按钮可以切换马赛克/高斯模糊。</translation>
     </message>
 </context>
 <context>
@@ -955,6 +1009,18 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Pseudo transparent</source>
         <translation>伪透明</translation>
     </message>
+    <message>
+        <source>Copy annotation text</source>
+        <translation>复制标注文字</translation>
+    </message>
+    <message>
+        <source>Select all images</source>
+        <translation>选中所有贴图</translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation>灰度显示</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1026,6 +1092,10 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Pick File</source>
         <translation>选择文件</translation>
+    </message>
+    <message>
+        <source>Did you notice the red dots? Click them to get useful tips!</source>
+        <translation>你注意到小红点了吗？点击它们可以获取提示哦！</translation>
     </message>
 </context>
 <context>
@@ -1100,6 +1170,20 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>SizeInputDialog</name>
+    <message>
+        <source>Edit presets...</source>
+        <translation>编辑预设值...</translation>
+    </message>
+</context>
+<context>
+    <name>SizePresetsDialog</name>
+    <message>
+        <source>Edit preset sizes</source>
+        <translation>编辑预设尺寸</translation>
+    </message>
+</context>
+<context>
     <name>Snipaste</name>
     <message>
         <source>Snip</source>
@@ -1140,10 +1224,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>No update available.</source>
         <translation>没有可用的更新。</translation>
-    </message>
-    <message>
-        <source>Import group...</source>
-        <translation>导入组...</translation>
     </message>
     <message>
         <source>Import image group</source>
@@ -1274,10 +1354,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>清除空组</translation>
     </message>
     <message>
-        <source>Create new group...</source>
-        <translation>新建分组...</translation>
-    </message>
-    <message>
         <source>Snipaste %1 is released!</source>
         <translation>Snipaste %1 已经发布！</translation>
     </message>
@@ -1285,17 +1361,37 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Click here to update now</source>
         <translation>点击这里马上更新</translation>
     </message>
+    <message>
+        <source>Create new group</source>
+        <translation>创建新组</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>调试</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>打开日志文件</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>打开配置文件</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>解锁专业版...</translation>
+    </message>
+    <message>
+        <source>Export image group(s)</source>
+        <translation>导出贴图组</translation>
+    </message>
+    <message>
+        <source>Snipaste image groups</source>
+        <translation>Snipaste 贴图组</translation>
+    </message>
 </context>
 <context>
     <name>Snipper</name>
-    <message>
-        <source>Delay time (1.0-10.0):</source>
-        <translation>延迟时间 (1.0-10.0):</translation>
-    </message>
-    <message>
-        <source>s</source>
-        <translation>秒</translation>
-    </message>
     <message>
         <source>Do you want to abort snipping?</source>
         <translation>确定要退出截屏吗？</translation>
@@ -1337,6 +1433,37 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>customsnipdialog</name>
+    <message>
+        <source>Top left:</source>
+        <translation>左上角:</translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation>大小:</translation>
+    </message>
+    <message>
+        <source>Delay:</source>
+        <translation>延迟:</translation>
+    </message>
+    <message>
+        <source>s</source>
+        <translation type="obsolete">秒</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation>预设</translation>
+    </message>
+</context>
+<context>
     <name>doubleinputdialog</name>
     <message>
         <source>OK</source>
@@ -1350,16 +1477,24 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>groupmanager</name>
     <message>
-        <source>OK</source>
-        <translation>确定</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
         <source>Image groups:</source>
         <translation>贴图组:</translation>
+    </message>
+    <message>
+        <source>Manage Groups</source>
+        <translation>管理贴图组</translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation>导入</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>导出</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>清除空组</translation>
     </message>
 </context>
 <context>
@@ -1444,10 +1579,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 </context>
 <context>
     <name>magnifier</name>
-    <message>
-        <source>Press C to copy color</source>
-        <translation>按 C 复制颜色值</translation>
-    </message>
 </context>
 <context>
     <name>newgroup</name>
@@ -1970,18 +2101,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>自定义</translation>
     </message>
     <message>
-        <source>Use Hex value for color picker</source>
-        <translation>取色器使用 Hex 颜色值</translation>
-    </message>
-    <message>
-        <source>Copy the Hex value without &apos;#&apos;</source>
-        <translation>取色复制 Hex 颜色值时不要加 #</translation>
-    </message>
-    <message>
-        <source>Copy without &apos;#&apos;</source>
-        <translation>不要复制 #</translation>
-    </message>
-    <message>
         <source>Run Snipaste when the operating system starts.</source>
         <translation>系统开机启动后自动运行 Snipaste.</translation>
     </message>
@@ -2062,10 +2181,6 @@ If this option is checked, the above features will be disabled.</source>
         <translation>如果你复制了一个图片文件，第一次按贴图键会把图像贴出，再按贴图键会把文件路径贴出。
 如果你复制了一个非图片文件，按贴图键会把文件路径贴出。
 如果勾选了这个选项，以上特性将被禁用。</translation>
-    </message>
-    <message>
-        <source>Backup the states of the image windows so that they can be recovered the next time you open Snipaste.</source>
-        <translation>备份所有贴图窗口的状态，使得下次启动 Snipaste 时能够恢复。</translation>
     </message>
     <message>
         <source>Max recoverable closed images:</source>
@@ -2226,12 +2341,6 @@ Please report to the developer if you find any.</source>
         <translation>显示语言:</translation>
     </message>
     <message>
-        <source>Show the color as a Hex value instead of RGB in the magnifier.
-Also affect the color value copying.</source>
-        <translation>将放大镜中的颜色值显示为 Hex 而不是 RGB.
-同时也会影响颜色值的复制。</translation>
-    </message>
-    <message>
         <source>Configuration Storage</source>
         <translation>配置文件存储位置</translation>
     </message>
@@ -2302,10 +2411,6 @@ You will gain better response time on entering snipping.</source>
         <translation>放大镜</translation>
     </message>
     <message>
-        <source>Show usage tips</source>
-        <translation>显示操作提示</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>工具条</translation>
     </message>
@@ -2344,14 +2449,6 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Right click:</source>
         <translation>右键点击:</translation>
-    </message>
-    <message>
-        <source>Show up automatically on entering snipping</source>
-        <translation>截屏时自动出现</translation>
-    </message>
-    <message>
-        <source>Show grid lines</source>
-        <translation>显示网格线</translation>
     </message>
     <message>
         <source>Pixel scale:</source>
@@ -2461,6 +2558,78 @@ You will gain better response time on entering snipping.</source>
         <source>Bottom right:</source>
         <translation>右下角:</translation>
     </message>
+    <message>
+        <source>Keep responsive</source>
+        <translation>保持快速响应</translation>
+    </message>
+    <message>
+        <source>Show up automatically for:</source>
+        <translation>自动显示当:</translation>
+    </message>
+    <message>
+        <source>Normal snip</source>
+        <translation>普通截图</translation>
+    </message>
+    <message>
+        <source>Super snip</source>
+        <translation>超级截图</translation>
+    </message>
+    <message>
+        <source>Color value:</source>
+        <translation>颜色值:</translation>
+    </message>
+    <message>
+        <source>No &apos;#&apos;</source>
+        <translation>隐藏 ‘#’</translation>
+    </message>
+    <message>
+        <source>Uppercase Hex</source>
+        <translation>Hex 颜色值大写</translation>
+    </message>
+    <message>
+        <source>Show:</source>
+        <translation>显示:</translation>
+    </message>
+    <message>
+        <source>Grid lines</source>
+        <translation>网格线</translation>
+    </message>
+    <message>
+        <source>Screen coordinate</source>
+        <translation>屏幕坐标</translation>
+    </message>
+    <message>
+        <source>Usage tips</source>
+        <translation>操作提示</translation>
+    </message>
+    <message>
+        <source>Copy text:</source>
+        <translation>复制文本:</translation>
+    </message>
+    <message>
+        <source>Rate</source>
+        <translation>评价</translation>
+    </message>
+    <message>
+        <source>Unlock PRO features!</source>
+        <translation>解锁专业版功能！</translation>
+    </message>
+    <message>
+        <source>Buy PRO</source>
+        <translation>购买专业版</translation>
+    </message>
+    <message>
+        <source>I&apos;m not interest in PRO</source>
+        <translation>我对专业版不感兴趣</translation>
+    </message>
+    <message>
+        <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
+        <translation>备份截图/贴图的所有状态，使得下次启动 Snipaste 时能够恢复。</translation>
+    </message>
+    <message>
+        <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
+        <translation>自动定时重载 dll 文件以提高截屏的响应速度。</translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
@@ -2546,6 +2715,36 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Font family</source>
         <translation>字体族</translation>
+    </message>
+    <message>
+        <source>Fill with stroke</source>
+        <translation>带边框填充</translation>
+    </message>
+</context>
+<context>
+    <name>sizeinputdialog</name>
+    <message>
+        <source>Preset</source>
+        <translation>预设</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>textinputdialog</name>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
