@@ -5,11 +5,11 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation>Toes %1 om de kleur te kopiëren</translation>
+        <translation>Toets %1 om de kleur te kopiëren</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation>Toets %1 om te schakelen tussen RGB en HEX</translation>
+        <translation>Toets %1 om RGB/HEX te wisselen</translation>
     </message>
 </context>
 <context>
@@ -1182,7 +1182,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Grootte-instellingen bewerken…</translation>
     </message>
 </context>
 <context>
