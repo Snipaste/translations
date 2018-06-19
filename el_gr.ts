@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="el_GR">
+<TS version="2.0" language="el_GR">
 <context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation>Πατήστε %1 για αιντιγραφή χρώματος</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation>Πατήστε %1 για εναλλαγή μεταξύ RGB/HEX</translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασία προεπιλογών...</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished">δευτ/λεπτα</translation>
+        <translation>δευτ/λεπτα</translation>
     </message>
 </context>
 <context>
@@ -118,7 +118,7 @@ Please contact the developer.</source>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Είστε βέβαιος για το κλείσιμο  των επιλεγμένων ομάδων; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.</translation>
     </message>
 </context>
 <context>
@@ -375,15 +375,16 @@ Please contact the developer.</source>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ευχαριστώ για την υποστήριξή σας!
+Επανεκκίνηση τώρα για να απολαύσετε τις δυνατότητες PRO;</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Εντάξει</translation>
+        <translation>Εντάξει</translation>
     </message>
     <message>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Αργότερα</translation>
     </message>
 </context>
 <context>
@@ -738,60 +739,61 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Mouse drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεταφορά με το ποντίκι</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished">Διαφανής</translation>
+        <translation>Διαφανής</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Ψευδοδιαφανής</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished">Σκούρα σκακιέρα</translation>
+        <translation>Σκούρα σκακιέρα</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Φωτεινή σκακιέρα</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Στιγμιότυπο και καρφίτσωμα</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation type="unfinished">Στιγμιότυπο και αντιγραφή</translation>
+        <translation>Στιγμιότυπο και αντιγραφή</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation type="unfinished">Κύλιση ποντικιού</translation>
+        <translation>Κύλιση ποντικιού</translation>
     </message>
     <message>
         <source>Invalid data!</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρα δεδομένα!</translation>
     </message>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation type="unfinished"></translation>
+        <translation>Η παλέτα δεδομένων έχει αντιγραφεί στο πρόχειρο.
+Μοιραστείτε την με τους φίλους σας!</translation>
     </message>
     <message>
         <source>Snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη στιγμιότυπου</translation>
     </message>
     <message>
         <source>Existing image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπάρχοντα παράθυρα εικόνας</translation>
     </message>
     <message>
         <source>Select color</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή χρώματος</translation>
     </message>
     <message>
         <source>Same as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ίδιο με %1</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
@@ -822,11 +824,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλικ σε αυτό το εικονίδιο για εναλλαγή μεταξύ μωσαϊκού και Γκαουσιανού θαμπώματος.</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύρετε για να σχεδιάσετε μια γραμμή ή κάντε κλικ για να σχεδιάσετε λωρίδες γραμμών.</translation>
     </message>
 </context>
 <context>
@@ -1004,23 +1006,23 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Περικοπή</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Ψευδοδιαφάνεια</translation>
     </message>
     <message>
         <source>Copy annotation text</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή κειμένου σχολίου</translation>
     </message>
     <message>
         <source>Select all images</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή όλων των εικόνων</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλίμακα του γκρι</translation>
     </message>
 </context>
 <context>
@@ -1098,7 +1100,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσέξατε τις κόκκινες τελείες; Κάντε κλικ σε αυτές για χρήσιμες συμβουλές!</translation>
     </message>
 </context>
 <context>
@@ -1163,7 +1165,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Show tray menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση μενού περιοχής ειδοποιήσεων</translation>
     </message>
 </context>
 <context>
@@ -1177,14 +1179,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>SizeInputDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασία προεπιλογών...</translation>
     </message>
 </context>
 <context>
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασία προεπιλεγμένων μεγεθών</translation>
     </message>
 </context>
 <context>
@@ -1367,31 +1369,31 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Create new group</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία νέας ομάδας</translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished">Εντοπισμός σφαλμάτων</translation>
+        <translation>Εντοπισμός σφαλμάτων</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation type="unfinished">Άνοιγμα αρχείου καταγραφής</translation>
+        <translation>Άνοιγμα αρχείου καταγραφής</translation>
     </message>
     <message>
         <source>Open config file</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα αρχείου καταγραφής</translation>
     </message>
     <message>
         <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ξεκλείδωμα PRO...</translation>
     </message>
     <message>
         <source>Export image group(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή ομάδας(ων) εικόνων</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδες εικόνων του Snipaste</translation>
     </message>
 </context>
 <context>
@@ -1440,27 +1442,27 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Πάνω αριστερά:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μέγεθος:</translation>
     </message>
     <message>
         <source>Delay:</source>
-        <translation type="unfinished">Καθυστέρηση:</translation>
+        <translation>Καθυστέρηση:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Εντάξει</translation>
+        <translation>Εντάξει</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Άκυρο</translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Προεπιλογή</translation>
     </message>
 </context>
 <context>
@@ -1478,23 +1480,23 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>groupmanager</name>
     <message>
         <source>Image groups:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδες εικόνων:</translation>
     </message>
     <message>
         <source>Manage Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχείριση ομάδων</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή</translation>
     </message>
     <message>
         <source>Remove empty groups</source>
-        <translation type="unfinished">Διαγραφή κενών ομάδων</translation>
+        <translation>Διαγραφή κενών ομάδων</translation>
     </message>
 </context>
 <context>
@@ -1540,11 +1542,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Λίστα παράβλεψης:</translation>
     </message>
     <message>
         <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγάγετε ονόματα εκτελέσιμων αρχείων διαχωρίζοντάς τα με κόμματα (π.χ. a.exe, b.exe)</translation>
     </message>
 </context>
 <context>
@@ -2400,203 +2402,203 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεγεθυντικός φακός</translation>
     </message>
     <message>
         <source>Pixel scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλίμακα πίξελ:</translation>
     </message>
     <message>
         <source>Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Γραμμή εργαλείων</translation>
     </message>
     <message>
         <source>Use separate colors for different shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρήση ξεχωριστών χρωμάτων για διαφορετικά σχήματα</translation>
     </message>
     <message>
         <source>Number of pen sizes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αριθμός μεγεθών πένας:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανεκκίνηση του Snipaste για εφαρμογή των αλλαγών.</translation>
     </message>
     <message>
         <source>Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Παλέτα</translation>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation>Εφαρμογή σε</translation>
     </message>
     <message>
         <source>Import from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή από το πρόχειρο</translation>
     </message>
     <message>
         <source>Export to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή στο πρόχειρο</translation>
     </message>
     <message>
         <source>Disable completely</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλήρης απενεργοποίηση</translation>
     </message>
     <message>
         <source>Include unsaved screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμπερίληψη μη αποθηκευμένων εικόνων</translation>
     </message>
     <message>
         <source>Default background mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Προεπιλεγμένη λειτουργία φόντου:</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόχειρο</translation>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή ως Bitmap των Windows:</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Στιγμιότυπο</translation>
     </message>
     <message>
         <source>Image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Παράθυρο εικόνας</translation>
     </message>
     <message>
         <source>So that you can also paste the image into file explorer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Για να μπορείτε επίσης να επικολλήσετε την εικόνα στην εξερεύνηση αρχείων.</translation>
     </message>
     <message>
         <source>Copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή εικόνας ως αρχείο</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχείο</translation>
     </message>
     <message>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Έλεγχος</translation>
     </message>
     <message>
         <source>Super Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπερστιγμιότυπο</translation>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Εικονίδιο περιοχής ειδοποιήσεων</translation>
     </message>
     <message>
         <source>Left click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αριστερό κλικ:</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished">Προεπιλογές</translation>
+        <translation>Προεπιλογές</translation>
     </message>
     <message>
         <source>Middle click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεσαίο κλικ:</translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεξί κλικ:</translation>
     </message>
     <message>
         <source>Hot Corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργή γωνία</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση</translation>
     </message>
     <message>
         <source>Corner size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μέγεθος γωνίας:</translation>
     </message>
     <message>
         <source>Trigger delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Έναυσμα καθυστέρησης:</translation>
     </message>
     <message>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Check interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρόνος μεταξύ ελέγχων:</translation>
     </message>
     <message>
         <source>Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Λειτουργία</translation>
     </message>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Πάνω αριστερά:</translation>
     </message>
     <message>
         <source>Top right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Πάνω δεξιά:</translation>
     </message>
     <message>
         <source>Bottom left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κάτω αριστερά:</translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κάτω δεξιά:</translation>
     </message>
     <message>
         <source>Keep responsive</source>
-        <translation type="unfinished"></translation>
+        <translation>Διατήρηση απόκρισης</translation>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφανίζεται αυτόματα για:</translation>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Κανονικό στιγμιότυπο</translation>
     </message>
     <message>
         <source>Super snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπερστιγμιότυπο</translation>
     </message>
     <message>
         <source>Color value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Τιμή χρώματος:</translation>
     </message>
     <message>
         <source>No &apos;#&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ν° &apos;#&apos;</translation>
     </message>
     <message>
         <source>Uppercase Hex</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεκαεξαδικά κεφαλαία</translation>
     </message>
     <message>
         <source>Show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση:</translation>
     </message>
     <message>
         <source>Grid lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Γραμμές πλέγματος</translation>
     </message>
     <message>
         <source>Screen coordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Συντεταγμένη οθόνης</translation>
     </message>
     <message>
         <source>Usage tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμβουλές χρήσης</translation>
     </message>
     <message>
         <source>Copy text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή κειμένου:</translation>
     </message>
     <message>
         <source>Rate</source>
@@ -2604,35 +2606,35 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Unlock PRO features!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ξεκλείδωμα χαρακτηριστικών PRO!</translation>
     </message>
     <message>
         <source>Buy PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Αγορά PRO</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ενδιαφέρομαι για την PRO</translation>
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματη δημιουργία αντιγράφων ασφαλείας της κατάστασης του παραθύρου στιγμιοτύπου καθώς και των παραθύρων εικόνας, έτσι ώστε να μπορούν να ανακτηθούν την επόμενη φορά που θα ανοίξετε το Snipaste.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Βελτιώστε την ταχύτητα απόκρισης της λήψης στιγμιότυπου με την αυτόματη περιοδική επαναφόρτωση των dll.</translation>
     </message>
     <message>
         <source>Fast thumbnail size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μέγεθος γρήγορης μικρογραφίας:</translation>
     </message>
     <message>
         <source>Fast thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Γρήγορη μικρογραφία:</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
-        <translation type="unfinished"></translation>
+        <translation>Λογισμικό ανοιχτού κώδικα που χρησιμοποιείται στο Snipaste</translation>
     </message>
 </context>
 <context>
@@ -2722,33 +2724,33 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Fill with stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Γέμισμα με μολυβιά</translation>
     </message>
 </context>
 <context>
     <name>sizeinputdialog</name>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Προεπιλογή</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Εντάξει</translation>
+        <translation>Εντάξει</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Άκυρο</translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Εντάξει</translation>
+        <translation>Εντάξει</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Άκυρο</translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>

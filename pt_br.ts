@@ -5,22 +5,22 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation>Pressione %1 para copiar a cor</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation>Pressione %1 para alternar em RGB/HEX</translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar predefinições...</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
 </context>
 <context>
@@ -118,7 +118,7 @@ Por favor, contate o desenvolvedor.</translation>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseja realmente fechar o(s) grupo(s) selecionado(s)? Esta ação não pode ser desfeita.</translation>
     </message>
 </context>
 <context>
@@ -375,15 +375,16 @@ Por favor, contate o desenvolvedor.</translation>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrigado pelo seu suporte!
+Reiniciar agora para usufruir dos recursos PRO?</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Depois</translation>
     </message>
 </context>
 <context>
@@ -738,60 +739,61 @@ A inicialização no boot foi cancelada.</translation>
     </message>
     <message>
         <source>Mouse drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrastar do mouse</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished">Transparente</translation>
+        <translation>Transparente</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Pseudo-transparente</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished">Quadriculado escuro</translation>
+        <translation>Quadriculado escuro</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished">Quadriculado claro</translation>
+        <translation>Quadriculado claro</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar e fixar</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation type="unfinished">Recortar e copiar</translation>
+        <translation>Recortar e copiar</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation type="unfinished">Roda de rolagem</translation>
+        <translation>Roda de rolagem</translation>
     </message>
     <message>
         <source>Invalid data!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dados inválidos!</translation>
     </message>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation type="unfinished"></translation>
+        <translation>Os dados da paleta foram copiados para a área de transferência.
+Compartilhe com os seus amigos!</translation>
     </message>
     <message>
         <source>Snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte</translation>
     </message>
     <message>
         <source>Existing image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Janelas de imagens existentes</translation>
     </message>
     <message>
         <source>Select color</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione a cor</translation>
     </message>
     <message>
         <source>Same as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Igual a %1</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
@@ -822,11 +824,11 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique neste ícone para alternar entre desfoque em mosaico e Gaussian.</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste para desenhar uma única linha ou clique para desenhar tiras de linha.</translation>
     </message>
 </context>
 <context>
@@ -1003,23 +1005,23 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Pseudo-transparente</translation>
     </message>
     <message>
         <source>Copy annotation text</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar texto da anotação</translation>
     </message>
     <message>
         <source>Select all images</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar todas as imagens</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de cinza</translation>
     </message>
 </context>
 <context>
@@ -1095,7 +1097,7 @@ Reinicie o Snipaste como Administrador e tente novamente.</translation>
     </message>
     <message>
         <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation type="unfinished"></translation>
+        <translation>Você notou os pontos vermelhos? Clique neles para obter dicas úteis!</translation>
     </message>
 </context>
 <context>
@@ -1159,7 +1161,7 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>Show tray menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir menu da área de notificação</translation>
     </message>
 </context>
 <context>
@@ -1173,14 +1175,14 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <name>SizeInputDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar predefinições...</translation>
     </message>
 </context>
 <context>
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar tamanhos predefinidos</translation>
     </message>
 </context>
 <context>
@@ -1363,31 +1365,31 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>Create new group</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar novo grupo</translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished">Depuração</translation>
+        <translation>Depuração</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation type="unfinished">Abrir arquivo de log</translation>
+        <translation>Abrir arquivo de log</translation>
     </message>
     <message>
         <source>Open config file</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir arquivo de configuração</translation>
     </message>
     <message>
         <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
+        <translation>Desbloquear PRO...</translation>
     </message>
     <message>
         <source>Export image group(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar grupo(s) de imagens</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupos de imagens do Snipaste</translation>
     </message>
 </context>
 <context>
@@ -1436,15 +1438,15 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Topo esquerdo:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho:</translation>
     </message>
     <message>
         <source>Delay:</source>
-        <translation type="unfinished">Atraso:</translation>
+        <translation>Atraso:</translation>
     </message>
     <message>
         <source>s</source>
@@ -1452,15 +1454,15 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Predefinição</translation>
     </message>
 </context>
 <context>
@@ -1478,23 +1480,23 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <name>groupmanager</name>
     <message>
         <source>Image groups:</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupos de imagens:</translation>
     </message>
     <message>
         <source>Manage Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerenciar Grupos</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <source>Remove empty groups</source>
-        <translation type="unfinished">Remover grupos vazios</translation>
+        <translation>Remover grupos vazios</translation>
     </message>
 </context>
 <context>
@@ -1540,11 +1542,11 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de ignorados:</translation>
     </message>
     <message>
         <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
-        <translation type="unfinished"></translation>
+        <translation>Entre o nome de executáveis separados por vírgulas (ex.: a.exe, b.exe)</translation>
     </message>
 </context>
 <context>
@@ -2394,239 +2396,239 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupa</translation>
     </message>
     <message>
         <source>Pixel scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de pixels:</translation>
     </message>
     <message>
         <source>Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de Ferramentas</translation>
     </message>
     <message>
         <source>Use separate colors for different shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Use cores separadas para formas diferentes</translation>
     </message>
     <message>
         <source>Number of pen sizes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de tamanhos de caneta:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicie o Snipaste para aplicar as alterações.</translation>
     </message>
     <message>
         <source>Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleta</translation>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar para</translation>
     </message>
     <message>
         <source>Import from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar da área de transferência</translation>
     </message>
     <message>
         <source>Export to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar para área de transferência</translation>
     </message>
     <message>
         <source>Disable completely</source>
-        <translation type="unfinished"></translation>
+        <translation>Desativar completamente</translation>
     </message>
     <message>
         <source>Include unsaved screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir capturas não salvas</translation>
     </message>
     <message>
         <source>Default background mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de fundo padrão:</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de transferência</translation>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar como Bitmap do Windows:</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de tela</translation>
     </message>
     <message>
         <source>Image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Janelas de imagem</translation>
     </message>
     <message>
         <source>So that you can also paste the image into file explorer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para que você também possa colar a imagem no explorador de arquivos.</translation>
     </message>
     <message>
         <source>Copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar imagem como arquivo</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controle</translation>
     </message>
     <message>
         <source>Super Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Super Recorte</translation>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ícone da Área de Notificação</translation>
     </message>
     <message>
         <source>Left click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique esquerdo:</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished">Predefinições</translation>
+        <translation>Predefinições</translation>
     </message>
     <message>
         <source>Middle click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique do meio:</translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique direito:</translation>
     </message>
     <message>
         <source>Hot Corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Canto Ativo</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar</translation>
     </message>
     <message>
         <source>Corner size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho do canto:</translation>
     </message>
     <message>
         <source>Trigger delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atraso do disparador:</translation>
     </message>
     <message>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ms</translation>
     </message>
     <message>
         <source>Check interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de verificação:</translation>
     </message>
     <message>
         <source>Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Função</translation>
     </message>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Topo esquerdo:</translation>
     </message>
     <message>
         <source>Top right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Topo direito:</translation>
     </message>
     <message>
         <source>Bottom left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inferior esquerdo:</translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inferior direito:</translation>
     </message>
     <message>
         <source>Keep responsive</source>
-        <translation type="unfinished"></translation>
+        <translation>Manter responsivo</translation>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar automaticamente para:</translation>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte normal</translation>
     </message>
     <message>
         <source>Super snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Super recorte</translation>
     </message>
     <message>
         <source>Color value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor da cor:</translation>
     </message>
     <message>
         <source>No &apos;#&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem &apos;#&apos;</translation>
     </message>
     <message>
         <source>Uppercase Hex</source>
-        <translation type="unfinished"></translation>
+        <translation>Hex em maiúsculo</translation>
     </message>
     <message>
         <source>Show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar:</translation>
     </message>
     <message>
         <source>Grid lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linhas de grade</translation>
     </message>
     <message>
         <source>Screen coordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordenada de tela</translation>
     </message>
     <message>
         <source>Usage tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicas de uso</translation>
     </message>
     <message>
         <source>Copy text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar texto:</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Taxa</translation>
     </message>
     <message>
         <source>Unlock PRO features!</source>
-        <translation type="unfinished"></translation>
+        <translation>Desbloquear recursos PRO!</translation>
     </message>
     <message>
         <source>Buy PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprar PRO</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Não estou interessado no PRO</translation>
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faz o backup automático do status da janela de recorte, bem como das janelas de imagem, para que elas possam ser recuperadas na próxima vez que você abrir o Snipaste.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Melhora a velocidade de resposta do recorte, recarregando automaticamente as DLLs periodicamente.</translation>
     </message>
     <message>
         <source>Fast thumbnail size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho da miniatura rápida:</translation>
     </message>
     <message>
         <source>Fast thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatura rápida:</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
-        <translation type="unfinished"></translation>
+        <translation>Software de código aberto usado no Snipaste</translation>
     </message>
 </context>
 <context>
@@ -2716,33 +2718,33 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
     </message>
     <message>
         <source>Fill with stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Preencher com pincelada</translation>
     </message>
 </context>
 <context>
     <name>sizeinputdialog</name>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Predefinição</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
