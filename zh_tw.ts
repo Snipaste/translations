@@ -5,22 +5,22 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation>按 %1 複製色彩值</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation>按 %1 切換 RBG/HEX</translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯預設值...</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished">秒</translation>
+        <translation>秒</translation>
     </message>
 </context>
 <context>
@@ -116,7 +116,7 @@ Please contact the developer.</source>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>確定要關閉選取的組嗎？此動作無法還原。</translation>
     </message>
 </context>
 <context>
@@ -373,15 +373,16 @@ Please contact the developer.</source>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>感謝你的支持!
+立刻重新啟動即可享受專業版~</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">確定</translation>
+        <translation>確定</translation>
     </message>
     <message>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>稍後</translation>
     </message>
 </context>
 <context>
@@ -696,7 +697,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Thank you for your support!</source>
-        <translation>感謝您的支持！</translation>
+        <translation>感謝你的支持！</translation>
     </message>
     <message>
         <source>Russian</source>
@@ -736,60 +737,61 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Mouse drag</source>
-        <translation type="unfinished"></translation>
+        <translation>滑鼠左鍵拖曳</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished">透明</translation>
+        <translation>透明</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>偽透明</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished">暗色棋盤</translation>
+        <translation>深色棋盤</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished">亮色棋盤</translation>
+        <translation>淺色棋盤</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>擷取螢幕並貼圖</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation type="unfinished">擷取螢幕並自動複製</translation>
+        <translation>擷取螢幕並自動複製</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation type="unfinished">滑鼠滾輪</translation>
+        <translation>滑鼠滾輪</translation>
     </message>
     <message>
         <source>Invalid data!</source>
-        <translation type="unfinished"></translation>
+        <translation>無效的資料！</translation>
     </message>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation type="unfinished"></translation>
+        <translation>調色板資料已被複製至剪貼簿。
+分享給你的朋友們吧！</translation>
     </message>
     <message>
         <source>Snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>擷取螢幕</translation>
     </message>
     <message>
         <source>Existing image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>目前的貼圖視窗</translation>
     </message>
     <message>
         <source>Select color</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇色彩</translation>
     </message>
     <message>
         <source>Same as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>等同於 %1</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
@@ -820,11 +822,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation type="unfinished"></translation>
+        <translation>點選該按鈕可以切換馬賽克/高斯模糊。</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation type="unfinished"></translation>
+        <translation>在區域內拖曳可畫單條直線，點按可畫折線。</translation>
     </message>
 </context>
 <context>
@@ -1001,23 +1003,23 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>裁剪</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>偽透明</translation>
     </message>
     <message>
         <source>Copy annotation text</source>
-        <translation type="unfinished"></translation>
+        <translation>複製標註文字</translation>
     </message>
     <message>
         <source>Select all images</source>
-        <translation type="unfinished"></translation>
+        <translation>選取所有貼圖</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>灰階顯示</translation>
     </message>
 </context>
 <context>
@@ -1065,7 +1067,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
-        <translation>你可以透過工具列圖示進行相關控制。</translation>
+        <translation>你可以透過系統匣圖示進行相關控制。</translation>
     </message>
     <message>
         <source>Snipaste has been updated to %1.</source>
@@ -1093,7 +1095,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation type="unfinished"></translation>
+        <translation>你注意到小紅點了嗎？點選它們可以取得提示哦！</translation>
     </message>
 </context>
 <context>
@@ -1157,7 +1159,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Show tray menu</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示系統匣選單</translation>
     </message>
 </context>
 <context>
@@ -1171,14 +1173,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>SizeInputDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯預設值...</translation>
     </message>
 </context>
 <context>
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯預設大小</translation>
     </message>
 </context>
 <context>
@@ -1361,31 +1363,31 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Create new group</source>
-        <translation type="unfinished"></translation>
+        <translation>建立新組</translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished">偵錯</translation>
+        <translation>偵錯</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation type="unfinished">開啟記錄檔</translation>
+        <translation>開啟記錄檔</translation>
     </message>
     <message>
         <source>Open config file</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟設定檔</translation>
     </message>
     <message>
         <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
+        <translation>解鎖專業版...</translation>
     </message>
     <message>
         <source>Export image group(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出貼圖組</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 貼圖組</translation>
     </message>
 </context>
 <context>
@@ -1434,15 +1436,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>左上角:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>大小:</translation>
     </message>
     <message>
         <source>Delay:</source>
-        <translation type="unfinished">延遲:</translation>
+        <translation>延遲:</translation>
     </message>
     <message>
         <source>s</source>
@@ -1450,15 +1452,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">確定</translation>
+        <translation>確定</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>預設</translation>
     </message>
 </context>
 <context>
@@ -1476,23 +1478,23 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>groupmanager</name>
     <message>
         <source>Image groups:</source>
-        <translation type="unfinished"></translation>
+        <translation>貼圖組:</translation>
     </message>
     <message>
         <source>Manage Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>管理貼圖組</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>匯入</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出</translation>
     </message>
     <message>
         <source>Remove empty groups</source>
-        <translation type="unfinished">刪除空分組</translation>
+        <translation>移除空的分組</translation>
     </message>
 </context>
 <context>
@@ -1538,11 +1540,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略程式清單:</translation>
     </message>
     <message>
         <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入以英文逗號分隔的程式名稱（如 a.exe, b.exe）</translation>
     </message>
 </context>
 <context>
@@ -1638,11 +1640,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Add more commands to the tray menu.</source>
-        <translation>在工具列選單中新增更多命令。</translation>
+        <translation>在系統匣選單中新增更多命令。</translation>
     </message>
     <message>
         <source>Enhanced tray menu</source>
-        <translation>增強版工具列選單</translation>
+        <translation>增強版系統匣選單</translation>
     </message>
     <message>
         <source>Interface</source>
@@ -1650,7 +1652,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Tray icon:</source>
-        <translation>工具列圖示:</translation>
+        <translation>系統匣圖示:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2119,7 +2121,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Use default tray icon.</source>
-        <translation>使用預設的系統列圖示。</translation>
+        <translation>使用預設的系統匣圖示。</translation>
     </message>
     <message>
         <source>Default</source>
@@ -2127,11 +2129,11 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
-        <translation>使用自訂色彩的系統列圖示。</translation>
+        <translation>使用自訂色彩的系統匣圖示。</translation>
     </message>
     <message>
         <source>Set the color for the tray icon.</source>
-        <translation>設定系統列圖示的色彩。</translation>
+        <translation>設定系統匣圖示的色彩。</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2391,239 +2393,239 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>放大鏡</translation>
     </message>
     <message>
         <source>Pixel scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>像素大小：</translation>
     </message>
     <message>
         <source>Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>工具列</translation>
     </message>
     <message>
         <source>Use separate colors for different shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>為不同標註形狀分別記憶色彩</translation>
     </message>
     <message>
         <source>Number of pen sizes:</source>
-        <translation type="unfinished"></translation>
+        <translation>筆尖數量:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要重啟 Snipaste 以使變更生效。</translation>
     </message>
     <message>
         <source>Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>調色盤</translation>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation>套用至</translation>
     </message>
     <message>
         <source>Import from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>從剪貼簿匯入</translation>
     </message>
     <message>
         <source>Export to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出至剪貼簿</translation>
     </message>
     <message>
         <source>Disable completely</source>
-        <translation type="unfinished"></translation>
+        <translation>完全停用</translation>
     </message>
     <message>
         <source>Include unsaved screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>包含未儲存的擷圖</translation>
     </message>
     <message>
         <source>Default background mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>預設背景模式:</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>剪貼簿</translation>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation type="unfinished"></translation>
+        <translation>以 Windows Bitmap 格式複製圖片:</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>擷圖</translation>
     </message>
     <message>
         <source>Image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>貼圖</translation>
     </message>
     <message>
         <source>So that you can also paste the image into file explorer.</source>
-        <translation type="unfinished"></translation>
+        <translation>這樣你可以直接將圖片貼上至檔案總管中。</translation>
     </message>
     <message>
         <source>Copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>複製為檔案</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>檔案</translation>
     </message>
     <message>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>控制</translation>
     </message>
     <message>
         <source>Super Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>螢幕超級擷取</translation>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>系統匣圖示</translation>
     </message>
     <message>
         <source>Left click:</source>
-        <translation type="unfinished"></translation>
+        <translation>左鍵點選:</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished">預設</translation>
+        <translation>預設</translation>
     </message>
     <message>
         <source>Middle click:</source>
-        <translation type="unfinished"></translation>
+        <translation>中鍵點選:</translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation type="unfinished"></translation>
+        <translation>右鍵點選:</translation>
     </message>
     <message>
         <source>Hot Corner</source>
-        <translation type="unfinished"></translation>
+        <translation>觸發角邊</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>啟用</translation>
     </message>
     <message>
         <source>Corner size:</source>
-        <translation type="unfinished"></translation>
+        <translation>區域大小:</translation>
     </message>
     <message>
         <source>Trigger delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>觸發延遲:</translation>
     </message>
     <message>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>毫秒</translation>
     </message>
     <message>
         <source>Check interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>檢查間隔:</translation>
     </message>
     <message>
         <source>Function</source>
-        <translation type="unfinished"></translation>
+        <translation>功能</translation>
     </message>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>左上角:</translation>
     </message>
     <message>
         <source>Top right:</source>
-        <translation type="unfinished"></translation>
+        <translation>右上角:</translation>
     </message>
     <message>
         <source>Bottom left:</source>
-        <translation type="unfinished"></translation>
+        <translation>左下角:</translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation type="unfinished"></translation>
+        <translation>右下角:</translation>
     </message>
     <message>
         <source>Keep responsive</source>
-        <translation type="unfinished"></translation>
+        <translation>保持快速回應</translation>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation type="unfinished"></translation>
+        <translation>自動顯示當:</translation>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation type="unfinished"></translation>
+        <translation>普通擷圖</translation>
     </message>
     <message>
         <source>Super snip</source>
-        <translation type="unfinished"></translation>
+        <translation>超級擷圖</translation>
     </message>
     <message>
         <source>Color value:</source>
-        <translation type="unfinished"></translation>
+        <translation>色彩值:</translation>
     </message>
     <message>
         <source>No &apos;#&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>隱藏 ‘#’</translation>
     </message>
     <message>
         <source>Uppercase Hex</source>
-        <translation type="unfinished"></translation>
+        <translation>Hex 色彩值大寫</translation>
     </message>
     <message>
         <source>Show:</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示:</translation>
     </message>
     <message>
         <source>Grid lines</source>
-        <translation type="unfinished"></translation>
+        <translation>格線</translation>
     </message>
     <message>
         <source>Screen coordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>螢幕座標</translation>
     </message>
     <message>
         <source>Usage tips</source>
-        <translation type="unfinished"></translation>
+        <translation>使用提示</translation>
     </message>
     <message>
         <source>Copy text:</source>
-        <translation type="unfinished"></translation>
+        <translation>複製文字:</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>評價</translation>
     </message>
     <message>
         <source>Unlock PRO features!</source>
-        <translation type="unfinished"></translation>
+        <translation>解鎖專業版功能！</translation>
     </message>
     <message>
         <source>Buy PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>購買專業版</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>我對專業版不感興趣</translation>
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>備份擷圖/貼圖的所有狀態，使得下次啟動 Snipaste 時能夠還原。</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
-        <translation type="unfinished"></translation>
+        <translation>自動定時重新載入 dll 檔案以提高擷取螢幕的回應速度。</translation>
     </message>
     <message>
         <source>Fast thumbnail size:</source>
-        <translation type="unfinished"></translation>
+        <translation>快速縮圖大小:</translation>
     </message>
     <message>
         <source>Fast thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>快速縮圖:</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 用到的開源軟體</translation>
     </message>
 </context>
 <context>
@@ -2713,33 +2715,33 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Fill with stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>帶邊框填充</translation>
     </message>
 </context>
 <context>
     <name>sizeinputdialog</name>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>預設</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">確定</translation>
+        <translation>確定</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">確定</translation>
+        <translation>確定</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
