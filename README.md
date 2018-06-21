@@ -55,7 +55,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Portuguese (Brazil)   | pt_br | 📕 v2.0     | Igor Rückert |
 | Polish                | pl_pl | 📖 v1.11.3  | [Wirus deleted my username](https://github.com/Wirus-deleted-my-username) |
 | Dutch                 | nl_nl | 📕 v2.0     | Stephan Paternotte |
-| Portuguese (Portugal) | pt_pt | 📖 v1.16    | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
+| Portuguese (Portugal) | pt_pt | 📕 v2.0     | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
 | Vietnamese            | vi_vn | 📖 v1.11.3  | [evildeepblue](mailto:it4u.mm@gmail.com) |
 | French                | fr_fr | 📕 v2.0     | rico-sos |
 | Russian               | ru    | 📖 v1.14    | [vanja-san](https://github.com/vanja-san) |
