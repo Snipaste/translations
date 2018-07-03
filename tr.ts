@@ -5,11 +5,11 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation>Rengi kopyalamak için%1 tuşuna basın</translation>
+        <translation>Rengi kopyalamak için %1 tuşuna basın</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation>RGB / HEX arasında geçiş yapmak için%1 tuşuna basın</translation>
+        <translation>RGB / HEX arasında geçiş yapmak için %1 tuşuna basın</translation>
     </message>
 </context>
 <context>
@@ -2790,7 +2790,7 @@ Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     </message>
     <message>
         <source>Your version:</source>
-        <translation>Sizin sürüm:</translation>
+        <translation>Sürümünüz:</translation>
     </message>
     <message>
         <source>Last check:</source>
