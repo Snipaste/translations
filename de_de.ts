@@ -369,7 +369,7 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
-    <name>Licensing_uwp</name>
+    <name>Licensing</name>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
@@ -383,6 +383,25 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     <message>
         <source>Later</source>
         <translation>Später</translation>
+    </message>
+</context>
+<context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>Error</source>
+        <translation>Fehler</translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a server error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to an unknown error.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1161,6 +1180,14 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <source>Show tray menu</source>
         <translation>Zeige Taskleistenmenü</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1466,6 +1493,10 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <source>Preset</source>
         <translation>Voreinstellung</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1547,8 +1578,8 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>Ignorierte Liste:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
-        <translation>Geben Sie ausführbare Namen ein, die durch Kommas getrennt sind (z. B. a.exe, b.exe)</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Geben Sie ausführbare Namen ein, die durch Kommas getrennt sind (z. B. a.exe, games/*)</translation>
     </message>
 </context>
 <context>

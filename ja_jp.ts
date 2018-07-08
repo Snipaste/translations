@@ -4,23 +4,23 @@
 <context>
     <name>ColorPicker</name>
     <message>
-        <source>％1を押して色をコピーする</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Press %1 to switch between RGB/HEX</source>
         <translation>％1を押してRGB/HEXを切替</translation>
+    </message>
+    <message>
+        <source>Press %1 to copy color</source>
+        <translation>％1を押して色をコピーする</translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
-        <source>プリセットを編集...</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>s</source>
         <translation>秒</translation>
+    </message>
+    <message>
+        <source>Edit presets...</source>
+        <translation>プリセットを編集...</translation>
     </message>
 </context>
 <context>
@@ -369,7 +369,7 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
-    <name>Licensing_uwp</name>
+    <name>Licensing</name>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
@@ -383,6 +383,25 @@ PRO機能を楽しむために今すぐ再起動しますか？</translation>
     <message>
         <source>Later</source>
         <translation>後で</translation>
+    </message>
+</context>
+<context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>Error</source>
+        <translation>エラー</translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a server error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to an unknown error.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1159,6 +1178,14 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Show tray menu</source>
         <translation>トレイメニューを表示</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1460,6 +1487,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Preset</source>
         <translation>プリセット</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1541,8 +1572,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>無視リスト：</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
-        <translation>実行可能ファイル名をコンマで区切って入力します（例：a.exe、b.exe）。</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
+        <translation>実行可能ファイル名をコンマで区切って入力します（例：a.exe、games/*）。</translation>
     </message>
 </context>
 <context>

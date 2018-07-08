@@ -371,7 +371,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
 </context>
 <context>
-    <name>Licensing_uwp</name>
+    <name>Licensing</name>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
@@ -385,6 +385,25 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     <message>
         <source>Later</source>
         <translation>Sonra</translation>
+    </message>
+</context>
+<context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>Error</source>
+        <translation>Hata</translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a server error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to an unknown error.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -718,18 +737,6 @@ Açılışta başlatma iptal edildi.</translation>
         <translation>Başka bir yapılandırma dosyasına geç</translation>
     </message>
     <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overriden.
-
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
-
-Are you sure you want to switch to another configuration file?</source>
-        <translation type="vanished">Not: Başka bir yapılandırma dosyasına geçeceksiniz. İçindeki ayarlar uygulanır ve tüm geçerli ayarlarınız değiştirilir.
-
-Ayrıca, bu işlemden sonra varsayılan yapılandırma dosyasını kaldırmamalısınız, çünkü yeni yapılandırma dosyanızı nerede bulacağınızı kaydeder.
-
-Başka bir yapılandırma dosyasına geçmek istediğinizden emin misiniz?</translation>
-    </message>
-    <message>
         <source>Serbian</source>
         <translation>Sırpça</translation>
     </message>
@@ -833,10 +840,6 @@ Başka bir yapılandırma dosyasına geçmek istediğinizden emin misiniz?</tran
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
         <translation>Metin boyutunu değiştirmek için metin kutusunun köşesinden sürükleyebilirsiniz.</translation>
-    </message>
-    <message>
-        <source>Drag to draw a single line, or click to draw line strips.</source>
-        <translation type="vanished">Tek bir çizgi çizmek için sürükleyin veya şeritleri çizmek için tıklayın.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -1179,6 +1182,14 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Show tray menu</source>
         <translation>Tepsi menüsünü göster</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1476,6 +1487,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1557,12 +1572,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Yok sayılanlar listesi:</translation>
     </message>
     <message>
-        <source>Enter excutable names separated by commas (eg: a.exe, b.exe)</source>
-        <translation type="vanished">Virgülle ayrılmış çalıştırılabilir uygulama isimleri girin (ör: a.exe, b.exe)</translation>
-    </message>
-    <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
-        <translation>Virgülle ayrılmış çalıştırılabilir uygulama isimleri girin (ör: a.exe, b.exe)</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Virgülle ayrılmış çalıştırılabilir uygulama isimleri girin (ör: a.exe, games/*)</translation>
     </message>
 </context>
 <context>
@@ -1975,10 +1986,6 @@ Range: 10 - 100</source>
 Aralık: 10 - 100</translation>
     </message>
     <message>
-        <source>Thumbnail size:</source>
-        <translation type="vanished">Öngörüntü boyutu:</translation>
-    </message>
-    <message>
         <source>Auto backup</source>
         <translation>Oto yedek</translation>
     </message>
@@ -2259,10 +2266,6 @@ Snipaste&apos;in sizin için karar vermesine izin vermek için -1 yazın.</trans
         <translation>Resmi sıfırla:</translation>
     </message>
     <message>
-        <source>Toggle thumbnail:</source>
-        <translation type="vanished">Öngörüntü seçimi:</translation>
-    </message>
-    <message>
         <source>* If conflicted, the upper operation will be matched</source>
         <translation>* Çakışırsa, üst işlem eşleşecektir</translation>
     </message>
@@ -2343,10 +2346,6 @@ Herhangi bir hata bulursanız lütfen geliştiriciye bildirin.</translation>
     <message>
         <source>Version</source>
         <translation>Sürüm</translation>
-    </message>
-    <message>
-        <source>Open source softwares used in Snipaste</source>
-        <translation type="vanished">Snipaste&apos;de kullanılan açık kaynaklı yazılımlar</translation>
     </message>
     <message>
         <source>Licenses</source>

@@ -371,7 +371,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
 </context>
 <context>
-    <name>Licensing_uwp</name>
+    <name>Licensing</name>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
@@ -385,6 +385,25 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
     <message>
         <source>Later</source>
         <translation>Later</translation>
+    </message>
+</context>
+<context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>Error</source>
+        <translation>Fout</translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a server error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to an unknown error.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1163,6 +1182,14 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <source>Show tray menu</source>
         <translation>Systeemvak-menu weergeven</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1460,6 +1487,10 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <source>Cancel</source>
         <translation>Annuleren</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1541,8 +1572,8 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>Genegeerd:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
-        <translation>Voer uitvoerbare bestanden in gescheiden door komma&apos;s (bij. a.exe, b.exe)</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Voer uitvoerbare bestanden in gescheiden door komma&apos;s (bij. a.exe, games/*)</translation>
     </message>
 </context>
 <context>

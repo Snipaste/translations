@@ -371,7 +371,7 @@ Por favor, contate o desenvolvedor.</translation>
     </message>
 </context>
 <context>
-    <name>Licensing_uwp</name>
+    <name>Licensing</name>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
@@ -385,6 +385,25 @@ Reiniciar agora para usufruir dos recursos PRO?</translation>
     <message>
         <source>Later</source>
         <translation>Depois</translation>
+    </message>
+</context>
+<context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>Error</source>
+        <translation>Erro</translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a server error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to an unknown error.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1163,6 +1182,14 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <source>Show tray menu</source>
         <translation>Exibir menu da área de notificação</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1464,6 +1491,10 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <source>Preset</source>
         <translation>Predefinição</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1545,8 +1576,8 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <translation>Lista de ignorados:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
-        <translation>Entre o nome de executáveis separados por vírgulas (ex.: a.exe, b.exe)</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Entre o nome de executáveis separados por vírgulas (ex.: a.exe, games/*)</translation>
     </message>
 </context>
 <context>

@@ -371,7 +371,7 @@ Veuillez contacter le développeur.</translation>
     </message>
 </context>
 <context>
-    <name>Licensing_uwp</name>
+    <name>Licensing</name>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
@@ -385,6 +385,25 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO?</translation>
     <message>
         <source>Later</source>
         <translation>Plus tard</translation>
+    </message>
+</context>
+<context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>Error</source>
+        <translation>Erreur</translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a server error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to an unknown error.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1163,6 +1182,14 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <source>Show tray menu</source>
         <translation>Afficher le menu du plateau</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1464,6 +1491,10 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <source>Preset</source>
         <translation>Préréglé</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1545,8 +1576,8 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Ignorer liste:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
-        <translation>Entrez les noms exécutables séparés par des virgules (par ex. a.exe, b.exe)</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Entrez les noms exécutables séparés par des virgules (par ex. a.exe, games/*)</translation>
     </message>
 </context>
 <context>

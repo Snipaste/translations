@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="el_GR">
+<TS version="2.1" language="el_GR">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -371,7 +371,7 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
-    <name>Licensing_uwp</name>
+    <name>Licensing</name>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
@@ -385,6 +385,25 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Later</source>
         <translation>Αργότερα</translation>
+    </message>
+</context>
+<context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>Error</source>
+        <translation>Σφάλμα</translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a server error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to an unknown error.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1167,6 +1186,14 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Show tray menu</source>
         <translation>Εμφάνιση μενού περιοχής ειδοποιήσεων</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1464,6 +1491,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Preset</source>
         <translation>Προεπιλογή</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1545,8 +1576,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Λίστα παράβλεψης:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
-        <translation>Εισαγάγετε ονόματα εκτελέσιμων αρχείων διαχωρίζοντάς τα με κόμματα (π.χ. a.exe, b.exe)</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Εισαγάγετε ονόματα εκτελέσιμων αρχείων διαχωρίζοντάς τα με κόμματα (π.χ. a.exe, games/*)</translation>
     </message>
 </context>
 <context>

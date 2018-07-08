@@ -369,7 +369,7 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
-    <name>Licensing_uwp</name>
+    <name>Licensing</name>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
@@ -383,6 +383,25 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Later</source>
         <translation>稍后</translation>
+    </message>
+</context>
+<context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>Error</source>
+        <translation>错误</translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a network error.</source>
+        <translation>由于网络错误，购买失败。</translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a server error.</source>
+        <translation>由于服务器错误，购买失败。</translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to an unknown error.</source>
+        <translation>由于未知错误，购买失败。</translation>
     </message>
 </context>
 <context>
@@ -1161,6 +1180,14 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Show tray menu</source>
         <translation>显示托盘菜单</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>自定义截图</translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation>截取活动窗口</translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1219,7 +1246,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation>清除截图记录</translation>
+        <translation>清空截图记录</translation>
     </message>
     <message>
         <source>No update available.</source>
@@ -1462,6 +1489,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Preset</source>
         <translation>预设</translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>自定义截图</translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1543,8 +1574,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>忽略程序列表:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
-        <translation>输入以英文逗号分隔的程序文件名（如 a.exe, b.exe）</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
+        <translation>输入以英文逗号分隔的程序文件名（如 a.exe, games/*）</translation>
     </message>
 </context>
 <context>
