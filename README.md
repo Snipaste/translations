@@ -61,7 +61,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Russian               | ru    | 📖 v1.14    | [vanja-san](https://github.com/vanja-san) |
 | Arabic                | ar_jo | 📕 v2.0     | MFMDawdeh |
 | Turkish               | tr_tr | 📕 v2.0     | [mthryilmaz](https://github.com/mthryilmaz) |
-| Serbian               | sr    | 📖 v1.16    | [ozzii.translate](mailto:ozzii.translate@gmail.com) |
+| Serbian               | sr    | 📕 v2.0     | [ozzii.translate](mailto:ozzii.translate@gmail.com) |
 
 ## Contact
 
