@@ -371,7 +371,7 @@ Proszę skontaktować się z deweloperem.</translation>
     </message>
 </context>
 <context>
-    <name>Licensing_uwp</name>
+    <name>Licensing</name>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
@@ -379,10 +379,33 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Later</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Licensing_uwp</name>
+    <message>
+        <source>OK</source>
+        <translation type="obsolete">OK</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Błąd</translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to a server error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product was not purchased due to an unknown error.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1155,6 +1178,14 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Show tray menu</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1456,6 +1487,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Preset</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
@@ -1537,7 +1572,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
+        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
