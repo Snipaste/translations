@@ -373,7 +373,7 @@ Please contact the developer.</source>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>谢谢您的支持!
+        <translation>谢谢你的支持!
 马上重启即可享受专业版~</translation>
     </message>
     <message>
@@ -716,7 +716,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Thank you for your support!</source>
-        <translation>谢谢您的支持！</translation>
+        <translation>谢谢你的支持！</translation>
     </message>
     <message>
         <source>Russian</source>

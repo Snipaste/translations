@@ -373,35 +373,35 @@ Please contact the developer.</source>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation type="unfinished">感謝你的支持!
+        <translation>謝謝你的支持!
 立刻重新啟動即可享受專業版~</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">確定</translation>
+        <translation>確定</translation>
     </message>
     <message>
         <source>Later</source>
-        <translation type="unfinished">稍後</translation>
+        <translation>稍後</translation>
     </message>
 </context>
 <context>
     <name>Licensing_uwp</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">錯誤</translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>由於網路錯誤，購買失敗。</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>由於伺服器錯誤，購買失敗。</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>由於不詳錯誤，購買失敗。</translation>
     </message>
 </context>
 <context>
@@ -1182,11 +1182,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>自訂擷圖</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>擷取作用中視窗</translation>
     </message>
 </context>
 <context>
@@ -1491,7 +1491,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>自訂擷圖</translation>
     </message>
 </context>
 <context>
