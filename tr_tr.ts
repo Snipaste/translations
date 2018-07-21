@@ -369,6 +369,10 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <source>Period</source>
         <translation>Nokta</translation>
     </message>
+    <message>
+        <source>Toggle grayscale conversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -2761,6 +2765,10 @@ Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     <message>
         <source>Cancel</source>
         <translation>İptal</translation>
+    </message>
+    <message>
+        <source>Resize</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

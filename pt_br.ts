@@ -369,6 +369,10 @@ Por favor, contate o desenvolvedor.</translation>
         <source>Period</source>
         <translation>Ponto Final</translation>
     </message>
+    <message>
+        <source>Toggle grayscale conversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -2765,6 +2769,10 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Resize</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

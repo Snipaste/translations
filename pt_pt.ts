@@ -369,6 +369,10 @@ Por favor contacte o autor.</translation>
         <source>Period</source>
         <translation>Ponto</translation>
     </message>
+    <message>
+        <source>Toggle grayscale conversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -2765,6 +2769,10 @@ Terá um melhor tempo de resposta ao efectuar a captura.</translation>
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Resize</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

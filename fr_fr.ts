@@ -369,6 +369,10 @@ Veuillez contacter le développeur.</translation>
         <source>Period</source>
         <translation>Période</translation>
     </message>
+    <message>
+        <source>Toggle grayscale conversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -2765,6 +2769,10 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     <message>
         <source>Cancel</source>
         <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>Resize</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

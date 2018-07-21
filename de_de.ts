@@ -367,6 +367,10 @@ Please contact the developer.</source>
         <source>Period</source>
         <translation>Punkt</translation>
     </message>
+    <message>
+        <source>Toggle grayscale conversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -2769,6 +2773,10 @@ Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
     <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Resize</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

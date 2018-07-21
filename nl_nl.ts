@@ -369,6 +369,10 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <source>Period</source>
         <translation>punt</translation>
     </message>
+    <message>
+        <source>Toggle grayscale conversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -2761,6 +2765,10 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     <message>
         <source>Cancel</source>
         <translation>Annuleren</translation>
+    </message>
+    <message>
+        <source>Resize</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

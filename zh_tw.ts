@@ -367,6 +367,10 @@ Please contact the developer.</source>
         <source>Period</source>
         <translation>句號</translation>
     </message>
+    <message>
+        <source>Toggle grayscale conversion [PRO]</source>
+        <translation>切換灰階顯示 [專業版]</translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -802,7 +806,7 @@ Share it to your friends!</source>
     </message>
     <message>
         <source>Existing image windows</source>
-        <translation>目前的貼圖視窗</translation>
+        <translation>目前所有的貼圖視窗</translation>
     </message>
     <message>
         <source>Select color</source>
@@ -2762,6 +2766,10 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+    <message>
+        <source>Resize</source>
+        <translation>調整區域大小</translation>
     </message>
 </context>
 <context>
