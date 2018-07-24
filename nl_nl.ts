@@ -163,6 +163,10 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <source>Beta for Mac</source>
         <translation>Bèta voor Mac</translation>
     </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
