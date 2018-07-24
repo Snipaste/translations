@@ -830,6 +830,10 @@ Daarbij mag het bestand van de standaardconfiguratie niet worden gewist, omdat d
 
 Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation>Spaans (Mexico)</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

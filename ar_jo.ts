@@ -824,6 +824,10 @@ Are you sure you want to switch to another configuration file?</source>
   بالاضافة الى ذلك، يجب عدم ازالة ملف التكوين الافتراضي بعد هذه العملية، لانه يسجل مكان العثور على ملف التكوين الجديد.
 هل تريد بالتاكيد التبديل الى ملف تهيئة اخر؟</translation>
     </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation>الإسبانية (المكسيك)</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

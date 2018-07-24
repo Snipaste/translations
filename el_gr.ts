@@ -830,6 +830,10 @@ Are you sure you want to switch to another configuration file?</source>
 
 Είστε βέβαιος ότι θέλετε να μεταβείτε σε άλλο αρχείο ρυθμίσεων;</translation>
     </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation>Ισπανικά (Μεξικό)</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

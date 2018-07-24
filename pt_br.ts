@@ -830,6 +830,10 @@ Além disso, você não deve remover o arquivo de configurações padrão após 
 
 Você deseja realmente alterar para outro arquivo de configurações?</translation>
     </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation>Espanhol (México)</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

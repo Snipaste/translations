@@ -830,6 +830,10 @@ Ayrıca, bu işlemden sonra varsayılan yapılandırma dosyasını kaldırmamal�
 
 Başka bir yapılandırma dosyasına geçmek istediğinizden emin misiniz?</translation>
     </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation>İspanyolca (Meksika)</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

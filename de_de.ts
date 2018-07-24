@@ -828,6 +828,10 @@ Sie sollten die Standardkonfigurationsdatei nach dieser Operation nicht entferne
 
 Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?</translation>
     </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation>Spanisch (Mexiko)</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

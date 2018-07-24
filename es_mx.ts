@@ -825,6 +825,10 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
 
 ¿Estás seguro de que quieres cambiar a otro archivo de configuración?</translation>
     </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation>Español (México)</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

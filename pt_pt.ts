@@ -830,6 +830,10 @@ Além disso, não deve remover o ficheiro de configuração padrão depois desta
 
 Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translation>
     </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation>Espanhol (México)</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

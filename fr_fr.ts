@@ -830,6 +830,10 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
 
 Êtes-vous sûr de vouloir passer à un autre fichier de configuration?</translation>
     </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation>Espagnol (Mexique)</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

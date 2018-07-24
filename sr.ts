@@ -830,6 +830,10 @@ Are you sure you want to switch to another configuration file?</source>
 
 Да ли сте сигурни да желите да пређете на другу конфигурацијску датотеку?</translation>
     </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>

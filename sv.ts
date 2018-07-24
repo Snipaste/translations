@@ -828,6 +828,10 @@ Besides, you should not remove the default configuration file after this operati
 Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation>Spanska (Mexiko)</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
