@@ -828,6 +828,10 @@ Are you sure you want to switch to another configuration file?</source>
 
 確定要切換至另一個設定檔嗎？</translation>
     </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation>西班牙語（墨西哥）</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
