@@ -161,6 +161,10 @@ Please contact the developer.</source>
         <source>Beta for Mac</source>
         <translation>Mac 公測版</translation>
     </message>
+    <message>
+        <source>PRO</source>
+        <translation>專業版</translation>
+    </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
