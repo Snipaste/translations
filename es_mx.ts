@@ -1850,7 +1850,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>También puede mostrar/ocultar el cursor capturado via la tecla ` al recortar.</translation>
+        <translation type="vanished">También puede mostrar/ocultar el cursor capturado via la tecla ` al recortar.</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
@@ -2661,6 +2661,10 @@ Ganará un mejor tiempo de respuesta al ingresar al recorte.</translation>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>Software de código abierto usados en Snipaste</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

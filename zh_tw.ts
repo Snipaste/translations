@@ -1823,7 +1823,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>也可以在擷圖時按下 ` 鍵來顯示/隱藏已取得的游標。</translation>
+        <translation type="vanished">也可以在擷圖時按下 ` 鍵來顯示/隱藏已取得的游標。</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
@@ -2669,6 +2669,10 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>Snipaste 用到的開源軟體</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation>也可以在擷圖時按下 `或 ! 鍵來顯示/隱藏已取得的游標。</translation>
     </message>
 </context>
 <context>

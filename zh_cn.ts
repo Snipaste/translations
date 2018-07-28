@@ -1937,7 +1937,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>也可以在截屏时按下 ` 键来显示/隐藏已捕获的光标。</translation>
+        <translation type="vanished">也可以在截屏时按下 ` 键来显示/隐藏已捕获的光标。</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
@@ -2669,6 +2669,10 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>Snipaste 用到的开源软件</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation>也可以在截屏时按下 ` 或 ! 键来显示/隐藏已捕获的光标。</translation>
     </message>
 </context>
 <context>

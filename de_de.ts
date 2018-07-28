@@ -1828,7 +1828,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>Sie können den aufgenommenen Cursor auch über die `-Taste beim Ausnehmen ein- / ausblenden.</translation>
+        <translation type="vanished">Sie können den aufgenommenen Cursor auch über die `-Taste beim Ausnehmen ein- / ausblenden.</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
@@ -2676,6 +2676,10 @@ Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>In Snipaste verwendete Open Source Software:</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

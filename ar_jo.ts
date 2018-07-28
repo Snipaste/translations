@@ -1964,7 +1964,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>يمكنك ايضا اظهار/اخفاء المؤشر الملتقطة عبر &apos; المفتاح عند القص.</translation>
+        <translation type="vanished">يمكنك ايضا اظهار/اخفاء المؤشر الملتقطة عبر &apos; المفتاح عند القص.</translation>
     </message>
     <message>
         <source>Mask color:</source>
@@ -2654,6 +2654,10 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation> افتح مصدرالبرمجيات المستخدمة في القص</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

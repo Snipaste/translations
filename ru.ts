@@ -1853,7 +1853,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>Также можно отобразить или скрыть захваченный курсор с помощью клавиши `  при отображении выделенной области.</translation>
+        <translation type="vanished">Также можно отобразить или скрыть захваченный курсор с помощью клавиши `  при отображении выделенной области.</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
@@ -2662,6 +2662,10 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

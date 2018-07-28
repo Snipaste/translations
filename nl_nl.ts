@@ -1753,7 +1753,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>U kunt de zichtbaarheid van de muiscursor ook wisselen met de `-toets.</translation>
+        <translation type="vanished">U kunt de zichtbaarheid van de muiscursor ook wisselen met de `-toets.</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
@@ -2668,6 +2668,10 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>Open Source software in Snipaste openen</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

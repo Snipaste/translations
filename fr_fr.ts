@@ -2316,10 +2316,6 @@ Précisez -1 pour laisser Snipaste décider pour vous.</translation>
         <translation>Espace vide autour du texte</translation>
     </message>
     <message>
-        <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Key Bindings</source>
         <translation>Reliures clés</translation>
     </message>
@@ -2672,6 +2668,10 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>Logiciels libres utilisés dans Snipaste</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

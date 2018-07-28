@@ -2103,7 +2103,7 @@ Se esta opção estiver marcada, os recursos acima serão desabilitados.</transl
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>Você também pode exibir/ocultar o cursor capturado pela tecla ` ao recortar.</translation>
+        <translation type="vanished">Você também pode exibir/ocultar o cursor capturado pela tecla ` ao recortar.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key action:</source>
@@ -2672,6 +2672,10 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>Software de código aberto usado no Snipaste</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

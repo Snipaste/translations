@@ -1917,7 +1917,7 @@ Indique -1 para deixar o Snipaste decidir por si.</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>Também pode mostrar/ocultar o cursor capturado com a tecla `ao capturar.</translation>
+        <translation type="vanished">Também pode mostrar/ocultar o cursor capturado com a tecla `ao capturar.</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -2672,6 +2672,10 @@ Terá um melhor tempo de resposta ao efectuar a captura.</translation>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>Software livre usado no Snipaste</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

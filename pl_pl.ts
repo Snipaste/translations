@@ -2094,10 +2094,6 @@ Jeżeli ta opcja jest zaznaczona, powyższe ustawienia zostaną wyłączone.</tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&apos;Enter&apos; key action:</source>
         <translation>Akcja klawisza Enter:</translation>
     </message>
@@ -2666,6 +2662,10 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

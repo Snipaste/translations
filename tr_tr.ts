@@ -1857,7 +1857,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>Kırpma işleminde yakalanan imleci ` tuşuyla da gösterebilir/gizleyebilirsiniz.</translation>
+        <translation type="vanished">Kırpma işleminde yakalanan imleci ` tuşuyla da gösterebilir/gizleyebilirsiniz.</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
@@ -2668,6 +2668,10 @@ Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>Snipaste&apos;de kullanılan açık kaynaklı yazılımlar</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1844,10 +1844,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
@@ -2642,6 +2638,10 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

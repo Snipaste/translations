@@ -2063,10 +2063,6 @@ You can also find this option in the context menu of individual image window.</s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>quit snipping</source>
         <translation>Thoát snipping</translation>
     </message>
@@ -2655,6 +2651,10 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

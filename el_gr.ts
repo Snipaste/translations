@@ -2323,7 +2323,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>Μπορείτε επίσης να εμφανίσετε / αποκρύψετε τον καταγεγραμμένη δρομέα μέσω του πλήκτρου ` κατά τη λήψη στιγμιότυπου.</translation>
+        <translation type="vanished">Μπορείτε επίσης να εμφανίσετε / αποκρύψετε τον καταγεγραμμένη δρομέα μέσω του πλήκτρου ` κατά τη λήψη στιγμιότυπου.</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -2678,6 +2678,10 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>Λογισμικό ανοιχτού κώδικα που χρησιμοποιείται στο Snipaste</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

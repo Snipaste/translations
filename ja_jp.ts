@@ -2312,7 +2312,7 @@ Snipasteを自動設定したい場合は-1。</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>スニッピングときに｀キーを押すことでカーソルを表示/非表示ことができます。</translation>
+        <translation type="vanished">スニッピングときに｀キーを押すことでカーソルを表示/非表示ことができます。</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -2667,6 +2667,10 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>Snipasteに使用するオープンソースソフトウェア</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

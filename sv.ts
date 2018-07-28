@@ -2313,7 +2313,7 @@ Ange -1 för att låta Snipaste avgöra åt dig.</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>Du kan också visa/dölja den fångade muspekaren med tangenten `,vid klipp.</translation>
+        <translation type="vanished">Du kan också visa/dölja den fångade muspekaren med tangenten `,vid klipp.</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -2666,6 +2666,10 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
