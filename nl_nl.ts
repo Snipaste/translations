@@ -99,7 +99,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation>De nieuwe versie van Snipaste is gedownload in:</translation>
+        <translation>De nieuwe versie van Snipaste is gedownload naar:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -165,7 +165,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
 </context>
 <context>
@@ -375,7 +375,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijstintenconversie [PRO]</translation>
     </message>
 </context>
 <context>
@@ -403,15 +403,15 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Productaanschaf niet voltooid t.g.v. een netwerkfout.</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Productaanschaf niet voltooid t.g.v. een serverfout.</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Productaanschaf niet voltooid t.g.v. een onbekende fout.</translation>
     </message>
 </context>
 <context>
@@ -1196,11 +1196,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste Knip</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Actieve venster Knippen</translation>
     </message>
 </context>
 <context>
@@ -1420,7 +1420,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Unlock PRO...</source>
-        <translation>Pro activeren…</translation>
+        <translation>PRO activeren…</translation>
     </message>
     <message>
         <source>Export image group(s)</source>
@@ -1435,7 +1435,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>Snipper</name>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation>Wilt u  Knippen afbreken?</translation>
+        <translation>Wilt u Knippen afbreken?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
@@ -1501,7 +1501,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste Knip</translation>
     </message>
 </context>
 <context>
@@ -1781,7 +1781,7 @@ De alfa-transparantie van de afbeelding raakt hiermee verloren.</translation>
     </message>
     <message>
         <source>Ignore the left Windows key when snipping.</source>
-        <translation>Llinker Windows-toets negeren bij Knippen.</translation>
+        <translation>Linker Windows-toets negeren bij Knippen.</translation>
     </message>
     <message>
         <source>Left</source>
@@ -2671,7 +2671,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>U kunt de zichtbaarheid van de muiscursor ook wisselen met de ` of de !-toets.</translation>
     </message>
 </context>
 <context>
@@ -2780,7 +2780,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Grootte aanpassen</translation>
     </message>
 </context>
 <context>
