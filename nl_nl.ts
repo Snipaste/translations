@@ -2515,7 +2515,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Control</source>
-        <translation>Controleren</translation>
+        <translation>Beheer</translation>
     </message>
     <message>
         <source>Super Snip</source>
