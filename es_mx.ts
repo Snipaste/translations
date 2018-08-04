@@ -217,7 +217,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
-        <translation>Encoger la zona de recorte en 1 pixel</translation>
+        <translation>Encoger la zona de recorte en 1 píxel</translation>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
@@ -297,7 +297,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the cursor by 1 pixel</source>
-        <translation>Mover el cursor por 1 pixel</translation>
+        <translation>Mover el cursor por 1 píxel</translation>
     </message>
     <message>
         <source>Arrow keys</source>
@@ -957,11 +957,11 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation>Tablero de damas oscuro</translation>
+        <translation>Tablero oscuro</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation>Tablero de damas claro</translation>
+        <translation>Tablero claro</translation>
     </message>
     <message>
         <source>Paste</source>
