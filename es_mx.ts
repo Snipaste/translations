@@ -43,7 +43,7 @@
     </message>
     <message>
         <source>Please retry.</source>
-        <translation>Por vaor, intenta de nuevo.</translation>
+        <translation>Por favor, intenta de nuevo.</translation>
     </message>
     <message>
         <source>Writing downloaded file into</source>
@@ -116,7 +116,7 @@ Please contact the developer.</source>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation>¿Estás seguro de cerrar el grupo o los grupos seleccionado(s)? Ésta Acción no se puede deshacer.</translation>
+        <translation>¿Estás seguro de cerrar el grupo o los grupos seleccionado(s)? Esta Acción no se puede deshacer.</translation>
     </message>
 </context>
 <context>
@@ -213,11 +213,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
-        <translation>Agrandar la zona de recorte en 1 pixel</translation>
+        <translation>Agrandar la zona de recorte en 1 píxel</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
-        <translation>Encoger la zona de recorte en 1 pixel</translation>
+        <translation>Encoger la zona de recorte en 1 píxel</translation>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
@@ -269,7 +269,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Copy the plain text (if this image is converted from text)</source>
-        <translation>Copiar el texto sin formato (Si ésta imagen se convierte desde texto)</translation>
+        <translation>Copiar el texto sin formato (Si esta imagen se convierte desde texto)</translation>
     </message>
     <message>
         <source>Replace the image with the content in the clipboard</source>
@@ -277,7 +277,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Open the Preferences Dialog</source>
-        <translation>Abrir el diáogo de preferencias</translation>
+        <translation>Abrir el diálogo de preferencias</translation>
     </message>
     <message>
         <source>Common:</source>
@@ -297,7 +297,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the cursor by 1 pixel</source>
-        <translation>Mover el cursor por 1 pixel</translation>
+        <translation>Mover el cursor por 1 píxel</translation>
     </message>
     <message>
         <source>Arrow keys</source>
@@ -349,7 +349,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
-        <translation>Desplacamiento del mouse o 1/2</translation>
+        <translation>Desplazamiento del mouse o 1/2</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
@@ -649,7 +649,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Computer name</source>
-        <translation>Nombre del ordenadr</translation>
+        <translation>Nombre del ordenador</translation>
     </message>
     <message>
         <source>User name</source>
@@ -661,7 +661,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Illegal characters</source>
-        <translation>Caractéres no aceptables</translation>
+        <translation>Caracteres no aceptables</translation>
     </message>
     <message>
         <source>Environment variables</source>
@@ -774,11 +774,11 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation>Tablero de damas oscuro</translation>
+        <translation>Tablero oscuro</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation>Tablero de damas claro</translation>
+        <translation>Tablero claro</translation>
     </message>
     <message>
         <source>Snip and pin</source>
@@ -846,7 +846,7 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation>Puedes arrastrar la esqiuna de la caja de texto para cambiar el tamaño de la fuente.</translation>
+        <translation>Puedes arrastrar la esquina de la caja de texto para cambiar el tamaño de la fuente.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -957,11 +957,11 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation>Tablero de damas oscuro</translation>
+        <translation>Tablero oscuro</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation>Tablero de damas claro</translation>
+        <translation>Tablero claro</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1180,12 +1180,12 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>El atajo para alternar el modo del clic a través de la imagen debajor del cursor.
-Si no hay una ventana de imagen debajo del cursor, todas las imágenes no seleccionables se volverá seleccionables.</translation>
+        <translation>El atajo para alternar el modo del clic a través de la imagen debajo del cursor.
+Si no hay una ventana de imagen debajo del cursor, todas las imágenes no seleccionables se volverán seleccionables.</translation>
     </message>
     <message>
         <source>Show tray menu</source>
-        <translation>Mostrarel menú de la bandeja</translation>
+        <translation>Mostrar el menú de la bandeja</translation>
     </message>
     <message>
         <source>Custom snip</source>
@@ -1361,7 +1361,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>¿Estás seguro de cerrar &quot;%1&quot;? Ésta acción no se puede deshacer.</translation>
+        <translation>¿Estás seguro de cerrar &quot;%1&quot;? Esta acción no se puede deshacer.</translation>
     </message>
     <message>
         <source>Default</source>
@@ -1381,7 +1381,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Image saved to</source>
-        <translation>Imagn guardada en</translation>
+        <translation>Imagen guardada en</translation>
     </message>
     <message>
         <source>Failed to save the image to</source>
@@ -1802,7 +1802,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Automatically show the fullscreen cross lines every time you start snipping.</source>
-        <translation>Automáticamente mostrar las líneas las lineas cruzadas al puntero en pantalla completa cuando comiences un recorte.</translation>
+        <translation>Automáticamente mostrar las líneas cruzadas al puntero en pantalla completa cuando comiences un recorte.</translation>
     </message>
     <message>
         <source>Auto show cross lines</source>
@@ -1997,7 +1997,7 @@ Range: 10 - 100</source>
         <source>Let new image windows have shadows.
 You can also find this option in the context menu of individual image window.</source>
         <translation>Dejar que las nuevas ventanas de imágenes tengan sombras.
-También puedes encontrar ésta opción en el menú contextual de una ventana individual.</translation>
+También puedes encontrar esta opción en el menú contextual de una ventana individual.</translation>
     </message>
     <message>
         <source>If the source is a screenshot, show it where you snipped.
@@ -2007,7 +2007,7 @@ Si no está activado, siempre se mostrará en el centro de la pantalla principal
     </message>
     <message>
         <source>Use snipping position</source>
-        <translation>Escalamiento suave</translation>
+        <translation>Usar la posición del recorte</translation>
     </message>
     <message>
         <source>Zoom by mouse wheel</source>
@@ -2029,7 +2029,7 @@ Si no está activado, siempre se mostrará en el centro de la pantalla principal
         <source>Let new images use smooth scaling when zooming.
 You can also find this option in the context menu of individual image window.</source>
         <translation>Permitir que las imágenes nuevas usen escalamiento suave al acercarlas.
-También se puede encontrar ésta opción en el menú contextual de la ventaan de imagen individual.</translation>
+También se puede encontrar esta opción en el menú contextual de la ventana de imagen individual.</translation>
     </message>
     <message>
         <source>Smooth scaling</source>
@@ -2045,11 +2045,11 @@ También se puede encontrar ésta opción en el menú contextual de la ventaan d
     </message>
     <message>
         <source>Let the image window be translucent if its border is flashing.</source>
-        <translation>Dejar que la ventana de imagen sea translúcido si su borde está parpadeando.</translation>
+        <translation>Dejar que la ventana de imagen sea translúcida si su borde está parpadeando.</translation>
     </message>
     <message>
         <source>Translucent when flashing</source>
-        <translation>Translúcido cuando parpadea</translation>
+        <translation>Translúcido al parpadear</translation>
     </message>
     <message>
         <source>Flash the image windows after you have switched to another image group.</source>
@@ -2061,7 +2061,7 @@ También se puede encontrar ésta opción en el menú contextual de la ventaan d
     </message>
     <message>
         <source>When you paste, automatically hide all image windows, if any image window is currently flashing.</source>
-        <translation>Cuando pegas, automáticamente esconder todas las ventanas de imágenes, si alguna ventana de imágen está parpadeando.</translation>
+        <translation>Cuando pegas, automáticamente esconder todas las ventanas de imágenes, si alguna ventana de imagen está parpadeando.</translation>
     </message>
     <message>
         <source>Hide all images if you paste when any image is flashing</source>
@@ -2089,7 +2089,7 @@ También se puede encontrar ésta opción en el menú contextual de la ventaan d
     </message>
     <message>
         <source>Let the new image window gain keyboard focus.</source>
-        <translation>Dejar que la nueva ventana de imágen obtenga atención del teclado.</translation>
+        <translation>Dejar que la nueva ventana de imagen obtenga atención del teclado.</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -2127,7 +2127,7 @@ If you copy a non-image file, a paste will immediately show the file path.
 If this option is checked, the above features will be disabled.</source>
         <translation>Si copias un archivo de imagen, la primera vez que pegues mostrará esa imagen, la segunda la ruta de la imagen.
 Si copias un archivo que no es imagen, pegar mostrará de inmediato la ruta del archivo.
-Si esta opción  está activa, las funciones de arriba serán desactivadas.</translation>
+Si esta opción está activa, las funciones de arriba serán desactivadas.</translation>
     </message>
     <message>
         <source>Never paste file paths</source>
@@ -2191,7 +2191,7 @@ Si esta opción  está activa, las funciones de arriba serán desactivadas.</tra
     </message>
     <message>
         <source>Set the default output image quality.</source>
-        <translation>Estalece la calidad por defecto de la imagen de salida.</translation>
+        <translation>Establece la calidad por defecto de la imagen de salida.</translation>
     </message>
     <message>
         <source>Range: 0 to 100 or -1.
@@ -2271,7 +2271,7 @@ Especifica -1 para dejar que Snipaste decida por ti.</translation>
     </message>
     <message>
         <source>* If conflicted, the upper operation will be matched</source>
-        <translation>* Si está en conflicto, la operación superior se combinará</translation>
+        <translation>* Si está en conflicto, la operación superior tendrá prioridad</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -2293,7 +2293,7 @@ Especifica -1 para dejar que Snipaste decida por ti.</translation>
         <source>Beta versions may contain more bugs.
 Please report to the developer if you find any.</source>
         <translation>Las versiones beta podrían contener más errores.
-Por favor reportalos al desarrollador si encuentras una.</translation>
+Por favor repórtalos al desarrollador si encuentras una.</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
@@ -2353,7 +2353,7 @@ Por favor reportalos al desarrollador si encuentras una.</translation>
     </message>
     <message>
         <source>Licenses</source>
-        <translation>Licensias</translation>
+        <translation>Licencias</translation>
     </message>
     <message>
         <source>Contact:</source>
@@ -2463,7 +2463,7 @@ Ganará un mejor tiempo de respuesta al ingresar al recorte.</translation>
     </message>
     <message>
         <source>Export to clipboard</source>
-        <translation>Exprtar al portapapeles</translation>
+        <translation>Exportar al portapapeles</translation>
     </message>
     <message>
         <source>Disable completely</source>
@@ -2471,7 +2471,7 @@ Ganará un mejor tiempo de respuesta al ingresar al recorte.</translation>
     </message>
     <message>
         <source>Include unsaved screenshots</source>
-        <translation>Incluir capturas de pantalla no guardadas</translation>
+        <translation>Incluir capturas sin guardar</translation>
     </message>
     <message>
         <source>Default background mode:</source>
@@ -2555,7 +2555,7 @@ Ganará un mejor tiempo de respuesta al ingresar al recorte.</translation>
     </message>
     <message>
         <source>Check interval:</source>
-        <translation>Verificar el intervalo:</translation>
+        <translation>Intervalo de chequeo:</translation>
     </message>
     <message>
         <source>Function</source>
@@ -2563,7 +2563,7 @@ Ganará un mejor tiempo de respuesta al ingresar al recorte.</translation>
     </message>
     <message>
         <source>Top left:</source>
-        <translation>Esq. sup. izqquierda:</translation>
+        <translation>Esq. sup. izquierda:</translation>
     </message>
     <message>
         <source>Top right:</source>
@@ -2664,7 +2664,7 @@ Ganará un mejor tiempo de respuesta al ingresar al recorte.</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>También puedes mostrar/ocultar el cursor capturado vía la tecla `o ! mientras recortas.</translation>
     </message>
 </context>
 <context>
