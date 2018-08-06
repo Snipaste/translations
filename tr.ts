@@ -165,7 +165,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
 </context>
 <context>
@@ -375,7 +375,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri tonlamalı dönüştürme [PRO]</translation>
     </message>
 </context>
 <context>
@@ -403,15 +403,15 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ürün ağ hatası nedeniyle satın alınmadı.</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ürün sunucu hatası nedeniyle satın alınmadı.</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ürün bilinmeyen bir hata nedeniyle satın alınmadı.</translation>
     </message>
 </context>
 <context>
@@ -1187,8 +1187,8 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>İmlecin altındaki görüntünün tıklama modunu değiştirmek için kullanılan kısayol.
-İmlecin altında herhangi bir görüntü penceresi yoksa, tıklanamayan tüm görüntüler tıklanabilir hale getirilir.</translation>
+        <translation>İmleç altındaki görüntünün tıklama modunu değiştirme kısayolu.
+İmleç altında herhangi bir görüntü penceresi yoksa, tıklanamayan tüm görüntüler tıklanabilir hale getirilir.</translation>
     </message>
     <message>
         <source>Show tray menu</source>
@@ -1196,11 +1196,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel Kırpma</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Etkin pencereyi Kırp</translation>
     </message>
 </context>
 <context>
@@ -1501,7 +1501,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel Kırpma</translation>
     </message>
 </context>
 <context>
@@ -2671,7 +2671,7 @@ Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırpma esnasında yakalanan imleci ` veya ! tuşlarıyla  gösterebilir / gizleyebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -2780,7 +2780,7 @@ Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Boyutlandır</translation>
     </message>
 </context>
 <context>
