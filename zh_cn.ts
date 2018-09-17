@@ -814,7 +814,7 @@ Share it to your friends!</source>
     </message>
     <message>
         <source>Select color</source>
-        <translation>选择颜色</translation>
+        <translation type="vanished">选择颜色</translation>
     </message>
     <message>
         <source>Same as %1</source>
@@ -835,6 +835,18 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Spanish (Mexico)</source>
         <translation>西班牙语（墨西哥）</translation>
+    </message>
+    <message>
+        <source>Custom color</source>
+        <translation>自定义颜色</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation>选择颜色</translation>
+    </message>
+    <message>
+        <source>Import succeeded!</source>
+        <translation>导入成功！</translation>
     </message>
 </context>
 <context>
@@ -876,7 +888,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy plain text</source>
-        <translation>复制 纯文本</translation>
+        <translation>复制纯文本</translation>
     </message>
     <message>
         <source>Copy HTML</source>
@@ -1052,6 +1064,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Grayscale</source>
         <translation>灰度显示</translation>
     </message>
+    <message>
+        <source>Custom color</source>
+        <translation>自定义颜色</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1199,6 +1215,26 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Snip the active window</source>
         <translation>截取活动窗口</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>截屏并贴图</translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation>重复上一次截图区域并复制</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation>进入白板模式</translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation>打开记事本</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation>全屏截图并复制</translation>
     </message>
 </context>
 <context>
@@ -1427,6 +1463,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Snipaste image groups</source>
         <translation>Snipaste 贴图组</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>清空日志文件</translation>
     </message>
 </context>
 <context>
@@ -2823,6 +2863,33 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>zoominputdialog</name>
+    <message>
+        <source>Resize</source>
+        <translation type="obsolete">调整区域大小</translation>
+    </message>
+    <message>
+        <source>Zoom:</source>
+        <translation>缩放:</translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation>大小:</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Zoom Image</source>
+        <translation>贴图缩放</translation>
     </message>
 </context>
 </TS>
