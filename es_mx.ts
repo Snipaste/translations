@@ -811,7 +811,7 @@ Share it to your friends!</source>
     </message>
     <message>
         <source>Select color</source>
-        <translation>Selecciona el color</translation>
+        <translation type="vanished">Selecciona el color</translation>
     </message>
     <message>
         <source>Same as %1</source>
@@ -832,6 +832,18 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     <message>
         <source>Spanish (Mexico)</source>
         <translation>Español (México)</translation>
+    </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import succeeded!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1048,6 +1060,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Grayscale</source>
         <translation>Escala de grises</translation>
     </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1194,6 +1210,26 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     <message>
         <source>Snip the active window</source>
         <translation>Recortar la ventana activa</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation type="unfinished">Recortar y mantener en pantalla</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1422,6 +1458,10 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     <message>
         <source>Snipaste image groups</source>
         <translation>Grupos de imágenes Snipaste</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2815,6 +2855,33 @@ Ganará un mejor tiempo de respuesta al ingresar al recorte.</translation>
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
+    </message>
+</context>
+<context>
+    <name>zoominputdialog</name>
+    <message>
+        <source>Resize</source>
+        <translation type="obsolete">Redimensionar</translation>
+    </message>
+    <message>
+        <source>Zoom:</source>
+        <translation type="unfinished">Zoom:</translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished">Tamaño:</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">Aceptar</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Zoom Image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

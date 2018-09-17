@@ -812,7 +812,7 @@ Share it to your friends!</source>
     </message>
     <message>
         <source>Select color</source>
-        <translation>حدد اللون</translation>
+        <translation type="vanished">حدد اللون</translation>
     </message>
     <message>
         <source>Same as %1</source>
@@ -831,6 +831,18 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Spanish (Mexico)</source>
         <translation>الإسبانية (المكسيك)</translation>
+    </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">حدد اللون</translation>
+    </message>
+    <message>
+        <source>Import succeeded!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1048,6 +1060,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Grayscale</source>
         <translation>تدرج الرمادي</translation>
     </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1193,6 +1209,26 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip the active window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation type="unfinished">قص و تثبيت</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1422,6 +1458,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Snipaste image groups</source>
         <translation>مجموعات الصور Snipaste</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2808,6 +2848,29 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Your version:</source>
         <translation>نسختك:</translation>
+    </message>
+</context>
+<context>
+    <name>zoominputdialog</name>
+    <message>
+        <source>Zoom:</source>
+        <translation type="unfinished">تكبير/تصغير:</translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished">حجم:</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">موافق</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">الغاء الامر</translation>
+    </message>
+    <message>
+        <source>Zoom Image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

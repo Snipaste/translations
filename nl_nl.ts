@@ -816,7 +816,7 @@ Deel het met vrienden!</translation>
     </message>
     <message>
         <source>Select color</source>
-        <translation>Kies een kleur</translation>
+        <translation type="vanished">Kies een kleur</translation>
     </message>
     <message>
         <source>Same as %1</source>
@@ -837,6 +837,18 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     <message>
         <source>Spanish (Mexico)</source>
         <translation>Spaans (Mexico)</translation>
+    </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">Kleur selecteren</translation>
+    </message>
+    <message>
+        <source>Import succeeded!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1054,6 +1066,10 @@ De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Voorkeuren - Sneltoet
         <source>Grayscale</source>
         <translation>Grijstinten</translation>
     </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1201,6 +1217,26 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Snip the active window</source>
         <translation>Actieve venster Knippen</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation type="unfinished">Knippen en vastpinnen</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1429,6 +1465,10 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Snipaste image groups</source>
         <translation>Snipaste afbeeldingengroepen</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2822,6 +2862,33 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     <message>
         <source>Cancel</source>
         <translation>Annuleren</translation>
+    </message>
+</context>
+<context>
+    <name>zoominputdialog</name>
+    <message>
+        <source>Resize</source>
+        <translation type="obsolete">Grootte aanpassen</translation>
+    </message>
+    <message>
+        <source>Zoom:</source>
+        <translation type="unfinished">Zoom:</translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished">Grootte:</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuleren</translation>
+    </message>
+    <message>
+        <source>Zoom Image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

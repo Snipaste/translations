@@ -816,7 +816,7 @@ Partagez-le avec vos amis!</translation>
     </message>
     <message>
         <source>Select color</source>
-        <translation>Sélectionner couleur</translation>
+        <translation type="vanished">Sélectionner couleur</translation>
     </message>
     <message>
         <source>Same as %1</source>
@@ -837,6 +837,18 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     <message>
         <source>Spanish (Mexico)</source>
         <translation>Espagnol (Mexique)</translation>
+    </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">Sélectionner Couleur</translation>
+    </message>
+    <message>
+        <source>Import succeeded!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1054,6 +1066,10 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
         <source>Grayscale</source>
         <translation>Echelle de gris</translation>
     </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1200,6 +1216,26 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Snip the active window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation type="unfinished">Couper et épingler</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1429,6 +1465,10 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <message>
         <source>Snipaste image groups</source>
         <translation>Groupes d&apos;images Snipaste</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2822,6 +2862,29 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     <message>
         <source>Your version:</source>
         <translation>Votre Version:</translation>
+    </message>
+</context>
+<context>
+    <name>zoominputdialog</name>
+    <message>
+        <source>Zoom:</source>
+        <translation type="unfinished">Zoom:</translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished">Taille:</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+    <message>
+        <source>Zoom Image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
