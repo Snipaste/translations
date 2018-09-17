@@ -1228,7 +1228,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Vorige opnamegebied opnieuw knippen en kopiëren</translation>
+        <translation>Vorig opnamegebied opnieuw knippen en kopiëren</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
