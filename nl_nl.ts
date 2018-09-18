@@ -840,15 +840,15 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste kleur</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Kleur selecteren</translation>
+        <translation>Kleur selecteren</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Importeren voltooid!</translation>
     </message>
 </context>
 <context>
@@ -1068,7 +1068,7 @@ De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Voorkeuren - Sneltoet
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste kleur</translation>
     </message>
 </context>
 <context>
@@ -1220,23 +1220,23 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished">Knippen en vastpinnen</translation>
+        <translation>Knippen en vastpinnen</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Volledig scherm knippen en kopiëren </translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorig opnamegebied opnieuw knippen en kopiëren</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Whiteboard-modus</translation>
     </message>
     <message>
         <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
+        <translation>Notepad openen</translation>
     </message>
 </context>
 <context>
@@ -1448,7 +1448,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Open log file</source>
-        <translation>Log-bestand openen</translation>
+        <translation>Logbestand openen</translation>
     </message>
     <message>
         <source>Open config file</source>
@@ -1468,7 +1468,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Logbestand wissen</translation>
     </message>
 </context>
 <context>
@@ -1721,11 +1721,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Log level:</source>
-        <translation>Log-niveau:</translation>
+        <translation>Logniveau:</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation>Log-bestand openen</translation>
+        <translation>Logbestand openen</translation>
     </message>
     <message>
         <source>Hover over an option to see its detailed explanation.</source>
@@ -2872,23 +2872,23 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished">Zoom:</translation>
+        <translation>Zoom:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Grootte:</translation>
+        <translation>Grootte:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuleren</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding zoomen</translation>
     </message>
 </context>
 </TS>
