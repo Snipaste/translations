@@ -163,7 +163,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
 </context>
 <context>
@@ -373,7 +373,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>グレースケール変換 [PRO]</translation>
     </message>
 </context>
 <context>
@@ -401,15 +401,15 @@ PRO機能を楽しむために今すぐ再起動しますか？</translation>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>ネットワークエラーによる製品の購入は完了していません。</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>サーバーエラーによる製品の購入は完了していません。</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知エラーによる製品の購入は完了していません。</translation>
     </message>
 </context>
 <context>
@@ -837,15 +837,15 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムカラー</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">色を選択</translation>
+        <translation>色を選択</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+        <translation>インポートに成功しました！</translation>
     </message>
 </context>
 <context>
@@ -1065,7 +1065,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムカラー</translation>
     </message>
 </context>
 <context>
@@ -1208,31 +1208,31 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムスニップ</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>アクティブ中のウィンドウをスニップする</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished">スニップとピン</translation>
+        <translation>スニップとピン</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>全スクリーンをスニップしてコピーする</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>最後のスクリーンショットの同じ領域をスニップしてコピーする</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ホワイトボードモード入</translation>
     </message>
     <message>
         <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
+        <translation>ノットパッドを開く</translation>
     </message>
 </context>
 <context>
@@ -1464,7 +1464,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>ログファイルをクリア</translation>
     </message>
 </context>
 <context>
@@ -1541,7 +1541,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムスニップ</translation>
     </message>
 </context>
 <context>
@@ -2710,7 +2710,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>「`」または「！」キーによるスニッピングするときキャプチャされたカーソルを表示／非表示する。</translation>
     </message>
 </context>
 <context>
@@ -2819,7 +2819,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>リサイズ</translation>
     </message>
 </context>
 <context>
@@ -2867,23 +2867,23 @@ You will gain better response time on entering snipping.</source>
     <name>zoominputdialog</name>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished">ズーム：</translation>
+        <translation>ズーム：</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">サイズ：</translation>
+        <translation>サイズ：</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">確認</translation>
+        <translation>確認</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation type="unfinished"></translation>
+        <translation>ズーム画像</translation>
     </message>
 </context>
 </TS>

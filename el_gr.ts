@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="el_GR">
+<TS version="2.0" language="el_GR">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -165,7 +165,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
 </context>
 <context>
@@ -375,7 +375,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Εναλλαγή μετατροπής κλίμακας του γκρι [PRO]</translation>
     </message>
 </context>
 <context>
@@ -403,15 +403,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το προϊόν δεν αγοράστηκε εξαιτίας ενός σφάλματος του δικτύου.</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το προϊόν δεν αγοράστηκε εξαιτίας ενός σφάλματος του διακομιστή.</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το προϊόν δεν αγοράστηκε εξαιτίας ενός άγνωστου σφάλματος.</translation>
     </message>
 </context>
 <context>
@@ -815,10 +815,6 @@ Share it to your friends!</source>
         <translation>Υπάρχοντα παράθυρα εικόνας</translation>
     </message>
     <message>
-        <source>Select color</source>
-        <translation type="vanished">Επιλογή χρώματος</translation>
-    </message>
-    <message>
         <source>Same as %1</source>
         <translation>Ίδιο με %1</translation>
     </message>
@@ -836,19 +832,19 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
-        <translation>Ισπανικά (Μεξικό)</translation>
+        <translation>Ισπανικά (Μεξικού)</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμ. χρώμα</translation>
     </message>
     <message>
-        <source>Select Color</source>
-        <translation type="unfinished">Επιλογή χρώματος</translation>
+        <source>Select color</source>
+        <translation>Επιλογή χρώματος</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Η εισαγωγή ολοκληρώθηκε επιτυχώς!</translation>
     </message>
 </context>
 <context>
@@ -1069,7 +1065,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμ. χρώμα</translation>
     </message>
 </context>
 <context>
@@ -1216,31 +1212,31 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμοσμένο στιγμιότυπο</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Στιγμιότυπο ενεργού παραθύρου</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished">Στιγμιότυπο και καρφίτσωμα</translation>
+        <translation>Στιγμιότυπο και καρφίτσωμα</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Στιγμιότυπο και αντιγραφή πλήρους οθόνης</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Στιγμιότυπο και αντιγραφή ίδιας περιοχής της τελευταίας λήψης</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετάβαση σε λειτουργία πίνακα</translation>
     </message>
     <message>
         <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα του Notepad</translation>
     </message>
 </context>
 <context>
@@ -1472,7 +1468,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Απαλοιφή αρχείου καταγραφής</translation>
     </message>
 </context>
 <context>
@@ -1545,7 +1541,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμ. στιγμιότυπο</translation>
     </message>
 </context>
 <context>
@@ -1628,8 +1624,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Λίστα παράβλεψης:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Εισαγάγετε ονόματα εκτελέσιμων αρχείων διαχωρίζοντάς τα με κόμματα (π.χ. a.exe, games/*)</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
+        <translation>Εισαγάγετε ονόματα εκτελέσιμων αρχείων διαχωρίζοντάς τα με κόμματα (π.χ. a.exe, b.exe)</translation>
     </message>
 </context>
 <context>
@@ -2363,7 +2359,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation type="vanished">Μπορείτε επίσης να εμφανίσετε / αποκρύψετε τον καταγεγραμμένη δρομέα μέσω του πλήκτρου ` κατά τη λήψη στιγμιότυπου.</translation>
+        <translation>Μπορείτε επίσης να εμφανίσετε / αποκρύψετε τον καταγεγραμμένη δρομέα μέσω του πλήκτρου ` κατά τη λήψη στιγμιότυπου.</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -2685,7 +2681,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Αξιολόγηση</translation>
     </message>
     <message>
         <source>Unlock PRO features!</source>
@@ -2718,10 +2714,6 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>Λογισμικό ανοιχτού κώδικα που χρησιμοποιείται στο Snipaste</translation>
-    </message>
-    <message>
-        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2830,7 +2822,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλαγή μεγέθους</translation>
     </message>
 </context>
 <context>
@@ -2878,23 +2870,23 @@ You will gain better response time on entering snipping.</source>
     <name>zoominputdialog</name>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished">Μεγέθυνση:</translation>
+        <translation>Μεγέθυνση:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Μέγεθος:</translation>
+        <translation>Μέγεθος:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Εντάξει</translation>
+        <translation>Εντάξει</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Άκυρο</translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεγέθυνση εικόνας</translation>
     </message>
 </context>
 </TS>

@@ -165,7 +165,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>ПРО</translation>
     </message>
 </context>
 <context>
@@ -375,7 +375,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Пребаци конверзију сивих (ПРО)</translation>
     </message>
 </context>
 <context>
@@ -399,19 +399,19 @@ Restart now to enjoy PRO features?</source>
     <name>Licensing_uwp</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Производ није купљен због зрешне грешке.</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Производ није купљен због грешне сервера.</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Производ није купљен због непознате грешне.</translation>
     </message>
 </context>
 <context>
@@ -840,15 +840,15 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Прилагоди боју</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Одабрати боју</translation>
+        <translation>Одаљбрати боју</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Успешан увоз!</translation>
     </message>
 </context>
 <context>
@@ -1068,7 +1068,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Пролагоди боју</translation>
     </message>
 </context>
 <context>
@@ -1212,31 +1212,31 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Прилагоди сечење</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ухвати активни прозор</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished">Резати и закачити</translation>
+        <translation>Резати и закачи</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Резати и копирати цео екран</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Резати и опирати исто зону као претходно резање</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ући у моду табле</translation>
     </message>
     <message>
         <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
+        <translation>Отвори Нотпед</translation>
     </message>
 </context>
 <context>
@@ -1468,7 +1468,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Испразни извештај</translation>
     </message>
 </context>
 <context>
@@ -1545,7 +1545,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Прилагоди резање</translation>
     </message>
 </context>
 <context>
@@ -2715,7 +2715,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Можете исто да покажете/сакријете хувачен курсор са типком ` или ! при резања.</translation>
     </message>
 </context>
 <context>
@@ -2824,7 +2824,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Промени величину</translation>
     </message>
 </context>
 <context>
@@ -2872,23 +2872,23 @@ You will gain better response time on entering snipping.</source>
     <name>zoominputdialog</name>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished">Зум:</translation>
+        <translation>Зум:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Величина:</translation>
+        <translation>Величина:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">У реду</translation>
+        <translation>У реду</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Поништи</translation>
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Зум слике</translation>
     </message>
 </context>
 </TS>

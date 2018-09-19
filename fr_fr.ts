@@ -165,7 +165,7 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro</translation>
     </message>
 </context>
 <context>
@@ -375,7 +375,7 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Basculer la conversion en niveaux de gris [PRO]</translation>
     </message>
 </context>
 <context>
@@ -403,15 +403,15 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO?</translation>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le produit n&apos;a pas été acheté en raison d&apos;une erreur réseau.</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le produit n&apos;a pas été acheté en raison d&apos;une erreur de serveur.</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le produit n&apos;a pas été acheté en raison d&apos;une erreur inconnue.</translation>
     </message>
 </context>
 <context>
@@ -840,15 +840,15 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur personnalisée</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Sélectionner Couleur</translation>
+        <translation>Sélectionner Couleur</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Importation réussie!</translation>
     </message>
 </context>
 <context>
@@ -1068,7 +1068,7 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur personnalisée</translation>
     </message>
 </context>
 <context>
@@ -1212,31 +1212,31 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Coupe personnalisée</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Couper la fenêtre active</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished">Couper et épingler</translation>
+        <translation>Couper et épingler</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Couper et copier le plein écran</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Couper et copier la même zone de la dernière capture d&apos;écran</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrer en mode tableau blanc</translation>
     </message>
     <message>
         <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le bloc-notes</translation>
     </message>
 </context>
 <context>
@@ -1468,14 +1468,14 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer fichier journal</translation>
     </message>
 </context>
 <context>
     <name>Snipper</name>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation>Voulez-vous interrompre le coup de fouet?</translation>
+        <translation>Voulez-vous interrompre le découpage?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
@@ -1545,7 +1545,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Coupe personnalisée</translation>
     </message>
 </context>
 <context>
@@ -2711,7 +2711,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez également afficher/masquer le curseur capturé à l&apos;aide des touches ` ou ! lorsque vous coupez.</translation>
     </message>
 </context>
 <context>
@@ -2820,7 +2820,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionner</translation>
     </message>
 </context>
 <context>
@@ -2868,23 +2868,23 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     <name>zoominputdialog</name>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished">Zoom:</translation>
+        <translation>Agrandir:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Taille:</translation>
+        <translation>Taille:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrandir l&apos;image</translation>
     </message>
 </context>
 </TS>

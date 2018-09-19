@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ar_JO">
+<TS version="2.0" language="ar_JO">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -163,7 +163,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>محترف</translation>
     </message>
 </context>
 <context>
@@ -373,7 +373,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>[تبديل تحويل درجات الرمادي [محترف </translation>
     </message>
 </context>
 <context>
@@ -400,15 +400,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم شراء المنتج بسبب خطا في الشبكة.</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم شراء المنتج بسبب خطا في الخادم.</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم شراء المنتج بسبب خطا غير معروف.</translation>
     </message>
 </context>
 <context>
@@ -812,7 +812,7 @@ Share it to your friends!</source>
     </message>
     <message>
         <source>Select color</source>
-        <translation type="vanished">حدد اللون</translation>
+        <translation>حدد اللون</translation>
     </message>
     <message>
         <source>Same as %1</source>
@@ -834,15 +834,15 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون مخصص</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">حدد اللون</translation>
+        <translation>حدد اللون</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+        <translation>نجح الاستيراد!</translation>
     </message>
 </context>
 <context>
@@ -1062,7 +1062,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون مخصص</translation>
     </message>
 </context>
 <context>
@@ -1205,31 +1205,31 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>قص مخصص</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>قص الإطار النشط</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished">قص و تثبيت</translation>
+        <translation>قص و تثبيت</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>قص ونسخ الشاشة الكاملة</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>قص ونسخ نفس المنطقة من الشاشة الاخيره</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ادخل وضع السبورة</translation>
     </message>
     <message>
         <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح المفكرة</translation>
     </message>
 </context>
 <context>
@@ -1461,7 +1461,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح ملف السجل</translation>
     </message>
 </context>
 <context>
@@ -1538,7 +1538,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>قص مخصص</translation>
     </message>
 </context>
 <context>
@@ -2004,7 +2004,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation type="vanished">يمكنك ايضا اظهار/اخفاء المؤشر الملتقطة عبر &apos; المفتاح عند القص.</translation>
+        <translation>يمكنك ايضا اظهار/اخفاء المؤشر الملتقطة عبر &apos; المفتاح عند القص.</translation>
     </message>
     <message>
         <source>Mask color:</source>
@@ -2697,7 +2697,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكنك أيضا إظهار/إخفاء المؤشر الملتقط عبر &apos; أو! المفتاح عند القص.</translation>
     </message>
 </context>
 <context>
@@ -2806,7 +2806,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>تحجيم</translation>
     </message>
 </context>
 <context>
@@ -2854,23 +2854,23 @@ You will gain better response time on entering snipping.</source>
     <name>zoominputdialog</name>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished">تكبير/تصغير:</translation>
+        <translation>تكبير/تصغير:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">حجم:</translation>
+        <translation>حجم:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">موافق</translation>
+        <translation>موافق</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">الغاء الامر</translation>
+        <translation>الغاء الامر</translation>
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير الصورة</translation>
     </message>
 </context>
 </TS>
