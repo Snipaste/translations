@@ -838,15 +838,15 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>自訂色彩</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">選擇色彩</translation>
+        <translation>選擇色彩</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+        <translation>匯入成功！</translation>
     </message>
 </context>
 <context>
@@ -1066,7 +1066,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>自訂色彩</translation>
     </message>
 </context>
 <context>
@@ -1218,23 +1218,23 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished">擷取螢幕並貼圖</translation>
+        <translation>擷取螢幕並貼圖</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>全螢幕擷圖並複製</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>重複上一次擷圖區域並複製</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>進入白板模式</translation>
     </message>
     <message>
         <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟記事本</translation>
     </message>
 </context>
 <context>
@@ -1466,7 +1466,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>清空記錄檔</translation>
     </message>
 </context>
 <context>
@@ -2873,23 +2873,23 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished">貼圖縮放:</translation>
+        <translation>縮放:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">大小:</translation>
+        <translation>大小:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">確定</translation>
+        <translation>確定</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation type="unfinished"></translation>
+        <translation>貼圖縮放</translation>
     </message>
 </context>
 </TS>
