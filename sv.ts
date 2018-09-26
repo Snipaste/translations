@@ -2779,6 +2779,10 @@ You will gain better response time on entering snipping.</source>
         <translation>Fet</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>Kursiv</translation>
+    </message>
+    <message>
         <source>Fill</source>
         <translation>Fyll</translation>
     </message>

@@ -2768,6 +2768,10 @@ You will gain better response time on entering snipping.</source>
         <translation>Nét đậm</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>Nghiêng</translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Đường viền bên ngoài</translation>
     </message>

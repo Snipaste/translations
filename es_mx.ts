@@ -2781,6 +2781,10 @@ Ganará un mejor tiempo de respuesta al ingresar al recorte.</translation>
         <translation>Negrita</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>Cursiva</translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Subrayado</translation>
     </message>

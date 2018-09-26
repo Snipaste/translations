@@ -2796,6 +2796,10 @@ Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
         <translation>Fett</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>Kursiv</translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Umriss</translation>
     </message>

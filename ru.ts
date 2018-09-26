@@ -2779,6 +2779,10 @@ You will gain better response time on entering snipping.</source>
         <translation>Жирный</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>Курсив</translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Контур</translation>
     </message>

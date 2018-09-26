@@ -2779,6 +2779,10 @@ You will gain better response time on entering snipping.</source>
         <translation>Pogrubienie</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>Kursywa</translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Kontur</translation>
     </message>
