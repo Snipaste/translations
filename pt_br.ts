@@ -165,7 +165,7 @@ Por favor, contate o desenvolvedor.</translation>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
 </context>
 <context>
@@ -375,7 +375,7 @@ Por favor, contate o desenvolvedor.</translation>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar conversão de escala de cinza [PRO]</translation>
     </message>
 </context>
 <context>
@@ -403,15 +403,15 @@ Reiniciar agora para usufruir dos recursos PRO?</translation>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>O produto não foi comprado devido a um erro de rede.</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>O produto não foi comprado devido a um erro de servidor.</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>O produto não foi comprado devido a um erro desconhecido.</translation>
     </message>
 </context>
 <context>
@@ -840,15 +840,15 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor personalizada</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar Cor</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Importado com sucesso!</translation>
     </message>
 </context>
 <context>
@@ -1068,7 +1068,7 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor personalizada</translation>
     </message>
 </context>
 <context>
@@ -1212,31 +1212,31 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte personalizado</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar a janela ativa</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished">Recortar e fixar</translation>
+        <translation>Recortar e fixar</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar e copiar a tela cheia</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar e copiar a mesma área da última captura</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrar no modo de quadro branco</translation>
     </message>
     <message>
         <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Bloco de Notas</translation>
     </message>
 </context>
 <context>
@@ -1468,7 +1468,7 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar arquivo de log</translation>
     </message>
 </context>
 <context>
@@ -1545,7 +1545,7 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte personalizado</translation>
     </message>
 </context>
 <context>
@@ -2715,7 +2715,7 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você também pode exibir/ocultar o cursor capturado pela tecla ` ou ! ao recortar.</translation>
     </message>
 </context>
 <context>
@@ -2792,6 +2792,10 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
         <translation>Negrito</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>Itálico</translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Borda</translation>
     </message>
@@ -2824,7 +2828,7 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionar</translation>
     </message>
 </context>
 <context>
@@ -2872,23 +2876,23 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
     <name>zoominputdialog</name>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished">Zoom:</translation>
+        <translation>Zoom:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Tamanho:</translation>
+        <translation>Tamanho:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar Imagem</translation>
     </message>
 </context>
 </TS>

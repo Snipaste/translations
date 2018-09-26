@@ -3547,6 +3547,11 @@ Herhangi bir hata bulursanız lütfen geliştiriciye bildirin.</translation>
         <translation>Kalın</translation>
     </message>
     <message>
+        <location filename="../ui/paintbar1.ui" line="353"/>
+        <source>Italic</source>
+        <translation>İtalik</translation>
+    </message>
+    <message>
         <location filename="../ui/paintbar1.ui" line="366"/>
         <source>Outline</source>
         <translation>Anahat</translation>

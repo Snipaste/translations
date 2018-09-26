@@ -2788,6 +2788,10 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
         <translation>Vet</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>Cursief</translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Contour</translation>
     </message>

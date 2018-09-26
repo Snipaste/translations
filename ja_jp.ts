@@ -2783,6 +2783,10 @@ You will gain better response time on entering snipping.</source>
         <translation>太字</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>斜体</translation>
+    </message>
+    <message>
         <source>Fill</source>
         <translation>充填</translation>
     </message>

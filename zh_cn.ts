@@ -2789,6 +2789,10 @@ You will gain better response time on entering snipping.</source>
         <translation>粗体</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>斜体</translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>描边</translation>
     </message>

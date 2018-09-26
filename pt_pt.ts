@@ -2792,6 +2792,10 @@ Terá um melhor tempo de resposta ao efectuar a captura.</translation>
         <translation>Negrito</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>Itálico</translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Contorno</translation>
     </message>

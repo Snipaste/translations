@@ -2784,6 +2784,10 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
         <translation>Gras</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>Italique</translation>
+    </message>
+    <message>
         <source>Fill</source>
         <translation>Remplir</translation>
     </message>

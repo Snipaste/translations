@@ -2770,6 +2770,10 @@ You will gain better response time on entering snipping.</source>
         <translation>غامق</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>مائل</translation>
+    </message>
+    <message>
         <source>Fill</source>
         <translation>ملء</translation>
     </message>

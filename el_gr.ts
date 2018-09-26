@@ -2786,6 +2786,10 @@ You will gain better response time on entering snipping.</source>
         <translation>Έντονα</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation>Πλάγια</translation>
+    </message>
+    <message>
         <source>Fill</source>
         <translation>Γέμισμα</translation>
     </message>
