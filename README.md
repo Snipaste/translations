@@ -48,7 +48,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | --------------------- | ----- | ----------- | ------------ |
 | Chinese (Simplified)  | zh_cn | 📕 v2.1     | [liulex](https://github.com/liulex) |
 | Chinese (Traditional) | zh_tw | 📕 v2.1     | [zhtw](http://greedphantom.blogspot.tw) |
-| German                | de_de | 📖 v2.0     | [Samuel Marcius](http://www.fontenvironment.com) |
+| German                | de_de | 📕 v2.1     | [Samuel Marcius](http://www.fontenvironment.com) |
 | Greek                 | el_gr | 📕 v2.1     | [geogeo.gr](http://www.geogeo.gr) |
 | Swedish               | sv    | 📖 v1.14    | [Åke Engelbrektson](https://svenskasprakfiler.se) |
 | Japanese              | ja_jp | 📕 v2.1     | 鳳凰院カミ, [Sayori Studio](https://t.me/SayoriStudio) |
