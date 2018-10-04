@@ -163,7 +163,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
 </context>
 <context>
@@ -373,7 +373,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Graustufenumwandlung umschalten [PRO]</translation>
     </message>
 </context>
 <context>
@@ -401,15 +401,15 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Produkt wurde aufgrund eines Netzwerkfehlers nicht gekauft.</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Produkt wurde aufgrund eines Serverfehlers nicht gekauft.</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Produkt wurde aufgrund eines unbekannten Fehlers nicht gekauft.</translation>
     </message>
 </context>
 <context>
@@ -838,15 +838,15 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Farbe</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle Farbe</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Importieren erfolgreich!</translation>
     </message>
 </context>
 <context>
@@ -1066,7 +1066,7 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Farbe</translation>
     </message>
 </context>
 <context>
@@ -1210,31 +1210,31 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Aufnahme</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktives Fenstere aufnehmen</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished">Aufnehmen und anheften</translation>
+        <translation>Aufnehmen und anheften</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufnehmen und gesamten Bildschirm kopieren</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufnehmen und den gleichen Bereich wie beim letzten Screenshot kopieren</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Whiteboard-Modus betreten</translation>
     </message>
     <message>
         <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
+        <translation>Notepad öffnen</translation>
     </message>
 </context>
 <context>
@@ -1466,7 +1466,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokolldatei löschen</translation>
     </message>
 </context>
 <context>
@@ -1547,7 +1547,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Aufnahme</translation>
     </message>
 </context>
 <context>
@@ -2715,11 +2715,11 @@ Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
-        <translation>In Snipaste verwendete Open Source Software:</translation>
+        <translation>Öffne die in Snipaste verwendete Quellsoftware</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgenommener Cursor kann mit den Tasten &apos; oder ! angezeigt/versteckt werden.</translation>
     </message>
 </context>
 <context>
@@ -2832,7 +2832,7 @@ Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe ändern</translation>
     </message>
 </context>
 <context>
@@ -2880,23 +2880,23 @@ Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
     <name>zoominputdialog</name>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished">Zoom:</translation>
+        <translation>Zoom:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Größe:</translation>
+        <translation>Größe:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild zoomen</translation>
     </message>
 </context>
 </TS>
