@@ -687,7 +687,7 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
-        <translation>启动文件夹中的快捷方式似乎出错了。
+        <translation>开机启动相关的环境出错了。
 已自动取消开机启动。</translation>
     </message>
     <message>
@@ -811,10 +811,6 @@ Share it to your friends!</source>
     <message>
         <source>Existing image windows</source>
         <translation>当前所有贴图窗口</translation>
-    </message>
-    <message>
-        <source>Select color</source>
-        <translation type="vanished">选择颜色</translation>
     </message>
     <message>
         <source>Same as %1</source>
@@ -1068,6 +1064,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom color</source>
         <translation>自定义颜色</translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation>自定义...</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1096,6 +1096,14 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
         <translation>设置开机启动失败！你需要在任务管理器里将 Snipaste 的启动项手动设为启用。</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation>成功</translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
+        <translation>这可能需要几秒钟时间...</translation>
     </message>
 </context>
 <context>
@@ -1840,14 +1848,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <translation>捕捉鼠标指针</translation>
     </message>
     <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>单击中键将截图贴到屏幕上。</translation>
-    </message>
-    <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation>单击中键将截图贴到屏幕上</translation>
-    </message>
-    <message>
         <source>Quit snipping if any window of other programs is activated.</source>
         <translation>截屏时如有其他程序窗口被激活，自动退出截屏。</translation>
     </message>
@@ -1974,10 +1974,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
         <translation>也可以在截屏时按下 Tab 键进行临时切换。</translation>
-    </message>
-    <message>
-        <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation type="vanished">也可以在截屏时按下 ` 键来显示/隐藏已捕获的光标。</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
@@ -2303,10 +2299,6 @@ If this option is checked, the above features will be disabled.</source>
         <translation>自动显示十字线</translation>
     </message>
     <message>
-        <source>&apos;Enter&apos; key action:</source>
-        <translation>回车键功能:</translation>
-    </message>
-    <message>
         <source>then</source>
         <translation>然后</translation>
     </message>
@@ -2426,7 +2418,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation>Esc 键被按下时弹出确认对话框</translation>
+        <translation>按下 Esc 键时弹出确认对话框</translation>
     </message>
     <message>
         <source>When:</source>
@@ -2713,6 +2705,34 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
         <translation>也可以在截屏时按下 ` 或 ! 键来显示/隐藏已捕获的光标。</translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation>按键</translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation>动作</translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation>左键双击:</translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation>截屏时双击鼠标左键执行的动作。</translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation>中键单击:</translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation>截屏时单击鼠标中键执行的动作。</translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
+        <translation>回车键:</translation>
     </message>
 </context>
 <context>
