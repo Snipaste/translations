@@ -1066,6 +1066,10 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
         <source>Grayscale</source>
         <translation>Gri tonlama</translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1094,6 +1098,14 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     <message>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>Snipaste yönetici olarak çalıştırılsın mı?</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Başarılı</translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2026,14 +2038,6 @@ You will gain better response time on entering snipping.</source>
 Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     </message>
     <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>Ekran görüntüsünü ekrana sabitlemek için fare orta tuşa tıklayın.</translation>
-    </message>
-    <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation>Fare orta tık ile ekrana sabitle</translation>
-    </message>
-    <message>
         <source>Disable mouse scrolling</source>
         <translation>Fare kaydırmayı devre dışı bırak</translation>
     </message>
@@ -2048,10 +2052,6 @@ Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
         <translation>Esc tuşuna basıldığında onay iste</translation>
-    </message>
-    <message>
-        <source>&apos;Enter&apos; key action:</source>
-        <translation>&apos;Enter&apos; tuşu işlemi:</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
@@ -2704,6 +2704,34 @@ Herhangi bir hata bulursanız lütfen geliştiriciye bildirin.</translation>
     <message>
         <source>Contact:</source>
         <translation>İletişim:</translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

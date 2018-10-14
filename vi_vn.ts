@@ -1061,6 +1061,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom color</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1088,6 +1092,14 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>Khởi động lại Snipast với đặc quyền quản trị ?</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Thành công</translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1860,24 +1872,12 @@ However, in the meantime, the alpha channel of the image is lost.</source>
         <translation>Hãy sao chép hình ảnh như Windows Bitmap, để bạn có thể dán chúng vào 1 vài ứng dụng đặc biệt như Skype.Tuy nhiên  trong lúc đó, kênh truyền dữ liệu alpha sẽ bị mất. </translation>
     </message>
     <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>Nhấp chọn phím giữa để kết nối giữa chụp màn hình và màn hình. </translation>
-    </message>
-    <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation>Gắn vào màn hình bằng cách nhắp chuột vào giữa nút bấm</translation>
-    </message>
-    <message>
         <source>Quit snipping if any window of other programs is activated.</source>
         <translation>Thoát snipping nếu có bất kỳ cửa sổ của chương trình khác hoạt động.</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
         <translation>Thoát snipping nếu có bất kỳ cửa sổ nào được hoạt động</translation>
-    </message>
-    <message>
-        <source>&apos;Enter&apos; key action:</source>
-        <translation>&apos;Enter&apos; phím chính:</translation>
     </message>
     <message>
         <source>Set the default output image quality.</source>
@@ -2691,6 +2691,34 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

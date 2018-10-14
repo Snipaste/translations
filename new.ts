@@ -1056,6 +1056,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom color</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1082,6 +1086,14 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1886,23 +1898,11 @@ However, in the meantime, the alpha channel of the image is lost.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Quit snipping if any window of other programs is activated.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;Enter&apos; key action:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2678,6 +2678,34 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

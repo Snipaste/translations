@@ -815,10 +815,6 @@ Compartilhe com os seus amigos!</translation>
         <translation>Janelas de imagens existentes</translation>
     </message>
     <message>
-        <source>Select color</source>
-        <translation type="vanished">Selecione a cor</translation>
-    </message>
-    <message>
         <source>Same as %1</source>
         <translation>Igual a %1</translation>
     </message>
@@ -1070,6 +1066,10 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
         <source>Custom color</source>
         <translation>Cor personalizada</translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1098,6 +1098,14 @@ Reinicie o Snipaste como Administrador e tente novamente.</translation>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>Reiniciar o Snipaste como Administrador?</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Sucesso</translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1896,14 +1904,6 @@ que você possa então colar ela em aplicativos especiais, como o Skype.
 No entanto, nesse meio tempo, o canal alfa da imagem é perdido.</translation>
     </message>
     <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>Clique no botão do meio para fixar a captura na tela.</translation>
-    </message>
-    <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation>Fixar na tela ao clicar com o botão do meio</translation>
-    </message>
-    <message>
         <source>Quit snipping if any window of other programs is activated.</source>
         <translation>Encerra o recorte se qualquer janela de outro programa for ativada.</translation>
     </message>
@@ -2140,14 +2140,6 @@ Se esta opção estiver marcada, os recursos acima serão desabilitados.</transl
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
         <translation>Você também pode alterná-la temporariamente pressionando a tecla Tab ao recortar.</translation>
-    </message>
-    <message>
-        <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation type="vanished">Você também pode exibir/ocultar o cursor capturado pela tecla ` ao recortar.</translation>
-    </message>
-    <message>
-        <source>&apos;Enter&apos; key action:</source>
-        <translation>Ação da tecla &apos;Enter&apos;:</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
@@ -2716,6 +2708,34 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
         <translation>Você também pode exibir/ocultar o cursor capturado pela tecla ` ou ! ao recortar.</translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

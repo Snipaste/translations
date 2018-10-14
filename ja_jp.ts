@@ -812,10 +812,6 @@ Share it to your friends!</source>
         <translation>既存の画像ウィンドウ</translation>
     </message>
     <message>
-        <source>Select color</source>
-        <translation type="vanished">色を選択</translation>
-    </message>
-    <message>
         <source>Same as %1</source>
         <translation>%1と同じ</translation>
     </message>
@@ -1067,6 +1063,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom color</source>
         <translation>カスタムカラー</translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1094,6 +1094,14 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>Snipasteを管理者として再起動しますか？</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">成功</translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1884,10 +1892,6 @@ Skypeなど特別なプログラムに貼り付け可能になります。ただ
         <translation>画像の最大幅:</translation>
     </message>
     <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation>マウスホイールをクリックしてスニップをスクリーンに貼り付け</translation>
-    </message>
-    <message>
         <source>Set the color for the tray icon.</source>
         <translation>トレイアイコンの色を設定する。</translation>
     </message>
@@ -2089,10 +2093,6 @@ Range: 10 - 100</source>
         <translation>Snipasteの言語</translation>
     </message>
     <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>マウスホイールをクリックしてスニップをスクリーンに貼り付け。</translation>
-    </message>
-    <message>
         <source>Hide 1x1</source>
         <translation> 1×1 ヒントを非表示</translation>
     </message>
@@ -2237,10 +2237,6 @@ Range: 10 - 100</source>
         <translation>オプションの上にカーソルを置し詳細な説明を表示。</translation>
     </message>
     <message>
-        <source>&apos;Enter&apos; key action:</source>
-        <translation>&apos;Enter&apos; キー アクション:</translation>
-    </message>
-    <message>
         <source>then</source>
         <translation>その後</translation>
     </message>
@@ -2349,10 +2345,6 @@ Snipasteを自動設定したい場合は-1。</translation>
     <message>
         <source>The blank space around the text</source>
         <translation>テキスト周囲の余白</translation>
-    </message>
-    <message>
-        <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation type="vanished">スニッピングときに｀キーを押すことでカーソルを表示/非表示ことができます。</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -2711,6 +2703,34 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
         <translation>「`」または「！」キーによるスニッピングするときキャプチャされたカーソルを表示／非表示する。</translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

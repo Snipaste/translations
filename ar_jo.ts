@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ar_JO">
+<TS version="2.1" language="ar_JO">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -811,10 +811,6 @@ Share it to your friends!</source>
         <translation>نوافذ الصور الحالية</translation>
     </message>
     <message>
-        <source>Select color</source>
-        <translation>حدد اللون</translation>
-    </message>
-    <message>
         <source>Same as %1</source>
         <translation>نفسه ك%1</translation>
     </message>
@@ -1064,6 +1060,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom color</source>
         <translation>لون مخصص</translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1091,6 +1091,14 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>اعادة تشغيل Snipaste مع امتيازات المسؤول؟</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">نجاح</translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1927,10 +1935,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>تعيين عرض الحدود حول منطقه القص.</translation>
     </message>
     <message>
-        <source>&apos;Enter&apos; key action:</source>
-        <translation>&apos; ادخل &apos; الاجراء الرئيسي:</translation>
-    </message>
-    <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
         <translation>يمكنك اضا تبديله مؤقتا بالضغط علي المفتاح tab عند القص.</translation>
     </message>
@@ -2003,10 +2007,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>نسخ احتياطي تلقائي</translation>
     </message>
     <message>
-        <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>يمكنك ايضا اظهار/اخفاء المؤشر الملتقطة عبر &apos; المفتاح عند القص.</translation>
-    </message>
-    <message>
         <source>Mask color:</source>
         <translation>لون القناع:</translation>
     </message>
@@ -2049,10 +2049,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>anchors</source>
         <translation>مراسي</translation>
-    </message>
-    <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation>تعليق للشاشة بالنقر علي الزر الاوسط</translation>
     </message>
     <message>
         <source>So that the global hotkeys are effective when the active window has administrator privileges.</source>
@@ -2377,10 +2373,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <translation>الاجراء الذي يجب تنفيذه اضغط على &apos; ادخال &apos; عند القص.</translation>
     </message>
     <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>انقر فوق زر منتصف تعليق لقطه للشاشة.</translation>
-    </message>
-    <message>
         <source>Licenses</source>
         <translation>الرخص</translation>
     </message>
@@ -2698,6 +2690,34 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
         <translation>يمكنك أيضا إظهار/إخفاء المؤشر الملتقط عبر &apos; أو! المفتاح عند القص.</translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

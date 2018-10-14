@@ -1063,6 +1063,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom color</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1091,6 +1095,14 @@ Otwórz Snipaste jako administrator i spróbuj ponownie.</translation>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>Uruchomić Snipaste jako administrator?</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Sukces</translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1884,14 +1896,6 @@ wklejanie obrazu do niektórych aplikacji np. Syke.
 Kanał alpha obrazu jest utracony.</translation>
     </message>
     <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>Kliknij środkowym przyciskiem myszy aby przypiąć zrzut ekranu do ekranu.</translation>
-    </message>
-    <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation>Przypnij do ekranu środkowym przyciskiem myszy</translation>
-    </message>
-    <message>
         <source>Quit snipping if any window of other programs is activated.</source>
         <translation>Anuluj przechwytywanie, jeżeli inne okno jest aktywowane.</translation>
     </message>
@@ -2128,10 +2132,6 @@ Jeżeli ta opcja jest zaznaczona, powyższe ustawienia zostaną wyłączone.</tr
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&apos;Enter&apos; key action:</source>
-        <translation>Akcja klawisza Enter:</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
@@ -2702,6 +2702,34 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

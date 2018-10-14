@@ -1063,6 +1063,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom color</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1091,6 +1095,14 @@ Du kan starta om Snipaste som administratör och försöka igen.</translation>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>Vill du starta om Snipaste som administratör?</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Slutfört</translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2010,14 +2022,6 @@ kan klistra in den den i specialprogram som t.ex. Skype.
 Bildens alfakanal kommer dock att förloras.</translation>
     </message>
     <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>Klicka med mittenknappen för att fästa klippet på skärmen.</translation>
-    </message>
-    <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation>Fäst på skärmen med mittenklick</translation>
-    </message>
-    <message>
         <source>Quit snipping if any window of other programs is activated.</source>
         <translation>Avsluta klippning om fönster från annat program aktiveras.</translation>
     </message>
@@ -2234,10 +2238,6 @@ När gränsen är nådd, kommer den äldsta att tas bort.</translation>
         <translation>Håll muspekaren över ett alternativ för att se detaljerad förklaring.</translation>
     </message>
     <message>
-        <source>&apos;Enter&apos; key action:</source>
-        <translation>Returtangentåtgärd:</translation>
-    </message>
-    <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
         <translation>Vilken åtgärd som vidtas när returtangenten hålls nere vid klipp.</translation>
     </message>
@@ -2346,10 +2346,6 @@ Ange -1 för att låta Snipaste avgöra åt dig.</translation>
     <message>
         <source>The blank space around the text</source>
         <translation>Den tomma ytan runt texten</translation>
-    </message>
-    <message>
-        <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation type="vanished">Du kan också visa/dölja den fångade muspekaren med tangenten `,vid klipp.</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -2706,6 +2702,34 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

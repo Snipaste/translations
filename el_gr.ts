@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="el_GR">
+<TS version="2.1" language="el_GR">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -839,12 +839,12 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Προσαρμ. χρώμα</translation>
     </message>
     <message>
-        <source>Select color</source>
-        <translation>Επιλογή χρώματος</translation>
-    </message>
-    <message>
         <source>Import succeeded!</source>
         <translation>Η εισαγωγή ολοκληρώθηκε επιτυχώς!</translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">Επιλογή χρώματος</translation>
     </message>
 </context>
 <context>
@@ -1067,6 +1067,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom color</source>
         <translation>Προσαρμ. χρώμα</translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1097,6 +1101,14 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>Επανεκκίνηση του Snipaste με δικαιώματα διαχειριστή;</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Επιτυχής</translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1624,8 +1636,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Λίστα παράβλεψης:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, b.exe)</source>
-        <translation>Εισαγάγετε ονόματα εκτελέσιμων αρχείων διαχωρίζοντάς τα με κόμματα (π.χ. a.exe, b.exe)</translation>
+        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2027,14 +2039,6 @@ However, in the meantime, the alpha channel of the image is lost.</source>
 Ωστόσο, στο βασικό στοιχείο, το κανάλι άλφα της εικόνας χάνεται.</translation>
     </message>
     <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>Κάντε κλικ στο μεσαίο κουμπί για να καρφιτσώσετε το στιγμιότυπο οθόνης στην οθόνη.</translation>
-    </message>
-    <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation>Καρφίτσωμα στην οθόνη με μεσαίο κλικ</translation>
-    </message>
-    <message>
         <source>Quit snipping if any window of other programs is activated.</source>
         <translation>Κλείνει τη λήψη αποσπάσματος αν κάποιο παράθυρο άλλου προγράμματος είναι ενεργοποιημένο.</translation>
     </message>
@@ -2244,10 +2248,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Τοποθετήστε το δείκτη πάνω σε μια επιλογή για να δείτε λεπτομερείς εξηγήσεις του.</translation>
     </message>
     <message>
-        <source>&apos;Enter&apos; key action:</source>
-        <translation>Δράση πλήκτρου «Enter»:</translation>
-    </message>
-    <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
         <translation>Ποια ενέργεια θα εκτελεστεί πιέζοντας το πλήκτρο «Enter» στη λήψη στιγμιότυπου.</translation>
     </message>
@@ -2356,10 +2356,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>The blank space around the text</source>
         <translation>Το κενό διάστημα γύρω από το κείμενο</translation>
-    </message>
-    <message>
-        <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation>Μπορείτε επίσης να εμφανίσετε / αποκρύψετε τον καταγεγραμμένη δρομέα μέσω του πλήκτρου ` κατά τη λήψη στιγμιότυπου.</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -2714,6 +2710,38 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Open source software used in Snipaste</source>
         <translation>Λογισμικό ανοιχτού κώδικα που χρησιμοποιείται στο Snipaste</translation>
+    </message>
+    <message>
+        <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

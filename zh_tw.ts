@@ -687,7 +687,7 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
-        <translation>啟動資料夾中的捷徑似乎出錯了。
+        <translation>開機啟動相關的環境出錯了。
 已自動取消開機啟動。</translation>
     </message>
     <message>
@@ -811,10 +811,6 @@ Share it to your friends!</source>
     <message>
         <source>Existing image windows</source>
         <translation>目前所有的貼圖視窗</translation>
-    </message>
-    <message>
-        <source>Select color</source>
-        <translation type="vanished">選擇色彩</translation>
     </message>
     <message>
         <source>Same as %1</source>
@@ -1068,6 +1064,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom color</source>
         <translation>自訂色彩</translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1096,6 +1096,14 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>以管理員身份重新啟動 Snipaste?</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">成功</translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1862,10 +1870,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>也可以在擷圖時按下 Tab 鍵進行臨時切換。</translation>
     </message>
     <message>
-        <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation type="vanished">也可以在擷圖時按下 ` 鍵來顯示/隱藏已取得的游標。</translation>
-    </message>
-    <message>
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
@@ -1874,24 +1878,12 @@ However, in the meantime, the alpha channel of the image is lost.</source>
 同時會遺失圖像的透明通道。</translation>
     </message>
     <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>點選中鍵將擷圖貼到螢幕上。</translation>
-    </message>
-    <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation>點選中鍵將擷圖貼到螢幕上</translation>
-    </message>
-    <message>
         <source>Quit snipping if any window of other programs is activated.</source>
         <translation>擷圖時如有其他程式視窗被啟用，自動結束擷圖。</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
         <translation>擷圖時如有其他程式視窗被啟用，自動結束擷圖</translation>
-    </message>
-    <message>
-        <source>&apos;Enter&apos; key action:</source>
-        <translation>Enter 鍵功能:</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
@@ -2426,7 +2418,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation>Esc 鍵被按下時彈出確認對話方塊</translation>
+        <translation>按下 Esc 鍵時彈出確認對話方塊</translation>
     </message>
     <message>
         <source>When:</source>
@@ -2713,6 +2705,34 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
         <translation>也可以在擷圖時按下 `或 ! 鍵來顯示/隱藏已取得的游標。</translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

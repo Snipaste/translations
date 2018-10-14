@@ -815,10 +815,6 @@ Share it to your friends!</source>
         <translation>Постојеће прозоре слике</translation>
     </message>
     <message>
-        <source>Select color</source>
-        <translation type="vanished">Одабрати боју</translation>
-    </message>
-    <message>
         <source>Same as %1</source>
         <translation>Исто као %1</translation>
     </message>
@@ -1070,6 +1066,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom color</source>
         <translation>Пролагоди боју</translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1098,6 +1098,14 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>Поново покренути програм као администратор?</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Успешно</translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1900,10 +1908,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Ухватити курсор</translation>
     </message>
     <message>
-        <source>You can also show/hide the captured cursor via the ` key when snipping.</source>
-        <translation type="vanished">Можете исто да покажете/сакријете хувачен курсор са типком ` при резања.</translation>
-    </message>
-    <message>
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
@@ -1912,24 +1916,12 @@ However, in the meantime, the alpha channel of the image is lost.</source>
 Међутим, у међувремену, алфа канал слике је изгубљен.</translation>
     </message>
     <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>Кликнути средње дугме да би закачили на екрану.</translation>
-    </message>
-    <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation>Закачити на екрану са средљим кликом</translation>
-    </message>
-    <message>
         <source>Quit snipping if any window of other programs is activated.</source>
         <translation>Затворити резање ако други прозор другог програма је активиран.</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
         <translation>Затворити резање ако други прозор је активиран</translation>
-    </message>
-    <message>
-        <source>&apos;Enter&apos; key action:</source>
-        <translation>Акције типка &apos;Enter&apos;:</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
@@ -2716,6 +2708,34 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
         <translation>Можете исто да покажете/сакријете хувачен курсор са типком ` или ! при резања.</translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

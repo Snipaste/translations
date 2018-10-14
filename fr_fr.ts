@@ -815,10 +815,6 @@ Partagez-le avec vos amis!</translation>
         <translation>Fenêtres d&apos;image existantes</translation>
     </message>
     <message>
-        <source>Select color</source>
-        <translation type="vanished">Sélectionner couleur</translation>
-    </message>
-    <message>
         <source>Same as %1</source>
         <translation>Même que %1</translation>
     </message>
@@ -1070,6 +1066,10 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
         <source>Custom color</source>
         <translation>Couleur personnalisée</translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1098,6 +1098,14 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     <message>
         <source>Restart Snipaste with admin privileges?</source>
         <translation>Redémarrer Snipaste avec des privilèges administrateur?</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Succès</translation>
+    </message>
+    <message>
+        <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1900,10 +1908,6 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Définissez la largeur de la bordure autour de la zone de coupe.</translation>
     </message>
     <message>
-        <source>&apos;Enter&apos; key action:</source>
-        <translation>Action clé &apos;Entrée&apos;:</translation>
-    </message>
-    <message>
         <source>This may cause flickers.</source>
         <translation>Cela peut provoquer des scintillements.</translation>
     </message>
@@ -1996,10 +2000,6 @@ S&apos;il vous plaît rapportez-moi si vous trouvez.</translation>
     <message>
         <source>Image quality:</source>
         <translation>Qualité d&apos;image:</translation>
-    </message>
-    <message>
-        <source>Pin to screen by clicking the mid-button</source>
-        <translation>Epingler sur l&apos;écran avec un clic du milieu</translation>
     </message>
     <message>
         <source>Grammar:</source>
@@ -2290,10 +2290,6 @@ Cependant, en attendant, le canal alpha de l&apos;image est perdu.</translation>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
         <translation>Quelle action effectuer en appuyant sur &quot;Entrée&quot; lors de la coupe.</translation>
-    </message>
-    <message>
-        <source>Click the mid-button to pin the screenshot to the screen.</source>
-        <translation>Cliquez sur le bouton milieu pour fixer la capture d&apos;écran à l&apos;écran.</translation>
     </message>
     <message>
         <source>Licenses</source>
@@ -2712,6 +2708,34 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
         <translation>Vous pouvez également afficher/masquer le curseur capturé à l&apos;aide des touches ` ou ! lorsque vous coupez.</translation>
+    </message>
+    <message>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for double-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-click:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Which action to perform for middle-click when snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Enter&apos; key:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
