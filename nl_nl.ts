@@ -1068,7 +1068,7 @@ De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Voorkeuren - Sneltoet
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepast…</translation>
     </message>
 </context>
 <context>
@@ -1101,11 +1101,11 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">Gereed</translation>
+        <translation>Gereed</translation>
     </message>
     <message>
         <source>It may take a few seconds...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit kan een paar tellen duren…</translation>
     </message>
 </context>
 <context>
@@ -2707,31 +2707,31 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Sleutels</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Acties</translation>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbelklik:</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>De uit te voeren actie bij Dubbelklikken&apos; tijdens Knippen.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Middenklik:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>De uit te voeren actie bij Middenklikken&apos; tijdens Knippen.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Enter&apos;-toets:</translation>
     </message>
 </context>
 <context>
