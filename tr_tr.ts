@@ -430,7 +430,7 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     </message>
     <message>
         <source>Middle click</source>
-        <translation>Orta düğme</translation>
+        <translation>Orta tık</translation>
     </message>
     <message>
         <source>Right click</source>
@@ -1068,7 +1068,7 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel...</translation>
     </message>
 </context>
 <context>
@@ -1101,11 +1101,11 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">Başarılı</translation>
+        <translation>Başarılı</translation>
     </message>
     <message>
         <source>It may take a few seconds...</source>
-        <translation type="unfinished"></translation>
+        <translation>Birkaç saniye sürebilir...</translation>
     </message>
 </context>
 <context>
@@ -2055,7 +2055,7 @@ Kırpma yaparken daha iyi işlem zamanı kazanacaksınız.</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
-        <translation>Kırpma sırasında &apos;Enter&apos; a basıldığında yapılacak eylem.</translation>
+        <translation>Kırpma esnasında &apos;Enter&apos; a basıldığında yapılacak eylem.</translation>
     </message>
     <message>
         <source>then</source>
@@ -2553,7 +2553,7 @@ Snipaste&apos;in sizin için karar vermesine izin vermek için -1 yazın.</trans
     </message>
     <message>
         <source>Middle click:</source>
-        <translation>Orta düğme:</translation>
+        <translation>Orta tık:</translation>
     </message>
     <message>
         <source>Right click:</source>
@@ -2707,31 +2707,31 @@ Herhangi bir hata bulursanız lütfen geliştiriciye bildirin.</translation>
     </message>
     <message>
         <source>Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuşlar</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Eylemler</translation>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Çift-Tık:</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırma esnasında çift tıklandığında yapılacak eylem.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta-tık:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırma esnasında orta-tık kullanıldığında yapılacak eylem.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos; Enter &apos; tuşu:</translation>
     </message>
 </context>
 <context>
