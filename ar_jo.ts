@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ar_JO">
+<TS version="2.0" language="ar_JO">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -1062,7 +1062,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>مخصص...</translation>
     </message>
 </context>
 <context>
@@ -1094,11 +1094,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">نجاح</translation>
+        <translation>نجاح</translation>
     </message>
     <message>
         <source>It may take a few seconds...</source>
-        <translation type="unfinished"></translation>
+        <translation>قد يستغرق بضع ثوان...</translation>
     </message>
 </context>
 <context>
@@ -2693,31 +2693,31 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>مفاتيح</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>الاجراءات</translation>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>نقرتين متتاليتين:</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>الإجراء المطلوب تنفيذه للنقر المزدوج عند القص.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>فوق المتوسطة:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>الإجراء المطلوب تنفيذه للنقر الأوسط عند القص.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
-        <translation type="unfinished"></translation>
+        <translation>مفتاح &apos;الادخال&apos;:</translation>
     </message>
 </context>
 <context>
