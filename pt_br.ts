@@ -1068,7 +1068,7 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado...</translation>
     </message>
 </context>
 <context>
@@ -1101,11 +1101,11 @@ Reinicie o Snipaste como Administrador e tente novamente.</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">Sucesso</translation>
+        <translation>Sucesso</translation>
     </message>
     <message>
         <source>It may take a few seconds...</source>
-        <translation type="unfinished"></translation>
+        <translation>Isto pode levar alguns segundos...</translation>
     </message>
 </context>
 <context>
@@ -2711,31 +2711,31 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
     </message>
     <message>
         <source>Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Teclas</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ações</translation>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique duplo:</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qual ação executar ao dar um clique duplo ao recortar.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique do meio:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qual ação executar ao dar um clique do meio ao recortar.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tecla &apos;Enter&apos;:</translation>
     </message>
 </context>
 <context>

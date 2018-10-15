@@ -1066,7 +1066,7 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Angepasst...</translation>
     </message>
 </context>
 <context>
@@ -1099,11 +1099,11 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">Erfolgreich</translation>
+        <translation>Erfolgreich</translation>
     </message>
     <message>
         <source>It may take a few seconds...</source>
-        <translation type="unfinished"></translation>
+        <translation>Es kann ein paar Sekunden dauern ...</translation>
     </message>
 </context>
 <context>
@@ -2715,31 +2715,31 @@ Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
     </message>
     <message>
         <source>Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Schlüssel</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktionen</translation>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppelklick:</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Welche Aktion bei  einen Doppelklick beim Aufnehmen ausgeführt werden soll.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittelklick:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Welche Aktion bei  einen Mittelklick beim Ausschneiden ausgeführt werden soll.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Enter&apos; Schlüssel:</translation>
     </message>
 </context>
 <context>

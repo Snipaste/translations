@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="el_GR">
+<TS version="2.0" language="el_GR">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -844,7 +844,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Επιλογή χρώματος</translation>
+        <translation>Επιλογή χρώματος</translation>
     </message>
 </context>
 <context>
@@ -1069,7 +1069,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμογή...</translation>
     </message>
 </context>
 <context>
@@ -1104,11 +1104,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">Επιτυχής</translation>
+        <translation>Επιτυχής</translation>
     </message>
     <message>
         <source>It may take a few seconds...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτό μπορεί να χρειαστεί μερικά δευτερόλεπτα...</translation>
     </message>
 </context>
 <context>
@@ -1637,7 +1637,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισάγετε τα ονόματα εκτελέσιμων αρχείων χωρισμένα με κόμματα (π.χ. a.exe, games/*)</translation>
     </message>
 </context>
 <context>
@@ -2713,35 +2713,35 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μπορείτε επίσης να εμφανίσετε / αποκρύψετε τον καταγεγραμμένο δρομέα μέσω του πλήκτρου ` ή ! κατά τη λήψη στιγμιότυπου.</translation>
     </message>
     <message>
         <source>Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλήκτρα</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Δράσεις</translation>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Διπλό κλικ:</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ποια ενέργεια θα εκτελεστεί με διπλό κλικ στη λήψη στιγμιότυπου.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεσαίο κλικ:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ποια ενέργεια θα εκτελεστεί με μεσαίο κλικ στη λήψη στιγμιότυπου.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλήκτρο «Enter»:</translation>
     </message>
 </context>
 <context>
