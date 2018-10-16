@@ -47,7 +47,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Language              | Code  | Status      | Contributors |
 | --------------------- | ----- | ----------- | ------------ |
 | Chinese (Simplified)  | zh_cn | 📕 v2.1.1   | [liulex](https://github.com/liulex) |
-| Chinese (Traditional) | zh_tw | 📕 v2.1     | [zhtw](http://greedphantom.blogspot.tw) |
+| Chinese (Traditional) | zh_tw | 📕 v2.1.1   | [zhtw](http://greedphantom.blogspot.tw) |
 | German                | de_de | 📕 v2.1.1   | [Samuel Marcius](http://www.fontenvironment.com) |
 | Greek                 | el_gr | 📕 v2.1.1   | [geogeo.gr](http://www.geogeo.gr) |
 | Swedish               | sv    | 📖 v1.14    | [Åke Engelbrektson](https://svenskasprakfiler.se) |
@@ -61,7 +61,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Russian               | ru    | 📖 v1.14    | [vanja-san](https://github.com/vanja-san) |
 | Arabic                | ar_jo | 📕 v2.1.1   | MFMDawdeh |
 | Turkish               | tr_tr | 📕 v2.1.1   | [mthryilmaz](https://github.com/mthryilmaz) |
-| Serbian               | sr    | 📕 v2.1     | [ozzii.translate](mailto:ozzii.translate@gmail.com) |
+| Serbian               | sr    | 📕 v2.1.1   | [ozzii.translate](mailto:ozzii.translate@gmail.com) |
 | Spanish (Mexico)      | es_mx | 📖 v2.0.1   | [enriquedfa](https://github.com/enriquedfa) |
 
 ## Contact
