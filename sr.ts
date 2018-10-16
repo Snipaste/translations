@@ -1068,7 +1068,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Прилагоди...</translation>
     </message>
 </context>
 <context>
@@ -1101,11 +1101,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">Успешно</translation>
+        <translation>Успешно</translation>
     </message>
     <message>
         <source>It may take a few seconds...</source>
-        <translation type="unfinished"></translation>
+        <translation>Може да потраје неки секунд...</translation>
     </message>
 </context>
 <context>
@@ -2389,7 +2389,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>About</source>
-        <translation>О...</translation>
+        <translation>О програму</translation>
     </message>
     <message>
         <source>Version</source>
@@ -2711,31 +2711,31 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Типци</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Акције</translation>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Дво-Клик:</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Која акција да се уради када се дво-кликне при резање.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Средњи-клик:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Која акција да се уради када се уради средљи клик при резање.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Enter&apos; типак:</translation>
     </message>
 </context>
 <context>
