@@ -178,11 +178,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation>名稱不能為空的？</translation>
+        <translation>名稱不能為空值！</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation>命令不能为空的？</translation>
+        <translation>命令不能为空值！</translation>
     </message>
 </context>
 <context>
