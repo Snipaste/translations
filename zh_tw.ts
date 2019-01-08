@@ -325,7 +325,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Copy the image</source>
-        <translation>複製圖片</translation>
+        <translation>複製圖像</translation>
     </message>
     <message>
         <source>Restore the next edit</source>
@@ -333,11 +333,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Save the image as a file</source>
-        <translation>將圖片儲存為檔案</translation>
+        <translation>將圖像儲存為檔案</translation>
     </message>
     <message>
         <source>Save the image to the Quick Save folder</source>
-        <translation>儲存圖片至快速儲存目錄</translation>
+        <translation>儲存圖像至快速儲存目錄</translation>
     </message>
     <message>
         <source>Send the image to the printer</source>
@@ -872,11 +872,11 @@ Are you sure you want to switch to another configuration file?</source>
     <name>Paster</name>
     <message>
         <source>Copy image</source>
-        <translation>複製圖片</translation>
+        <translation>複製圖像</translation>
     </message>
     <message>
         <source>Save image as...</source>
-        <translation>圖片另存為...</translation>
+        <translation>圖像另存為...</translation>
     </message>
     <message>
         <source>Restore</source>
@@ -996,7 +996,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Images</source>
-        <translation>圖片檔案</translation>
+        <translation>圖像檔案</translation>
     </message>
     <message>
         <source>All files</source>
@@ -1366,7 +1366,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Failed to save the image to</source>
-        <translation>無法將圖片儲存至</translation>
+        <translation>無法將圖像儲存至</translation>
     </message>
     <message>
         <source>is already running.</source>
@@ -1382,7 +1382,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Save image as</source>
-        <translation>圖片另存為</translation>
+        <translation>圖像另存為</translation>
     </message>
     <message>
         <source>Failed to save the image!</source>
@@ -1492,7 +1492,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>UpdaterDialog</name>
     <message>
         <source>Checking...</source>
-        <translation>正在檢查..。</translation>
+        <translation>正在檢查...</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -1873,9 +1873,9 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
-        <translation>複製圖片時使用 Windows Bitmap 格式，從而
+        <translation>複製圖像時使用 Windows Bitmap 格式，從而
 可以將它貼到一些特殊應用程式（如 Skype），但
-同時會遺失圖片的透明通道。</translation>
+同時會遺失圖像的透明通道。</translation>
     </message>
     <message>
         <source>Quit snipping if any window of other programs is activated.</source>
@@ -2524,7 +2524,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation>以 Windows Bitmap 格式複製圖片：</translation>
+        <translation>以 Windows Bitmap 格式複製圖像：</translation>
     </message>
     <message>
         <source>Screenshot</source>
