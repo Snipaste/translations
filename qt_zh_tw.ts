@@ -3973,7 +3973,7 @@ Please verify the correct file name was given.</source>
     <message>
         <source>Cursor at %1, %2
 Press ESC to cancel</source>
-        <translation>游標位置: %1, %2
+        <translation>游標位置：%1, %2
 按 Esc 取消</translation>
     </message>
     <message>
