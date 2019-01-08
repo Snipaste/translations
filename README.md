@@ -15,7 +15,7 @@ Though you may open the .ts files with a text editor,
 I strongly recommend you to translate them using [Qt Linguist](http://doc.qt.io/qt-5/qtlinguist-index.html).
 
 For your convenience, I have prepared the portable packages of Qt Linguist:
-* [Windows x64](https://bitbucket.org/liule/snipaste/downloads/VC2015_dll_x64.zip) | [Windows x86](https://bitbucket.org/liule/snipaste/downloads/VC2015_dll_x86.zip)
+* [Windows x64](https://bitbucket.org/liule/snipaste/downloads/linguist-x64.zip) | [Windows x86](https://bitbucket.org/liule/snipaste/downloads/linguist-x86.zip)
 
 Basic steps to translate using Qt Linguist:
 
