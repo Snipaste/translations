@@ -88,7 +88,7 @@
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation>下载更新源失败。网络错误: %1</translation>
+        <translation>下载更新源失败。网络错误：%1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
@@ -170,11 +170,11 @@ Please contact the developer.</source>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>The name cannot be empty!</source>
-        <translation>名称不能为空!</translation>
+        <translation>名称不能为空！</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation>命令不能为空!</translation>
+        <translation>命令不能为空！</translation>
     </message>
     <message>
         <source>Remove command</source>
@@ -182,7 +182,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation>确定要移除这个命令吗?</translation>
+        <translation>确定要移除这个命令吗？</translation>
     </message>
 </context>
 <context>
@@ -381,7 +381,7 @@ Please contact the developer.</source>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>谢谢你的支持!
+        <translation>谢谢你的支持！
 马上重启即可享受专业版~</translation>
     </message>
     <message>
@@ -822,7 +822,7 @@ Share it to your friends!</source>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>注意: 你将切换到另一配置文件，文件中的所有设置项将被应用，你的当前设置将被覆盖。
+        <translation>注意：你将切换到另一配置文件，文件中的所有设置项将被应用，你的当前设置将被覆盖。
 
 此外，即使选择了另一配置文件，你也不能移除默认的配置文件，因为它记录着你的新配置文件的位置。
 
@@ -1657,7 +1657,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Open source software used in Snipaste:</source>
-        <translation>Snipaste 用到的开源软件:</translation>
+        <translation>Snipaste 用到的开源软件：</translation>
     </message>
     <message>
         <source>About Qt</source>
@@ -1990,7 +1990,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <message>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
-        <translation>设置新贴图窗口的不透明度。范围: 10 - 100</translation>
+        <translation>设置新贴图窗口的不透明度。范围：10 - 100</translation>
     </message>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
@@ -2052,7 +2052,7 @@ Range: 10 - 100</source>
         <source>Range: 0 to 100 or -1.
 Specify 0 to obtain small compressed files, 100 for large uncompressed files.
 Specify -1 to let Snipaste decide for you.</source>
-        <translation>范围: 0 到 100 或 -1.
+        <translation>范围：0 到 100 或 -1.
 设为 0 可最大压缩图像，100 为完全不压缩。
 设为 -1，Snipaste 会帮你做决定。</translation>
     </message>
