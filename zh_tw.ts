@@ -189,7 +189,7 @@ Please contact the developer.</source>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation>只對截圖有效：</translation>
+        <translation>只對擷圖有效：</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
@@ -197,39 +197,39 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Set the snipping area to fullscreen</source>
-        <translation>設定截取螢幕區域為全螢幕</translation>
+        <translation>設定擷取螢幕區域為全螢幕</translation>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation>將截圖區域設定為上一次成功截圖時的區域</translation>
+        <translation>將擷圖區域設定為上一次成功擷圖時的區域</translation>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
-        <translation>切換至上一次截圖記錄</translation>
+        <translation>切換至上一次擷圖記錄</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
-        <translation>切換至下一次截圖記錄</translation>
+        <translation>切換至下一次擷圖記錄</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
-        <translation>將截圖區域相對版邊擴大 1 像素</translation>
+        <translation>將擷圖區域相對版邊擴大 1 像素</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
-        <translation>將截圖區域相對版邊縮小 1 像素</translation>
+        <translation>將擷圖區域相對版邊縮小 1 像素</translation>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
-        <translation>直接將截圖貼到螢幕上</translation>
+        <translation>直接將擷圖貼到螢幕上</translation>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
-        <translation>複製截圖並結束截取螢幕</translation>
+        <translation>複製擷圖並結束擷取螢幕</translation>
     </message>
     <message>
         <source>Abort snipping</source>
-        <translation>中止截圖</translation>
+        <translation>中止擷圖</translation>
     </message>
     <message>
         <source>Mouse right-click</source>
@@ -237,7 +237,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Re-decide the snipping area / abort snipping</source>
-        <translation>重新設定截圖區域/中止截圖</translation>
+        <translation>重新設定擷圖區域/中止擷圖</translation>
     </message>
     <message>
         <source>Paste only:</source>
@@ -305,7 +305,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
-        <translation>非編輯狀態下，將截圖區域/貼圖視窗移動 1 像素</translation>
+        <translation>非編輯狀態下，將擷圖區域/貼圖視窗移動 1 像素</translation>
     </message>
     <message>
         <source>Space</source>
@@ -454,7 +454,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Snip hotkey</source>
-        <translation>截圖快速鍵</translation>
+        <translation>擷圖快速鍵</translation>
     </message>
     <message>
         <source>Paste hotkey</source>
@@ -784,11 +784,11 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation>截取螢幕並貼圖</translation>
+        <translation>擷取螢幕並貼圖</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation>截取螢幕並自動複製</translation>
+        <translation>擷取螢幕並自動複製</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
@@ -806,7 +806,7 @@ Share it to your friends!</source>
     </message>
     <message>
         <source>Snipping</source>
-        <translation>截取螢幕</translation>
+        <translation>擷取螢幕</translation>
     </message>
     <message>
         <source>Existing image windows</source>
@@ -1172,15 +1172,15 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Snip</source>
-        <translation>截圖</translation>
+        <translation>擷圖</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation>截取螢幕並自動複製</translation>
+        <translation>擷取螢幕並自動複製</translation>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation>延時截取螢幕</translation>
+        <translation>延時擷取螢幕</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1218,23 +1218,23 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation>自訂截圖</translation>
+        <translation>自訂擷圖</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation>截取作用中視窗</translation>
+        <translation>擷取作用中視窗</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation>截取螢幕並貼圖</translation>
+        <translation>擷取螢幕並貼圖</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation>全螢幕截圖並複製</translation>
+        <translation>全螢幕擷圖並複製</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation>重複上一次截圖區域並複製</translation>
+        <translation>重複上一次擷圖區域並複製</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
@@ -1270,7 +1270,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>Snipaste</name>
     <message>
         <source>Snip</source>
-        <translation>截圖</translation>
+        <translation>擷圖</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1302,7 +1302,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation>清除截圖記錄</translation>
+        <translation>清除擷圖記錄</translation>
     </message>
     <message>
         <source>No update available.</source>
@@ -1481,7 +1481,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>Snipper</name>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation>你確定要結束截圖嗎？</translation>
+        <translation>你確定要結束擷圖嗎？</translation>
     </message>
     <message>
         <source>Do not show this again</source>
@@ -1551,7 +1551,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation>自訂截圖</translation>
+        <translation>自訂擷圖</translation>
     </message>
 </context>
 <context>
@@ -1695,7 +1695,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip</source>
-        <translation>截圖</translation>
+        <translation>擷圖</translation>
     </message>
     <message>
         <source>Colors:</source>
@@ -1763,7 +1763,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Auto detect the regions of windows when snipping.</source>
-        <translation>截圖時自動偵測視窗區域。</translation>
+        <translation>擷圖時自動偵測視窗區域。</translation>
     </message>
     <message>
         <source>Auto detect windows</source>
@@ -1771,7 +1771,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
-        <translation>截圖時自動偵測視窗元素區域（如按鈕和選單）。</translation>
+        <translation>擷圖時自動偵測視窗元素區域（如按鈕和選單）。</translation>
     </message>
     <message>
         <source>Auto detect UI elements</source>
@@ -1787,15 +1787,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Capture the cursor by default.</source>
-        <translation>自動截取游標的圖示。</translation>
+        <translation>自動擷取游標的圖示。</translation>
     </message>
     <message>
         <source>Capture the cursor</source>
-        <translation>截取游標</translation>
+        <translation>擷取游標</translation>
     </message>
     <message>
         <source>Automatically show the fullscreen cross lines every time you start snipping.</source>
-        <translation>進入截取螢幕後自動顯示全螢幕的十字線。</translation>
+        <translation>進入擷取螢幕後自動顯示全螢幕的十字線。</translation>
     </message>
     <message>
         <source>Run as administrator for startup.</source>
@@ -1827,7 +1827,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Show anchors around the snipping area.</source>
-        <translation>在截取框周圍顯示錨點。</translation>
+        <translation>在擷取框周圍顯示錨點。</translation>
     </message>
     <message>
         <source>Show anchors</source>
@@ -1867,7 +1867,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
-        <translation>也可以在截圖時按下 Tab 鍵進行臨時切換。</translation>
+        <translation>也可以在擷圖時按下 Tab 鍵進行臨時切換。</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
@@ -1879,15 +1879,15 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Quit snipping if any window of other programs is activated.</source>
-        <translation>截圖時如有其他程式視窗被啟用，自動結束截圖。</translation>
+        <translation>擷圖時如有其他程式視窗被啟用，自動結束擷圖。</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
-        <translation>截圖時如有其他程式視窗被啟用，自動結束截圖</translation>
+        <translation>擷圖時如有其他程式視窗被啟用，自動結束擷圖</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
-        <translation>截圖時按下 Enter 鍵執行的動作。</translation>
+        <translation>擷圖時按下 Enter 鍵執行的動作。</translation>
     </message>
     <message>
         <source>then</source>
@@ -1895,11 +1895,11 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>quit snipping</source>
-        <translation>結束截圖</translation>
+        <translation>結束擷圖</translation>
     </message>
     <message>
         <source>Ignore the left Windows key when snipping.</source>
-        <translation>截圖時封鎖左 Win 鍵。</translation>
+        <translation>擷圖時封鎖左 Win 鍵。</translation>
     </message>
     <message>
         <source>Left</source>
@@ -1907,7 +1907,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
-        <translation>截圖時封鎖右 Win 鍵。</translation>
+        <translation>擷圖時封鎖右 Win 鍵。</translation>
     </message>
     <message>
         <source>Right</source>
@@ -1915,7 +1915,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
-        <translation>設定截圖的最大歷史記錄數，截圖被儲存在 history/snip 目錄。</translation>
+        <translation>設定擷圖的最大歷史記錄數，擷圖被儲存在 history/snip 目錄。</translation>
     </message>
     <message>
         <source>Sound Effect</source>
@@ -1931,11 +1931,11 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
-        <translation>當截圖被儲存至剪貼簿時播放音效。</translation>
+        <translation>當擷圖被儲存至剪貼簿時播放音效。</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
-        <translation>當截圖被快速儲存時播放音效。</translation>
+        <translation>當擷圖被快速儲存時播放音效。</translation>
     </message>
     <message>
         <source>Pick a sound file (.wav).</source>
@@ -2006,12 +2006,12 @@ You can also find this option in the context menu of individual image window.</s
     <message>
         <source>If the source is a screenshot, show it where you snipped.
 If disabled, it would always be shown at the center of the primary screen.</source>
-        <translation>如果貼圖來源是螢幕截圖，貼在截圖時的位置。
+        <translation>如果貼圖來源是螢幕擷圖，貼在擷圖時的位置。
 如果不選取，則顯示於主螢幕中央。</translation>
     </message>
     <message>
         <source>Use snipping position</source>
-        <translation>使用截圖時的位置</translation>
+        <translation>使用擷圖時的位置</translation>
     </message>
     <message>
         <source>Zoom by mouse wheel</source>
@@ -2031,7 +2031,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Max number of history areas:</source>
-        <translation>最大歷史截圖區域數：</translation>
+        <translation>最大歷史擷圖區域數：</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -2122,7 +2122,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Automatically save every screenshot will be saved to this folder.</source>
-        <translation>所有截圖將被自動儲存至該資料夾。</translation>
+        <translation>所有擷圖將被自動儲存至該資料夾。</translation>
     </message>
     <message>
         <source>Browse the auto save folder.</source>
@@ -2224,11 +2224,11 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>The mask color of snipping</source>
-        <translation>截圖時的遮罩色彩</translation>
+        <translation>擷圖時的遮罩色彩</translation>
     </message>
     <message>
         <source>Hide the 1x1 region indicator before you decide the snipping region.</source>
-        <translation>隱藏截圖區域確定之前的 1x1 提示。</translation>
+        <translation>隱藏擷圖區域確定之前的 1x1 提示。</translation>
     </message>
     <message>
         <source>Hide 1x1</source>
@@ -2240,7 +2240,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Set the width of the border around the snipping area.</source>
-        <translation>設定包圍截取螢幕區域的邊框的寬度。</translation>
+        <translation>設定包圍擷取螢幕區域的邊框的寬度。</translation>
     </message>
     <message>
         <source>Quick Save</source>
@@ -2435,8 +2435,8 @@ If this option is checked, the above features will be disabled.</source>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation>如果你不需要截取游標，請勾選此項。
-你將獲得更快的截圖回應速度。</translation>
+        <translation>如果你不需要擷取游標，請勾選此項。
+你將獲得更快的擷圖回應速度。</translation>
     </message>
     <message>
         <source>Show notification</source>
@@ -2512,7 +2512,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Include unsaved screenshots</source>
-        <translation>包含未儲存的截圖</translation>
+        <translation>包含未儲存的擷圖</translation>
     </message>
     <message>
         <source>Default background mode:</source>
@@ -2528,7 +2528,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>截圖</translation>
+        <translation>擷圖</translation>
     </message>
     <message>
         <source>Image windows</source>
@@ -2552,7 +2552,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Super Snip</source>
-        <translation>螢幕超級截取</translation>
+        <translation>螢幕超級擷取</translation>
     </message>
     <message>
         <source>Tray Icon</source>
@@ -2628,11 +2628,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation>普通截圖</translation>
+        <translation>普通擷圖</translation>
     </message>
     <message>
         <source>Super snip</source>
-        <translation>超級截圖</translation>
+        <translation>超級擷圖</translation>
     </message>
     <message>
         <source>Color value:</source>
@@ -2684,11 +2684,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
-        <translation>備份截圖/貼圖的所有狀態，使得下次啟動 Snipaste 時能夠還原。</translation>
+        <translation>備份擷圖/貼圖的所有狀態，使得下次啟動 Snipaste 時能夠還原。</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
-        <translation>自動定時重新載入 dll 檔案以提高截取螢幕的回應速度。</translation>
+        <translation>自動定時重新載入 dll 檔案以提高擷取螢幕的回應速度。</translation>
     </message>
     <message>
         <source>Fast thumbnail size:</source>
@@ -2704,7 +2704,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation>也可以在截圖時按下 `或 ! 鍵來顯示/隱藏已取得的游標。</translation>
+        <translation>也可以在擷圖時按下 `或 ! 鍵來顯示/隱藏已取得的游標。</translation>
     </message>
     <message>
         <source>Keys</source>
@@ -2720,7 +2720,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation>截取螢幕時按兩下滑鼠左鍵執行的動作。</translation>
+        <translation>擷取螢幕時按兩下滑鼠左鍵執行的動作。</translation>
     </message>
     <message>
         <source>Middle-click:</source>
@@ -2728,7 +2728,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation>截取螢幕時點選滑鼠中鍵執行的動作。</translation>
+        <translation>擷取螢幕時點選滑鼠中鍵執行的動作。</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
@@ -2791,7 +2791,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
-        <translation>結束截圖 (Esc)</translation>
+        <translation>結束擷圖 (Esc)</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
