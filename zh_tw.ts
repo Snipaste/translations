@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation>按 %1 切換 RBG/HEX</translation>
+        <translation>按 %1 切換 RGB/HEX</translation>
     </message>
 </context>
 <context>
