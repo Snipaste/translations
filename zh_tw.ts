@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation>按 %1 切換 RBG/HEX</translation>
+        <translation>按 %1 切換 RGB/HEX</translation>
     </message>
 </context>
 <context>
@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation>你是否對 %1 擁有寫入權限?</translation>
+        <translation>你是否對 %1 擁有寫入權限？</translation>
     </message>
     <message>
         <source>Saved successfully.</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
-        <translation>下載出錯! HTTP 錯誤碼: %1</translation>
+        <translation>下載時發生錯誤！HTTP 錯誤碼：%1</translation>
     </message>
     <message>
         <source>Unzipped successfully.</source>
@@ -88,7 +88,7 @@
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation>下載更新來源失敗。網路錯誤: %1</translation>
+        <translation>下載更新來源失敗。網路錯誤：%1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
@@ -174,22 +174,22 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation>確定要移除這個命令嗎?</translation>
+        <translation>確定要移除這個命令嗎？</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation>名稱不能為空的!</translation>
+        <translation>名稱不能為空值！</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation>命令不能为空的!</translation>
+        <translation>命令不能为空值！</translation>
     </message>
 </context>
 <context>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation>只對擷圖有效:</translation>
+        <translation>只對擷圖有效：</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
@@ -241,7 +241,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Paste only:</source>
-        <translation>只對貼圖有效:</translation>
+        <translation>只對貼圖有效：</translation>
     </message>
     <message>
         <source>Rotate the image clockwise by 90 degrees</source>
@@ -281,7 +281,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Common:</source>
-        <translation>通用:</translation>
+        <translation>通用：</translation>
     </message>
     <message>
         <source>Show the magnifier if it is not visible</source>
@@ -341,7 +341,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Send the image to the printer</source>
-        <translation>傳送圖像至印表機</translation>
+        <translation>傳送圖片至印表機</translation>
     </message>
     <message>
         <source>Finish editing current shape when in edit mode</source>
@@ -381,8 +381,8 @@ Please contact the developer.</source>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>謝謝你的支持!
-立刻重新啟動即可享受專業版~</translation>
+        <translation>感謝你的支持！
+立刻重新啟動來享受專業版？</translation>
     </message>
     <message>
         <source>OK</source>
@@ -654,7 +654,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Illegal characters</source>
-        <translation>非法的字元</translation>
+        <translation>非法字元</translation>
     </message>
     <message>
         <source>Environment variables</source>
@@ -760,7 +760,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation>如需啟用該特性，請先至 系統偏好設定-安全性與隱私-隱私-輔助功能 新增 Snipaste.</translation>
+        <translation>如需啟用此功能，請先至 系統偏好設定-安全性與隱私-隱私-輔助功能 新增 Snipaste。</translation>
     </message>
     <message>
         <source>Mouse drag</source>
@@ -796,12 +796,12 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Invalid data!</source>
-        <translation>無效的資料！</translation>
+        <translation>無效資料！</translation>
     </message>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation>調色板資料已被複製至剪貼簿。
+        <translation>調色盤資料已複製至剪貼簿。
 分享給你的朋友們吧！</translation>
     </message>
     <message>
@@ -822,7 +822,7 @@ Share it to your friends!</source>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>注意: 你將切換至另一個設定檔，檔案中的所有設定項將被套用，你目前的設定將被覆寫。
+        <translation>注意：你將切換至另一個設定檔，檔案中的所有設定項將被套用，你目前的設定將被覆寫。
 
 此外，即使選擇了另一個設定檔，你也不能移除預設的設定檔，因為它記錄著你新的設定檔之位置。
 
@@ -853,7 +853,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation>若要調整畫筆粗細，請滾動滑鼠滾輪或按鍵盤上的 1 或 2.</translation>
+        <translation>若要調整畫筆粗細，請滾動滑鼠滾輪或按鍵盤上的 1 或 2。</translation>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
@@ -1081,7 +1081,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
-        <translation>以管理員權限執行 Snipaste.</translation>
+        <translation>以管理員權限執行 Snipaste。</translation>
     </message>
     <message>
         <source>Failed to create the schedule task.
@@ -1095,7 +1095,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
-        <translation>以管理員身份重新啟動 Snipaste?</translation>
+        <translation>以管理員身份重新啟動 Snipaste？</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1110,7 +1110,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
-        <translation>快速鍵註冊失敗:</translation>
+        <translation>快速鍵註冊失敗：</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1126,7 +1126,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Snipaste has been updated to %1.</source>
-        <translation>Snipaste 已成功更新至 %1.</translation>
+        <translation>Snipaste 已成功更新至 %1。</translation>
     </message>
     <message>
         <source>Click here to see the changelog</source>
@@ -1350,11 +1350,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>%1 is not set!</source>
-        <translation>未設定 %1!</translation>
+        <translation>%1 未設定！</translation>
     </message>
     <message>
         <source>The file name pattern is not valid!</source>
-        <translation>無效的檔案命名規則!</translation>
+        <translation>無效的檔案命名規則！</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1362,7 +1362,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Image saved to</source>
-        <translation>圖像已儲存至</translation>
+        <translation>圖片已儲存至</translation>
     </message>
     <message>
         <source>Failed to save the image to</source>
@@ -1386,7 +1386,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Failed to save the image!</source>
-        <translation>圖片儲存失敗!</translation>
+        <translation>圖片儲存失敗！</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
@@ -1394,7 +1394,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>File %1 not found.</source>
-        <translation>找不到檔案 %1.</translation>
+        <translation>找不到檔案 %1。</translation>
     </message>
     <message>
         <source>Error Code</source>
@@ -1414,7 +1414,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Rename the imported group:</source>
-        <translation>重新命名匯入分組:</translation>
+        <translation>重新命名匯入分組：</translation>
     </message>
     <message>
         <source>Switch to the imported group</source>
@@ -1422,7 +1422,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>New group name:</source>
-        <translation>新的分組名稱:</translation>
+        <translation>新的分組名稱：</translation>
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
@@ -1438,7 +1438,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
-        <translation>Snipaste %1 已經發布!</translation>
+        <translation>Snipaste %1 已經發布！</translation>
     </message>
     <message>
         <source>Click here to update now</source>
@@ -1512,7 +1512,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Are you sure you want to cancel the update?</source>
-        <translation>確定要取消更新嗎?</translation>
+        <translation>確定要取消更新嗎？</translation>
     </message>
     <message>
         <source>Download updates</source>
@@ -1523,15 +1523,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
-        <translation>左上角:</translation>
+        <translation>左上角：</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation>大小:</translation>
+        <translation>大小：</translation>
     </message>
     <message>
         <source>Delay:</source>
-        <translation>延遲:</translation>
+        <translation>延遲：</translation>
     </message>
     <message>
         <source>s</source>
@@ -1569,7 +1569,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>groupmanager</name>
     <message>
         <source>Image groups:</source>
-        <translation>貼圖組:</translation>
+        <translation>貼圖組：</translation>
     </message>
     <message>
         <source>Manage Groups</source>
@@ -1592,7 +1592,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>helpdialog</name>
     <message>
         <source>Pages:</source>
-        <translation>頁面:</translation>
+        <translation>頁面：</translation>
     </message>
 </context>
 <context>
@@ -1603,11 +1603,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Name:</source>
-        <translation>名稱:</translation>
+        <translation>名稱：</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation>命令:</translation>
+        <translation>命令：</translation>
     </message>
     <message>
         <source>Test</source>
@@ -1631,7 +1631,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation>忽略程式清單:</translation>
+        <translation>忽略程式清單：</translation>
     </message>
     <message>
         <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
@@ -1657,7 +1657,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Open source software used in Snipaste:</source>
-        <translation>Snipaste 用到的開源軟體:</translation>
+        <translation>Snipaste 用到的開源軟體：</translation>
     </message>
     <message>
         <source>About Qt</source>
@@ -1676,7 +1676,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Group name:</source>
-        <translation>分組名稱:</translation>
+        <translation>分組名稱：</translation>
     </message>
     <message>
         <source>Activate after creation</source>
@@ -1699,7 +1699,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Colors:</source>
-        <translation>色彩:</translation>
+        <translation>色彩：</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1715,7 +1715,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Ignore Win key:</source>
-        <translation>封鎖 Win 鍵:</translation>
+        <translation>封鎖 Win 鍵：</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
@@ -1743,7 +1743,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Tray icon:</source>
-        <translation>系統匣圖示:</translation>
+        <translation>系統匣圖示：</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -1811,7 +1811,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Log level:</source>
-        <translation>記錄層級:</translation>
+        <translation>記錄層級：</translation>
     </message>
     <message>
         <source>Open log file</source>
@@ -1835,11 +1835,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Anchors&apos; border color:</source>
-        <translation>錨點描邊色彩:</translation>
+        <translation>錨點描邊色彩：</translation>
     </message>
     <message>
         <source>In the magnifier, show:</source>
-        <translation>在放大鏡中，顯示:</translation>
+        <translation>在放大鏡中，顯示：</translation>
     </message>
     <message>
         <source>mask</source>
@@ -1851,7 +1851,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Show the anchors in the magnifier.</source>
-        <translation>在放大鏡中顯示錨點.</translation>
+        <translation>在放大鏡中顯示錨點。</translation>
     </message>
     <message>
         <source>anchors</source>
@@ -1923,7 +1923,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Sound file:</source>
-        <translation>音效檔案:</translation>
+        <translation>音效檔案：</translation>
     </message>
     <message>
         <source>Play</source>
@@ -1951,7 +1951,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
-        <translation>若取消勾選，會以圖像左上角為錨點進行縮放。</translation>
+        <translation>若取消勾選，會以圖片左上角為錨點進行縮放。</translation>
     </message>
     <message>
         <source>at mouse cursor</source>
@@ -2007,7 +2007,7 @@ You can also find this option in the context menu of individual image window.</s
         <source>If the source is a screenshot, show it where you snipped.
 If disabled, it would always be shown at the center of the primary screen.</source>
         <translation>如果貼圖來源是螢幕擷圖，貼在擷圖時的位置。
-如果不選取，貼圖則總是出現在主螢幕中央。</translation>
+如果不選取，則顯示於主螢幕中央。</translation>
     </message>
     <message>
         <source>Use snipping position</source>
@@ -2027,11 +2027,11 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Default opacity:</source>
-        <translation>預設不透明度:</translation>
+        <translation>預設不透明度：</translation>
     </message>
     <message>
         <source>Max number of history areas:</source>
-        <translation>最大歷史擷圖區域數:</translation>
+        <translation>最大歷史擷圖區域數：</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -2039,16 +2039,16 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Max number of history records:</source>
-        <translation>最大歷史記錄數:</translation>
+        <translation>最大歷史記錄數：</translation>
     </message>
     <message>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
-        <translation>設定新貼圖視窗的不透明度。範圍: 10 - 100</translation>
+        <translation>設定新貼圖視窗的不透明度。範圍：10 - 100</translation>
     </message>
     <message>
         <source>Max recoverable closed images:</source>
-        <translation>可被還原的貼圖數:</translation>
+        <translation>可被還原的貼圖數：</translation>
     </message>
     <message>
         <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -2062,7 +2062,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Page margin:</source>
-        <translation>頁邊距:</translation>
+        <translation>頁邊距：</translation>
     </message>
     <message>
         <source>The blank space around the text</source>
@@ -2070,7 +2070,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Font:</source>
-        <translation>字型:</translation>
+        <translation>字型：</translation>
     </message>
     <message>
         <source>Background</source>
@@ -2086,18 +2086,18 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Image quality:</source>
-        <translation>圖像品質:</translation>
+        <translation>圖片品質：</translation>
     </message>
     <message>
         <source>Set the default output image quality.</source>
-        <translation>設定輸出圖像的預設品質。</translation>
+        <translation>設定輸出圖片的預設品質。</translation>
     </message>
     <message>
         <source>Range: 0 to 100 or -1.
 Specify 0 to obtain small compressed files, 100 for large uncompressed files.
 Specify -1 to let Snipaste decide for you.</source>
-        <translation>範圍: 0 到 100 或 -1.
-設為 0 可最大壓縮圖像，100 為完全不壓縮。
+        <translation>範圍：0 到 100 或 -1。
+設為 0 可最大壓縮圖片，100 為完全不壓縮。
 設為 -1，Snipaste 會幫你做決定。</translation>
     </message>
     <message>
@@ -2106,15 +2106,15 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Pattern:</source>
-        <translation>規則:</translation>
+        <translation>規則：</translation>
     </message>
     <message>
         <source>Preview:</source>
-        <translation>預覽:</translation>
+        <translation>預覽：</translation>
     </message>
     <message>
         <source>Grammar:</source>
-        <translation>文法:</translation>
+        <translation>語法：</translation>
     </message>
     <message>
         <source>Auto Save</source>
@@ -2146,11 +2146,11 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Close image:</source>
-        <translation>關閉貼圖:</translation>
+        <translation>關閉貼圖：</translation>
     </message>
     <message>
         <source>Reset image:</source>
-        <translation>重設貼圖:</translation>
+        <translation>重設貼圖：</translation>
     </message>
     <message>
         <source>* If conflicted, the upper operation will be matched</source>
@@ -2158,7 +2158,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Be the first to test new features of Snipaste!</source>
-        <translation>第一時間體驗 Snipaste 的最新功能!</translation>
+        <translation>第一時間體驗 Snipaste 的最新功能！</translation>
     </message>
     <message>
         <source>Beta versions may contain more bugs.
@@ -2180,15 +2180,15 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Max width:</source>
-        <translation>圖片最大寬度:</translation>
+        <translation>圖片最大寬度：</translation>
     </message>
     <message>
         <source>Interface font:</source>
-        <translation>介面字型:</translation>
+        <translation>介面字型：</translation>
     </message>
     <message>
         <source>Theme color:</source>
-        <translation>主題色彩:</translation>
+        <translation>主題色彩：</translation>
     </message>
     <message>
         <source>The theme color of Snipaste</source>
@@ -2216,11 +2216,11 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Run Snipaste when the operating system starts.</source>
-        <translation>系統開機啟動後自動執行 Snipaste.</translation>
+        <translation>系統開機啟動後自動執行 Snipaste。</translation>
     </message>
     <message>
         <source>Mask color:</source>
-        <translation>遮罩色彩:</translation>
+        <translation>遮罩色彩：</translation>
     </message>
     <message>
         <source>The mask color of snipping</source>
@@ -2236,7 +2236,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Border width:</source>
-        <translation>邊框寬度:</translation>
+        <translation>邊框寬度：</translation>
     </message>
     <message>
         <source>Set the width of the border around the snipping area.</source>
@@ -2248,7 +2248,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Folder:</source>
-        <translation>目錄:</translation>
+        <translation>目錄：</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2266,7 +2266,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>When a new image is pasted:</source>
-        <translation>新的圖片被貼出時:</translation>
+        <translation>新的圖片被貼出時：</translation>
     </message>
     <message>
         <source>Let the border of a new image window flash.</source>
@@ -2292,21 +2292,21 @@ You can also find this option in the context menu of individual image window.</s
         <source>If you copy an image file, the first paste will show the image, the second paste will show the file path.
 If you copy a non-image file, a paste will immediately show the file path.
 If this option is checked, the above features will be disabled.</source>
-        <translation>如果你複製了一個圖片檔案，第一次按貼圖鍵會將圖像貼圖，再按貼圖鍵會將檔案路徑貼出。
+        <translation>如果你複製了一個圖片檔案，第一次按貼圖鍵會將圖片貼圖，再按貼圖鍵會將檔案路徑貼出。
 如果你複製了一個非圖片檔案，按貼圖鍵會將檔案路徑貼圖。
 如果勾選了這個選項，以上特性將被停用。</translation>
     </message>
     <message>
         <source>The max width of the image converted from text</source>
-        <translation>由文字轉換的圖片的最大寬度</translation>
+        <translation>由文字轉換圖片的最大寬度</translation>
     </message>
     <message>
         <source>Always treat text as plain text when converting text to image.</source>
-        <translation>文字轉圖片時總是略過文字的格式。</translation>
+        <translation>永遠以純文字格式來轉換為圖片。</translation>
     </message>
     <message>
         <source>Always ignore HTML formats</source>
-        <translation>總是略過 HTML 格式</translation>
+        <translation>忽略 HTML 格式</translation>
     </message>
     <message>
         <source>The font used for plain text conversion</source>
@@ -2326,7 +2326,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Contact:</source>
-        <translation>聯絡:</translation>
+        <translation>聯絡：</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -2342,7 +2342,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Delay:</source>
-        <translation>延遲:</translation>
+        <translation>延遲：</translation>
     </message>
     <message>
         <source>s</source>
@@ -2370,11 +2370,11 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Proxy type:</source>
-        <translation>代理伺服器類型:</translation>
+        <translation>代理伺服器類型：</translation>
     </message>
     <message>
         <source>Server:</source>
-        <translation>伺服器:</translation>
+        <translation>伺服器：</translation>
     </message>
     <message>
         <source>Proxy server requires password</source>
@@ -2382,11 +2382,11 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Username:</source>
-        <translation>使用者名稱:</translation>
+        <translation>使用者名稱：</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密碼:</translation>
+        <translation>密碼：</translation>
     </message>
     <message>
         <source>About</source>
@@ -2398,7 +2398,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Language:</source>
-        <translation>顯示語言:</translation>
+        <translation>顯示語言：</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
@@ -2406,7 +2406,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Path:</source>
-        <translation>路徑:</translation>
+        <translation>路徑：</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
@@ -2422,7 +2422,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>When:</source>
-        <translation>何時:</translation>
+        <translation>何時：</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2456,7 +2456,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation>調整透明度:</translation>
+        <translation>調整透明度：</translation>
     </message>
     <message>
         <source>or</source>
@@ -2464,7 +2464,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation>貼圖縮放:</translation>
+        <translation>貼圖縮放：</translation>
     </message>
     <message>
         <source>Magnifier</source>
@@ -2484,7 +2484,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Number of pen sizes:</source>
-        <translation>筆尖數量:</translation>
+        <translation>筆尖數量：</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.</source>
@@ -2516,7 +2516,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Default background mode:</source>
-        <translation>預設背景模式:</translation>
+        <translation>預設背景模式：</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -2524,7 +2524,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation>以 Windows Bitmap 格式複製圖片:</translation>
+        <translation>以 Windows Bitmap 格式複製圖像：</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -2560,7 +2560,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Left click:</source>
-        <translation>左鍵點選:</translation>
+        <translation>左鍵點選：</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -2568,15 +2568,15 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Middle click:</source>
-        <translation>中鍵點選:</translation>
+        <translation>中鍵點選：</translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation>右鍵點選:</translation>
+        <translation>右鍵點選：</translation>
     </message>
     <message>
         <source>Hot Corner</source>
-        <translation>觸發角邊</translation>
+        <translation>觸發邊角</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -2584,11 +2584,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Corner size:</source>
-        <translation>區域大小:</translation>
+        <translation>區域大小：</translation>
     </message>
     <message>
         <source>Trigger delay:</source>
-        <translation>觸發延遲:</translation>
+        <translation>觸發延遲：</translation>
     </message>
     <message>
         <source>ms</source>
@@ -2596,7 +2596,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Check interval:</source>
-        <translation>檢查間隔:</translation>
+        <translation>檢查間隔：</translation>
     </message>
     <message>
         <source>Function</source>
@@ -2604,19 +2604,19 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Top left:</source>
-        <translation>左上角:</translation>
+        <translation>左上角：</translation>
     </message>
     <message>
         <source>Top right:</source>
-        <translation>右上角:</translation>
+        <translation>右上角：</translation>
     </message>
     <message>
         <source>Bottom left:</source>
-        <translation>左下角:</translation>
+        <translation>左下角：</translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation>右下角:</translation>
+        <translation>右下角：</translation>
     </message>
     <message>
         <source>Keep responsive</source>
@@ -2624,7 +2624,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation>自動顯示當:</translation>
+        <translation>自動顯示當：</translation>
     </message>
     <message>
         <source>Normal snip</source>
@@ -2636,11 +2636,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Color value:</source>
-        <translation>色彩值:</translation>
+        <translation>色彩值：</translation>
     </message>
     <message>
         <source>No &apos;#&apos;</source>
-        <translation>隱藏 ‘#’</translation>
+        <translation>隱藏 &apos;#&apos;</translation>
     </message>
     <message>
         <source>Uppercase Hex</source>
@@ -2648,7 +2648,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Show:</source>
-        <translation>顯示:</translation>
+        <translation>顯示：</translation>
     </message>
     <message>
         <source>Grid lines</source>
@@ -2664,7 +2664,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Copy text:</source>
-        <translation>複製文字:</translation>
+        <translation>複製文字：</translation>
     </message>
     <message>
         <source>Rate</source>
@@ -2692,11 +2692,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Fast thumbnail size:</source>
-        <translation>快速縮圖大小:</translation>
+        <translation>快速縮圖大小：</translation>
     </message>
     <message>
         <source>Fast thumbnail:</source>
-        <translation>快速縮圖:</translation>
+        <translation>快速縮圖：</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
@@ -2716,7 +2716,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation>左鍵按兩下:</translation>
+        <translation>左鍵按兩下：</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
@@ -2724,7 +2724,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation>中鍵點選:</translation>
+        <translation>中鍵點選：</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
@@ -2732,7 +2732,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
-        <translation>Enter 鍵:</translation>
+        <translation>Enter 鍵：</translation>
     </message>
 </context>
 <context>
@@ -2747,7 +2747,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Marker pen</source>
-        <translation>記號筆</translation>
+        <translation>螢光筆</translation>
     </message>
     <message>
         <source>Text</source>
@@ -2863,22 +2863,22 @@ You will gain better response time on entering snipping.</source>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation>提示:</translation>
+        <translation>提示：</translation>
     </message>
 </context>
 <context>
     <name>updatedialog</name>
     <message>
         <source>Latest version:</source>
-        <translation>最新的版本:</translation>
+        <translation>最新版本：</translation>
     </message>
     <message>
         <source>Your version:</source>
-        <translation>目前版本:</translation>
+        <translation>目前版本：</translation>
     </message>
     <message>
         <source>Last check:</source>
-        <translation>上一次檢查:</translation>
+        <translation>上次檢查：</translation>
     </message>
     <message>
         <source>Download and install updates</source>
@@ -2897,11 +2897,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation>縮放:</translation>
+        <translation>縮放：</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation>大小:</translation>
+        <translation>大小：</translation>
     </message>
     <message>
         <source>OK</source>
