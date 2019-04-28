@@ -103,15 +103,23 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation>İndirilen klasörü aç</translation>
+        <translation type="vanished">İndirilen klasörü aç</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation>Lütfen, dosyayı çıkartın ve Snipaste&apos;tan çıktıktan sonra uygulamayı, Uygulamalar klasörüne sürükleyin.</translation>
+        <translation type="vanished">Lütfen, dosyayı çıkartın ve Snipaste&apos;tan çıktıktan sonra uygulamayı, Uygulamalar klasörüne sürükleyin.</translation>
     </message>
     <message>
         <source>Restarting</source>
         <translation>Yeniden başlatılıyor</translation>
+    </message>
+    <message>
+        <source>Show in Finder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install now</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -185,6 +193,10 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     <message>
         <source>The command cannot be empty!</source>
         <translation>Komut boş olamaz!</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -394,6 +406,14 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
         <source>Later</source>
         <translation>Sonra</translation>
     </message>
+    <message>
+        <source>Remove license key? Snipaste will be unregistered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>İptal</translation>
+    </message>
 </context>
 <context>
     <name>Licensing_uwp</name>
@@ -446,6 +466,117 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     <message>
         <source>Play</source>
         <translation>Oynat</translation>
+    </message>
+</context>
+<context>
+    <name>NamingRulesDialog</name>
+    <message>
+        <source>Naming Rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Day (1-31)</source>
+        <translation>Gün (1-31)</translation>
+    </message>
+    <message>
+        <source>Day (01-31)</source>
+        <translation>Gün (01-31)</translation>
+    </message>
+    <message>
+        <source>Localized day name (abbr.)</source>
+        <translation>Yerelleştirilmiş gün adı (abbr.)</translation>
+    </message>
+    <message>
+        <source>Localized day name</source>
+        <translation>Yerelleştirilmiş gün adı</translation>
+    </message>
+    <message>
+        <source>Month (1-12)</source>
+        <translation>Ay (1-12)</translation>
+    </message>
+    <message>
+        <source>Month (01-12)</source>
+        <translation>Ay (01-12)</translation>
+    </message>
+    <message>
+        <source>Localized month name (abbr.)</source>
+        <translation>Yerelleştirilmiş ay adı (abbr.)</translation>
+    </message>
+    <message>
+        <source>Localized month name</source>
+        <translation>Yerelleştirilmiş ay adı</translation>
+    </message>
+    <message>
+        <source>Year (2-digit)</source>
+        <translation>Yıl (2-haneli)</translation>
+    </message>
+    <message>
+        <source>Year (4-digit)</source>
+        <translation>Yıl (4-haneli)</translation>
+    </message>
+    <message>
+        <source>Hour (0-23)</source>
+        <translation>Saat (0-23)</translation>
+    </message>
+    <message>
+        <source>Hour (00-23)</source>
+        <translation>Saat (00-23)</translation>
+    </message>
+    <message>
+        <source>Minute (0-59)</source>
+        <translation>Dakika (0-59)</translation>
+    </message>
+    <message>
+        <source>Minute (00-59)</source>
+        <translation>Dakika (00-59)</translation>
+    </message>
+    <message>
+        <source>Second (0-59)</source>
+        <translation>Saniye (0-59)</translation>
+    </message>
+    <message>
+        <source>Second (00-59)</source>
+        <translation>Saniye (00-59)</translation>
+    </message>
+    <message>
+        <source>Milliseconds (0-999)</source>
+        <translation>Milisaniye (0-999)</translation>
+    </message>
+    <message>
+        <source>Milliseconds (000-999)</source>
+        <translation>Milisaniye (000-999)</translation>
+    </message>
+    <message>
+        <source>Timezone</source>
+        <translation>Zaman Dilimi</translation>
+    </message>
+    <message>
+        <source>Operation system</source>
+        <translation>İşletim Sistemi</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation>Bilgisayar adı</translation>
+    </message>
+    <message>
+        <source>User name</source>
+        <translation>Kullanıcı adı</translation>
+    </message>
+    <message>
+        <source>Allowed suffixes</source>
+        <translation>Geçerli uzantılar</translation>
+    </message>
+    <message>
+        <source>Illegal characters</source>
+        <translation>Yasak karakterler</translation>
+    </message>
+    <message>
+        <source>Environment variables</source>
+        <translation>Ortam Değişkenleri</translation>
+    </message>
+    <message>
+        <source>Dates and times</source>
+        <translation>Tarihler ve saatler</translation>
     </message>
 </context>
 <context>
@@ -600,107 +731,107 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     </message>
     <message>
         <source>Day (1-31)</source>
-        <translation>Gün (1-31)</translation>
+        <translation type="vanished">Gün (1-31)</translation>
     </message>
     <message>
         <source>Day (01-31)</source>
-        <translation>Gün (01-31)</translation>
+        <translation type="vanished">Gün (01-31)</translation>
     </message>
     <message>
         <source>Localized day name (abbr.)</source>
-        <translation>Yerelleştirilmiş gün adı (abbr.)</translation>
+        <translation type="vanished">Yerelleştirilmiş gün adı (abbr.)</translation>
     </message>
     <message>
         <source>Localized day name</source>
-        <translation>Yerelleştirilmiş gün adı</translation>
+        <translation type="vanished">Yerelleştirilmiş gün adı</translation>
     </message>
     <message>
         <source>Month (1-12)</source>
-        <translation>Ay (1-12)</translation>
+        <translation type="vanished">Ay (1-12)</translation>
     </message>
     <message>
         <source>Month (01-12)</source>
-        <translation>Ay (01-12)</translation>
+        <translation type="vanished">Ay (01-12)</translation>
     </message>
     <message>
         <source>Localized month name (abbr.)</source>
-        <translation>Yerelleştirilmiş ay adı (abbr.)</translation>
+        <translation type="vanished">Yerelleştirilmiş ay adı (abbr.)</translation>
     </message>
     <message>
         <source>Localized month name</source>
-        <translation>Yerelleştirilmiş ay adı</translation>
+        <translation type="vanished">Yerelleştirilmiş ay adı</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
-        <translation>Yıl (2-haneli)</translation>
+        <translation type="vanished">Yıl (2-haneli)</translation>
     </message>
     <message>
         <source>Year (4-digit)</source>
-        <translation>Yıl (4-haneli)</translation>
+        <translation type="vanished">Yıl (4-haneli)</translation>
     </message>
     <message>
         <source>Hour (0-23)</source>
-        <translation>Saat (0-23)</translation>
+        <translation type="vanished">Saat (0-23)</translation>
     </message>
     <message>
         <source>Hour (00-23)</source>
-        <translation>Saat (00-23)</translation>
+        <translation type="vanished">Saat (00-23)</translation>
     </message>
     <message>
         <source>Minute (0-59)</source>
-        <translation>Dakika (0-59)</translation>
+        <translation type="vanished">Dakika (0-59)</translation>
     </message>
     <message>
         <source>Minute (00-59)</source>
-        <translation>Dakika (00-59)</translation>
+        <translation type="vanished">Dakika (00-59)</translation>
     </message>
     <message>
         <source>Second (0-59)</source>
-        <translation>Saniye (0-59)</translation>
+        <translation type="vanished">Saniye (0-59)</translation>
     </message>
     <message>
         <source>Second (00-59)</source>
-        <translation>Saniye (00-59)</translation>
+        <translation type="vanished">Saniye (00-59)</translation>
     </message>
     <message>
         <source>Milliseconds (0-999)</source>
-        <translation>Milisaniye (0-999)</translation>
+        <translation type="vanished">Milisaniye (0-999)</translation>
     </message>
     <message>
         <source>Milliseconds (000-999)</source>
-        <translation>Milisaniye (000-999)</translation>
+        <translation type="vanished">Milisaniye (000-999)</translation>
     </message>
     <message>
         <source>Timezone</source>
-        <translation>Zaman Dilimi</translation>
+        <translation type="vanished">Zaman Dilimi</translation>
     </message>
     <message>
         <source>Operation system</source>
-        <translation>İşletim Sistemi</translation>
+        <translation type="vanished">İşletim Sistemi</translation>
     </message>
     <message>
         <source>Computer name</source>
-        <translation>Bilgisayar adı</translation>
+        <translation type="vanished">Bilgisayar adı</translation>
     </message>
     <message>
         <source>User name</source>
-        <translation>Kullanıcı adı</translation>
+        <translation type="vanished">Kullanıcı adı</translation>
     </message>
     <message>
         <source>Allowed suffixes</source>
-        <translation>Geçerli uzantılar</translation>
+        <translation type="vanished">Geçerli uzantılar</translation>
     </message>
     <message>
         <source>Illegal characters</source>
-        <translation>Yasak karakterler</translation>
+        <translation type="vanished">Yasak karakterler</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Ortam Değişkenleri</translation>
+        <translation type="vanished">Ortam Değişkenleri</translation>
     </message>
     <message>
         <source>Dates and times</source>
-        <translation>Tarihler ve saatler</translation>
+        <translation type="vanished">Tarihler ve saatler</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
@@ -846,6 +977,50 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <source>Existing image windows</source>
         <translation>Mevcut görüntü pencereleri</translation>
     </message>
+    <message>
+        <source>Remove license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Dikdörtgen/Elips</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>Çizgi</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Ok</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Kalem</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Keçeli kalem</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Metin</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>Mozaik/Bulanık</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>Silgi</translation>
+    </message>
+    <message>
+        <source>Normal snip</source>
+        <translation>Normal Kırpma</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -868,6 +1043,26 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
         <translation>Kalem genişliğini değiştirmek için lütfen fare tekerleğini kaydırın veya &apos;1&apos; veya &apos;2&apos; tuşlarına basın.</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>Kalın</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>İtalik</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation>Anahat</translation>
+    </message>
+    <message>
+        <source>Copy with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save with shadow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1070,6 +1265,50 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
         <source>Custom...</source>
         <translation>Özel...</translation>
     </message>
+    <message>
+        <source>Copy image with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy unscaled image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy unscaled image with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save image with shadow as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical flip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1136,7 +1375,7 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     </message>
     <message>
         <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation>Kırmızı noktaları gördün mü? Yararlı ipuçları almak için onları tıklayın!</translation>
+        <translation type="vanished">Kırmızı noktaları gördün mü? Yararlı ipuçları almak için onları tıklayın!</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1153,6 +1392,10 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     <message>
         <source>Pick File</source>
         <translation>Dosya seç</translation>
+    </message>
+    <message>
+        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1245,6 +1488,22 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>İmleç altındaki görüntünün tıklama modunu değiştirme kısayolu.
 İmleç altında herhangi bir görüntü penceresi yoksa, tıklanamayan tüm görüntüler tıklanabilir hale getirilir.</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1460,11 +1719,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>%1 is not set!</source>
-        <translation>%1 belirlenmedi!</translation>
+        <translation type="vanished">%1 belirlenmedi!</translation>
     </message>
     <message>
         <source>The file name pattern is not valid!</source>
-        <translation>Dosya adı şablonu geçerli değil!</translation>
+        <translation type="vanished">Dosya adı şablonu geçerli değil!</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1488,6 +1747,113 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Do not show this again</source>
         <translation>Bunu tekrar gösterme</translation>
+    </message>
+</context>
+<context>
+    <name>UnlockProDialog</name>
+    <message>
+        <source>You are using the free version of Snipaste %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipaste offline activation request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware identity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Validity period</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste your license key here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock PRO features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PRO version provides more than 20 useful new features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please feel free to contact %1 if you need any help.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>İptal</translation>
+    </message>
+    <message>
+        <source>Enter license key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation type="unfinished">Aktif</translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline activation...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of activations exceeded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error code</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1621,7 +1987,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Virgülle ayrılmış çalıştırılabilir uygulama isimleri girin (ör: a.exe, games/*)</translation>
+        <translation type="vanished">Virgülle ayrılmış çalıştırılabilir uygulama isimleri girin (ör: a.exe, games/*)</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1634,6 +2000,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>İptal</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2288,7 +2658,7 @@ Bu seçeneği, özel görüntü penceresinin bağlam menüsünden de bulabilirsi
     <message>
         <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
-        <translation>Kapalı görüntü penceresi, kapalı resimlerin sayısı sınırı aşarsa, başka bir yapıştırma yöntemiyle kurtarılamaz.
+        <translation type="vanished">Kapalı görüntü penceresi, kapalı resimlerin sayısı sınırı aşarsa, başka bir yapıştırma yöntemiyle kurtarılamaz.
 Limit ulaşıldığında, en eskisi yok edilir.</translation>
     </message>
     <message>
@@ -2401,7 +2771,7 @@ Ancak, bu sırada, görüntü alfa kanalı kaybolur.</translation>
     </message>
     <message>
         <source>Copy image as file</source>
-        <translation>Resmi dosya olarak kopyala</translation>
+        <translation type="vanished">Resmi dosya olarak kopyala</translation>
     </message>
     <message>
         <source>File</source>
@@ -2425,11 +2795,11 @@ Snipaste&apos;in sizin için karar vermesine izin vermek için -1 yazın.</trans
     </message>
     <message>
         <source>File Name</source>
-        <translation>Dosya adı</translation>
+        <translation type="vanished">Dosya adı</translation>
     </message>
     <message>
         <source>Pattern:</source>
-        <translation>Şablon:</translation>
+        <translation type="vanished">Şablon:</translation>
     </message>
     <message>
         <source>Preview:</source>
@@ -2437,7 +2807,7 @@ Snipaste&apos;in sizin için karar vermesine izin vermek için -1 yazın.</trans
     </message>
     <message>
         <source>Grammar:</source>
-        <translation>Dil Kuralları:</translation>
+        <translation type="vanished">Dil Kuralları:</translation>
     </message>
     <message>
         <source>Show notification</source>
@@ -2445,7 +2815,7 @@ Snipaste&apos;in sizin için karar vermesine izin vermek için -1 yazın.</trans
     </message>
     <message>
         <source>Folder:</source>
-        <translation>Klasör:</translation>
+        <translation type="vanished">Klasör:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2489,7 +2859,7 @@ Snipaste&apos;in sizin için karar vermesine izin vermek için -1 yazın.</trans
     </message>
     <message>
         <source>* Press Backspace to clear</source>
-        <translation>* Temizlemek için silme tuşuna basın</translation>
+        <translation type="vanished">* Temizlemek için silme tuşuna basın</translation>
     </message>
     <message>
         <source>Super Snip</source>
@@ -2691,11 +3061,11 @@ Herhangi bir hata bulursanız lütfen geliştiriciye bildirin.</translation>
     </message>
     <message>
         <source>Unlock PRO features!</source>
-        <translation>PRO özellik kilidini açın!</translation>
+        <translation type="vanished">PRO özellik kilidini açın!</translation>
     </message>
     <message>
         <source>Buy PRO</source>
-        <translation>PRO satın al</translation>
+        <translation type="vanished">PRO satın al</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
@@ -2732,6 +3102,44 @@ Herhangi bir hata bulursanız lütfen geliştiriciye bildirin.</translation>
     <message>
         <source>&apos;Enter&apos; key:</source>
         <translation>&apos; Enter &apos; tuşu:</translation>
+    </message>
+    <message>
+        <source>Default annotation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
+When the limit is reached, the oldest one will be destroyed.</source>
+        <translation>Kapalı görüntü penceresi, kapalı resimlerin sayısı sınırı aşarsa, başka bir yapıştırma yöntemiyle kurtarılamaz.
+Limit ulaşıldığında, en eskisi yok edilir.</translation>
+    </message>
+    <message>
+        <source>Manual Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Naming Rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Also copy image as file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Press Backspace to remove the hotkey</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

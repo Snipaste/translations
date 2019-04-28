@@ -107,11 +107,19 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation>Download-map openen</translation>
+        <translation type="vanished">Download-map openen</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation>Pak het zipbestand uit, sluit Snipaste af en sleep het programma naar zijn installatiemap.</translation>
+        <translation type="vanished">Pak het zipbestand uit, sluit Snipaste af en sleep het programma naar zijn installatiemap.</translation>
+    </message>
+    <message>
+        <source>Show in Finder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install now</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -185,6 +193,10 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     <message>
         <source>The command cannot be empty!</source>
         <translation>Geef een opdracht op!</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -394,6 +406,14 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
         <source>Later</source>
         <translation>Later</translation>
     </message>
+    <message>
+        <source>Remove license key? Snipaste will be unregistered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuleren</translation>
+    </message>
 </context>
 <context>
     <name>Licensing_uwp</name>
@@ -446,6 +466,117 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
     <message>
         <source>Play</source>
         <translation>Afspelen</translation>
+    </message>
+</context>
+<context>
+    <name>NamingRulesDialog</name>
+    <message>
+        <source>Naming Rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Day (1-31)</source>
+        <translation>Dag (1-31)</translation>
+    </message>
+    <message>
+        <source>Day (01-31)</source>
+        <translation>Dag (01-31)</translation>
+    </message>
+    <message>
+        <source>Localized day name (abbr.)</source>
+        <translation>Dag (afk.)</translation>
+    </message>
+    <message>
+        <source>Localized day name</source>
+        <translation>Dag</translation>
+    </message>
+    <message>
+        <source>Month (1-12)</source>
+        <translation>Maand (1-12)</translation>
+    </message>
+    <message>
+        <source>Month (01-12)</source>
+        <translation>Maand (01-12)</translation>
+    </message>
+    <message>
+        <source>Localized month name (abbr.)</source>
+        <translation>Maand (afk.)</translation>
+    </message>
+    <message>
+        <source>Localized month name</source>
+        <translation>Maand</translation>
+    </message>
+    <message>
+        <source>Year (2-digit)</source>
+        <translation>Jaar (2 cijfers)</translation>
+    </message>
+    <message>
+        <source>Year (4-digit)</source>
+        <translation>Jaar (4 cijfers)</translation>
+    </message>
+    <message>
+        <source>Hour (0-23)</source>
+        <translation>Uur (0-23)</translation>
+    </message>
+    <message>
+        <source>Hour (00-23)</source>
+        <translation>Uur (00-23)</translation>
+    </message>
+    <message>
+        <source>Minute (0-59)</source>
+        <translation>Minuten (0-59)</translation>
+    </message>
+    <message>
+        <source>Minute (00-59)</source>
+        <translation>Minuten (00-59)</translation>
+    </message>
+    <message>
+        <source>Second (0-59)</source>
+        <translation>Seconden (0-59)</translation>
+    </message>
+    <message>
+        <source>Second (00-59)</source>
+        <translation>Seconden (00-59)</translation>
+    </message>
+    <message>
+        <source>Milliseconds (0-999)</source>
+        <translation>Milliseconden (0-999)</translation>
+    </message>
+    <message>
+        <source>Milliseconds (000-999)</source>
+        <translation>Milliseconden (000-999)</translation>
+    </message>
+    <message>
+        <source>Timezone</source>
+        <translation>Tijdzone</translation>
+    </message>
+    <message>
+        <source>Operation system</source>
+        <translation>Besturingssysteem</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation>Computernaam</translation>
+    </message>
+    <message>
+        <source>User name</source>
+        <translation>Gebruikersnaam</translation>
+    </message>
+    <message>
+        <source>Allowed suffixes</source>
+        <translation>Toegestane achtervoegsels</translation>
+    </message>
+    <message>
+        <source>Illegal characters</source>
+        <translation>Ongeldig teken</translation>
+    </message>
+    <message>
+        <source>Environment variables</source>
+        <translation>Omgevingsvariabelen</translation>
+    </message>
+    <message>
+        <source>Dates and times</source>
+        <translation>Datum en tijd</translation>
     </message>
 </context>
 <context>
@@ -564,107 +695,107 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
-        <translation>Dag (1-31)</translation>
+        <translation type="vanished">Dag (1-31)</translation>
     </message>
     <message>
         <source>Day (01-31)</source>
-        <translation>Dag (01-31)</translation>
+        <translation type="vanished">Dag (01-31)</translation>
     </message>
     <message>
         <source>Localized day name (abbr.)</source>
-        <translation>Dag (afk.)</translation>
+        <translation type="vanished">Dag (afk.)</translation>
     </message>
     <message>
         <source>Localized day name</source>
-        <translation>Dag</translation>
+        <translation type="vanished">Dag</translation>
     </message>
     <message>
         <source>Month (1-12)</source>
-        <translation>Maand (1-12)</translation>
+        <translation type="vanished">Maand (1-12)</translation>
     </message>
     <message>
         <source>Month (01-12)</source>
-        <translation>Maand (01-12)</translation>
+        <translation type="vanished">Maand (01-12)</translation>
     </message>
     <message>
         <source>Localized month name (abbr.)</source>
-        <translation>Maand (afk.)</translation>
+        <translation type="vanished">Maand (afk.)</translation>
     </message>
     <message>
         <source>Localized month name</source>
-        <translation>Maand</translation>
+        <translation type="vanished">Maand</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
-        <translation>Jaar (2 cijfers)</translation>
+        <translation type="vanished">Jaar (2 cijfers)</translation>
     </message>
     <message>
         <source>Year (4-digit)</source>
-        <translation>Jaar (4 cijfers)</translation>
+        <translation type="vanished">Jaar (4 cijfers)</translation>
     </message>
     <message>
         <source>Hour (0-23)</source>
-        <translation>Uur (0-23)</translation>
+        <translation type="vanished">Uur (0-23)</translation>
     </message>
     <message>
         <source>Hour (00-23)</source>
-        <translation>Uur (00-23)</translation>
+        <translation type="vanished">Uur (00-23)</translation>
     </message>
     <message>
         <source>Minute (0-59)</source>
-        <translation>Minuten (0-59)</translation>
+        <translation type="vanished">Minuten (0-59)</translation>
     </message>
     <message>
         <source>Minute (00-59)</source>
-        <translation>Minuten (00-59)</translation>
+        <translation type="vanished">Minuten (00-59)</translation>
     </message>
     <message>
         <source>Second (0-59)</source>
-        <translation>Seconden (0-59)</translation>
+        <translation type="vanished">Seconden (0-59)</translation>
     </message>
     <message>
         <source>Second (00-59)</source>
-        <translation>Seconden (00-59)</translation>
+        <translation type="vanished">Seconden (00-59)</translation>
     </message>
     <message>
         <source>Milliseconds (0-999)</source>
-        <translation>Milliseconden (0-999)</translation>
+        <translation type="vanished">Milliseconden (0-999)</translation>
     </message>
     <message>
         <source>Milliseconds (000-999)</source>
-        <translation>Milliseconden (000-999)</translation>
+        <translation type="vanished">Milliseconden (000-999)</translation>
     </message>
     <message>
         <source>Timezone</source>
-        <translation>Tijdzone</translation>
+        <translation type="vanished">Tijdzone</translation>
     </message>
     <message>
         <source>Operation system</source>
-        <translation>Besturingssysteem</translation>
+        <translation type="vanished">Besturingssysteem</translation>
     </message>
     <message>
         <source>Computer name</source>
-        <translation>Computernaam</translation>
+        <translation type="vanished">Computernaam</translation>
     </message>
     <message>
         <source>User name</source>
-        <translation>Gebruikersnaam</translation>
+        <translation type="vanished">Gebruikersnaam</translation>
     </message>
     <message>
         <source>Allowed suffixes</source>
-        <translation>Toegestane achtervoegsels</translation>
+        <translation type="vanished">Toegestane achtervoegsels</translation>
     </message>
     <message>
         <source>Illegal characters</source>
-        <translation>Ongeldig teken</translation>
+        <translation type="vanished">Ongeldig teken</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Omgevingsvariabelen</translation>
+        <translation type="vanished">Omgevingsvariabelen</translation>
     </message>
     <message>
         <source>Dates and times</source>
-        <translation>Datum en tijd</translation>
+        <translation type="vanished">Datum en tijd</translation>
     </message>
     <message>
         <source>Error</source>
@@ -846,6 +977,50 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
         <source>Import succeeded!</source>
         <translation>Importeren voltooid!</translation>
     </message>
+    <message>
+        <source>Remove license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Rechthoek/Ellips</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>Lijnstuk</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Pijl</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Potlood</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Markeerstift</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Tekst</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>Mozaiek/Vervagen</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>Wissen</translation>
+    </message>
+    <message>
+        <source>Normal snip</source>
+        <translation>Normaal knippen</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -868,6 +1043,26 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
         <translation>Trek een lijn door te slepen of klik om lijnsegmenten te tekenen. </translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>Vet</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>Cursief</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation>Contour</translation>
+    </message>
+    <message>
+        <source>Copy with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save with shadow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1070,6 +1265,50 @@ De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Voorkeuren - Sneltoet
         <source>Custom...</source>
         <translation>Aangepast…</translation>
     </message>
+    <message>
+        <source>Copy image with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy unscaled image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy unscaled image with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save image with shadow as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical flip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1152,7 +1391,11 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation>Ziet u de rode stippen? Klik erop voor handige tips!</translation>
+        <translation type="vanished">Ziet u de rode stippen? Klik erop voor handige tips!</translation>
+    </message>
+    <message>
+        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1245,6 +1488,22 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Open Notepad</source>
         <translation>Notepad openen</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1352,11 +1611,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>%1 is not set!</source>
-        <translation>%1 is niet ingesteld!</translation>
+        <translation type="vanished">%1 is niet ingesteld!</translation>
     </message>
     <message>
         <source>The file name pattern is not valid!</source>
-        <translation>Het bestandsnaam-patroon is onjuist!</translation>
+        <translation type="vanished">Het bestandsnaam-patroon is onjuist!</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1488,6 +1747,113 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Do not show this again</source>
         <translation>Dit niet meer tonen</translation>
+    </message>
+</context>
+<context>
+    <name>UnlockProDialog</name>
+    <message>
+        <source>You are using the free version of Snipaste %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipaste offline activation request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware identity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Validity period</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste your license key here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock PRO features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PRO version provides more than 20 useful new features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please feel free to contact %1 if you need any help.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuleren</translation>
+    </message>
+    <message>
+        <source>Enter license key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation type="unfinished">Activeren</translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline activation...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of activations exceeded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error code</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1633,7 +1999,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Voer uitvoerbare bestanden in gescheiden door komma&apos;s (bij. a.exe, games/*)</translation>
+        <translation type="vanished">Voer uitvoerbare bestanden in gescheiden door komma&apos;s (bij. a.exe, games/*)</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1979,11 +2349,11 @@ Meld deze wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation>Bestandsnaam</translation>
+        <translation type="vanished">Bestandsnaam</translation>
     </message>
     <message>
         <source>Pattern:</source>
-        <translation>Naamgeving:</translation>
+        <translation type="vanished">Naamgeving:</translation>
     </message>
     <message>
         <source>Preview:</source>
@@ -1991,7 +2361,7 @@ Meld deze wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>Grammar:</source>
-        <translation>Syntaxis:</translation>
+        <translation type="vanished">Syntaxis:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2118,7 +2488,7 @@ Indien afgeschakeld, wordt het altijd weergegeven midden op het primaire scherm.
     <message>
         <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
-        <translation>Gesloten afbeeldingsvensters kunnen worden hersteld zolang het maximum niet is overschreden.
+        <translation type="vanished">Gesloten afbeeldingsvensters kunnen worden hersteld zolang het maximum niet is overschreden.
 Als het maximum is bereikt, worden de eersten gewist.</translation>
     </message>
     <message>
@@ -2159,7 +2529,7 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
     </message>
     <message>
         <source>* Press Backspace to clear</source>
-        <translation>* Toets Backspace om te wissen</translation>
+        <translation type="vanished">* Toets Backspace om te wissen</translation>
     </message>
     <message>
         <source>Image Operations</source>
@@ -2255,7 +2625,7 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
     </message>
     <message>
         <source>Folder:</source>
-        <translation>Map:</translation>
+        <translation type="vanished">Map:</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2539,7 +2909,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Copy image as file</source>
-        <translation>Afbeelding als bestand kopiëren</translation>
+        <translation type="vanished">Afbeelding als bestand kopiëren</translation>
     </message>
     <message>
         <source>File</source>
@@ -2671,11 +3041,11 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Unlock PRO features!</source>
-        <translation>PRO-functionaliteit activeren!</translation>
+        <translation type="vanished">PRO-functionaliteit activeren!</translation>
     </message>
     <message>
         <source>Buy PRO</source>
-        <translation>Koop de PRO-versie</translation>
+        <translation type="vanished">Koop de PRO-versie</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
@@ -2732,6 +3102,44 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     <message>
         <source>&apos;Enter&apos; key:</source>
         <translation>&apos;Enter&apos;-toets:</translation>
+    </message>
+    <message>
+        <source>Default annotation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
+When the limit is reached, the oldest one will be destroyed.</source>
+        <translation>Gesloten afbeeldingsvensters kunnen worden hersteld zolang het maximum niet is overschreden.
+Als het maximum is bereikt, worden de eersten gewist.</translation>
+    </message>
+    <message>
+        <source>Manual Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Naming Rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Also copy image as file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Press Backspace to remove the hotkey</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

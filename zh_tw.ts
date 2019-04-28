@@ -105,11 +105,19 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation>開啟下載資料夾</translation>
+        <translation type="vanished">開啟下載資料夾</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation>請結束 Snipaste 後，將其解壓縮並拖曳至&quot;應用程式&quot;資料夾以完成更新。</translation>
+        <translation type="vanished">請結束 Snipaste 後，將其解壓縮並拖曳至&quot;應用程式&quot;資料夾以完成更新。</translation>
+    </message>
+    <message>
+        <source>Show in Finder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install now</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -183,6 +191,10 @@ Please contact the developer.</source>
     <message>
         <source>The command cannot be empty!</source>
         <translation>命令不能为空值！</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -392,6 +404,14 @@ Restart now to enjoy PRO features?</source>
         <source>Later</source>
         <translation>稍後</translation>
     </message>
+    <message>
+        <source>Remove license key? Snipaste will be unregistered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
 </context>
 <context>
     <name>Licensing_uwp</name>
@@ -444,6 +464,117 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Play</source>
         <translation>播放</translation>
+    </message>
+</context>
+<context>
+    <name>NamingRulesDialog</name>
+    <message>
+        <source>Naming Rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Day (1-31)</source>
+        <translation>日期 (1-31)</translation>
+    </message>
+    <message>
+        <source>Day (01-31)</source>
+        <translation>日期 (01-31)</translation>
+    </message>
+    <message>
+        <source>Localized day name (abbr.)</source>
+        <translation>周幾</translation>
+    </message>
+    <message>
+        <source>Localized day name</source>
+        <translation>星期幾</translation>
+    </message>
+    <message>
+        <source>Month (1-12)</source>
+        <translation>月份 (1-12)</translation>
+    </message>
+    <message>
+        <source>Month (01-12)</source>
+        <translation>月份 (01-12)</translation>
+    </message>
+    <message>
+        <source>Localized month name (abbr.)</source>
+        <translation>月份名稱 (小寫)</translation>
+    </message>
+    <message>
+        <source>Localized month name</source>
+        <translation>月份名稱 (大寫)</translation>
+    </message>
+    <message>
+        <source>Year (2-digit)</source>
+        <translation>年 (兩位數)</translation>
+    </message>
+    <message>
+        <source>Year (4-digit)</source>
+        <translation>年 (四位數)</translation>
+    </message>
+    <message>
+        <source>Hour (0-23)</source>
+        <translation>時 (0-23)</translation>
+    </message>
+    <message>
+        <source>Hour (00-23)</source>
+        <translation>時 (00-23)</translation>
+    </message>
+    <message>
+        <source>Minute (0-59)</source>
+        <translation>分 (0-59)</translation>
+    </message>
+    <message>
+        <source>Minute (00-59)</source>
+        <translation>分 (00-59)</translation>
+    </message>
+    <message>
+        <source>Second (0-59)</source>
+        <translation>秒 (0-59)</translation>
+    </message>
+    <message>
+        <source>Second (00-59)</source>
+        <translation>秒 (00-59)</translation>
+    </message>
+    <message>
+        <source>Milliseconds (0-999)</source>
+        <translation>毫秒 (0-999)</translation>
+    </message>
+    <message>
+        <source>Milliseconds (000-999)</source>
+        <translation>毫秒 (000-999)</translation>
+    </message>
+    <message>
+        <source>Timezone</source>
+        <translation>時區</translation>
+    </message>
+    <message>
+        <source>Operation system</source>
+        <translation>作業系統</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation>電腦名稱</translation>
+    </message>
+    <message>
+        <source>User name</source>
+        <translation>使用者名稱</translation>
+    </message>
+    <message>
+        <source>Allowed suffixes</source>
+        <translation>可用尾碼</translation>
+    </message>
+    <message>
+        <source>Illegal characters</source>
+        <translation>非法字元</translation>
+    </message>
+    <message>
+        <source>Environment variables</source>
+        <translation>環境變數</translation>
+    </message>
+    <message>
+        <source>Dates and times</source>
+        <translation>日期和時間</translation>
     </message>
 </context>
 <context>
@@ -562,107 +693,107 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Day (1-31)</source>
-        <translation>日期 (1-31)</translation>
+        <translation type="vanished">日期 (1-31)</translation>
     </message>
     <message>
         <source>Day (01-31)</source>
-        <translation>日期 (01-31)</translation>
+        <translation type="vanished">日期 (01-31)</translation>
     </message>
     <message>
         <source>Localized day name (abbr.)</source>
-        <translation>周幾</translation>
+        <translation type="vanished">周幾</translation>
     </message>
     <message>
         <source>Localized day name</source>
-        <translation>星期幾</translation>
+        <translation type="vanished">星期幾</translation>
     </message>
     <message>
         <source>Month (1-12)</source>
-        <translation>月份 (1-12)</translation>
+        <translation type="vanished">月份 (1-12)</translation>
     </message>
     <message>
         <source>Month (01-12)</source>
-        <translation>月份 (01-12)</translation>
+        <translation type="vanished">月份 (01-12)</translation>
     </message>
     <message>
         <source>Localized month name (abbr.)</source>
-        <translation>月份名稱 (小寫)</translation>
+        <translation type="vanished">月份名稱 (小寫)</translation>
     </message>
     <message>
         <source>Localized month name</source>
-        <translation>月份名稱 (大寫)</translation>
+        <translation type="vanished">月份名稱 (大寫)</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
-        <translation>年 (兩位數)</translation>
+        <translation type="vanished">年 (兩位數)</translation>
     </message>
     <message>
         <source>Year (4-digit)</source>
-        <translation>年 (四位數)</translation>
+        <translation type="vanished">年 (四位數)</translation>
     </message>
     <message>
         <source>Hour (0-23)</source>
-        <translation>時 (0-23)</translation>
+        <translation type="vanished">時 (0-23)</translation>
     </message>
     <message>
         <source>Hour (00-23)</source>
-        <translation>時 (00-23)</translation>
+        <translation type="vanished">時 (00-23)</translation>
     </message>
     <message>
         <source>Minute (0-59)</source>
-        <translation>分 (0-59)</translation>
+        <translation type="vanished">分 (0-59)</translation>
     </message>
     <message>
         <source>Minute (00-59)</source>
-        <translation>分 (00-59)</translation>
+        <translation type="vanished">分 (00-59)</translation>
     </message>
     <message>
         <source>Second (0-59)</source>
-        <translation>秒 (0-59)</translation>
+        <translation type="vanished">秒 (0-59)</translation>
     </message>
     <message>
         <source>Second (00-59)</source>
-        <translation>秒 (00-59)</translation>
+        <translation type="vanished">秒 (00-59)</translation>
     </message>
     <message>
         <source>Milliseconds (0-999)</source>
-        <translation>毫秒 (0-999)</translation>
+        <translation type="vanished">毫秒 (0-999)</translation>
     </message>
     <message>
         <source>Milliseconds (000-999)</source>
-        <translation>毫秒 (000-999)</translation>
+        <translation type="vanished">毫秒 (000-999)</translation>
     </message>
     <message>
         <source>Timezone</source>
-        <translation>時區</translation>
+        <translation type="vanished">時區</translation>
     </message>
     <message>
         <source>Operation system</source>
-        <translation>作業系統</translation>
+        <translation type="vanished">作業系統</translation>
     </message>
     <message>
         <source>Computer name</source>
-        <translation>電腦名稱</translation>
+        <translation type="vanished">電腦名稱</translation>
     </message>
     <message>
         <source>User name</source>
-        <translation>使用者名稱</translation>
+        <translation type="vanished">使用者名稱</translation>
     </message>
     <message>
         <source>Allowed suffixes</source>
-        <translation>可用尾碼</translation>
+        <translation type="vanished">可用尾碼</translation>
     </message>
     <message>
         <source>Illegal characters</source>
-        <translation>非法字元</translation>
+        <translation type="vanished">非法字元</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>環境變數</translation>
+        <translation type="vanished">環境變數</translation>
     </message>
     <message>
         <source>Dates and times</source>
-        <translation>日期和時間</translation>
+        <translation type="vanished">日期和時間</translation>
     </message>
     <message>
         <source>Error</source>
@@ -844,6 +975,50 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Import succeeded!</source>
         <translation>匯入成功！</translation>
     </message>
+    <message>
+        <source>Remove license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>矩形/橢圓</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>連續線段</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>箭頭</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>畫筆</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>螢光筆</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>文字</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>馬賽克/模糊</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>橡皮擦</translation>
+    </message>
+    <message>
+        <source>Normal snip</source>
+        <translation>普通擷圖</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -866,6 +1041,26 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
         <translation>在區域內拖曳可畫單條直線，點按可畫折線。</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>粗體</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>斜體</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation>描邊</translation>
+    </message>
+    <message>
+        <source>Copy with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save with shadow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1068,6 +1263,50 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom...</source>
         <translation>自訂...</translation>
     </message>
+    <message>
+        <source>Copy image with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy unscaled image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy unscaled image with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save image with shadow as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical flip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1150,7 +1389,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation>你注意到小紅點了嗎？點選它們可以取得提示哦！</translation>
+        <translation type="vanished">你注意到小紅點了嗎？點選它們可以取得提示哦！</translation>
+    </message>
+    <message>
+        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1243,6 +1486,22 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Open Notepad</source>
         <translation>開啟記事本</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1350,11 +1609,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>%1 is not set!</source>
-        <translation>%1 未設定！</translation>
+        <translation type="vanished">%1 未設定！</translation>
     </message>
     <message>
         <source>The file name pattern is not valid!</source>
-        <translation>無效的檔案命名規則！</translation>
+        <translation type="vanished">無效的檔案命名規則！</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1486,6 +1745,113 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Do not show this again</source>
         <translation>以後不再顯示此訊息</translation>
+    </message>
+</context>
+<context>
+    <name>UnlockProDialog</name>
+    <message>
+        <source>You are using the free version of Snipaste %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipaste offline activation request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware identity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Validity period</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste your license key here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock PRO features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PRO version provides more than 20 useful new features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please feel free to contact %1 if you need any help.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Enter license key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline activation...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of activations exceeded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error code</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1635,7 +2001,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation>輸入以英文逗號分隔的程式名稱（如 a.exe, games/*）</translation>
+        <translation type="vanished">輸入以英文逗號分隔的程式名稱（如 a.exe, games/*）</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2053,7 +2423,7 @@ Range: 10 - 100</source>
     <message>
         <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
-        <translation>被關閉的貼圖視窗可以透過再次按下貼圖鍵來還原，只要已經被關閉的貼圖數沒有超過這個值。
+        <translation type="vanished">被關閉的貼圖視窗可以透過再次按下貼圖鍵來還原，只要已經被關閉的貼圖數沒有超過這個值。
 當已關閉的貼圖數超過這個值時，最早被關閉的貼圖將被銷毀。</translation>
     </message>
     <message>
@@ -2102,11 +2472,11 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation>檔案命名</translation>
+        <translation type="vanished">檔案命名</translation>
     </message>
     <message>
         <source>Pattern:</source>
-        <translation>規則：</translation>
+        <translation type="vanished">規則：</translation>
     </message>
     <message>
         <source>Preview:</source>
@@ -2114,7 +2484,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Grammar:</source>
-        <translation>語法：</translation>
+        <translation type="vanished">語法：</translation>
     </message>
     <message>
         <source>Auto Save</source>
@@ -2138,7 +2508,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>* Press Backspace to clear</source>
-        <translation>* 按 Backspace 鍵清除目前快速鍵</translation>
+        <translation type="vanished">* 按 Backspace 鍵清除目前快速鍵</translation>
     </message>
     <message>
         <source>Image Operations</source>
@@ -2248,7 +2618,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Folder:</source>
-        <translation>目錄：</translation>
+        <translation type="vanished">目錄：</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2540,7 +2910,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Copy image as file</source>
-        <translation>複製為檔案</translation>
+        <translation type="vanished">複製為檔案</translation>
     </message>
     <message>
         <source>File</source>
@@ -2672,11 +3042,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Unlock PRO features!</source>
-        <translation>解鎖專業版功能！</translation>
+        <translation type="vanished">解鎖專業版功能！</translation>
     </message>
     <message>
         <source>Buy PRO</source>
-        <translation>購買專業版</translation>
+        <translation type="vanished">購買專業版</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
@@ -2733,6 +3103,44 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>&apos;Enter&apos; key:</source>
         <translation>Enter 鍵：</translation>
+    </message>
+    <message>
+        <source>Default annotation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
+When the limit is reached, the oldest one will be destroyed.</source>
+        <translation>被關閉的貼圖視窗可以透過再次按下貼圖鍵來還原，只要已經被關閉的貼圖數沒有超過這個值。
+當已關閉的貼圖數超過這個值時，最早被關閉的貼圖將被銷毀。</translation>
+    </message>
+    <message>
+        <source>Manual Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Naming Rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Also copy image as file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Press Backspace to remove the hotkey</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

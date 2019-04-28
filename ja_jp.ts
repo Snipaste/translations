@@ -105,11 +105,19 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation>ダウンロードフォルダを開く</translation>
+        <translation type="vanished">ダウンロードフォルダを開く</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation>Snipasteを終了した後、Appを解凍してアプリケーションフォルダにドラッグしてください。</translation>
+        <translation type="vanished">Snipasteを終了した後、Appを解凍してアプリケーションフォルダにドラッグしてください。</translation>
+    </message>
+    <message>
+        <source>Show in Finder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install now</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -183,6 +191,10 @@ Please contact the developer.</source>
     <message>
         <source>The command cannot be empty!</source>
         <translation>名前を正しく入力してください！</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -392,6 +404,14 @@ PRO機能を楽しむために今すぐ再起動しますか？</translation>
         <source>Later</source>
         <translation>後で</translation>
     </message>
+    <message>
+        <source>Remove license key? Snipaste will be unregistered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
 </context>
 <context>
     <name>Licensing_uwp</name>
@@ -447,94 +467,10 @@ PRO機能を楽しむために今すぐ再起動しますか？</translation>
     </message>
 </context>
 <context>
-    <name>OptionsDialog</name>
+    <name>NamingRulesDialog</name>
     <message>
-        <source>-bit</source>
-        <translation> ビット</translation>
-    </message>
-    <message>
-        <source>Greek</source>
-        <translation>ギリシャ語</translation>
-    </message>
-    <message>
-        <source>Icons</source>
-        <translation>アイコン</translation>
-    </message>
-    <message>
-        <source>Weibo</source>
-        <translation>ウェイボー</translation>
-    </message>
-    <message>
-        <source>Check for updates</source>
-        <translation>更新のチェック</translation>
-    </message>
-    <message>
-        <source>Checking...</source>
-        <translation>チェック中…</translation>
-    </message>
-    <message>
-        <source>Home Page</source>
-        <translation>ホームページ</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>貼り付けホットキー</translation>
-    </message>
-    <message>
-        <source>Follow</source>
-        <translation>フォロー</translation>
-    </message>
-    <message>
-        <source>German</source>
-        <translation>ドイツ語</translation>
-    </message>
-    <message>
-        <source>Snip hotkey</source>
-        <translation>スニップホットキー</translation>
-    </message>
-    <message>
-        <source>Preview</source>
-        <translation>プレビュー</translation>
-    </message>
-    <message>
-        <source>Translators</source>
-        <translation>翻訳者</translation>
-    </message>
-    <message>
-        <source>Support</source>
-        <translation>サポート</translation>
-    </message>
-    <message>
-        <source>Swedish</source>
-        <translation>スウェーデン語</translation>
-    </message>
-    <message>
-        <source>Contributors</source>
-        <translation>協力者</translation>
-    </message>
-    <message>
-        <source>Feedback</source>
-        <translation>フィードバック</translation>
-    </message>
-    <message>
-        <source>Traditional Chinese</source>
-        <translation>中国語（繁体字）</translation>
-    </message>
-    <message>
-        <source>Thank you for your support!</source>
-        <translation>ご協力ありがとうございます！</translation>
-    </message>
-    <message>
-        <source>Documentation</source>
-        <translation>ドキュメント</translation>
-    </message>
-    <message>
-        <source>Japanese</source>
-        <translation>日本語</translation>
-    </message>
-    <message>
-        <source>Polish</source>
-        <translation>ポーランド語</translation>
+        <source>Naming Rules</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -639,6 +575,201 @@ PRO機能を楽しむために今すぐ再起動しますか？</translation>
     <message>
         <source>Dates and times</source>
         <translation>日付と時刻</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsDialog</name>
+    <message>
+        <source>-bit</source>
+        <translation> ビット</translation>
+    </message>
+    <message>
+        <source>Greek</source>
+        <translation>ギリシャ語</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation>アイコン</translation>
+    </message>
+    <message>
+        <source>Weibo</source>
+        <translation>ウェイボー</translation>
+    </message>
+    <message>
+        <source>Check for updates</source>
+        <translation>更新のチェック</translation>
+    </message>
+    <message>
+        <source>Checking...</source>
+        <translation>チェック中…</translation>
+    </message>
+    <message>
+        <source>Home Page</source>
+        <translation>ホームページ</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>貼り付けホットキー</translation>
+    </message>
+    <message>
+        <source>Follow</source>
+        <translation>フォロー</translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation>ドイツ語</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>スニップホットキー</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>プレビュー</translation>
+    </message>
+    <message>
+        <source>Translators</source>
+        <translation>翻訳者</translation>
+    </message>
+    <message>
+        <source>Support</source>
+        <translation>サポート</translation>
+    </message>
+    <message>
+        <source>Swedish</source>
+        <translation>スウェーデン語</translation>
+    </message>
+    <message>
+        <source>Contributors</source>
+        <translation>協力者</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>フィードバック</translation>
+    </message>
+    <message>
+        <source>Traditional Chinese</source>
+        <translation>中国語（繁体字）</translation>
+    </message>
+    <message>
+        <source>Thank you for your support!</source>
+        <translation>ご協力ありがとうございます！</translation>
+    </message>
+    <message>
+        <source>Documentation</source>
+        <translation>ドキュメント</translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation>日本語</translation>
+    </message>
+    <message>
+        <source>Polish</source>
+        <translation>ポーランド語</translation>
+    </message>
+    <message>
+        <source>Day (1-31)</source>
+        <translation type="vanished">日 (1-31)</translation>
+    </message>
+    <message>
+        <source>Day (01-31)</source>
+        <translation type="vanished">日 (01-31)</translation>
+    </message>
+    <message>
+        <source>Localized day name (abbr.)</source>
+        <translation type="vanished">ローカライズされた日名 (abbr.)</translation>
+    </message>
+    <message>
+        <source>Localized day name</source>
+        <translation type="vanished">ローカライズされた日名</translation>
+    </message>
+    <message>
+        <source>Month (1-12)</source>
+        <translation type="vanished">月 (1-12)</translation>
+    </message>
+    <message>
+        <source>Month (01-12)</source>
+        <translation type="vanished">月 (01-12)</translation>
+    </message>
+    <message>
+        <source>Localized month name (abbr.)</source>
+        <translation type="vanished">ローカライズされた月名 (abbr.)</translation>
+    </message>
+    <message>
+        <source>Localized month name</source>
+        <translation type="vanished">ローカライズされた月名</translation>
+    </message>
+    <message>
+        <source>Year (2-digit)</source>
+        <translation type="vanished">年（2桁）</translation>
+    </message>
+    <message>
+        <source>Year (4-digit)</source>
+        <translation type="vanished">年（4桁）</translation>
+    </message>
+    <message>
+        <source>Hour (0-23)</source>
+        <translation type="vanished">時 (0-23)</translation>
+    </message>
+    <message>
+        <source>Hour (00-23)</source>
+        <translation type="vanished">時 (00-23)</translation>
+    </message>
+    <message>
+        <source>Minute (0-59)</source>
+        <translation type="vanished">分 (0-59)</translation>
+    </message>
+    <message>
+        <source>Minute (00-59)</source>
+        <translation type="vanished">分 (00-59)</translation>
+    </message>
+    <message>
+        <source>Second (0-59)</source>
+        <translation type="vanished">秒 (0-59)</translation>
+    </message>
+    <message>
+        <source>Second (00-59)</source>
+        <translation type="vanished">秒 (00-59)</translation>
+    </message>
+    <message>
+        <source>Milliseconds (0-999)</source>
+        <translation type="vanished">ミリ秒 (0-999)</translation>
+    </message>
+    <message>
+        <source>Milliseconds (000-999)</source>
+        <translation type="vanished">ミリ秒 (000-999)</translation>
+    </message>
+    <message>
+        <source>Timezone</source>
+        <translation type="vanished">時間帯</translation>
+    </message>
+    <message>
+        <source>Operation system</source>
+        <translation type="vanished">オペレーションシステム</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation type="vanished">コンピュータ名</translation>
+    </message>
+    <message>
+        <source>User name</source>
+        <translation type="vanished">ユーザー名</translation>
+    </message>
+    <message>
+        <source>Allowed suffixes</source>
+        <translation type="vanished">許可された拡張子</translation>
+    </message>
+    <message>
+        <source>Illegal characters</source>
+        <translation type="vanished">不正な文字</translation>
+    </message>
+    <message>
+        <source>Environment variables</source>
+        <translation type="vanished">環境変数</translation>
+    </message>
+    <message>
+        <source>Dates and times</source>
+        <translation type="vanished">日付と時刻</translation>
     </message>
     <message>
         <source>Error</source>
@@ -843,6 +974,50 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Import succeeded!</source>
         <translation>インポートに成功しました！</translation>
     </message>
+    <message>
+        <source>Remove license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>長方形/楕円</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>折れ線</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>矢印</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>ブラシ</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>マーカー</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>テキスト</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>モザイク/ぼかし</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>消しゴム</translation>
+    </message>
+    <message>
+        <source>Normal snip</source>
+        <translation>ノーマルスニップ</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -865,6 +1040,26 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
         <translation>ドラッグして1本の線を描く、或はクリックしてラインストリップを描画します。</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>太字</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>斜体</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation>輪郭</translation>
+    </message>
+    <message>
+        <source>Copy with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save with shadow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1067,6 +1262,50 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom...</source>
         <translation>カスタム...</translation>
     </message>
+    <message>
+        <source>Copy image with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy unscaled image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy unscaled image with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save image with shadow as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical flip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1148,7 +1387,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation>赤い点に気づいましたか？ 役に立つヒントを得るには、それをクリックしてください！</translation>
+        <translation type="vanished">赤い点に気づいましたか？ 役に立つヒントを得るには、それをクリックしてください！</translation>
+    </message>
+    <message>
+        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1241,6 +1484,22 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Open Notepad</source>
         <translation>ノットパッドを開く</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1392,7 +1651,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The file name pattern is not valid!</source>
-        <translation>ファイル名のパターンは有効ではありません！</translation>
+        <translation type="vanished">ファイル名のパターンは有効ではありません！</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1420,7 +1679,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>%1 is not set!</source>
-        <translation>%1はセットしていません！</translation>
+        <translation type="vanished">%1はセットしていません！</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -1484,6 +1743,113 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Do not show this again</source>
         <translation>今度表示しない</translation>
+    </message>
+</context>
+<context>
+    <name>UnlockProDialog</name>
+    <message>
+        <source>You are using the free version of Snipaste %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipaste offline activation request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware identity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Validity period</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste your license key here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock PRO features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PRO version provides more than 20 useful new features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please feel free to contact %1 if you need any help.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Enter license key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation type="unfinished">アクティベート</translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline activation...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of activations exceeded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error code</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1633,7 +1999,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation>実行可能ファイル名をコンマで区切って入力します（例：a.exe、games/*）。</translation>
+        <translation type="vanished">実行可能ファイル名をコンマで区切って入力します（例：a.exe、games/*）。</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1873,7 +2243,7 @@ Skypeなど特別なプログラムに貼り付け可能になります。ただ
     </message>
     <message>
         <source>* Press Backspace to clear</source>
-        <translation>* Backspaceキーを押して現在のホットキーを削除</translation>
+        <translation type="vanished">* Backspaceキーを押して現在のホットキーを削除</translation>
     </message>
     <message>
         <source>Use snipping position</source>
@@ -1996,7 +2366,7 @@ You can also find this option in the context menu of individual image window.</s
     <message>
         <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
-        <translation>閉じられたスニップの数はこの値を超えてない場合、もう一度貼り付けキーを押すと回復できます
+        <translation type="vanished">閉じられたスニップの数はこの値を超えてない場合、もう一度貼り付けキーを押すと回復できます
 超えていた場合は、閉じる順番で最も古いスニップが廃棄する。</translation>
     </message>
     <message>
@@ -2013,7 +2383,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Folder:</source>
-        <translation>フォルダー:</translation>
+        <translation type="vanished">フォルダー:</translation>
     </message>
     <message>
         <source>Zoom by mouse wheel</source>
@@ -2166,11 +2536,11 @@ Range: 10 - 100</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation>ファイル名</translation>
+        <translation type="vanished">ファイル名</translation>
     </message>
     <message>
         <source>Pattern:</source>
-        <translation>パターン：</translation>
+        <translation type="vanished">パターン：</translation>
     </message>
     <message>
         <source>Preview:</source>
@@ -2178,7 +2548,7 @@ Range: 10 - 100</source>
     </message>
     <message>
         <source>Grammar:</source>
-        <translation>文法：</translation>
+        <translation type="vanished">文法：</translation>
     </message>
     <message>
         <source>Licenses</source>
@@ -2538,7 +2908,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Copy image as file</source>
-        <translation>画像をファイルとしてコピー</translation>
+        <translation type="vanished">画像をファイルとしてコピー</translation>
     </message>
     <message>
         <source>File</source>
@@ -2670,11 +3040,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Unlock PRO features!</source>
-        <translation>PRO機能のロックを解除！</translation>
+        <translation type="vanished">PRO機能のロックを解除！</translation>
     </message>
     <message>
         <source>Buy PRO</source>
-        <translation>PROを購入する</translation>
+        <translation type="vanished">PROを購入する</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
@@ -2731,6 +3101,44 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>&apos;Enter&apos; key:</source>
         <translation>&apos;Enter&apos; キー:</translation>
+    </message>
+    <message>
+        <source>Default annotation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
+When the limit is reached, the oldest one will be destroyed.</source>
+        <translation>閉じられたスニップの数はこの値を超えてない場合、もう一度貼り付けキーを押すと回復できます
+超えていた場合は、閉じる順番で最も古いスニップが廃棄する。</translation>
+    </message>
+    <message>
+        <source>Manual Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Naming Rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Also copy image as file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Press Backspace to remove the hotkey</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
