@@ -104,12 +104,12 @@ Please contact the developer.</source>
         <translation>取消</translation>
     </message>
     <message>
-        <source>Open Download folder</source>
-        <translation>打开下载文件夹</translation>
+        <source>Show in Finder</source>
+        <translation>在访达中显示</translation>
     </message>
     <message>
-        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation>请退出 Snipaste 后，将其解压后拖到&quot;应用程序&quot;文件夹来完成更新。</translation>
+        <source>Install now</source>
+        <translation>现在安装</translation>
     </message>
 </context>
 <context>
@@ -183,6 +183,10 @@ Please contact the developer.</source>
     <message>
         <source>Are you sure you want to remove this command?</source>
         <translation>确定要移除这个命令吗？</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation>输入以英文逗号分隔的应用包名/路径（如 a.exe, games/*）</translation>
     </message>
 </context>
 <context>
@@ -392,6 +396,21 @@ Restart now to enjoy PRO features?</source>
         <source>Later</source>
         <translation>稍后</translation>
     </message>
+    <message>
+        <source>Remove license key?
+
+Snipaste will be unregistered.</source>
+        <translation type="obsolete">移除授权信息？
+</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Remove license key? Snipaste will be unregistered.</source>
+        <translation>移除授权信息？Snipaste 将变成未注册状态。</translation>
+    </message>
 </context>
 <context>
     <name>Licensing_uwp</name>
@@ -444,6 +463,117 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Play</source>
         <translation>播放</translation>
+    </message>
+</context>
+<context>
+    <name>NamingRulesDialog</name>
+    <message>
+        <source>Naming Rules</source>
+        <translation>命名规则</translation>
+    </message>
+    <message>
+        <source>Day (1-31)</source>
+        <translation>日期 (1-31)</translation>
+    </message>
+    <message>
+        <source>Day (01-31)</source>
+        <translation>日期 (01-31)</translation>
+    </message>
+    <message>
+        <source>Localized day name (abbr.)</source>
+        <translation>周几</translation>
+    </message>
+    <message>
+        <source>Localized day name</source>
+        <translation>星期几</translation>
+    </message>
+    <message>
+        <source>Month (1-12)</source>
+        <translation>月份 (1-12)</translation>
+    </message>
+    <message>
+        <source>Month (01-12)</source>
+        <translation>月份 (01-12)</translation>
+    </message>
+    <message>
+        <source>Localized month name (abbr.)</source>
+        <translation>月份名 (小写)</translation>
+    </message>
+    <message>
+        <source>Localized month name</source>
+        <translation>月份名 (大写)</translation>
+    </message>
+    <message>
+        <source>Year (2-digit)</source>
+        <translation>年 (两位数)</translation>
+    </message>
+    <message>
+        <source>Year (4-digit)</source>
+        <translation>年 (四位数)</translation>
+    </message>
+    <message>
+        <source>Hour (0-23)</source>
+        <translation>时 (0-23)</translation>
+    </message>
+    <message>
+        <source>Hour (00-23)</source>
+        <translation>时 (00-23)</translation>
+    </message>
+    <message>
+        <source>Minute (0-59)</source>
+        <translation>分 (0-59)</translation>
+    </message>
+    <message>
+        <source>Minute (00-59)</source>
+        <translation>分 (00-59)</translation>
+    </message>
+    <message>
+        <source>Second (0-59)</source>
+        <translation>秒 (0-59)</translation>
+    </message>
+    <message>
+        <source>Second (00-59)</source>
+        <translation>秒 (00-59)</translation>
+    </message>
+    <message>
+        <source>Milliseconds (0-999)</source>
+        <translation>毫秒 (0-999)</translation>
+    </message>
+    <message>
+        <source>Milliseconds (000-999)</source>
+        <translation>毫秒 (000-999)</translation>
+    </message>
+    <message>
+        <source>Timezone</source>
+        <translation>时区</translation>
+    </message>
+    <message>
+        <source>Operation system</source>
+        <translation>操作系统</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation>计算机名</translation>
+    </message>
+    <message>
+        <source>User name</source>
+        <translation>用户名</translation>
+    </message>
+    <message>
+        <source>Allowed suffixes</source>
+        <translation>可用后缀</translation>
+    </message>
+    <message>
+        <source>Illegal characters</source>
+        <translation>非法字符</translation>
+    </message>
+    <message>
+        <source>Environment variables</source>
+        <translation>环境变量</translation>
+    </message>
+    <message>
+        <source>Dates and times</source>
+        <translation>日期和时间</translation>
     </message>
 </context>
 <context>
@@ -559,110 +689,6 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Contributors</source>
         <translation>贡献者</translation>
-    </message>
-    <message>
-        <source>Day (1-31)</source>
-        <translation>日期 (1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation>日期 (01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation>周几</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation>星期几</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation>月份 (1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation>月份 (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation>月份名 (小写)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation>月份名 (大写)</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation>年 (两位数)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation>年 (四位数)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation>时 (0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation>时 (00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation>分 (0-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation>分 (00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation>秒 (0-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation>秒 (00-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation>毫秒 (0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation>毫秒 (000-999)</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation>时区</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation>操作系统</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation>计算机名</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation>用户名</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation>可用后缀</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation>非法字符</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation>环境变量</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation>日期和时间</translation>
     </message>
     <message>
         <source>Error</source>
@@ -844,6 +870,50 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Import succeeded!</source>
         <translation>导入成功！</translation>
     </message>
+    <message>
+        <source>Remove license</source>
+        <translation>移除授权信息</translation>
+    </message>
+    <message>
+        <source>Purchase PRO</source>
+        <translation>购买专业版</translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>矩形/椭圆</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>折线</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>箭头</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>画笔</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>记号笔</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>文本</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>马赛克/模糊</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>橡皮擦</translation>
+    </message>
+    <message>
+        <source>Normal snip</source>
+        <translation>普通截图</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -866,6 +936,26 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
         <translation>在区域内拖拽可画单条直线，点按可画折线。</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>粗体</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>斜体</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation>描边</translation>
+    </message>
+    <message>
+        <source>Copy with shadow</source>
+        <translation>带阴影复制</translation>
+    </message>
+    <message>
+        <source>Save with shadow</source>
+        <translation>带阴影保存</translation>
     </message>
 </context>
 <context>
@@ -1068,6 +1158,50 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom...</source>
         <translation>自定义...</translation>
     </message>
+    <message>
+        <source>Copy image with shadow</source>
+        <translation>复制图像（带阴影）</translation>
+    </message>
+    <message>
+        <source>Copy unscaled image</source>
+        <translation>复制原始大小图像</translation>
+    </message>
+    <message>
+        <source>Copy unscaled image with shadow</source>
+        <translation>复制原始大小图像（带阴影）</translation>
+    </message>
+    <message>
+        <source>Save image with shadow as...</source>
+        <translation>图像（带阴影）另存为...</translation>
+    </message>
+    <message>
+        <source>Image processing</source>
+        <translation>图像处理</translation>
+    </message>
+    <message>
+        <source>Previous frame</source>
+        <translation>上一帧</translation>
+    </message>
+    <message>
+        <source>Rotate left</source>
+        <translation>向左旋转</translation>
+    </message>
+    <message>
+        <source>Next frame</source>
+        <translation>下一帧</translation>
+    </message>
+    <message>
+        <source>Rotate right</source>
+        <translation>向右旋转</translation>
+    </message>
+    <message>
+        <source>Horizontal flip</source>
+        <translation>水平翻转</translation>
+    </message>
+    <message>
+        <source>Vertical flip</source>
+        <translation>垂直翻转</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1149,8 +1283,8 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>选择文件</translation>
     </message>
     <message>
-        <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation>你注意到小红点了吗？点击它们可以获取提示哦！</translation>
+        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
+        <translation>你注意到工具条上的小红点了吗？\n点击它们可以获取提示哦！</translation>
     </message>
 </context>
 <context>
@@ -1243,6 +1377,22 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Snip and copy the full screen</source>
         <translation>全屏截图并复制</translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation>拾取色值</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>粘贴为图像</translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation>粘贴为纯文本</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation>进入白板模式（双击 Esc 以退出）</translation>
     </message>
 </context>
 <context>
@@ -1341,20 +1491,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>退出</translation>
     </message>
     <message>
-        <source>%1 is not set!</source>
-        <translation>未设置 %1！</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
         <translation>无效的命令行参数。</translation>
-    </message>
-    <message>
-        <source>The file name pattern is not valid!</source>
-        <translation>无效的文件命名规则！</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1486,6 +1628,113 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Do not show this again</source>
         <translation>以后不再显示此消息</translation>
+    </message>
+</context>
+<context>
+    <name>UnlockProDialog</name>
+    <message>
+        <source>You are using the free version of Snipaste %1 %2</source>
+        <translation>你正在使用免费版 Snipaste %1 %2</translation>
+    </message>
+    <message>
+        <source>Snipaste offline activation request</source>
+        <translation>Snipaste 离线激活请求</translation>
+    </message>
+    <message>
+        <source>Unlock PRO features</source>
+        <translation>解锁专业版</translation>
+    </message>
+    <message>
+        <source>The PRO version provides more than 20 useful new features!</source>
+        <translation>专业版提供了 20+ 实用的新功能！</translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
+        <translation>请访问 &lt;a href=&quot;%1&quot;&gt;网站&lt;/a&gt; 了解更多信息。</translation>
+    </message>
+    <message>
+        <source>Please feel free to contact %1 if you need any help.</source>
+        <translation>如需帮助请联系 %1.</translation>
+    </message>
+    <message>
+        <source>Purchase</source>
+        <translation>购买</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation>激活</translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation>上一步</translation>
+    </message>
+    <message>
+        <source>Offline activation...</source>
+        <translation>离线激活...</translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation>重试</translation>
+    </message>
+    <message>
+        <source>Activation failed</source>
+        <translation>激活失败</translation>
+    </message>
+    <message>
+        <source>Invalid license.</source>
+        <translation>无效的授权码。</translation>
+    </message>
+    <message>
+        <source>Number of activations exceeded.</source>
+        <translation>已超过最大激活次数。</translation>
+    </message>
+    <message>
+        <source>Network error.</source>
+        <translation>网络错误。</translation>
+    </message>
+    <message>
+        <source>License expired.</source>
+        <translation>授权过期。</translation>
+    </message>
+    <message>
+        <source>Validity period</source>
+        <translation>有效期</translation>
+    </message>
+    <message>
+        <source>Error code</source>
+        <translation>错误码</translation>
+    </message>
+    <message>
+        <source>License key</source>
+        <translation>授权码</translation>
+    </message>
+    <message>
+        <source>Paste your license key here</source>
+        <translation>请在这里粘贴你的授权码</translation>
+    </message>
+    <message>
+        <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
+        <translation>%1 只对个人用户免费。如需在公司使用，请购买专业版授权。</translation>
+    </message>
+    <message>
+        <source>Hardware identity</source>
+        <translation>硬件标识码</translation>
+    </message>
+    <message>
+        <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
+        <translation>请为当前电脑输入适当的有效期。离线授权在有效期内无法被撤销。</translation>
+    </message>
+    <message>
+        <source>Invalid license key.</source>
+        <translation>无效的授权码。</translation>
+    </message>
+    <message>
+        <source>Enter license key</source>
+        <translation>输入授权码</translation>
     </message>
 </context>
 <context>
@@ -1634,8 +1883,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>忽略程序列表:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation>输入以英文逗号分隔的程序文件名（如 a.exe, games/*）</translation>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>输入以英文逗号分隔的程序文件名/路径（如 a.exe, games/*）</translation>
     </message>
 </context>
 <context>
@@ -1708,12 +1957,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Auto backup</source>
         <translation>自动备份</translation>
-    </message>
-    <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation>被关闭的贴图窗口可以通过再次按下贴图键来恢复，只要已经被关闭的贴图数没有超过这个值。
-当已关闭的贴图数超过这个值时，最早被关闭的贴图将被销毁。</translation>
     </message>
     <message>
         <source>Text to Image</source>
@@ -2057,20 +2300,8 @@ Specify -1 to let Snipaste decide for you.</source>
 设为 -1，Snipaste 会帮你做决定。</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation>文件命名</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation>规则:</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>预览:</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation>语法:</translation>
     </message>
     <message>
         <source>Auto Save</source>
@@ -2091,10 +2322,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Global Hotkeys</source>
         <translation>全局快捷键</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation>* 按 Backspace 键清除当前快捷键</translation>
     </message>
     <message>
         <source>Image Operations</source>
@@ -2195,10 +2422,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Quick Save</source>
         <translation>快速保存</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation>目录:</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2563,10 +2786,6 @@ You will gain better response time on entering snipping.</source>
         <translation>这样你可以直接将图片粘贴到文件管理器中。</translation>
     </message>
     <message>
-        <source>Copy image as file</source>
-        <translation>复制为文件</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>文件</translation>
     </message>
@@ -2671,14 +2890,6 @@ You will gain better response time on entering snipping.</source>
         <translation>评价</translation>
     </message>
     <message>
-        <source>Unlock PRO features!</source>
-        <translation>解锁专业版功能！</translation>
-    </message>
-    <message>
-        <source>Buy PRO</source>
-        <translation>购买专业版</translation>
-    </message>
-    <message>
         <source>I&apos;m not interest in PRO</source>
         <translation>我对专业版不感兴趣</translation>
     </message>
@@ -2733,6 +2944,44 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>&apos;Enter&apos; key:</source>
         <translation>回车键:</translation>
+    </message>
+    <message>
+        <source>Default annotation:</source>
+        <translation>默认标注:</translation>
+    </message>
+    <message>
+        <source>Manual Save</source>
+        <translation>手动保存</translation>
+    </message>
+    <message>
+        <source>File name:</source>
+        <translation>文件名:</translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation>打开文件夹</translation>
+    </message>
+    <message>
+        <source>Change Folder</source>
+        <translation>更改文件夹</translation>
+    </message>
+    <message>
+        <source>Naming Rules</source>
+        <translation>命名规则</translation>
+    </message>
+    <message>
+        <source>Also copy image as file</source>
+        <translation>同时复制为文件</translation>
+    </message>
+    <message>
+        <source>* Press Backspace to remove the hotkey</source>
+        <translation>* 按 Backspace 键清除当前快捷键</translation>
+    </message>
+    <message>
+        <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
+When the limit is reached, the oldest one will be destroyed.</source>
+        <translation>被关闭的贴图窗口可以通过再次按下贴图键来恢复，只要已经被关闭的贴图数没有超过这个值。
+当已关闭的贴图数超过这个值时，最早被关闭的贴图将被销毁。</translation>
     </message>
 </context>
 <context>
@@ -2864,6 +3113,13 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Tips:</source>
         <translation>提示:</translation>
+    </message>
+</context>
+<context>
+    <name>unlockprodialog</name>
+    <message>
+        <source>Enter license</source>
+        <translation type="obsolete">输入授权</translation>
     </message>
 </context>
 <context>
