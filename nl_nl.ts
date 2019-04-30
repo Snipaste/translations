@@ -115,11 +115,11 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>In Verkenner tonen</translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu installeren</translation>
     </message>
 </context>
 <context>
@@ -408,7 +408,7 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licentiesleutel verwijderen? Snipaste raakt dan ongeregistreerd.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -472,7 +472,7 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Naamgevingsregels</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -979,11 +979,11 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"></translation>
+        <translation>Licentie verwijderen</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO-licentie aanschaffen</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1058,11 +1058,11 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Copy with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëren met schaduw</translation>
     </message>
     <message>
         <source>Save with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan met schaduw</translation>
     </message>
 </context>
 <context>
@@ -1267,47 +1267,47 @@ De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Voorkeuren - Sneltoet
     </message>
     <message>
         <source>Copy image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding met schaduw kopiëren</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding onverschaald kopiëren</translation>
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding met schaduw onverschaald kopiëren</translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding met schaduw opslaan als…</translation>
     </message>
     <message>
         <source>Image processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Beeldbewerking</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorig beeld</translation>
     </message>
     <message>
         <source>Rotate left</source>
-        <translation type="unfinished"></translation>
+        <translation>Linksom draaien</translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgend beeld</translation>
     </message>
     <message>
         <source>Rotate right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsom draaien</translation>
     </message>
     <message>
         <source>Horizontal flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontaal spiegelen</translation>
     </message>
     <message>
         <source>Vertical flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Verticaal spiegelen</translation>
     </message>
 </context>
 <context>
@@ -1395,7 +1395,7 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziet u de rode stippen op de taakbalk? Klik erop voor handige tips!</translation>
     </message>
 </context>
 <context>
@@ -1491,19 +1491,19 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Whiteboard-modus starten (Dubbelklik Esc om te stoppen)</translation>
     </message>
     <message>
         <source>Pick color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een kleur</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken als afbeelding</translation>
     </message>
     <message>
         <source>Paste as plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken als tekst</translation>
     </message>
 </context>
 <context>
@@ -1699,7 +1699,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
-        <translation>Snipaste %1 is uit.</translation>
+        <translation>Snipaste %1 is uit!</translation>
     </message>
     <message>
         <source>Click here to update now</source>
@@ -1753,55 +1753,55 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>U gebruikt de gratis verie van Snipaste %1 %2</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste offline activeringsverzoek</translation>
     </message>
     <message>
         <source>Hardware identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware-identiteit</translation>
     </message>
     <message>
         <source>Validity period</source>
-        <translation type="unfinished"></translation>
+        <translation>Geldigheidsperiode</translation>
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer een juiste periodetijd in voor deze PC. De offline-licentie kan gedurende deze periode niet worden verwijderd.</translation>
     </message>
     <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
+        <translation>Licentiesleutel</translation>
     </message>
     <message>
         <source>Paste your license key here</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak hier uw licentiesleutel</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO-functionaliteit ontgrendelen</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 is alleen gratis voor PERSOONLIJK gebruik. Voor gebruik in een werkomgeving is een PRO-licentie vereist.</translation>
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="unfinished"></translation>
+        <translation>De PRO-versie biedt meer dan 20 nuttige extra functies!</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezoek &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; voor meer informatie.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neem gerust contact op met %1 als u enige hulp behoeft.</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanschaffen</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1809,51 +1809,51 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Enter license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer een licentiesleutel in</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Activeren</translation>
+        <translation>Activeren</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Terug</translation>
     </message>
     <message>
         <source>Offline activation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Offline activering…</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Opnieuw proberen</translation>
     </message>
     <message>
         <source>Activation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Activering mislukt</translation>
     </message>
     <message>
         <source>Invalid license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldige licentie.</translation>
     </message>
     <message>
         <source>Number of activations exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het aantal activeringen is overschreden.</translation>
     </message>
     <message>
         <source>Network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Netwerkfout.</translation>
     </message>
     <message>
         <source>License expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licentie verlopen.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldige licentiesleutel</translation>
     </message>
     <message>
         <source>Error code</source>
-        <translation type="unfinished"></translation>
+        <translation>Foutnummer</translation>
     </message>
 </context>
 <context>
@@ -2003,7 +2003,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer uitvoerbare bestanden/paden in gescheiden door komma&apos;s (bij. a.exe, games/*)</translation>
     </message>
 </context>
 <context>
@@ -2317,7 +2317,7 @@ Gebruik -1 voor automatische kwaliteit.</translation>
         <source>Beta versions may contain more bugs.
 Please report to the developer if you find any.</source>
         <translation>Beta-versies kunnen problemen bevatten.
-Meld deze wanneer u ze vindt.</translation>
+Meld deze a.u.b. wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>Licenses</source>
@@ -3105,7 +3105,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standaardaantekening</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -3115,31 +3115,31 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Handmatig opslaan</translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandsnaam:</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Map openen</translation>
     </message>
     <message>
         <source>Change Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Map wijzigen</translation>
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Naamgevinsregels</translation>
     </message>
     <message>
         <source>Also copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding ook kopiëren als bestand</translation>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>* Toets Backspace om de sneltoets te wissen</translation>
     </message>
 </context>
 <context>
