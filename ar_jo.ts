@@ -104,20 +104,12 @@ Please contact the developer.</source>
         <translation>الغاء الامر</translation>
     </message>
     <message>
-        <source>Open Download folder</source>
-        <translation type="vanished">فتح مجلد التحميل</translation>
-    </message>
-    <message>
-        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="vanished">Snipaste الرجاء فك الضغط واسحب التطبيق الى مجلد التطبيقات بعد الاقلاع عن.</translation>
-    </message>
-    <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -194,7 +186,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -405,7 +397,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة مفتاح الرخصة؟ لــ Snipaste الغير مسجلة.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -469,7 +461,7 @@ Restart now to enjoy PRO features?</source>
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>قواعد التسمية</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -591,10 +583,6 @@ Restart now to enjoy PRO features?</source>
         <translation>لاشيء</translation>
     </message>
     <message>
-        <source>Timezone</source>
-        <translation type="vanished">المنطقة الزمنية</translation>
-    </message>
-    <message>
         <source>Debug</source>
         <translation>التصحيح</translation>
     </message>
@@ -627,10 +615,6 @@ Restart now to enjoy PRO features?</source>
         <translation>حفظ الى ملف</translation>
     </message>
     <message>
-        <source>Second (00-59)</source>
-        <translation type="vanished">الثانية (00-59)</translation>
-    </message>
-    <message>
         <source>Pin to screen</source>
         <translation>تعليق للشاشة</translation>
     </message>
@@ -643,20 +627,8 @@ Restart now to enjoy PRO features?</source>
         <translation>بلا وكيل</translation>
     </message>
     <message>
-        <source>Milliseconds (0-999)</source>
-        <translation type="vanished">مللي ثانيه (0-999)</translation>
-    </message>
-    <message>
         <source>Checking...</source>
         <translation>التحقق...</translation>
-    </message>
-    <message>
-        <source>Day (1-31)</source>
-        <translation type="vanished">اليوم (1-31)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation type="vanished">ساعة (0-23)</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -671,21 +643,9 @@ Restart now to enjoy PRO features?</source>
         <translation>لصق مفتاح نشطة</translation>
     </message>
     <message>
-        <source>Localized month name (abbr.)</source>
-        <translation type="vanished">اسم الشهر المترجم (ابر)</translation>
-    </message>
-    <message>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
         <translation>حدث خطأ ما مع اختصار بدء التشغيل. تم الغاء بدء التشغيل في التمهيد.</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation type="vanished">اسم الشهر المترجم</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation type="vanished">ميلي ثانية (000-999)</translation>
     </message>
     <message>
         <source>Follow</source>
@@ -716,14 +676,6 @@ Startup on boot has been cancelled.</source>
         <translation>البولندي</translation>
     </message>
     <message>
-        <source>Computer name</source>
-        <translation type="vanished">اسم الحاسوب</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation type="vanished">الدقيقة (0-59)</translation>
-    </message>
-    <message>
         <source>Snip hotkey</source>
         <translation>لصق مفتاح نشط</translation>
     </message>
@@ -736,25 +688,9 @@ Startup on boot has been cancelled.</source>
         <translation>نسخ الى الحافظة</translation>
     </message>
     <message>
-        <source>Localized day name (abbr.)</source>
-        <translation type="vanished">الاسم النهاري المحلي (abbr. )</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation type="vanished">شهر (1-12)</translation>
-    </message>
-    <message>
         <source>Copyright</source>
         <translation>حقوق النشر
 </translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation type="vanished">السنة (2-ارقام)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation type="vanished">السنة (4 ارقام)</translation>
     </message>
     <message>
         <source>Japanese</source>
@@ -773,10 +709,6 @@ Startup on boot has been cancelled.</source>
         <translation>المترجمين</translation>
     </message>
     <message>
-        <source>Illegal characters</source>
-        <translation type="vanished">احرف غير قانونية</translation>
-    </message>
-    <message>
         <source>Support</source>
         <translation>الدعم</translation>
     </message>
@@ -789,24 +721,12 @@ Startup on boot has been cancelled.</source>
         <translation>بروكسي النظام</translation>
     </message>
     <message>
-        <source>Second (0-59)</source>
-        <translation type="vanished">الثانية (0-59)</translation>
-    </message>
-    <message>
         <source>Contributors</source>
         <translation>المساهمون</translation>
     </message>
     <message>
         <source>Vietnamese</source>
         <translation>الفيتنامية</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation type="vanished">الدقيقة (00-59)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation type="vanished">يوم (01-31)</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -817,44 +737,12 @@ Startup on boot has been cancelled.</source>
         <translation>الصينية التقليدية</translation>
     </message>
     <message>
-        <source>User name</source>
-        <translation type="vanished">اسم المستخدم</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation type="vanished">التواريخ و الاوقات</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation type="vanished">لاحقات المسموح بها</translation>
-    </message>
-    <message>
         <source>Thank you for your support!</source>
         <translation>شكرا لدعمكم!</translation>
     </message>
     <message>
-        <source>Localized day name</source>
-        <translation type="vanished">الاسم النهاري المحلي</translation>
-    </message>
-    <message>
         <source>Documentation</source>
         <translation>وثائق</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation type="vanished">نظام التشغيل</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation type="vanished">الشهر (01-12)</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation type="vanished">متغيرات البيئة</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation type="vanished">ساعة (00-23)</translation>
     </message>
     <message>
         <source>Russian</source>
@@ -973,11 +861,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"></translation>
+        <translation>ازالة الرخصة</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>شراء المحترف</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1052,11 +940,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ مع الظل</translation>
     </message>
     <message>
         <source>Save with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ مع الظل</translation>
     </message>
 </context>
 <context>
@@ -1261,47 +1149,47 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Copy image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ الصورة مع الظل</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ الصورة غير المقاسة</translation>
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ الصورة غير المقاسة مع الظل</translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ الصورة مع الظل كـ ...</translation>
     </message>
     <message>
         <source>Image processing</source>
-        <translation type="unfinished"></translation>
+        <translation>معالجة الصورة</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>الإطار السابق</translation>
     </message>
     <message>
         <source>Rotate left</source>
-        <translation type="unfinished"></translation>
+        <translation>تدوير يسار</translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>الاطار التالي</translation>
     </message>
     <message>
         <source>Rotate right</source>
-        <translation type="unfinished"></translation>
+        <translation>تدوير يمين</translation>
     </message>
     <message>
         <source>Horizontal flip</source>
-        <translation type="unfinished"></translation>
+        <translation>شقلبة افقية</translation>
     </message>
     <message>
         <source>Vertical flip</source>
-        <translation type="unfinished"></translation>
+        <translation>شقلبة عمودية</translation>
     </message>
 </context>
 <context>
@@ -1383,12 +1271,8 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>اختر ملف</translation>
     </message>
     <message>
-        <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation type="vanished">هل لاحظت النقاط الحمراء ؟ انقر عليها للحصول على نصائح مفيده!</translation>
-    </message>
-    <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation type="unfinished"></translation>
+        <translation>هل لاحظت النقاط الحمراء على شريط الأدوات؟ انقر عليها للحصول على نصائح مفيدة!</translation>
     </message>
 </context>
 <context>
@@ -1484,26 +1368,26 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>أدخل وضع السبورة (اضغط مرتين على هروب لإنهاء)</translation>
     </message>
     <message>
         <source>Pick color</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر اللون</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>لصق كصورة</translation>
     </message>
     <message>
         <source>Paste as plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>لصق كنص عادي</translation>
     </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
     <message>
         <source>Press shortcut</source>
-        <translation>اختصار الضغط</translation>
+        <translation>اضغط على الاختصار</translation>
     </message>
 </context>
 <context>
@@ -1555,10 +1439,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>اظهار كافة الصور</translation>
     </message>
     <message>
-        <source>The file name pattern is not valid!</source>
-        <translation type="vanished">نقش اسم الملف غير صالح!</translation>
-    </message>
-    <message>
         <source>Import successful</source>
         <translation>استيراد ناجح</translation>
     </message>
@@ -1585,10 +1465,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Images</source>
         <translation>الصور</translation>
-    </message>
-    <message>
-        <source>%1 is not set!</source>
-        <translation type="vanished">لم يتم تعيين%1!</translation>
     </message>
     <message>
         <source>No update available.</source>
@@ -1746,55 +1622,55 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت تستخدم الإصدار المجاني من Snipaste %1 %2</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste طلب التنشيط دون اتصال</translation>
     </message>
     <message>
         <source>Hardware identity</source>
-        <translation type="unfinished"></translation>
+        <translation>هوية الأجهزة</translation>
     </message>
     <message>
         <source>Validity period</source>
-        <translation type="unfinished"></translation>
+        <translation>فترة الصلاحية</translation>
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء إدخال مدة مناسبة لهذا الجهاز. لا يمكن إزالة الترخيص في وضع عدم الاتصال خلال فترة صلاحيته.</translation>
     </message>
     <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
+        <translation>مفتاح الرخصة</translation>
     </message>
     <message>
         <source>Paste your license key here</source>
-        <translation type="unfinished"></translation>
+        <translation>لصق مفتاح رخصتك هنا</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح ميزات المحترف</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 مجاني فقط للاستخدام الشخصي. إذا كنت ترغب في استخدامه في مكان العمل ، يلزم وجود ترخيص للمحترفين.</translation>
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="unfinished"></translation>
+        <translation>يوفر اصدار المحترف أكثر من 20 ميزة جديدة مفيدة!</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>يرجى زيارة &lt;a href=&quot;%1&quot;&gt; موقع الويب &lt;/a&gt; للحصول على مزيد من المعلومات.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا تتردد في الاتصال %1 إذا كنت بحاجة إلى أي مساعدة.</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>شراء</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1802,51 +1678,51 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter license key</source>
-        <translation type="unfinished"></translation>
+        <translation>أدخل مفتاح الرخصة</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">تنشيط</translation>
+        <translation>تنشيط</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>للخلف</translation>
     </message>
     <message>
         <source>Offline activation...</source>
-        <translation type="unfinished"></translation>
+        <translation>تنشيط دون اتصال ...</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>حاول</translation>
     </message>
     <message>
         <source>Activation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>تنشيط فاشل</translation>
     </message>
     <message>
         <source>Invalid license.</source>
-        <translation type="unfinished"></translation>
+        <translation>رخصة باطلة.</translation>
     </message>
     <message>
         <source>Number of activations exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد عمليات التنشيط التي تم تجاوزها.</translation>
     </message>
     <message>
         <source>Network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في الشبكة.</translation>
     </message>
     <message>
         <source>License expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>الرخصة انتهت.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم تسجيل باطل.</translation>
     </message>
     <message>
         <source>Error code</source>
-        <translation type="unfinished"></translation>
+        <translation>خطا بالكود</translation>
     </message>
 </context>
 <context>
@@ -1995,12 +1871,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>قائمة تم تجاهلها:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="vanished">(e.g. a.exe, games/*) أدخل أسماء قابلة للتنفيذ مفصولة بفواصل</translation>
-    </message>
-    <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>ادخل الأسماء/المسارات القابلة للتنفيذ مفصوله بفواصل (مثل .تنفيذي ، ألعاب/*)</translation>
     </message>
 </context>
 <context>
@@ -2205,10 +2077,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>اغلاق الصورة:</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="vanished">اسم الملف</translation>
-    </message>
-    <message>
         <source>Change the quick save folder.</source>
         <translation>تغيير المجلد  حفظ سريع.</translation>
     </message>
@@ -2385,10 +2253,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>هامش الصفحة:</translation>
     </message>
     <message>
-        <source>* Press Backspace to clear</source>
-        <translation type="vanished">* اضغط مفتاح الارجاع للتظيف</translation>
-    </message>
-    <message>
         <source>Use snipping position</source>
         <translation>استخدام موقع القص</translation>
     </message>
@@ -2423,14 +2287,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>So that the global hotkeys are effective when the active window has administrator privileges.</source>
         <translation>بحيث تكون مفاتيح الاختصار العالمية فعاله عندما يكون للاطار النشط امتيازات المسؤول.</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation type="vanished">نحوي:</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation type="vanished">نمط:</translation>
     </message>
     <message>
         <source>Preview:</source>
@@ -2582,11 +2438,6 @@ If this option is checked, the above features will be disabled.</source>
         <translation>اذا قمت بنسخ ملف صوره ، سيظهر اللصق الاول الصورة ، سيظهر اللصق الثاني مسار الملف. اذا قمت بنسخ ملف غير صوره ، سيقوم اللصق باظهار مسار الملف على الفور. اذا تم التحقق من هذا الخيار ، سيتم تعطيل الميزات المذكورة اعلاه.</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="vanished">يمكن استرداد اطار الصورة المغلقة بواسطة لصق اخر اذا لم يصل عدد الصور المغلقة الى الحد الاقصى. عندما يتم الوصول الى الحد ، سيتم تدمير اقدم واحد.</translation>
-    </message>
-    <message>
         <source>Translucent when flashing</source>
         <translation>شفافة عندما تومض</translation>
     </message>
@@ -2617,10 +2468,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>As administrator</source>
         <translation>كمسؤول</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation type="vanished">مجلد:</translation>
     </message>
     <message>
         <source>Zoom by mouse wheel</source>
@@ -2892,10 +2739,6 @@ You will gain better response time on entering snipping.</source>
         <translation>بحيث يمكنك أيضًا لصق الصورة في مستكشف الملفات.</translation>
     </message>
     <message>
-        <source>Copy image as file</source>
-        <translation type="vanished">نسخ الصورة كملف</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>ملف</translation>
     </message>
@@ -3026,14 +2869,6 @@ You will gain better response time on entering snipping.</source>
 </translation>
     </message>
     <message>
-        <source>Unlock PRO features!</source>
-        <translation type="vanished">فتح ميزات المحترف!</translation>
-    </message>
-    <message>
-        <source>Buy PRO</source>
-        <translation type="vanished">شراء المحترف</translation>
-    </message>
-    <message>
         <source>I&apos;m not interest in PRO</source>
         <translation>لست مهتمًا بـ المحترف</translation>
     </message>
@@ -3091,7 +2926,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>التعليق التوضيحي الافتراضي:</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -3100,31 +2935,31 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ يدوي</translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم الملف:</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح المجلد</translation>
     </message>
     <message>
         <source>Change Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>تغير المجلد</translation>
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>تسمية القواعد</translation>
     </message>
     <message>
         <source>Also copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>أيضا نسخ الصورة كملف</translation>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>* اضغط للخلف لأزاله مفتاح الاختصار</translation>
     </message>
 </context>
 <context>
