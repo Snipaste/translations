@@ -104,20 +104,12 @@ Please contact the developer.</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <source>Open Download folder</source>
-        <translation type="vanished">Öffne Download-Ordner</translation>
-    </message>
-    <message>
-        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="vanished">Bitte verschieben Sie die Anwendung nach dem Entpacken in den  Snipaste- Orner.Beenden Sie zuvor Snipaste.</translation>
-    </message>
-    <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige im Finder</translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation>Installiere jetzt</translation>
     </message>
 </context>
 <context>
@@ -194,7 +186,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie die durch Kommas getrennten Namen / Pfade des Pakets ein (z. B. snipaste.app, games / *)</translation>
     </message>
 </context>
 <context>
@@ -406,7 +398,7 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenzschlüssel entfernen? Snipaste ist dann nicht mehr registriert.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -470,7 +462,7 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Benennungsregeln</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -692,110 +684,6 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
         <translation>Spender</translation>
     </message>
     <message>
-        <source>Day (1-31)</source>
-        <translation type="vanished">Tag (1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation type="vanished">Tag (01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation type="vanished">Lokalisierten Tagesnamen (Abkürz.)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation type="vanished">Lokalisierten Tagesnamen</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation type="vanished">Monat (1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation type="vanished">Monat (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation type="vanished">Lokalisierter Monatsnamen (Abkürz.)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation type="vanished">Lokalisierter Monatsnamen</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation type="vanished">Jahr (2-stellig)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation type="vanished">Jahr (4-stellig)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation type="vanished">Stunde (0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation type="vanished">Stunde (00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation type="vanished">Minute (0-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation type="vanished">Minute (00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation type="vanished">Sekunde (0-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation type="vanished">Sekunde (00-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation type="vanished">Millisekunde (0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation type="vanished">Millisekunde (00-999</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation type="vanished">Zeitzone</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation type="vanished">Betriebssystem</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation type="vanished">Computername</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation type="vanished">Benutzername</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation type="vanished">Erlaubter Suffix</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation type="vanished">Unzulässiges Zeichen</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation type="vanished">Umgebungsvariablen</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation type="vanished">Datum und Zeit</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
@@ -977,11 +865,11 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenz entfernen</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO erwerben</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1056,11 +944,11 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Copy with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere mit Schatten</translation>
     </message>
     <message>
         <source>Save with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichere mit Schatten</translation>
     </message>
 </context>
 <context>
@@ -1265,47 +1153,47 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     </message>
     <message>
         <source>Copy image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere Bild mit Schatten</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht skaliertes Bild kopieren</translation>
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht skaliertes Bild mit Schatten kopieren</translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichere Bild mit Schatten als...</translation>
     </message>
     <message>
         <source>Image processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildverarbeitung</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorheriger Rahmen</translation>
     </message>
     <message>
         <source>Rotate left</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach links drehen</translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächster Rahmen</translation>
     </message>
     <message>
         <source>Rotate right</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach rechts drehen</translation>
     </message>
     <message>
         <source>Horizontal flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal drehen</translation>
     </message>
     <message>
         <source>Vertical flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal drehen</translation>
     </message>
 </context>
 <context>
@@ -1388,12 +1276,8 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
         <translation>Datei wählen</translation>
     </message>
     <message>
-        <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation type="vanished">Haben Sie die roten Punkte bemerkt? Klicken Sie auf diese, um nützliche Tipps zu erhalten!</translation>
-    </message>
-    <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation type="unfinished"></translation>
+        <translation>Haben Sie die roten Punkte in der Symbolleiste bemerkt? Klicken Sie darauf, um nützliche Tipps zu erhalten!</translation>
     </message>
 </context>
 <context>
@@ -1489,19 +1373,19 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren Sie den Whiteboard-Modus (zum Beenden doppelt auf Esc tippen)</translation>
     </message>
     <message>
         <source>Pick color</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle Farbe</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Als Bild einfügen</translation>
     </message>
     <message>
         <source>Paste as plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>Als einfachen Text einfügen</translation>
     </message>
 </context>
 <context>
@@ -1606,14 +1490,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Invalid command line options.</source>
         <translation>Ungültige Befehlszeilenoptionen.</translation>
-    </message>
-    <message>
-        <source>%1 is not set!</source>
-        <translation type="vanished">%1 ist nicht gesetzt!</translation>
-    </message>
-    <message>
-        <source>The file name pattern is not valid!</source>
-        <translation type="vanished">Das Dateinamen-Muster ist nicht gültig!</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1751,55 +1627,55 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie verwenden die kostenlose Version von Snipaste %1 %2</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste Offline-Aktivierungsanfrage</translation>
     </message>
     <message>
         <source>Hardware identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware-Identität</translation>
     </message>
     <message>
         <source>Validity period</source>
-        <translation type="unfinished"></translation>
+        <translation>Gültigkeitszeitraum</translation>
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte geben Sie die korrekte Laufzeit für diese Maschine ein. Die Offline-Lizenz kann nicht innerhalb der Gültigkeitsdauer entfernt werden.</translation>
     </message>
     <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenzschlüssel</translation>
     </message>
     <message>
         <source>Paste your license key here</source>
-        <translation type="unfinished"></translation>
+        <translation>Fügen Sie hier Ihren Lizenzschlüssel ein</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO-Funktionen entsperren</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ist nur für PERSÖNLICHE NUTZUNG kostenlos. Wenn Sie es am Arbeitsplatz verwenden möchten, ist eine PRO-Lizenz erforderlich.</translation>
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="unfinished"></translation>
+        <translation>Die PRO-Version bietet mehr als 20 nützliche neue Funktionen!</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte besuchen Sie &lt;a href=&quot;%1&quot;&gt; die Website &lt;/a&gt;, um weitere Informationen zu erhalten.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenden Sie sich bitte an%1, wenn Sie Hilfe benötigen.</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Erwerben</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1807,51 +1683,51 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Enter license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenzschlüssel eingeben</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Aktivieren</translation>
+        <translation>Aktivieren</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurück</translation>
     </message>
     <message>
         <source>Offline activation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Offline Aktivierung...</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiederholen</translation>
     </message>
     <message>
         <source>Activation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivierung fehlgeschlagen</translation>
     </message>
     <message>
         <source>Invalid license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Lizenz.</translation>
     </message>
     <message>
         <source>Number of activations exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Aktivierungen überschritten.</translation>
     </message>
     <message>
         <source>Network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Netzwerkfehler.</translation>
     </message>
     <message>
         <source>License expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenz abgelaufen.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiger Lizenzschlüssel.</translation>
     </message>
     <message>
         <source>Error code</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlercode</translation>
     </message>
 </context>
 <context>
@@ -2004,12 +1880,8 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>Ignorierte Liste:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="vanished">Geben Sie ausführbare Namen ein, die durch Kommas getrennt sind (z. B. a.exe, games/*)</translation>
-    </message>
-    <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie durch Kommas getrennte ausführbare Namen / Pfade ein (z. B. a.exe, games / *)</translation>
     </message>
 </context>
 <context>
@@ -2424,12 +2296,6 @@ Range: 10 - 100</source>
         <translation>Maximal wiederherstellbare geschlossene Bilder:</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="vanished">Ein geschlossenes Bildfenster kann durch ein weiteres Einfügen wiederhergestellt werden, wenn die Anzahl der geschlossenen Bilder die Grenze nicht überschreitet.
-Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
-    </message>
-    <message>
         <source>Conversion</source>
         <translation>Umwandlung</translation>
     </message>
@@ -2474,20 +2340,8 @@ Geben Sie 0 an, um kleine komprimierte Dateien zu erhalten, 100 für große unko
 Geben Sie -1 an, damit Snipaste für Sie entscheiden kann.</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="vanished">Dateiname</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation type="vanished">Muster:</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>Vorschau:</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation type="vanished">Grammatik:</translation>
     </message>
     <message>
         <source>Auto Save</source>
@@ -2508,10 +2362,6 @@ Geben Sie -1 an, damit Snipaste für Sie entscheiden kann.</translation>
     <message>
         <source>Global Hotkeys</source>
         <translation>Globale Hotkeys</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation type="vanished">* Leertaste zum Löschen drücken</translation>
     </message>
     <message>
         <source>Image Operations</source>
@@ -2612,10 +2462,6 @@ Geben Sie -1 an, damit Snipaste für Sie entscheiden kann.</translation>
     <message>
         <source>Quick Save</source>
         <translation>Schnellspeicherung</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation type="vanished">Ordner:</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2916,10 +2762,6 @@ Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
         <translation>Damit können Sie das Bild auch in den Datei-Explorer einfügen.</translation>
     </message>
     <message>
-        <source>Copy image as file</source>
-        <translation type="vanished">Kopiere Bild als Datei</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Datei</translation>
     </message>
@@ -3048,14 +2890,6 @@ Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
         <translation>Bewertung</translation>
     </message>
     <message>
-        <source>Unlock PRO features!</source>
-        <translation type="vanished">Entsperre PRO-Funktionen!</translation>
-    </message>
-    <message>
-        <source>Buy PRO</source>
-        <translation type="vanished">Kaufe PRO</translation>
-    </message>
-    <message>
         <source>I&apos;m not interest in PRO</source>
         <translation>Ich bin an PRO nicht interessiert</translation>
     </message>
@@ -3113,7 +2947,7 @@ Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardanmerkung:</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -3123,31 +2957,31 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuelles Speichern</translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateiname:</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner öffnen</translation>
     </message>
     <message>
         <source>Change Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner ändern</translation>
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Benennungsregeln</translation>
     </message>
     <message>
         <source>Also copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild auch als Datei kopieren</translation>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>* Drücken Sie die Rücktaste, um den Hotkey zu entfernen</translation>
     </message>
 </context>
 <context>

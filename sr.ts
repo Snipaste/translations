@@ -106,20 +106,12 @@ Please contact the developer.</source>
         <translation>Поништити</translation>
     </message>
     <message>
-        <source>Open Download folder</source>
-        <translation type="vanished">Отвори фасциклу</translation>
-    </message>
-    <message>
-        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="vanished">Декомпресујте и повуците апликацију у фасцикли апликације после затварања Snipaste-а.</translation>
-    </message>
-    <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Покажи у Налазач</translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation>Инсталирај сада</translation>
     </message>
 </context>
 <context>
@@ -196,7 +188,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Унеси име/путању пакета одвојено са запетама (нпр. snipaste.app, games/*)</translation>
     </message>
 </context>
 <context>
@@ -408,11 +400,11 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Уклона кључа? Snipaste ће се дерегиструје.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Поништити</translation>
     </message>
 </context>
 <context>
@@ -472,7 +464,7 @@ Restart now to enjoy PRO features?</source>
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Правила именовања</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -702,110 +694,6 @@ Restart now to enjoy PRO features?</source>
         <translation>Сарадници</translation>
     </message>
     <message>
-        <source>Day (1-31)</source>
-        <translation type="vanished">Дан (1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation type="vanished">Дан (01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation type="vanished">Локално име дана (убрз.)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation type="vanished">Локално име дана</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation type="vanished">Месец (1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation type="vanished">Месец (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation type="vanished">Локално име месеца (убрз.)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation type="vanished">Локално име месеца</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation type="vanished">Година (2 цифре)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation type="vanished">Година (4 цифре)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation type="vanished">Сат (0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation type="vanished">Сат (00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation type="vanished">Минути (0-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation type="vanished">Минути (00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation type="vanished">Секунди (0-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation type="vanished">Секунди (00-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation type="vanished">Милисекунди (0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation type="vanished">Милисекунди (000-999)</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation type="vanished">Временска зона</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation type="vanished">Оперативни систем</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation type="vanished">Име рачунара</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation type="vanished">Корисничко име</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation type="vanished">Дозвољени суфикси</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation type="vanished">Илегални карактери</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation type="vanished">Варијабле околине</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation type="vanished">Датуми и време</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
@@ -979,11 +867,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"></translation>
+        <translation>Уклони лиценцу</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Купи ПРО</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1058,11 +946,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирај са сенком</translation>
     </message>
     <message>
         <source>Save with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Сачувај са сенком</translation>
     </message>
 </context>
 <context>
@@ -1267,47 +1155,47 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Copy image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирај слику са сенком</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирај слике без скале</translation>
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирај слике без скале са сенком</translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сачувај слику са сенком као...</translation>
     </message>
     <message>
         <source>Image processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Рад слике</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Претходни фрејм</translation>
     </message>
     <message>
         <source>Rotate left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ротација лево</translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Следећи фрејм</translation>
     </message>
     <message>
         <source>Rotate right</source>
-        <translation type="unfinished"></translation>
+        <translation>Ротација десно</translation>
     </message>
     <message>
         <source>Horizontal flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Пребаци хоризонтално</translation>
     </message>
     <message>
         <source>Vertical flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Пребаци ветикално</translation>
     </message>
 </context>
 <context>
@@ -1390,12 +1278,8 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Одабрати датотеку</translation>
     </message>
     <message>
-        <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation type="vanished">Да ли сте видели црвене тачке? Кликнути их за савете!</translation>
-    </message>
-    <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation type="unfinished"></translation>
+        <translation>Да ли сте видели црвене тачке на траци? Кликнути их за савете!</translation>
     </message>
 </context>
 <context>
@@ -1491,19 +1375,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ући у моду табле (Дупли Esc за излаз)</translation>
     </message>
     <message>
         <source>Pick color</source>
-        <translation type="unfinished"></translation>
+        <translation>Одабери боју</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Прилепи као слику</translation>
     </message>
     <message>
         <source>Paste as plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>Прилепи као текст</translation>
     </message>
 </context>
 <context>
@@ -1678,14 +1562,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Подразумевано</translation>
     </message>
     <message>
-        <source>%1 is not set!</source>
-        <translation type="vanished">%1 није поставњен!</translation>
-    </message>
-    <message>
-        <source>The file name pattern is not valid!</source>
-        <translation type="vanished">Образац имена датотеке није валидан!</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Успешно</translation>
     </message>
@@ -1753,55 +1629,55 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Користите бесплатну верзију Snipaste %1 %2</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste активација ван мреже</translation>
     </message>
     <message>
         <source>Hardware identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентитет хардвера</translation>
     </message>
     <message>
         <source>Validity period</source>
-        <translation type="unfinished"></translation>
+        <translation>Важност</translation>
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation type="unfinished"></translation>
+        <translation>Унеси исправно трајање за ову машину. Лиценца ван мреже се не може уклонити у периоду важења.</translation>
     </message>
     <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
+        <translation>Лиценца</translation>
     </message>
     <message>
         <source>Paste your license key here</source>
-        <translation type="unfinished"></translation>
+        <translation>Прилепити овде лиценцу</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation type="unfinished"></translation>
+        <translation>Деблокирај ПРО функције</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 је сао за личну употребу. Ако га користите у радној околини, треба PRO лиценца.</translation>
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO верзија пружа више од 20 способности!</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ићи на &lt;a href=&quot;%1&quot;&gt;сајт&lt;/a&gt; за више информације.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Контактирајте %1 ао Вам је потребна помоћ.</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Купити</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1809,51 +1685,51 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Унос лиценце</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Активирати</translation>
+        <translation>Активирати</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Назад</translation>
     </message>
     <message>
         <source>Offline activation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Активација ван мреже...</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Поновити</translation>
     </message>
     <message>
         <source>Activation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Погрешна активација</translation>
     </message>
     <message>
         <source>Invalid license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Погрешна лиценца.</translation>
     </message>
     <message>
         <source>Number of activations exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Број активације прекораћен.</translation>
     </message>
     <message>
         <source>Network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка везе.</translation>
     </message>
     <message>
         <source>License expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лиценца истекла.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Погрешна лиценца.</translation>
     </message>
     <message>
         <source>Error code</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка</translation>
     </message>
 </context>
 <context>
@@ -2002,12 +1878,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Игнорисане листе:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="vanished">Унесите извршна имена раздвојена зарезима (нпр. a.exe, games/*)</translation>
-    </message>
-    <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Унос име покретања/путању одвојени са запетама (нпр. a.exe, games/*)</translation>
     </message>
 </context>
 <context>
@@ -2514,12 +2386,6 @@ You can also find this option in the context menu of individual image window.</s
         <translation>Максималне повратне затворене слике:</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="vanished">Затворени прозор слике може се опозвати са другим прилепљивањем ако број затворених слика не достигне ограничење.
-Када се достигне граница, најстарији ће бити уништене.</translation>
-    </message>
-    <message>
         <source>Conversion</source>
         <translation>Конверзија</translation>
     </message>
@@ -2616,24 +2482,8 @@ Specify -1 to let Snipaste decide for you.</source>
 Наведите -1 да пустите програм да одлучи за вас.</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="vanished">Име датотеке</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation type="vanished">Узорак:</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>Преглед:</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation type="vanished">Граматика:</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation type="vanished">фасцикла:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2666,10 +2516,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Global Hotkeys</source>
         <translation>Глобалне пречице</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation type="vanished">* Притиснути назад за брисање</translation>
     </message>
     <message>
         <source>Image Operations</source>
@@ -2912,10 +2758,6 @@ You will gain better response time on entering snipping.</source>
         <translation>Тако да слику можете налепити и у истраживач датотека.</translation>
     </message>
     <message>
-        <source>Copy image as file</source>
-        <translation type="vanished">Копирај слику као датотеку</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Датотека</translation>
     </message>
@@ -3044,14 +2886,6 @@ You will gain better response time on entering snipping.</source>
         <translation>Оцена</translation>
     </message>
     <message>
-        <source>Unlock PRO features!</source>
-        <translation type="vanished">Деблокирај ПРО функције!</translation>
-    </message>
-    <message>
-        <source>Buy PRO</source>
-        <translation type="vanished">Купити ПРО</translation>
-    </message>
-    <message>
         <source>I&apos;m not interest in PRO</source>
         <translation>Нисам заинтересован у ПРО</translation>
     </message>
@@ -3109,7 +2943,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Подразумевана напомена:</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -3119,31 +2953,31 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручно сачувавање</translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Датотека:</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Отвори фасциклу</translation>
     </message>
     <message>
         <source>Change Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Промени фасциклу</translation>
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Правила именовања</translation>
     </message>
     <message>
         <source>Also copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>Исто копирај слику као датотеку</translation>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>* Притиснути назад за уклона пречице</translation>
     </message>
 </context>
 <context>

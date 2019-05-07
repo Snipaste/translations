@@ -106,14 +106,6 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <translation>Annuleren</translation>
     </message>
     <message>
-        <source>Open Download folder</source>
-        <translation type="vanished">Download-map openen</translation>
-    </message>
-    <message>
-        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="vanished">Pak het zipbestand uit, sluit Snipaste af en sleep het programma naar zijn installatiemap.</translation>
-    </message>
-    <message>
         <source>Show in Finder</source>
         <translation>In Verkenner tonen</translation>
     </message>
@@ -692,110 +684,6 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
     <message>
         <source>Contributors</source>
         <translation>Bijdragen van</translation>
-    </message>
-    <message>
-        <source>Day (1-31)</source>
-        <translation type="vanished">Dag (1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation type="vanished">Dag (01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation type="vanished">Dag (afk.)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation type="vanished">Dag</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation type="vanished">Maand (1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation type="vanished">Maand (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation type="vanished">Maand (afk.)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation type="vanished">Maand</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation type="vanished">Jaar (2 cijfers)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation type="vanished">Jaar (4 cijfers)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation type="vanished">Uur (0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation type="vanished">Uur (00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation type="vanished">Minuten (0-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation type="vanished">Minuten (00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation type="vanished">Seconden (0-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation type="vanished">Seconden (00-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation type="vanished">Milliseconden (0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation type="vanished">Milliseconden (000-999)</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation type="vanished">Tijdzone</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation type="vanished">Besturingssysteem</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation type="vanished">Computernaam</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation type="vanished">Gebruikersnaam</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation type="vanished">Toegestane achtervoegsels</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation type="vanished">Ongeldig teken</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation type="vanished">Omgevingsvariabelen</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation type="vanished">Datum en tijd</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1390,10 +1278,6 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
         <translation>Bestand kiezen</translation>
     </message>
     <message>
-        <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation type="vanished">Ziet u de rode stippen? Klik erop voor handige tips!</translation>
-    </message>
-    <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
         <translation>Ziet u de rode stippen op de taakbalk? Klik erop voor handige tips!</translation>
     </message>
@@ -1608,14 +1492,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Invalid command line options.</source>
         <translation>Fout in opdrachtregel.</translation>
-    </message>
-    <message>
-        <source>%1 is not set!</source>
-        <translation type="vanished">%1 is niet ingesteld!</translation>
-    </message>
-    <message>
-        <source>The file name pattern is not valid!</source>
-        <translation type="vanished">Het bestandsnaam-patroon is onjuist!</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1998,10 +1874,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>Genegeerd:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="vanished">Voer uitvoerbare bestanden in gescheiden door komma&apos;s (bij. a.exe, games/*)</translation>
-    </message>
-    <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation>Voer uitvoerbare bestanden/paden in gescheiden door komma&apos;s (bij. a.exe, games/*)</translation>
     </message>
@@ -2348,20 +2220,8 @@ Meld deze a.u.b. wanneer u ze vindt.</translation>
         <translation>Systeemvakpictogram:</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="vanished">Bestandsnaam</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation type="vanished">Naamgeving:</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>Voorvertoning:</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation type="vanished">Syntaxis:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2486,12 +2346,6 @@ Indien afgeschakeld, wordt het altijd weergegeven midden op het primaire scherm.
         <translation>Max. herstelbare afbeeldingen:</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="vanished">Gesloten afbeeldingsvensters kunnen worden hersteld zolang het maximum niet is overschreden.
-Als het maximum is bereikt, worden de eersten gewist.</translation>
-    </message>
-    <message>
         <source>Conversion</source>
         <translation>Conversie</translation>
     </message>
@@ -2526,10 +2380,6 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
     <message>
         <source>Global Hotkeys</source>
         <translation>Algemene sneltoetsen</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation type="vanished">* Toets Backspace om te wissen</translation>
     </message>
     <message>
         <source>Image Operations</source>
@@ -2622,10 +2472,6 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
     <message>
         <source>Quick Save</source>
         <translation>Snelle opslag</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation type="vanished">Map:</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2908,10 +2754,6 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
         <translation>Hiermee kan een afbeelding ook in de Verkenner worden gekopieerd.</translation>
     </message>
     <message>
-        <source>Copy image as file</source>
-        <translation type="vanished">Afbeelding als bestand kopiëren</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Bestand</translation>
     </message>
@@ -3038,14 +2880,6 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     <message>
         <source>Rate</source>
         <translation>Waardering</translation>
-    </message>
-    <message>
-        <source>Unlock PRO features!</source>
-        <translation type="vanished">PRO-functionaliteit activeren!</translation>
-    </message>
-    <message>
-        <source>Buy PRO</source>
-        <translation type="vanished">Koop de PRO-versie</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
