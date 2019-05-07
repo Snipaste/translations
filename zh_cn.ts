@@ -1284,7 +1284,8 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>你注意到工具条上的小红点了吗？\n点击它们可以获取提示哦！</translation>
+        <translation>你注意到工具条上的小红点了吗？
+点击它们可以获取提示哦！</translation>
     </message>
 </context>
 <context>
