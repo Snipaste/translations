@@ -5,11 +5,11 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation>％1を押してRGB/HEXを切替</translation>
+        <translation>%1を押してRGB/HEXを切替</translation>
     </message>
     <message>
         <source>Press %1 to copy color</source>
-        <translation>％1を押して色をコピーする</translation>
+        <translation>%1を押して色をコピーする</translation>
     </message>
 </context>
 <context>
