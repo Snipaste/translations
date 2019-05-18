@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="el_GR">
+<TS version="2.0" language="el_GR">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -107,19 +107,19 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Open Download folder</source>
-        <translation type="vanished">Άνοιγμα φακέλου λήψης</translation>
+        <translation>Άνοιγμα φακέλου λήψης</translation>
     </message>
     <message>
         <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="vanished">Αποσυμπιέστε το και σύρετε την εφαρμογή στο φάκελο των εφαρμογών, μετά το κλείσιμο του Snipaste.</translation>
+        <translation>Αποσυμπιέστε το και σύρετε την εφαρμογή στο φάκελο των εφαρμογών, μετά το κλείσιμο του Snipaste.</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση στο Finder</translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγκατάσταση τώρα</translation>
     </message>
 </context>
 <context>
@@ -196,7 +196,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγάγετε ονόματα / διαδρομές πακέτων χωρισμένα με κόμμα (π.χ. snipaste.app,  games/*)</translation>
     </message>
 </context>
 <context>
@@ -408,7 +408,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάργηση κλειδιού άδειας χρήσης; Το Snipaste θα γίνει μη καταχωρημένο.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -472,7 +472,7 @@ Restart now to enjoy PRO features?</source>
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Κανόνες ονοματολογίας</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -671,107 +671,107 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Day (1-31)</source>
-        <translation type="vanished">Ημέρα (1-31)</translation>
+        <translation>Ημέρα (1-31)</translation>
     </message>
     <message>
         <source>Day (01-31)</source>
-        <translation type="vanished">Ημέρα (01-31)</translation>
+        <translation>Ημέρα (01-31)</translation>
     </message>
     <message>
         <source>Localized day name (abbr.)</source>
-        <translation type="vanished">Μεταφρασμένο όνομα ημέρας (συντομ.)</translation>
+        <translation>Μεταφρασμένο όνομα ημέρας (συντομ.)</translation>
     </message>
     <message>
         <source>Localized day name</source>
-        <translation type="vanished">Μεταφρασμένο όνομα ημέρας</translation>
+        <translation>Μεταφρασμένο όνομα ημέρας</translation>
     </message>
     <message>
         <source>Month (1-12)</source>
-        <translation type="vanished">Μήνας (1-12)</translation>
+        <translation>Μήνας (1-12)</translation>
     </message>
     <message>
         <source>Month (01-12)</source>
-        <translation type="vanished">Μήνας (01-12)</translation>
+        <translation>Μήνας (01-12)</translation>
     </message>
     <message>
         <source>Localized month name (abbr.)</source>
-        <translation type="vanished">Μεταφρασμένο όνομα μήνα (συντομ.)</translation>
+        <translation>Μεταφρασμένο όνομα μήνα (συντομ.)</translation>
     </message>
     <message>
         <source>Localized month name</source>
-        <translation type="vanished">Μεταφρασμένο όνομα μήνα</translation>
+        <translation>Μεταφρασμένο όνομα μήνα</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
-        <translation type="vanished">Έτος (2 ψηφία)</translation>
+        <translation>Έτος (2 ψηφία)</translation>
     </message>
     <message>
         <source>Year (4-digit)</source>
-        <translation type="vanished">Έτος (4 ψηφία)</translation>
+        <translation>Έτος (4 ψηφία)</translation>
     </message>
     <message>
         <source>Hour (0-23)</source>
-        <translation type="vanished">Ώρα (0-23)</translation>
+        <translation>Ώρα (0-23)</translation>
     </message>
     <message>
         <source>Hour (00-23)</source>
-        <translation type="vanished">Ώρα (00-23)</translation>
+        <translation>Ώρα (00-23)</translation>
     </message>
     <message>
         <source>Minute (0-59)</source>
-        <translation type="vanished">Λεπτό (0-59)</translation>
+        <translation>Λεπτό (0-59)</translation>
     </message>
     <message>
         <source>Minute (00-59)</source>
-        <translation type="vanished">Λεπτό (00-59)</translation>
+        <translation>Λεπτό (00-59)</translation>
     </message>
     <message>
         <source>Second (0-59)</source>
-        <translation type="vanished">Δευτερόλεπτο (0-59)</translation>
+        <translation>Δευτερόλεπτο (0-59)</translation>
     </message>
     <message>
         <source>Second (00-59)</source>
-        <translation type="vanished">Δευτερόλεπτο (00-59)</translation>
+        <translation>Δευτερόλεπτο (00-59)</translation>
     </message>
     <message>
         <source>Milliseconds (0-999)</source>
-        <translation type="vanished">Χιλιοστό δευτερολέπτου (0-999)</translation>
+        <translation>Χιλιοστό δευτερολέπτου (0-999)</translation>
     </message>
     <message>
         <source>Milliseconds (000-999)</source>
-        <translation type="vanished">Χιλιοστό δευτερολέπτου (000-999)</translation>
+        <translation>Χιλιοστό δευτερολέπτου (000-999)</translation>
     </message>
     <message>
         <source>Timezone</source>
-        <translation type="vanished">Ζώνη ώρας</translation>
+        <translation>Ζώνη ώρας</translation>
     </message>
     <message>
         <source>Operation system</source>
-        <translation type="vanished">Λειτουργικό σύστημα</translation>
+        <translation>Λειτουργικό σύστημα</translation>
     </message>
     <message>
         <source>Computer name</source>
-        <translation type="vanished">Όνομα υπολογιστή</translation>
+        <translation>Όνομα υπολογιστή</translation>
     </message>
     <message>
         <source>User name</source>
-        <translation type="vanished">Όνομα χρήστη</translation>
+        <translation>Όνομα χρήστη</translation>
     </message>
     <message>
         <source>Allowed suffixes</source>
-        <translation type="vanished">Αποδεκτά επιθήματα</translation>
+        <translation>Αποδεκτά επιθήματα</translation>
     </message>
     <message>
         <source>Illegal characters</source>
-        <translation type="vanished">Μη έγκυροι χαρακτήρες</translation>
+        <translation>Μη έγκυροι χαρακτήρες</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="vanished">Μεταβλητές περιβάλλοντος</translation>
+        <translation>Μεταβλητές περιβάλλοντος</translation>
     </message>
     <message>
         <source>Dates and times</source>
-        <translation type="vanished">Ημερομηνίες και ώρες</translation>
+        <translation>Ημερομηνίες και ώρες</translation>
     </message>
     <message>
         <source>Error</source>
@@ -979,11 +979,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάργηση άδειας</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Αγορά PRO</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1058,11 +1058,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή με σκιά</translation>
     </message>
     <message>
         <source>Save with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση με σκιά</translation>
     </message>
 </context>
 <context>
@@ -1268,47 +1268,47 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Copy image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή εικόνας με σκιά</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή εικόνας χωρίς κλίμακα</translation>
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή εικόνας χωρίς κλίμακα με σκιά</translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση εικόνας με σκιά ως...</translation>
     </message>
     <message>
         <source>Image processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασία εικόνας</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Προηγούμενο καρέ</translation>
     </message>
     <message>
         <source>Rotate left</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιστροφή αριστερά</translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Επόμενο καρέ</translation>
     </message>
     <message>
         <source>Rotate right</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιστροφή δεξιά</translation>
     </message>
     <message>
         <source>Horizontal flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναστροφή οριζόντια</translation>
     </message>
     <message>
         <source>Vertical flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατακόρυφη αναστροφή</translation>
     </message>
 </context>
 <context>
@@ -1394,11 +1394,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation type="vanished">Προσέξατε τις κόκκινες τελείες; Κάντε κλικ σε αυτές για χρήσιμες συμβουλές!</translation>
+        <translation>Προσέξατε τις κόκκινες τελείες; Κάντε κλικ σε αυτές για χρήσιμες συμβουλές!</translation>
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσέξατε τις κόκκινες τελείες στη γραμμή εργαλείων; Κάντε κλικ σε αυτές για χρήσιμες συμβουλές!</translation>
     </message>
 </context>
 <context>
@@ -1495,19 +1495,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετάβαση σε λειτουργία πίνακα (Διπλό ταπ στο ESC για έξοδο)</translation>
     </message>
     <message>
         <source>Pick color</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή χρώματος</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Επικόλληση σαν εικόνα</translation>
     </message>
     <message>
         <source>Paste as plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>Επικόλληση σαν απλό κείμενο</translation>
     </message>
 </context>
 <context>
@@ -1659,7 +1659,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The file name pattern is not valid!</source>
-        <translation type="vanished">Το μοτίβο του ονόματος αρχείου δεν είναι έγκυρο!</translation>
+        <translation>Το μοτίβο του ονόματος αρχείου δεν είναι έγκυρο!</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1687,7 +1687,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>%1 is not set!</source>
-        <translation type="vanished">Το %1 δεν έχει οριστεί!</translation>
+        <translation>Το %1 δεν έχει οριστεί!</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -1757,55 +1757,55 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρησιμοποιείτε τη δωρεάν έκδοση του Snipaste %1 %2</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Αίτηση ενεργοποίησης του Snipaste χωρίς σύνδεση</translation>
     </message>
     <message>
         <source>Hardware identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Ταυτότητα υλικού</translation>
     </message>
     <message>
         <source>Validity period</source>
-        <translation type="unfinished"></translation>
+        <translation>Περίοδος ισχύος</translation>
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation type="unfinished"></translation>
+        <translation>Καταχωρίστε την κατάλληλη διάρκεια γι αυτό το μηχάνημα. Η άδεια χρήσης εκτός σύνδεσης δεν μπορεί να καταργηθεί εντός της περιόδου ισχύος της.</translation>
     </message>
     <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλειδί άδειας</translation>
     </message>
     <message>
         <source>Paste your license key here</source>
-        <translation type="unfinished"></translation>
+        <translation>Επικολλήστε εδώ το κλειδί της άδειας χρήσης</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation type="unfinished"></translation>
+        <translation>Ξεκλείδωμα χαρακτηριστικών PRO</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το %1 είναι δωρεάν μόνο για ΠΡΟΣΩΠΙΚΗ ΧΡΗΣΗ. Εάν θέλετε να το χρησιμοποιήσετε σε χώρο εργασίας, απαιτείται άδεια PRO.</translation>
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="unfinished"></translation>
+        <translation>Η έκδοση PRO προσφέρει περισσότερα από 20 χρήσιμα νέα χαρακτηριστικά!</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλούμε επισκευθείτε &lt;a href=&quot;%1&quot;&gt;τον ιστότοπο&lt;/a&gt; για περισσότερες πληροφορίες.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη διστάσετε να επικοινωνήσετε με το %1 εάν χρειάζεστε βοήθεια.</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Αγορά</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1813,51 +1813,51 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή κλειδιού άδειας χρήσης</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Ενεργοποίηση</translation>
+        <translation>Ενεργοποίηση</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Πίσω</translation>
     </message>
     <message>
         <source>Offline activation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση χωρίς σύνδεση...</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανάληψη</translation>
     </message>
     <message>
         <source>Activation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Η ενεργοποίηση απέτυχε</translation>
     </message>
     <message>
         <source>Invalid license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρη άδεια.</translation>
     </message>
     <message>
         <source>Number of activations exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Έχει ξεπεραστεί ο αριθμός ενεργοποιήσεων.</translation>
     </message>
     <message>
         <source>Network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα δικτύου.</translation>
     </message>
     <message>
         <source>License expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η άδεια χρήσης έληξε.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρη άδεια χρήσης.</translation>
     </message>
     <message>
         <source>Error code</source>
-        <translation type="unfinished"></translation>
+        <translation>Κωδικός σφάλματος</translation>
     </message>
 </context>
 <context>
@@ -2003,11 +2003,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="vanished">Εισάγετε τα ονόματα εκτελέσιμων αρχείων χωρισμένα με κόμματα (π.χ. a.exe, games/*)</translation>
+        <translation>Εισάγετε τα ονόματα εκτελέσιμων αρχείων χωρισμένα με κόμματα (π.χ. a.exe, games/*)</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισάγετε τα ονόματα/διαδρομές εκτελέσιμων αρχείων χωρισμένα με κόμματα (π.χ. a.exe, games/*)</translation>
     </message>
 </context>
 <context>
@@ -2309,7 +2309,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Folder:</source>
-        <translation type="vanished">Φάκελος:</translation>
+        <translation>Φάκελος:</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2457,7 +2457,7 @@ Range: 10 - 100</source>
     <message>
         <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="vanished">Ένα κλεισμένο παράθυρο εικόνας μπορεί να ανακτηθεί από άλλη επικόλληση,
+        <translation>Ένα κλεισμένο παράθυρο εικόνας μπορεί να ανακτηθεί από άλλη επικόλληση,
 αν ο αριθμός των κλεισμένων εικόνων δεν έχει φτάσει στο όριο.
 Όταν ξεπεραστεί το όριο, το παλαιότερο από αυτά θα καταστραφεί.</translation>
     </message>
@@ -2467,7 +2467,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>* Press Backspace to clear</source>
-        <translation type="vanished">*Πατήστε Backspace για απαλοιφή</translation>
+        <translation>*Πατήστε Backspace για απαλοιφή</translation>
     </message>
     <message>
         <source>Check for updates</source>
@@ -2547,11 +2547,11 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="vanished">Όνομα αρχείου</translation>
+        <translation>Όνομα αρχείου</translation>
     </message>
     <message>
         <source>Pattern:</source>
-        <translation type="vanished">Μοτίβο:</translation>
+        <translation>Μοτίβο:</translation>
     </message>
     <message>
         <source>Preview:</source>
@@ -2559,7 +2559,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Grammar:</source>
-        <translation type="vanished">Σύνταξη:</translation>
+        <translation>Σύνταξη:</translation>
     </message>
     <message>
         <source>Licenses</source>
@@ -2919,7 +2919,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Copy image as file</source>
-        <translation type="vanished">Αντιγραφή εικόνας ως αρχείο</translation>
+        <translation>Αντιγραφή εικόνας ως αρχείο</translation>
     </message>
     <message>
         <source>File</source>
@@ -3051,11 +3051,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Unlock PRO features!</source>
-        <translation type="vanished">Ξεκλείδωμα χαρακτηριστικών PRO!</translation>
+        <translation>Ξεκλείδωμα χαρακτηριστικών PRO!</translation>
     </message>
     <message>
         <source>Buy PRO</source>
-        <translation type="vanished">Αγορά PRO</translation>
+        <translation>Αγορά PRO</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
@@ -3115,7 +3115,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Προεπιλεγμένο σχόλιο:</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -3126,31 +3126,31 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη αυτόματη αποθήκευση</translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα αρχείου:</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα φακέλου</translation>
     </message>
     <message>
         <source>Change Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλαγή φακέλου</translation>
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Κανόνες ονοματολογίας</translation>
     </message>
     <message>
         <source>Also copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>Επίσης αντιγραφή εικόνας ως αρχείο</translation>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>* Πιέστε Backspace για κατάργηση του πλήκτρου συντόμευσης</translation>
     </message>
 </context>
 <context>
