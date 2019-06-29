@@ -113,11 +113,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>在 Finder 中顯示</translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation>立即安裝</translation>
     </message>
 </context>
 <context>
@@ -194,7 +194,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入以英文逗號分隔的套件組合名稱/路徑（如 a.exe, games/*）</translation>
     </message>
 </context>
 <context>
@@ -394,7 +394,7 @@ Please contact the developer.</source>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
         <translation>感謝你的支持！
-立刻重新啟動來享受專業版？</translation>
+立即重新啟動即可享受專業版~</translation>
     </message>
     <message>
         <source>OK</source>
@@ -406,7 +406,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation type="unfinished"></translation>
+        <translation>移除授權資訊？Snipaste 將變成未註冊狀態。</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -470,7 +470,7 @@ Restart now to enjoy PRO features?</source>
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>命名規則</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -977,11 +977,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"></translation>
+        <translation>移除授權資訊</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>購買專業版</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1056,11 +1056,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>連帶陰影一併複製</translation>
     </message>
     <message>
         <source>Save with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>連帶陰影一併儲存</translation>
     </message>
 </context>
 <context>
@@ -1265,47 +1265,47 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Copy image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>複製圖像（包含陰影）</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>複製未縮放圖像</translation>
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>複製未縮放圖像（包含陰影）</translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>圖像（包含陰影）另存為...</translation>
     </message>
     <message>
         <source>Image processing</source>
-        <translation type="unfinished"></translation>
+        <translation>圖像處理</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>上一個畫面格</translation>
     </message>
     <message>
         <source>Rotate left</source>
-        <translation type="unfinished"></translation>
+        <translation>向左旋轉</translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>下一個畫面格</translation>
     </message>
     <message>
         <source>Rotate right</source>
-        <translation type="unfinished"></translation>
+        <translation>向右旋轉</translation>
     </message>
     <message>
         <source>Horizontal flip</source>
-        <translation type="unfinished"></translation>
+        <translation>水平翻轉</translation>
     </message>
     <message>
         <source>Vertical flip</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直翻轉</translation>
     </message>
 </context>
 <context>
@@ -1393,7 +1393,8 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation type="unfinished"></translation>
+        <translation>你注意到工具列上的小紅點了嗎？
+點選它們可以取得提示哦！</translation>
     </message>
 </context>
 <context>
@@ -1489,19 +1490,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>進入白板模式（按兩下 Esc 可以結束）</translation>
     </message>
     <message>
         <source>Pick color</source>
-        <translation type="unfinished"></translation>
+        <translation>挑選色彩</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>貼上為圖像</translation>
     </message>
     <message>
         <source>Paste as plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>貼上為純文字</translation>
     </message>
 </context>
 <context>
@@ -1701,7 +1702,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Click here to update now</source>
-        <translation>點選這裡馬上更新</translation>
+        <translation>點選這裡立即更新</translation>
     </message>
     <message>
         <source>Create new group</source>
@@ -1751,55 +1752,55 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>你正在使用免費版 Snipaste %1 %2</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 離線啟用要求</translation>
     </message>
     <message>
         <source>Hardware identity</source>
-        <translation type="unfinished"></translation>
+        <translation>硬體識別碼</translation>
     </message>
     <message>
         <source>Validity period</source>
-        <translation type="unfinished"></translation>
+        <translation>有效期限</translation>
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation type="unfinished"></translation>
+        <translation>請為目前電腦輸入適當的有效期限。離線授權在有效期限內無法移除。</translation>
     </message>
     <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
+        <translation>授權碼</translation>
     </message>
     <message>
         <source>Paste your license key here</source>
-        <translation type="unfinished"></translation>
+        <translation>在此處貼上授權碼</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation type="unfinished"></translation>
+        <translation>解鎖專業版</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 只對個人使用者免費。如需在公司使用，請購買專業版授權。</translation>
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="unfinished"></translation>
+        <translation>專業版提供了 20+ 實用的新功能！</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>請造訪 &lt;a href=&quot;%1&quot;&gt;網站&lt;/a&gt; 了解更多資訊。</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation type="unfinished"></translation>
+        <translation>如需幫助請聯絡 %1.</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>購買</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1807,51 +1808,51 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter license key</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入授權碼</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>啟用</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>上一步</translation>
     </message>
     <message>
         <source>Offline activation...</source>
-        <translation type="unfinished"></translation>
+        <translation>離線啟用...</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>重試</translation>
     </message>
     <message>
         <source>Activation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>啟用失敗</translation>
     </message>
     <message>
         <source>Invalid license.</source>
-        <translation type="unfinished"></translation>
+        <translation>無效的授權碼。</translation>
     </message>
     <message>
         <source>Number of activations exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>已超過最大啟用次數。</translation>
     </message>
     <message>
         <source>Network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>網路錯誤。</translation>
     </message>
     <message>
         <source>License expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>授權過期。</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>無效的授權碼。</translation>
     </message>
     <message>
         <source>Error code</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤代碼</translation>
     </message>
 </context>
 <context>
@@ -2005,7 +2006,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入以英文逗號分隔的程式檔案名稱/路徑（如 a.exe, games/*）</translation>
     </message>
 </context>
 <context>
@@ -3106,7 +3107,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>預設標註:</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -3116,31 +3117,31 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished"></translation>
+        <translation>手動儲存</translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>檔案名稱:</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟資料夾</translation>
     </message>
     <message>
         <source>Change Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>變更資料夾</translation>
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>命名規則</translation>
     </message>
     <message>
         <source>Also copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>同時複製為檔案</translation>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>* 按 Backspace 鍵清除目前快速鍵</translation>
     </message>
 </context>
 <context>
