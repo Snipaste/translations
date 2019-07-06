@@ -2965,7 +2965,7 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation>Naamgevinsregels</translation>
+        <translation>Naamgeving</translation>
     </message>
     <message>
         <source>Also copy image as file</source>
