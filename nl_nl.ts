@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="nl_NL" sourcelanguage="en_US">
+<TS version="2.2" language="nl_NL" sourcelanguage="en_US">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -188,7 +188,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer app-namen/paden in, gescheiden door komma's (bijv. snipaste.app, games/*)</translation>
     </message>
 </context>
 <context>
