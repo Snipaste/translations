@@ -283,7 +283,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Open the Preferences Dialog</source>
-        <translation>Voorkeuren-dialoog openen</translation>
+        <translation>Instellingen-dialoog openen</translation>
     </message>
     <message>
         <source>Common:</source>
@@ -1119,7 +1119,7 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>De actie &apos;Dubbelklik X&apos; is afgebroken.
-De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Voorkeuren - Sneltoetsen.</translation>
+De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Instellingen - Sneltoetsen.</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -2197,7 +2197,7 @@ Meld deze a.u.b. wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
-        <translation>Snipaste Voorkeuren</translation>
+        <translation>Snipaste instellingen</translation>
     </message>
     <message>
         <source>Run on system startup</source>
