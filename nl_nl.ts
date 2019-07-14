@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="nl_NL" sourcelanguage="en_US">
+<TS version="2.2" language="nl_NL" sourcelanguage="en_US">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -188,7 +188,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer app-namen/paden in, gescheiden door komma's (bijv. snipaste.app, games/*)</translation>
     </message>
 </context>
 <context>
@@ -283,7 +283,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Open the Preferences Dialog</source>
-        <translation>Voorkeuren-dialoog openen</translation>
+        <translation>Instellingen-dialoog openen</translation>
     </message>
     <message>
         <source>Common:</source>
@@ -1119,7 +1119,7 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>De actie &apos;Dubbelklik X&apos; is afgebroken.
-De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Voorkeuren - Sneltoetsen.</translation>
+De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Instellingen - Sneltoetsen.</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -2197,7 +2197,7 @@ Meld deze a.u.b. wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
-        <translation>Snipaste Voorkeuren</translation>
+        <translation>Snipaste instellingen</translation>
     </message>
     <message>
         <source>Run on system startup</source>
@@ -2965,7 +2965,7 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation>Naamgevinsregels</translation>
+        <translation>Naamgeving</translation>
     </message>
     <message>
         <source>Also copy image as file</source>
