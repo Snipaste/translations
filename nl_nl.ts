@@ -2911,7 +2911,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Keys</source>
-        <translation>Sleutels</translation>
+        <translation>Toetsen</translation>
     </message>
     <message>
         <source>Actions</source>
