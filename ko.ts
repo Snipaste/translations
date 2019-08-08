@@ -557,7 +557,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Translators</source>
-        <translation>번역</translation>
+        <translation>번역에 참여해 주신 사람들</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -1697,15 +1697,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Run as administrator for startup.</source>
-        <translation>시작시 관리자권한으로 실행</translation>
+        <translation>스니페이스트를 관리자 모드 실행</translation>
     </message>
     <message>
         <source>As administrator</source>
-        <translation>관리자로</translation>
+        <translation>관리자 권한으로 시작</translation>
     </message>
     <message>
         <source>So that the global hotkeys are effective when the active window has administrator privileges.</source>
-        <translation>관리자권한으로 실행 했다면 글로벌 단축키가 효과적입니다.</translation>
+        <translation>글로벌 단축키를 사용하려면 관리자 권한으로 실행해야 합니다.</translation>
     </message>
     <message>
         <source>Add more commands to the tray menu.</source>
@@ -1789,7 +1789,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Display</source>
-        <translation>화면</translation>
+        <translation>디스플레이</translation>
     </message>
     <message>
         <source>Border width:</source>
@@ -1861,7 +1861,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Behavior</source>
-        <translation>행동</translation>
+        <translation>비헤이비어</translation>
     </message>
     <message>
         <source>Auto detect the regions of windows when snipping.</source>
@@ -2316,12 +2316,12 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Include beta builds</source>
-        <translation>베타버전 인클루드</translation>
+        <translation>베타버전도 업데이트에 포함</translation>
     </message>
     <message>
         <source>Beta versions may contain more bugs.
 Please report to the developer if you find any.</source>
-        <translation>베타 버전에는 더 많은 버그가있을 수 있습니다..ㅎ 발견하시면 개발자에게 알려주세요</translation>
+        <translation>베타 버전에는 버그가 있을 수 있습니다..ㅎ 발견하시면 개발자에게 알려주세요! 뀨잉</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
@@ -2389,7 +2389,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation>설정 저장소</translation>
+        <translation>환경설정 파일 저장 경로</translation>
     </message>
     <message>
         <source>Path:</source>
@@ -2654,7 +2654,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Rate</source>
-        <translation>비율</translation>
+        <translation>평가</translation>
     </message>
     <message>
         <source>Unlock PRO features!</source>
