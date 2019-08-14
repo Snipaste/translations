@@ -1727,7 +1727,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation>请为当前电脑输入适当的有效期。离线授权在有效期内无法被撤销。</translation>
+        <translation>请设定一个适用于本机的合理有效期。注意，离线授权在有效期内无法被撤销。</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
