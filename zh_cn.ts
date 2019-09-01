@@ -1212,7 +1212,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>All desktops</source>
-        <translation>全部桌面</translation>
+        <translation>所有桌面</translation>
     </message>
     <message>
         <source>This desktop</source>
@@ -1220,7 +1220,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Pin on all desktops</source>
-        <translation>固定到全部桌面</translation>
+        <translation>固定到所有桌面</translation>
     </message>
     <message>
         <source>Desktop %1</source>
@@ -3014,7 +3014,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation>固定到全部虚拟桌面</translation>
+        <translation>固定到所有虚拟桌面</translation>
     </message>
 </context>
 <context>
