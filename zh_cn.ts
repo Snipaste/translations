@@ -162,8 +162,8 @@ Please contact the developer.</source>
         <translation>Mac 公测版</translation>
     </message>
     <message>
-        <source>PRO</source>
-        <translation>专业版</translation>
+        <source>PRO Features</source>
+        <translation>专业版特性</translation>
     </message>
 </context>
 <context>
@@ -683,10 +683,6 @@ Snipaste will be unregistered.</source>
         <translation>支持</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>图标</translation>
-    </message>
-    <message>
         <source>Contributors</source>
         <translation>贡献者</translation>
     </message>
@@ -708,7 +704,7 @@ Snipaste will be unregistered.</source>
     </message>
     <message>
         <source>Trace</source>
-        <translation>跟踪</translation>
+        <translation>追踪</translation>
     </message>
     <message>
         <source>Something went wrong with the startup shortcut.
@@ -913,6 +909,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Normal snip</source>
         <translation>普通截图</translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation>韩语</translation>
+    </message>
+    <message>
+        <source>UI</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1201,6 +1205,30 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Vertical flip</source>
         <translation>垂直翻转</translation>
+    </message>
+    <message>
+        <source>Assign to</source>
+        <translation>分配到</translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation>全部桌面</translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation>这个桌面</translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation>固定到全部桌面</translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
+        <translation>桌面 %1</translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation>分配到桌面</translation>
     </message>
 </context>
 <context>
@@ -2983,6 +3011,10 @@ You will gain better response time on entering snipping.</source>
 When the limit is reached, the oldest one will be destroyed.</source>
         <translation>被关闭的贴图窗口可以通过再次按下贴图键来恢复，只要已经被关闭的贴图数没有超过这个值。
 当已关闭的贴图数超过这个值时，最早被关闭的贴图将被销毁。</translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
+        <translation>固定到全部虚拟桌面</translation>
     </message>
 </context>
 <context>
