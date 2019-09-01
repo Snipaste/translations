@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="el_GR">
+<TS version="2.1" language="el_GR">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -106,14 +106,6 @@ Please contact the developer.</source>
         <translation>Άκυρο</translation>
     </message>
     <message>
-        <source>Open Download folder</source>
-        <translation>Άνοιγμα φακέλου λήψης</translation>
-    </message>
-    <message>
-        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation>Αποσυμπιέστε το και σύρετε την εφαρμογή στο φάκελο των εφαρμογών, μετά το κλείσιμο του Snipaste.</translation>
-    </message>
-    <message>
         <source>Show in Finder</source>
         <translation>Εμφάνιση στο Finder</translation>
     </message>
@@ -172,8 +164,8 @@ Please contact the developer.</source>
         <translation>Beta για Mac</translation>
     </message>
     <message>
-        <source>PRO</source>
-        <translation>PRO</translation>
+        <source>PRO Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -618,10 +610,6 @@ Restart now to enjoy PRO features?</source>
         <translation>Σουηδικά</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>Εικονίδια</translation>
-    </message>
-    <message>
         <source>Thank you for your support!</source>
         <translation>Ευχαριστούμε για την υποστήριξή σας!</translation>
     </message>
@@ -668,110 +656,6 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Polish</source>
         <translation>Πολωνικά</translation>
-    </message>
-    <message>
-        <source>Day (1-31)</source>
-        <translation>Ημέρα (1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation>Ημέρα (01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation>Μεταφρασμένο όνομα ημέρας (συντομ.)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation>Μεταφρασμένο όνομα ημέρας</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation>Μήνας (1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation>Μήνας (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation>Μεταφρασμένο όνομα μήνα (συντομ.)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation>Μεταφρασμένο όνομα μήνα</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation>Έτος (2 ψηφία)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation>Έτος (4 ψηφία)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation>Ώρα (0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation>Ώρα (00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation>Λεπτό (0-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation>Λεπτό (00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation>Δευτερόλεπτο (0-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation>Δευτερόλεπτο (00-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation>Χιλιοστό δευτερολέπτου (0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation>Χιλιοστό δευτερολέπτου (000-999)</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation>Ζώνη ώρας</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation>Λειτουργικό σύστημα</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation>Όνομα υπολογιστή</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation>Όνομα χρήστη</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation>Αποδεκτά επιθήματα</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation>Μη έγκυροι χαρακτήρες</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation>Μεταβλητές περιβάλλοντος</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation>Ημερομηνίες και ώρες</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1020,6 +904,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Normal snip</source>
         <translation>Κανονικό στιγμιότυπο</translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1310,6 +1202,30 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Vertical flip</source>
         <translation>Κατακόρυφη αναστροφή</translation>
     </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1391,10 +1307,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Pick File</source>
         <translation>Επιλέξτε αρχείο</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation>Προσέξατε τις κόκκινες τελείες; Κάντε κλικ σε αυτές για χρήσιμες συμβουλές!</translation>
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
@@ -1658,10 +1570,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Σφάλμα</translation>
     </message>
     <message>
-        <source>The file name pattern is not valid!</source>
-        <translation>Το μοτίβο του ονόματος αρχείου δεν είναι έγκυρο!</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Επιτυχής</translation>
     </message>
@@ -1684,10 +1592,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Invalid command line options.</source>
         <translation>Μη έγκυρες επιλογές γραμμής εντολών.</translation>
-    </message>
-    <message>
-        <source>%1 is not set!</source>
-        <translation>Το %1 δεν έχει οριστεί!</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -2002,10 +1906,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Λίστα παράβλεψης:</translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Εισάγετε τα ονόματα εκτελέσιμων αρχείων χωρισμένα με κόμματα (π.χ. a.exe, games/*)</translation>
-    </message>
-    <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation>Εισάγετε τα ονόματα/διαδρομές εκτελέσιμων αρχείων χωρισμένα με κόμματα (π.χ. a.exe, games/*)</translation>
     </message>
@@ -2308,10 +2208,6 @@ You can also find this option in the context menu of individual image window.</s
         <translation>Ταχεία αποθήκευση</translation>
     </message>
     <message>
-        <source>Folder:</source>
-        <translation>Φάκελος:</translation>
-    </message>
-    <message>
         <source>Open</source>
         <translation>Άνοιγμα</translation>
     </message>
@@ -2455,19 +2351,8 @@ Range: 10 - 100</source>
         <translation>Μέγιστος αριθμός ανακτήσιμων κλεισμένων εικόνων:</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation>Ένα κλεισμένο παράθυρο εικόνας μπορεί να ανακτηθεί από άλλη επικόλληση,
-αν ο αριθμός των κλεισμένων εικόνων δεν έχει φτάσει στο όριο.
-Όταν ξεπεραστεί το όριο, το παλαιότερο από αυτά θα καταστραφεί.</translation>
-    </message>
-    <message>
         <source>Global Hotkeys</source>
         <translation>Καθολικά πλήκτρα πρόσβασης</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation>*Πατήστε Backspace για απαλοιφή</translation>
     </message>
     <message>
         <source>Check for updates</source>
@@ -2546,20 +2431,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Μετατροπή</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation>Όνομα αρχείου</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation>Μοτίβο:</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>Προεπισκόπηση:</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation>Σύνταξη:</translation>
     </message>
     <message>
         <source>Licenses</source>
@@ -2918,10 +2791,6 @@ You will gain better response time on entering snipping.</source>
         <translation>Για να μπορείτε επίσης να επικολλήσετε την εικόνα στην εξερεύνηση αρχείων.</translation>
     </message>
     <message>
-        <source>Copy image as file</source>
-        <translation>Αντιγραφή εικόνας ως αρχείο</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Αρχείο</translation>
     </message>
@@ -3050,14 +2919,6 @@ You will gain better response time on entering snipping.</source>
         <translation>Αξιολόγηση</translation>
     </message>
     <message>
-        <source>Unlock PRO features!</source>
-        <translation>Ξεκλείδωμα χαρακτηριστικών PRO!</translation>
-    </message>
-    <message>
-        <source>Buy PRO</source>
-        <translation>Αγορά PRO</translation>
-    </message>
-    <message>
         <source>I&apos;m not interest in PRO</source>
         <translation>Δεν ενδιαφέρομαι για την PRO</translation>
     </message>
@@ -3151,6 +3012,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
         <translation>* Πιέστε Backspace για κατάργηση του πλήκτρου συντόμευσης</translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

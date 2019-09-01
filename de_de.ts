@@ -162,8 +162,8 @@ Please contact the developer.</source>
         <translation>Betaversion für Mac</translation>
     </message>
     <message>
-        <source>PRO</source>
-        <translation>PRO</translation>
+        <source>PRO Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -676,10 +676,6 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
         <translation>Unterstützung</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>Icons</translation>
-    </message>
-    <message>
         <source>Contributors</source>
         <translation>Spender</translation>
     </message>
@@ -906,6 +902,14 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     <message>
         <source>Normal snip</source>
         <translation>Normaler Snip</translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1194,6 +1198,30 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     <message>
         <source>Vertical flip</source>
         <translation>Vertikal drehen</translation>
+    </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2982,6 +3010,10 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
         <translation>* Drücken Sie die Rücktaste, um den Hotkey zu entfernen</translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -102,14 +102,6 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <translation>İptal</translation>
     </message>
     <message>
-        <source>Open Download folder</source>
-        <translation type="vanished">İndirilen klasörü aç</translation>
-    </message>
-    <message>
-        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="vanished">Lütfen, dosyayı çıkartın ve Snipaste&apos;tan çıktıktan sonra uygulamayı, Uygulamalar klasörüne sürükleyin.</translation>
-    </message>
-    <message>
         <source>Restarting</source>
         <translation>Yeniden başlatılıyor</translation>
     </message>
@@ -138,10 +130,6 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     <message>
         <source>Visit Online</source>
         <translation>Siteye Git</translation>
-    </message>
-    <message>
-        <source>PRO</source>
-        <translation>PRO</translation>
     </message>
     <message>
         <source>Beta for Mac</source>
@@ -174,6 +162,10 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     <message>
         <source>Changelog</source>
         <translation>Değişiklikler</translation>
+    </message>
+    <message>
+        <source>PRO Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -722,116 +714,8 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
         <translation>Çevirmenler</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>Simgeler</translation>
-    </message>
-    <message>
         <source>Contributors</source>
         <translation>Katkıda Bulunanlar</translation>
-    </message>
-    <message>
-        <source>Day (1-31)</source>
-        <translation type="vanished">Gün (1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation type="vanished">Gün (01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation type="vanished">Yerelleştirilmiş gün adı (abbr.)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation type="vanished">Yerelleştirilmiş gün adı</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation type="vanished">Ay (1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation type="vanished">Ay (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation type="vanished">Yerelleştirilmiş ay adı (abbr.)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation type="vanished">Yerelleştirilmiş ay adı</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation type="vanished">Yıl (2-haneli)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation type="vanished">Yıl (4-haneli)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation type="vanished">Saat (0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation type="vanished">Saat (00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation type="vanished">Dakika (0-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation type="vanished">Dakika (00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation type="vanished">Saniye (0-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation type="vanished">Saniye (00-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation type="vanished">Milisaniye (0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation type="vanished">Milisaniye (000-999)</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation type="vanished">Zaman Dilimi</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation type="vanished">İşletim Sistemi</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation type="vanished">Bilgisayar adı</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation type="vanished">Kullanıcı adı</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation type="vanished">Geçerli uzantılar</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation type="vanished">Yasak karakterler</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation type="vanished">Ortam Değişkenleri</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation type="vanished">Tarihler ve saatler</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
@@ -1020,6 +904,14 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     <message>
         <source>Normal snip</source>
         <translation>Normal Kırpma</translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1309,6 +1201,30 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
         <source>Vertical flip</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1372,10 +1288,6 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     <message>
         <source>Click here to see the changelog</source>
         <translation>Değişiklikleri görmek için tıklayın</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation type="vanished">Kırmızı noktaları gördün mü? Yararlı ipuçları almak için onları tıklayın!</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1718,14 +1630,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Varsayılan</translation>
     </message>
     <message>
-        <source>%1 is not set!</source>
-        <translation type="vanished">%1 belirlenmedi!</translation>
-    </message>
-    <message>
-        <source>The file name pattern is not valid!</source>
-        <translation type="vanished">Dosya adı şablonu geçerli değil!</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Başarılı</translation>
     </message>
@@ -1984,10 +1888,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Ignored list:</source>
         <translation>Yok sayılanlar listesi:</translation>
-    </message>
-    <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="vanished">Virgülle ayrılmış çalıştırılabilir uygulama isimleri girin (ör: a.exe, games/*)</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -2656,12 +2556,6 @@ Bu seçeneği, özel görüntü penceresinin bağlam menüsünden de bulabilirsi
         <translation>Maksimum geri kazanılabilir kapalı resimler:</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="vanished">Kapalı görüntü penceresi, kapalı resimlerin sayısı sınırı aşarsa, başka bir yapıştırma yöntemiyle kurtarılamaz.
-Limit ulaşıldığında, en eskisi yok edilir.</translation>
-    </message>
-    <message>
         <source>Conversion</source>
         <translation>Dönüşüm</translation>
     </message>
@@ -2770,10 +2664,6 @@ Ancak, bu sırada, görüntü alfa kanalı kaybolur.</translation>
         <translation>Böylece görüntüyü dosya gezgini içine de yapıştırabilirsiniz.</translation>
     </message>
     <message>
-        <source>Copy image as file</source>
-        <translation type="vanished">Resmi dosya olarak kopyala</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Dosya</translation>
     </message>
@@ -2794,28 +2684,12 @@ Küçük sıkıştırılmış dosyalar elde etmek için 0, sıkıştırılmamı�
 Snipaste&apos;in sizin için karar vermesine izin vermek için -1 yazın.</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="vanished">Dosya adı</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation type="vanished">Şablon:</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>Önizleme:</translation>
     </message>
     <message>
-        <source>Grammar:</source>
-        <translation type="vanished">Dil Kuralları:</translation>
-    </message>
-    <message>
         <source>Show notification</source>
         <translation>Bildirimleri göster</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation type="vanished">Klasör:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2856,10 +2730,6 @@ Snipaste&apos;in sizin için karar vermesine izin vermek için -1 yazın.</trans
     <message>
         <source>Add new command</source>
         <translation>Yeni komut ekle</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation type="vanished">* Temizlemek için silme tuşuna basın</translation>
     </message>
     <message>
         <source>Super Snip</source>
@@ -3060,14 +2930,6 @@ Herhangi bir hata bulursanız lütfen geliştiriciye bildirin.</translation>
         <translation>Derecelendir</translation>
     </message>
     <message>
-        <source>Unlock PRO features!</source>
-        <translation type="vanished">PRO özellik kilidini açın!</translation>
-    </message>
-    <message>
-        <source>Buy PRO</source>
-        <translation type="vanished">PRO satın al</translation>
-    </message>
-    <message>
         <source>I&apos;m not interest in PRO</source>
         <translation>PRO ile ilgilenmiyorum</translation>
     </message>
@@ -3139,6 +3001,10 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -104,12 +104,12 @@ Please contact the developer.</source>
         <translation>취소</translation>
     </message>
     <message>
-        <source>Open Download folder</source>
-        <translation>다운로드 폴더 열기</translation>
+        <source>Show in Finder</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation>Snipaste를 종료 후 압축 해제된 파일들을 Snipaste폴더로 드래그 하십시오.</translation>
+        <source>Install now</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -162,8 +162,8 @@ Please contact the developer.</source>
         <translation>맥용 베타버전</translation>
     </message>
     <message>
-        <source>PRO</source>
-        <translation>프로버전</translation>
+        <source>PRO Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -183,6 +183,10 @@ Please contact the developer.</source>
     <message>
         <source>The command cannot be empty!</source>
         <translation>명령어는 필수 입력사항입니다!</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -391,6 +395,14 @@ Restart now to enjoy PRO features?</source>
         <source>Later</source>
         <translation>나중에</translation>
     </message>
+    <message>
+        <source>Remove license key? Snipaste will be unregistered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">취소</translation>
+    </message>
 </context>
 <context>
     <name>Licensing_uwp</name>
@@ -443,6 +455,117 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Play</source>
         <translation>재생</translation>
+    </message>
+</context>
+<context>
+    <name>NamingRulesDialog</name>
+    <message>
+        <source>Naming Rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Day (1-31)</source>
+        <translation type="unfinished">일(1-31)</translation>
+    </message>
+    <message>
+        <source>Day (01-31)</source>
+        <translation type="unfinished">일(01-31)</translation>
+    </message>
+    <message>
+        <source>Localized day name (abbr.)</source>
+        <translation type="unfinished">현지 요일(약식)</translation>
+    </message>
+    <message>
+        <source>Localized day name</source>
+        <translation type="unfinished">현지 요일</translation>
+    </message>
+    <message>
+        <source>Month (1-12)</source>
+        <translation type="unfinished">월(1-12)</translation>
+    </message>
+    <message>
+        <source>Month (01-12)</source>
+        <translation type="unfinished">월(01-12)</translation>
+    </message>
+    <message>
+        <source>Localized month name (abbr.)</source>
+        <translation type="unfinished">현지 월(약식)</translation>
+    </message>
+    <message>
+        <source>Localized month name</source>
+        <translation type="unfinished">현지 월</translation>
+    </message>
+    <message>
+        <source>Year (2-digit)</source>
+        <translation type="unfinished">년도(2자리)</translation>
+    </message>
+    <message>
+        <source>Year (4-digit)</source>
+        <translation type="unfinished">년도(4자리)</translation>
+    </message>
+    <message>
+        <source>Hour (0-23)</source>
+        <translation type="unfinished">시(0-23)</translation>
+    </message>
+    <message>
+        <source>Hour (00-23)</source>
+        <translation type="unfinished">시(00-23)</translation>
+    </message>
+    <message>
+        <source>Minute (0-59)</source>
+        <translation type="unfinished">분(0-59)</translation>
+    </message>
+    <message>
+        <source>Minute (00-59)</source>
+        <translation type="unfinished">분(00-59)</translation>
+    </message>
+    <message>
+        <source>Second (0-59)</source>
+        <translation type="unfinished">초(00-59)</translation>
+    </message>
+    <message>
+        <source>Second (00-59)</source>
+        <translation type="unfinished">초(00-59)</translation>
+    </message>
+    <message>
+        <source>Milliseconds (0-999)</source>
+        <translation type="unfinished">밀리초(0-999)</translation>
+    </message>
+    <message>
+        <source>Milliseconds (000-999)</source>
+        <translation type="unfinished">밀리초(000-999)</translation>
+    </message>
+    <message>
+        <source>Timezone</source>
+        <translation type="unfinished">시간대</translation>
+    </message>
+    <message>
+        <source>Operation system</source>
+        <translation type="unfinished">운영체제</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation type="unfinished">컴퓨터 이름</translation>
+    </message>
+    <message>
+        <source>User name</source>
+        <translation type="unfinished">사용자 이름</translation>
+    </message>
+    <message>
+        <source>Allowed suffixes</source>
+        <translation type="unfinished">허용되는 접미사</translation>
+    </message>
+    <message>
+        <source>Illegal characters</source>
+        <translation type="unfinished">잘못된 문자</translation>
+    </message>
+    <message>
+        <source>Environment variables</source>
+        <translation type="unfinished">환경 변수</translation>
+    </message>
+    <message>
+        <source>Dates and times</source>
+        <translation type="unfinished">날짜와 시간</translation>
     </message>
 </context>
 <context>
@@ -560,116 +683,8 @@ Restart now to enjoy PRO features?</source>
         <translation>번역에 참여해 주신 사람들</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>아이콘</translation>
-    </message>
-    <message>
         <source>Contributors</source>
         <translation>기여자</translation>
-    </message>
-    <message>
-        <source>Day (1-31)</source>
-        <translation>일(1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation>일(01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation>현지 요일(약식)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation>현지 요일</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation>월(1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation>월(01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation>현지 월(약식)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation>현지 월</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation>년도(2자리)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation>년도(4자리)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation>시(0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation>시(00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation>분(0-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation>분(00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation>초(00-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation>초(00-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation>밀리초(0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation>밀리초(000-999)</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation>시간대</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation>운영체제</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation>컴퓨터 이름</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation>사용자 이름</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation>허용되는 접미사</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation>잘못된 문자</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation>환경 변수</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation>날짜와 시간</translation>
     </message>
     <message>
         <source>Error</source>
@@ -841,6 +856,58 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Import succeeded!</source>
         <translation>가져 오기가 성공했습니다!</translation>
     </message>
+    <message>
+        <source>Remove license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation type="unfinished">직사각형 / 타원</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation type="unfinished">줄무늬</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation type="unfinished">화살표</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation type="unfinished">펜</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation type="unfinished">마커팬</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">텍스트</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation type="unfinished">모자이크/블러</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">지우개</translation>
+    </message>
+    <message>
+        <source>Normal snip</source>
+        <translation type="unfinished">보통 캡춰</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -863,6 +930,26 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
         <translation>드래그하여 단일 선을 그리거나 클릭하여 선 스트립을 그립니다.</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">볼드</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">이탤릭</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished">개요</translation>
+    </message>
+    <message>
+        <source>Copy with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save with shadow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1066,6 +1153,74 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Custom...</source>
         <translation>사용자</translation>
     </message>
+    <message>
+        <source>Copy image with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy unscaled image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy unscaled image with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save image with shadow as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1146,8 +1301,8 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>파일 선택</translation>
     </message>
     <message>
-        <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation>빨간 점들을 보셨습니까? 클릭하면 유용한 팁을 얻을 수 있습니다!</translation>
+        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1240,6 +1395,22 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Open Notepad</source>
         <translation>메모장 열기</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1414,14 +1585,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>기본</translation>
     </message>
     <message>
-        <source>%1 is not set!</source>
-        <translation>%1(이)가 셋팅되지 않았습니다!</translation>
-    </message>
-    <message>
-        <source>The file name pattern is not valid!</source>
-        <translation>파일 이름 패턴이 유효하지 않습니다!</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>성공</translation>
     </message>
@@ -1484,6 +1647,113 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Do not show this again</source>
         <translation>다시 보지 않음</translation>
+    </message>
+</context>
+<context>
+    <name>UnlockProDialog</name>
+    <message>
+        <source>Snipaste offline activation request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware identity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Validity period</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste your license key here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock PRO features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are using the free version of Snipaste %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PRO version provides more than 20 useful new features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please feel free to contact %1 if you need any help.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">취소</translation>
+    </message>
+    <message>
+        <source>Enter license key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation type="unfinished">활성화</translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline activation...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of activations exceeded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error code</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1628,8 +1898,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>무시된 목록 : </translation>
     </message>
     <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation>실행 파일 이름을 쉼표로 구분하여 입력하십시오 (예 : a.exe, games / *).</translation>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2131,11 +2401,6 @@ You can also find this option in the context menu of individual image window.</s
         <translation>닫은 이미지 복구에 대한 최대 갯수</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation>닫힌 이미지 수가 제한에 도달하지 않으면 닫힌 이미지 창을 다른 붙여 넣기로 복구 할 수 있습니다. 한도에 도달하면 가장 오래된 것이 없어집니다.</translation>
-    </message>
-    <message>
         <source>Conversion</source>
         <translation>변환</translation>
     </message>
@@ -2231,24 +2496,8 @@ Specify -1 to let Snipaste decide for you.</source>
 -1 : 스니페이스트가 자동으로 결정하게 함</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation>파일명</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation>패턴</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>미리보기</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation>문법</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation>폴더</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2281,10 +2530,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Global Hotkeys</source>
         <translation>글로벌 단축키</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation>지우려면 백스페이스를 누르세요</translation>
     </message>
     <message>
         <source>Image Operations</source>
@@ -2525,10 +2770,6 @@ You will gain better response time on entering snipping.</source>
         <translation>이미지를 파일 탐색기에 붙여넣기 할 수도 있습니다.</translation>
     </message>
     <message>
-        <source>Copy image as file</source>
-        <translation>이미지를 파일로 저장하기</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>파일</translation>
     </message>
@@ -2657,14 +2898,6 @@ You will gain better response time on entering snipping.</source>
         <translation>평가</translation>
     </message>
     <message>
-        <source>Unlock PRO features!</source>
-        <translation>프로버전으로 잠금해제!</translation>
-    </message>
-    <message>
-        <source>Buy PRO</source>
-        <translation>프로버젼 구매</translation>
-    </message>
-    <message>
         <source>I&apos;m not interest in PRO</source>
         <translation>프로버전엔 관시미가 없어영</translation>
     </message>
@@ -2719,6 +2952,47 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>&apos;Enter&apos; key:</source>
         <translation>&apos;엔터&apos; 키</translation>
+    </message>
+    <message>
+        <source>Default annotation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
+When the limit is reached, the oldest one will be destroyed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Naming Rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Also copy image as file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Press Backspace to remove the hotkey</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

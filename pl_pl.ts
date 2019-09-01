@@ -164,7 +164,7 @@ Proszę skontaktować się z deweloperem.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PRO</source>
+        <source>PRO Features</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -681,120 +681,12 @@ Restart now to enjoy PRO features?</source>
         <translation>Pomoc</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>Ikony</translation>
-    </message>
-    <message>
         <source>Translators</source>
         <translation>Tłumacze</translation>
     </message>
     <message>
         <source>Contributors</source>
         <translation>Współtwórcy</translation>
-    </message>
-    <message>
-        <source>Day (1-31)</source>
-        <translation type="vanished">Dzień (1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation type="vanished">Dzień (01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation type="vanished">Lokalna nazwa dnia (skrócona)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation type="vanished">Lokalna nazwa dnia</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation type="vanished">Miesiąc (1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation type="vanished">Miesiąc (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation type="vanished">Lokalna nazwa miesiąca (skrócona)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation type="vanished">Lokalna nazwa miesiąca</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation type="vanished">Rok (2 cyfry)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation type="vanished">Rok (4 cyfry)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation type="vanished">Godzina (0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation type="vanished">Godzina (00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation type="vanished">Minuta (0-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation type="vanished">Minuta (00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation type="vanished">Sekunda (0-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation type="vanished">Sekunda (00-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation type="vanished">Milisekundy (0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation type="vanished">Milisekundy (000-999)</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation type="vanished">Strefa czasowa</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation type="vanished">System operacyjny</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation type="vanished">Nazwa komputera</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation type="vanished">Nazwa użytkownika</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation type="vanished">Dozwolone przyrostki</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation type="vanished">Niedozwolone znaki</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation type="vanished">Zmienne środowiska </translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation type="vanished">Data i czas</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1009,6 +901,14 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Normal snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1296,6 +1196,30 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Vertical flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1604,10 +1528,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error</source>
         <translation>Błąd</translation>
-    </message>
-    <message>
-        <source>The file name pattern is not valid!</source>
-        <translation type="vanished">Wzór nazwy plików nie jest prawidłowy!</translation>
     </message>
     <message>
         <source>Success</source>
@@ -2558,12 +2478,6 @@ Jeżeli wyłączone, zawsze będzie pokazany na środku domyślnego ekranu.</tra
         <translation>Maksymalna ilość przywróconych okien:</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="vanished">Zamknięte okno obazu może zostać przywrócona jeżeli liczba zamkniętych obrazów nie przekracza limitu.
-Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation>
-    </message>
-    <message>
         <source>Conversion</source>
         <translation>Konwersja</translation>
     </message>
@@ -2648,24 +2562,8 @@ Ustaw 0 aby otrzymać małe, skompresowane pliki, 100 dla dużych nieskompresowa
 Ustawienie -1 pozwoli Snipaste ustawić odpowiednią jakość.</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="vanished">Nazwa pliku</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation type="vanished">Wzór:</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>Podgląd:</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation type="vanished">Gramatyka:</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation type="vanished">Folder:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2698,10 +2596,6 @@ Ustawienie -1 pozwoli Snipaste ustawić odpowiednią jakość.</translation>
     <message>
         <source>Global Hotkeys</source>
         <translation>Globalne klawisze skrótu</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation type="vanished">* Wciśnij Backspace aby wyczyścić</translation>
     </message>
     <message>
         <source>Image Operations</source>
@@ -3106,6 +3000,10 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

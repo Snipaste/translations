@@ -164,7 +164,7 @@ Kontakta programutvecklaren.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PRO</source>
+        <source>PRO Features</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -613,10 +613,6 @@ Restart now to enjoy PRO features?</source>
         <translation>Svenska</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>Ikoner</translation>
-    </message>
-    <message>
         <source>Thank you for your support!</source>
         <translation>Tack för ditt stöd!</translation>
     </message>
@@ -663,110 +659,6 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Polish</source>
         <translation>Polska</translation>
-    </message>
-    <message>
-        <source>Day (1-31)</source>
-        <translation type="vanished">Dag (1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation type="vanished">Dag (01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation type="vanished">Språkspecifikt dagnamn (kort)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation type="vanished">Språkspecifikt dagnamn</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation type="vanished">Månad (1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation type="vanished">Månad (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation type="vanished">Språkspecifikt månadsnamn (kort)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation type="vanished">Språkspecifikt månadsnamn</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation type="vanished">År (2-siffrigt)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation type="vanished">År (4-siffrigt)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation type="vanished">Timmar (0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation type="vanished">Timmar (00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation type="vanished">Minuter (0-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation type="vanished">Minuter (00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation type="vanished">Sekunder (0-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation type="vanished">Sekunder (00-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation type="vanished">Millisekunder (0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation type="vanished">Millisekunder (000-999)</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation type="vanished">Tidszon</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation type="vanished">Operativsystem</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation type="vanished">Datornamn</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation type="vanished">Användarnamn</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation type="vanished">Tillåtna suffix</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation type="vanished">Otillåtna tecken</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation type="vanished">Miljövariabler</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation type="vanished">Datum och tider</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1009,6 +901,14 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Normal snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1296,6 +1196,30 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Vertical flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1638,10 +1562,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Fel</translation>
     </message>
     <message>
-        <source>The file name pattern is not valid!</source>
-        <translation type="vanished">Filnamnsmönstret är inte giltigt!</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Slutfört</translation>
     </message>
@@ -1664,10 +1584,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Invalid command line options.</source>
         <translation>Ogiltiga kommandoalternativ.</translation>
-    </message>
-    <message>
-        <source>%1 is not set!</source>
-        <translation type="vanished">%1 är inte inställt!</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -2292,10 +2208,6 @@ Om detta alternativ aktiveras, kommer ovanstående funktioner att inaktiveras.</
         <translation>Snabbspara</translation>
     </message>
     <message>
-        <source>Folder:</source>
-        <translation type="vanished">Mapp:</translation>
-    </message>
-    <message>
         <source>Open</source>
         <translation>Öppna</translation>
     </message>
@@ -2422,18 +2334,8 @@ Intervall: 10 - 100</translation>
         <translation>Max återställningsbara stängda bilder:</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="vanished">Ett stängt bildfönster kan återställas genom ytterligare en inklistring, om antalet stängda bilder inte överstiger gränsen.
-När gränsen är nådd, kommer den äldsta att tas bort.</translation>
-    </message>
-    <message>
         <source>Global Hotkeys</source>
         <translation>Globala snabbtangenter</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation type="vanished">*Tryck backslag för att rensa</translation>
     </message>
     <message>
         <source>Check for updates</source>
@@ -2520,20 +2422,8 @@ När gränsen är nådd, kommer den äldsta att tas bort.</translation>
         <translation>Konvertering</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="vanished">Filnamn</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation type="vanished">Mönster:</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>Förhandsgranska:</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation type="vanished">Gramatik:</translation>
     </message>
     <message>
         <source>Licenses</source>
@@ -3109,6 +2999,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

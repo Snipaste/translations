@@ -162,8 +162,8 @@ Please contact the developer.</source>
         <translation>Beta for Mac</translation>
     </message>
     <message>
-        <source>PRO</source>
-        <translation>محترف</translation>
+        <source>PRO Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -599,10 +599,6 @@ Restart now to enjoy PRO features?</source>
         <translation>اليونانية</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>ايقونات</translation>
-    </message>
-    <message>
         <source>Trace</source>
         <translation>تتبع</translation>
     </message>
@@ -903,6 +899,14 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Normal snip</source>
         <translation>القصاصة العادية</translation>
     </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -1190,6 +1194,30 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Vertical flip</source>
         <translation>شقلبة عمودية</translation>
+    </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2960,6 +2988,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
         <translation>* اضغط للخلف لأزاله مفتاح الاختصار</translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

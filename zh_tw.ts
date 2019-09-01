@@ -104,14 +104,6 @@ Please contact the developer.</source>
         <translation>取消</translation>
     </message>
     <message>
-        <source>Open Download folder</source>
-        <translation type="vanished">開啟下載資料夾</translation>
-    </message>
-    <message>
-        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="vanished">請結束 Snipaste 後，將其解壓縮並拖曳至&quot;應用程式&quot;資料夾以完成更新。</translation>
-    </message>
-    <message>
         <source>Show in Finder</source>
         <translation>在 Finder 中顯示</translation>
     </message>
@@ -170,8 +162,8 @@ Please contact the developer.</source>
         <translation>Mac 公測版</translation>
     </message>
     <message>
-        <source>PRO</source>
-        <translation>專業版</translation>
+        <source>PRO Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -684,116 +676,8 @@ Restart now to enjoy PRO features?</source>
         <translation>支援</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>圖示</translation>
-    </message>
-    <message>
         <source>Contributors</source>
         <translation>貢獻者</translation>
-    </message>
-    <message>
-        <source>Day (1-31)</source>
-        <translation type="vanished">日期 (1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation type="vanished">日期 (01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation type="vanished">周幾</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation type="vanished">星期幾</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation type="vanished">月份 (1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation type="vanished">月份 (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation type="vanished">月份名稱 (小寫)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation type="vanished">月份名稱 (大寫)</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation type="vanished">年 (兩位數)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation type="vanished">年 (四位數)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation type="vanished">時 (0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation type="vanished">時 (00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation type="vanished">分 (0-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation type="vanished">分 (00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation type="vanished">秒 (0-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation type="vanished">秒 (00-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation type="vanished">毫秒 (0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation type="vanished">毫秒 (000-999)</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation type="vanished">時區</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation type="vanished">作業系統</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation type="vanished">電腦名稱</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation type="vanished">使用者名稱</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation type="vanished">可用尾碼</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation type="vanished">非法字元</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation type="vanished">環境變數</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation type="vanished">日期和時間</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1018,6 +902,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Normal snip</source>
         <translation>普通擷圖</translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1307,6 +1199,30 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Vertical flip</source>
         <translation>垂直翻轉</translation>
     </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1386,10 +1302,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Pick File</source>
         <translation>選擇檔案</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation type="vanished">你注意到小紅點了嗎？點選它們可以取得提示哦！</translation>
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
@@ -1607,14 +1519,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Invalid command line options.</source>
         <translation>無效的命令列參數。</translation>
-    </message>
-    <message>
-        <source>%1 is not set!</source>
-        <translation type="vanished">%1 未設定！</translation>
-    </message>
-    <message>
-        <source>The file name pattern is not valid!</source>
-        <translation type="vanished">無效的檔案命名規則！</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1999,10 +1903,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Ignored list:</source>
         <translation>忽略程式清單：</translation>
-    </message>
-    <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="vanished">輸入以英文逗號分隔的程式名稱（如 a.exe, games/*）</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
@@ -2422,12 +2322,6 @@ Range: 10 - 100</source>
         <translation>可被還原的貼圖數：</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="vanished">被關閉的貼圖視窗可以透過再次按下貼圖鍵來還原，只要已經被關閉的貼圖數沒有超過這個值。
-當已關閉的貼圖數超過這個值時，最早被關閉的貼圖將被銷毀。</translation>
-    </message>
-    <message>
         <source>Conversion</source>
         <translation>轉換</translation>
     </message>
@@ -2472,20 +2366,8 @@ Specify -1 to let Snipaste decide for you.</source>
 設為 -1，Snipaste 會幫你做決定。</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="vanished">檔案命名</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation type="vanished">規則：</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>預覽：</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation type="vanished">語法：</translation>
     </message>
     <message>
         <source>Auto Save</source>
@@ -2506,10 +2388,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Global Hotkeys</source>
         <translation>全域快速鍵</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation type="vanished">* 按 Backspace 鍵清除目前快速鍵</translation>
     </message>
     <message>
         <source>Image Operations</source>
@@ -2616,10 +2494,6 @@ Please report to the developer if you find any.</source>
     <message>
         <source>Quick Save</source>
         <translation>快速儲存</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation type="vanished">目錄：</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2910,10 +2784,6 @@ You will gain better response time on entering snipping.</source>
         <translation>這樣你可以直接將圖片貼上至檔案總管中。</translation>
     </message>
     <message>
-        <source>Copy image as file</source>
-        <translation type="vanished">複製為檔案</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>檔案</translation>
     </message>
@@ -3042,14 +2912,6 @@ You will gain better response time on entering snipping.</source>
         <translation>評價</translation>
     </message>
     <message>
-        <source>Unlock PRO features!</source>
-        <translation type="vanished">解鎖專業版功能！</translation>
-    </message>
-    <message>
-        <source>Buy PRO</source>
-        <translation type="vanished">購買專業版</translation>
-    </message>
-    <message>
         <source>I&apos;m not interest in PRO</source>
         <translation>我對專業版不感興趣</translation>
     </message>
@@ -3142,6 +3004,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
         <translation>* 按 Backspace 鍵清除目前快速鍵</translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

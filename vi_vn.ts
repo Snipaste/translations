@@ -162,7 +162,7 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PRO</source>
+        <source>PRO Features</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -679,10 +679,6 @@ Restart now to enjoy PRO features?</source>
         <translation>Ủng hộ</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>Icons</translation>
-    </message>
-    <message>
         <source>Translators</source>
         <translation>Người dịch</translation>
     </message>
@@ -690,110 +686,6 @@ Restart now to enjoy PRO features?</source>
         <source>Contributors</source>
         <translation>
 Những người cộng tác</translation>
-    </message>
-    <message>
-        <source>Day (1-31)</source>
-        <translation type="vanished">Ngày ( 1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation type="vanished">Ngày (01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation type="vanished">Khoanh vùng tên ngày (abbr)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation type="vanished">Khoanh vùng tên ngày</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation type="vanished">Tháng(1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation type="vanished">Tháng(01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation type="vanished">Khoanh vùng tên tháng(abbr)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation type="vanished">Khoanh vùng tên tháng</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation type="vanished">Năm (2-digit)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation type="vanished">Năm(4-digit)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation type="vanished">Giờ(0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation type="vanished">Giờ(00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation type="vanished">Phút(00-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation type="vanished">Phút(00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation type="vanished">Giây(0-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation type="vanished">Giây(0-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation type="vanished">Một phần nghìn giây(0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation type="vanished">Một phần nghìn giây(000-999</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation type="vanished">Múi giờ</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation type="vanished">Hoạt động hệ thống</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation type="vanished">Tên máy tính</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation type="vanished">Tên người dùng</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation type="vanished">Cho phép hậu tố</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation type="vanished">Những ký tự không được phép dùng</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation type="vanished">Môi trường biến thiên</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation type="vanished">Ngày và giờ</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1007,6 +899,14 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Normal snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1294,6 +1194,30 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Vertical flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1601,10 +1525,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Quit</source>
         <translation>Thoát</translation>
-    </message>
-    <message>
-        <source>The file name pattern is not valid!</source>
-        <translation type="vanished">Mẫu tên tập tin không hợp lệ!</translation>
     </message>
     <message>
         <source>Success</source>
@@ -2507,11 +2427,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <translation>Hình ảnh đóng kín được thu hồi nhiều nhất:</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="vanished">Đóng cửa sổ hình ảnh có thể khôi phục bằng cách khác nếu một số của cửa sổ hình ảnh không thể chạm tới giới hạn. Khi giới hạn được chạm tới, cái cũ nhất sẽ bị xóa bỏ.</translation>
-    </message>
-    <message>
         <source>Conversion</source>
         <translation>Chuyển đổi </translation>
     </message>
@@ -2594,24 +2509,8 @@ If this option is checked, the above features will be disabled.</source>
         <translation>Số lượng hình ảnh:</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="vanished">Tên tập tin</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation type="vanished">Dạng mẫu:</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>Xem trước:</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation type="vanished">Cú pháp:</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation type="vanished">Thư mục:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2636,10 +2535,6 @@ If this option is checked, the above features will be disabled.</source>
     <message>
         <source>Global Hotkeys</source>
         <translation>Global hotkeys</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation type="vanished">* ấn Backspace để làm sạch </translation>
     </message>
     <message>
         <source>Image Operations</source>
@@ -3094,6 +2989,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

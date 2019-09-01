@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.2" language="nl_NL" sourcelanguage="en_US">
+<TS version="2.1" language="nl_NL" sourcelanguage="en_US">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -164,8 +164,8 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <translation>Bèta voor Mac</translation>
     </message>
     <message>
-        <source>PRO</source>
-        <translation>PRO</translation>
+        <source>PRO Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -188,7 +188,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>Voer app-namen/paden in, gescheiden door komma's (bijv. snipaste.app, games/*)</translation>
+        <translation>Voer app-namen/paden in, gescheiden door komma&apos;s (bijv. snipaste.app, games/*)</translation>
     </message>
 </context>
 <context>
@@ -678,10 +678,6 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
         <translation>Ondersteuning</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>Pictogrammen</translation>
-    </message>
-    <message>
         <source>Contributors</source>
         <translation>Bijdragen van</translation>
     </message>
@@ -908,6 +904,14 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     <message>
         <source>Normal snip</source>
         <translation>Normaal knippen</translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1196,6 +1200,30 @@ De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Instellingen - Snelto
     <message>
         <source>Vertical flip</source>
         <translation>Verticaal spiegelen</translation>
+    </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2974,6 +3002,10 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
         <translation>* Toets Backspace om de sneltoets te wissen</translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

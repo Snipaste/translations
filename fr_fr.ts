@@ -164,8 +164,8 @@ Veuillez contacter le développeur.</translation>
         <translation>Bêta pour Mac</translation>
     </message>
     <message>
-        <source>PRO</source>
-        <translation>Pro</translation>
+        <source>PRO Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -594,10 +594,6 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO?</translation>
         <translation>Grec</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>Icônes</translation>
-    </message>
-    <message>
         <source>Weibo</source>
         <translation>Weibo</translation>
     </message>
@@ -909,6 +905,14 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
         <source>Normal snip</source>
         <translation>Coupure normale</translation>
     </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -1196,6 +1200,30 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
     <message>
         <source>Vertical flip</source>
         <translation>Flip vertical</translation>
+    </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2978,6 +3006,10 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
         <translation>* Appuyez sur Retour arrière pour supprimer le raccourci clavier</translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

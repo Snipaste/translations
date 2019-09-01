@@ -164,7 +164,7 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PRO</source>
+        <source>PRO Features</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -689,116 +689,8 @@ Restart now to enjoy PRO features?</source>
         <translation>Переводчики</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>Иконки</translation>
-    </message>
-    <message>
         <source>Contributors</source>
         <translation>Авторы</translation>
-    </message>
-    <message>
-        <source>Day (1-31)</source>
-        <translation type="vanished">День (1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation type="vanished">День (01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation type="vanished">Локализованное название дня (аббр.)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation type="vanished">Локализованное название дня</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation type="vanished">Месяц (1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation type="vanished">Месяц (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation type="vanished">Локализованное название месяца (аббр.)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation type="vanished">Локализованное название месяца</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation type="vanished">Год (2-значный)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation type="vanished">Год (4-значный)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation type="vanished">Час (0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation type="vanished">Час (00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation type="vanished">Минута (0-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation type="vanished">Минута (00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation type="vanished">Секунда (0-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation type="vanished">Секунда (00-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation type="vanished">Милисекунды (0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation type="vanished">Милесекунды (000-999)</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation type="vanished">Часовой пояс</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation type="vanished">Операционная система</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation type="vanished">Имя компьютера</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation type="vanished">Имя пользователя</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation type="vanished">Допустимые суффиксы</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation type="vanished">Незаконные символы</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation type="vanished">Переменные среды</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation type="vanished">Даты и время</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1009,6 +901,14 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Normal snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1296,6 +1196,30 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Vertical flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1660,14 +1584,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Default</source>
         <translation>По умолчанию</translation>
-    </message>
-    <message>
-        <source>%1 is not set!</source>
-        <translation type="vanished">%1 не установлено!</translation>
-    </message>
-    <message>
-        <source>The file name pattern is not valid!</source>
-        <translation type="vanished">Недопустимое имя файла шаблона!</translation>
     </message>
     <message>
         <source>Success</source>
@@ -2490,12 +2406,6 @@ You can also find this option in the context menu of individual image window.</s
         <translation>Максимум восстанавливаемых закрытых изображений:</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="vanished">Окно закрытого изображения может быть восстановлено другим путем вставки, если число закрытых изображений не достигает предела.
-По достижении этого предела самая старая из них будет уничтожена.</translation>
-    </message>
-    <message>
         <source>Conversion</source>
         <translation>Преобразования</translation>
     </message>
@@ -2592,24 +2502,8 @@ Specify -1 to let Snipaste decide for you.</source>
 Укажите -1, чтобы позволить Snipaste решить за вас.</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="vanished">Имя файла</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation type="vanished">Шаблон:</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>Предпросмотр:</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation type="vanished">Грамматика:</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation type="vanished">Папка:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2642,10 +2536,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Global Hotkeys</source>
         <translation>Общие горячие клавиши</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation type="vanished">* Нажмите клавишу BACKSPACE, чтобы очистить</translation>
     </message>
     <message>
         <source>Image Operations</source>
@@ -3106,6 +2996,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

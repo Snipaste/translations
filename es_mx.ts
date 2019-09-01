@@ -104,14 +104,6 @@ Please contact the developer.</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <source>Open Download folder</source>
-        <translation type="vanished">Abrir carpeta de descarga</translation>
-    </message>
-    <message>
-        <source>Please unzip it and drag the application into Applications folder after quitting Snipaste.</source>
-        <translation type="vanished">Por favor descomprima y arrastre la aplicación en el folder de Aplicaciones después de salir de Snipaste.</translation>
-    </message>
-    <message>
         <source>Show in Finder</source>
         <translation type="unfinished"></translation>
     </message>
@@ -170,8 +162,8 @@ Please contact the developer.</source>
         <translation>Beta para Mac</translation>
     </message>
     <message>
-        <source>PRO</source>
-        <translation>PRO</translation>
+        <source>PRO Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -691,116 +683,8 @@ Restart now to enjoy PRO features?</source>
         <translation>Traductores</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation>Íconos</translation>
-    </message>
-    <message>
         <source>Contributors</source>
         <translation>Contribuidores</translation>
-    </message>
-    <message>
-        <source>Day (1-31)</source>
-        <translation type="vanished">Día (1-31)</translation>
-    </message>
-    <message>
-        <source>Day (01-31)</source>
-        <translation type="vanished">Día (01-31)</translation>
-    </message>
-    <message>
-        <source>Localized day name (abbr.)</source>
-        <translation type="vanished">Día (abrev.) en su localización</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation type="vanished">Día en su localización</translation>
-    </message>
-    <message>
-        <source>Month (1-12)</source>
-        <translation type="vanished">Mes (1-12)</translation>
-    </message>
-    <message>
-        <source>Month (01-12)</source>
-        <translation type="vanished">Mes (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation type="vanished">Mes (abrev.) en su localización</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation type="vanished">Mes en su localización</translation>
-    </message>
-    <message>
-        <source>Year (2-digit)</source>
-        <translation type="vanished">Año (2-dígitos)</translation>
-    </message>
-    <message>
-        <source>Year (4-digit)</source>
-        <translation type="vanished">Año (4-dígitos)</translation>
-    </message>
-    <message>
-        <source>Hour (0-23)</source>
-        <translation type="vanished">Hora (0-23)</translation>
-    </message>
-    <message>
-        <source>Hour (00-23)</source>
-        <translation type="vanished">Hora (00-23)</translation>
-    </message>
-    <message>
-        <source>Minute (0-59)</source>
-        <translation type="vanished">Minuto (0-59)</translation>
-    </message>
-    <message>
-        <source>Minute (00-59)</source>
-        <translation type="vanished">Minuto (00-59)</translation>
-    </message>
-    <message>
-        <source>Second (0-59)</source>
-        <translation type="vanished">Segundo (0-59)</translation>
-    </message>
-    <message>
-        <source>Second (00-59)</source>
-        <translation type="vanished">Segundo (00-59)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (0-999)</source>
-        <translation type="vanished">Milisegundo (0-999)</translation>
-    </message>
-    <message>
-        <source>Milliseconds (000-999)</source>
-        <translation type="vanished">Milisegundo (000-999)</translation>
-    </message>
-    <message>
-        <source>Timezone</source>
-        <translation type="vanished">Zona horaria</translation>
-    </message>
-    <message>
-        <source>Operation system</source>
-        <translation type="vanished">Sistema Operativo</translation>
-    </message>
-    <message>
-        <source>Computer name</source>
-        <translation type="vanished">Nombre del ordenador</translation>
-    </message>
-    <message>
-        <source>User name</source>
-        <translation type="vanished">Nombre de usuario</translation>
-    </message>
-    <message>
-        <source>Allowed suffixes</source>
-        <translation type="vanished">Sufijos permitidos</translation>
-    </message>
-    <message>
-        <source>Illegal characters</source>
-        <translation type="vanished">Caracteres no aceptables</translation>
-    </message>
-    <message>
-        <source>Environment variables</source>
-        <translation type="vanished">Variables del entorno</translation>
-    </message>
-    <message>
-        <source>Dates and times</source>
-        <translation type="vanished">Fechas y horarios</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1015,6 +899,14 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     <message>
         <source>Normal snip</source>
         <translation>Recorte normal</translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UI</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1303,6 +1195,30 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Vertical flip</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Assign to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1381,10 +1297,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Pick File</source>
         <translation>Elegir archivo</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots? Click them to get useful tips!</source>
-        <translation type="vanished">¿Notaste los puntos rojos? ¡Haz clic en ellos para obtener consejos útiles!</translation>
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
@@ -1669,14 +1581,6 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     <message>
         <source>Default</source>
         <translation>Por defecto</translation>
-    </message>
-    <message>
-        <source>%1 is not set!</source>
-        <translation type="vanished">¡%1 no está configurado!</translation>
-    </message>
-    <message>
-        <source>The file name pattern is not valid!</source>
-        <translation type="vanished">¡El patrón del nombre del archivo no es válido!</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1989,10 +1893,6 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     <message>
         <source>Ignored list:</source>
         <translation>Lista ignorada:</translation>
-    </message>
-    <message>
-        <source>Enter executable names separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="vanished">Introduzca nombre de ejecutables separados por comas (ej. a.exe, games/*)</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
@@ -2502,12 +2402,6 @@ También se puede encontrar esta opción en el menú contextual de la ventana de
         <translation>Máx. Imágenes cerradas recuperables:</translation>
     </message>
     <message>
-        <source>An closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="vanished">Una ventana de imagen cerrada se puede recuperar al pegar otra si el número de imágenes cerradas no llega al límite.
-Cuando se llegue al límite, la más antigua será destruida.</translation>
-    </message>
-    <message>
         <source>Conversion</source>
         <translation>Conversión</translation>
     </message>
@@ -2604,24 +2498,8 @@ Especifica 0 para obtener pequeños archivos comprimidos, 100 para archivos gran
 Especifica -1 para dejar que Snipaste decida por ti.</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="vanished">Nombre del archivo</translation>
-    </message>
-    <message>
-        <source>Pattern:</source>
-        <translation type="vanished">Patrón:</translation>
-    </message>
-    <message>
         <source>Preview:</source>
         <translation>Vista previa:</translation>
-    </message>
-    <message>
-        <source>Grammar:</source>
-        <translation type="vanished">Gramática:</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation type="vanished">Directorio:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2654,10 +2532,6 @@ Especifica -1 para dejar que Snipaste decida por ti.</translation>
     <message>
         <source>Global Hotkeys</source>
         <translation>Teclas rápidas globales</translation>
-    </message>
-    <message>
-        <source>* Press Backspace to clear</source>
-        <translation type="vanished">* Presiona retroceso para limpiar</translation>
     </message>
     <message>
         <source>Image Operations</source>
@@ -2900,10 +2774,6 @@ Ganará un mejor tiempo de respuesta al ingresar al recorte.</translation>
         <translation>Para que también pueda pegar la imagen en el explorador de archivos.</translation>
     </message>
     <message>
-        <source>Copy image as file</source>
-        <translation type="vanished">Copiar la imagen como archivo</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Archivo</translation>
     </message>
@@ -3033,14 +2903,6 @@ Ganará un mejor tiempo de respuesta al ingresar al recorte.</translation>
         <translation>Valorar</translation>
     </message>
     <message>
-        <source>Unlock PRO features!</source>
-        <translation type="vanished">¡Obtén las funciones PRO!</translation>
-    </message>
-    <message>
-        <source>Buy PRO</source>
-        <translation type="vanished">Comprar PRO</translation>
-    </message>
-    <message>
         <source>I&apos;m not interest in PRO</source>
         <translation>No estoy interesado en lo PRO</translation>
     </message>
@@ -3132,6 +2994,10 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
