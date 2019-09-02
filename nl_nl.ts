@@ -165,7 +165,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO-functies</translation>
     </message>
 </context>
 <context>
@@ -907,11 +907,11 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreaans</translation>
     </message>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation>UI</translation>
     </message>
 </context>
 <context>
@@ -1203,27 +1203,27 @@ De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Instellingen - Snelto
     </message>
     <message>
         <source>Assign to</source>
-        <translation type="unfinished"></translation>
+        <translation>Toewijzen</translation>
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Elk bureaublad</translation>
     </message>
     <message>
         <source>This desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit bureaublad</translation>
     </message>
     <message>
         <source>Assign to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Aan bureaublad toewijzen</translation>
     </message>
     <message>
         <source>Pin on all desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Aan elk bureaublad vastmaken</translation>
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureablad %1</translation>
     </message>
 </context>
 <context>
@@ -3005,7 +3005,7 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Aan elk virtueel bureablad vastmaken</translation>
     </message>
 </context>
 <context>
