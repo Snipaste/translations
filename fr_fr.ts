@@ -165,7 +165,7 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Caractéristiques PRO</translation>
     </message>
 </context>
 <context>
@@ -907,11 +907,11 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Coréen</translation>
     </message>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation>UI</translation>
     </message>
 </context>
 <context>
@@ -1203,27 +1203,27 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
     </message>
     <message>
         <source>Assign to</source>
-        <translation type="unfinished"></translation>
+        <translation>Affecter à</translation>
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les PC de bureau</translation>
     </message>
     <message>
         <source>This desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce bureau</translation>
     </message>
     <message>
         <source>Assign to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Affecter au bureau</translation>
     </message>
     <message>
         <source>Pin on all desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Épinglez sur tous ordinateurs de bureau</translation>
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordinateur de bureau %1</translation>
     </message>
 </context>
 <context>
@@ -3009,7 +3009,7 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Épinglez tous postes de travail virtuels</translation>
     </message>
 </context>
 <context>

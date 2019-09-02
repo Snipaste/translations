@@ -16,7 +16,7 @@
     <name>CustomSnipDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation>تحرير الإعدادات المسبقة...</translation>
+        <translation>تحرير الاعدادات المسبقة...</translation>
     </message>
     <message>
         <source>s</source>
@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Unable to download updates.</source>
-        <translation>غير قادر علي تحميل التحديثات.</translation>
+        <translation>غير قادر على تحميل التحديثات.</translation>
     </message>
     <message>
         <source>Unzipped successfully.</source>
-        <translation>غير مضغوط بنجاح.</translation>
+        <translation>لم ينجح ضغطة.</translation>
     </message>
     <message>
         <source>Downloading</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation>هل لديك حق الوصول للكتابة إلى%1 ؟</translation>
+        <translation>هل لديك حق الوصول للكتابة الى%1 ؟</translation>
     </message>
     <message>
         <source>Writing downloaded file into</source>
@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>Download complete.</source>
-        <translation>اكمال التحميل.</translation>
+        <translation>اكتمال التحميل.</translation>
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
@@ -105,10 +105,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation></translation>
+        <translation>إظهار في الباحث</translation>
     </message>
     <message>
-        <source>Install now</source>
+        <source>تثبيت الآن</source>
         <translation></translation>
     </message>
 </context>
@@ -116,7 +116,7 @@ Please contact the developer.</source>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation>هل تريد بالتاكيد إغلاق المجموعات المحددة ؟ لا يمكن التراجع عن هذا الاجراء.</translation>
+        <translation>هل تريد بالتاكيد اغلاق المجموعات المحددة ؟ لا يمكن التراجع عن هذا الاجراء.</translation>
     </message>
 </context>
 <context>
@@ -127,7 +127,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Help</source>
-        <translation>التعليمات</translation>
+        <translation>التعلىمات</translation>
     </message>
     <message>
         <source>Advanced Configs</source>
@@ -162,15 +162,15 @@ Please contact the developer.</source>
         <translation>Beta for Mac</translation>
     </message>
     <message>
-        <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <source>Pro  Features</source>
+        <translation>ميزات المحترف</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation>أزاله الأمر</translation>
+        <translation>ازاله الامر</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
@@ -186,7 +186,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation></translation>
+        <translation>(e.g. snipaste.app, games/*) أدخل أسماء/مسارات الحزمة مفصولة بفواصل*/</translation>
     </message>
 </context>
 <context>
@@ -225,7 +225,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Mouse right-click</source>
-        <translation>Mouse right-click</translation>
+        <translation>انقر بزر الماوس الأيمن</translation>
     </message>
     <message>
         <source>Snip only:</source>
@@ -277,7 +277,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Arrow keys</source>
-        <translation>مفاتيح الأسهم</translation>
+        <translation>مفاتيح الاسهم</translation>
     </message>
     <message>
         <source>Toggle the color formats if the magnifier is visible</source>
@@ -325,7 +325,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
-        <translation>تمرير الماوس أو 1/2</translation>
+        <translation>تمرير الماوس او 1/2</translation>
     </message>
     <message>
         <source>Show the magnifier if it is not visible</source>
@@ -385,7 +385,7 @@ Please contact the developer.</source>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>شكرا لدعمكم! أعاده الان للاستمتاع ميزات برو ؟</translation>
+        <translation>شكرا لدعمكم! اعاده الان للاستمتاع بميزات المحترف ؟</translation>
     </message>
     <message>
         <source>OK</source>
@@ -397,7 +397,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation>إزالة مفتاح الرخصة؟ لــ Snipaste الغير مسجلة.</translation>
+        <translation>ازالة مفتاح الرخصة؟ لــ Snipaste الغير مسجلة.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -431,19 +431,19 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Left double-click</source>
-        <translation>يسار انقر نقرا مزدوجا فوق</translation>
+        <translation>نقر مزدوج باليسار</translation>
     </message>
     <message>
         <source>Middle click</source>
-        <translation>النقر الأوسط</translation>
+        <translation>نقر بالوسط</translation>
     </message>
     <message>
         <source>Right click</source>
-        <translation>انقر فوق الأيمن</translation>
+        <translation>نقر باليمن</translation>
     </message>
     <message>
         <source>Left click</source>
-        <translation>انقر فوق اليسار</translation>
+        <translation>نقر باليسار</translation>
     </message>
 </context>
 <context>
@@ -553,7 +553,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Allowed suffixes</source>
-        <translation>لاحقات المسموح بها</translation>
+        <translation>لاحقات مسموح بها</translation>
     </message>
     <message>
         <source>Illegal characters</source>
@@ -612,7 +612,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Pin to screen</source>
-        <translation>تعليق للشاشة</translation>
+        <translation>تعلىق للشاشة</translation>
     </message>
     <message>
         <source>Check for updates</source>
@@ -641,7 +641,7 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
-        <translation>حدث خطأ ما مع اختصار بدء التشغيل. تم الغاء بدء التشغيل في التمهيد.</translation>
+        <translation>حدث خطا ما مع اختصار بدء التشغيل. تم الغاء بدء التشغيل في التمهيد.</translation>
     </message>
     <message>
         <source>Follow</source>
@@ -714,7 +714,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>System Proxy</source>
-        <translation>بروكسي النظام</translation>
+        <translation>وكيل النظام</translation>
     </message>
     <message>
         <source>Contributors</source>
@@ -790,11 +790,11 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation>رقعة الداما المظلمة</translation>
+        <translation>لوحة المدقق المظلمة</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation>لوحه الشطرنج الخفيفة</translation>
+        <translation>لوحة المدقق الفاتحة</translation>
     </message>
     <message>
         <source>Snip and pin</source>
@@ -815,7 +815,7 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation>لقد تم نسخ بيانات اللوحة إلى الحافظة. شاركها مع اصدقائك!</translation>
+        <translation>لقد تم نسخ بيانات اللوحة الى الحافظة. شاركها مع اصدقائك!</translation>
     </message>
     <message>
         <source>Snipping</source>
@@ -827,7 +827,7 @@ Share it to your friends!</source>
     </message>
     <message>
         <source>Same as %1</source>
-        <translation>نفسه ك%1</translation>
+        <translation>نفسه باسم%1</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
@@ -841,7 +841,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
-        <translation>الإسبانية (المكسيك)</translation>
+        <translation>الاسبانية (المكسيك)</translation>
     </message>
     <message>
         <source>Custom color</source>
@@ -881,7 +881,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Marker pen</source>
-        <translation>قلم تعليم</translation>
+        <translation>قلم تعلىم</translation>
     </message>
     <message>
         <source>Text</source>
@@ -901,11 +901,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>الكورية</translation>
     </message>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation>UI</translation>
     </message>
 </context>
 <context>
@@ -916,7 +916,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation>لتغيير عرض القلم ، الرجاء تمرير عجله الماوس أو الضغط علي &apos; 1 &apos; أو &apos; 2 &apos;.</translation>
+        <translation>لتغيير عرض القلم ، الرجاء تمرير عجله الماوس او الضغط على &apos; 1 &apos; او &apos; 2 &apos;.</translation>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
@@ -924,11 +924,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation></translation>
+        <translation>انقر على هذه الأيقونة للتبديل بين الفسيفساء والطمس الغوسي.</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation></translation>
+        <translation>اسحب لرسم خط واحد أو انقر لرسم شرائط الخط.</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1019,7 +1019,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Move to group</source>
-        <translation>الانتقال إلى المجموعة</translation>
+        <translation>الانتقال الى المجموعة</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1071,7 +1071,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation>لوحه الشطرنج الداكنة</translation>
+        <translation>لوحة المدقق الداكنة</translation>
     </message>
     <message>
         <source>Current</source>
@@ -1099,7 +1099,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation>لوحه الشطرنج الخفيفة</translation>
+        <translation>لوحه المدقق الفاتحة</translation>
     </message>
     <message>
         <source>Edit color</source>
@@ -1107,16 +1107,16 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Annotate</source>
-        <translation>تعليق توضيحي</translation>
+        <translation>تعلىق توضيحي</translation>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation>البقاء علي القمه</translation>
+        <translation>البقاء على القمه</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation>تم إلغاء اجراء &apos; النقر المزدوج &apos;.
+        <translation>تم الغاء اجراء &apos; النقر المزدوج &apos;.
 للنقر بالماوس من خلال ، يمكنك العثور على مفتاح التشغيل السريع في &apos; تفضيلات-مفتاح التشغيل السريع &apos;.</translation>
     </message>
     <message>
@@ -1133,7 +1133,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Copy annotation text</source>
-        <translation>نسخ نص التعليق التوضيحي</translation>
+        <translation>نسخ نص التعلىق التوضيحي</translation>
     </message>
     <message>
         <source>Select all images</source>
@@ -1173,7 +1173,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Previous frame</source>
-        <translation>الإطار السابق</translation>
+        <translation>الاطار السابق</translation>
     </message>
     <message>
         <source>Rotate left</source>
@@ -1197,27 +1197,27 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Assign to</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين إلى</translation>
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>كل اسطح المكتب</translation>
     </message>
     <message>
         <source>This desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>سطح المكتب هذا</translation>
     </message>
     <message>
         <source>Assign to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين لسطح المكتب</translation>
     </message>
     <message>
         <source>Pin on all desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>تعلىق على كل اسطح المكتب</translation>
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 سطح المكتب</translation>
     </message>
 </context>
 <context>
@@ -1300,7 +1300,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>هل لاحظت النقاط الحمراء على شريط الأدوات؟ انقر عليها للحصول على نصائح مفيدة!</translation>
+        <translation>هل لاحظت النقاط الحمراء على شريط الادوات؟ انقر علىها للحصول على نصائح مفيدة!</translation>
     </message>
 </context>
 <context>
@@ -1311,18 +1311,18 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation>لا يوجد اذن كتابه علي ملف التكوين!</translation>
+        <translation>لا يوجد اذن كتابه على ملف التكوين!</translation>
     </message>
 </context>
 <context>
     <name>ShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation>امر تحرير</translation>
+        <translation>تحرير الامر</translation>
     </message>
     <message>
         <source>Snip</source>
-        <translation>قصاصه</translation>
+        <translation>قص</translation>
     </message>
     <message>
         <source>Snip and copy</source>
@@ -1330,7 +1330,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation>القصاصة المؤجلة</translation>
+        <translation>قص مؤجل</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1346,7 +1346,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Switch to the previous group</source>
-        <translation>تبديل إلى المجموعة السابقة</translation>
+        <translation>تبديل الى المجموعة السابقة</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1359,12 +1359,12 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>الاختصار لتبديل وضع النقرة من الصورة تحت المؤشر. إذا لم يكن اطار الصورة تحت المؤشر ،
+        <translation>الاختصار لتبديل وضع النقرة من الصورة تحت المؤشر. اذا لم يكن اطار الصورة تحت المؤشر ،
 سيتم النقر على جميع الصور الغير قابلة للنقر.</translation>
     </message>
     <message>
         <source>Show tray menu</source>
-        <translation>إظهار قائمه العلبة</translation>
+        <translation>اظهار قائمه العلبة</translation>
     </message>
     <message>
         <source>Custom snip</source>
@@ -1372,7 +1372,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation>قص الإطار النشط</translation>
+        <translation>قص الاطار النشط</translation>
     </message>
     <message>
         <source>Snip and pin</source>
@@ -1396,7 +1396,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>أدخل وضع السبورة (اضغط مرتين على هروب لإنهاء)</translation>
+        <translation>ادخل وضع السبورة (اضغط مرتين على هروب لانهاء)</translation>
     </message>
     <message>
         <source>Pick color</source>
@@ -1422,21 +1422,21 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>SizeInputDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation>تحرير الإعدادات المسبقة ...</translation>
+        <translation>تحرير الاعدادات المسبقة ...</translation>
     </message>
 </context>
 <context>
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes</source>
-        <translation>تحرير أحجام محددة مسبقا</translation>
+        <translation>تحرير احجام محددة مسبقا</translation>
     </message>
 </context>
 <context>
     <name>Snipaste</name>
     <message>
         <source>Help</source>
-        <translation>التعليمات</translation>
+        <translation>التعلىمات</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -1444,7 +1444,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip</source>
-        <translation>قصاصه</translation>
+        <translation>قص</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1464,7 +1464,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Show all images</source>
-        <translation>اظهار كافة الصور</translation>
+        <translation>اظهار كل الصور</translation>
     </message>
     <message>
         <source>Import successful</source>
@@ -1536,7 +1536,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>File %1 not found.</source>
-        <translation>لم يتم العثور علي الملف%1.</translation>
+        <translation>لم يتم العثور على الملف%1.</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1564,7 +1564,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation>مسح سجلات القصاصة</translation>
+        <translation>مسح سجلات القص</translation>
     </message>
     <message>
         <source>Preferences...</source>
@@ -1588,7 +1588,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Manage groups</source>
-        <translation>أداره المجموعات</translation>
+        <translation>اداره المجموعات</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
@@ -1596,7 +1596,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
-        <translation>تم الإفراج عن القصاصات%1!</translation>
+        <translation>تم الافراج عن القصاصات%1!</translation>
     </message>
     <message>
         <source>Click here to update now</source>
@@ -1604,7 +1604,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Create new group</source>
-        <translation>إنشاء مجموعة جديدة</translation>
+        <translation>انشاء مجموعة جديدة</translation>
     </message>
     <message>
         <source>Debug</source>
@@ -1620,7 +1620,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Unlock PRO...</source>
-        <translation>فتح PRO ...</translation>
+        <translation>فك قفل المحترف...</translation>
     </message>
     <message>
         <source>Export image group(s)</source>
@@ -1628,7 +1628,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation>مجموعات الصور Snipaste</translation>
+        <translation>مجموعات الصور قص لصق</translation>
     </message>
     <message>
         <source>Clear log file</source>
@@ -1639,7 +1639,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>Snipper</name>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation>هل تريد إحباط القص؟</translation>
+        <translation>هل تريد احباط القص؟</translation>
     </message>
     <message>
         <source>Do not show this again</source>
@@ -1650,7 +1650,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2</source>
-        <translation>أنت تستخدم الإصدار المجاني من Snipaste %1 %2</translation>
+        <translation>انت تستخدم الاصدار المجاني من Snipaste %1 %2</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -1658,7 +1658,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Hardware identity</source>
-        <translation>هوية الأجهزة</translation>
+        <translation>هوية الاجهزة</translation>
     </message>
     <message>
         <source>Validity period</source>
@@ -1666,7 +1666,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation>الرجاء إدخال مدة مناسبة لهذا الجهاز. لا يمكن إزالة الترخيص في وضع عدم الاتصال خلال فترة صلاحيته.</translation>
+        <translation>الرجاء ادخال مدة مناسبة لهذا الجهاز. لا يمكن ازالة الترخيص في وضع عدم الاتصال خلال فترة صلاحيته.</translation>
     </message>
     <message>
         <source>License key</source>
@@ -1682,11 +1682,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation>%1 مجاني فقط للاستخدام الشخصي. إذا كنت ترغب في استخدامه في مكان العمل ، يلزم وجود ترخيص للمحترفين.</translation>
+        <translation>%1 مجاني فقط للاستخدام الشخصي. اذا كنت ترغب في استخدامه في مكان العمل ، يلزم وجود ترخيص للمحترفين.</translation>
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation>يوفر اصدار المحترف أكثر من 20 ميزة جديدة مفيدة!</translation>
+        <translation>يوفر اصدار المحترف اكثر من 20 ميزة جديدة مفيدة!</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -1694,7 +1694,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation>لا تتردد في الاتصال %1 إذا كنت بحاجة إلى أي مساعدة.</translation>
+        <translation>لا تتردد في الاتصال %1 اذا كنت بحاجة الى اي مساعدة.</translation>
     </message>
     <message>
         <source>Purchase</source>
@@ -1706,7 +1706,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter license key</source>
-        <translation>أدخل مفتاح الرخصة</translation>
+        <translation>ادخل مفتاح الرخصة</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -1738,7 +1738,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Network error.</source>
-        <translation>خطأ في الشبكة.</translation>
+        <translation>خطا في الشبكة.</translation>
     </message>
     <message>
         <source>License expired.</source>
@@ -1750,7 +1750,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Error code</source>
-        <translation>خطا بالكود</translation>
+        <translation>خطا بالرمز</translation>
     </message>
 </context>
 <context>
@@ -1788,7 +1788,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
-        <translation>أعلى اليسار:</translation>
+        <translation>اعلى اليسار:</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -1838,7 +1838,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Manage Groups</source>
-        <translation>إدارة المجموعات</translation>
+        <translation>ادارة المجموعات</translation>
     </message>
     <message>
         <source>Import</source>
@@ -1864,7 +1864,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation>امر اضافه</translation>
+        <translation>اضافه امر</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -1900,7 +1900,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>ادخل الأسماء/المسارات القابلة للتنفيذ مفصوله بفواصل (مثل .تنفيذي ، ألعاب/*)</translation>
+        <translation>ادخل الاسماء/المسارات القابلة للتنفيذ مفصوله بفواصل (مثل .تنفيذي ، العاب/*)</translation>
     </message>
 </context>
 <context>
@@ -1980,7 +1980,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip</source>
-        <translation>قصاصه</translation>
+        <translation>قص</translation>
     </message>
     <message>
         <source>Text</source>
@@ -1996,7 +1996,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
-        <translation>اذا لم يتم التحقق ، فقم بالتكبير الى الزاوية اليسرى العليا.</translation>
+        <translation>اذا لم يتم التحقق ، فقم بالتكبير الى الزاوية اليسرى العلىا.</translation>
     </message>
     <message>
         <source>About</source>
@@ -2040,7 +2040,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Reset on thumbnail</source>
-        <translation>اعاده تعيين علي الصورة المصغرة</translation>
+        <translation>اعاده تعيين على الصورة المصغرة</translation>
     </message>
     <message>
         <source>Sound Effect</source>
@@ -2054,7 +2054,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Range: 0 to 100 or -1.
 Specify 0 to obtain small compressed files, 100 for large uncompressed files.
 Specify -1 to let Snipaste decide for you.</source>
-        <translation>النطاق: 0 الى 100 او-1. حدد 0 للحصول علي ملفات مضغوطه صغيره ، 100 للملفات الكبيرة غير المضغوطة. حدد-1 لندع القصاص يقرر لك.</translation>
+        <translation>النطاق: 0 الى 100 او-1. حدد 0 للحصول على ملفات مضغوطه صغيره ، 100 للملفات الكبيرة غير المضغوطة. حدد-1 لندع القصاص يقرر لك.</translation>
     </message>
     <message>
         <source>Hover over an option to see its detailed explanation.</source>
@@ -2138,7 +2138,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>* If conflicted, the upper operation will be matched</source>
-        <translation>* اذا تعارضت ، سيتم مطابقه العملية العليا</translation>
+        <translation>* اذا تعارضت ، سيتم مطابقه العملية العلىا</translation>
     </message>
     <message>
         <source>Automatically show the fullscreen cross lines every time you start snipping.</source>
@@ -2202,7 +2202,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
-        <translation>يمكنك اضا تبديله مؤقتا بالضغط علي المفتاح tab عند القص.</translation>
+        <translation>يمكنك اضا تبديله مؤقتا بالضغط على المفتاح tab عند القص.</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -2258,7 +2258,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Quit snipping if any window of other programs is activated.</source>
-        <translation>إنهاء القص اذا تم تنشيط اي اطار من البرامج الاخرى.</translation>
+        <translation>انهاء القص اذا تم تنشيط اي اطار من البرامج الاخرى.</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2327,7 +2327,7 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Beta versions may contain more bugs.
 Please report to the developer if you find any.</source>
-        <translation>قد تحتوي الاصدارات التجريبية علي المزيد من الاخطاء. يرجى الابلاغ عن المطور اذا وجدت اي.</translation>
+        <translation>قد تحتوي الاصدارات التجريبية على المزيد من الاخطاء. يرجى الابلاغ عن المطور اذا وجدت اي.</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
@@ -2339,7 +2339,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Restore all settings on this page to their default states.</source>
-        <translation>استعاده كافة الاعدادات علي هذه الصفحة الى حالاتها الافتراضية.</translation>
+        <translation>استعاده كافة الاعدادات على هذه الصفحة الى حالاتها الافتراضية.</translation>
     </message>
     <message>
         <source>Change the auto save folder.</source>
@@ -2546,7 +2546,7 @@ Range: 10 - 100</source>
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
-        <translation>السماح نسخ الصورة كما نقطية ويندوز، بحيث يمكنك ثم لصقه في بعض التطبيقات الخاصة مثل سكايب. ومع ذلك، في هذه الاثناء، يتم فقدان قناة ألفا للصورة.</translation>
+        <translation>السماح نسخ الصورة كما نقطية ويندوز، بحيث يمكنك ثم لصقه في بعض التطبيقات الخاصة مثل سكايب. ومع ذلك، في هذه الاثناء، يتم فقدان قناة الفا للصورة.</translation>
     </message>
     <message>
         <source>Flash the image windows after you have switched to another image group.</source>
@@ -2582,7 +2582,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Snipaste Preferences</source>
-        <translation>تفضيلات القصاص</translation>
+        <translation>تفضيلات اللصق</translation>
     </message>
     <message>
         <source>If the source is a screenshot, show it where you snipped.
@@ -2591,7 +2591,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Let the &apos;reset&apos; operation work on thumbnail too.</source>
-        <translation>السماح لعمليه &apos; اعاده &apos; العمل علي الصورة المصغرة ايضا.</translation>
+        <translation>السماح لعمليه &apos; اعاده &apos; العمل على الصورة المصغرة ايضا.</translation>
     </message>
     <message>
         <source>Pick a sound file (.wav).</source>
@@ -2611,7 +2611,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>The interface language of Snipaste</source>
-        <translation>لغة واجهه القص</translation>
+        <translation>لغة واجهه اللصق</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
@@ -2627,7 +2627,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Be the first to test new features of Snipaste!</source>
-        <translation>كن اول من يختبر ميزات جديده من القصاص!</translation>
+        <translation>كن اول من يختبر ميزات جديده من اللصق!</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
@@ -2647,7 +2647,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation>اطلب تأكيد عند الضغط على هروب</translation>
+        <translation>اطلب تاكيد عند الضغط على هروب</translation>
     </message>
     <message>
         <source>When:</source>
@@ -2668,11 +2668,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Show notification</source>
-        <translation>إظهار الاعلام</translation>
+        <translation>اظهار الاعلام</translation>
     </message>
     <message>
         <source>Add custom hotkey</source>
-        <translation>أضافه مفتاح ساخن مخصص</translation>
+        <translation>اضافه مفتاح ساخن مخصص</translation>
     </message>
     <message>
         <source>Add new command</source>
@@ -2680,7 +2680,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Mouse</source>
-        <translation>فأرة</translation>
+        <translation>فارة</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
@@ -2704,11 +2704,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Toolbar</source>
-        <translation>شريط الأدوات</translation>
+        <translation>شريط الادوات</translation>
     </message>
     <message>
         <source>Use separate colors for different shapes</source>
-        <translation>استخدم ألوان منفصلة لأشكال مختلفة</translation>
+        <translation>استخدم الوان منفصلة لاشكال مختلفة</translation>
     </message>
     <message>
         <source>Number of pen sizes:</source>
@@ -2716,15 +2716,15 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.</source>
-        <translation>أعد تشغيل Snipaste حتى يسري التغيير.</translation>
+        <translation>اعد تشغيل اللصق حتى يسري التغيير.</translation>
     </message>
     <message>
         <source>Palette</source>
-        <translation>لوحة الألوان</translation>
+        <translation>لوحة الالوان</translation>
     </message>
     <message>
         <source>Apply to</source>
-        <translation>تنطبق علي</translation>
+        <translation>تنطبق على</translation>
     </message>
     <message>
         <source>Import from clipboard</source>
@@ -2732,7 +2732,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Export to clipboard</source>
-        <translation>تصدير إلى الحافظة</translation>
+        <translation>تصدير الى الحافظة</translation>
     </message>
     <message>
         <source>Disable completely</source>
@@ -2764,7 +2764,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>So that you can also paste the image into file explorer.</source>
-        <translation>بحيث يمكنك أيضًا لصق الصورة في مستكشف الملفات.</translation>
+        <translation>بحيث يمكنك ايضًا لصق الصورة في مستكشف الملفات.</translation>
     </message>
     <message>
         <source>File</source>
@@ -2780,7 +2780,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation>أيقونة صينية</translation>
+        <translation>ايقونة صينية</translation>
     </message>
     <message>
         <source>Left click:</source>
@@ -2796,7 +2796,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Right click:</source>
-        <translation>انقر بزر الأيمن:</translation>
+        <translation>انقر بزر الايمن:</translation>
     </message>
     <message>
         <source>Hot Corner</source>
@@ -2828,19 +2828,19 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Top left:</source>
-        <translation>اعلي اليسار:</translation>
+        <translation>اعلى اليسار:</translation>
     </message>
     <message>
         <source>Top right:</source>
-        <translation>اعلي اليمين:</translation>
+        <translation>اعلى اليمين:</translation>
     </message>
     <message>
         <source>Bottom left:</source>
-        <translation>أسفل اليسار:</translation>
+        <translation>اسفل اليسار:</translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation>أسفل اليمين:</translation>
+        <translation>اسفل اليمين:</translation>
     </message>
     <message>
         <source>Keep responsive</source>
@@ -2848,7 +2848,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation>إظهار تلقائيا ل:</translation>
+        <translation>اظهار تلقائيا ل:</translation>
     </message>
     <message>
         <source>Normal snip</source>
@@ -2880,7 +2880,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Screen coordinate</source>
-        <translation>إحداثيات الشاشة</translation>
+        <translation>احداثيات الشاشة</translation>
     </message>
     <message>
         <source>Usage tips</source>
@@ -2888,13 +2888,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Copy text:</source>
-        <translation>نسخ النص:
-</translation>
+        <translation>نسخ النص:</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation>معدل
-</translation>
+        <translation>معدل</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
@@ -2906,7 +2904,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
-        <translation>تحسين سرعة الاستجابة من القصاصة عن طريق إعادة تحميل dlls تلقائيا بشكل دوري.</translation>
+        <translation>تحسين سرعة الاستجابة من القصاصة عن طريق اعادة تحميل dlls تلقائيا بشكل دوري.</translation>
     </message>
     <message>
         <source>Fast thumbnail size:</source>
@@ -2922,7 +2920,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation>يمكنك أيضا إظهار/إخفاء المؤشر الملتقط عبر &apos; أو! المفتاح عند القص.</translation>
+        <translation>يمكنك ايضا اظهار/اخفاء المؤشر الملتقط عبر &apos; او! المفتاح عند القص.</translation>
     </message>
     <message>
         <source>Keys</source>
@@ -2938,15 +2936,15 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation>الإجراء المطلوب تنفيذه للنقر المزدوج عند القص.</translation>
+        <translation>الاجراء المطلوب تنفيذه للنقر المزدوج عند القص.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation>فوق المتوسطة:</translation>
+        <translation>نقر بالوسط</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation>الإجراء المطلوب تنفيذه للنقر الأوسط عند القص.</translation>
+        <translation>الاجراء المطلوب تنفيذه للنقر الاوسط عند القص.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
@@ -2954,7 +2952,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation>التعليق التوضيحي الافتراضي:</translation>
+        <translation>التعلىق التوضيحي الافتراضي:</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -2983,15 +2981,15 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Also copy image as file</source>
-        <translation>أيضا نسخ الصورة كملف</translation>
+        <translation>ايضا نسخ الصورة كملف</translation>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
-        <translation>* اضغط للخلف لأزاله مفتاح الاختصار</translation>
+        <translation>* اضغط للخلف لازاله مفتاح الاختصار</translation>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3006,7 +3004,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Marker pen</source>
-        <translation>قلم تعليم</translation>
+        <translation>قلم تعلىم</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
@@ -3030,7 +3028,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation>تعليق الى الشاشة (ctrl + t)</translation>
+        <translation>تعلىق الى الشاشة (ctrl + t)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -3085,7 +3083,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Fill with stroke</source>
-        <translation>تعبئة بضغطه</translation>
+        <translation>تعبئة مع ضغطه</translation>
     </message>
 </context>
 <context>
