@@ -49,13 +49,13 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Chinese (Simplified)  | zh_cn | 📕 v2.2.3   | [liulex](https://github.com/liulex) |
 | Chinese (Traditional) | zh_tw | 📖 v2.2     | [zhtw](http://greedphantom.blogspot.tw), [Brownsugar](https://brownsugar.tw) |
 | German                | de_de | 📖 v2.2     | [Samuel Marcius](http://www.fontenvironment.com) |
-| Greek                 | el_gr | 📖 v2.2     | [geogeo.gr](http://www.geogeo.gr) |
+| Greek                 | el_gr | 📕 v2.2.3   | [geogeo.gr](http://www.geogeo.gr) |
 | Swedish               | sv    | 📖 v1.14    | [Åke Engelbrektson](https://svenskasprakfiler.se) |
 | Japanese              | ja_jp | 📖 v2.2     | 鳳凰院カミ, [Sayori Studio](https://t.me/SayoriStudio) |
 | Portuguese (Brazil)   | pt_br | 📕 v2.2.3   | Igor Rückert |
 | Polish                | pl_pl | 📖 v1.11.3  | [Wirus deleted my username](https://github.com/Wirus-deleted-my-username) |
 | Dutch                 | nl_nl | 📕 v2.2.3   | Stephan Paternotte |
-| Portuguese (Portugal) | pt_pt | 📖 v2.2     | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
+| Portuguese (Portugal) | pt_pt | 📕 v2.2.3   | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
 | Vietnamese            | vi_vn | 📖 v1.11.3  | [evildeepblue](mailto:it4u.mm@gmail.com) |
 | French                | fr_fr | 📕 v2.2.3   | rico-sos |
 | Russian               | ru    | 📖 v1.14    | [vanja-san](https://github.com/vanja-san) |
