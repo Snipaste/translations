@@ -163,7 +163,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>專業版功能</translation>
     </message>
 </context>
 <context>
@@ -905,11 +905,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>韓文</translation>
     </message>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1201,27 +1201,27 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Assign to</source>
-        <translation type="unfinished"></translation>
+        <translation>指派給</translation>
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>所有桌面</translation>
     </message>
     <message>
         <source>This desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>這個桌面</translation>
     </message>
     <message>
         <source>Assign to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>指派給桌面</translation>
     </message>
     <message>
         <source>Pin on all desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>釘選至所有桌面</translation>
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>桌面 %1</translation>
     </message>
 </context>
 <context>
@@ -3007,7 +3007,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>固定到所有虛擬桌面</translation>
     </message>
 </context>
 <context>
