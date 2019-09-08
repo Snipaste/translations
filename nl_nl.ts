@@ -3165,10 +3165,6 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
 <context>
     <name>zoominputdialog</name>
     <message>
-        <source>Resize</source>
-        <translation type="obsolete">Grootte aanpassen</translation>
-    </message>
-    <message>
         <source>Zoom:</source>
         <translation>Zoom:</translation>
     </message>

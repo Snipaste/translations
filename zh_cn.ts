@@ -397,13 +397,6 @@ Restart now to enjoy PRO features?</source>
         <translation>稍后</translation>
     </message>
     <message>
-        <source>Remove license key?
-
-Snipaste will be unregistered.</source>
-        <translation type="obsolete">移除授权信息？
-</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -1812,10 +1805,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>延迟:</translation>
     </message>
     <message>
-        <source>s</source>
-        <translation type="obsolete">秒</translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation>确定</translation>
     </message>
@@ -3150,10 +3139,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
 </context>
 <context>
     <name>unlockprodialog</name>
-    <message>
-        <source>Enter license</source>
-        <translation type="obsolete">输入授权</translation>
-    </message>
 </context>
 <context>
     <name>updatedialog</name>
@@ -3180,10 +3165,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
 </context>
 <context>
     <name>zoominputdialog</name>
-    <message>
-        <source>Resize</source>
-        <translation type="obsolete">调整区域大小</translation>
-    </message>
     <message>
         <source>Zoom:</source>
         <translation>缩放:</translation>

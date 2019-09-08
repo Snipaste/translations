@@ -1806,10 +1806,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Кашњење:</translation>
     </message>
     <message>
-        <source>s</source>
-        <translation type="obsolete">с</translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation>У реду</translation>
     </message>

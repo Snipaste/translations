@@ -409,10 +409,6 @@ Restart now to enjoy PRO features?</source>
 <context>
     <name>Licensing_uwp</name>
     <message>
-        <source>OK</source>
-        <translation type="obsolete">OK</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
@@ -1800,10 +1796,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Delay:</source>
         <translation type="unfinished">Odstęp:</translation>
-    </message>
-    <message>
-        <source>s</source>
-        <translation type="obsolete">s</translation>
     </message>
     <message>
         <source>OK</source>

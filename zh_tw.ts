@@ -1805,10 +1805,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>延遲：</translation>
     </message>
     <message>
-        <source>s</source>
-        <translation type="obsolete">秒</translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation>確定</translation>
     </message>
@@ -3166,10 +3162,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
 </context>
 <context>
     <name>zoominputdialog</name>
-    <message>
-        <source>Resize</source>
-        <translation type="obsolete">調整區域大小</translation>
-    </message>
     <message>
         <source>Zoom:</source>
         <translation>縮放：</translation>

@@ -3158,10 +3158,6 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
 <context>
     <name>zoominputdialog</name>
     <message>
-        <source>Resize</source>
-        <translation type="obsolete">Redimensionar</translation>
-    </message>
-    <message>
         <source>Zoom:</source>
         <translation>Zoom:</translation>
     </message>

@@ -1799,10 +1799,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>تاخير:</translation>
     </message>
     <message>
-        <source>s</source>
-        <translation type="obsolete">s</translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation>موافق</translation>
     </message>

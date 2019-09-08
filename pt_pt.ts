@@ -1806,10 +1806,6 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <translation>Atraso:</translation>
     </message>
     <message>
-        <source>s</source>
-        <translation type="obsolete">s</translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation>OK</translation>
     </message>

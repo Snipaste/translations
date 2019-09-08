@@ -1802,10 +1802,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>遅延：</translation>
     </message>
     <message>
-        <source>s</source>
-        <translation type="obsolete">秒</translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation>確認</translation>
     </message>

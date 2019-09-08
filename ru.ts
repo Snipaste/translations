@@ -409,10 +409,6 @@ Restart now to enjoy PRO features?</source>
 <context>
     <name>Licensing_uwp</name>
     <message>
-        <source>OK</source>
-        <translation type="obsolete">ОК</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>

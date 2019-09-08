@@ -1806,10 +1806,6 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <translation>Atraso:</translation>
     </message>
     <message>
-        <source>s</source>
-        <translation type="obsolete">s</translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation>OK</translation>
     </message>

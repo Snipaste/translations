@@ -407,10 +407,6 @@ Restart now to enjoy PRO features?</source>
 <context>
     <name>Licensing_uwp</name>
     <message>
-        <source>OK</source>
-        <translation type="obsolete">OK</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
@@ -1797,10 +1793,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Delay:</source>
         <translation>Trì hoãn:</translation>
-    </message>
-    <message>
-        <source>s</source>
-        <translation type="obsolete">s</translation>
     </message>
     <message>
         <source>OK</source>

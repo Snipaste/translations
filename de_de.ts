@@ -1761,10 +1761,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
 <context>
     <name>UpdaterDialog</name>
     <message>
-        <source>Background</source>
-        <translation type="obsolete">Hintergrund</translation>
-    </message>
-    <message>
         <source>Checking...</source>
         <translation>Überprüfung...</translation>
     </message>
@@ -1806,10 +1802,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Delay:</source>
         <translation>Verzögerung:</translation>
-    </message>
-    <message>
-        <source>s</source>
-        <translation type="obsolete">s</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2406,10 +2398,6 @@ Geben Sie -1 an, damit Snipaste für Sie entscheiden kann.</translation>
     <message>
         <source>* If conflicted, the upper operation will be matched</source>
         <translation>* Bei einem Konflikt wird die obere Operation übernommen</translation>
-    </message>
-    <message>
-        <source>Internal Hotkeys</source>
-        <translation type="obsolete">Interne Hotkeys</translation>
     </message>
     <message>
         <source>Version</source>

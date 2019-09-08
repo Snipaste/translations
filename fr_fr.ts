@@ -1806,10 +1806,6 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Retard:</translation>
     </message>
     <message>
-        <source>s</source>
-        <translation type="obsolete">s</translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation>OK</translation>
     </message>
