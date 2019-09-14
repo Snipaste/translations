@@ -902,6 +902,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Czech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>UI</source>
         <translation type="unfinished"></translation>
     </message>

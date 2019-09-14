@@ -835,7 +835,7 @@ Share it to your friends!</source>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>참고 : 다른 구성 파일로 전환하려고합니다. 설정이 적용되고 현재 설정이 모두 무시됩니다. 
+        <translation>참고 : 다른 구성 파일로 전환하려고합니다. 설정이 적용되고 현재 설정이 모두 무시됩니다.
 작업 후에 새 구성 파일을 찾을 위치를 기록하기 때문에 기본 구성 파일을 제거하지 않아야합니다.
 
 다른 구성 파일로 전환 하시겠습니까?</translation>
@@ -866,6 +866,10 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Czech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

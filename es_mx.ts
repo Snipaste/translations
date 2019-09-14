@@ -905,6 +905,10 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Czech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>UI</source>
         <translation type="unfinished"></translation>
     </message>

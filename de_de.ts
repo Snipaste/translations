@@ -908,6 +908,10 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Czech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>UI</source>
         <translation type="unfinished"></translation>
     </message>
