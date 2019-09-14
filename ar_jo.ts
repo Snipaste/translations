@@ -904,6 +904,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>الكورية</translation>
     </message>
     <message>
+        <source>Czech</source>
+        <translation>التشيكية</translation>
+    </message>
+    <message>
         <source>UI</source>
         <translation>UI</translation>
     </message>

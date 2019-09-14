@@ -908,6 +908,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>韓文</translation>
     </message>
     <message>
+        <source>Czech</source>
+        <translation>捷克語</translation>
+    </message>
+    <message>
         <source>UI</source>
         <translation></translation>
     </message>

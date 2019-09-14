@@ -910,6 +910,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Κορεατικά</translation>
     </message>
     <message>
+        <source>Czech</source>
+        <translation>Τσεχικά</translation>
+    </message>
+    <message>
         <source>UI</source>
         <translation>UI</translation>
     </message>

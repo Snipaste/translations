@@ -910,6 +910,10 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
         <translation>Coréen</translation>
     </message>
     <message>
+        <source>Czech</source>
+        <translation>Tchèque</translation>
+    </message>
+    <message>
         <source>UI</source>
         <translation>UI</translation>
     </message>

@@ -910,6 +910,10 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
         <translation>Coreano</translation>
     </message>
     <message>
+        <source>Czech</source>
+        <translation>Tcheco</translation>
+    </message>
+    <message>
         <source>UI</source>
         <translation>Interface</translation>
     </message>

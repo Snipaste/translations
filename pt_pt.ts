@@ -910,6 +910,10 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
         <translation>Coreano</translation>
     </message>
     <message>
+        <source>Czech</source>
+        <translation>Checo</translation>
+    </message>
+    <message>
         <source>UI</source>
         <translation>IU</translation>
     </message>

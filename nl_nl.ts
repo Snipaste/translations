@@ -910,6 +910,10 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
         <translation>Koreaans</translation>
     </message>
     <message>
+        <source>Czech</source>
+        <translation>Tsjechisch</translation>
+    </message>
+    <message>
         <source>UI</source>
         <translation>UI</translation>
     </message>
