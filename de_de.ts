@@ -163,7 +163,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO Funktionen</translation>
     </message>
 </context>
 <context>
@@ -905,15 +905,11 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreanisch</translation>
     </message>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation>UI</translation>
     </message>
 </context>
 <context>
@@ -1205,27 +1201,27 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     </message>
     <message>
         <source>Assign to</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuordnen zu</translation>
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Allen Desktops</translation>
     </message>
     <message>
         <source>This desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Diesem Desktop</translation>
     </message>
     <message>
         <source>Assign to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu Desktop zuordnen</translation>
     </message>
     <message>
         <source>Pin on all desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>An alle Desktops anpinnen</translation>
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop %1</translation>
     </message>
 </context>
 <context>
@@ -1765,6 +1761,10 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
 <context>
     <name>UpdaterDialog</name>
     <message>
+        <source>Background</source>
+        <translation type="obsolete">Hintergrund</translation>
+    </message>
+    <message>
         <source>Checking...</source>
         <translation>Überprüfung...</translation>
     </message>
@@ -1806,6 +1806,10 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Delay:</source>
         <translation>Verzögerung:</translation>
+    </message>
+    <message>
+        <source>s</source>
+        <translation type="obsolete">s</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2402,6 +2406,10 @@ Geben Sie -1 an, damit Snipaste für Sie entscheiden kann.</translation>
     <message>
         <source>* If conflicted, the upper operation will be matched</source>
         <translation>* Bei einem Konflikt wird die obere Operation übernommen</translation>
+    </message>
+    <message>
+        <source>Internal Hotkeys</source>
+        <translation type="obsolete">Interne Hotkeys</translation>
     </message>
     <message>
         <source>Version</source>
@@ -3005,7 +3013,7 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>An alle virtuellen Desktops anpinnen</translation>
     </message>
 </context>
 <context>
