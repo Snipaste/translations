@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation>Hebt u bewerkingsrechten op %1?</translation>
+        <translation>Heb je bewerkingsrechten op %1?</translation>
     </message>
     <message>
         <source>Saved successfully.</source>
@@ -118,7 +118,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation>Wilt u de geselecteerde groepen sluiten? Dit kan niet ondgedaan worden. </translation>
+        <translation>Wil je de geselecteerde groepen sluiten? Dit kan niet ondgedaan worden. </translation>
     </message>
 </context>
 <context>
@@ -176,7 +176,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation>Weet u zeker dat u deze opdracht wilt verwijderen?</translation>
+        <translation>Weet je zeker dat je deze opdracht wilt verwijderen?</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
@@ -387,7 +387,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>Dank u voor uw ondersteuning!
+        <translation>Hartelijk bedankt voor de ondersteuning!
 Opnieuw starten om de PRO-functies te gebruiken?</translation>
     </message>
     <message>
@@ -741,7 +741,7 @@ Automatisch opstarten is uitgeschakeld.</translation>
     </message>
     <message>
         <source>Thank you for your support!</source>
-        <translation>Bedankt voor uw ondersteuning!</translation>
+        <translation>Bedankt voor de ondersteuning!</translation>
     </message>
     <message>
         <source>Russian</source>
@@ -777,7 +777,7 @@ Automatisch opstarten is uitgeschakeld.</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation>Voor deze functie dient u dit programma toegang te verlenen in de Privacyinstellingen in Systeeminstellingen.</translation>
+        <translation>Voor deze functie moet dit programma toegang krijgen inSysteeminstellineg - Privacyinstellingen.</translation>
     </message>
     <message>
         <source>Mouse drag</source>
@@ -843,7 +843,7 @@ Are you sure you want to switch to another configuration file?</source>
 
 Daarbij mag het bestand van de standaardconfiguratie niet worden gewist, omdat deze verwijst naar de nieuwe configuratie.
 
-Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
+Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
@@ -1127,7 +1127,7 @@ Weet u zeker dat u wilt schakelen naar een andere configuratie?</translation>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>De actie &apos;Dubbelklik X&apos; is afgebroken.
-De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Instellingen - Sneltoetsen.</translation>
+De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoetsen.</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -1238,7 +1238,7 @@ De sneltoets voor Doorklikken-met-de-muis kunt u vinden in Instellingen - Snelto
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation>Automatisch starten niet kunnen instellen. U moet dit mogelijk handmatig instellen in Taakbeheer.</translation>
+        <translation>Automatisch starten niet ingesteld. Je moet dit mogelijk handmatig instellen in Taakbeheer.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -1283,7 +1283,7 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
-        <translation>U kunt dit aanpassen via het systeemvakpictogram.</translation>
+        <translation>Je kunt dit aanpassen via het systeemvakpictogram.</translation>
     </message>
     <message>
         <source>Snipaste has been updated to %1.</source>
@@ -1311,7 +1311,7 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>Ziet u de rode stippen op de taakbalk? Klik erop voor handige tips!</translation>
+        <translation>Heb je de rode stippen op de Snipaste knoppenbalk al gezien? Klik erop voor handige tips!</translation>
     </message>
 </context>
 <context>
@@ -2723,7 +2723,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Toolbar</source>
-        <translation>Gereedschapsbalk</translation>
+        <translation>Knoppenbalk</translation>
     </message>
     <message>
         <source>Use separate colors for different shapes</source>
