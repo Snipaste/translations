@@ -107,11 +107,11 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Finder&apos;da Göster</translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation>Şimdi kur</translation>
     </message>
 </context>
 <context>
@@ -165,7 +165,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO Özellikleri</translation>
     </message>
 </context>
 <context>
@@ -188,7 +188,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Virgülle ayrılmış paket adlarını/yollarını girin(örn. snipaste.app, oyunlar/*)</translation>
     </message>
 </context>
 <context>
@@ -400,7 +400,7 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisans anahtarını kaldır? Snipaste kayıtsız olacak.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -464,7 +464,7 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Adlandırma Kuralları</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -863,11 +863,11 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisansı kaldır</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO Satın al</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -907,15 +907,15 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Korece</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Çekçe</translation>
     </message>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Arayüz</translation>
     </message>
 </context>
 <context>
@@ -954,11 +954,11 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Copy with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Gölgeyle kopyala</translation>
     </message>
     <message>
         <source>Save with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Gölgeyle kaydet</translation>
     </message>
 </context>
 <context>
@@ -1163,71 +1163,71 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Copy image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüntüyü gölgeyle kopyala</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ölçeklenmemiş görüntüyü kopyala</translation>
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ölçeklenmemiş görüntüyü gölgeyle kopyala</translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüntüyü gölgeyle farklı kaydet...</translation>
     </message>
     <message>
         <source>Image processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüntü işleme</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Önceki çerçeve</translation>
     </message>
     <message>
         <source>Rotate left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sola döndür</translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonraki çerçeve</translation>
     </message>
     <message>
         <source>Rotate right</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağa döndür</translation>
     </message>
     <message>
         <source>Horizontal flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Yatay çevir</translation>
     </message>
     <message>
         <source>Vertical flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Dikey çevir</translation>
     </message>
     <message>
         <source>Assign to</source>
-        <translation type="unfinished"></translation>
+        <translation>Olarak atayın</translation>
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm masaüstüler</translation>
     </message>
     <message>
         <source>This desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu masaüstü</translation>
     </message>
     <message>
         <source>Assign to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstü olarak atayın</translation>
     </message>
     <message>
         <source>Pin on all desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm masaüstlerine sabitle</translation>
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstü %1</translation>
     </message>
 </context>
 <context>
@@ -1311,7 +1311,7 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation type="unfinished"></translation>
+        <translation>Araç çubuğundaki kırmızı noktayı fark ettin mi? Yararlı ipuçları almak için onları tıklatın!</translation>
     </message>
 </context>
 <context>
@@ -1407,19 +1407,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Beyaz tahta moduna girin (Çıkmak için Esc&apos;ye çift dokunun)</translation>
     </message>
     <message>
         <source>Pick color</source>
-        <translation type="unfinished"></translation>
+        <translation>Renk seç</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüntü olarak yapıştır</translation>
     </message>
     <message>
         <source>Paste as plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>Düz metin olarak yapıştır</translation>
     </message>
 </context>
 <context>
@@ -1661,55 +1661,55 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste&apos;nin ücretsiz sürümünü kullanıyorsunuz %1 %2</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste çevrimdışı etkinleştirme isteği</translation>
     </message>
     <message>
         <source>Hardware identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Donanım kimliği</translation>
     </message>
     <message>
         <source>Validity period</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçerlilik süresi</translation>
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen bu makine için uygun bir süre girin. Çevrimdışı lisans, geçerlilik süresi içinde kaldırılamaz.</translation>
     </message>
     <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisans anahtarı</translation>
     </message>
     <message>
         <source>Paste your license key here</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisans anahtarınızı buraya yapıştırın</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO özelliklerinin kilidini açın</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 sadece KİŞİSEL KULLANIM için ücretsizdir. İşyerinde kullanmak istiyorsanız, PRO lisansı gereklidir.</translation>
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO sürümü 20&apos;den fazla yararlı yeni özellik sağlar!</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha fazla bilgi için lütfen &lt;a href=&quot;%1&quot;&gt;web sitesini &lt;/a&gt; ziyaret edin.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen yardıma ihtiyacınız olursa %1 ile iletişime geçmekte çekinmeyin.</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Satın al</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1717,51 +1717,51 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisans anahtarını girin</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Aktif</translation>
+        <translation>Etkinleştir</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Offline activation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Çevrimdışı etkinleştirme...</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeniden</translation>
     </message>
     <message>
         <source>Activation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Etkinleştirme başarısız</translation>
     </message>
     <message>
         <source>Invalid license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçersiz lisans.</translation>
     </message>
     <message>
         <source>Number of activations exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Etkinleştirme sayısı aşıldı.</translation>
     </message>
     <message>
         <source>Network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ağ hatası.</translation>
     </message>
     <message>
         <source>License expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisans süresi doldu.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçersiz lisans anahtarı.</translation>
     </message>
     <message>
         <source>Error code</source>
-        <translation type="unfinished"></translation>
+        <translation>Hata kodu</translation>
     </message>
 </context>
 <context>
@@ -1907,7 +1907,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Virgülle ayrılmış çalıştırılabilir adlar/yollar girin (örn. a.exe, oyunlar/*)</translation>
     </message>
 </context>
 <context>
@@ -2971,7 +2971,7 @@ Herhangi bir hata bulursanız lütfen geliştiriciye bildirin.</translation>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan açıklama:</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -2981,35 +2981,35 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuel kaydet</translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya adı:</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasörü Aç</translation>
     </message>
     <message>
         <source>Change Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasörü Değiştir</translation>
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Adlandırma Kuralları</translation>
     </message>
     <message>
         <source>Also copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayrıca resmi dosya olarak kopyala</translation>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>* Hotkey kaldırmak için Backspace tuşuna basın</translation>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm sanal masaüstlerine sabitle</translation>
     </message>
 </context>
 <context>
