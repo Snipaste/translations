@@ -2981,7 +2981,7 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation>Manuel kaydet</translation>
+        <translation>Manuel Kayıt</translation>
     </message>
     <message>
         <source>File name:</source>
