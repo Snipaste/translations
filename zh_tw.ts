@@ -182,7 +182,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation>命令不能为空值！</translation>
+        <translation>命令不能為空值！</translation>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
