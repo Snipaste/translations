@@ -188,6 +188,10 @@ Please contact the developer.</source>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation>输入以英文逗号分隔的应用包名/路径（如 a.exe, games/*）</translation>
     </message>
+    <message>
+        <source>More examples...</source>
+        <translation>更多示例...</translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -341,7 +345,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Save the image to the Quick Save folder</source>
-        <translation>保存图像到快速保存目录</translation>
+        <translation>保存图像到快捷保存目录</translation>
     </message>
     <message>
         <source>Send the image to the printer</source>
@@ -449,14 +453,6 @@ Restart now to enjoy PRO features?</source>
 </context>
 <context>
     <name>MovieLabel</name>
-    <message>
-        <source>Pause</source>
-        <translation>暂停</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>播放</translation>
-    </message>
 </context>
 <context>
     <name>NamingRulesDialog</name>
@@ -727,7 +723,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Quick save</source>
-        <translation>快速保存</translation>
+        <translation>快捷保存</translation>
     </message>
     <message>
         <source>System Proxy</source>
@@ -760,22 +756,6 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Serbian</source>
         <translation>塞尔维亚语</translation>
-    </message>
-    <message>
-        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation>要启用界面元素检测，Snipaste 需要辅助功能权限。</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <source>Open System Preferences</source>
-        <translation>打开系统设置</translation>
-    </message>
-    <message>
-        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation>如需启用该特性，请先到 系统偏好设置-安全性与隐私-隐私-辅助功能 添加 Snipaste.</translation>
     </message>
     <message>
         <source>Mouse drag</source>
@@ -915,6 +895,10 @@ Are you sure you want to switch to another configuration file?</source>
         <source>UI</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation>截图、复制并贴图</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -957,6 +941,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Save with shadow</source>
         <translation>带阴影保存</translation>
+    </message>
+    <message>
+        <source>Copy without shadow</source>
+        <translation>不带阴影复制</translation>
+    </message>
+    <message>
+        <source>Save without shadow</source>
+        <translation>不带阴影保存</translation>
     </message>
 </context>
 <context>
@@ -1204,10 +1196,6 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>垂直翻转</translation>
     </message>
     <message>
-        <source>Assign to</source>
-        <translation>分配到</translation>
-    </message>
-    <message>
         <source>All desktops</source>
         <translation>所有桌面</translation>
     </message>
@@ -1216,16 +1204,16 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>这个桌面</translation>
     </message>
     <message>
-        <source>Pin on all desktops</source>
-        <translation>固定到所有桌面</translation>
-    </message>
-    <message>
         <source>Desktop %1</source>
         <translation>桌面 %1</translation>
     </message>
     <message>
         <source>Assign to desktop</source>
         <translation>分配到桌面</translation>
+    </message>
+    <message>
+        <source>Copy raw HTML</source>
+        <translation>复制原始 HTML</translation>
     </message>
 </context>
 <context>
@@ -1263,6 +1251,30 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>It may take a few seconds...</source>
         <translation>这可能需要几秒钟时间...</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation>打开系统设置</translation>
+    </message>
+    <message>
+        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation>Snipaste 需要屏幕录制权限才能进行截图</translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation>如果 Snipaste 已经被授予屏幕录制权限却依然无法截图，请尝试重启 Snipaste 或重启系统。</translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation>要启用界面元素检测，Snipaste 需要辅助功能权限。</translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation>如需启用该特性，请先到 系统偏好设置-安全性与隐私-隐私-辅助功能 添加 Snipaste.</translation>
     </message>
 </context>
 <context>
@@ -1419,6 +1431,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
         <translation>进入白板模式（双击 Esc 以退出）</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation>带阴影截图</translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation>截图、复制并贴图</translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation>进入透明白板模式（双击 Esc 以退出）</translation>
     </message>
 </context>
 <context>
@@ -1676,7 +1700,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation>请访问 &lt;a href=&quot;%1&quot;&gt;网站&lt;/a&gt; 了解更多信息。</translation>
+        <translation>请访问&lt;a href=&quot;%1&quot;&gt;官网&lt;/a&gt;了解更多信息。</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
@@ -2082,11 +2106,11 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Browse the quick save folder.</source>
-        <translation>打开快速保存目录。</translation>
+        <translation>打开快捷保存目录。</translation>
     </message>
     <message>
         <source>Change the quick save folder.</source>
-        <translation>更改快速保存目录。</translation>
+        <translation>更改快捷保存目录。</translation>
     </message>
     <message>
         <source>Restore all settings on this page to their default states.</source>
@@ -2138,7 +2162,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
-        <translation>当截图被快速保存时播放音效。</translation>
+        <translation>当截图被快捷保存时播放音效。</translation>
     </message>
     <message>
         <source>Pick a sound file (.wav).</source>
@@ -2443,7 +2467,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Quick Save</source>
-        <translation>快速保存</translation>
+        <translation>快捷保存</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2538,10 +2562,6 @@ If this option is checked, the above features will be disabled.</source>
     <message>
         <source>Automatically show the fullscreen cross lines every time you start snipping.</source>
         <translation>进入截屏后自动显示全屏的十字线。</translation>
-    </message>
-    <message>
-        <source>Auto show cross lines</source>
-        <translation>自动显示十字线</translation>
     </message>
     <message>
         <source>then</source>
@@ -2754,10 +2774,6 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>Right click:</source>
         <translation>右键点击:</translation>
-    </message>
-    <message>
-        <source>Pixel scale:</source>
-        <translation>像素大小：</translation>
     </message>
     <message>
         <source>Use separate colors for different shapes</source>
@@ -3009,24 +3025,40 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Pin on all virtual desktops</source>
         <translation>固定到所有虚拟桌面</translation>
     </message>
+    <message>
+        <source>Magnification level:</source>
+        <translation>放大倍数:</translation>
+    </message>
+    <message>
+        <source>Disable masking when File Dialog is shown</source>
+        <translation>文件对话框打开时隐藏遮罩</translation>
+    </message>
+    <message>
+        <source>Show fullscreen cross lines</source>
+        <translation>显示全屏十字线</translation>
+    </message>
+    <message>
+        <source>Hide all image windows when File Dialog is shown</source>
+        <translation>文件对话框打开时隐藏所有贴图</translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Line strip</source>
-        <translation>折线</translation>
+        <source>Line strip (Ctrl+2)</source>
+        <translation>折线 (Ctrl+2)</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>箭头</translation>
+        <source>Arrow (Ctrl+3)</source>
+        <translation>箭头 (Ctrl+3)</translation>
     </message>
     <message>
-        <source>Marker pen</source>
-        <translation>记号笔</translation>
+        <source>Marker pen (Ctrl+5)</source>
+        <translation>记号笔 (Ctrl+5)</translation>
     </message>
     <message>
-        <source>Text</source>
-        <translation>文本</translation>
+        <source>Text (Ctrl+7)</source>
+        <translation>文本 (Ctrl+7)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
@@ -3037,16 +3069,16 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>复制到剪贴板 (Ctrl+C)</translation>
     </message>
     <message>
-        <source>Pencil</source>
-        <translation>画笔</translation>
+        <source>Pencil (Ctrl+4)</source>
+        <translation>画笔 (Ctrl+4)</translation>
     </message>
     <message>
-        <source>Mosaic/Blur</source>
-        <translation>马赛克/模糊</translation>
+        <source>Mosaic/Blur (Ctrl+6)</source>
+        <translation>马赛克/模糊 (Ctrl+6)</translation>
     </message>
     <message>
-        <source>Eraser</source>
-        <translation>橡皮擦</translation>
+        <source>Eraser (Ctrl+8)</source>
+        <translation>橡皮擦 (Ctrl+8)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -3069,8 +3101,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>退出截屏 (Esc)</translation>
     </message>
     <message>
-        <source>Rectangle/Ellipse</source>
-        <translation>矩形/椭圆</translation>
+        <source>Rectangle/Ellipse (Ctrl+1)</source>
+        <translation>矩形/椭圆 (Ctrl+1)</translation>
     </message>
 </context>
 <context>
@@ -3143,6 +3175,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
 </context>
 <context>
     <name>unlockprodialog</name>
+    <message>
+        <source>OR</source>
+        <translation>或</translation>
+    </message>
 </context>
 <context>
     <name>updatedialog</name>
