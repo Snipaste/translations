@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="el_GR">
+<TS version="2.1" language="el_GR">
 <context>
     <name>ColorPicker</name>
     <message>
@@ -189,6 +189,10 @@ Please contact the developer.</source>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation>Εισαγάγετε ονόματα / διαδρομές πακέτων χωρισμένα με κόμμα (π.χ. snipaste.app,  games/*)</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -451,14 +455,6 @@ Restart now to enjoy PRO features?</source>
 </context>
 <context>
     <name>MovieLabel</name>
-    <message>
-        <source>Play</source>
-        <translation>Αναπαραγωγή</translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation>Παύση</translation>
-    </message>
 </context>
 <context>
     <name>NamingRulesDialog</name>
@@ -764,22 +760,6 @@ Startup on boot has been cancelled.</source>
         <translation>Σερβικά</translation>
     </message>
     <message>
-        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation>Για ενεργοποίηση του εντοπισμού στοιχείων περιβάλλοντος χρήστη, το Snipaste απαιτεί έλεγχο προσβασιμότητας.</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Άκυρο</translation>
-    </message>
-    <message>
-        <source>Open System Preferences</source>
-        <translation>Άνοιγμα Ρυθμίσεων συστήματος</translation>
-    </message>
-    <message>
-        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation>Εάν θέλετε αυτό το χαρακτηριστικό, παρακαλούμε να παραχωρήσετε πρόσβαση σε αυτήν την εφαρμογή από τις προτιμήσεις Ασφάλειας &amp; Προσωπικών δεδομένων στις Ρυθμίσεις συστήματος.</translation>
-    </message>
-    <message>
         <source>Mouse drag</source>
         <translation>Μεταφορά με το ποντίκι</translation>
     </message>
@@ -917,6 +897,10 @@ Are you sure you want to switch to another configuration file?</source>
         <source>UI</source>
         <translation>UI</translation>
     </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -959,6 +943,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Save with shadow</source>
         <translation>Αποθήκευση με σκιά</translation>
+    </message>
+    <message>
+        <source>Copy without shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save without shadow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1207,10 +1199,6 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>Κατακόρυφη αναστροφή</translation>
     </message>
     <message>
-        <source>Assign to</source>
-        <translation>Εκχώρηση σε</translation>
-    </message>
-    <message>
         <source>All desktops</source>
         <translation>Όλες τις επιφάνειες εργασίας</translation>
     </message>
@@ -1223,12 +1211,12 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>Εκχώρηση στην επιφάνεια εργασίας</translation>
     </message>
     <message>
-        <source>Pin on all desktops</source>
-        <translation>Καρφίτσωμα όλων των επιφανειών εργασίας</translation>
-    </message>
-    <message>
         <source>Desktop %1</source>
         <translation>Επιφάνεια εργασίας %1</translation>
+    </message>
+    <message>
+        <source>Copy raw HTML</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1268,6 +1256,30 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>It may take a few seconds...</source>
         <translation>Αυτό μπορεί να χρειαστεί μερικά δευτερόλεπτα...</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Άκυρο</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation>Άνοιγμα Ρυθμίσεων συστήματος</translation>
+    </message>
+    <message>
+        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation>Για ενεργοποίηση του εντοπισμού στοιχείων περιβάλλοντος χρήστη, το Snipaste απαιτεί έλεγχο προσβασιμότητας.</translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation>Εάν θέλετε αυτό το χαρακτηριστικό, παρακαλούμε να παραχωρήσετε πρόσβαση σε αυτήν την εφαρμογή από τις προτιμήσεις Ασφάλειας &amp; Προσωπικών δεδομένων στις Ρυθμίσεις συστήματος.</translation>
     </message>
 </context>
 <context>
@@ -1424,6 +1436,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Paste as plain text</source>
         <translation>Επικόλληση σαν απλό κείμενο</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2296,10 +2320,6 @@ If this option is checked, the above features will be disabled.</source>
         <translation>Εμφανίζει αυτόματα το σταυρόνημα που διασχίζει όλη την οθόνη κάθε φορά που ξεκινάει καταγραφή.</translation>
     </message>
     <message>
-        <source>Auto show cross lines</source>
-        <translation>Αυτόματη εμφάνιση σταυρονήματος</translation>
-    </message>
-    <message>
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
@@ -2727,10 +2747,6 @@ You will gain better response time on entering snipping.</source>
         <translation>Μεγεθυντικός φακός</translation>
     </message>
     <message>
-        <source>Pixel scale:</source>
-        <translation>Κλίμακα πίξελ:</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>Γραμμή εργαλείων</translation>
     </message>
@@ -3021,52 +3037,68 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Pin on all virtual desktops</source>
         <translation>Καρφίτσωμα σε όλες τις εικονικές επιφάνειες εργασίας </translation>
     </message>
+    <message>
+        <source>Magnification level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable masking when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show fullscreen cross lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all image windows when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Text</source>
-        <translation>Κείμενο</translation>
+        <source>Text (Ctrl+7)</source>
+        <translation>Κείμενο (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Βέλος</translation>
+        <source>Arrow (Ctrl+3)</source>
+        <translation>Βέλος (Ctrl+3)</translation>
     </message>
     <message>
-        <source>Marker pen</source>
-        <translation>Μαρκαδόρος</translation>
+        <source>Marker pen (Ctrl+5)</source>
+        <translation>Μαρκαδόρος (Ctrl+5)</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
         <translation>Ακύρωση αναίρεσης (Ctrl+Y)</translation>
     </message>
     <message>
-        <source>Eraser</source>
-        <translation>Γομολάστιχα</translation>
+        <source>Eraser (Ctrl+8)</source>
+        <translation>Γομολάστιχα (Ctrl+8)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
         <translation>Έξοδος από λήψη στιγμιότυπου (Esc)</translation>
     </message>
     <message>
-        <source>Pencil</source>
-        <translation>Μολύβι</translation>
+        <source>Pencil (Ctrl+4)</source>
+        <translation>Μολύβι (Ctrl+4)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Αναίρεση (Ctrl+Z)</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>Τεθλασμένη γραμμή</translation>
+        <source>Line strip (Ctrl+2)</source>
+        <translation>Τεθλασμένη γραμμή (Ctrl+2)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Αποθήκευση σε αρχείο (Ctrl+S)</translation>
     </message>
     <message>
-        <source>Mosaic/Blur</source>
-        <translation>Μωσαϊκό/Θάμπωμα</translation>
+        <source>Mosaic/Blur (Ctrl+6)</source>
+        <translation>Μωσαϊκό/Θάμπωμα (Ctrl+6)</translation>
     </message>
     <message>
         <source>Finish edit (Esc)</source>
@@ -3081,8 +3113,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Καρφίτσωμα στην οθόνη (Ctrl+T)</translation>
     </message>
     <message>
-        <source>Rectangle/Ellipse</source>
-        <translation>Ορθογώνιο/Έλλειψη</translation>
+        <source>Rectangle/Ellipse (Ctrl+1)</source>
+        <translation>Ορθογώνιο/Έλλειψη (Ctrl+1)</translation>
     </message>
 </context>
 <context>
@@ -3151,6 +3183,13 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Tips:</source>
         <translation>Συμβουλές:</translation>
+    </message>
+</context>
+<context>
+    <name>unlockprodialog</name>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

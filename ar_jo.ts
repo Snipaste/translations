@@ -108,8 +108,8 @@ Please contact the developer.</source>
         <translation>إظهار في الباحث</translation>
     </message>
     <message>
-        <source>تثبيت الآن</source>
-        <translation></translation>
+        <source>Install now</source>
+        <translation>تثبيت الآن</translation>
     </message>
 </context>
 <context>
@@ -162,8 +162,8 @@ Please contact the developer.</source>
         <translation>Beta for Mac</translation>
     </message>
     <message>
-        <source>Pro  Features</source>
-        <translation>ميزات المحترف</translation>
+        <source>PRO Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -187,6 +187,10 @@ Please contact the developer.</source>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation>(e.g. snipaste.app, games/*) أدخل أسماء/مسارات الحزمة مفصولة بفواصل*/</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -448,14 +452,6 @@ Restart now to enjoy PRO features?</source>
 </context>
 <context>
     <name>MovieLabel</name>
-    <message>
-        <source>Play</source>
-        <translation>شغل</translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation>مهلة</translation>
-    </message>
 </context>
 <context>
     <name>NamingRulesDialog</name>
@@ -761,22 +757,6 @@ Startup on boot has been cancelled.</source>
         <translation>الصربية</translation>
     </message>
     <message>
-        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation>التحكم في امكانيه الوصول Snipaste لتمكين الكشف عن عنصر واجهه المستخدم ، يتطلب.</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>الغاء الامر</translation>
-    </message>
-    <message>
-        <source>Open System Preferences</source>
-        <translation>فتح تفضيلات النظام</translation>
-    </message>
-    <message>
-        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation>اذا كنت تريد هذه الميزة ، الرجاء منح الوصول لهذا التطبيق في تفضيلات الامان &amp;الخصوصية ، الموجود في تفضيلات النظام.</translation>
-    </message>
-    <message>
         <source>Mouse drag</source>
         <translation>سحب الماوس</translation>
     </message>
@@ -911,6 +891,10 @@ Are you sure you want to switch to another configuration file?</source>
         <source>UI</source>
         <translation>UI</translation>
     </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -953,6 +937,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Save with shadow</source>
         <translation>حفظ مع الظل</translation>
+    </message>
+    <message>
+        <source>Copy without shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save without shadow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1200,10 +1192,6 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>شقلبة عمودية</translation>
     </message>
     <message>
-        <source>Assign to</source>
-        <translation>تعيين إلى</translation>
-    </message>
-    <message>
         <source>All desktops</source>
         <translation>كل اسطح المكتب</translation>
     </message>
@@ -1216,12 +1204,12 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>تعيين لسطح المكتب</translation>
     </message>
     <message>
-        <source>Pin on all desktops</source>
-        <translation>تعلىق على كل اسطح المكتب</translation>
-    </message>
-    <message>
         <source>Desktop %1</source>
         <translation>%1 سطح المكتب</translation>
+    </message>
+    <message>
+        <source>Copy raw HTML</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1258,6 +1246,30 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>It may take a few seconds...</source>
         <translation>قد يستغرق بضع ثوان...</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>الغاء الامر</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation>فتح تفضيلات النظام</translation>
+    </message>
+    <message>
+        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation>التحكم في امكانيه الوصول Snipaste لتمكين الكشف عن عنصر واجهه المستخدم ، يتطلب.</translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation>اذا كنت تريد هذه الميزة ، الرجاء منح الوصول لهذا التطبيق في تفضيلات الامان &amp;الخصوصية ، الموجود في تفضيلات النظام.</translation>
     </message>
 </context>
 <context>
@@ -1413,6 +1425,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Paste as plain text</source>
         <translation>لصق كنص عادي</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2289,10 +2313,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>مستوي سجل التسجيل:</translation>
     </message>
     <message>
-        <source>Auto show cross lines</source>
-        <translation>اظهار الخطوط المتقاطعة تلقائيا</translation>
-    </message>
-    <message>
         <source>Text-to-image conversion preview</source>
         <translation>النص-الى-معاينه تحويل الصورة</translation>
     </message>
@@ -2699,10 +2719,6 @@ You will gain better response time on entering snipping.</source>
         <translation>المكبر</translation>
     </message>
     <message>
-        <source>Pixel scale:</source>
-        <translation>مقياس البكسل:</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>شريط الادوات</translation>
     </message>
@@ -2991,68 +3007,84 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Pin on all virtual desktops</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Magnification level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable masking when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show fullscreen cross lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all image windows when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Text</source>
-        <translation>نص</translation>
+        <source>Text (Ctrl+7)</source>
+        <translation>نص (Ctrl + 7)</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>سهم</translation>
+        <source>Arrow (Ctrl+3)</source>
+        <translation>سهم (Ctrl + 3)</translation>
     </message>
     <message>
-        <source>Marker pen</source>
-        <translation>قلم تعلىم</translation>
+        <source>Marker pen (Ctrl+5)</source>
+        <translation>قلم تعلىم (Ctrl + 5)</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>اعاده (ctrl + y)</translation>
+        <translation>اعاده (Ctrl + y)</translation>
     </message>
     <message>
-        <source>Rectangle/Ellipse</source>
-        <translation>مستطيل/بيضوي</translation>
+        <source>Rectangle/Ellipse (Ctrl+1)</source>
+        <translation>مستطيل/بيضوي (Ctrl + 1)</translation>
     </message>
     <message>
-        <source>Eraser</source>
-        <translation>ممحاة</translation>
+        <source>Eraser (Ctrl+8)</source>
+        <translation>ممحاة (Ctrl + 8)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
-        <translation>انهاء القص (esc)</translation>
+        <translation>انهاء القص (Esc)</translation>
     </message>
     <message>
-        <source>Pencil</source>
-        <translation>قلم</translation>
+        <source>Pencil (Ctrl+4)</source>
+        <translation>قلم (Ctrl + 4)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation>تعلىق الى الشاشة (ctrl + t)</translation>
+        <translation>تعلىق الى الشاشة (Ctrl + t)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>تراجع (ctrl + z)</translation>
+        <translation>تراجع (Ctrl + z)</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>شريط الخط</translation>
+        <source>Line strip (Ctrl+2)</source>
+        <translation>شريط الخط (Ctrl + 2)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
-        <translation>حفظ الى ملف (ctrl + s)</translation>
+        <translation>حفظ الى ملف (Ctrl + s)</translation>
     </message>
     <message>
-        <source>Mosaic/Blur</source>
-        <translation>فسيفساء/طمس</translation>
+        <source>Mosaic/Blur (Ctrl+6)</source>
+        <translation>فسيفساء/طمس (Ctrl + 6)</translation>
     </message>
     <message>
         <source>Finish edit (Esc)</source>
-        <translation>انهاء التحرير (esc)</translation>
+        <translation>انهاء التحرير (Esc)</translation>
     </message>
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
-        <translation>نسخ الى الحافظة (ctrl + c)</translation>
+        <translation>نسخ الى الحافظة (Ctrl + c)</translation>
     </message>
 </context>
 <context>
@@ -3121,6 +3153,13 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Tips:</source>
         <translation>تلميحات:</translation>
+    </message>
+</context>
+<context>
+    <name>unlockprodialog</name>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

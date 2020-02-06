@@ -190,6 +190,10 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation>Virgülle ayrılmış paket adlarını/yollarını girin(örn. snipaste.app, oyunlar/*)</translation>
     </message>
+    <message>
+        <source>More examples...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -451,14 +455,6 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
 </context>
 <context>
     <name>MovieLabel</name>
-    <message>
-        <source>Pause</source>
-        <translation>Duraklat</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Oynat</translation>
-    </message>
 </context>
 <context>
     <name>NamingRulesDialog</name>
@@ -748,22 +744,6 @@ Açılışta başlatma iptal edildi.</translation>
         <translation>Hiçbiri</translation>
     </message>
     <message>
-        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation>UI öğesi algılamayı etkinleştirmek için, Snipaste erişilebilirlik kontrolü gerektirir.</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>İptal</translation>
-    </message>
-    <message>
-        <source>Open System Preferences</source>
-        <translation>Sistem Tercihlerini Aç</translation>
-    </message>
-    <message>
-        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation>Bu özelliği isterseniz, lütfen bu uygulamaya Sistem Ayarları&apos;nda bulunan Güvenlik ve Gizlilik tercihlerinde erişim izni verin.</translation>
-    </message>
-    <message>
         <source>Copy to clipboard</source>
         <translation>Panoya kopyala</translation>
     </message>
@@ -917,6 +897,10 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <source>UI</source>
         <translation>Arayüz</translation>
     </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -959,6 +943,14 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     <message>
         <source>Save with shadow</source>
         <translation>Gölgeyle kaydet</translation>
+    </message>
+    <message>
+        <source>Copy without shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save without shadow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1206,10 +1198,6 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
         <translation>Dikey çevir</translation>
     </message>
     <message>
-        <source>Assign to</source>
-        <translation>Olarak atayın</translation>
-    </message>
-    <message>
         <source>All desktops</source>
         <translation>Tüm masaüstüler</translation>
     </message>
@@ -1222,12 +1210,12 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
         <translation>Masaüstü olarak atayın</translation>
     </message>
     <message>
-        <source>Pin on all desktops</source>
-        <translation>Tüm masaüstlerine sabitle</translation>
-    </message>
-    <message>
         <source>Desktop %1</source>
         <translation>Masaüstü %1</translation>
+    </message>
+    <message>
+        <source>Copy raw HTML</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1265,6 +1253,30 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     <message>
         <source>It may take a few seconds...</source>
         <translation>Birkaç saniye sürebilir...</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>İptal</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation>Sistem Tercihlerini Aç</translation>
+    </message>
+    <message>
+        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation>UI öğesi algılamayı etkinleştirmek için, Snipaste erişilebilirlik kontrolü gerektirir.</translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation>Bu özelliği isterseniz, lütfen bu uygulamaya Sistem Ayarları&apos;nda bulunan Güvenlik ve Gizlilik tercihlerinde erişim izni verin.</translation>
     </message>
 </context>
 <context>
@@ -1420,6 +1432,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Paste as plain text</source>
         <translation>Düz metin olarak yapıştır</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2146,10 +2170,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Kullanım ipuçları</translation>
     </message>
     <message>
-        <source>Pixel scale:</source>
-        <translation>Piksel ölçeği:</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>Araç Çubuğu</translation>
     </message>
@@ -2252,10 +2272,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Automatically show the fullscreen cross lines every time you start snipping.</source>
         <translation>Kırpma işlemine her başladığınızda otomatik olarak ekran çizgilerini gösterir.</translation>
-    </message>
-    <message>
-        <source>Auto show cross lines</source>
-        <translation>Çizgileri otomatik göster</translation>
     </message>
     <message>
         <source>Behavior</source>
@@ -3011,40 +3027,56 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
         <source>Pin on all virtual desktops</source>
         <translation>Tüm sanal masaüstlerine sabitle</translation>
     </message>
+    <message>
+        <source>Magnification level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable masking when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show fullscreen cross lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all image windows when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Rectangle/Ellipse</source>
-        <translation>Dikdörtgen/Elips</translation>
+        <source>Rectangle/Ellipse (Ctrl+1)</source>
+        <translation>Dikdörtgen/Elips (Ctrl+1)</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>Çizgi</translation>
+        <source>Line strip (Ctrl+2)</source>
+        <translation>Çizgi (Ctrl+2)</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Ok</translation>
+        <source>Arrow (Ctrl+3)</source>
+        <translation>Ok (Ctrl+3)</translation>
     </message>
     <message>
-        <source>Pencil</source>
-        <translation>Kalem</translation>
+        <source>Pencil (Ctrl+4)</source>
+        <translation>Kalem (Ctrl+4)</translation>
     </message>
     <message>
-        <source>Marker pen</source>
-        <translation>Keçeli kalem</translation>
+        <source>Marker pen (Ctrl+5)</source>
+        <translation>Keçeli kalem (Ctrl+5)</translation>
     </message>
     <message>
-        <source>Mosaic/Blur</source>
-        <translation>Mozaik/Bulanık</translation>
+        <source>Mosaic/Blur (Ctrl+6)</source>
+        <translation>Mozaik/Bulanık (Ctrl+6)</translation>
     </message>
     <message>
-        <source>Text</source>
-        <translation>Metin</translation>
+        <source>Text (Ctrl+7)</source>
+        <translation>Metin (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Eraser</source>
-        <translation>Silgi</translation>
+        <source>Eraser (Ctrl+8)</source>
+        <translation>Silgi (Ctrl+8)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -3141,6 +3173,13 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     <message>
         <source>Tips:</source>
         <translation>İpuçları:</translation>
+    </message>
+</context>
+<context>
+    <name>unlockprodialog</name>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

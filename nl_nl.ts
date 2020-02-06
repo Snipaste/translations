@@ -190,6 +190,10 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation>Voer app-namen/paden in, gescheiden door komma&apos;s (bijv. snipaste.app, games/*)</translation>
     </message>
+    <message>
+        <source>More examples...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -451,14 +455,6 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
 </context>
 <context>
     <name>MovieLabel</name>
-    <message>
-        <source>Pause</source>
-        <translation>Pauzeren</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Afspelen</translation>
-    </message>
 </context>
 <context>
     <name>NamingRulesDialog</name>
@@ -764,22 +760,6 @@ Automatisch opstarten is uitgeschakeld.</translation>
         <translation>Servisch</translation>
     </message>
     <message>
-        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation>Snipaste heeft toegankelijkheidsinstellingen nodig voor de detectie van vensterelementen</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Annuleren</translation>
-    </message>
-    <message>
-        <source>Open System Preferences</source>
-        <translation>Systeeminstellingen openen</translation>
-    </message>
-    <message>
-        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation>Voor deze functie moet dit programma toegang krijgen inSysteeminstellineg - Privacyinstellingen.</translation>
-    </message>
-    <message>
         <source>Mouse drag</source>
         <translation>Slepen met muis</translation>
     </message>
@@ -917,6 +897,10 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
         <source>UI</source>
         <translation>UI</translation>
     </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -959,6 +943,14 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
     <message>
         <source>Save with shadow</source>
         <translation>Opslaan met schaduw</translation>
+    </message>
+    <message>
+        <source>Copy without shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save without shadow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1206,10 +1198,6 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
         <translation>Verticaal spiegelen</translation>
     </message>
     <message>
-        <source>Assign to</source>
-        <translation>Toewijzen</translation>
-    </message>
-    <message>
         <source>All desktops</source>
         <translation>Elk bureaublad</translation>
     </message>
@@ -1222,12 +1210,12 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
         <translation>Aan bureaublad toewijzen</translation>
     </message>
     <message>
-        <source>Pin on all desktops</source>
-        <translation>Aan elk bureaublad vastmaken</translation>
-    </message>
-    <message>
         <source>Desktop %1</source>
         <translation>Bureablad %1</translation>
+    </message>
+    <message>
+        <source>Copy raw HTML</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1265,6 +1253,30 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     <message>
         <source>It may take a few seconds...</source>
         <translation>Dit kan een paar tellen duren…</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuleren</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation>Systeeminstellingen openen</translation>
+    </message>
+    <message>
+        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation>Snipaste heeft toegankelijkheidsinstellingen nodig voor de detectie van vensterelementen</translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation>Voor deze functie moet dit programma toegang krijgen inSysteeminstellineg - Privacyinstellingen.</translation>
     </message>
 </context>
 <context>
@@ -1420,6 +1432,18 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Paste as plain text</source>
         <translation>Plakken als tekst</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2292,10 +2316,6 @@ Meld deze a.u.b. wanneer u ze vindt.</translation>
         <translation>Automatisch richtkruis weergeven bij Knippen.</translation>
     </message>
     <message>
-        <source>Auto show cross lines</source>
-        <translation>Richtkruis weergeven</translation>
-    </message>
-    <message>
         <source>Quit snipping if any window of other programs is activated.</source>
         <translation>Opname stoppen zodra een venster of programma actief wordt.</translation>
     </message>
@@ -2718,10 +2738,6 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
         <translation>Vergrootglas</translation>
     </message>
     <message>
-        <source>Pixel scale:</source>
-        <translation>Schaal:</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>Knoppenbalk</translation>
     </message>
@@ -3011,40 +3027,56 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
         <source>Pin on all virtual desktops</source>
         <translation>Aan elk virtueel bureablad vastmaken</translation>
     </message>
+    <message>
+        <source>Magnification level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable masking when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show fullscreen cross lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all image windows when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Line strip</source>
-        <translation>Lijnstuk</translation>
+        <source>Line strip (Ctrl+2)</source>
+        <translation>Lijnstuk (Ctrl+2)</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Pijl</translation>
+        <source>Arrow (Ctrl+3)</source>
+        <translation>Pijl (Ctrl+3)</translation>
     </message>
     <message>
-        <source>Marker pen</source>
-        <translation>Markeerstift</translation>
+        <source>Marker pen (Ctrl+5)</source>
+        <translation>Markeerstift (Ctrl+5)</translation>
     </message>
     <message>
-        <source>Text</source>
-        <translation>Tekst</translation>
+        <source>Text (Ctrl+7)</source>
+        <translation>Tekst (Ctrl+7)</translation>
     </message>
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
         <translation>Naar klembord kopiëren (Ctrl+C)</translation>
     </message>
     <message>
-        <source>Pencil</source>
-        <translation>Potlood</translation>
+        <source>Pencil (Ctrl+4)</source>
+        <translation>Potlood (Ctrl+4)</translation>
     </message>
     <message>
-        <source>Mosaic/Blur</source>
-        <translation>Mozaiek/Vervagen</translation>
+        <source>Mosaic/Blur (Ctrl+6)</source>
+        <translation>Mozaiek/Vervagen (Ctrl+6)</translation>
     </message>
     <message>
-        <source>Eraser</source>
-        <translation>Wissen</translation>
+        <source>Eraser (Ctrl+8)</source>
+        <translation>Wissen (Ctrl+8)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -3071,8 +3103,8 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
         <translation>Knippen afbreken (Esc)</translation>
     </message>
     <message>
-        <source>Rectangle/Ellipse</source>
-        <translation>Rechthoek/Ellips</translation>
+        <source>Rectangle/Ellipse (Ctrl+1)</source>
+        <translation>Rechthoek/Ellips (Ctrl+1)</translation>
     </message>
 </context>
 <context>
@@ -3141,6 +3173,13 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     <message>
         <source>Tips:</source>
         <translation>Tips:</translation>
+    </message>
+</context>
+<context>
+    <name>unlockprodialog</name>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

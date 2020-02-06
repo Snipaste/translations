@@ -188,6 +188,10 @@ Please contact the developer.</source>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>More examples...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -448,14 +452,6 @@ Restart now to enjoy PRO features?</source>
 </context>
 <context>
     <name>MovieLabel</name>
-    <message>
-        <source>Pause</source>
-        <translation>Pozastavit</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Přehrát</translation>
-    </message>
 </context>
 <context>
     <name>NamingRulesDialog</name>
@@ -767,22 +763,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Zrušit</translation>
-    </message>
-    <message>
-        <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Copy to clipboard</source>
         <translation>Kopírovat do schránky</translation>
     </message>
@@ -909,6 +889,10 @@ Startup on boot has been cancelled.</source>
         <translation>Něco je špatně se zástupcem &apos;Při spuštění&apos;.
 Spuštění při náběhu systému bylo zrušeno. </translation>
     </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -950,6 +934,14 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy without shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save without shadow</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1212,6 +1204,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Y-mirror</source>
         <translation>Y-zrcadlení</translation>
     </message>
+    <message>
+        <source>Copy raw HTML</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1248,6 +1244,30 @@ Spusťte Snipaste s právy správce a zkuste znovu provést nastavení.</transla
     <message>
         <source>Failed to create a shortcut in the startup directory.</source>
         <translation>Vytvoření zástupce v adresáři &apos;Po spuštění&apos; se nezdařilo.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Zrušit</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1401,6 +1421,18 @@ Spusťte Snipaste s právy správce a zkuste znovu provést nastavení.</transla
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1923,9 +1955,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
-    <name>magnifier</name>
-</context>
-<context>
     <name>newgroup</name>
     <message>
         <source>Create New Group</source>
@@ -2119,10 +2148,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pixel scale:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2225,10 +2250,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Automatically show the fullscreen cross lines every time you start snipping.</source>
         <translation>Pokaždé, když začnete vystříhávat, automaticky zobrazí linky záměrného kříže přes celou obrazovku.</translation>
-    </message>
-    <message>
-        <source>Auto show cross lines</source>
-        <translation>Automatické zobrazení linek záměrného kříže</translation>
     </message>
     <message>
         <source>Behavior</source>
@@ -2992,40 +3013,56 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
         <source>Contact:</source>
         <translation>Kontakt:</translation>
     </message>
+    <message>
+        <source>Magnification level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable masking when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show fullscreen cross lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all image windows when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Rectangle/Ellipse</source>
+        <source>Rectangle/Ellipse (Ctrl+1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>Linka</translation>
+        <source>Line strip (Ctrl+2)</source>
+        <translation>Linka (Ctrl+2)</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Šipka</translation>
+        <source>Arrow (Ctrl+3)</source>
+        <translation>Šipka (Ctrl+3)</translation>
     </message>
     <message>
-        <source>Pencil</source>
-        <translation>Tužka</translation>
+        <source>Pencil (Ctrl+4)</source>
+        <translation>Tužka (Ctrl+4)</translation>
     </message>
     <message>
-        <source>Marker pen</source>
-        <translation>Zvýrazňovací tužka</translation>
+        <source>Marker pen (Ctrl+5)</source>
+        <translation>Zvýrazňovací tužka (Ctrl+5)</translation>
     </message>
     <message>
-        <source>Mosaic/Blur</source>
-        <translation>Mozaika/Rozostření</translation>
+        <source>Mosaic/Blur (Ctrl+6)</source>
+        <translation>Mozaika/Rozostření (Ctrl+6)</translation>
     </message>
     <message>
-        <source>Text</source>
-        <translation>Text</translation>
+        <source>Text (Ctrl+7)</source>
+        <translation>Text (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Eraser</source>
-        <translation>Guma</translation>
+        <source>Eraser (Ctrl+8)</source>
+        <translation>Guma (Ctrl+8)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -3121,6 +3158,13 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>unlockprodialog</name>
+    <message>
+        <source>OR</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

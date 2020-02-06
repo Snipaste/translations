@@ -190,6 +190,10 @@ Por favor, contate o desenvolvedor.</translation>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation>Entre os nomes/caminhos dos pacotes separados por vírgulas (ex.: snipaste.app, games/*)</translation>
     </message>
+    <message>
+        <source>More examples...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -451,14 +455,6 @@ Reiniciar agora para usufruir dos recursos PRO?</translation>
 </context>
 <context>
     <name>MovieLabel</name>
-    <message>
-        <source>Pause</source>
-        <translation>Pausar</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Reproduzir</translation>
-    </message>
 </context>
 <context>
     <name>NamingRulesDialog</name>
@@ -764,22 +760,6 @@ A inicialização no boot foi cancelada.</translation>
         <translation>Sérvio</translation>
     </message>
     <message>
-        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation>Para habilitar a detecção de elementos da interface, o Snipaste necessita do controle de acessibilidade.</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancelar</translation>
-    </message>
-    <message>
-        <source>Open System Preferences</source>
-        <translation>Abrir Preferências do Sistema</translation>
-    </message>
-    <message>
-        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation>Se você deseja este recurso, por favor, garanta acesso a este aplicativo nas preferências de Segurança &amp; Privacidade, localizado nas Preferências do Sistema.</translation>
-    </message>
-    <message>
         <source>Mouse drag</source>
         <translation>Arrastar do mouse</translation>
     </message>
@@ -917,6 +897,10 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
         <source>UI</source>
         <translation>Interface</translation>
     </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -959,6 +943,14 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     <message>
         <source>Save with shadow</source>
         <translation>Salvar com sombra</translation>
+    </message>
+    <message>
+        <source>Copy without shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save without shadow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1206,10 +1198,6 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
         <translation>Inverter verticalmente</translation>
     </message>
     <message>
-        <source>Assign to</source>
-        <translation>Atribuir a</translation>
-    </message>
-    <message>
         <source>All desktops</source>
         <translation>Todas as áreas de trabalho</translation>
     </message>
@@ -1222,12 +1210,12 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
         <translation>Atribuir a esta área de trabalho</translation>
     </message>
     <message>
-        <source>Pin on all desktops</source>
-        <translation>Fixar em todas as áreas de trabalho</translation>
-    </message>
-    <message>
         <source>Desktop %1</source>
         <translation>Área de trabalho %1</translation>
+    </message>
+    <message>
+        <source>Copy raw HTML</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1265,6 +1253,30 @@ Reinicie o Snipaste como Administrador e tente novamente.</translation>
     <message>
         <source>It may take a few seconds...</source>
         <translation>Isto pode levar alguns segundos...</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation>Abrir Preferências do Sistema</translation>
+    </message>
+    <message>
+        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation>Para habilitar a detecção de elementos da interface, o Snipaste necessita do controle de acessibilidade.</translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation>Se você deseja este recurso, por favor, garanta acesso a este aplicativo nas preferências de Segurança &amp; Privacidade, localizado nas Preferências do Sistema.</translation>
     </message>
 </context>
 <context>
@@ -1420,6 +1432,18 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <message>
         <source>Paste as plain text</source>
         <translation>Colar como texto simples</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2162,10 +2186,6 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <translation>Automaticamente mostra as linhas de cruzamento em tela cheia ao iniciar o recorte.</translation>
     </message>
     <message>
-        <source>Auto show cross lines</source>
-        <translation>Auto exibir linhas cruzadas</translation>
-    </message>
-    <message>
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
@@ -2718,10 +2738,6 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
         <translation>Lupa</translation>
     </message>
     <message>
-        <source>Pixel scale:</source>
-        <translation>Escala de pixels:</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>Barra de Ferramentas</translation>
     </message>
@@ -3011,36 +3027,52 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
         <source>Pin on all virtual desktops</source>
         <translation>Fixar em todas as área de trabalho virtuais</translation>
     </message>
+    <message>
+        <source>Magnification level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable masking when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show fullscreen cross lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all image windows when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Line strip</source>
-        <translation>Linha</translation>
+        <source>Line strip (Ctrl+2)</source>
+        <translation>Linha (Ctrl+2)</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Seta</translation>
+        <source>Arrow (Ctrl+3)</source>
+        <translation>Seta (Ctrl+3)</translation>
     </message>
     <message>
-        <source>Pencil</source>
-        <translation>Lápis</translation>
+        <source>Pencil (Ctrl+4)</source>
+        <translation>Lápis (Ctrl+4)</translation>
     </message>
     <message>
-        <source>Marker pen</source>
-        <translation>Marcador</translation>
+        <source>Marker pen (Ctrl+5)</source>
+        <translation>Marcador (Ctrl+5)</translation>
     </message>
     <message>
-        <source>Mosaic/Blur</source>
-        <translation>Mosaico/Desfoque</translation>
+        <source>Mosaic/Blur (Ctrl+6)</source>
+        <translation>Mosaico/Desfoque (Ctrl+6)</translation>
     </message>
     <message>
-        <source>Text</source>
-        <translation>Texto</translation>
+        <source>Text (Ctrl+7)</source>
+        <translation>Texto (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Eraser</source>
-        <translation>Borracha</translation>
+        <source>Eraser (Ctrl+8)</source>
+        <translation>Borracha (Ctrl+8)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -3071,8 +3103,8 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
         <translation>Concluir edição (Esc)</translation>
     </message>
     <message>
-        <source>Rectangle/Ellipse</source>
-        <translation>Retângulo/Elipse</translation>
+        <source>Rectangle/Ellipse (Ctrl+1)</source>
+        <translation>Retângulo/Elipse (Ctrl+1)</translation>
     </message>
 </context>
 <context>
@@ -3141,6 +3173,13 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
     <message>
         <source>Tips:</source>
         <translation>Dicas:</translation>
+    </message>
+</context>
+<context>
+    <name>unlockprodialog</name>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

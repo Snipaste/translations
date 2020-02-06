@@ -190,6 +190,10 @@ Please contact the developer.</source>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation>Унеси име/путању пакета одвојено са запетама (нпр. snipaste.app, games/*)</translation>
     </message>
+    <message>
+        <source>More examples...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -451,14 +455,6 @@ Restart now to enjoy PRO features?</source>
 </context>
 <context>
     <name>MovieLabel</name>
-    <message>
-        <source>Pause</source>
-        <translation>Пауза</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Пусти</translation>
-    </message>
 </context>
 <context>
     <name>NamingRulesDialog</name>
@@ -764,22 +760,6 @@ Startup on boot has been cancelled.</source>
         <translation>Српски</translation>
     </message>
     <message>
-        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation>Да би могли да нађете елементе, Snipaste треба да има контролу приступа.</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Поништити</translation>
-    </message>
-    <message>
-        <source>Open System Preferences</source>
-        <translation>Отворити подешавања система</translation>
-    </message>
-    <message>
-        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation>Ако желите ову опцију, требате да дозволите овај програм у Security &amp; Privacyм у системска подешавања.</translation>
-    </message>
-    <message>
         <source>Mouse drag</source>
         <translation>Спуштање миша</translation>
     </message>
@@ -917,6 +897,10 @@ Are you sure you want to switch to another configuration file?</source>
         <source>UI</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -959,6 +943,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Save with shadow</source>
         <translation>Сачувај са сенком</translation>
+    </message>
+    <message>
+        <source>Copy without shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save without shadow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1206,10 +1198,6 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>Пребаци ветикално</translation>
     </message>
     <message>
-        <source>Assign to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All desktops</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1222,11 +1210,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pin on all desktops</source>
+        <source>Desktop %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Desktop %1</source>
+        <source>Copy raw HTML</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1265,6 +1253,30 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>It may take a few seconds...</source>
         <translation>Може да потраје неки секунд...</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation>Отворити подешавања система</translation>
+    </message>
+    <message>
+        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation>Да би могли да нађете елементе, Snipaste треба да има контролу приступа.</translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation>Ако желите ову опцију, требате да дозволите овај програм у Security &amp; Privacyм у системска подешавања.</translation>
     </message>
 </context>
 <context>
@@ -1420,6 +1432,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Paste as plain text</source>
         <translation>Прилепи као текст</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2134,10 +2158,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Аутоматски показати унакрсне линије целог екрана сваки пут када резате.</translation>
     </message>
     <message>
-        <source>Auto show cross lines</source>
-        <translation>Аутоматско показивање унакрсних линија</translation>
-    </message>
-    <message>
         <source>Behavior</source>
         <translation>Понашање</translation>
     </message>
@@ -2718,10 +2738,6 @@ You will gain better response time on entering snipping.</source>
         <translation>Лупа</translation>
     </message>
     <message>
-        <source>Pixel scale:</source>
-        <translation>Скала пикселе:</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>Алатна трака</translation>
     </message>
@@ -3011,36 +3027,52 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Magnification level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable masking when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show fullscreen cross lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all image windows when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Line strip</source>
-        <translation>Линија</translation>
+        <source>Line strip (Ctrl+2)</source>
+        <translation>Линија (Ctrl+2)</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Стрелица</translation>
+        <source>Arrow (Ctrl+3)</source>
+        <translation>Стрелица (Ctrl+3)</translation>
     </message>
     <message>
-        <source>Pencil</source>
-        <translation>Оловка</translation>
+        <source>Pencil (Ctrl+4)</source>
+        <translation>Оловка (Ctrl+4)</translation>
     </message>
     <message>
-        <source>Marker pen</source>
-        <translation>Маркер</translation>
+        <source>Marker pen (Ctrl+5)</source>
+        <translation>Маркер (Ctrl+5)</translation>
     </message>
     <message>
-        <source>Mosaic/Blur</source>
-        <translation>Мозаик/замућење</translation>
+        <source>Mosaic/Blur (Ctrl+6)</source>
+        <translation>Мозаик/замућење (Ctrl+6)</translation>
     </message>
     <message>
-        <source>Text</source>
-        <translation>Текст</translation>
+        <source>Text (Ctrl+7)</source>
+        <translation>Текст (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Eraser</source>
-        <translation>Брисач</translation>
+        <source>Eraser (Ctrl+8)</source>
+        <translation>Брисач (Ctrl+8)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -3071,8 +3103,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Завршити уређивање (Esc)</translation>
     </message>
     <message>
-        <source>Rectangle/Ellipse</source>
-        <translation>Правоугаоник/елипса</translation>
+        <source>Rectangle/Ellipse (Ctrl+1)</source>
+        <translation>Правоугаоник/елипса (Ctrl+1)</translation>
     </message>
 </context>
 <context>
@@ -3141,6 +3173,13 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Tips:</source>
         <translation>Савети:</translation>
+    </message>
+</context>
+<context>
+    <name>unlockprodialog</name>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

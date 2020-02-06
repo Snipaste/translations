@@ -188,6 +188,10 @@ Please contact the developer.</source>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>More examples...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -443,17 +447,6 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Right click</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MovieLabel</name>
-    <message>
-        <source>Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -760,22 +753,6 @@ Startup on boot has been cancelled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Mouse drag</source>
         <translation type="unfinished"></translation>
     </message>
@@ -908,6 +885,10 @@ Are you sure you want to switch to another configuration file?</source>
         <source>UI</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -949,6 +930,14 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Save with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy without shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save without shadow</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1196,10 +1185,6 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Assign to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All desktops</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1212,11 +1197,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pin on all desktops</source>
+        <source>Desktop %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Desktop %1</source>
+        <source>Copy raw HTML</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1253,6 +1238,30 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1407,6 +1416,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Paste as plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2122,10 +2143,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Auto show cross lines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Behavior</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2694,10 +2711,6 @@ You will gain better response time on entering snipping.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pixel scale:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2986,37 +2999,25 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Magnification level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable masking when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show fullscreen cross lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all image windows when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
-    <message>
-        <source>Line strip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pencil</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Marker pen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eraser</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation type="unfinished"></translation>
@@ -3046,7 +3047,35 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rectangle/Ellipse</source>
+        <source>Rectangle/Ellipse (Ctrl+1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line strip (Ctrl+2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow (Ctrl+3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pencil (Ctrl+4)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Marker pen (Ctrl+5)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur (Ctrl+6)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text (Ctrl+7)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser (Ctrl+8)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3115,6 +3144,13 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>unlockprodialog</name>
+    <message>
+        <source>OR</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

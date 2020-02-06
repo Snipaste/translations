@@ -190,6 +190,10 @@ Kontakta programutvecklaren.</translation>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>More examples...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -450,14 +454,6 @@ Restart now to enjoy PRO features?</source>
 </context>
 <context>
     <name>MovieLabel</name>
-    <message>
-        <source>Play</source>
-        <translation>Spela</translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation>Paus</translation>
-    </message>
 </context>
 <context>
     <name>NamingRulesDialog</name>
@@ -763,22 +759,6 @@ Autostart vid systemstart har avbrutits.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Avbryt</translation>
-    </message>
-    <message>
-        <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Mouse drag</source>
         <translation type="unfinished"></translation>
     </message>
@@ -911,6 +891,10 @@ Are you sure you want to switch to another configuration file?</source>
         <source>UI</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -952,6 +936,14 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Save with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy without shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save without shadow</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1199,10 +1191,6 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Assign to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All desktops</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1215,11 +1203,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pin on all desktops</source>
+        <source>Desktop %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Desktop %1</source>
+        <source>Copy raw HTML</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1257,6 +1245,30 @@ Du kan starta om Snipaste som administratör och försöka igen.</translation>
     </message>
     <message>
         <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Avbryt</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1411,6 +1423,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Paste as plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2272,10 +2296,6 @@ Om detta alternativ aktiveras, kommer ovanstående funktioner att inaktiveras.</
         <translation>Visa helskärms korslinjer automatiskt, varje gång ett klipp påbörjas.</translation>
     </message>
     <message>
-        <source>Auto show cross lines</source>
-        <translation>Visa korslinjer automatiskt</translation>
-    </message>
-    <message>
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
@@ -2709,10 +2729,6 @@ You will gain better response time on entering snipping.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pixel scale:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3001,52 +3017,68 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Magnification level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable masking when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show fullscreen cross lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all image windows when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Text</source>
-        <translation>Text</translation>
+        <source>Text (Ctrl+7)</source>
+        <translation>Text (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Pil</translation>
+        <source>Arrow (Ctrl+3)</source>
+        <translation>Pil (Ctrl+3)</translation>
     </message>
     <message>
-        <source>Marker pen</source>
-        <translation>Markeringspenna</translation>
+        <source>Marker pen (Ctrl+5)</source>
+        <translation>Markeringspenna (Ctrl+5)</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
         <translation>Upprepa (Ctrl+Y)</translation>
     </message>
     <message>
-        <source>Eraser</source>
-        <translation>Radera</translation>
+        <source>Eraser (Ctrl+8)</source>
+        <translation>Radera (Ctrl+8)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
         <translation>Avsluta klippning (Esc)</translation>
     </message>
     <message>
-        <source>Pencil</source>
-        <translation>Penna</translation>
+        <source>Pencil (Ctrl+4)</source>
+        <translation>Penna (Ctrl+4)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Ångra (Ctrl+Z)</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>Linje</translation>
+        <source>Line strip (Ctrl+2)</source>
+        <translation>Linje (Ctrl+2)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Spara till fil (Ctrl+S)</translation>
     </message>
     <message>
-        <source>Mosaic/Blur</source>
-        <translation>Mosaik/Oskärpa</translation>
+        <source>Mosaic/Blur (Ctrl+6)</source>
+        <translation>Mosaik/Oskärpa (Ctrl+6)</translation>
     </message>
     <message>
         <source>Finish edit (Esc)</source>
@@ -3061,8 +3093,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Fäst på skärmen (Ctrl+T)</translation>
     </message>
     <message>
-        <source>Rectangle/Ellipse</source>
-        <translation>Rektangel/Ellips</translation>
+        <source>Rectangle/Ellipse (Ctrl+1)</source>
+        <translation>Rektangel/Ellips (Ctrl+1)</translation>
     </message>
 </context>
 <context>
@@ -3131,6 +3163,13 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Tips:</source>
         <translation>Tips:</translation>
+    </message>
+</context>
+<context>
+    <name>unlockprodialog</name>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

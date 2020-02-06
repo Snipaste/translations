@@ -188,6 +188,10 @@ Please contact the developer.</source>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation>コンマ区切りのバンドル名/パスを入力してください（例：snipaste.app、games / *）</translation>
     </message>
+    <message>
+        <source>More examples...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeybindingModel</name>
@@ -449,14 +453,6 @@ PRO機能を楽しむために今すぐ再起動しますか？</translation>
 </context>
 <context>
     <name>MovieLabel</name>
-    <message>
-        <source>Play</source>
-        <translation>再生</translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation>一時停止</translation>
-    </message>
 </context>
 <context>
     <name>NamingRulesDialog</name>
@@ -761,22 +757,6 @@ Startup on boot has been cancelled.</source>
         <translation>セルビア語</translation>
     </message>
     <message>
-        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation>UI要素の検出を有効にするには、Snipasteはアクセシビリティコントロールが必要です。</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>キャンセル</translation>
-    </message>
-    <message>
-        <source>Open System Preferences</source>
-        <translation>システム環境設定を開く</translation>
-    </message>
-    <message>
-        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation>この機能を使用するには、システム環境設定にある「セキュリティとプライバシー」でこのアプリケーションへのアクセスを許可する。</translation>
-    </message>
-    <message>
         <source>Mouse drag</source>
         <translation>マウスドラッグ</translation>
     </message>
@@ -914,6 +894,10 @@ Are you sure you want to switch to another configuration file?</source>
         <source>UI</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -956,6 +940,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Save with shadow</source>
         <translation>影付き保存する</translation>
+    </message>
+    <message>
+        <source>Copy without shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save without shadow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1203,10 +1195,6 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>垂直反転</translation>
     </message>
     <message>
-        <source>Assign to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All desktops</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1219,11 +1207,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pin on all desktops</source>
+        <source>Desktop %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Desktop %1</source>
+        <source>Copy raw HTML</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1261,6 +1249,30 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>It may take a few seconds...</source>
         <translation>数秒かかることがあります...</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Open System Preferences</source>
+        <translation>システム環境設定を開く</translation>
+    </message>
+    <message>
+        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable UI element detection, Snipaste requires accessibility control.</source>
+        <translation>UI要素の検出を有効にするには、Snipasteはアクセシビリティコントロールが必要です。</translation>
+    </message>
+    <message>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation>この機能を使用するには、システム環境設定にある「セキュリティとプライバシー」でこのアプリケーションへのアクセスを許可する。</translation>
     </message>
 </context>
 <context>
@@ -1416,6 +1428,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Paste as plain text</source>
         <translation>テキストとして貼り付ける</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2146,10 +2170,6 @@ Skypeなど特別なプログラムに貼り付け可能になります。ただ
         <translation>スニップを使用する時の位置</translation>
     </message>
     <message>
-        <source>Auto show cross lines</source>
-        <translation>十字線を自動的に表示</translation>
-    </message>
-    <message>
         <source>Text-to-image conversion preview</source>
         <translation>文字画像のプレビュー</translation>
     </message>
@@ -2713,10 +2733,6 @@ You will gain better response time on entering snipping.</source>
         <translation>拡大鏡</translation>
     </message>
     <message>
-        <source>Pixel scale:</source>
-        <translation>ピクセルスケール：</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>ツールバー</translation>
     </message>
@@ -3006,36 +3022,52 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Magnification level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable masking when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show fullscreen cross lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all image windows when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Text</source>
-        <translation>テキスト</translation>
+        <source>Text (Ctrl+7)</source>
+        <translation>テキスト (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>矢印</translation>
+        <source>Arrow (Ctrl+3)</source>
+        <translation>矢印 (Ctrl+3)</translation>
     </message>
     <message>
-        <source>Marker pen</source>
-        <translation>マーカー</translation>
+        <source>Marker pen (Ctrl+5)</source>
+        <translation>マーカー (Ctrl+5)</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
         <translation>やり直す (Ctrl+Y)</translation>
     </message>
     <message>
-        <source>Eraser</source>
-        <translation>消しゴム</translation>
+        <source>Eraser (Ctrl+8)</source>
+        <translation>消しゴム (Ctrl+8)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
         <translation>スニップを終了 (Esc)</translation>
     </message>
     <message>
-        <source>Pencil</source>
-        <translation>ブラシ</translation>
+        <source>Pencil (Ctrl+4)</source>
+        <translation>ブラシ (Ctrl+4)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
@@ -3046,16 +3078,16 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>元に戻す (Ctrl+Z)</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>折れ線</translation>
+        <source>Line strip (Ctrl+2)</source>
+        <translation>折れ線 (Ctrl+2)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>ファイルに保存 (Ctrl+S)</translation>
     </message>
     <message>
-        <source>Mosaic/Blur</source>
-        <translation>モザイク/ぼかし</translation>
+        <source>Mosaic/Blur (Ctrl+6)</source>
+        <translation>モザイク/ぼかし (Ctrl+6)</translation>
     </message>
     <message>
         <source>Finish edit (Esc)</source>
@@ -3066,8 +3098,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>クリップボードにコピー (Ctrl+C)</translation>
     </message>
     <message>
-        <source>Rectangle/Ellipse</source>
-        <translation>長方形/楕円</translation>
+        <source>Rectangle/Ellipse (Ctrl+1)</source>
+        <translation>長方形/楕円 (Ctrl+1)</translation>
     </message>
 </context>
 <context>
@@ -3136,6 +3168,13 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Tips:</source>
         <translation>ヒント：</translation>
+    </message>
+</context>
+<context>
+    <name>unlockprodialog</name>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
