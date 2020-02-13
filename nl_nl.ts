@@ -192,7 +192,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>More examples...</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer voorbeelden…</translation>
     </message>
 </context>
 <context>
@@ -899,7 +899,7 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Knippen, kopiëren en vastpinnen</translation>
     </message>
 </context>
 <context>
@@ -946,11 +946,11 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Copy without shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëren zonder schaduw</translation>
     </message>
     <message>
         <source>Save without shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan zonder schaduw</translation>
     </message>
 </context>
 <context>
@@ -1215,7 +1215,7 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
     </message>
     <message>
         <source>Copy raw HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML kopiëren</translation>
     </message>
 </context>
 <context>
@@ -1264,11 +1264,11 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om een schermopnames te maken, heeft Snipaste uw toestemming nodig.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Als Snipaste al is ingeschakeld in de lijst Schermopname en het werkt nog steeds niet, dan moet u het mogelijk opnieuw opstarten of uw Mac opnieuw opstarten.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1435,15 +1435,15 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Knippen met schaduw</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Knippen, kopiëren en vastpinnen</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparante whiteboard-modus starten (dubbeltik op Esc om te stoppen)</translation>
     </message>
 </context>
 <context>
@@ -3029,19 +3029,19 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergroting:</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Maskeren uitschakelen als het Bestandsvenster zichtbaar is</translation>
     </message>
     <message>
         <source>Show fullscreen cross lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Richtkruis op volledig scherm weergeven</translation>
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeeldingsvensters verbergen als het Bestandsvenster zichtbaar is</translation>
     </message>
 </context>
 <context>
@@ -3179,7 +3179,7 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     <name>unlockprodialog</name>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>OF</translation>
     </message>
 </context>
 <context>
