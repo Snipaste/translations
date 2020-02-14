@@ -192,7 +192,7 @@ Por favor, contate o desenvolvedor.</translation>
     </message>
     <message>
         <source>More examples...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais exemplos...</translation>
     </message>
 </context>
 <context>
@@ -452,9 +452,6 @@ Reiniciar agora para usufruir dos recursos PRO?</translation>
         <source>Right click</source>
         <translation>Clique direito</translation>
     </message>
-</context>
-<context>
-    <name>MovieLabel</name>
 </context>
 <context>
     <name>NamingRulesDialog</name>
@@ -899,7 +896,7 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar, copiar e fixar</translation>
     </message>
 </context>
 <context>
@@ -946,11 +943,11 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     </message>
     <message>
         <source>Copy without shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar sem sombra</translation>
     </message>
     <message>
         <source>Save without shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar sem sombra</translation>
     </message>
 </context>
 <context>
@@ -1215,7 +1212,7 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
     </message>
     <message>
         <source>Copy raw HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar HTML bruto</translation>
     </message>
 </context>
 <context>
@@ -1264,11 +1261,11 @@ Reinicie o Snipaste como Administrador e tente novamente.</translation>
     </message>
     <message>
         <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para realizar uma captura de tela, o Snipaste necessita de permissão do Gravador de Tela.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se o Snipaste já foi adicionado à lista do Gravador de Tela e ainda assim não funcionar, você talvez precise reiniciar o Snipaste ou o seu Mac.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1435,15 +1432,15 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar com sombra</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar, copiar e fixar</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrar no modo quadro branco (Duplo toque em Esc para sair)</translation>
     </message>
 </context>
 <context>
@@ -3029,19 +3026,19 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nível de ampliação:</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Desativar mascaramento se o diálogo de Arquivo é mostrado</translation>
     </message>
     <message>
         <source>Show fullscreen cross lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar linhas cruzadas em tela cheia</translation>
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar todas as janelas de imagem se o diálogo de Arquivo é mostrado</translation>
     </message>
 </context>
 <context>
@@ -3179,7 +3176,7 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
     <name>unlockprodialog</name>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>OU</translation>
     </message>
 </context>
 <context>
