@@ -454,9 +454,6 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     </message>
 </context>
 <context>
-    <name>MovieLabel</name>
-</context>
-<context>
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
@@ -3042,6 +3039,14 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Yok sayılanlar listesi:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Virgülle ayrılmış çalıştırılabilir adlar/yollar girin (örn. a.exe, oyunlar/*)</translation>
     </message>
 </context>
 <context>

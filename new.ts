@@ -3015,6 +3015,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Hide all image windows when File Dialog is shown</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>

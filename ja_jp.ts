@@ -452,9 +452,6 @@ PRO機能を楽しむために今すぐ再起動しますか？</translation>
     </message>
 </context>
 <context>
-    <name>MovieLabel</name>
-</context>
-<context>
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
@@ -3037,6 +3034,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>無視リスト：</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>コンマ区切りの実行ファイル名/パスを入力してください（例：snipaste.app、games / *）</translation>
     </message>
 </context>
 <context>

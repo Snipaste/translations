@@ -451,9 +451,6 @@ Restart now to enjoy PRO features?</source>
     </message>
 </context>
 <context>
-    <name>MovieLabel</name>
-</context>
-<context>
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
@@ -3034,6 +3031,14 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Lista ignorada:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
