@@ -454,9 +454,6 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
     </message>
 </context>
 <context>
-    <name>MovieLabel</name>
-</context>
-<context>
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
@@ -3042,6 +3039,14 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
         <translation>Afbeeldingsvensters verbergen als het Bestandsvenster zichtbaar is</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Genegeerd:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Voer uitvoerbare bestanden/paden in gescheiden door komma&apos;s (bij. a.exe, games/*)</translation>
     </message>
 </context>
 <context>

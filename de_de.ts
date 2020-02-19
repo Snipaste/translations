@@ -3036,6 +3036,14 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
         <source>Hide all image windows when File Dialog is shown</source>
         <translation>Blenden Sie alle Bildfenster aus, wenn der Dateidialog angezeigt wird</translation>
     </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Ignorierte Liste:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Geben Sie durch Kommas getrennte ausführbare Namen / Pfade ein (z. B. a.exe, games / *)</translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>

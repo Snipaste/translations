@@ -3040,6 +3040,14 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
         <source>Hide all image windows when File Dialog is shown</source>
         <translation>Ocultar todas as janelas de imagem se o diálogo de Arquivo é mostrado</translation>
     </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Lista de ignorados:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Entre o nome de executáveis/caminhos separados por vírgulas (ex.: a.exe, games/*)</translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>

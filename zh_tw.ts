@@ -190,7 +190,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>More examples...</source>
-        <translation type="unfinished"></translation>
+        <translation>更多範例...</translation>
     </message>
 </context>
 <context>
@@ -450,9 +450,6 @@ Restart now to enjoy PRO features?</source>
         <source>Right click</source>
         <translation>右鍵點選</translation>
     </message>
-</context>
-<context>
-    <name>MovieLabel</name>
 </context>
 <context>
     <name>NamingRulesDialog</name>
@@ -897,7 +894,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>擷圖、複製並貼圖</translation>
     </message>
 </context>
 <context>
@@ -944,11 +941,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy without shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>不含陰影複製</translation>
     </message>
     <message>
         <source>Save without shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>不含陰影儲存</translation>
     </message>
 </context>
 <context>
@@ -1213,7 +1210,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Copy raw HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>複製原始 HTML</translation>
     </message>
 </context>
 <context>
@@ -1262,11 +1259,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 需要螢幕錄製權限才能進行擷圖</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果 Snipaste 已經被授予螢幕錄製權限卻依然無法擷圖，請嘗試重啟 Snipaste 或重啟系統。</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1434,15 +1431,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>含陰影擷圖</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>擷圖、複製並貼圖</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>進入透明白板模式（按兩下 Esc 以離開）</translation>
     </message>
 </context>
 <context>
@@ -3027,19 +3024,27 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation type="unfinished"></translation>
+        <translation>放大倍數:</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>檔案對話方塊開啟時隱藏遮罩</translation>
     </message>
     <message>
         <source>Show fullscreen cross lines</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示全螢幕十字線</translation>
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>檔案對話方塊開啟時隱藏所有貼圖</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>忽略程式清單：</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>輸入以英文逗號分隔的程式檔案名稱/路徑（如 a.exe, games/*）</translation>
     </message>
 </context>
 <context>
@@ -3177,7 +3182,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <name>unlockprodialog</name>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>或</translation>
     </message>
 </context>
 <context>
