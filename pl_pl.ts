@@ -5,18 +5,18 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation type="Naciśnij %1 aby skopiować kolor"></translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation type="Naciśnij %1 aby przełączyć się między RGB/HEX"></translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Edytuj ustawienia wstępne..."></translation>
     </message>
     <message>
         <source>s</source>
@@ -39,11 +39,11 @@
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skrót pliku nie pasuje"></translation>
     </message>
     <message>
         <source>Please retry.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Proszę spróbować ponownie"></translation>
     </message>
     <message>
         <source>Writing downloaded file into</source>
@@ -51,11 +51,11 @@
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation type="unfinished"></translation>
+        <translation type="Czy masz dostęp do zapisu dla %1?"></translation>
     </message>
     <message>
         <source>Saved successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zapisano pomyślnie."></translation>
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>Unzipped successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Rozpakowano pomyślnie."></translation>
     </message>
     <message>
         <source>Unable to download updates.</source>
@@ -95,11 +95,11 @@ Proszę skontaktować się z deweloperem.</translation>
     </message>
     <message>
         <source>Restarting</source>
-        <translation type="unfinished"></translation>
+        <translation type="Restartowanie"></translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nowa wersja Snipaste została pobrana do:"></translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -107,18 +107,18 @@ Proszę skontaktować się z deweloperem.</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation type="Pokaż w Finder"></translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation type="Instaluj teraz"></translation>
     </message>
 </context>
 <context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Czy na pewno chcesz zamknąć wybrane grupy? Nie można cofnąć tej akcji."></translation>
     </message>
 </context>
 <context>
@@ -137,7 +137,7 @@ Proszę skontaktować się z deweloperem.</translation>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skróty klawiszowe"></translation>
     </message>
     <message>
         <source>Command Line Options</source>
@@ -161,38 +161,38 @@ Proszę skontaktować się z deweloperem.</translation>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation type="Beta dla Mac"></translation>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation type="Funkcje PRO"></translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation type="Usuń polecenie"></translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation type="Czy na pewno chcesz usunąć to polecenie?"></translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nazwa nie może być pusta!"></translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation type="Polecenie nie może być puste!"></translation>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wprowadź nazwy/ścieżki pakietów oddzielone przecinkami (np. snipaste.app, games/*)"></translation>
     </message>
     <message>
         <source>More examples...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Więcej przykładów..."></translation>
     </message>
 </context>
 <context>
@@ -283,7 +283,7 @@ Proszę skontaktować się z deweloperem.</translation>
     </message>
     <message>
         <source>Replace the image with the content in the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zastąp obraz zawartością w schowku"></translation>
     </message>
     <message>
         <source>Open the Preferences Dialog</source>
@@ -359,15 +359,15 @@ Proszę skontaktować się z deweloperem.</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
-        <translation type="unfinished"></translation>
+        <translation type="Scroll myszy lub 1/2"></translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zmniejsz/zwiększ szerokość pisaka w trybie edycji"></translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation type="lub"></translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
@@ -383,7 +383,7 @@ Proszę skontaktować się z deweloperem.</translation>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przełącz konwersję skali szarości [PRO]"></translation>
     </message>
 </context>
 <context>
@@ -391,7 +391,7 @@ Proszę skontaktować się z deweloperem.</translation>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dziękuję za wsparcie! Uruchomić ponownie teraz, aby cieszyć się funkcjami PRO?"></translation>
     </message>
     <message>
         <source>OK</source>
@@ -399,11 +399,11 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation type="Później"></translation>
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Usunąć klucz licencyjny? Snipaste zostanie niezarejestrowany."></translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -418,15 +418,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Produkt nie został zakupiony z powodu błędu sieci."></translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Produkt nie został zakupiony z powodu błędu serwera."></translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Produkt nie został zakupiony z powodu nieznanego błędu."></translation>
     </message>
 </context>
 <context>
@@ -456,7 +456,7 @@ Restart now to enjoy PRO features?</source>
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zasady nazewnictwa"></translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -591,7 +591,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>For XP</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dla XP"></translation>
     </message>
     <message>
         <source>Preview</source>
@@ -683,19 +683,19 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wył."></translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation type="Debug"></translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="Normalne"></translation>
     </message>
     <message>
         <source>Trace</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ślad"></translation>
     </message>
     <message>
         <source>Something went wrong with the startup shortcut.
@@ -737,76 +737,76 @@ Uruchamianie przy stacie systemu zostało anulowane.</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation type="Rosyjski"></translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation type="Arabski"></translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation type="Turecki"></translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przejdź do innego pliku konfiguracyjnego"></translation>
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation type="Serbski"></translation>
     </message>
     <message>
         <source>Mouse drag</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przeciągnij myszą"></translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przezroczysty"></translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation type="Pseudo przezroczysty"></translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ciemny checkerboard"></translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="Jasny checkerboard"></translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wytnij i przypnij"></translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wytnij i kopiuj"></translation>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kółko przewijania"></translation>
     </message>
     <message>
         <source>Invalid data!</source>
-        <translation type="unfinished"></translation>
+        <translation type="Niepoprawna dana"></translation>
     </message>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dane palety zostały skopiowane do schowka. Udostępnij to znajomym!"></translation>
     </message>
     <message>
         <source>Snipping</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wycinanie"></translation>
     </message>
     <message>
         <source>Existing image windows</source>
-        <translation type="unfinished"></translation>
+        <translation type="Istniejące okna obrazów"></translation>
     </message>
     <message>
         <source>Same as %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="Tak samo jak %1"></translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
@@ -814,31 +814,31 @@ Share it to your friends!</source>
 Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+        <translation type="Uwaga: przejdziesz do innego pliku konfiguracyjnego. Ustawienia w nim zostaną zastosowane, a wszystkie bieżące ustawienia zostaną zastąpione. Poza tym po tej operacji nie należy usuwać domyślnego pliku konfiguracyjnego, ponieważ zapisuje on, gdzie znaleźć nowy plik konfiguracyjny. Czy na pewno chcesz przejść do innego pliku konfiguracyjnego?"></translation>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
-        <translation type="unfinished"></translation>
+        <translation type="Hiszpański (Meksyk)"></translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kolor niestandardowy"></translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Wybierz kolor</translation>
+        <translation type="Wybierz kolor">Wybierz kolor</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+        <translation type="Importowanie powiodło się!"></translation>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"></translation>
+        <translation type="Usuń licencję"></translation>
     </message>
     <message>
         <source>Purchase PRO</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zakup PRO"></translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -874,23 +874,23 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation type="unfinished"></translation>
+        <translation type="Normalne wycinanie"></translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation type="Koreański"></translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation type="Czeski"></translation>
     </message>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation type="UI"></translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wytnij, kopiuj i przypnij"></translation>
     </message>
 </context>
 <context>
@@ -901,19 +901,19 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Aby zmienić szerokość pióra, przewiń kółko myszy lub naciśnij &apos;1&apos; lub &apos;2&apos;."></translation>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Możesz przeciągnąć róg pola tekstowego, aby zmienić rozmiar tekstu."></translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kliknij tę ikonę, aby przełączyć między rozmyciem mozaiki a rozmyciem gaussowskim."></translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przeciągnij, aby narysować pojedynczą linię, lub kliknij, aby narysować paski linii."></translation>
     </message>
     <message>
         <source>Bold</source>
@@ -929,19 +929,19 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kopiuj z cieniem"></translation>
     </message>
     <message>
         <source>Save with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zapisz z cieniem"></translation>
     </message>
     <message>
         <source>Copy without shadow</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kopiuj bez cienia"></translation>
     </message>
     <message>
         <source>Save without shadow</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zapisz bez cienia"></translation>
     </message>
 </context>
 <context>
@@ -988,7 +988,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przywróc"></translation>
     </message>
     <message>
         <source>Copy plain text</source>
@@ -1000,7 +1000,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation type="Edytuj kolor"></translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1020,7 +1020,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation type="Pozostań na górze"></translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1036,19 +1036,19 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Background mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="Tryb tła"></translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przezroczysty"></translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ciemny checkerboard"></translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="Jasny checkerboard"></translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1104,108 +1104,108 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation type="Komentuj"></translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="&apos;Podwójne kliknięcie X&apos; akcja anulowana. Dla kliknięcia myszką, możesz znaleźć jego skrót w &apos;Preferencje - Hotkey&apos;."></translation>
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ukryj na razie inne obrazy"></translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przyciąć"></translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation type="Pseudo przezroczysty"></translation>
     </message>
     <message>
         <source>Copy annotation text</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skopiuj tekst adnotacji"></translation>
     </message>
     <message>
         <source>Select all images</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wybierz wszystkie obrazy"></translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skala szarości"></translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation type="Niestandardowy kolor"></translation>
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Niestandardowe..."></translation>
     </message>
     <message>
         <source>Copy image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kopiuj obraz z cieniem"></translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skopiuj nieskalowany obraz"></translation>
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skopiuj nieskalowany obraz z cieniem"></translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zapisz obraz z cieniem jako..."></translation>
     </message>
     <message>
         <source>Image processing</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przetwarzanie obrazu"></translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation type="Poprzednia ramka"></translation>
     </message>
     <message>
         <source>Rotate left</source>
-        <translation type="unfinished"></translation>
+        <translation type="Obrót w lewo"></translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation type="Następna ramka"></translation>
     </message>
     <message>
         <source>Rotate right</source>
-        <translation type="unfinished"></translation>
+        <translation type="Obrót w prawo"></translation>
     </message>
     <message>
         <source>Horizontal flip</source>
-        <translation type="unfinished"></translation>
+        <translation type="Odwróć w poziomie"></translation>
     </message>
     <message>
         <source>Vertical flip</source>
-        <translation type="unfinished"></translation>
+        <translation type="Odwróć w pionie"></translation>
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wszystkie pulpity"></translation>
     </message>
     <message>
         <source>This desktop</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ten pulpit"></translation>
     </message>
     <message>
         <source>Assign to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przypisz do pulpitu"></translation>
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="Pulpit %1"></translation>
     </message>
     <message>
         <source>Copy raw HTML</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kopiuj surowy HTML"></translation>
     </message>
 </context>
 <context>
@@ -1216,7 +1216,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nie udało się włączyć uruchamiania podczas rozruchu. Może być konieczne ręczne włączenie go najpierw w Menedżerze zadań."></translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -1242,19 +1242,19 @@ Otwórz Snipaste jako administrator i spróbuj ponownie.</translation>
     </message>
     <message>
         <source>It may take a few seconds...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Może to zająć kilka sekund..."></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation type="Anuluj">Anuluj</translation>
     </message>
     <message>
         <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation type="Otwórz preferencje systemowe"></translation>
     </message>
     <message>
         <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Aby wykonać zrzut ekranu, Snipaste wymaga pozwolenia na nagrywanie ekranu."></translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
@@ -2703,11 +2703,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Add new command</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dodaj nowe polecenie"></translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation type="Mysz"></translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
@@ -2715,11 +2715,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation type="lub"></translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przybliżenie:"></translation>
     </message>
     <message>
         <source>Magnifier</source>
@@ -2807,7 +2807,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Left click:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Lewe kliknięcie"></translation>
     </message>
     <message>
         <source>Presets</source>
@@ -2815,11 +2815,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Middle click:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Środkowe kliknięcie"></translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Prawe kliknięcie"></translation>
     </message>
     <message>
         <source>Hot Corner</source>
@@ -2827,11 +2827,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dostępne"></translation>
     </message>
     <message>
         <source>Corner size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Rozmiar rogu"></translation>
     </message>
     <message>
         <source>Trigger delay:</source>
@@ -2851,19 +2851,19 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Góra lewo"></translation>
     </message>
     <message>
         <source>Top right:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Góra prawo"></translation>
     </message>
     <message>
         <source>Bottom left:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dół lewo"></translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dół prawo"></translation>
     </message>
     <message>
         <source>Keep responsive</source>
@@ -2871,19 +2871,19 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Pokaż automatycznie dla:"></translation>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation type="unfinished"></translation>
+        <translation type="Normalne wycięcie"></translation>
     </message>
     <message>
         <source>Super snip</source>
-        <translation type="unfinished"></translation>
+        <translation type="Super wycięcie"></translation>
     </message>
     <message>
         <source>Color value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wartość koloru:"></translation>
     </message>
     <message>
         <source>No &apos;#&apos;</source>
@@ -2895,7 +2895,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Show:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Pokaż:"></translation>
     </message>
     <message>
         <source>Grid lines</source>
@@ -2915,7 +2915,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"></translation>
+        <translation type="Oceń"></translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
@@ -2951,11 +2951,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation type="Akcje"></translation>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Podwójne kliknięcie"></translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
@@ -2985,15 +2985,15 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ręczny zapis"></translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nazwa pliku:"></translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="Otwórz folder"></translation>
     </message>
     <message>
         <source>Change Folder</source>
@@ -3001,11 +3001,11 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nazywanie zasad"></translation>
     </message>
     <message>
         <source>Also copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skopiuj też obraz jako plik"></translation>
     </message>
     <message>
         <source>* Press Backspace to remove the hotkey</source>
@@ -3013,7 +3013,7 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przypnij na wszystkich wirtualnych pulpitach"></translation>
     </message>
     <message>
         <source>Magnification level:</source>
@@ -3033,7 +3033,7 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Lista ignorowanych:"></translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
@@ -3138,44 +3138,44 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
     <name>sizeinputdialog</name>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="Preset"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="OK">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation type="Anuluj">Anuluj</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zmień rozmiar"></translation>
     </message>
 </context>
 <context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="OK">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation type="Anuluj">Anuluj</translation>
     </message>
 </context>
 <context>
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wskazówki:"></translation>
     </message>
 </context>
 <context>
     <name>unlockprodialog</name>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation type="LUB"></translation>
     </message>
 </context>
 <context>
@@ -3205,23 +3205,23 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
     <name>zoominputdialog</name>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przybliżenie:"></translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Rozmiar:"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="OK">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation type="Anuluj">Anuluj</translation>
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="Obraz przybliżenia"></translation>
     </message>
 </context>
 </TS>
