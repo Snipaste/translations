@@ -53,7 +53,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Swedish               | sv    | 📖 v1.14    | [Åke Engelbrektson](https://svenskasprakfiler.se) |
 | Japanese              | ja_jp | 📖 v2.2     | 鳳凰院カミ, [Sayori Studio](https://t.me/SayoriStudio) |
 | Portuguese (Brazil)   | pt_br | 📕 v2.3     | Igor Rückert |
-| Polish                | pl_pl | 📖 v1.11.3  | [Wirus deleted my username](https://github.com/Wirus-deleted-my-username) |
+| Polish                | pl_pl | 📖 v1.11.3  | [Wirus deleted my username](https://github.com/Wirus-deleted-my-username), [mbiesiad](https://github.com/mbiesiad) |
 | Dutch                 | nl_nl | 📕 v2.3     | Stephan Paternotte |
 | Portuguese (Portugal) | pt_pt | 📕 v2.3     | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
 | Vietnamese            | vi_vn | 📖 v1.11.3  | [evildeepblue](mailto:it4u.mm@gmail.com) |
