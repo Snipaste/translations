@@ -1102,7 +1102,7 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation>Verzachten</translation>
+        <translation>Vloeiend schalen</translation>
     </message>
     <message>
         <source>Play</source>
@@ -2338,7 +2338,7 @@ Meld deze a.u.b. wanneer u ze vindt.</translation>
     </message>
     <message>
         <source>Smooth scaling</source>
-        <translation>Gelijkmatig verschalen</translation>
+        <translation>Vloeiend schalen</translation>
     </message>
     <message>
         <source>Flash the image windows after you have switched to another image group.</source>
@@ -2533,7 +2533,7 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
     <message>
         <source>Let new images use smooth scaling when zooming.
 You can also find this option in the context menu of individual image window.</source>
-        <translation>Nieuw afbeeldingen gelijkmatig zoomen.
+        <translation>Nieuw afbeeldingen vloeiend schalen.
 Deze optie is ook beschikbaar in het context-menu.</translation>
     </message>
     <message>
