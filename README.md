@@ -62,7 +62,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Arabic                | ar_jo | 📖 v2.2.2   | [MFM Dawdeh](mailto:lalalogitech@hotmail.com) |
 | Turkish               | tr_tr | 📖 v2.2.2   | [mthryilmaz](https://github.com/mthryilmaz) |
 | Serbian               | sr    | 📖 v2.2     | [ozzii.translate](mailto:ozzii.translate@gmail.com) |
-| Spanish (Mexico)      | es_mx | 📖 v2.0.1   | [enriquedfa](https://github.com/enriquedfa) |
+| Spanish (Mexico)      | es_mx | 📕 v2.3     | [enriquedfa](https://github.com/enriquedfa) |
 | Korean                | ko    | 📖 v2.2     | [박경태](https://github.com/parkkyeongtae) |
 | Czech                 | cs_cz | 📖 v1.11.3  | Štěpán Hašler |
 
