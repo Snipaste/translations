@@ -383,6 +383,10 @@ Please contact the developer.</source>
         <source>Toggle grayscale conversion [PRO]</source>
         <translation>토글 : 그레이 스케일로 변환 [프로버젼]</translation>
     </message>
+    <message>
+        <source>Close the image window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -809,7 +813,7 @@ Share it to your friends!</source>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
 
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
         <translation>참고 : 다른 구성 파일로 전환하려고합니다. 설정이 적용되고 현재 설정이 모두 무시됩니다.
@@ -1210,6 +1214,22 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Copy raw HTML</source>
         <translation>원시 HTML 복사</translation>
+    </message>
+    <message>
+        <source>Save unscaled image as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save unscaled image with shadow as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invert color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color inverted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3027,6 +3047,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
         <translation>파일 대화 상자가 표시될때 모든 이미지 창 숨기기</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation type="unfinished">무시된 목록 : </translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished">실행 파일 이름 / 경로를 쉼표로 구분하여 입력하십시오 (e.g. a.exe, games/*)</translation>
     </message>
 </context>
 <context>

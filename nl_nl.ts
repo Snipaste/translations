@@ -385,6 +385,10 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <source>Toggle grayscale conversion [PRO]</source>
         <translation>Grijstintenconversie [PRO]</translation>
     </message>
+    <message>
+        <source>Close the image window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -813,7 +817,7 @@ Deel het met vrienden!</translation>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
 
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
         <translation>Let op: Bij het schakelen naar een andere configuratie gaan de huidige instellingen verloren.
@@ -1213,6 +1217,22 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
     <message>
         <source>Copy raw HTML</source>
         <translation>HTML kopiëren</translation>
+    </message>
+    <message>
+        <source>Save unscaled image as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save unscaled image with shadow as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invert color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color inverted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

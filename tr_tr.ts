@@ -385,6 +385,10 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation>Düzenleme modunda kalem genişliğini azalt/arttır</translation>
     </message>
+    <message>
+        <source>Close the image window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -717,7 +721,7 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
 
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
         <translation>Not: Başka bir yapılandırma dosyasına geçeceksiniz. İçindeki ayarlar uygulanır ve tüm geçerli ayarlarınız değiştirilir.
@@ -1212,6 +1216,22 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Copy raw HTML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save unscaled image as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save unscaled image with shadow as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invert color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color inverted</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

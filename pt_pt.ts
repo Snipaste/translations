@@ -385,6 +385,10 @@ Por favor contacte o autor.</translation>
         <source>Toggle grayscale conversion [PRO]</source>
         <translation>Alternar conversão escala cinza [PRO]</translation>
     </message>
+    <message>
+        <source>Close the image window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -813,7 +817,7 @@ Partilhe-os com os seus amigos!</translation>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
 
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
         <translation>Nota: vai mudar para outro ficheiro de configuração.As definições nele contidas serão aplicadas e as definições actuais serão destruídas.
@@ -1213,6 +1217,22 @@ Para o modo clique do rato, pode encontrar a sua tecla de atalho em &apos;Prefer
     <message>
         <source>Copy raw HTML</source>
         <translation>Copiar HTML não processado (raw)</translation>
+    </message>
+    <message>
+        <source>Save unscaled image as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save unscaled image with shadow as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invert color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color inverted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

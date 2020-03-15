@@ -383,6 +383,10 @@ Please contact the developer.</source>
         <source>Toggle grayscale conversion [PRO]</source>
         <translation>切換灰階顯示 [專業版]</translation>
     </message>
+    <message>
+        <source>Close the image window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -811,12 +815,12 @@ Share it to your friends!</source>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
 
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
         <translation>注意：你將切換至另一個設定檔，檔案中的所有設定項將被套用，你目前的設定將被覆寫。
 
-此外，即使選擇了另一個設定檔，你也不能移除預設的設定檔，因為它記錄著你新的設定檔之位置。
+此外，即使選擇了另一個設定檔，你也不能刪除預設的設定檔，因為它記錄著你新的設定檔之位置。
 
 確定要切換至另一個設定檔嗎？</translation>
     </message>
@@ -1211,6 +1215,22 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Copy raw HTML</source>
         <translation>複製原始 HTML</translation>
+    </message>
+    <message>
+        <source>Save unscaled image as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save unscaled image with shadow as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invert color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color inverted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

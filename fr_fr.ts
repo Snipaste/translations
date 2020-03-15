@@ -385,6 +385,10 @@ Veuillez contacter le développeur.</translation>
         <source>Toggle grayscale conversion [PRO]</source>
         <translation>Basculer la conversion en niveaux de gris [PRO]</translation>
     </message>
+    <message>
+        <source>Close the image window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -813,7 +817,7 @@ Partagez-le avec vos amis!</translation>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
 
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
         <translation>Remarque: vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés.
@@ -1213,6 +1217,22 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
     <message>
         <source>Copy raw HTML</source>
         <translation>Copier le HTML brut</translation>
+    </message>
+    <message>
+        <source>Save unscaled image as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save unscaled image with shadow as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invert color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color inverted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
