@@ -383,6 +383,10 @@ Please contact the developer.</source>
         <source>Toggle grayscale conversion [PRO]</source>
         <translation>切换灰度显示 [专业版]</translation>
     </message>
+    <message>
+        <source>Close the image window</source>
+        <translation>关闭贴图窗口</translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -772,7 +776,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation>亮色棋盘</translation>
+        <translation>浅色棋盘</translation>
     </message>
     <message>
         <source>Snip and pin</source>
@@ -811,12 +815,12 @@ Share it to your friends!</source>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
 
-Besides, you should not remove the default configuration file after this operation, because it records where to find your new configuration file.
+Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
         <translation>注意：你将切换到另一配置文件，文件中的所有设置项将被应用，你的当前设置将被覆盖。
 
-此外，即使选择了另一配置文件，你也不能移除默认的配置文件，因为它记录着你的新配置文件的位置。
+此外，即使选择了另一配置文件，你也不能删除默认的配置文件，因为它记录着你的新配置文件的位置。
 
 确定要切换到另一配置文件吗？</translation>
     </message>
@@ -1012,7 +1016,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation>亮色棋盘</translation>
+        <translation>浅色棋盘</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1211,6 +1215,22 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Copy raw HTML</source>
         <translation>复制原始 HTML</translation>
+    </message>
+    <message>
+        <source>Save unscaled image as...</source>
+        <translation>原始大小图像另存为...</translation>
+    </message>
+    <message>
+        <source>Save unscaled image with shadow as...</source>
+        <translation>原始大小图像（带阴影）另存为...</translation>
+    </message>
+    <message>
+        <source>Invert color</source>
+        <translation>反色</translation>
+    </message>
+    <message>
+        <source>Color inverted</source>
+        <translation>反色显示</translation>
     </message>
 </context>
 <context>
