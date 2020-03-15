@@ -387,7 +387,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeeldingsvenster sluiten</translation>
     </message>
 </context>
 <context>
@@ -1160,11 +1160,11 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
     </message>
     <message>
         <source>Copy unscaled image</source>
-        <translation>Afbeelding onverschaald kopiëren</translation>
+        <translation>Afbeelding ongeschaald kopiëren</translation>
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation>Afbeelding met schaduw onverschaald kopiëren</translation>
+        <translation>Afbeelding met schaduw ongeschaald kopiëren</translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
@@ -1220,19 +1220,19 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeschaalde afbeelding opslan als…</translation>
     </message>
     <message>
         <source>Save unscaled image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeschaalde afbeelding met schaduw opslaan als …</translation>
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur omkeren</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur omgekeerd</translation>
     </message>
 </context>
 <context>
