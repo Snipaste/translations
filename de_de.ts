@@ -385,7 +385,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließe das Bildfenster</translation>
     </message>
 </context>
 <context>
@@ -1218,19 +1218,19 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Unskaliertes Bild speichern unter...</translation>
     </message>
     <message>
         <source>Save unscaled image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern Sie das unskalierte Bild mit Schatten als...</translation>
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe umkehren</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe umgekehrt</translation>
     </message>
 </context>
 <context>
