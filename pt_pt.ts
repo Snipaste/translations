@@ -387,7 +387,7 @@ Por favor contacte o autor.</translation>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha a janela de imagem</translation>
     </message>
 </context>
 <context>
@@ -1220,19 +1220,19 @@ Para o modo clique do rato, pode encontrar a sua tecla de atalho em &apos;Prefer
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar imagem sem escala como...</translation>
     </message>
     <message>
         <source>Save unscaled image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar imagem sem escala com sombra como...</translation>
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter cor</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor invertida</translation>
     </message>
 </context>
 <context>

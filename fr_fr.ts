@@ -387,7 +387,7 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fermer la fenêtre d&apos;image</translation>
     </message>
 </context>
 <context>
@@ -1220,19 +1220,19 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer l&apos;image non mise à l&apos;échelle sous…</translation>
     </message>
     <message>
         <source>Save unscaled image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer l&apos;image non mise à l&apos;échelle avec l&apos;ombre sous ...</translation>
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverser la couleur</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur inversée</translation>
     </message>
 </context>
 <context>
