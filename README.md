@@ -52,7 +52,7 @@ For example, for Simplified Chinese, the related files are `qt_zh_cn.ts` and `zh
 | Greek                 | el_gr | 📖 v2.2.2   | [geogeo.gr](http://www.geogeo.gr) |
 | Swedish               | sv    | 📖 v1.14    | [Åke Engelbrektson](https://svenskasprakfiler.se) |
 | Japanese              | ja_jp | 📖 v2.2     | 鳳凰院カミ, [Sayori Studio](https://t.me/SayoriStudio) |
-| Portuguese (Brazil)   | pt_br | 📖 v2.3     | Igor Rückert |
+| Portuguese (Brazil)   | pt_br | 📕 v2.3.2   | Igor Rückert |
 | Polish                | pl_pl | 📖 v2.3     | [Wirus deleted my username](https://github.com/Wirus-deleted-my-username), [mbiesiad](https://github.com/mbiesiad) |
 | Dutch                 | nl_nl | 📕 v2.3.2   | Stephan Paternotte |
 | Portuguese (Portugal) | pt_pt | 📕 v2.3.2   | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
