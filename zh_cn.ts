@@ -968,7 +968,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy plain text</source>
-        <translation>复制纯文本</translation>
+        <translation>复制 纯文本</translation>
     </message>
     <message>
         <source>Copy HTML</source>
@@ -1226,7 +1226,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Invert color</source>
-        <translation>反色</translation>
+        <translation>反色显示</translation>
     </message>
     <message>
         <source>Color inverted</source>

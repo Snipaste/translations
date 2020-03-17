@@ -385,7 +385,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>關閉貼圖視窗</translation>
     </message>
 </context>
 <context>
@@ -968,7 +968,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy plain text</source>
-        <translation>複製純文字</translation>
+        <translation>複製 純文字</translation>
     </message>
     <message>
         <source>Copy HTML</source>
@@ -1218,19 +1218,19 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation type="unfinished"></translation>
+        <translation>原始大小圖像另存為...</translation>
     </message>
     <message>
         <source>Save unscaled image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>原始大小圖像（含陰影）另存為...</translation>
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>色彩對換</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>色彩對換</translation>
     </message>
 </context>
 <context>
