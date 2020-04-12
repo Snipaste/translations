@@ -1280,7 +1280,7 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
         <translation>Systeeminstellingen openen</translation>
     </message>
     <message>
-        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
         <translation>Om een schermopnames te maken, heeft Snipaste uw toestemming nodig.</translation>
     </message>
     <message>

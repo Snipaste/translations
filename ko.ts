@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ko">
 <context>
@@ -1276,7 +1276,7 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>시스템 환경 설정 열기</translation>
     </message>
     <message>
-        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
         <translation>스크린 샷을 찍으려면 Snipaste에 화면 녹화 권한이 필요합니다.</translation>
     </message>
     <message>

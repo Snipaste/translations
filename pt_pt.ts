@@ -1280,7 +1280,7 @@ Deve reiniciar o Snipaste como administrador e tentar de novo.</translation>
         <translation>Abrir Preferências do Sistema</translation>
     </message>
     <message>
-        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
         <translation>Para poder fazer uma captura o Snipaste necessita de autorização do Gravador de Ecrã.</translation>
     </message>
     <message>

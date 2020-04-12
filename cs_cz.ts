@@ -1271,7 +1271,7 @@ Spusťte Snipaste s právy správce a zkuste znovu provést nastavení.</transla
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

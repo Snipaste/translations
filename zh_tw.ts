@@ -1278,8 +1278,8 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>開啟系統設定</translation>
     </message>
     <message>
-        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation>Snipaste 需要螢幕錄製權限才能進行擷圖</translation>
+        <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation>Snipaste 需要螢幕錄製權限才能進行擷圖。</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>

@@ -1273,7 +1273,7 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Abrir preferencias del sistema</translation>
     </message>
     <message>
-        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
         <translation>Para poder tomar una captura de pantalla, Snipaste requiere el permiso de grabación de pantalla.</translation>
     </message>
     <message>

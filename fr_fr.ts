@@ -1280,7 +1280,7 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
         <translation>Ouvrir préférences système</translation>
     </message>
     <message>
-        <source>In order to take an screenshot, Snipaste requires the Screen Recording permission.</source>
+        <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
         <translation>Pour prendre une capture d&apos;écran, Snipaste nécessite l&apos;autorisation d&apos;enregistrement d&apos;écran.</translation>
     </message>
     <message>
