@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ja_JP" sourcelanguage="en_US">
 <context>
@@ -797,7 +797,7 @@ Startup on boot has been cancelled.</source>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
         <translation>パレットデータがクリップボードにコピーしました。
-あなたの友人を共有してください！</translation>
+友人と共有してください！</translation>
     </message>
     <message>
         <source>Snipping</source>
@@ -817,11 +817,11 @@ Share it to your friends!</source>
 Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>注：別のファイルへの切り替えを行っています。それの中での設定を適用し、すべての現在の設置はカバーをカバーします。
+        <translation>注：別のファイルへの切り替えを行っています。それの中での設定を適用し、現在の設定をすべてカバーします。
 
-		また、この操作をした後、デフォルトの配置ファイルを削除すべきではなく、どこで新しい配置ファイルを見つけることを記録しているから。
+        また、この操作をした後、デフォルトの配置ファイルを削除すべきではなく、どこで新しい配置ファイルを見つけることを記録しているから。
 
-		別の配置ファイルを切り替えることを確定しますか？</translation>
+        別の配置ファイルへ切り替えることを確定しますか？</translation>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
@@ -1277,11 +1277,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">スクリーンショットを撮るために、Snipasteは「画面収録」の許可が必要です。</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">「画面収録」でSnipasteがすでにチェックされていても機能しない場合、SnipasteまたはMacを再起動してください。</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1706,7 +1706,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Hardware identity</source>
-        <translation>ハードウェア ID</translation>
+        <translation>ハードウェア ID</translation>
     </message>
     <message>
         <source>Validity period</source>
@@ -2681,7 +2681,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation>設定記憶</translation>
+        <translation>設定ファイル</translation>
     </message>
     <message>
         <source>Path:</source>
@@ -2911,11 +2911,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>No &apos;#&apos;</source>
-        <translation>いいえ &apos;#&apos;</translation>
+        <translation>&apos;#&apos;を非表示</translation>
     </message>
     <message>
         <source>Uppercase Hex</source>
-        <translation>大文字の16進数</translation>
+        <translation>大文字の16進数(Hex)</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -3049,7 +3049,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Show fullscreen cross lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全画面で十字型の基準線を表示する</translation>
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
