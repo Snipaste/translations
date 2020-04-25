@@ -5,7 +5,7 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation>按 %1 复制颜色值喵</translation>
+        <translation>按 %1 复制颜色值</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
