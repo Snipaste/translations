@@ -389,11 +389,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>切换反色显示 [专业版]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>选中所有可见的贴图 [专业版]</translation>
     </message>
 </context>
 <context>
@@ -965,7 +965,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>宽度:</translation>
     </message>
 </context>
 <context>
