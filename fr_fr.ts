@@ -389,6 +389,14 @@ Veuillez contacter le développeur.</translation>
         <source>Close the image window</source>
         <translation>Fermer la fenêtre d&apos;image</translation>
     </message>
+    <message>
+        <source>Toggle color inversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -953,6 +961,14 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
         <source>Save without shadow</source>
         <translation>Enregistrer sans ombre</translation>
     </message>
+    <message>
+        <source>Radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1294,6 +1310,10 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>Si vous souhaitez cette fonctionnalité, veuillez autoriser l&apos;accès à cette application dans préférences de sécurité et de confidentialité, situées dans Préférences système.</translation>
+    </message>
+    <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3161,6 +3181,10 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     <message>
         <source>Fill with stroke</source>
         <translation>Remplir d&apos;un coup</translation>
+    </message>
+    <message>
+        <source>Font scale</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -387,6 +387,14 @@ Please contact the developer.</source>
         <source>Close the image window</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Toggle color inversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -945,6 +953,14 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
         <source>Save without shadow</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1284,6 +1300,10 @@ Spusťte Snipaste s právy správce a zkuste znovu provést nastavení.</transla
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3147,6 +3167,10 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Přepnout mozaiku/rozostření</translation>
+    </message>
+    <message>
+        <source>Font scale</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -389,6 +389,14 @@ Por favor contacte o autor.</translation>
         <source>Close the image window</source>
         <translation>Fecha a janela de imagem</translation>
     </message>
+    <message>
+        <source>Toggle color inversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -953,6 +961,14 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
         <source>Save without shadow</source>
         <translation>Guardar sem sombra</translation>
     </message>
+    <message>
+        <source>Radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1294,6 +1310,10 @@ Deve reiniciar o Snipaste como administrador e tentar de novo.</translation>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>Se pretende esta função permita o acesso a este programa nas Preferências de Segurança&amp; Privacidade localizadas nas Preferências do Sistema.</translation>
+    </message>
+    <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3161,6 +3181,10 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
     <message>
         <source>Fill with stroke</source>
         <translation>Preencher com traços</translation>
+    </message>
+    <message>
+        <source>Font scale</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

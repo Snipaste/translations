@@ -387,6 +387,14 @@ Please contact the developer.</source>
         <source>Close the image window</source>
         <translation>关闭贴图窗口</translation>
     </message>
+    <message>
+        <source>Toggle color inversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -951,6 +959,14 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Save without shadow</source>
         <translation>不带阴影保存</translation>
     </message>
+    <message>
+        <source>Radius:</source>
+        <translation>半径:</translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1292,6 +1308,10 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>如需启用该特性，请先到 系统偏好设置-安全性与隐私-隐私-辅助功能 添加 Snipaste.</translation>
+    </message>
+    <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation>您需要先启用 UAC（用户账户控制）才能完成购买。</translation>
     </message>
 </context>
 <context>
@@ -3159,6 +3179,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Fill with stroke</source>
         <translation>带边框填充</translation>
+    </message>
+    <message>
+        <source>Font scale</source>
+        <translation>字体缩放</translation>
     </message>
 </context>
 <context>

@@ -387,6 +387,14 @@ Please contact the developer.</source>
         <source>Close the image window</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Toggle color inversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -944,6 +952,14 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Save without shadow</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1282,6 +1298,10 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3135,6 +3155,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Fill with stroke</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font scale</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

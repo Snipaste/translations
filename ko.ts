@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ko">
 <context>
@@ -385,6 +385,14 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Close the image window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle color inversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all visible image windows [PRO]</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -949,6 +957,14 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Save without shadow</source>
         <translation>(그림자 제외) 저장</translation>
     </message>
+    <message>
+        <source>Radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1290,6 +1306,10 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>이 기능을 원하면 시스템 환경 설정의 보안 및 개인 정보 환경 설정에서이 응용 프로그램에 대한 액세스 권한을 부여하십시오.</translation>
+    </message>
+    <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3149,6 +3169,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Fill with stroke</source>
         <translation>스트로크 채우기</translation>
+    </message>
+    <message>
+        <source>Font scale</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

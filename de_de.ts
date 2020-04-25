@@ -387,6 +387,14 @@ Please contact the developer.</source>
         <source>Close the image window</source>
         <translation>Schließe das Bildfenster</translation>
     </message>
+    <message>
+        <source>Toggle color inversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -951,6 +959,14 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
         <source>Save without shadow</source>
         <translation>Speichere ohne Schatten</translation>
     </message>
+    <message>
+        <source>Radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1292,6 +1308,10 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>Wenn Sie diese Funktion wünschen, gewähren Sie bitte Zugriff auf diese Anwendung in den Einstellungen für Sicherheit und Datenschutz in den Systemeinstellungen.</translation>
+    </message>
+    <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3157,6 +3177,10 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
     <message>
         <source>Fill with stroke</source>
         <translation>Mit Strich füllen</translation>
+    </message>
+    <message>
+        <source>Font scale</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

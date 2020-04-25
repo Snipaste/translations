@@ -389,6 +389,14 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <source>Close the image window</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Toggle color inversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -953,6 +961,14 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <source>Save without shadow</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1294,6 +1310,10 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>Bu özelliği isterseniz, lütfen bu uygulamaya Sistem Ayarları&apos;nda bulunan Güvenlik ve Gizlilik tercihlerinde erişim izni verin.</translation>
+    </message>
+    <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3161,6 +3181,10 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Mozaik/Bulanık seçim</translation>
+    </message>
+    <message>
+        <source>Font scale</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

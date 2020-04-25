@@ -389,6 +389,14 @@ Informeer a.u.b. de ontwikkelaar.</translation>
         <source>Close the image window</source>
         <translation>Afbeeldingsvenster sluiten</translation>
     </message>
+    <message>
+        <source>Toggle color inversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -953,6 +961,14 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
         <source>Save without shadow</source>
         <translation>Opslaan zonder schaduw</translation>
     </message>
+    <message>
+        <source>Radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1294,6 +1310,10 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>Voor deze functie moet dit programma toegang krijgen inSysteeminstellineg - Privacyinstellingen.</translation>
+    </message>
+    <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3161,6 +3181,10 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     <message>
         <source>Fill with stroke</source>
         <translation>Gearceerd vlak</translation>
+    </message>
+    <message>
+        <source>Font scale</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

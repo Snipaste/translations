@@ -387,6 +387,14 @@ Please contact the developer.</source>
         <source>Close the image window</source>
         <translation>Cerrar ventana de imagen</translation>
     </message>
+    <message>
+        <source>Toggle color inversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Licensing</name>
@@ -948,6 +956,14 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
         <source>Save without shadow</source>
         <translation>Guardar sin sombreado</translation>
     </message>
+    <message>
+        <source>Radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1287,6 +1303,10 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
         <translation>Si desea esta función, conceda acceso a esta aplicación en Preferencias de seguridad y privacidad, que se encuentra en Preferencias del Sistema.</translation>
+    </message>
+    <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3154,6 +3174,10 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
     <message>
         <source>Fill with stroke</source>
         <translation>Llenar con trazo</translation>
+    </message>
+    <message>
+        <source>Font scale</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
