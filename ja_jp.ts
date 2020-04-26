@@ -163,7 +163,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation>Meow Features</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
