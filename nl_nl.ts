@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>Edit presets...</source>
-        <translation>Instellingen bewerken…</translation>
+        <translation>Voorinstellingen bewerken…</translation>
     </message>
 </context>
 <context>
@@ -129,19 +129,19 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Visit Online</source>
-        <translation>Online bezoeken</translation>
+        <translation>Online Help</translation>
     </message>
     <message>
         <source>Basic Operations</source>
-        <translation>Standaardfuncties</translation>
+        <translation>Basisfuncties</translation>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation>Toets-koppelingem</translation>
+        <translation>Sneltoetsen</translation>
     </message>
     <message>
         <source>Command Line Options</source>
-        <translation>Opdrachtregel-opties</translation>
+        <translation>Opdrachtregel</translation>
     </message>
     <message>
         <source>Advanced Configs</source>
@@ -203,7 +203,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
-        <translation>Wisselen tussen schermdetectie en elementdetectie</translation>
+        <translation>Wisselen tussen detectie van scherm en element</translation>
     </message>
     <message>
         <source>Set the snipping area to fullscreen</source>
@@ -287,7 +287,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Open the Preferences Dialog</source>
-        <translation>Instellingen-dialoog openen</translation>
+        <translation>Instellingen openen</translation>
     </message>
     <message>
         <source>Common:</source>
@@ -1494,7 +1494,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>SizeInputDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation>Instellingen bewerken…</translation>
+        <translation>Voorinstellingen bewerken…</translation>
     </message>
 </context>
 <context>
