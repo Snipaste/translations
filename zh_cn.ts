@@ -908,6 +908,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Snip, copy and pin</source>
         <translation>截屏、复制并贴图</translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>Snipaste 首选项</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation>专业版</translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation>免费版</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2114,10 +2126,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
 如果不选中，贴图则总是出现在主屏幕中央。</translation>
     </message>
     <message>
-        <source>Snipaste Preferences</source>
-        <translation>Snipaste 首选项</translation>
-    </message>
-    <message>
         <source>Run on system startup</source>
         <translation>开机启动</translation>
     </message>
@@ -2457,10 +2465,6 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Use default tray icon.</source>
         <translation>使用默认的通知栏图标。</translation>
-    </message>
-    <message>
-        <source>Default</source>
-        <translation>默认</translation>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
@@ -3085,6 +3089,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation>输入以英文逗号分隔的程序文件名/路径（如 a.exe, games/*）</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation>自动</translation>
     </message>
 </context>
 <context>
