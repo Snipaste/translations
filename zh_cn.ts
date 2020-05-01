@@ -890,7 +890,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation>普通截图</translation>
+        <translation>普通截屏</translation>
     </message>
     <message>
         <source>Korean</source>
@@ -906,7 +906,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation>截图、复制并贴图</translation>
+        <translation>截屏、复制并贴图</translation>
     </message>
 </context>
 <context>
@@ -1295,11 +1295,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation>Snipaste 需要屏幕录制权限才能进行截图。</translation>
+        <translation>Snipaste 需要屏幕录制权限才能进行截屏。</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation>如果 Snipaste 已经被授予屏幕录制权限却依然无法截图，请尝试重启 Snipaste 或重启系统。</translation>
+        <translation>如果 Snipaste 已经被授予屏幕录制权限却依然无法截屏，请尝试重启 Snipaste 或重启系统。</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1427,7 +1427,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation>自定义截图</translation>
+        <translation>自定义截屏</translation>
     </message>
     <message>
         <source>Snip the active window</source>
@@ -1439,7 +1439,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation>重复上一次截图区域并复制</translation>
+        <translation>重复上一次截屏区域并复制</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
@@ -1471,11 +1471,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation>带阴影截图</translation>
+        <translation>带阴影截屏</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation>截图、复制并贴图</translation>
+        <translation>截屏、复制并贴图</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
@@ -1539,7 +1539,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation>清空截图记录</translation>
+        <translation>清空截屏记录</translation>
     </message>
     <message>
         <source>No update available.</source>
@@ -1883,7 +1883,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation>自定义截图</translation>
+        <translation>自定义截屏</translation>
     </message>
 </context>
 <context>
@@ -2083,7 +2083,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
-        <translation>设置截图的最大历史记录数，截图被保存在 history/snip 目录。</translation>
+        <translation>设置截屏的最大历史记录数，截图被保存在 history/snip 目录。</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
@@ -2207,7 +2207,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Use snipping position</source>
-        <translation>使用截图时的位置</translation>
+        <translation>使用截屏时的位置</translation>
     </message>
     <message>
         <source>Zoom by mouse wheel</source>
@@ -2610,7 +2610,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Max number of history areas:</source>
-        <translation>最大历史截图区域数:</translation>
+        <translation>最大历史截屏区域数:</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -2922,11 +2922,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation>普通截图</translation>
+        <translation>普通截屏</translation>
     </message>
     <message>
         <source>Super snip</source>
-        <translation>超级截图</translation>
+        <translation>超级截屏</translation>
     </message>
     <message>
         <source>Color value:</source>
