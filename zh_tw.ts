@@ -908,6 +908,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Snip, copy and pin</source>
         <translation>擷圖、複製並貼圖</translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>Snipaste 偏好設定</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2050,10 +2062,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>封鎖 Win 鍵：</translation>
     </message>
     <message>
-        <source>Snipaste Preferences</source>
-        <translation>Snipaste 偏好設定</translation>
-    </message>
-    <message>
         <source>Run on system startup</source>
         <translation>開機啟動</translation>
     </message>
@@ -2503,10 +2511,6 @@ Please report to the developer if you find any.</source>
     <message>
         <source>Use default tray icon.</source>
         <translation>使用預設的系統匣圖示。</translation>
-    </message>
-    <message>
-        <source>Default</source>
-        <translation>預設</translation>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
@@ -3085,6 +3089,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation>輸入以英文逗號分隔的程式檔案名稱/路徑（如 a.exe, games/*）</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

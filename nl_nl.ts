@@ -910,6 +910,18 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
         <source>Snip, copy and pin</source>
         <translation>Knippen, kopiëren en vastpinnen</translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>Snipaste instellingen</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2289,10 +2301,6 @@ Meld deze a.u.b. wanneer u ze vindt.</translation>
         <translation>Licenties</translation>
     </message>
     <message>
-        <source>Snipaste Preferences</source>
-        <translation>Snipaste instellingen</translation>
-    </message>
-    <message>
         <source>Run on system startup</source>
         <translation>Opstarten met systeem</translation>
     </message>
@@ -2513,10 +2521,6 @@ Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</t
     <message>
         <source>Use default tray icon.</source>
         <translation>Standaard systeemvakpictogram gebruiken.</translation>
-    </message>
-    <message>
-        <source>Default</source>
-        <translation>Standaard</translation>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
@@ -3087,6 +3091,10 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation>Voer uitvoerbare bestanden/paden in gescheiden door komma&apos;s (bij. a.exe, games/*)</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

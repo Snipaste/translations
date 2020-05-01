@@ -904,6 +904,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Snip, copy and pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>Snipaste-alternativ</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2159,10 +2171,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Färger:</translation>
     </message>
     <message>
-        <source>Default</source>
-        <translation>Standard</translation>
-    </message>
-    <message>
         <source>Always treat text as plain text when converting text to image.</source>
         <translation>Behandla alltid text som oformaterad, vid konvertering till bild.</translation>
     </message>
@@ -2393,10 +2401,6 @@ Intervall: 10 - 100</translation>
     <message>
         <source>Check for updates</source>
         <translation>Sök efter uppdateringar</translation>
-    </message>
-    <message>
-        <source>Snipaste Preferences</source>
-        <translation>Snipaste-alternativ</translation>
     </message>
     <message>
         <source>Restore all settings on this page to their default states.</source>
@@ -3076,6 +3080,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

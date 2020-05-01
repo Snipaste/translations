@@ -902,6 +902,18 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
         <source>Snip, copy and pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>Předvolby Snipaste</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2009,10 +2021,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>optionsdialog</name>
     <message>
-        <source>Snipaste Preferences</source>
-        <translation>Předvolby Snipaste</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Všeobecné</translation>
     </message>
@@ -2083,10 +2091,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Use default tray icon.</source>
         <translation>Použít výchozí ikonu oznamovací olasti.</translation>
-    </message>
-    <message>
-        <source>Default</source>
-        <translation>Výchozí</translation>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
@@ -3072,6 +3076,10 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

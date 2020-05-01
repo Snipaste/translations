@@ -907,6 +907,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Snip, copy and pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>Snipasteの環境設定</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2279,10 +2291,6 @@ If this option is checked, the above features will be disabled.</source>
         <translation>アクティベート</translation>
     </message>
     <message>
-        <source>Default</source>
-        <translation>デフォルト</translation>
-    </message>
-    <message>
         <source>Interface</source>
         <translation>インタフェース</translation>
     </message>
@@ -2388,10 +2396,6 @@ Range: 10 - 100</source>
     <message>
         <source>The text color used for plain text conversion</source>
         <translation>文字を画像に転換する時の色</translation>
-    </message>
-    <message>
-        <source>Snipaste Preferences</source>
-        <translation>Snipasteの環境設定</translation>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
@@ -3082,6 +3086,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation>コンマ区切りの実行ファイル名/パスを入力してください（例：snipaste.app、games / *）</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

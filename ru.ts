@@ -904,6 +904,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Snip, copy and pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>Настройки Snipaste</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2011,10 +2023,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>optionsdialog</name>
     <message>
-        <source>Snipaste Preferences</source>
-        <translation>Настройки Snipaste</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Общие</translation>
     </message>
@@ -2085,10 +2093,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Use default tray icon.</source>
         <translation>Использовать иконку в трее по умолчанию.</translation>
-    </message>
-    <message>
-        <source>Default</source>
-        <translation>По умолчанию</translation>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
@@ -3077,6 +3081,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

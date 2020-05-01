@@ -905,6 +905,18 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
         <source>Snip, copy and pin</source>
         <translation>Cortar, copiar y mantener en pantalla </translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>Preferencias de Snipaste</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2012,10 +2024,6 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
 <context>
     <name>optionsdialog</name>
     <message>
-        <source>Snipaste Preferences</source>
-        <translation>Preferencias de Snipaste</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>General</translation>
     </message>
@@ -2086,10 +2094,6 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     <message>
         <source>Use default tray icon.</source>
         <translation>Usar el ícono de bandeja por defecto.</translation>
-    </message>
-    <message>
-        <source>Default</source>
-        <translation>Predeterminado</translation>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
@@ -3080,6 +3084,10 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation>Introducir ejecutables por nombres/rutas separadas por comas (p.ej. a.exe, games/*)</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

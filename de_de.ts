@@ -908,6 +908,18 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
         <source>Snip, copy and pin</source>
         <translation>Aufnehmen, kopieren und anheften</translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>Snipaste Einstellungen</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2049,10 +2061,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>Win-Taste ignorieren:</translation>
     </message>
     <message>
-        <source>Snipaste Preferences</source>
-        <translation>Snipaste Einstellungen</translation>
-    </message>
-    <message>
         <source>Run on system startup</source>
         <translation>Bei Systemstart starten</translation>
     </message>
@@ -2491,10 +2499,6 @@ Geben Sie -1 an, damit Snipaste für Sie entscheiden kann.</translation>
     <message>
         <source>Use default tray icon.</source>
         <translation>Standard Benachrichtigungssymbol verwenden.</translation>
-    </message>
-    <message>
-        <source>Default</source>
-        <translation>Standard</translation>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
@@ -3083,6 +3087,10 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation>Geben Sie durch Kommas getrennte ausführbare Namen / Pfade ein (z. B. a.exe, games / *)</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

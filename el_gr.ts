@@ -910,6 +910,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Snip, copy and pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>Επιλογές του Snipaste</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2177,10 +2189,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Χρώματα:</translation>
     </message>
     <message>
-        <source>Default</source>
-        <translation>Προεπιλογή</translation>
-    </message>
-    <message>
         <source>Always treat text as plain text when converting text to image.</source>
         <translation>Αντιμετώπιση πάντα του  κειμένου ως απλό κείμενο, κατά τη μετατροπή κειμένου σε εικόνα.</translation>
     </message>
@@ -2418,10 +2426,6 @@ Range: 10 - 100</source>
     <message>
         <source>Check for updates</source>
         <translation>Έλεγχος για ενημερώσεις</translation>
-    </message>
-    <message>
-        <source>Snipaste Preferences</source>
-        <translation>Επιλογές του Snipaste</translation>
     </message>
     <message>
         <source>Output</source>
@@ -3097,6 +3101,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation>Εισάγετε τα ονόματα/διαδρομές εκτελέσιμων αρχείων χωρισμένα με κόμματα (π.χ. a.exe, games/*)</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

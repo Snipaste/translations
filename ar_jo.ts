@@ -904,6 +904,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Snip, copy and pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>تفضيلات اللصق</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2460,10 +2472,6 @@ You can also find this option in the context menu of individual image window.</s
         <translation>تنشيط</translation>
     </message>
     <message>
-        <source>Default</source>
-        <translation>افتراضي</translation>
-    </message>
-    <message>
         <source>Interface</source>
         <translation>الواجهه</translation>
     </message>
@@ -2636,10 +2644,6 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     <message>
         <source>The text color used for plain text conversion</source>
         <translation>لون النص المستخدم لتحويل النص العادي</translation>
-    </message>
-    <message>
-        <source>Snipaste Preferences</source>
-        <translation>تفضيلات اللصق</translation>
     </message>
     <message>
         <source>If the source is a screenshot, show it where you snipped.
@@ -3067,6 +3071,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation>ادخل الاسماء/المسارات القابلة للتنفيذ مفصوله بفواصل (مثل .تنفيذي ، العاب/*)</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

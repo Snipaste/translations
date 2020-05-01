@@ -905,6 +905,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Snip, copy and pin</source>
         <translation>캡춰, 복사&amp;핀꽂기</translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>스니페이스트 설정</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2016,10 +2028,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>optionsdialog</name>
     <message>
-        <source>Snipaste Preferences</source>
-        <translation>스니페이스트 설정</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>일반</translation>
     </message>
@@ -2090,10 +2098,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Use default tray icon.</source>
         <translation>기본 트레이 아이콘 사용</translation>
-    </message>
-    <message>
-        <source>Default</source>
-        <translation>기본</translation>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
@@ -3075,6 +3079,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation type="unfinished">실행 파일 이름 / 경로를 쉼표로 구분하여 입력하십시오 (e.g. a.exe, games/*)</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

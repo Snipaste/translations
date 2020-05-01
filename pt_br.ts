@@ -910,6 +910,18 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
         <source>Snip, copy and pin</source>
         <translation>Recortar, copiar e fixar</translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>Preferências do Snipaste</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2019,10 +2031,6 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
 <context>
     <name>optionsdialog</name>
     <message>
-        <source>Snipaste Preferences</source>
-        <translation>Preferências do Snipaste</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Geral</translation>
     </message>
@@ -2085,10 +2093,6 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <message>
         <source>Use default tray icon.</source>
         <translation>Usa o ícone padrão da Área de Notificação.</translation>
-    </message>
-    <message>
-        <source>Default</source>
-        <translation>Padrão</translation>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
@@ -3087,6 +3091,10 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation>Entre o nome de executáveis/caminhos separados por vírgulas (ex.: a.exe, games/*)</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

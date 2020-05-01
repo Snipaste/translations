@@ -910,6 +910,18 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
         <source>Snip, copy and pin</source>
         <translation>Couper, copier et épingler</translation>
     </message>
+    <message>
+        <source>Snipaste Preferences</source>
+        <translation>Préférences Snipaste</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -2393,10 +2405,6 @@ S&apos;il vous plaît rapportez-moi si vous trouvez.</translation>
         <translation>Activation</translation>
     </message>
     <message>
-        <source>Default</source>
-        <translation>Défaut</translation>
-    </message>
-    <message>
         <source>Interface</source>
         <translation>Interface</translation>
     </message>
@@ -2559,10 +2567,6 @@ Cependant, en attendant, le canal alpha de l&apos;image est perdu.</translation>
     <message>
         <source>The text color used for plain text conversion</source>
         <translation>Couleur de texte utilisée pour la conversion en texte brut</translation>
-    </message>
-    <message>
-        <source>Snipaste Preferences</source>
-        <translation>Préférences Snipaste</translation>
     </message>
     <message>
         <source>Let the &apos;reset&apos; operation work on thumbnail too.</source>
@@ -3087,6 +3091,10 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation>Entrez noms et chemins d&apos;accès des exécutables séparés par des virgules (par ex. a.exe, games/*)</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
