@@ -581,14 +581,6 @@ Restart now to enjoy PRO features?</source>
         <translation> 位</translation>
     </message>
     <message>
-        <source>Snip hotkey</source>
-        <translation>截屏快捷键</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>贴图快捷键</translation>
-    </message>
-    <message>
         <source>Portuguese (Brazil)</source>
         <translation>葡萄牙语（巴西）</translation>
     </message>
@@ -979,6 +971,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Width:</source>
         <translation>宽度:</translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation>序号</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>橡皮擦</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation>文字背景</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1259,6 +1263,12 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Color inverted</source>
         <translation>反色显示</translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
+        <translation>双击贴图窗口会使其关闭。
+你可以在首选项窗口中（控制 - 鼠标）更改此行为。</translation>
     </message>
 </context>
 <context>
@@ -1716,6 +1726,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Clear log file</source>
         <translation>清空日志文件</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>截屏快捷键</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>贴图快捷键</translation>
     </message>
 </context>
 <context>
@@ -3053,10 +3071,6 @@ You will gain better response time on entering snipping.</source>
         <translation>同时复制为文件</translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation>* 按 Backspace 键清除当前快捷键</translation>
-    </message>
-    <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
         <translation>被关闭的贴图窗口可以通过再次按下贴图键来恢复，只要已经被关闭的贴图数没有超过这个值。
@@ -3130,10 +3144,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>马赛克/模糊 (Ctrl+6)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>橡皮擦 (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>撤销 (Ctrl+Z)</translation>
     </message>
@@ -3163,18 +3173,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Fill</source>
         <translation>填充</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>粗体</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>斜体</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>描边</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
