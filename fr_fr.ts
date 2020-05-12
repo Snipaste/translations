@@ -631,10 +631,6 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO?</translation>
         <translation>Chinois simplifié</translation>
     </message>
     <message>
-        <source>Paste hotkey</source>
-        <translation>Coller raccourci clavier</translation>
-    </message>
-    <message>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
         <translation>Quelque chose s&apos;est mal passé avec raccourci de démarrage.
@@ -659,10 +655,6 @@ Le démarrage sur le démarrage a été annulé.</translation>
     <message>
         <source>Polish</source>
         <translation>Polonais</translation>
-    </message>
-    <message>
-        <source>Snip hotkey</source>
-        <translation>Raccourci clavier Snip</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -981,6 +973,18 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">Effaceur</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1261,6 +1265,11 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
     <message>
         <source>Color inverted</source>
         <translation>Couleur inversée</translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1717,6 +1726,14 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <message>
         <source>Clear log file</source>
         <translation>Effacer fichier journal</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>Raccourci clavier Snip</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>Coller raccourci clavier</translation>
     </message>
 </context>
 <context>
@@ -3061,10 +3078,6 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
         <translation>Copier aussi l&apos;image comme fichier</translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation>* Appuyez sur Retour arrière pour supprimer le raccourci clavier</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>Épinglez tous postes de travail virtuels</translation>
     </message>
@@ -3116,10 +3129,6 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
         <translation>Restaurer (Ctrl+Y)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>Effaceur (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Quit snipping (Esc)</source>
         <translation>Arrêter enregistrement (Esc)</translation>
     </message>
@@ -3163,24 +3172,12 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
 <context>
     <name>paintbar1</name>
     <message>
-        <source>Bold</source>
-        <translation>Gras</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Italique</translation>
-    </message>
-    <message>
         <source>Fill</source>
         <translation>Remplir</translation>
     </message>
     <message>
         <source>Font family</source>
         <translation>Famille de polices</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Contour</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>

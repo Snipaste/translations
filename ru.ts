@@ -590,14 +590,6 @@ Restart now to enjoy PRO features?</source>
         <translation>Проверить обновления</translation>
     </message>
     <message>
-        <source>Snip hotkey</source>
-        <translation>Горячие клавишиа для &quot;Область&quot;</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>Горячие клавиши для &quot;Вставить&quot;</translation>
-    </message>
-    <message>
         <source>Preview</source>
         <translation>Предпросмотр</translation>
     </message>
@@ -975,6 +967,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">Ластик</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1253,6 +1257,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Color inverted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1709,6 +1718,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Clear log file</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>Горячие клавишиа для &quot;Область&quot;</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>Горячие клавиши для &quot;Вставить&quot;</translation>
     </message>
 </context>
 <context>
@@ -3052,10 +3069,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3115,10 +3128,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Текст (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>Ластик (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Отменить</translation>
     </message>
@@ -3156,18 +3165,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Fill</source>
         <translation>Заполнить</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Жирный</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Курсив</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Контур</translation>
     </message>
     <message>
         <source>Font family</source>

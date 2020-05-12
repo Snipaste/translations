@@ -595,14 +595,6 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
         <translation>-bits</translation>
     </message>
     <message>
-        <source>Snip hotkey</source>
-        <translation>tecla de captura</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>Tecla de colagem</translation>
-    </message>
-    <message>
         <source>For XP</source>
         <translation>Para.XP</translation>
     </message>
@@ -981,6 +973,18 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">Borracha</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1261,6 +1265,11 @@ Para o modo clique do rato, pode encontrar a sua tecla de atalho em &apos;Prefer
     <message>
         <source>Color inverted</source>
         <translation>Cor invertida</translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1717,6 +1726,14 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <message>
         <source>Clear log file</source>
         <translation>Limpar ficheiro de registo</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>tecla de captura</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>Tecla de colagem</translation>
     </message>
 </context>
 <context>
@@ -3061,10 +3078,6 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
         <translation>Copiar também imagem como ficheiro</translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation>* Premir Backspace para remover a tecla de atalho</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>Fixar em todos os ambientes virtuais</translation>
     </message>
@@ -3124,10 +3137,6 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
         <translation>Texto (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>Borracha (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Anular (Ctrl+Z)</translation>
     </message>
@@ -3165,18 +3174,6 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
     <message>
         <source>Fill</source>
         <translation>Preencher</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Negrito</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Itálico</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Contorno</translation>
     </message>
     <message>
         <source>Font family</source>

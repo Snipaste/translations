@@ -594,14 +594,6 @@ Restart now to enjoy PRO features?</source>
         <translation>-bit</translation>
     </message>
     <message>
-        <source>Snip hotkey</source>
-        <translation>Klawisz skrótu przechwytywania ekranu</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>Klawisz skrótu wklejania</translation>
-    </message>
-    <message>
         <source>For XP</source>
         <translation></translation>
     </message>
@@ -975,6 +967,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">Gumka</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1253,6 +1257,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Color inverted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1709,6 +1718,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Clear log file</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>Klawisz skrótu przechwytywania ekranu</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>Klawisz skrótu wklejania</translation>
     </message>
 </context>
 <context>
@@ -3052,10 +3069,6 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
         <translation></translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation></translation>
     </message>
@@ -3115,10 +3128,6 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
         <translation>Tekst (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>Gumka (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Confij (Ctrl+Z)</translation>
     </message>
@@ -3156,18 +3165,6 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
     <message>
         <source>Fill</source>
         <translation>Wypełnienie</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Pogrubienie</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Kursywa</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Kontur</translation>
     </message>
     <message>
         <source>Font family</source>

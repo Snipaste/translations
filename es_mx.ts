@@ -588,14 +588,6 @@ Restart now to enjoy PRO features?</source>
         <translation>Verificar actualizaciones</translation>
     </message>
     <message>
-        <source>Snip hotkey</source>
-        <translation>Atajo de recorte</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>Atajo para pegar</translation>
-    </message>
-    <message>
         <source>Preview</source>
         <translation>Vista previa</translation>
     </message>
@@ -976,6 +968,18 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">Borrador</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1255,6 +1259,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Color inverted</source>
         <translation>Color invertido</translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1710,6 +1719,14 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     <message>
         <source>Clear log file</source>
         <translation>Limpiar archivo de registro</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>Atajo de recorte</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>Atajo para pegar</translation>
     </message>
 </context>
 <context>
@@ -3054,10 +3071,6 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
         <translation>También copiar imagen como archivo</translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation>* Presionar Retroceso para eliminar el acceso rápido </translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>Mantener en todos los escritorios virtuales</translation>
     </message>
@@ -3117,10 +3130,6 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
         <translation>Texto (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>Borrador (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Deshacer (Ctrl + Z)</translation>
     </message>
@@ -3158,18 +3167,6 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
     <message>
         <source>Fill</source>
         <translation>Llenar</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Negrita</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Cursiva</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Subrayado</translation>
     </message>
     <message>
         <source>Font family</source>

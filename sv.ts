@@ -582,14 +582,6 @@ Restart now to enjoy PRO features?</source>
         <translation>-bit</translation>
     </message>
     <message>
-        <source>Paste hotkey</source>
-        <translation>Snabbtangent för inklistring</translation>
-    </message>
-    <message>
-        <source>Snip hotkey</source>
-        <translation>Snabbtangent för skärmklipp</translation>
-    </message>
-    <message>
         <source>Preview</source>
         <translation>Förhandsgranska</translation>
     </message>
@@ -975,6 +967,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">Radera</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1253,6 +1257,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Color inverted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1709,6 +1718,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Clear log file</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>Snabbtangent för skärmklipp</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>Snabbtangent för inklistring</translation>
     </message>
 </context>
 <context>
@@ -3051,10 +3068,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3106,10 +3119,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Upprepa (Ctrl+Y)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>Radera (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Quit snipping (Esc)</source>
         <translation>Avsluta klippning (Esc)</translation>
     </message>
@@ -3153,24 +3162,12 @@ When the limit is reached, the oldest one will be destroyed.</source>
 <context>
     <name>paintbar1</name>
     <message>
-        <source>Bold</source>
-        <translation>Fet</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Kursiv</translation>
-    </message>
-    <message>
         <source>Fill</source>
         <translation>Fyll</translation>
     </message>
     <message>
         <source>Font family</source>
         <translation>Teckensnittsfamilj</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Kontur</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>

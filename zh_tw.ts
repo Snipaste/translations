@@ -581,14 +581,6 @@ Restart now to enjoy PRO features?</source>
         <translation> 位元</translation>
     </message>
     <message>
-        <source>Snip hotkey</source>
-        <translation>擷圖快速鍵</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>貼圖快速鍵</translation>
-    </message>
-    <message>
         <source>Portuguese (Brazil)</source>
         <translation>葡萄牙語（巴西）</translation>
     </message>
@@ -979,6 +971,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>橡皮擦</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1259,6 +1263,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Color inverted</source>
         <translation>色彩對換</translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1716,6 +1725,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Clear log file</source>
         <translation>清空記錄檔</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>擷圖快速鍵</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>貼圖快速鍵</translation>
     </message>
 </context>
 <context>
@@ -3059,10 +3076,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>同時複製為檔案</translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation>* 按 Backspace 鍵清除目前快速鍵</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>固定到所有虛擬桌面</translation>
     </message>
@@ -3130,10 +3143,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>馬賽克/模糊 (Ctrl+6)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>橡皮擦 (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>還原 (Ctrl+Z)</translation>
     </message>
@@ -3163,18 +3172,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Fill</source>
         <translation>填充</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>粗體</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>斜體</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>描邊</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>

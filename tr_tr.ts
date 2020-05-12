@@ -591,14 +591,6 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
         <translation>%1 ile aynı</translation>
     </message>
     <message>
-        <source>Snip hotkey</source>
-        <translation>Kırpma kısayolu</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>Yapıştırma kısayolu</translation>
-    </message>
-    <message>
         <source>Preview</source>
         <translation>Önizleme</translation>
     </message>
@@ -981,6 +973,18 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">Silgi</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1260,6 +1264,11 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Color inverted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1717,6 +1726,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Failed to save the image to</source>
         <translation>Görüntü kaydetme başarısız</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>Kırpma kısayolu</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>Yapıştırma kısayolu</translation>
     </message>
 </context>
 <context>
@@ -3061,10 +3078,6 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
         <translation>Ayrıca resmi dosya olarak kopyala</translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation>* Hotkey kaldırmak için Backspace tuşuna basın</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>Tüm sanal masaüstlerine sabitle</translation>
     </message>
@@ -3128,10 +3141,6 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
         <translation>Metin (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>Silgi (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Geri al (Ctrl+Z)</translation>
     </message>
@@ -3169,18 +3178,6 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     <message>
         <source>Fill with stroke</source>
         <translation>Kontur ile doldurun</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Kalın</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>İtalik</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Anahat</translation>
     </message>
     <message>
         <source>Font family</source>

@@ -595,14 +595,6 @@ Reiniciar agora para usufruir dos recursos PRO?</translation>
         <translation>-bits</translation>
     </message>
     <message>
-        <source>Snip hotkey</source>
-        <translation>Tecla de atalho para recortar</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>Tecla de atalho para colar</translation>
-    </message>
-    <message>
         <source>For XP</source>
         <translation>Para XP</translation>
     </message>
@@ -981,6 +973,18 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">Borracha</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1261,6 +1265,11 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
     <message>
         <source>Color inverted</source>
         <translation>Cor invertida</translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1717,6 +1726,14 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <message>
         <source>Clear log file</source>
         <translation>Limpar arquivo de log</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>Tecla de atalho para recortar</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>Tecla de atalho para colar</translation>
     </message>
 </context>
 <context>
@@ -3061,10 +3078,6 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
         <translation>Também copiar imagem como arquivo</translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation>* Pressione Backspace para remover a tecla de atalho</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>Fixar em todas as área de trabalho virtuais</translation>
     </message>
@@ -3124,10 +3137,6 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
         <translation>Texto (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>Borracha (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Desfazer (Ctrl+Z)</translation>
     </message>
@@ -3165,18 +3174,6 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
     <message>
         <source>Fill</source>
         <translation>Preencher</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Negrito</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Itálico</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Borda</translation>
     </message>
     <message>
         <source>Font family</source>

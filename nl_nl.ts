@@ -583,14 +583,6 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
         <translation>-bit</translation>
     </message>
     <message>
-        <source>Snip hotkey</source>
-        <translation>Sneltoets Knippen</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>Sneltoets Plakken</translation>
-    </message>
-    <message>
         <source>Portuguese (Brazil)</source>
         <translation>Portugees (Brazilië)</translation>
     </message>
@@ -981,6 +973,18 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">Wissen</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1261,6 +1265,11 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
     <message>
         <source>Color inverted</source>
         <translation>Kleur omgekeerd</translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1717,6 +1726,14 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Clear log file</source>
         <translation>Logbestand wissen</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>Sneltoets Knippen</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>Sneltoets Plakken</translation>
     </message>
 </context>
 <context>
@@ -3061,10 +3078,6 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
         <translation>Afbeelding ook kopiëren als bestand</translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation>* Toets Backspace om de sneltoets te wissen</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>Aan elk virtueel bureablad vastmaken</translation>
     </message>
@@ -3128,10 +3141,6 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
         <translation>Mozaiek/Vervagen (Ctrl+6)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>Wissen (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Ongedaan maken (Ctrl+Z)</translation>
     </message>
@@ -3165,18 +3174,6 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     <message>
         <source>Fill</source>
         <translation>Vlak</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Vet</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Cursief</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Contour</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>

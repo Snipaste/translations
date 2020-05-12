@@ -592,14 +592,6 @@ Restart now to enjoy PRO features?</source>
         <translation>Vybrat barvu </translation>
     </message>
     <message>
-        <source>Snip hotkey</source>
-        <translation>Kl. zkratka vystříhávání</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>Kl. zkratka vkládání</translation>
-    </message>
-    <message>
         <source>Preview</source>
         <translation>Náhled</translation>
     </message>
@@ -973,6 +965,18 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">Guma</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1251,6 +1255,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Color inverted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1707,6 +1716,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Failed to save the image to</source>
         <translation>Selhalo uložení obrázku do</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>Kl. zkratka vystříhávání</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>Kl. zkratka vkládání</translation>
     </message>
 </context>
 <context>
@@ -2865,10 +2882,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Super Snip</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3114,10 +3127,6 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
         <translation>Text (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>Guma (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Zpět (Ctrl+Z)</translation>
     </message>
@@ -3155,18 +3164,6 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
     <message>
         <source>Fill with stroke</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Tučný</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Obrys</translation>
     </message>
     <message>
         <source>Font family</source>

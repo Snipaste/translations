@@ -581,14 +581,6 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
         <translation>-bit</translation>
     </message>
     <message>
-        <source>Snip hotkey</source>
-        <translation>Hotkey Aufnahme</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>Hotkey Einfügen</translation>
-    </message>
-    <message>
         <source>Portuguese (Brazil)</source>
         <translation>Portugiesisch (Brasilien)</translation>
     </message>
@@ -979,6 +971,18 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">Radierer</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1259,6 +1263,11 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     <message>
         <source>Color inverted</source>
         <translation>Farbe umgekehrt</translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1715,6 +1724,14 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Clear log file</source>
         <translation>Protokolldatei löschen</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>Hotkey Aufnahme</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>Hotkey Einfügen</translation>
     </message>
 </context>
 <context>
@@ -3057,10 +3074,6 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
         <translation>Bild auch als Datei kopieren</translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation>* Drücken Sie die Rücktaste, um den Hotkey zu entfernen</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>An alle virtuellen Desktops anpinnen</translation>
     </message>
@@ -3124,10 +3137,6 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
         <translation>Mosaik/Unschärfe (Ctrl+6)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>Radierer (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Rückgängig (Ctrl+Z)</translation>
     </message>
@@ -3161,18 +3170,6 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
     <message>
         <source>Fill</source>
         <translation>Füllen</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Fett</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Kursiv</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Umriss</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>

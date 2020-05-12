@@ -588,14 +588,6 @@ Restart now to enjoy PRO features?</source>
         <translation>업데이트 확인</translation>
     </message>
     <message>
-        <source>Snip hotkey</source>
-        <translation>Snip 단축키</translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
-        <translation>단축키 붙여넣기</translation>
-    </message>
-    <message>
         <source>Preview</source>
         <translation>미리보기</translation>
     </message>
@@ -977,6 +969,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">지우개</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1257,6 +1261,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Color inverted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1714,6 +1723,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Clear log file</source>
         <translation>로그파일 삭제</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>Snip 단축키</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>단축키 붙여넣기</translation>
     </message>
 </context>
 <context>
@@ -3053,10 +3070,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>이미지를 파일로 복사</translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation>* 백스페이스 키 : 단축키 해제</translation>
-    </message>
-    <message>
         <source>Magnification level:</source>
         <translation>확대 레벨 : </translation>
     </message>
@@ -3112,10 +3125,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>텍스트 (Ctrl+7)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>지우개 (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>실행취소(Ctrl+Z)</translation>
     </message>
@@ -3153,18 +3162,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Fill</source>
         <translation>채움</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>볼드</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>이탤릭</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>개요</translation>
     </message>
     <message>
         <source>Font family</source>

@@ -601,20 +601,12 @@ PRO機能を楽しむために今すぐ再起動しますか？</translation>
         <translation>ホームページ</translation>
     </message>
     <message>
-        <source>Paste hotkey</source>
-        <translation>貼り付けホットキー</translation>
-    </message>
-    <message>
         <source>Follow</source>
         <translation>フォロー</translation>
     </message>
     <message>
         <source>German</source>
         <translation>ドイツ語</translation>
-    </message>
-    <message>
-        <source>Snip hotkey</source>
-        <translation>スニップホットキー</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -978,6 +970,18 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished">消しゴム</translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1257,6 +1261,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Color inverted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1713,6 +1722,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Clear log file</source>
         <translation>ログファイルをクリア</translation>
+    </message>
+    <message>
+        <source>Snip hotkey</source>
+        <translation>スニップホットキー</translation>
+    </message>
+    <message>
+        <source>Paste hotkey</source>
+        <translation>貼り付けホットキー</translation>
     </message>
 </context>
 <context>
@@ -3056,10 +3073,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>同時にファイルとしてコピーする</translation>
     </message>
     <message>
-        <source>* Press Backspace to remove the hotkey</source>
-        <translation>* Backspaceキーを押してホットキーを削除する</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3111,10 +3124,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>やり直す (Ctrl+Y)</translation>
     </message>
     <message>
-        <source>Eraser (Ctrl+8)</source>
-        <translation>消しゴム (Ctrl+8)</translation>
-    </message>
-    <message>
         <source>Quit snipping (Esc)</source>
         <translation>スニップを終了 (Esc)</translation>
     </message>
@@ -3158,24 +3167,12 @@ When the limit is reached, the oldest one will be destroyed.</source>
 <context>
     <name>paintbar1</name>
     <message>
-        <source>Bold</source>
-        <translation>太字</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>斜体</translation>
-    </message>
-    <message>
         <source>Fill</source>
         <translation>充填</translation>
     </message>
     <message>
         <source>Font family</source>
         <translation>フォント集</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>輪郭</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
