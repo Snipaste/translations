@@ -389,15 +389,15 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar color invertido [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar todas las imágenes visibles [PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazar con el ratón o 1/2 o [/]</translation>
     </message>
 </context>
 <context>
@@ -907,11 +907,11 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Gratuita</translation>
     </message>
 </context>
 <context>
@@ -966,31 +966,31 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radio:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anchura:</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">Borrador</translation>
+        <translation>Borrador</translation>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>Fondo de texto</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Rehacer</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para cambiar la anchura de la pluma, desplaza con la rueda del ratón o presiona &apos;1&apos; o &apos;2&apos; o presiona &apos;[&apos; o &apos;]&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1275,7 +1275,8 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer doble clic en la imagen cerrará la imagen.
+Puedes configurar esta acción en Preferencias - Control - Mouse.</translation>
     </message>
 </context>
 <context>
@@ -1339,7 +1340,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Necesita activar UAC (Control de cuentas) para completar la compra.</translation>
     </message>
 </context>
 <context>
@@ -3112,7 +3113,7 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
 </context>
 <context>
@@ -3194,7 +3195,7 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de fuente</translation>
     </message>
 </context>
 <context>
