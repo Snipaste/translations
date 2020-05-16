@@ -379,7 +379,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
-        <translation>Fare tekeri veya 1/2</translation>
+        <translation type="vanished">Fare tekeri veya 1/2</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
@@ -395,6 +395,10 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse scroll or 1/2 or [/]</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -935,7 +939,7 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation>Kalem genişliğini değiştirmek için lütfen fare tekerleğini kaydırın veya &apos;1&apos; veya &apos;2&apos; tuşlarına basın.</translation>
+        <translation type="vanished">Kalem genişliğini değiştirmek için lütfen fare tekerleğini kaydırın veya &apos;1&apos; veya &apos;2&apos; tuşlarına basın.</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -983,6 +987,14 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3146,7 +3158,7 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>Yinele (Ctrl+Y)</translation>
+        <translation type="vanished">Yinele (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

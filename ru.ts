@@ -359,7 +359,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
-        <translation>Прокрутка мыши или 1/2</translation>
+        <translation type="vanished">Прокрутка мыши или 1/2</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
@@ -395,6 +395,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse scroll or 1/2 or [/]</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -920,10 +924,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -977,6 +977,14 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3133,7 +3141,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>Восстановить (Ctrl+Y)</translation>
+        <translation type="vanished">Восстановить (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

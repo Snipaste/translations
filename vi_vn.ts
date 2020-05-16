@@ -356,10 +356,6 @@ Please contact the developer.</source>
         <translation>Kết thúc chỉnh sửa hình dạng hiện tại khi ở trong chế độ chỉnh sửa</translation>
     </message>
     <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -393,6 +389,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse scroll or 1/2 or [/]</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -914,10 +914,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Chọn màu sắc</translation>
     </message>
     <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You can drag the corner of the text box to change the text size.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -975,6 +971,14 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3122,7 +3126,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>Làm lại</translation>
+        <translation type="vanished">Làm lại</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

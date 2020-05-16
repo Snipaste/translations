@@ -329,7 +329,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
-        <translation>تمرير الماوس او 1/2</translation>
+        <translation type="vanished">تمرير الماوس او 1/2</translation>
     </message>
     <message>
         <source>Show the magnifier if it is not visible</source>
@@ -393,6 +393,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse scroll or 1/2 or [/]</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -917,7 +921,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation>لتغيير عرض القلم ، الرجاء تمرير عجله الماوس او الضغط على &apos; 1 &apos; او &apos; 2 &apos;.</translation>
+        <translation type="vanished">لتغيير عرض القلم ، الرجاء تمرير عجله الماوس او الضغط على &apos; 1 &apos; او &apos; 2 &apos;.</translation>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
@@ -977,6 +981,14 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3106,7 +3118,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>اعاده (Ctrl + y)</translation>
+        <translation type="vanished">اعاده (Ctrl + y)</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse (Ctrl+1)</source>

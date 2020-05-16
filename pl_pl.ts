@@ -358,10 +358,6 @@ Proszę skontaktować się z deweloperem.</translation>
         <translation>Zakończ edytowanie bieżącego kształtu kiedy w trybie edytowania</translation>
     </message>
     <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
         <translation></translation>
     </message>
@@ -395,6 +391,10 @@ Proszę skontaktować się z deweloperem.</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse scroll or 1/2 or [/]</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -916,10 +916,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Wybierz kolor</translation>
     </message>
     <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>You can drag the corner of the text box to change the text size.</source>
         <translation></translation>
     </message>
@@ -977,6 +973,14 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3133,7 +3137,7 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>Powtórz (Ctrl+Y)</translation>
+        <translation type="vanished">Powtórz (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

@@ -377,7 +377,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
-        <translation>Kolečko Myši nebo 1/2</translation>
+        <translation type="vanished">Kolečko Myši nebo 1/2</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
@@ -393,6 +393,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse scroll or 1/2 or [/]</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -946,10 +950,6 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Copy without shadow</source>
         <translation type="unfinished"></translation>
     </message>
@@ -975,6 +975,14 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
     </message>
     <message>
         <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3132,7 +3140,7 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>Znovu (Ctrl+Y)</translation>
+        <translation type="vanished">Znovu (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

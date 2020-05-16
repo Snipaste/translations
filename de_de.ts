@@ -357,7 +357,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
-        <translation>Maus scrollen oder 1/2</translation>
+        <translation type="vanished">Maus scrollen oder 1/2</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
@@ -393,6 +393,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse scroll or 1/2 or [/]</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -921,7 +925,7 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation>Um die Stiftbreite zu ändern, bitte mit dem Mausrad scrollen oder &apos;1&apos; oder &apos;2 drücken.</translation>
+        <translation type="vanished">Um die Stiftbreite zu ändern, bitte mit dem Mausrad scrollen oder &apos;1&apos; oder &apos;2 drücken.</translation>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
@@ -981,6 +985,14 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3142,7 +3154,7 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>Wiederherstellen (Ctrl+Y)</translation>
+        <translation type="vanished">Wiederherstellen (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>

@@ -359,7 +359,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
-        <translation>Muiswiel of 1/2</translation>
+        <translation type="vanished">Muiswiel of 1/2</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
@@ -395,6 +395,10 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse scroll or 1/2 or [/]</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -923,7 +927,7 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation>Pas de pendikte aan met het muiswiel of toets &apos;1&apos; of &apos;2&apos;.</translation>
+        <translation type="vanished">Pas de pendikte aan met het muiswiel of toets &apos;1&apos; of &apos;2&apos;.</translation>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
@@ -983,6 +987,14 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3146,7 +3158,7 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>Opnieuw uitvoeren (Ctrl+Y)</translation>
+        <translation type="vanished">Opnieuw uitvoeren (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>

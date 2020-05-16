@@ -359,7 +359,7 @@ Por favor contacte o autor.</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
-        <translation>Roda do rato ou 1/2</translation>
+        <translation type="vanished">Roda do rato ou 1/2</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
@@ -395,6 +395,10 @@ Por favor contacte o autor.</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse scroll or 1/2 or [/]</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -923,7 +927,7 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation>Para alterar a largura do traço, rode a roda do rato ou pressione &apos;1&apos; ou &apos;2&apos;.</translation>
+        <translation type="vanished">Para alterar a largura do traço, rode a roda do rato ou pressione &apos;1&apos; ou &apos;2&apos;.</translation>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
@@ -983,6 +987,14 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3142,7 +3154,7 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>Refazer (Ctrl+Y)</translation>
+        <translation type="vanished">Refazer (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
