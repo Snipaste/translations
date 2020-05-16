@@ -391,15 +391,15 @@ Por favor, contate o desenvolvedor.</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar inversão de cores [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar todas as janelas de imagem visíveis [PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>Rolagem do mouse ou 1/2 ou [/]</translation>
     </message>
 </context>
 <context>
@@ -912,11 +912,11 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Grátis</translation>
     </message>
 </context>
 <context>
@@ -971,31 +971,31 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     </message>
     <message>
         <source>Radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Raio:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Largura:</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">Borracha</translation>
+        <translation>Borracha</translation>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>Fundo do texto</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Refazer</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para alterar a largura da caneta, role a roda do mouse ou pressione &apos;1&apos; ou &apos;2&apos; ou pressione &apos;[&apos; ou &apos;]&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1281,7 +1281,8 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique duplo na janela da imagem irá fechar a janela.
+Você pode configurar este comportamento no diálogo Preferências: Controle - Mouse.</translation>
     </message>
 </context>
 <context>
@@ -1346,7 +1347,7 @@ Reinicie o Snipaste como Administrador e tente novamente.</translation>
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você precisa ativar o Controle de Conta de Usuário (UAC) para concluir a compra.</translation>
     </message>
 </context>
 <context>
@@ -2561,7 +2562,7 @@ Se desativado, sempre será exibido no centro da tela primária.</translation>
     </message>
     <message>
         <source>If not checked, the original window will be automatically hidden for drag-and-drop.</source>
-        <translation>Se não estiver marcado,  a janela original será automaticamente oculta ao arrastar e soltar.</translation>
+        <translation>Se não estiver marcado, a janela original será automaticamente oculta ao arrastar e soltar.</translation>
     </message>
     <message>
         <source>Preserve the original window for drag-and-drop</source>
@@ -3119,7 +3120,7 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
@@ -3201,7 +3202,7 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho da fonte</translation>
     </message>
 </context>
 <context>
