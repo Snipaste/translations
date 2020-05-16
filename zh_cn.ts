@@ -357,7 +357,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
-        <translation>鼠标滚轮 或 1/2</translation>
+        <translation type="vanished">鼠标滚轮 或 1/2</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
@@ -394,6 +394,10 @@ Please contact the developer.</source>
     <message>
         <source>Select all visible image windows [PRO]</source>
         <translation>选中所有可见的贴图 [专业版]</translation>
+    </message>
+    <message>
+        <source>Mouse scroll or 1/2 or [/]</source>
+        <translation>鼠标滚轮 或 1/2 或 [/]</translation>
     </message>
 </context>
 <context>
@@ -921,7 +925,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation>若要调整画笔粗细，请滑动鼠标滚轮或按键盘上的 1 或 2.</translation>
+        <translation type="vanished">若要调整画笔粗细，请滑动鼠标滚轮或按键盘上的 1 或 2.</translation>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
@@ -982,6 +986,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Text background</source>
         <translation>文字背景</translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation>重做</translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
+        <translation>若要调整画笔粗细，请滑动鼠标滚轮，或按键盘上的 1 或 2，或按 [ 或 ].</translation>
     </message>
 </context>
 <context>
@@ -3149,7 +3161,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>重做 (Ctrl+Y)</translation>
+        <translation type="vanished">重做 (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
