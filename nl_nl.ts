@@ -995,7 +995,7 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation>Blader met het muiswiel om de pendikte te veranderen of toets &apos;1&apos; of &apos;2&apos; of tioets &apos;[&apos; of &apos;]&apos;.</translation>
+        <translation>Blader met het muiswiel om de pendikte te veranderen of toets &apos;1&apos; of &apos;2&apos; of toets &apos;[&apos; of &apos;]&apos;.</translation>
     </message>
 </context>
 <context>
@@ -2174,7 +2174,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
-        <translation>Jet kunt dit ook tijdelijk wisselen door de Tab-toets te drukken.</translation>
+        <translation>Je kunt dit ook tijdelijk wisselen met de Tab-toets.</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
@@ -2186,7 +2186,7 @@ De alfa-transparantie van de afbeelding gaat hiermee verloren.</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
-        <translation>De uit te voeren actie bij &apos;Enter&apos; tijdens Knippen.</translation>
+        <translation>De actie die bij Knippen moet worden uitgevoerd als de &apos;Enter&apos;-toets wordt gedrukt.</translation>
     </message>
     <message>
         <source>then</source>
