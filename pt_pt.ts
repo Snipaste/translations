@@ -391,15 +391,15 @@ Por favor contacte o autor.</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar inversão de cor [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar todas as janelas de  imagem visíveis [PRO</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>Rolagem do rato ou 1/2 ou [/</translation>
     </message>
 </context>
 <context>
@@ -912,11 +912,11 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Gratuíta</translation>
     </message>
 </context>
 <context>
@@ -971,31 +971,31 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>Radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Raio:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Largura:</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">Borracha</translation>
+        <translation>Borracha</translation>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>Fundo do texto</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Refazer</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para alterar a espessura da caneta, rode a roda do rato ou pressione &apos;1&apos; ou &apos;2&apos; ou pressione &apos;[&apos; or &apos;]&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1281,7 +1281,8 @@ Para o modo clique do rato, pode encontrar a sua tecla de atalho em &apos;Prefer
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplo clique na janela da imagem fecha a janela.
+Pode confidurar este comportamento em Preferências:Controlo - Rato.</translation>
     </message>
 </context>
 <context>
@@ -1346,7 +1347,7 @@ Deve reiniciar o Snipaste como administrador e tentar de novo.</translation>
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Necessita ligar a UAC (Controlo da conta do utilizador) para poder completar a compra.</translation>
     </message>
 </context>
 <context>
@@ -1381,7 +1382,7 @@ Deve reiniciar o Snipaste como administrador e tentar de novo.</translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation>Seleccionar fonte</translation>
+        <translation>Seleccionar tipo de letra</translation>
     </message>
     <message>
         <source>Set Directory</source>
@@ -2561,7 +2562,7 @@ Se esta opção estiver seleccionada, as funcionalidades acima serão desactivad
     </message>
     <message>
         <source>Font:</source>
-        <translation>Fonte:</translation>
+        <translation>Tipo de letra:</translation>
     </message>
     <message>
         <source>The font used for plain text conversion</source>
@@ -3119,7 +3120,7 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
 </context>
 <context>
@@ -3189,7 +3190,7 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
     </message>
     <message>
         <source>Font family</source>
-        <translation>Família de fontes</translation>
+        <translation>Família de tipos de letra</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -3201,7 +3202,7 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala do tipo de letra</translation>
     </message>
 </context>
 <context>

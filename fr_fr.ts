@@ -391,15 +391,15 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Basculer inversion couleur [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner toutes les fenêtres d&apos;image visibles [PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>Défilement de la souris ou 1/2 ou [/]</translation>
     </message>
 </context>
 <context>
@@ -912,11 +912,11 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Gratuit</translation>
     </message>
 </context>
 <context>
@@ -971,31 +971,31 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>Radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayon:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Largeur:</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">Effaceur</translation>
+        <translation>Gomme</translation>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>Fond du texte</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Refaire</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour modifier largeur du stylet, veuillez faire défiler la molette souris ou appuyez sur &apos;1&apos; ou &apos;2&apos; ou appuyez sur &apos;[&apos; ou &apos;]&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1281,7 +1281,8 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Double-cliquez su fenêtre d&apos;image pour fermer la fenêtre.
+Vous pouvez configurer ce comportement dans la boîte de dialogue Préférences: Contrôle - Souris.</translation>
     </message>
 </context>
 <context>
@@ -1346,7 +1347,7 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous devez activer l&apos;UAC ( contrôle du compte d&apos;utilisateur ) afin de terminer l&apos;achat.</translation>
     </message>
 </context>
 <context>
@@ -3119,7 +3120,7 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
 </context>
 <context>
@@ -3201,7 +3202,7 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Échelle de police</translation>
     </message>
 </context>
 <context>
