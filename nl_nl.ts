@@ -59,7 +59,7 @@
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
-        <translation>Fout bij het downloaden! HTTP foutcode %1</translation>
+        <translation>Fout bij het downloaden! HTTP foutcode: %1</translation>
     </message>
     <message>
         <source>Unzipped successfully.</source>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>Unable to download updates.</source>
-        <translation>Update niet kunnen downloaden.</translation>
+        <translation>De update is niet gedownload.</translation>
     </message>
     <message>
         <source>Please try later.</source>
@@ -91,7 +91,7 @@ Netwerkfout: %1</translation>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
         <translation>Er is iets mis met de updates-informatiebron (%1).
-Informeer a.u.b. de ontwikkelaar.</translation>
+Informeer alsjeblieft de maker.</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -118,7 +118,7 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation>Wil je de geselecteerde groepen sluiten? Dit kan niet ondgedaan worden. </translation>
+        <translation>Wil je de geselecteerde groepen sluiten? Dit kan niet ongedaan worden.</translation>
     </message>
 </context>
 <context>
@@ -391,15 +391,15 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleuren inverteren [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle zichtbare afbeeldingsvensters selecteren [PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>Bladeren met de muis 1/2 of [/]</translation>
     </message>
 </context>
 <context>
@@ -407,8 +407,8 @@ Informeer a.u.b. de ontwikkelaar.</translation>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>Hartelijk bedankt voor de ondersteuning!
-Opnieuw starten om de PRO-functies te gebruiken?</translation>
+        <translation>Hartelijk bedankt voor je ondersteuning!
+Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     </message>
     <message>
         <source>OK</source>
@@ -420,7 +420,7 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation>Licentiesleutel verwijderen? Snipaste raakt dan ongeregistreerd.</translation>
+        <translation>Licentiecode verwijderen? Snipaste raakt dan ongeregistreerd.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -569,7 +569,7 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
     </message>
     <message>
         <source>Illegal characters</source>
-        <translation>Ongeldig teken</translation>
+        <translation>Ongeldige tekens</translation>
     </message>
     <message>
         <source>Environment variables</source>
@@ -705,8 +705,8 @@ Opnieuw starten om de PRO-functies te gebruiken?</translation>
     <message>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
-        <translation>Er is iets misgegaan met de opstartsnelkoppeling.
-Automatisch opstarten is uitgeschakeld.</translation>
+        <translation>Er ging iets mis met het aanmaken van de opstartsnelkoppeling.
+Automatisch opstarten is niet ingeschakeld.</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -742,7 +742,7 @@ Automatisch opstarten is uitgeschakeld.</translation>
     </message>
     <message>
         <source>Thank you for your support!</source>
-        <translation>Bedankt voor de ondersteuning!</translation>
+        <translation>Bedankt voor je ondersteuning!</translation>
     </message>
     <message>
         <source>Russian</source>
@@ -758,7 +758,7 @@ Automatisch opstarten is uitgeschakeld.</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation>Configuratiebestand schakelen</translation>
+        <translation>Configuratiebestand wisselen</translation>
     </message>
     <message>
         <source>Serbian</source>
@@ -774,15 +774,15 @@ Automatisch opstarten is uitgeschakeld.</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation>Quasi-transparant</translation>
+        <translation>Semi-transparant</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation>Donker geblokt</translation>
+        <translation>Donker dambord</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation>Licht geblokt</translation>
+        <translation>Licht dambord</translation>
     </message>
     <message>
         <source>Snip and pin</source>
@@ -804,7 +804,7 @@ Automatisch opstarten is uitgeschakeld.</translation>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
         <translation>Kleurenpalet is naar het klembord gekopieerd.
-Deel het met vrienden!</translation>
+Deel het met je vrienden!</translation>
     </message>
     <message>
         <source>Snipping</source>
@@ -824,11 +824,11 @@ Deel het met vrienden!</translation>
 Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>Let op: Bij het schakelen naar een andere configuratie gaan de huidige instellingen verloren.
+        <translation>Let op: Bij het wisselen naar een andere configuratie gaan de huidige instellingen verloren.
 
 Daarbij mag het bestand van de standaardconfiguratie niet worden gewist, omdat deze verwijst naar de nieuwe configuratie.
 
-Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
+Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
@@ -880,15 +880,15 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Mosaic/Blur</source>
-        <translation>Mozaiek/Vervagen</translation>
+        <translation>Mozaïek/Vervagen</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation>Wissen</translation>
+        <translation>Wisser</translation>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation>Normaal knippen</translation>
+        <translation>Standaard-Knip</translation>
     </message>
     <message>
         <source>Korean</source>
@@ -908,15 +908,15 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
-        <translation>Snipaste instellingen</translation>
+        <translation>Snipaste Instellingen</translation>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Gratis</translation>
     </message>
 </context>
 <context>
@@ -931,15 +931,15 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation>Sleep de hoek van het tekstkader om de tekstgroote aan te passen.</translation>
+        <translation>Sleep de hoek van het tekstkader om de tekstgrootte aan te passen.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation>Klik hier om te wisselen tussen mozaïek en Guassiaanse vervaging. </translation>
+        <translation>Klik hier om te wisselen tussen mozaïek en Gauss-vervaging.</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation>Trek een lijn door te slepen of klik om lijnsegmenten te tekenen. </translation>
+        <translation>Trek een lijn door te slepen of klik om lijnstukken te tekenen.</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -955,47 +955,47 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Copy with shadow</source>
-        <translation>Kopiëren met schaduw</translation>
+        <translation>Met schaduw kopiëren</translation>
     </message>
     <message>
         <source>Save with shadow</source>
-        <translation>Opslaan met schaduw</translation>
+        <translation>Met schaduw opslaan</translation>
     </message>
     <message>
         <source>Copy without shadow</source>
-        <translation>Kopiëren zonder schaduw</translation>
+        <translation>Zonder schaduw kopiëren</translation>
     </message>
     <message>
         <source>Save without shadow</source>
-        <translation>Opslaan zonder schaduw</translation>
+        <translation>Zonder schaduw opslaan</translation>
     </message>
     <message>
         <source>Radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Breedte:</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">Wissen</translation>
+        <translation>Wisser</translation>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstachtergrond</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Opnieuw</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Blader met het muiswiel om de pendikte te veranderen of toets &apos;1&apos; of &apos;2&apos; of tioets &apos;[&apos; of &apos;]&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1058,11 +1058,11 @@ Weet je zeker dat u wilt schakelen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation>Donker raster</translation>
+        <translation>Donker dambord</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation>Licht raster</translation>
+        <translation>Licht dambord</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1176,7 +1176,7 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation>Quasi-transparant</translation>
+        <translation>Semi-transparant</translation>
     </message>
     <message>
         <source>Copy annotation text</source>
@@ -1208,7 +1208,7 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation>Afbeelding met schaduw ongeschaald kopiëren</translation>
+        <translation>Afbeelding ongeschaald met schaduw kopiëren</translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
@@ -1256,7 +1256,7 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation>Bureablad %1</translation>
+        <translation>Bureaublad %1</translation>
     </message>
     <message>
         <source>Copy raw HTML</source>
@@ -1264,24 +1264,25 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation>Ongeschaalde afbeelding opslan als…</translation>
+        <translation>Afbeelding ongeschaald opslaan als…</translation>
     </message>
     <message>
         <source>Save unscaled image with shadow as...</source>
-        <translation>Ongeschaalde afbeelding met schaduw opslaan als …</translation>
+        <translation>Afbeelding ongeschaald met schaduw opslaan als …</translation>
     </message>
     <message>
         <source>Invert color</source>
-        <translation>Kleur omkeren</translation>
+        <translation>Kleur inverteren</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation>Kleur omgekeerd</translation>
+        <translation>Kleur geïnverteerd</translation>
     </message>
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Met een dubbelklik wordt het afbeeldingsvenster gesloten.
+Je kunt dit gedrag instellen bij Instellingen: Beheer - Muis.</translation>
     </message>
 </context>
 <context>
@@ -1292,7 +1293,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation>Automatisch starten niet ingesteld. Je moet dit mogelijk handmatig instellen in Taakbeheer.</translation>
+        <translation>Automatisch starten is niet ingesteld. Je moet dit mogelijk handmatig instellen in Taakbeheer.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -1302,7 +1303,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
         <translation>Geplande taak is niet aangemaakt.
-Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
+Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     </message>
     <message>
         <source>Failed to create a shortcut in the startup directory.</source>
@@ -1318,7 +1319,7 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>It may take a few seconds...</source>
-        <translation>Dit kan een paar tellen duren…</translation>
+        <translation>Dit kan een paar momenten duren…</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1334,7 +1335,7 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation>Als Snipaste al is ingeschakeld in de lijst Schermopname en het werkt nog steeds niet, dan moet u het mogelijk opnieuw opstarten of uw Mac opnieuw opstarten.</translation>
+        <translation>Als Snipaste al is ingeschakeld in de lijst Schermopname en het werkt nog steeds niet, dan moet je het mogelijk opnieuw opstarten of uw Mac opnieuw opstarten.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1342,18 +1343,18 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation>Voor deze functie moet dit programma toegang krijgen inSysteeminstellineg - Privacyinstellingen.</translation>
+        <translation>Voor deze functie moet dit programma toegang krijgen in Systeeminstellingen - Privacyinstellingen.</translation>
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je moet UAC (gebruikersaccountbeheer) inschakelen om de aankoop te voltooien.</translation>
     </message>
 </context>
 <context>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
-        <translation>Snelkoppeling is niet aangemeld:</translation>
+        <translation>Snelkoppeling is niet aangemaakt:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1423,7 +1424,7 @@ Start Snipaste opnieuw als administrator en probeer het nog eens.</translation>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation>Vertraagd Knippen</translation>
+        <translation>Knippen met vertraging</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1461,7 +1462,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Custom snip</source>
-        <translation>Aangepaste Knip</translation>
+        <translation>Aangepast Knippen</translation>
     </message>
     <message>
         <source>Snip the active window</source>
@@ -1473,11 +1474,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation>Volledig scherm knippen en kopiëren </translation>
+        <translation>Volledig scherm Knippen en kopiëren</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Vorig opnamegebied opnieuw knippen en kopiëren</translation>
+        <translation>Vorig opnamegebied opnieuw Knippen en kopiëren</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
@@ -1493,7 +1494,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Pick color</source>
-        <translation>Kies een kleur</translation>
+        <translation>Kleur pikken</translation>
     </message>
     <message>
         <source>Paste as image</source>
@@ -1649,11 +1650,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Failed to save the image!</source>
-        <translation>Afbeelding niet opgeslagen!</translation>
+        <translation>De afbeelding is niet opgeslagen!</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
-        <translation>Groep is niet geïmporteerd.</translation>
+        <translation>De groep is niet geïmporteerd.</translation>
     </message>
     <message>
         <source>File %1 not found.</source>
@@ -1665,7 +1666,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>This group already exists.</source>
-        <translation>Deze groep bestaat reeds.</translation>
+        <translation>Deze groep bestaat al.</translation>
     </message>
     <message>
         <source>Imported Group</source>
@@ -1689,7 +1690,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Wilt u &quot;%1&quot; sluiten? Dit kan niet ongedaan worden.</translation>
+        <translation>Wil je &quot;%1&quot; sluiten? Dit kan niet ongedaan worden.</translation>
     </message>
     <message>
         <source>Default</source>
@@ -1752,7 +1753,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>Snipper</name>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation>Wilt u Knippen afbreken?</translation>
+        <translation>Wil je Knippen afbreken?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
@@ -1763,7 +1764,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2</source>
-        <translation>U gebruikt de gratis verie van Snipaste %1 %2</translation>
+        <translation>Je gebruikt de gratis verie van Snipaste %1 %2</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -1775,7 +1776,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Validity period</source>
-        <translation>Geldigheidsperiode</translation>
+        <translation>Geldigheidsduur</translation>
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
@@ -1783,11 +1784,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>License key</source>
-        <translation>Licentiesleutel</translation>
+        <translation>Licentiecode</translation>
     </message>
     <message>
         <source>Paste your license key here</source>
-        <translation>Plak hier uw licentiesleutel</translation>
+        <translation>Plak hier de licentiecode</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
@@ -1807,7 +1808,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation>Neem gerust contact op met %1 als u enige hulp behoeft.</translation>
+        <translation>Neem gerust contact op met %1 als je hulp nodig hebt.</translation>
     </message>
     <message>
         <source>Purchase</source>
@@ -1819,7 +1820,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Enter license key</source>
-        <translation>Voer een licentiesleutel in</translation>
+        <translation>Licentiecode invoeren</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -1835,7 +1836,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Retry</source>
-        <translation>Opnieuw proberen</translation>
+        <translation>Opnieuw</translation>
     </message>
     <message>
         <source>Activation failed</source>
@@ -1859,11 +1860,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation>Ongeldige licentiesleutel</translation>
+        <translation>Ongeldige licentiecode.</translation>
     </message>
     <message>
         <source>Error code</source>
-        <translation>Foutnummer</translation>
+        <translation>Foutcode</translation>
     </message>
 </context>
 <context>
@@ -1886,11 +1887,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Release notes are currently not available.</source>
-        <translation>Er is geen versiebestand voorhanden.</translation>
+        <translation>Er is geen versiebestand beschikbaar.</translation>
     </message>
     <message>
         <source>Are you sure you want to cancel the update?</source>
-        <translation>Wilt u deze nieuwe versie niet downloaden?</translation>
+        <translation>Wil je deze nieuwe versie niet downloaden?</translation>
     </message>
     <message>
         <source>Download updates</source>
@@ -1909,7 +1910,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Delay:</source>
-        <translation>Vertraging:Vertraging:</translation>
+        <translation>Vertraging:</translation>
     </message>
     <message>
         <source>Top left:</source>
@@ -2031,7 +2032,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Open source software used in Snipaste:</source>
-        <translation>Open Source software in Snipaste:</translation>
+        <translation>Open source software in Snipaste:</translation>
     </message>
     <message>
         <source>About Qt</source>
@@ -2097,7 +2098,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>As administrator</source>
-        <translation>Als administrator</translation>
+        <translation>Als beheerder</translation>
     </message>
     <message>
         <source>So that the global hotkeys are effective when the active window has administrator privileges.</source>
@@ -2173,15 +2174,15 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
-        <translation>U kunt dit ook tijdelijk wisselen door de Tab-toets te drukken.</translation>
+        <translation>Jet kunt dit ook tijdelijk wisselen door de Tab-toets te drukken.</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
         <translation>Afbeelding kopiëren als Windows Bitmap,
-zodat het in programma&apos;s kan worden geplakt.
-De alfa-transparantie van de afbeelding raakt hiermee verloren.</translation>
+zodat het in programma&apos;s zoals Skype kan worden geplakt.
+De alfa-transparantie van de afbeelding gaat hiermee verloren.</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
@@ -2213,7 +2214,7 @@ De alfa-transparantie van de afbeelding raakt hiermee verloren.</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
-        <translation>Het maximum aantal opnamen dat wordt opgeslagen in history/snip.</translation>
+        <translation>Het maximum aantal opnamen dat in history/snip wordt opgeslagen.</translation>
     </message>
     <message>
         <source>Sound Effect</source>
@@ -2257,7 +2258,7 @@ De alfa-transparantie van de afbeelding raakt hiermee verloren.</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
-        <translation>Dit kan resulteren in schermflikkeringen.</translation>
+        <translation>Dit kan flikkeringen van het scherm opleveren.</translation>
     </message>
     <message>
         <source>Let the &apos;reset&apos; operation work on thumbnail too.</source>
@@ -2292,7 +2293,7 @@ De alfa-transparantie van de afbeelding raakt hiermee verloren.</translation>
 Specify 0 to obtain small compressed files, 100 for large uncompressed files.
 Specify -1 to let Snipaste decide for you.</source>
         <translation>Bereik: 0-100 of -1.
-Gebruik 0 voor kleine gecomprimeerde bestanden, 100 voor grote ongecomprimeerde bestanden.
+Gebruik 0 voor compacte gecomprimeerde bestanden, 100 voor grote ongecomprimeerde bestanden.
 Gebruik -1 voor automatische kwaliteit.</translation>
     </message>
     <message>
@@ -2323,7 +2324,7 @@ Gebruik -1 voor automatische kwaliteit.</translation>
         <source>Beta versions may contain more bugs.
 Please report to the developer if you find any.</source>
         <translation>Beta-versies kunnen problemen bevatten.
-Meld deze a.u.b. wanneer u ze vindt.</translation>
+Meld deze alsjeblieft als je ze tegenkomt.</translation>
     </message>
     <message>
         <source>Licenses</source>
@@ -2465,7 +2466,7 @@ Bereik: 10-100</translation>
         <source>If the source is a screenshot, show it where you snipped.
 If disabled, it would always be shown at the center of the primary screen.</source>
         <translation>Schermopname weergeven op de plaats van de opname.
-Indien afgeschakeld, wordt het altijd weergegeven midden op het primaire scherm.</translation>
+Anders wordt het altijd weergegeven midden op het primaire scherm.</translation>
     </message>
     <message>
         <source>Max recoverable closed images:</source>
@@ -2480,8 +2481,8 @@ Indien afgeschakeld, wordt het altijd weergegeven midden op het primaire scherm.
 If you copy a non-image file, a paste will immediately show the file path.
 If this option is checked, the above features will be disabled.</source>
         <translation>Bij het kopiëren van een afbeeldingsbestand, bevat de eerste plak-actie de afbeelding en de tweede het bestandspad.
-Bij het kopiëren van een ander bestand, bevat de eerste plakactie direct het bestandspad.
-Met deze optie geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</translation>
+Bij het kopiëren van een ander soort bestand, bevat de eerste plakactie direct het bestandspad.
+Indien geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</translation>
     </message>
     <message>
         <source>Font:</source>
@@ -2627,11 +2628,11 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     </message>
     <message>
         <source>When you paste, automatically hide all image windows, if any image window is currently flashing.</source>
-        <translation>Als een venster oplicht bij het plakken, automatisch alle afbeeldingenvensters verbergen.</translation>
+        <translation>Als bij het plakken een venster oplicht, worden automatisch alle afbeeldingenvensters verborgen.</translation>
     </message>
     <message>
         <source>Hide all images if you paste when any image is flashing</source>
-        <translation>Wanneer een afbeelding oplicht, alle afbeeldingen verbergen bij het plakken</translation>
+        <translation>Alle afbeeldingen verbergen als bij het plakken een afbeelding oplicht</translation>
     </message>
     <message>
         <source>The max width of the image converted from text</source>
@@ -2643,19 +2644,19 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     </message>
     <message>
         <source>Always ignore HTML formats</source>
-        <translation>HTML-formaat altijd negeren</translation>
+        <translation>HTML-code altijd negeren</translation>
     </message>
     <message>
         <source>The font used for plain text conversion</source>
-        <translation>Lettertype voor conversie van tekst</translation>
+        <translation>Lettertype voor tekstconversie</translation>
     </message>
     <message>
         <source>The background color used for plain text conversion</source>
-        <translation>Achtergrondkleur voor conversie van tekst</translation>
+        <translation>Achtergrondkleur voor tekstconversie</translation>
     </message>
     <message>
         <source>The text color used for plain text conversion</source>
-        <translation>Tekstkleur bij conversie van tekst</translation>
+        <translation>Tekstkleur bij tekstconversie</translation>
     </message>
     <message>
         <source>Text-to-image conversion preview</source>
@@ -2707,7 +2708,7 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     </message>
     <message>
         <source>Proxy type:</source>
-        <translation>Type:</translation>
+        <translation>Proxy type:</translation>
     </message>
     <message>
         <source>Server:</source>
@@ -2772,7 +2773,7 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation>Activeer als u nooit de cursor wilt opnemen.
+        <translation>Selecteer deze optie als je nooit de cursor wilt opnemen.
 Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
@@ -2897,11 +2898,11 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Middle click:</source>
-        <translation>Midden muisklik:</translation>
+        <translation>Midden-muisklik:</translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation>Rechter muisklik:</translation>
+        <translation>Rechter-muisklik:</translation>
     </message>
     <message>
         <source>Hot Corner</source>
@@ -2925,7 +2926,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Check interval:</source>
-        <translation>Interval:</translation>
+        <translation>Controle-interval:</translation>
     </message>
     <message>
         <source>Function</source>
@@ -2957,7 +2958,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation>Normaal knippen</translation>
+        <translation>Standaard Knippen</translation>
     </message>
     <message>
         <source>Super snip</source>
@@ -3001,11 +3002,11 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
-        <translation>Ik ben niet geïnteresserd in de PRO-versie</translation>
+        <translation>Ik ben niet geïnteresseerd in PRO</translation>
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
-        <translation>Vensterinstellingen en afbeeldingsvensters automatisch bewaren om deze bij de volgende start van Snipaste weer te kunnen openen.</translation>
+        <translation>Vensterinstellingen en afbeeldingsvensters automatisch opslaan om deze bij de volgende start van Snipaste weer te kunnen openen.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
@@ -3021,11 +3022,11 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
-        <translation>Open Source software in Snipaste openen</translation>
+        <translation>Open source software gebruikt in Snipaste</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation>U kunt de zichtbaarheid van de muiscursor ook wisselen met de ` of de !-toets.</translation>
+        <translation>Je kunt de zichtbaarheid van de muiscursor ook wisselen met de ` of de !-toets.</translation>
     </message>
     <message>
         <source>Keys</source>
@@ -3041,15 +3042,15 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation>De uit te voeren actie bij Dubbelklikken&apos; tijdens Knippen.</translation>
+        <translation>De uit te voeren actie bij Dubbelklikken tijdens Knippen.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation>Middenklik:</translation>
+        <translation>Midden-muisklik:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation>De uit te voeren actie bij Middenklikken&apos; tijdens Knippen.</translation>
+        <translation>De uit te voeren actie bij Midden-muisklik tijdens Knippen.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
@@ -3063,7 +3064,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Gesloten afbeeldingsvensters kunnen worden hersteld zolang het maximum niet is overschreden.
-Als het maximum is bereikt, worden de eersten gewist.</translation>
+Als het maximum is bereikt, worden de eerste gewist.</translation>
     </message>
     <message>
         <source>Manual Save</source>
@@ -3099,7 +3100,7 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
-        <translation>Maskeren uitschakelen als het Bestandsvenster zichtbaar is</translation>
+        <translation>Maskering uitschakelen als het Bestandsvenster zichtbaar is</translation>
     </message>
     <message>
         <source>Show fullscreen cross lines</source>
@@ -3119,7 +3120,7 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
 </context>
 <context>
@@ -3150,7 +3151,7 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     </message>
     <message>
         <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>Mozaiek/Vervagen (Ctrl+6)</translation>
+        <translation>Mozaïek/Vervagen (Ctrl+6)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -3189,7 +3190,7 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
-        <translation>Mozaiek/Vervagen wisselen</translation>
+        <translation>Mozaïek/Vervagen wisselen</translation>
     </message>
     <message>
         <source>Font family</source>
@@ -3201,7 +3202,7 @@ Als het maximum is bereikt, worden de eersten gewist.</translation>
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettergrootte</translation>
     </message>
 </context>
 <context>
