@@ -389,7 +389,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation>切換顏色倒置 [PRO]</translation>
+        <translation>切換顏色倒置 [專業版]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
