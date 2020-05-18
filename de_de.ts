@@ -389,15 +389,15 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbumgekung umschalten [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle sichtbaren Bildfenster auswählen [PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>Maus-Scrollen oder 1/2 oder [/]]</translation>
     </message>
 </context>
 <context>
@@ -910,11 +910,12 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Kostenlos</translatorcomment>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -969,31 +970,31 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Breite:</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">Radierer</translation>
+        <translation>Radierer</translation>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>Text Hintergund</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiederholen</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Um die Stiftbreite zu ändern, scrollen Sie bitte mit dem Mausrad oder drücken Sie &apos;1&apos; oder &apos;2&apos; oder drücken Sie &apos;[&apos; oder &apos;]&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1279,7 +1280,8 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Durch Doppelklicken auf das Bildfenster wird das Fenster geschlossen.
+Sie können dieses Verhalten im Dialogfeld &quot;Einstellungen&quot; konfigurieren: Steuerung - Maus.</translation>
     </message>
 </context>
 <context>
@@ -1344,7 +1346,7 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie müssen die Benutzerkontensteuerung (UAC) aktivieren, um den Kauf abzuschließen.</translation>
     </message>
 </context>
 <context>
@@ -3115,7 +3117,7 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
 </context>
 <context>
@@ -3197,7 +3199,7 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftgröße</translation>
     </message>
 </context>
 <context>
