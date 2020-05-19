@@ -385,19 +385,19 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지창 닫기</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>색상 반전 전환[프로버젼]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>보이는 모든 이미지 창 선택 [프로버젼]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>마우스 스크롤 또는 1/2 또는 [/]</translation>
     </message>
 </context>
 <context>
@@ -907,11 +907,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>프로버젼</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>무료</translation>
     </message>
 </context>
 <context>
@@ -967,31 +967,31 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>반지름 : </translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>가로길이 : </translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>번호</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">지우개</translation>
+        <translation>지우개</translation>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 백그라이운드</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>재실행</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>펜 너비를 변경하려면 마우스 휠을 스크롤하거나 &apos;1&apos;또는 &apos;2&apos;를, 아니면 &apos;[&apos;또는 &apos;]&apos;를 누르십시오.</translation>
     </message>
 </context>
 <context>
@@ -1261,24 +1261,24 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation type="unfinished"></translation>
+        <translation>크기 조정되지 않은 이미지를 다른 이름으로 저장 ...</translation>
     </message>
     <message>
         <source>Save unscaled image with shadow as...</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자가없는 비 스케일 이미지를 다른 이름으로 저장...</translation>
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>색상 반전</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>반전 된 색상</translation>
     </message>
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 창을 두 번 클릭하면 창이 닫힙니다. 기본 설정 대화 상자 : 제어- 마우스에서 이 동작을 구성 할 수 있습니다.</translation>
     </message>
 </context>
 <context>
@@ -1342,7 +1342,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>구매를 완료하려면 UAC (사용자 계정 컨트롤)를 켜야합니다.</translation>
     </message>
 </context>
 <context>
@@ -1796,7 +1796,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation>PRO 버전은 20 가지 이상의 어마무시한 새 기능을 제공합니다! 꼭 사세요! 두번 사세요!</translation>
+        <translation type="unfinished">PRO 버전은 20 가지 이상의 어마무시한 새 기능을 제공합니다!</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -1808,7 +1808,8 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Purchase</source>
-        <translation>Purchase</translation>
+        <translation>구매
+</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1844,7 +1845,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Number of activations exceeded.</source>
-        <translation>활성화 할 수 있는 최대 수가 초과되었습니다.</translation>
+        <translation>활성화 할 수 있는 최대 갯수가 초과되었습니다.</translation>
     </message>
     <message>
         <source>Network error.</source>
@@ -3099,15 +3100,15 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished">무시된 목록 : </translation>
+        <translation>무시된 목록 : </translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished">실행 파일 이름 / 경로를 쉼표로 구분하여 입력하십시오 (e.g. a.exe, games/*)</translation>
+        <translation>실행 파일 이름 / 경로를 쉼표로 구분하여 입력하십시오 (e.g. a.exe, games/*)</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>자동</translation>
     </message>
 </context>
 <context>
@@ -3189,7 +3190,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>폰트 크기</translation>
     </message>
 </context>
 <context>
