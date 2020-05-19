@@ -1796,7 +1796,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="unfinished">PRO 버전은 20 가지 이상의 어마무시한 새 기능을 제공합니다!</translation>
+        <translation>PRO 버전은 20 가지 이상의 어마무시한 새 기능을 제공합니다!</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
