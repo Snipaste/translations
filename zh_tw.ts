@@ -97,7 +97,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation>新版 Snipaste 已經下載至:</translation>
+        <translation>新版 Snipaste 已經下載至：</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -393,11 +393,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>選取所有可見的貼圖 [專業版]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>滑鼠滾輪 或 1/2 或 [/]</translation>
     </message>
 </context>
 <context>
@@ -910,11 +910,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>專業版</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>免費版</translation>
     </message>
 </context>
 <context>
@@ -969,15 +969,15 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Radius:</source>
-        <translation>半徑:</translation>
+        <translation>半徑：</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>寬度：</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>序號</translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -985,15 +985,15 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>文字背景</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>重做</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>若要調整畫筆粗細，請滾動滑鼠滾輪，或按鍵盤上的 1 或 2，或按 [ 或 ].</translation>
     </message>
 </context>
 <context>
@@ -1279,7 +1279,8 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>按兩下貼圖視窗會使其關閉。
+你可以在偏好設定視窗中（控制 - 滑鼠）變更此動作。</translation>
     </message>
 </context>
 <context>
@@ -1344,7 +1345,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>你需要先啟用 UAC（使用者帳戶控制）才能完成購買。</translation>
     </message>
 </context>
 <context>
@@ -3055,7 +3056,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation>預設標註:</translation>
+        <translation>預設標註：</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -3069,7 +3070,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>File name:</source>
-        <translation>檔案名稱:</translation>
+        <translation>檔案名稱：</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -3093,7 +3094,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation>放大倍數:</translation>
+        <translation>放大倍數：</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
@@ -3117,7 +3118,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>自動</translation>
     </message>
 </context>
 <context>
