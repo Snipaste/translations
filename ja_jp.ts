@@ -5,11 +5,11 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation>%1を押してRGB/HEXを切替</translation>
+        <translation>%1を押してRGB/HEX（16進数）表記を切り替えできる</translation>
     </message>
     <message>
         <source>Press %1 to copy color</source>
-        <translation>%1を押して色をコピーする</translation>
+        <translation>%1を押して色をコピーできる</translation>
     </message>
 </context>
 <context>
@@ -27,11 +27,11 @@
     <name>FvUpdater</name>
     <message>
         <source>Please try later.</source>
-        <translation>後でやり直してください。</translation>
+        <translation>後でもう一度やり直してください</translation>
     </message>
     <message>
         <source>Unable to download updates.</source>
-        <translation>更新をダウンロードすることができません。</translation>
+        <translation>更新をダウンロードすることができません</translation>
     </message>
     <message>
         <source>Downloading</source>
@@ -39,12 +39,12 @@
     </message>
     <message>
         <source>Download complete.</source>
-        <translation>ダウンロード完了。</translation>
+        <translation>ダウンロード完了</translation>
     </message>
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation>更新のダウンロードに失敗、ネットワークにエラー発生: %1</translation>
+        <translation>更新のダウンロードに失敗しました、ネットワークエラー: %1</translation>
     </message>
     <message>
         <source>Redirecting</source>
@@ -65,7 +65,7 @@ Network Error: %1</source>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation>更新フィードにエラー発生 (%1)。開発者に連絡してください。</translation>
+        <translation>更新フィードにエラー発生 (%1)。開発者に連絡してください</translation>
     </message>
     <message>
         <source>Error</source>
@@ -73,7 +73,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation>ファイルハッシュが一致していません。</translation>
+        <translation>ファイルのハッシュが一致していません</translation>
     </message>
     <message>
         <source>Please retry.</source>
@@ -89,11 +89,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Unzipped successfully.</source>
-        <translation>解凍が成功しました。</translation>
+        <translation>解凍に成功しました。</translation>
     </message>
     <message>
         <source>Restarting</source>
-        <translation>再起動中</translation>
+        <translation>再起動中...</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
@@ -123,7 +123,7 @@ Please contact the developer.</source>
     <name>HelpDialog</name>
     <message>
         <source>Visit Online</source>
-        <translation>オンライン訪問</translation>
+        <translation>ドキュメントにアクセス</translation>
     </message>
     <message>
         <source>Basic Operations</source>
@@ -405,12 +405,12 @@ Please contact the developer.</source>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>ご協力ありがとうございました！
-PRO機能を楽しむために今すぐ再起動しますか？</translation>
+        <translation>ご購入ありがとうございます！
+PRO機能を利用するために今すぐSnipasteを再起動しますか？</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>確認</translation>
+        <translation>今すぐ再起動</translation>
     </message>
     <message>
         <source>Later</source>
@@ -1569,7 +1569,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>&quot;%1&quot; を終了しますか? この操作は元に戻すことはできません。</translation>
+        <translation>&quot;%1&quot; を終了しますか？この操作は元に戻すことはできません。</translation>
     </message>
     <message>
         <source>Images</source>
@@ -3086,11 +3086,11 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのタスクビュー（仮想デスクトップ）上に表示する</translation>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation type="unfinished"></translation>
+        <translation>拡大倍率</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
