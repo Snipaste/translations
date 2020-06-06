@@ -35,7 +35,7 @@
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation>文件校验值不匹配。</translation>
+        <translation>文件哈希值不匹配。</translation>
     </message>
     <message>
         <source>Please retry.</source>
