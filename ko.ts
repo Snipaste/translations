@@ -5,7 +5,7 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation>[%1] 색상선택기</translation>
+        <translation>[%1] 색상복사</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
@@ -16,7 +16,7 @@
     <name>CustomSnipDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation>프리셋 수정</translation>
+        <translation>프리셋 편집</translation>
     </message>
     <message>
         <source>s</source>
@@ -31,7 +31,7 @@
     </message>
     <message>
         <source>Download complete.</source>
-        <translation>다운로드가 완료.</translation>
+        <translation>다운로드 완료</translation>
     </message>
     <message>
         <source>Error</source>
@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Please retry.</source>
-        <translation>재시도 해 보세요</translation>
+        <translation>재시도 해보세요</translation>
     </message>
     <message>
         <source>Writing downloaded file into</source>
-        <translation>다운로드 한 파일을 쓰는 중</translation>
+        <translation>다운로드된 파일을 쓰는 중</translation>
     </message>
     <message>
         <source>Do you have write access to %1?</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Saved successfully.</source>
-        <translation>저장 완료</translation>
+        <translation>저장완료</translation>
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
@@ -75,29 +75,29 @@
     </message>
     <message>
         <source>Downloading</source>
-        <translation>다운로드 중</translation>
+        <translation>다운로드중</translation>
     </message>
     <message>
         <source>Retrying</source>
-        <translation>재시도 중</translation>
+        <translation>재시도중</translation>
     </message>
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation>네트워크 에러로 다운로드가 실패했습니다 : %1</translation>
+        <translation>네트워크 오류로 다운로드가 실패했습니다 : %1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation>업데이트중에 문제가 발생했습니다. 개발자에게 연락해 보세요</translation>
+        <translation>업데이트중 문제가 발생했습니다. 개발자에게 연락해 보세요</translation>
     </message>
     <message>
         <source>Restarting</source>
-        <translation>재시작 중</translation>
+        <translation>재시작중</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation>새 버전의 Snipaste 다운</translation>
+        <translation>새 버전의 Snipaste 다운로드</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -186,11 +186,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>번들 이름 / 경로를 쉼표로 구분하여 입력하십시오 (예 : snipaste.app, games/*)</translation>
+        <translation>번들이름 / 경로를 쉼표로 구분하여 입력하십시오 (예 : snipaste.app, games/*)</translation>
     </message>
     <message>
         <source>More examples...</source>
-        <translation>샘플 추가 보기</translation>
+        <translation>추가적인 예제보기</translation>
     </message>
 </context>
 <context>
@@ -201,7 +201,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
-        <translation>토글 : 윈도우 창 / 요소 감지</translation>
+        <translation>토글 : 윈도우창 / 요소감지</translation>
     </message>
     <message>
         <source>Set the snipping area to fullscreen</source>
@@ -229,11 +229,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
-        <translation>스크린 샷을 화면에 직접 붙여 넣기</translation>
+        <translation>스크린샷을 화면에 직접 붙여넣기</translation>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
-        <translation>스크린 샷을 복사하고 스니핑을 종료합니다.</translation>
+        <translation>스크린샷을 복사하고 스니핑을 종료합니다.</translation>
     </message>
     <message>
         <source>Abort snipping</source>
@@ -269,15 +269,15 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
-        <translation>페인트 바 숨기기 / 이미지 창 닫기</translation>
+        <translation>페인트바 숨기기 / 이미지창 닫기</translation>
     </message>
     <message>
         <source>Destroy the image window</source>
-        <translation>이미지 윈도우 죽이기</translation>
+        <translation>이미지윈도우 죽이기</translation>
     </message>
     <message>
         <source>Copy the plain text (if this image is converted from text)</source>
-        <translation>일반 텍스트 복사 (이 이미지가 텍스트에서 변환 된 경우)</translation>
+        <translation>일반텍스트 복사 (이 이미지가 텍스트에서 변환됐을때)</translation>
     </message>
     <message>
         <source>Replace the image with the content in the clipboard</source>
@@ -285,7 +285,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Open the Preferences Dialog</source>
-        <translation>환경설정 대화상자 열기</translation>
+        <translation>환경설정 열기</translation>
     </message>
     <message>
         <source>Common:</source>
@@ -297,11 +297,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle the color formats if the magnifier is visible</source>
-        <translation>토글 : 돋보기에 보이는 색상 포맷</translation>
+        <translation>토글 : 돋보기에 보이는 색상형식</translation>
     </message>
     <message>
         <source>Copy the color value if the magnifier is visible</source>
-        <translation>돋보기에 보이는 색상 값을 복사</translation>
+        <translation>돋보기에 보이는 색상값을 복사</translation>
     </message>
     <message>
         <source>Move the cursor by 1 pixel</source>
@@ -313,7 +313,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
-        <translation>편집하지 않으면 snipping 영역 / 이미지 창을 1 픽셀 씩 이동합니다.</translation>
+        <translation>편집하지 않으면 snipping 영역 / 이미지창을 1 픽셀씩 이동합니다.</translation>
     </message>
     <message>
         <source>Space</source>
@@ -321,7 +321,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show/Hide the paint bar</source>
-        <translation>페인트 바 보이기/감추기</translation>
+        <translation>페인트바 보이기/감추기</translation>
     </message>
     <message>
         <source>Undo the last edit (can be redone later)</source>
@@ -353,7 +353,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Finish editing current shape when in edit mode</source>
-        <translation>편집 모드에서 현재 모양 편집 완료</translation>
+        <translation>편집모드에서 현재 모양편집 완료</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
@@ -361,7 +361,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation>편집 모드에서 펜 폭 감소 / 증가</translation>
+        <translation>편집모드에서 펜 폭 감소 / 증가</translation>
     </message>
     <message>
         <source>or</source>
