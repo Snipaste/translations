@@ -403,11 +403,11 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Désélectionnez la forme actuelle si vous êtes en mode édition</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuer/Augmenter la largeur du stylet en mode édition</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
