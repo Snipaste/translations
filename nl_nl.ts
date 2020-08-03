@@ -403,43 +403,43 @@ Informeer alsjeblieft de maker.</translation>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak de selectie van de huidige vorm ongedaan in de bewerkingsmodus</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Verklein/vergroot de pendikte in de bewerkingsmodus</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>De laatste knipgebieden opnieuw gebruiken</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>Knipgeschiedenis opnieuw toepassen</translation>
     </message>
     <message>
         <source>Capture full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Volledig scherm vastleggen</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Het knipgebied met 1 pixel verplaatsen</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>De pendikte aanpassen</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>Boven- of onderliggend element selecteren</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
-        <translation type="unfinished"></translation>
+        <translation>Het gebied vanuit het midden vergroten</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie van bewerkt item ongedaan maken</translation>
     </message>
 </context>
 <context>
@@ -1039,11 +1039,11 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoekradius:</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alpha:</translation>
     </message>
 </context>
 <context>
@@ -1334,11 +1334,11 @@ Je kunt dit gedrag instellen bij Instellingen: Beheer - Muis.</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporteer geselecteerde afbeeldingen naar...</translation>
     </message>
     <message>
         <source>Output Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitvoeropties</translation>
     </message>
 </context>
 <context>
@@ -1574,7 +1574,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished">Opnamelijsten wissen</translation>
+        <translation>Opnamelijsten wissen</translation>
     </message>
 </context>
 <context>
@@ -1821,15 +1821,15 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Punts (pt)</translation>
     </message>
     <message>
         <source>Device pixel (dp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Apparaat-pixels (dp)</translation>
     </message>
     <message>
         <source>Logical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Logische pixels (px)</translation>
     </message>
 </context>
 <context>
@@ -1940,11 +1940,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>De PRO-versie biedt meer dan 30 handige functies!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Met de licentie kun je alle Snipaste 2.x-updates voor altijd gebruiken.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
@@ -3208,30 +3208,30 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderliggende map openen</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Sneltoets-tips tonen</translation>
     </message>
     <message>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Negeer de &quot;Ccopy&quot;-opdracht afkomstig van andere toepassingen</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitvoeropties:</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw:</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand:</translation>
     </message>
 </context>
 <context>
@@ -3317,7 +3317,7 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     </message>
     <message>
         <source>Pen style</source>
-        <translation type="unfinished"></translation>
+        <translation>Penstijl</translation>
     </message>
 </context>
 <context>
