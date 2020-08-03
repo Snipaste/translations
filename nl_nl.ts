@@ -3216,7 +3216,7 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     </message>
     <message>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Negeer de &quot;Ccopy&quot;-opdracht afkomstig van andere toepassingen</translation>
     </message>
 </context>
 <context>
