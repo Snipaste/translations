@@ -1,7 +1,5 @@
 # [Snipaste](https://snipaste.com) Translations
 
-## Contribute
-
 <a href="http://translations.snipaste.com/engage/snipaste/?utm_source=widget">
 <img src="http://translations.snipaste.com/widgets/snipaste/-/287x66-white.png" alt="Translation status" />
 </a>
