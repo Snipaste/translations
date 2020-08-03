@@ -353,7 +353,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Finish editing current shape when in edit mode</source>
-        <translation>편집 모드에서 현재 모양 편집 완료</translation>
+        <translation type="vanished">편집 모드에서 현재 모양 편집 완료</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
@@ -361,7 +361,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation>편집 모드에서 펜 폭 감소 / 증가</translation>
+        <translation type="vanished">편집 모드에서 펜 폭 감소 / 증가</translation>
     </message>
     <message>
         <source>or</source>
@@ -398,6 +398,46 @@ Please contact the developer.</source>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
         <translation>마우스 스크롤 또는 1/2 또는 [/]</translation>
+    </message>
+    <message>
+        <source>Deselect the current shape if in edit mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease/Increase the pen width if in edit mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reuse last snipping areas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replay snipping history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Capture full screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move the snipping area by 1 pixel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust the pen width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select parent/child UI element</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize the area from center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deselct the editing item</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -926,7 +966,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation>텍스트 상자의 모서리를 끌어서 텍스트 크기를 변경할 수 있습니다.</translation>
+        <translation type="vanished">텍스트 상자의 모서리를 끌어서 텍스트 크기를 변경할 수 있습니다.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -951,23 +991,23 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Copy with shadow</source>
         <translatorcomment>(</translatorcomment>
-        <translation>(그림자 포함) 클립보드에 복사</translation>
+        <translation type="vanished">(그림자 포함) 클립보드에 복사</translation>
     </message>
     <message>
         <source>Save with shadow</source>
-        <translation>(그림자 포함) 저장</translation>
+        <translation type="vanished">(그림자 포함) 저장</translation>
     </message>
     <message>
         <source>Copy without shadow</source>
-        <translation>(그림자 제외) 클립보드로 복사</translation>
+        <translation type="vanished">(그림자 제외) 클립보드로 복사</translation>
     </message>
     <message>
         <source>Save without shadow</source>
-        <translation>(그림자 제외) 저장</translation>
+        <translation type="vanished">(그림자 제외) 저장</translation>
     </message>
     <message>
         <source>Radius:</source>
-        <translation>반지름 : </translation>
+        <translation type="vanished">반지름 : </translation>
     </message>
     <message>
         <source>Width:</source>
@@ -992,6 +1032,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation>펜 너비를 변경하려면 마우스 휠을 스크롤하거나 &apos;1&apos;또는 &apos;2&apos;를, 아니면 &apos;[&apos;또는 &apos;]&apos;를 누르십시오.</translation>
+    </message>
+    <message>
+        <source>Corner radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alpha:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1197,7 +1245,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Copy image with shadow</source>
-        <translation>그림자가있는 이미지 복사</translation>
+        <translation type="vanished">그림자가있는 이미지 복사</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
@@ -1205,11 +1253,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation>스케일이없는 이미지를 그림자로 복사</translation>
+        <translation type="vanished">스케일이없는 이미지를 그림자로 복사</translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
-        <translation>그림자가있는 이미지를 다른 이름으로 저장 ...</translation>
+        <translation type="vanished">그림자가있는 이미지를 다른 이름으로 저장 ...</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1265,7 +1313,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Save unscaled image with shadow as...</source>
-        <translation>그림자가없는 비 스케일 이미지를 다른 이름으로 저장...</translation>
+        <translation type="vanished">그림자가없는 비 스케일 이미지를 다른 이름으로 저장...</translation>
     </message>
     <message>
         <source>Invert color</source>
@@ -1279,6 +1327,14 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation>이미지 창을 두 번 클릭하면 창이 닫힙니다. 기본 설정 대화 상자 : 제어- 마우스에서 이 동작을 구성 할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Export selected images to...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output Options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1510,6 +1566,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation>투명한 화이트 보드 모드로 전환 (종료하려면 Esc를 두 번 탭)</translation>
+    </message>
+    <message>
+        <source>Clear snip records</source>
+        <translation type="unfinished">캡춰 기록 삭제</translation>
     </message>
 </context>
 <context>
@@ -1755,6 +1815,18 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Do not show this again</source>
         <translation>다시 보지 않음</translation>
     </message>
+    <message>
+        <source>Point (pt)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device pixel (dp)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical pixel (px)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>UnlockProDialog</name>
@@ -1796,7 +1868,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation>PRO 버전은 20 가지 이상의 어마무시한 새 기능을 제공합니다!</translation>
+        <translation type="vanished">PRO 버전은 20 가지 이상의 어마무시한 새 기능을 제공합니다!</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -1817,7 +1889,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter license key</source>
-        <translation>라이센스 키 입력</translation>
+        <translation type="vanished">라이센스 키 입력</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -1862,6 +1934,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error code</source>
         <translation>에러코드</translation>
+    </message>
+    <message>
+        <source>The PRO version unlocks more than 30 useful features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter license key:</source>
+        <translation>라이센스 키 입력:</translation>
     </message>
 </context>
 <context>
@@ -3110,6 +3194,33 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Auto</source>
         <translation>자동</translation>
     </message>
+    <message>
+        <source>Open containing folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show key binding tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>outputoptionswidget</name>
+    <message>
+        <source>Output Options:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Border:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
@@ -3191,6 +3302,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Font scale</source>
         <translation>폰트 크기</translation>
+    </message>
+    <message>
+        <source>Pen style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

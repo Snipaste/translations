@@ -375,7 +375,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Finish editing current shape when in edit mode</source>
-        <translation>Düzenleme modunda iken mevcut şekli düzenlemeyi bitirin</translation>
+        <translation type="vanished">Düzenleme modunda iken mevcut şekli düzenlemeyi bitirin</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
@@ -383,7 +383,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation>Düzenleme modunda kalem genişliğini azalt/arttır</translation>
+        <translation type="vanished">Düzenleme modunda kalem genişliğini azalt/arttır</translation>
     </message>
     <message>
         <source>Close the image window</source>
@@ -399,6 +399,46 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deselect the current shape if in edit mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease/Increase the pen width if in edit mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reuse last snipping areas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replay snipping history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Capture full screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move the snipping area by 1 pixel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust the pen width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select parent/child UI element</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize the area from center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deselct the editing item</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -927,7 +967,7 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation>Metin boyutunu değiştirmek için metin kutusunun köşesinden sürükleyebilirsiniz.</translation>
+        <translation type="vanished">Metin boyutunu değiştirmek için metin kutusunun köşesinden sürükleyebilirsiniz.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -955,23 +995,11 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Copy with shadow</source>
-        <translation>Gölgeyle kopyala</translation>
+        <translation type="vanished">Gölgeyle kopyala</translation>
     </message>
     <message>
         <source>Save with shadow</source>
-        <translation>Gölgeyle kaydet</translation>
-    </message>
-    <message>
-        <source>Copy without shadow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save without shadow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Radius:</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Gölgeyle kaydet</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -995,6 +1023,14 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Corner radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alpha:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1200,7 +1236,7 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Copy image with shadow</source>
-        <translation>Görüntüyü gölgeyle kopyala</translation>
+        <translation type="vanished">Görüntüyü gölgeyle kopyala</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
@@ -1208,11 +1244,11 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation>Ölçeklenmemiş görüntüyü gölgeyle kopyala</translation>
+        <translation type="vanished">Ölçeklenmemiş görüntüyü gölgeyle kopyala</translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
-        <translation>Görüntüyü gölgeyle farklı kaydet...</translation>
+        <translation type="vanished">Görüntüyü gölgeyle farklı kaydet...</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1267,10 +1303,6 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save unscaled image with shadow as...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Invert color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1281,6 +1313,14 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export selected images to...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output Options</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1514,6 +1554,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear snip records</source>
+        <translation type="unfinished">Kırpma kayıtlarını temizle</translation>
     </message>
 </context>
 <context>
@@ -1758,6 +1802,18 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Do not show this again</source>
         <translation>Bunu tekrar gösterme</translation>
     </message>
+    <message>
+        <source>Point (pt)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device pixel (dp)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical pixel (px)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>UnlockProDialog</name>
@@ -1799,7 +1855,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation>PRO sürümü 20&apos;den fazla yararlı yeni özellik sağlar!</translation>
+        <translation type="vanished">PRO sürümü 20&apos;den fazla yararlı yeni özellik sağlar!</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -1819,7 +1875,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter license key</source>
-        <translation>Lisans anahtarını girin</translation>
+        <translation type="vanished">Lisans anahtarını girin</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -1864,6 +1920,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error code</source>
         <translation>Hata kodu</translation>
+    </message>
+    <message>
+        <source>The PRO version unlocks more than 30 useful features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter license key:</source>
+        <translation>Lisans anahtarını girin:</translation>
     </message>
 </context>
 <context>
@@ -3121,6 +3189,33 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
         <source>Auto</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open containing folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show key binding tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>outputoptionswidget</name>
+    <message>
+        <source>Output Options:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Border:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
@@ -3201,6 +3296,10 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     </message>
     <message>
         <source>Font scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pen style</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

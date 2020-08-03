@@ -373,7 +373,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Finish editing current shape when in edit mode</source>
-        <translation>Dokončit úpravy aktuálního tvaru v režimu úprav</translation>
+        <translation type="vanished">Dokončit úpravy aktuálního tvaru v režimu úprav</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
@@ -381,7 +381,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation>Zmenšit / zvětšit šířku pera v režimu úprav</translation>
+        <translation type="vanished">Zmenšit / zvětšit šířku pera v režimu úprav</translation>
     </message>
     <message>
         <source>Close the image window</source>
@@ -397,6 +397,46 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deselect the current shape if in edit mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease/Increase the pen width if in edit mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reuse last snipping areas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replay snipping history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Capture full screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move the snipping area by 1 pixel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust the pen width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select parent/child UI element</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize the area from center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deselct the editing item</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -918,10 +958,6 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -940,26 +976,6 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
     <message>
         <source>Outline</source>
         <translation>Obrys</translation>
-    </message>
-    <message>
-        <source>Copy with shadow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save with shadow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy without shadow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save without shadow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Radius:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Width:</source>
@@ -983,6 +999,14 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Corner radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alpha:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1034,15 +1058,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>Kopírovat obrázek</translation>
     </message>
     <message>
-        <source>Copy image with shadow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Copy unscaled image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy unscaled image with shadow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1052,10 +1068,6 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Restore</source>
         <translation>Obnovit</translation>
-    </message>
-    <message>
-        <source>Save image with shadow as...</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy annotation text</source>
@@ -1254,10 +1266,6 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save unscaled image with shadow as...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Invert color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1268,6 +1276,14 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export selected images to...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output Options</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1500,6 +1516,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear snip records</source>
+        <translation type="unfinished">Vyčistit záznamy výstřižků</translation>
     </message>
 </context>
 <context>
@@ -1744,6 +1764,18 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Do not show this again</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Point (pt)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device pixel (dp)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical pixel (px)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>UnlockProDialog</name>
@@ -1784,10 +1816,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1802,10 +1830,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>Zrušit</translation>
-    </message>
-    <message>
-        <source>Enter license key</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Activate</source>
@@ -1849,6 +1873,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Error code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PRO version unlocks more than 30 useful features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter license key:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3103,6 +3139,33 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
         <source>Auto</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open containing folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show key binding tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>outputoptionswidget</name>
+    <message>
+        <source>Output Options:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Border:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
@@ -3183,6 +3246,10 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
     </message>
     <message>
         <source>Font scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pen style</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

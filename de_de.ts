@@ -353,7 +353,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Finish editing current shape when in edit mode</source>
-        <translation>Bearbeitung der aktuellen Form beenden, wenn im Editiermodus</translation>
+        <translation type="vanished">Bearbeitung der aktuellen Form beenden, wenn im Editiermodus</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
@@ -361,7 +361,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation>Verkleinern / Vergrößern der Stiftbreite im Bearbeitungsmodus</translation>
+        <translation type="vanished">Verkleinern / Vergrößern der Stiftbreite im Bearbeitungsmodus</translation>
     </message>
     <message>
         <source>or</source>
@@ -398,6 +398,46 @@ Please contact the developer.</source>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
         <translation>Maus-Scrollen oder 1/2 oder [/]]</translation>
+    </message>
+    <message>
+        <source>Deselect the current shape if in edit mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease/Increase the pen width if in edit mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reuse last snipping areas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replay snipping history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Capture full screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move the snipping area by 1 pixel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust the pen width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select parent/child UI element</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize the area from center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deselct the editing item</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -930,7 +970,7 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>You can drag the corner of the text box to change the text size.</source>
-        <translation>Sie können an den Ecken des Textfeldes ziehen, um die Schriftgröße zu ändern.</translation>
+        <translation type="vanished">Sie können an den Ecken des Textfeldes ziehen, um die Schriftgröße zu ändern.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -954,23 +994,23 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Copy with shadow</source>
-        <translation>Kopiere mit Schatten</translation>
+        <translation type="vanished">Kopiere mit Schatten</translation>
     </message>
     <message>
         <source>Save with shadow</source>
-        <translation>Speichere mit Schatten</translation>
+        <translation type="vanished">Speichere mit Schatten</translation>
     </message>
     <message>
         <source>Copy without shadow</source>
-        <translation>Kopiere ohne Schatten</translation>
+        <translation type="vanished">Kopiere ohne Schatten</translation>
     </message>
     <message>
         <source>Save without shadow</source>
-        <translation>Speichere ohne Schatten</translation>
+        <translation type="vanished">Speichere ohne Schatten</translation>
     </message>
     <message>
         <source>Radius:</source>
-        <translation>Radius:</translation>
+        <translation type="vanished">Radius:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -995,6 +1035,14 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation>Um die Stiftbreite zu ändern, scrollen Sie bitte mit dem Mausrad oder drücken Sie &apos;1&apos; oder &apos;2&apos; oder drücken Sie &apos;[&apos; oder &apos;]&apos;.</translation>
+    </message>
+    <message>
+        <source>Corner radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alpha:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1199,7 +1247,7 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     </message>
     <message>
         <source>Copy image with shadow</source>
-        <translation>Kopiere Bild mit Schatten</translation>
+        <translation type="vanished">Kopiere Bild mit Schatten</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
@@ -1207,11 +1255,11 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     </message>
     <message>
         <source>Copy unscaled image with shadow</source>
-        <translation>Nicht skaliertes Bild mit Schatten kopieren</translation>
+        <translation type="vanished">Nicht skaliertes Bild mit Schatten kopieren</translation>
     </message>
     <message>
         <source>Save image with shadow as...</source>
-        <translation>Speichere Bild mit Schatten als...</translation>
+        <translation type="vanished">Speichere Bild mit Schatten als...</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1267,7 +1315,7 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
     </message>
     <message>
         <source>Save unscaled image with shadow as...</source>
-        <translation>Speichern Sie das unskalierte Bild mit Schatten als...</translation>
+        <translation type="vanished">Speichern Sie das unskalierte Bild mit Schatten als...</translation>
     </message>
     <message>
         <source>Invert color</source>
@@ -1282,6 +1330,14 @@ Den Hotkey für  das Durchklicken mit der Maus finden Sie unter  &apos;Einstellu
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation>Durch Doppelklicken auf das Bildfenster wird das Fenster geschlossen.
 Sie können dieses Verhalten im Dialogfeld &quot;Einstellungen&quot; konfigurieren: Steuerung - Maus.</translation>
+    </message>
+    <message>
+        <source>Export selected images to...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output Options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1514,6 +1570,10 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation>Aktivieren Sie den transparenten Whiteboard-Modus (Tippen Sie zum Beenden zweimal auf Esc)</translation>
+    </message>
+    <message>
+        <source>Clear snip records</source>
+        <translation type="unfinished">Aufnahme-Einträge löschen</translation>
     </message>
 </context>
 <context>
@@ -1758,6 +1818,18 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <source>Do not show this again</source>
         <translation>Nicht mehr anzeigen</translation>
     </message>
+    <message>
+        <source>Point (pt)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device pixel (dp)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical pixel (px)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>UnlockProDialog</name>
@@ -1799,7 +1871,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>The PRO version provides more than 20 useful new features!</source>
-        <translation>Die PRO-Version bietet mehr als 20 nützliche neue Funktionen!</translation>
+        <translation type="vanished">Die PRO-Version bietet mehr als 20 nützliche neue Funktionen!</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -1819,7 +1891,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Enter license key</source>
-        <translation>Lizenzschlüssel eingeben</translation>
+        <translation type="vanished">Lizenzschlüssel eingeben</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -1864,6 +1936,18 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Error code</source>
         <translation>Fehlercode</translation>
+    </message>
+    <message>
+        <source>The PRO version unlocks more than 30 useful features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter license key:</source>
+        <translation>Lizenzschlüssel eingeben:</translation>
     </message>
 </context>
 <context>
@@ -3119,6 +3203,33 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
         <source>Auto</source>
         <translation>Automatisch</translation>
     </message>
+    <message>
+        <source>Open containing folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show key binding tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>outputoptionswidget</name>
+    <message>
+        <source>Output Options:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Border:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
@@ -3200,6 +3311,10 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
     <message>
         <source>Font scale</source>
         <translation>Schriftgröße</translation>
+    </message>
+    <message>
+        <source>Pen style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
