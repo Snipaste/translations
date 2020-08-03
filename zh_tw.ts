@@ -417,7 +417,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Capture full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>擷取全螢幕</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
