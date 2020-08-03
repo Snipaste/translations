@@ -431,7 +431,7 @@ Informeer alsjeblieft de maker.</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished">Boven/onderliggend element selecteren</translation>
+        <translation>Boven- of onderliggend element selecteren</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
@@ -3223,15 +3223,15 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitvoeropties:</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw:</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand:</translation>
     </message>
 </context>
 <context>
@@ -3317,7 +3317,7 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     </message>
     <message>
         <source>Pen style</source>
-        <translation type="unfinished"></translation>
+        <translation>Penstijl</translation>
     </message>
 </context>
 <context>
