@@ -438,7 +438,7 @@ Por favor contacte o autor.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Deselct the editing item</source>
+        <source>Deselect the editing item</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

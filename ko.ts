@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ko">
 <context>
@@ -436,7 +436,7 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Deselct the editing item</source>
+        <source>Deselect the editing item</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

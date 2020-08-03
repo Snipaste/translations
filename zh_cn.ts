@@ -436,7 +436,7 @@ Please contact the developer.</source>
         <translation>从中心调整区域大小</translation>
     </message>
     <message>
-        <source>Deselct the editing item</source>
+        <source>Deselect the editing item</source>
         <translation>取消选中当前标注</translation>
     </message>
 </context>
