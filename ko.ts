@@ -31,7 +31,7 @@
     </message>
     <message>
         <source>Download complete.</source>
-        <translation>다운로드가 완료.</translation>
+        <translation>다운로드 완료.</translation>
     </message>
     <message>
         <source>Error</source>
