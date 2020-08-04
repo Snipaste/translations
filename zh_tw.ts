@@ -401,19 +401,19 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>取消選擇目前選擇的形狀（編輯模式時）</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>調整畫筆粗細（編輯模式時）</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>使用上一次擷取螢幕的區域</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>回溯擷取螢幕歷史</translation>
     </message>
     <message>
         <source>Capture full screen</source>
@@ -421,23 +421,23 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>將擷取螢幕區域移動 1 像素</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>調整畫筆粗細</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇上一層/下一層介面元素</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
-        <translation type="unfinished"></translation>
+        <translation>從中心調整區域大小</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>取消選取目前標註</translation>
     </message>
 </context>
 <context>
@@ -1037,11 +1037,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>圓角半徑:</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>不透明度:</translation>
     </message>
 </context>
 <context>
@@ -1332,11 +1332,11 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Export selected images to...</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出選擇的貼圖...</translation>
     </message>
     <message>
         <source>Output Options</source>
-        <translation type="unfinished"></translation>
+        <translation>輸出選項</translation>
     </message>
 </context>
 <context>
@@ -1573,7 +1573,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished">清除擷圖記錄</translation>
+        <translation>清除擷圖記錄</translation>
     </message>
 </context>
 <context>
@@ -1820,15 +1820,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>點 (pt)</translation>
     </message>
     <message>
         <source>Device pixel (dp)</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置像素 (dp)</translation>
     </message>
     <message>
         <source>Logical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>邏輯像素 (px)</translation>
     </message>
 </context>
 <context>
@@ -1939,11 +1939,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>專業版可解鎖 30 多種實用功能！</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>永久使用，子版本免費更新。</translation>
     </message>
     <message>
         <source>Enter license key:</source>
@@ -3206,30 +3206,30 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟所在資料夾</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示快速鍵提示</translation>
     </message>
     <message>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>略過其他程式模擬的&quot;複製&quot;命令</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>輸出選項:</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation>陰影:</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>邊框:</translation>
     </message>
 </context>
 <context>
@@ -3315,7 +3315,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Pen style</source>
-        <translation type="unfinished"></translation>
+        <translation>畫筆樣式</translation>
     </message>
 </context>
 <context>
