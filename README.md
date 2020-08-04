@@ -5,7 +5,8 @@
 </a>
 
 Click the banner above to start translating Snipaste into your language!
-If you do not have an account yet, just [let me know](mailto:snipaste.app@gmail.com). :)
+
+If you do not have an account yet, just [let me know](mailto:snipaste.app@gmail.com).
 
 ## Status
 
