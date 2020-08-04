@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ko">
 <context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation>[%1] 색상선택기</translation>
+        <translation>[%1] 색상코드 복사하기기</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation>[%1] RGB/HEX 값 전환</translation>
+        <translation>[%1] RGB/HEX 값 바꾸기</translation>
     </message>
 </context>
 <context>
@@ -401,43 +401,43 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>편집모드일 경우 현재 모양 선택을 취소합니다</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>편집 모드 인 경우 펜 너비 감소/증가</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>마지막 캡춰 영역을 재사용 합니다</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>캡춰 히스토리를 재생합니다</translation>
     </message>
     <message>
         <source>Capture full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>전체 화면 캡춰</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>캡춰 영역을 1 픽셀 씩 이동</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>펜 너비 조정</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>부모 / 자식 UI 요소 선택</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
-        <translation type="unfinished"></translation>
+        <translation>중앙에서 영역 크기 조정</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>편집 항목을 선택 해제</translation>
     </message>
 </context>
 <context>
@@ -1035,11 +1035,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>모서리 반경 :</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>알파값 : </translation>
     </message>
 </context>
 <context>
@@ -1330,11 +1330,11 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Export selected images to...</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 이미지를 다음으로 내보내기</translation>
     </message>
     <message>
         <source>Output Options</source>
-        <translation type="unfinished"></translation>
+        <translation>내보내기 옵션</translation>
     </message>
 </context>
 <context>
@@ -1569,7 +1569,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished">캡춰 기록 삭제</translation>
+        <translation>캡춰기록 삭제</translation>
     </message>
 </context>
 <context>
@@ -1817,15 +1817,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Device pixel (dp)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Logical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1937,11 +1937,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO 버전은 30 가지 이상의 유용한 기능을 제공합니다!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>라이센스를 사용하면 모든 2.x 업데이트에서 Snipaste2를 영구적으로 사용할 수 있습니다.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
@@ -3196,30 +3196,30 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>폴더를여세요</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>키 바인딩 팁 표시</translation>
     </message>
     <message>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 응용 프로그램에서 시뮬레이션 한 &quot;Ccopy&quot;명령 무시</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>출력 옵션 : </translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3305,7 +3305,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Pen style</source>
-        <translation type="unfinished"></translation>
+        <translation>펜 스타일</translation>
     </message>
 </context>
 <context>
