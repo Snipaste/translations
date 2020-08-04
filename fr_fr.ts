@@ -411,35 +411,35 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Réutiliser les dernières zones de capture</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>Rejouer l&apos;historique de capture</translation>
     </message>
     <message>
         <source>Capture full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturer en plein écran</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer la zone de capture de 1 pixel</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>Régler la largeur du stylet</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez l&apos;élément UI parent/enfant</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionner zone depuis centre</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>Désélectionnez l&apos;élément d&apos;édition</translation>
     </message>
 </context>
 <context>
@@ -1039,11 +1039,11 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayon de l&apos;angle :</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alpha :</translation>
     </message>
 </context>
 <context>
@@ -1334,11 +1334,11 @@ Vous pouvez configurer ce comportement dans la boîte de dialogue Préférences:
     </message>
     <message>
         <source>Export selected images to...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter images sélectionnées vers...</translation>
     </message>
     <message>
         <source>Output Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options de sortie</translation>
     </message>
 </context>
 <context>
@@ -1574,7 +1574,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished">Effacer enregistrements de snip</translation>
+        <translation>Effacer enregistrements de coupe</translation>
     </message>
 </context>
 <context>
@@ -1821,15 +1821,15 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Point (pt)</translation>
     </message>
     <message>
         <source>Device pixel (dp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixel de l&apos;appareil (dp)</translation>
     </message>
     <message>
         <source>Logical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixel logique (px)</translation>
     </message>
 </context>
 <context>
@@ -1940,15 +1940,15 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>La version PRO débloque plus de 30 fonctionnalités utiles !</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>La licence vous permet d&apos;utiliser Snipaste 2 pour toujours avec toutes les mises à jour 2.x.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
-        <translation>Entrer clé de licence:</translation>
+        <translation>Entrer clé de licence :</translation>
     </message>
 </context>
 <context>
@@ -2334,7 +2334,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Run Snipaste when the operating system starts.</source>
-        <translation>Exécuter Snipaste au démarrage du  système d&apos;exploitation.</translation>
+        <translation>Exécuter Snipaste au démarrage du système.</translation>
     </message>
     <message>
         <source>Delay:</source>
@@ -3208,30 +3208,30 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir dossier contenant</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir les conseils clés sur la liaison</translation>
     </message>
     <message>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorer la commande &quot;Ccopy&quot; simulée par d&apos;autres applications</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Options de Sortie :</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombre :</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordure :</translation>
     </message>
 </context>
 <context>
@@ -3317,7 +3317,7 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     </message>
     <message>
         <source>Pen style</source>
-        <translation type="unfinished"></translation>
+        <translation>Style du stylo</translation>
     </message>
 </context>
 <context>

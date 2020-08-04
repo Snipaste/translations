@@ -401,43 +401,43 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseleccionar la forma actual si se encuentra en modo editar</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Disminuye/Incrementa el ancho de la pluma si se encuentra en modo editar</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Reutilizar las últimas áreas recortadas</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir historial de recortes</translation>
     </message>
     <message>
         <source>Capture full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturar pantalla completa</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el área recortada en 1 píxel</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar el ancho de la pluma</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar el elemento de UI padre/hijo</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionar el área desde el centro</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseleccionar el objeto de edición</translation>
     </message>
 </context>
 <context>
@@ -1034,11 +1034,11 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radio de esquina:</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfa:</translation>
     </message>
 </context>
 <context>
@@ -1328,11 +1328,11 @@ Puedes configurar esta acción en Preferencias - Control - Mouse.</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar imágenes seleccionada a...</translation>
     </message>
     <message>
         <source>Output Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de salida</translation>
     </message>
 </context>
 <context>
@@ -1567,7 +1567,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished">Limpiar registro de recortes</translation>
+        <translation>Limpiar registros de recortes</translation>
     </message>
 </context>
 <context>
@@ -1814,15 +1814,15 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto tipográfico (pt)</translation>
     </message>
     <message>
         <source>Device pixel (dp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Píxel del dispositivo (dp)</translation>
     </message>
     <message>
         <source>Logical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Píxel lógico (px)</translation>
     </message>
 </context>
 <context>
@@ -1933,11 +1933,11 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡La versión PRO desbloquea más de 30 funciones útiles!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>La licencia te permite usar Snipaste 2 para siempre con todas las actualizaciones 2.x.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
@@ -3201,30 +3201,30 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir carpeta contenedora</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar consejos de atajos de teclado</translation>
     </message>
     <message>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar el comando &quot;Copiar&quot; simulado por otras aplicaciones</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de salida:</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombra:</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde:</translation>
     </message>
 </context>
 <context>
@@ -3310,7 +3310,7 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
     </message>
     <message>
         <source>Pen style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de pluma</translation>
     </message>
 </context>
 <context>

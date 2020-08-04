@@ -395,7 +395,7 @@ Por favor contacte o autor.</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation>Seleccionar todas as janelas de  imagem visíveis [PRO</translation>
+        <translation>Seleccionar todas as janelas de imagem visíveis [PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
@@ -403,43 +403,43 @@ Por favor contacte o autor.</translation>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Desmarcar a forma actual no modo edição</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuir/Aumentar a largura da caneta no modo edição</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Reutilizar as últimas áreas de captura</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduzir histórico de capturas</translation>
     </message>
     <message>
         <source>Capture full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturar ecrã completo</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover a área de captura em 1 píxel</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar largura da caneta</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar elemento da IU principal/dependente</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionar a área a partir do centro</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>Desmarcar o item a editar</translation>
     </message>
 </context>
 <context>
@@ -1039,11 +1039,11 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>raio do canto:</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfa:</translation>
     </message>
 </context>
 <context>
@@ -1334,11 +1334,11 @@ Pode confidurar este comportamento em Preferências:Controlo - Rato.</translatio
     </message>
     <message>
         <source>Export selected images to...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar imagens seleccionadas para...</translation>
     </message>
     <message>
         <source>Output Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de saída</translation>
     </message>
 </context>
 <context>
@@ -1574,7 +1574,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished">Limpar registo de capturas</translation>
+        <translation>Limpar registo de capturas</translation>
     </message>
 </context>
 <context>
@@ -1821,15 +1821,15 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponto (pt)</translation>
     </message>
     <message>
         <source>Device pixel (dp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Píxel do dispositivo (dp)</translation>
     </message>
     <message>
         <source>Logical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Píxel lógico (px)</translation>
     </message>
 </context>
 <context>
@@ -1940,11 +1940,11 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>A versão PRO desbloqueia mais de 30 funcionalidades úteis!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>A licença permite-lhe usar o Snipaste 2 para sempre com todas as actualizações 2.x.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
@@ -3208,30 +3208,30 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir a pasta respectiva</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar dicas de ligações de teclas</translation>
     </message>
     <message>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar o comando &quot;Ccopy&quot; simulado por outros programas</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de saída:</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombra:</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>Borda:</translation>
     </message>
 </context>
 <context>
@@ -3317,7 +3317,7 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
     </message>
     <message>
         <source>Pen style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo da caneta</translation>
     </message>
 </context>
 <context>
