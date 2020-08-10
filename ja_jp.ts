@@ -190,7 +190,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>More examples...</source>
-        <translation>その他の例...</translation>
+        <translation>もっとの例...</translation>
     </message>
 </context>
 <context>
