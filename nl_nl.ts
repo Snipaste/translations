@@ -1825,11 +1825,19 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Device pixel (dp)</source>
-        <translation>Apparaat-pixels (dp)</translation>
+        <translation type="vanished">Apparaat-pixels (dp)</translation>
     </message>
     <message>
         <source>Logical pixel (px)</source>
-        <translation>Logische pixels (px)</translation>
+        <translation type="vanished">Logische pixels (px)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

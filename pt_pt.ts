@@ -1825,11 +1825,19 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>Device pixel (dp)</source>
-        <translation>Píxel do dispositivo (dp)</translation>
+        <translation type="vanished">Píxel do dispositivo (dp)</translation>
     </message>
     <message>
         <source>Logical pixel (px)</source>
-        <translation>Píxel lógico (px)</translation>
+        <translation type="vanished">Píxel lógico (px)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

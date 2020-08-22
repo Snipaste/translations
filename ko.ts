@@ -1820,12 +1820,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation></translation>
     </message>
     <message>
-        <source>Device pixel (dp)</source>
-        <translation></translation>
+        <source>Physical pixel (px)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Logical pixel (px)</source>
-        <translation></translation>
+        <source>Device-independent pixel (dip)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

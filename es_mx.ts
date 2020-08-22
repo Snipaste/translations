@@ -1818,11 +1818,19 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Device pixel (dp)</source>
-        <translation>Píxel del dispositivo (dp)</translation>
+        <translation type="vanished">Píxel del dispositivo (dp)</translation>
     </message>
     <message>
         <source>Logical pixel (px)</source>
-        <translation>Píxel lógico (px)</translation>
+        <translation type="vanished">Píxel lógico (px)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

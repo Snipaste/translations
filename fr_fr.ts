@@ -1825,11 +1825,19 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Device pixel (dp)</source>
-        <translation>Pixel de l&apos;appareil (dp)</translation>
+        <translation type="vanished">Pixel de l&apos;appareil (dp)</translation>
     </message>
     <message>
         <source>Logical pixel (px)</source>
-        <translation>Pixel logique (px)</translation>
+        <translation type="vanished">Pixel logique (px)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

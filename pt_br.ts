@@ -1825,11 +1825,19 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>Device pixel (dp)</source>
-        <translation>Pixel de dispositivo (dp)</translation>
+        <translation type="vanished">Pixel de dispositivo (dp)</translation>
     </message>
     <message>
         <source>Logical pixel (px)</source>
-        <translation>Pixel lógico (px)</translation>
+        <translation type="vanished">Pixel lógico (px)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
