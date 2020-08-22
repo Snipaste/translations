@@ -1833,11 +1833,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fysieke pixel (px)</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Apparaatonafhankelijke pixel (dip)</translation>
     </message>
 </context>
 <context>
