@@ -1832,11 +1832,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>物理像素 (px)</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置獨立畫素 (dip)</translation>
     </message>
 </context>
 <context>
