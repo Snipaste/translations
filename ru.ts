@@ -367,7 +367,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>или</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
