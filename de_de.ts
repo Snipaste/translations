@@ -1832,11 +1832,11 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Physikalische Pixel (px)</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Geräteunabhängiges Pixel (Dip)</translation>
     </message>
 </context>
 <context>
