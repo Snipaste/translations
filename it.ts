@@ -5,133 +5,135 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation>Premere %1 per copiare il colore</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation>Premere %1 per commutare fra RGB/HEX</translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare le preimpostazioni...</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
 </context>
 <context>
     <name>FvUpdater</name>
     <message>
         <source>Redirecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Reindirizzamento</translation>
     </message>
     <message>
         <source>Download complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Download completato.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;hash del file non corrisponde.</translation>
     </message>
     <message>
         <source>Please retry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per favore riprova.</translation>
     </message>
     <message>
         <source>Writing downloaded file into</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrittura del file scaricato in</translation>
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai accesso in scrittura a %1?</translation>
     </message>
     <message>
         <source>Saved successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvato correttamente.</translation>
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Si sono verificati errori di download! Codice d&apos;Errore HTTP: %1</translation>
     </message>
     <message>
         <source>Unzipped successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezippato correttamente.</translation>
     </message>
     <message>
         <source>Unable to download updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile scaricare gli aggiornamenti.</translation>
     </message>
     <message>
         <source>Please try later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per favore riprova più tardi.</translation>
     </message>
     <message>
         <source>Downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>Download in corso</translation>
     </message>
     <message>
         <source>Retrying</source>
-        <translation type="unfinished"></translation>
+        <translation>Sto riprovando</translation>
     </message>
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Download del feed non riuscito.
+Errore di rete: %1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>C&apos;è un problema nel feed di aggiornamento (%1).
+Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Restarting</source>
-        <translation type="unfinished"></translation>
+        <translation>Riavvio</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>La nuova versione di Snipaste è stata scaricata in:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra nel Finder</translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation>Installa ora</translation>
     </message>
 </context>
 <context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di chiudere i gruppi selezionati? Quest&apos;azione non può essere annullata.</translation>
     </message>
 </context>
 <context>
     <name>HelpDialog</name>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Aiuto</translation>
     </message>
     <message>
         <source>Visit Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Visita Online</translation>
     </message>
     <message>
         <source>Basic Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Operazioni Basilari</translation>
     </message>
     <message>
         <source>Key Bindings</source>
