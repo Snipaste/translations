@@ -137,93 +137,93 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>Associazioni dei tasti</translation>
     </message>
     <message>
         <source>Command Line Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzioni della riga di comando</translation>
     </message>
     <message>
         <source>Advanced Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazioni Avanzate</translation>
     </message>
     <message>
         <source>Troubleshooting</source>
-        <translation type="unfinished"></translation>
+        <translation>Risoluzione dei problemi</translation>
     </message>
     <message>
         <source>FAQ</source>
-        <translation type="unfinished"></translation>
+        <translation>FAQ</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro delle modifiche</translation>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Beta per Mac</translation>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funzioni PRO</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi comando</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler rimuovere questo comando?</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Il nome non può essere vuoto!</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Il comando non può essere vuoto!</translation>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserire i nomi/percorsi dei pacchetti separati da virgole (es.: snipaste.app, games/*)</translation>
     </message>
     <message>
         <source>More examples...</source>
-        <translation type="unfinished"></translation>
+        <translation>Altri esempi...</translation>
     </message>
 </context>
 <context>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cattura solo:</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterna tra rilevamento della finestra e rilevamento degli elementi</translation>
     </message>
     <message>
         <source>Set the snipping area to fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta l&apos;area di cattura all&apos;intero schermo</translation>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta la stessa area di cattura dell&apos;ultima cattura riuscita</translation>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
-        <translation type="unfinished"></translation>
+        <translation>Passa al record di cattura precedente</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
-        <translation type="unfinished"></translation>
+        <translation>Passa al record di cattura successivo</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrandisci l&apos;area di cattura di 1 pixel</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
