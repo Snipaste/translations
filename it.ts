@@ -227,7 +227,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Riduci l&apos;area di cattura di 1 pixel</translation>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
@@ -235,199 +235,199 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia lo screenshot ed esci dalla modalità cattura</translation>
     </message>
     <message>
         <source>Abort snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Interrompi la modalità cattura</translation>
     </message>
     <message>
         <source>Mouse right-click</source>
-        <translation type="unfinished"></translation>
+        <translation>Click destro del mouse</translation>
     </message>
     <message>
         <source>Re-decide the snipping area / abort snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Ridefinire l&apos;area di cattura / interrompere la cattura</translation>
     </message>
     <message>
         <source>Paste only:</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla solo:</translation>
     </message>
     <message>
         <source>Rotate the image clockwise by 90 degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruota l&apos;immagine di 90 gradi in senso orario</translation>
     </message>
     <message>
         <source>Rotate the image counter-clockwise by 90 degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruota l&apos;immagine di 90 gradi in senso antiorario</translation>
     </message>
     <message>
         <source>Flip the image horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Capovolgi l&apos;immagine orizzontalmente</translation>
     </message>
     <message>
         <source>Flip the image vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Capovolgi l&apos;immagine verticalmente</translation>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondere la barra di disegno o chiudere la finestra dell&apos;immagine</translation>
     </message>
     <message>
         <source>Destroy the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>Distruggi la finestra dell&apos;immagine</translation>
     </message>
     <message>
         <source>Copy the plain text (if this image is converted from text)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia il testo non formattato (se questa immagine è convertita dal testo)</translation>
     </message>
     <message>
         <source>Replace the image with the content in the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Sostituisci l&apos;immagine con il contenuto negli appunti</translation>
     </message>
     <message>
         <source>Open the Preferences Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri la finestra di dialogo Preferenze</translation>
     </message>
     <message>
         <source>Common:</source>
-        <translation type="unfinished"></translation>
+        <translation>Comune:</translation>
     </message>
     <message>
         <source>Show the magnifier if it is not visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra la lente d&apos;ingrandimento se non è visibile</translation>
     </message>
     <message>
         <source>Toggle the color formats if the magnifier is visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterna i formati colore se la lente d&apos;ingrandimento è visibile</translation>
     </message>
     <message>
         <source>Copy the color value if the magnifier is visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia il valore del colore se la lente d&apos;ingrandimento è visibile</translation>
     </message>
     <message>
         <source>Move the cursor by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta il cursore di 1 pixel</translation>
     </message>
     <message>
         <source>Arrow keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasti freccia</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Spostare l&apos;area di cattura/finestra dell&apos;immagine di 1 pixel se non in modifica</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Spazio</translation>
     </message>
     <message>
         <source>Show/Hide the paint bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra/Nasconde la barra di disegno</translation>
     </message>
     <message>
         <source>Undo the last edit (can be redone later)</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla l&apos;ultima modifica (può essere ripetuta in seguito)</translation>
     </message>
     <message>
         <source>Remove all edits (cannot be undone)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi tutte le modifiche (non può essere annullato)</translation>
     </message>
     <message>
         <source>Copy the image</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia l&apos;immagine</translation>
     </message>
     <message>
         <source>Restore the next edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina la modifica successiva</translation>
     </message>
     <message>
         <source>Save the image as a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva l&apos;immagine come file</translation>
     </message>
     <message>
         <source>Save the image to the Quick Save folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva l&apos;immagine nella cartella Salvataggio Rapido</translation>
     </message>
     <message>
         <source>Send the image to the printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia l&apos;immagine alla stampante</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>o</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra/Nascondi il cursore del mouse catturato</translation>
     </message>
     <message>
         <source>Comma</source>
-        <translation type="unfinished"></translation>
+        <translation>Virgola</translation>
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto</translation>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva/Disattiva la conversione in scala di grigi [PRO]</translation>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi la finestra dell&apos;immagine</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva/Disattiva inversione colore [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona tutte le finestre delle immagini visibili [PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>Scorrimento del mouse o 1/2 o [/]</translation>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseleziona la forma corrente se in modalità di modifica</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuire/Aumentare la larghezza della penna se in modalità di modifica</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Riutilizza le ultime aree di cattura</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripeti la cronologia delle catture</translation>
     </message>
     <message>
         <source>Capture full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Cattura lo schermo intero</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta l&apos;area di cattura di 1 pixel</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>Regola la larghezza della penna</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona l&apos;elemento padre/figlio dell&apos;interfaccia utente</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
-        <translation type="unfinished"></translation>
+        <translation>Ridimensiona l&apos;area dal centro</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseleziona l&apos;elemento di modifica</translation>
     </message>
 </context>
 <context>
@@ -435,215 +435,216 @@ Per favore contatta lo sviluppatore.</translation>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Grazie per il tuo sostegno!
+Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Più tardi</translation>
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovere la chiave di licenza? Snipaste non sarà più registrato.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
 </context>
 <context>
     <name>Licensing_uwp</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il prodotto non è stato acquistato a causa di un errore di rete.</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il prodotto non è stato acquistato a causa di un errore del server.</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il prodotto non è stato acquistato a causa di un errore sconosciuto.</translation>
     </message>
 </context>
 <context>
     <name>MouseActionEdit</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuno</translation>
     </message>
     <message>
         <source>Left click</source>
-        <translation type="unfinished"></translation>
+        <translation>Clic sinistro</translation>
     </message>
     <message>
         <source>Left double-click</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppio clic sinistro</translation>
     </message>
     <message>
         <source>Middle click</source>
-        <translation type="unfinished"></translation>
+        <translation>Clic centrale</translation>
     </message>
     <message>
         <source>Right click</source>
-        <translation type="unfinished"></translation>
+        <translation>Clic destro</translation>
     </message>
 </context>
 <context>
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Regole di denominazione</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
-        <translation type="unfinished"></translation>
+        <translation>Giorno (1-31)</translation>
     </message>
     <message>
         <source>Day (01-31)</source>
-        <translation type="unfinished"></translation>
+        <translation>Giorno (01-31)</translation>
     </message>
     <message>
         <source>Localized day name (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome locale del giorno (abbr.)</translation>
     </message>
     <message>
         <source>Localized day name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome locale del giorno</translation>
     </message>
     <message>
         <source>Month (1-12)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mese (1-12)</translation>
     </message>
     <message>
         <source>Month (01-12)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mese (01-12)</translation>
     </message>
     <message>
         <source>Localized month name (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome locale del mese (abbr.)</translation>
     </message>
     <message>
         <source>Localized month name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome locale del mese</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Anno (2 cifre)</translation>
     </message>
     <message>
         <source>Year (4-digit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Anno (4 cifre)</translation>
     </message>
     <message>
         <source>Hour (0-23)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ora (0-23)</translation>
     </message>
     <message>
         <source>Hour (00-23)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ora (00-23)</translation>
     </message>
     <message>
         <source>Minute (0-59)</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuti (0-59)</translation>
     </message>
     <message>
         <source>Minute (00-59)</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuti (00-59)</translation>
     </message>
     <message>
         <source>Second (0-59)</source>
-        <translation type="unfinished"></translation>
+        <translation>Secondi (0-59)</translation>
     </message>
     <message>
         <source>Second (00-59)</source>
-        <translation type="unfinished"></translation>
+        <translation>Secondi (00-59)</translation>
     </message>
     <message>
         <source>Milliseconds (0-999)</source>
-        <translation type="unfinished"></translation>
+        <translation>Millisecondi (0-999)</translation>
     </message>
     <message>
         <source>Milliseconds (000-999)</source>
-        <translation type="unfinished"></translation>
+        <translation>Millisecondi (000-999)</translation>
     </message>
     <message>
         <source>Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuso orario</translation>
     </message>
     <message>
         <source>Operation system</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema operativo</translation>
     </message>
     <message>
         <source>Computer name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome del computer</translation>
     </message>
     <message>
         <source>User name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome utente</translation>
     </message>
     <message>
         <source>Allowed suffixes</source>
-        <translation type="unfinished"></translation>
+        <translation>Suffissi consentiti</translation>
     </message>
     <message>
         <source>Illegal characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Caratteri non consentiti</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variabili d&apos;ambiente</translation>
     </message>
     <message>
         <source>Dates and times</source>
-        <translation type="unfinished"></translation>
+        <translation>Date ed orari</translation>
     </message>
 </context>
 <context>
     <name>OptionsDialog</name>
     <message>
         <source>Thank you for your support!</source>
-        <translation type="unfinished"></translation>
+        <translation>Grazie per il vostro sostegno!</translation>
     </message>
     <message>
         <source>Checking...</source>
-        <translation type="unfinished"></translation>
+        <translation>Controllo ...</translation>
     </message>
     <message>
         <source>Check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlla gli aggiornamenti</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteprima</translation>
     </message>
     <message>
         <source>For XP</source>
-        <translation type="unfinished"></translation>
+        <translation>Per XP</translation>
     </message>
     <message>
         <source>-bit</source>
-        <translation type="unfinished"></translation>
+        <translation>-bit</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Copyright</translation>
     </message>
     <message>
         <source>Home Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina Iniziale</translation>
     </message>
     <message>
         <source>Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentazione</translation>
     </message>
     <message>
         <source>Feedback</source>
