@@ -199,7 +199,7 @@ Per favore contatta lo sviluppatore.</translation>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation>Cattura solo:</translation>
+        <translation>Ritaglia solo:</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
@@ -207,31 +207,31 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Set the snipping area to fullscreen</source>
-        <translation>Imposta l&apos;area di cattura all&apos;intero schermo</translation>
+        <translation>Imposta l&apos;area ritagliata all&apos;intero schermo</translation>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation>Imposta la stessa area di cattura dell&apos;ultima cattura riuscita</translation>
+        <translation>Imposta il ritaglio della stessa area dell&apos;ultimo ritaglio riuscito</translation>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
-        <translation>Passa al record di cattura precedente</translation>
+        <translation>Passa al record di ritaglio precedente</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
-        <translation>Passa al record di cattura successivo</translation>
+        <translation>Passa al record di ritaglio successivo</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
-        <translation>Ingrandisci l&apos;area di cattura di 1 pixel</translation>
+        <translation>Ingrandisci l&apos;area di ritaglio di 1 pixel</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
-        <translation>Riduci l&apos;area di cattura di 1 pixel</translation>
+        <translation>Riduci l&apos;area di ritaglio di 1 pixel</translation>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla lo screenshot direttamente sullo schermo</translation>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
@@ -239,7 +239,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Abort snipping</source>
-        <translation>Interrompi la modalità cattura</translation>
+        <translation>Interrompi la modalità ritaglio</translation>
     </message>
     <message>
         <source>Mouse right-click</source>
@@ -247,7 +247,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Re-decide the snipping area / abort snipping</source>
-        <translation>Ridefinire l&apos;area di cattura / interrompere la cattura</translation>
+        <translation>Ridefinire l&apos;area di ritaglio / interrompere il ritaglio</translation>
     </message>
     <message>
         <source>Paste only:</source>
@@ -648,201 +648,203 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>Follow</source>
-        <translation type="unfinished"></translation>
+        <translation>Seguire</translation>
     </message>
     <message>
         <source>Weibo</source>
-        <translation type="unfinished"></translation>
+        <translation>Weibo</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinese semplificato</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinese tradizionale</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Tedesco</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>Greco</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>Svedese</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation type="unfinished"></translation>
+        <translation>Giapponese</translation>
     </message>
     <message>
         <source>Portuguese (Brazil)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portoghese (Brasile)</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation type="unfinished"></translation>
+        <translation>Polacco</translation>
     </message>
     <message>
         <source>Dutch</source>
-        <translation type="unfinished"></translation>
+        <translation>Olandese</translation>
     </message>
     <message>
         <source>Portuguese (Portugal)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portoghese (Portogallo)</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnamita</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Francese</translation>
     </message>
     <message>
         <source>Support</source>
-        <translation type="unfinished"></translation>
+        <translation>Supporto</translation>
     </message>
     <message>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduttori</translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>Contributori</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>No Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun proxy</translation>
     </message>
     <message>
         <source>System Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy di sistema</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuno</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia negli appunti</translation>
     </message>
     <message>
         <source>Pin to screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Fissa allo schermo</translation>
     </message>
     <message>
         <source>Save to file</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva nel file</translation>
     </message>
     <message>
         <source>Quick save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvataggio rapido</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Spento</translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <source>Trace</source>
-        <translation type="unfinished"></translation>
+        <translation>Traccia</translation>
     </message>
     <message>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qualcosa è andato storto con il collegamento di avvio.
+L&apos;esecuzione automatica all&apos;avvio del sistema è stata annullata.</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Russo</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabo</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Turco</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Passa a un altro file di configurazione</translation>
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbo</translation>
     </message>
     <message>
         <source>Mouse drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Trascinamento del mouse</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Trasparente</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Pseudo trasparente</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Scacchiera scura</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Scacchiera chiara</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Cattura e fissa</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Cattura e copia</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotella di scorrimento</translation>
     </message>
     <message>
         <source>Invalid data!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dati non validi!</translation>
     </message>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation type="unfinished"></translation>
+        <translation>I dati della tavolozza sono stati copiati negli appunti.
+Condividili con i tuoi amici!</translation>
     </message>
     <message>
         <source>Snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Cattura</translation>
     </message>
     <message>
         <source>Existing image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Finestre di immagini esistenti</translation>
     </message>
     <message>
         <source>Same as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uguale a %1</translation>
     </message>
     <message>
         <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
@@ -850,110 +852,114 @@ Share it to your friends!</source>
 Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota bene: stai per passare ad un altro file di configurazione. Le impostazioni in esso contenute verranno applicate e tutte le tue impostazioni correnti verranno sovrascritte.
+
+Inoltre, non dovresti cancellare il file di configurazione predefinito dopo questa operazione, perché registra dove trovare il tuo nuovo file di configurazione.
+
+Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spagnolo (Messico)</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Colori personalizzati</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona il Colore</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Importazione riuscita!</translation>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi licenza</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Acquista PRO</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Rettangolo/Ellisse</translation>
     </message>
     <message>
         <source>Line strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea spezzata</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Freccia</translation>
     </message>
     <message>
         <source>Pencil</source>
-        <translation type="unfinished"></translation>
+        <translation>Matita</translation>
     </message>
     <message>
         <source>Marker pen</source>
-        <translation type="unfinished"></translation>
+        <translation>Pennarello</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo</translation>
     </message>
     <message>
         <source>Mosaic/Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Mosaico/Sfocatura</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>Gomma</translation>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Cattura normale</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Coreano</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceco</translation>
     </message>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation>IU</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Cattura, copia e fissa</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferenze di Snipaste</translation>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Gratis</translation>
     </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona il Colore</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fare clic su questa icona per alternare sfocatura a mosaico e gaussiana.</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trascina per disegnare una linea singola o fai clic per disegnare linee spezzate.</translation>
     </message>
     <message>
         <source>Bold</source>
