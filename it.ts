@@ -963,158 +963,158 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Grassetto</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Corsivo</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Sottolineato</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Larghezza:</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>Gomma</translation>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfondo del testo</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per modificare la larghezza della penna, ruotare la rotellina del mouse o premere &apos;1&apos; o &apos;2&apos;, oppure premere &apos;[&apos; o &apos;]&apos;.</translation>
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Raggio dell&apos;angolo:</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfa:</translation>
     </message>
 </context>
 <context>
     <name>Paster</name>
     <message>
         <source>Load image</source>
-        <translation type="unfinished"></translation>
+        <translation>Carica immagine</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagini</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutti i file</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocità</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacità</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Riproduci</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <source>Copy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia immagine</translation>
     </message>
     <message>
         <source>Save image as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva immagine come...</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina</translation>
     </message>
     <message>
         <source>Copy plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia testo semplice</translation>
     </message>
     <message>
         <source>Copy HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia HTML</translation>
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica colore</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona Colore</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia</translation>
     </message>
     <message>
         <source>Ignore format</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora formattazione</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombra</translation>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimani in cima</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Corrente</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisciatura</translation>
     </message>
     <message>
         <source>Background mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità sfondo</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Trasparente</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Scacchiera scura</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Scacchiera chiara</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla</translation>
     </message>
     <message>
         <source>Replace by file...</source>
