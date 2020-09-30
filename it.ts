@@ -1282,164 +1282,165 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Output Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzioni di output</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile abilitare l&apos;esecuzione automatica all&apos;avvio del sistema. Potrebbe essere necessario abilitarlo prima manualmente nel Task Manager.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui Snipaste con privilegi d&apos;amministratoree.</translation>
     </message>
     <message>
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare l&apos;attività di pianificazione.
+Puoi riavviare Snipaste con i privilegi di amministratore e riprovare.</translation>
     </message>
     <message>
         <source>Failed to create a shortcut in the startup directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare un collegamento nella directory di avvio.</translation>
     </message>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
-        <translation type="unfinished"></translation>
+        <translation>Riavviare Snipaste con i privilegi di amministratore?</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Successo</translation>
     </message>
     <message>
         <source>It may take a few seconds...</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrebbe richiedere alcuni secondi...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri preferenze di sistema</translation>
     </message>
     <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per fare una cattura schermo, Snipaste richiede l&apos;autorizzazione alla registrazione dello schermo.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se Snipaste è già stato selezionato nell&apos;elenco Registrazione schermo e non funziona ancora, potrebbe essere necessario riavviare Snipaste o riavviare il Mac.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per abilitare il rilevamento degli elementi dell&apos;interfaccia utente, Snipaste richiede il controllo dell&apos;accessibilità.</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se desideri questa funzione, concedi l&apos;accesso a questa applicazione nelle preferenze Sicurezza e privacy, che si trovano in Preferenze di Sistema.</translation>
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>È necessario attivare UAC (Controllo dell&apos;Account Utente) per completare l&apos;acquisto.</translation>
     </message>
 </context>
 <context>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile registrare il collegamento:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>Snipaste is running</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste è in esecuzione</translation>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puoi controllarlo tramite l&apos;icona della barra delle applicazioni.</translation>
     </message>
     <message>
         <source>Snipaste has been updated to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste è stato aggiornato alla %1.</translation>
     </message>
     <message>
         <source>Click here to see the changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Clicca qui per vedere il registro delle modifiche</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona il colore</translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona il carattere</translation>
     </message>
     <message>
         <source>Set Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta cartella</translation>
     </message>
     <message>
         <source>Pick File</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli file</translation>
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai notato i punti rossi sulla barra degli strumenti? Cliccaci sopra per ottenere utili suggerimenti!</translation>
     </message>
 </context>
 <context>
     <name>Settings</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun permesso di scrittura sul file di configurazione!</translation>
     </message>
 </context>
 <context>
     <name>ShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica comando</translation>
     </message>
     <message>
         <source>Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglia</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglia e copia</translation>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglio ritardato</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla</translation>
     </message>
     <message>
         <source>Hide/Show all images</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi/Mostra tutte le immagini</translation>
     </message>
     <message>
         <source>Switch to another image group</source>
-        <translation type="unfinished"></translation>
+        <translation>Passa ad un altro gruppo di immagini</translation>
     </message>
     <message>
         <source>Switch to the previous group</source>
-        <translation type="unfinished"></translation>
+        <translation>Passa al gruppo precedente</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -3249,22 +3250,22 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Ridimensiona</translation>
     </message>
 </context>
 <context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
 </context>
 <context>
@@ -3285,46 +3286,46 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <name>updatedialog</name>
     <message>
         <source>Latest version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima versione:</translation>
     </message>
     <message>
         <source>Your version:</source>
-        <translation type="unfinished"></translation>
+        <translation>La tua versione:</translation>
     </message>
     <message>
         <source>Last check:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultimo controllo:</translation>
     </message>
     <message>
         <source>Download and install updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarica ed installa gli aggiornamenti</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
 </context>
 <context>
     <name>zoominputdialog</name>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrandire immagine</translation>
     </message>
 </context>
 </TS>
