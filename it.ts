@@ -211,7 +211,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation>Imposta il ritaglio della stessa area dell&apos;ultimo ritaglio riuscito</translation>
+        <translation>Imposta l&apos;area di ritaglio uguale a quella dell&apos;ultimo ritaglio riuscito</translation>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
@@ -235,7 +235,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
-        <translation>Copia lo screenshot ed esci dalla modalità cattura</translation>
+        <translation>Copia lo screenshot ed esci dalla modalità ritaglio</translation>
     </message>
     <message>
         <source>Abort snipping</source>
@@ -315,7 +315,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
-        <translation>Spostare l&apos;area di cattura/finestra dell&apos;immagine di 1 pixel se non in modifica</translation>
+        <translation>Spostare l&apos;area di ritaglio/finestra dell&apos;immagine di 1 pixel se non in modifica</translation>
     </message>
     <message>
         <source>Space</source>
@@ -399,11 +399,11 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation>Riutilizza le ultime aree di cattura</translation>
+        <translation>Riutilizza le ultime aree di ritaglio</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation>Ripeti la cronologia delle catture</translation>
+        <translation>Ripeti la cronologia dei ritagli</translation>
     </message>
     <message>
         <source>Capture full screen</source>
@@ -411,7 +411,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation>Sposta l&apos;area di cattura di 1 pixel</translation>
+        <translation>Sposta l&apos;area di ritaglio di 1 pixel</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
@@ -814,7 +814,7 @@ L&apos;esecuzione automatica all&apos;avvio del sistema è stata annullata.</tra
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation>Cattura e fissa</translation>
+        <translation>Ritaglia e fissa</translation>
     </message>
     <message>
         <source>Snip and copy</source>
@@ -836,7 +836,7 @@ Condividili con i tuoi amici!</translation>
     </message>
     <message>
         <source>Snipping</source>
-        <translation>Cattura</translation>
+        <translation>Ritaglio</translation>
     </message>
     <message>
         <source>Existing image windows</source>
@@ -932,7 +932,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation>Cattura, copia e fissa</translation>
+        <translation>Ritaglia, copia e fissa</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
@@ -1172,7 +1172,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>L&apos;azione &quot;Doppio tocco X&quot; è stata annullata.
-Puoi trovare il tasto di scelta rapida del click - passante del mouse in &quot;Preferenze - Tasto di scelta rapida&quot;.</translation>
+Puoi trovare il tasto di scelta rapida del click-attraverso del mouse in &quot;Preferenze - Tasto di scelta rapida&quot;.</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -1444,192 +1444,193 @@ Puoi riavviare Snipaste con i privilegi di amministratore e riprovare.</translat
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterna click-attraverso del mouse</translation>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita/Abilita i tasti di scelta rapida globali</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>La scorciatoia per alternare la modalità di click-attraverso dell&apos;immagine sotto il cursore.
+Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini non cliccabili verranno rese cliccabili.</translation>
     </message>
     <message>
         <source>Show tray menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra menu del vassoio</translation>
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglio su misura</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglia la finestra attiva</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglia e fissa</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglia e copia l&apos;intero schermo</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglia e copia la stessa area dell&apos;ultimo screenshot</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra in modalità lavagna</translation>
     </message>
     <message>
         <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri Blocco note</translation>
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra in modalità lavagna (Tocca due volte Esc per uscire)</translation>
     </message>
     <message>
         <source>Pick color</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli colore</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla come immagine</translation>
     </message>
     <message>
         <source>Paste as plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla come testo semplice</translation>
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglia con ombra</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglia, copia e fissa</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra in modalità lavagna trasparente (Tocca due volte Esc per uscire)</translation>
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella i registri di ritaglio</translation>
     </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
     <message>
         <source>Press shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Premi scorciatoia</translation>
     </message>
 </context>
 <context>
     <name>SizeInputDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica preimpostazioni...</translation>
     </message>
 </context>
 <context>
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica le dimensioni preimpostate</translation>
     </message>
 </context>
 <context>
     <name>Snipaste</name>
     <message>
         <source>No update available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun aggiornamento disponibile.</translation>
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestisci gruppi</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzioni della riga di comando non valide.</translation>
     </message>
     <message>
         <source>Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglia</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla</translation>
     </message>
     <message>
         <source>Hide all images</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi tutte le immagini</translation>
     </message>
     <message>
         <source>Show all images</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra tutte le immagini</translation>
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella il registro di ritaglio</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita i tasti di scelta rapida</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagini</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Rinomina</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Import image group</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa gruppo d&apos;immagini</translation>
     </message>
     <message>
         <source>Remove empty groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi gruppi vuoti</translation>
     </message>
     <message>
         <source>Show images</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra immagini</translation>
     </message>
     <message>
         <source>Preferences...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferenze...</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Aiuto</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifica aggiornamenti...</translation>
     </message>
     <message>
         <source>Update now...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna ora...</translation>
     </message>
     <message>
         <source>Check for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifica gli aggiornamenti...</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Riavvia</translation>
     </message>
     <message>
         <source>Quit</source>
