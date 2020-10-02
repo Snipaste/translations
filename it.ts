@@ -616,7 +616,7 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Checking...</source>
-        <translation>Controllo ...</translation>
+        <translation>Verifico...</translation>
     </message>
     <message>
         <source>Check for updates</source>
@@ -1634,360 +1634,360 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Esci</translation>
     </message>
     <message>
         <source>is already running.</source>
-        <translation type="unfinished"></translation>
+        <translation>è già in esecuzione.</translation>
     </message>
     <message>
         <source>Save image as</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva immagine come</translation>
     </message>
     <message>
         <source>Failed to save the image!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile salvare l&apos;immagine!</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile importare il gruppo.</translation>
     </message>
     <message>
         <source>File %1 not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>File %1 non trovato.</translation>
     </message>
     <message>
         <source>Error Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore Codice</translation>
     </message>
     <message>
         <source>This group already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo gruppo esiste già.</translation>
     </message>
     <message>
         <source>Imported Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppo Importato</translation>
     </message>
     <message>
         <source>Import successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Importazione riuscita</translation>
     </message>
     <message>
         <source>Rename the imported group:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rinomina il gruppo importato:</translation>
     </message>
     <message>
         <source>Switch to the imported group</source>
-        <translation type="unfinished"></translation>
+        <translation>Passa al gruppo importato</translation>
     </message>
     <message>
         <source>New group name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo nome del gruppo:</translation>
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di chiudere &quot;%1&quot;? Quest&apos;azione non può essere annullata.</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Predefinito</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Successo</translation>
     </message>
     <message>
         <source>Image saved to</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagine salvata in</translation>
     </message>
     <message>
         <source>Failed to save the image to</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile salvare l&apos;immagine in</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste %1 è stato rilasciato!</translation>
     </message>
     <message>
         <source>Click here to update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Clicca qui per aggiornare ora</translation>
     </message>
     <message>
         <source>Create new group</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea nuovo gruppo</translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri il file di registro</translation>
     </message>
     <message>
         <source>Open config file</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri il file di configurazione</translation>
     </message>
     <message>
         <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sblocca PRO...</translation>
     </message>
     <message>
         <source>Export image group(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Esporta gruppi d&apos;immagini</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppi di immagini Snipaste</translation>
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella file di registro</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Scorciatoia Ritaglia</translation>
     </message>
     <message>
         <source>Paste hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Scorciatoia Incolla</translation>
     </message>
 </context>
 <context>
     <name>Snipper</name>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuoi interrompere il ritaglio?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Non lo mostrare questo di nuovo</translation>
     </message>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto (pt)</translation>
     </message>
     <message>
         <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixel fisico (px)</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixel indipendente dal dispositivo (dip)</translation>
     </message>
 </context>
 <context>
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai utilizzando la versione gratuita di Snipaste %1 %2</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Richiesta di attivazione offline di Snipaste</translation>
     </message>
     <message>
         <source>Hardware identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Identità hardware</translation>
     </message>
     <message>
         <source>Validity period</source>
-        <translation type="unfinished"></translation>
+        <translation>Periodo di validità</translation>
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation type="unfinished"></translation>
+        <translation>Immettere una durata adeguata per questa macchina. La licenza offline non può essere rimossa durante il suo periodo di validità.</translation>
     </message>
     <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice di licenza</translation>
     </message>
     <message>
         <source>Paste your license key here</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla qui il tuo codice di licenza</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation type="unfinished"></translation>
+        <translation>Sblocca le funzionalità PRO</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 è gratuito solo per USO PERSONALE. Se vuoi usarlo sul posto di lavoro, è necessaria una licenza PRO.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visita il &lt;a href=&quot;%1&quot;&gt;sito web&lt;/a&gt; per ulteriori informazioni.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non esitare a contattare %1 se hai bisogno di aiuto.</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Acquista</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Indietro</translation>
     </message>
     <message>
         <source>Offline activation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Attivazione offline...</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Riprova</translation>
     </message>
     <message>
         <source>Activation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Attivazione fallita</translation>
     </message>
     <message>
         <source>Invalid license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza non valida.</translation>
     </message>
     <message>
         <source>Number of activations exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero di attivazioni superato.</translation>
     </message>
     <message>
         <source>Network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di rete.</translation>
     </message>
     <message>
         <source>License expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza scaduta.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice di licenza non valido.</translation>
     </message>
     <message>
         <source>Error code</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice errore</translation>
     </message>
     <message>
         <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>La versione PRO sblocca più di 30 funzioni utili!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>La licenza ti consente di utilizzare Snipaste 2 per sempre con tutti gli aggiornamenti della 2.x.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci il codice di licenza:</translation>
     </message>
 </context>
 <context>
     <name>UpdaterDialog</name>
     <message>
         <source>Checking...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifico...</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Recheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricontrolla</translation>
     </message>
     <message>
         <source>Release notes are currently not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le note di rilascio non sono attualmente disponibili.</translation>
     </message>
     <message>
         <source>Are you sure you want to cancel the update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler annullare l&apos;aggiornamento?</translation>
     </message>
     <message>
         <source>Download updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarica gli aggiornamenti</translation>
     </message>
 </context>
 <context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>In alto a sinistra:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione:</translation>
     </message>
     <message>
         <source>Delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritardo:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Preimpostazioni</translation>
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglio personalizzato</translation>
     </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
 </context>
 <context>
     <name>groupmanager</name>
     <message>
         <source>Image groups:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppi d&apos;immagini:</translation>
     </message>
     <message>
         <source>Manage Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestisci Gruppi</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Esporta</translation>
     </message>
     <message>
         <source>Remove empty groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi gruppi vuoti</translation>
     </message>
 </context>
 <context>
     <name>helpdialog</name>
     <message>
         <source>Pages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagine:</translation>
     </message>
 </context>
 <context>
