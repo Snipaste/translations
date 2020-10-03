@@ -1395,7 +1395,7 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation>Snipaste heeft toegankelijkheidsinstellingen nodig voor de detectie van vensterelementen</translation>
+        <translation>Om detectie van UI-elementen in te schakelen, heeft Snipaste toegankelijkheidscontrole nodig.</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
@@ -1595,7 +1595,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes</source>
-        <translation>Grootte-instellingen bewerken…</translation>
+        <translation>Vooraf ingestelde formaten bewerken</translation>
     </message>
 </context>
 <context>
@@ -2886,7 +2886,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation>Kleurdekking aanpassen</translation>
+        <translation>Kleurdekking aanpassen:</translation>
     </message>
     <message>
         <source>or</source>
@@ -2950,7 +2950,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation>Als Windows Bitmap kopiëren</translation>
+        <translation>Als Windows Bitmap kopiëren:</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -3046,7 +3046,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation>Automatisch weergeven voor: </translation>
+        <translation>Automatisch weergeven voor:</translation>
     </message>
     <message>
         <source>Normal snip</source>
@@ -3150,7 +3150,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation>Standaardaantekening</translation>
+        <translation>Standaardaantekening:</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
