@@ -88,12 +88,14 @@
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation>下載更新來源失敗。網路錯誤：%1</translation>
+        <translation>下載更新來源失敗。
+網路錯誤：%1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation>更新來源出錯啦 (%1)。請聯絡開發者。</translation>
+        <translation>更新來源出錯啦（%1）。
+請聯絡開發者。</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
@@ -2502,7 +2504,8 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <message>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
-        <translation>設定新貼圖視窗的不透明度。範圍：10 - 100</translation>
+        <translation>設定新貼圖視窗的不透明度。
+範圍：10 - 100</translation>
     </message>
     <message>
         <source>Max recoverable closed images:</source>
