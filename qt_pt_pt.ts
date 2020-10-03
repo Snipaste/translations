@@ -279,7 +279,7 @@
     </message>
     <message>
         <source>Bass Boost</source>
-        <translation>Bass Boost</translation>
+        <translation>Reforço de graves</translation>
     </message>
     <message>
         <source>PgDown</source>
