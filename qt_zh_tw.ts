@@ -235,7 +235,7 @@
     </message>
     <message>
         <source>Treble Down</source>
-        <translation>Treble Down</translation>
+        <translation>降低高音</translation>
     </message>
     <message>
         <source>Scroll Lock</source>
@@ -415,7 +415,7 @@
     </message>
     <message>
         <source>Bass Up</source>
-        <translation>Bass Up</translation>
+        <translation>提升低音</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -431,7 +431,7 @@
     </message>
     <message>
         <source>Bass Down</source>
-        <translation>Bass Down</translation>
+        <translation>降低低音</translation>
     </message>
     <message>
         <source>Standby</source>
@@ -439,7 +439,7 @@
     </message>
     <message>
         <source>Treble Up</source>
-        <translation>Treble Up</translation>
+        <translation>提升高音</translation>
     </message>
     <message>
         <source>Num Lock</source>
@@ -586,7 +586,7 @@
     </message>
     <message>
         <source>Folio</source>
-        <translation>Folio</translation>
+        <translation>對摺的紙</translation>
     </message>
     <message>
         <source>Legal</source>
@@ -638,7 +638,7 @@
     </message>
     <message>
         <source>Tabloid (279 x 432 mm)</source>
-        <translation>Tabloid (279 x 432 mm)</translation>
+        <translation>小型報紙（279 x 432 mm）</translation>
     </message>
     <message>
         <source>B10 (31 x 44 mm)</source>
@@ -692,15 +692,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Ledger</source>
-        <translation>Ledger</translation>
+        <translation>帳本頁</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation>Letter</translation>
+        <translation>信紙</translation>
     </message>
     <message>
         <source>DLE (110 x 220 mm)</source>
-        <translation>DLE (110 x 220 mm)</translation>
+        <translation>DL 信封（110 x 220 mm）</translation>
     </message>
     <message>
         <source>C5E (163 x 229 mm)</source>
@@ -736,7 +736,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Ledger (432 x 279 mm)</source>
-        <translation>Ledger (432 x 279 mm)</translation>
+        <translation>帳本頁（432 x 279 mm）</translation>
     </message>
     <message>
         <source>Aliases: %1</source>
@@ -756,7 +756,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Tabloid</source>
-        <translation>Tabloid</translation>
+        <translation>小型報紙</translation>
     </message>
     <message>
         <source>A4 (210 x 297 mm, 8.26 x 11.7 inches)</source>
@@ -764,7 +764,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Executive</source>
-        <translation>Executive</translation>
+        <translation>行政文件</translation>
     </message>
     <message>
         <source>unknown</source>
@@ -784,11 +784,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>The &apos;From&apos; value cannot be greater than the &apos;To&apos; value.</source>
-        <translation>起始數值不能大於結束數值</translation>
+        <translation>起始數值不能大於結束數值。</translation>
     </message>
     <message>
         <source>US Common #10 Envelope</source>
-        <translation>US Common #10 Envelope</translation>
+        <translation>美國通用信封 #10</translation>
     </message>
     <message>
         <source>%1 is a directory.
@@ -869,7 +869,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>COM &amp;Object:</source>
-        <translation>COM 物件(&amp;O)</translation>
+        <translation>COM 物件 (&amp;O)：</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -2047,7 +2047,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>This is a searchable index. Enter search keywords: </source>
-        <translation>這是可搜尋的索引。請輸入關鍵字：　</translation>
+        <translation>這是可搜尋的索引。請輸入關鍵字： </translation>
     </message>
     <message>
         <source>Select to the previous character</source>
@@ -3055,7 +3055,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>A comment cannot end with a %1.</source>
-        <translation>註解不能以 %1 做結尾</translation>
+        <translation>註解不能以 %1 做結尾。</translation>
     </message>
     <message>
         <source>Top level stylesheet elements must be in a non-null namespace, which %1 isn&apos;t.</source>
@@ -3091,7 +3091,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>None of the pragma expressions are supported. Therefore, a fallback expression must be present</source>
-        <translation>未支援 pragma 敘述。因次，必須有預設的敘述。</translation>
+        <translation>未支援 pragma 敘述。因此，必須有預設的敘述。</translation>
     </message>
     <message>
         <source>In the replacement string, %1 can only be used to escape itself or %2, not %3</source>
@@ -3151,7 +3151,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Only the Unicode Codepoint Collation is supported(%1). %2 is unsupported.</source>
-        <translation>只支援 Unicode Codepoint Collation（%1）。%2 未支援。;</translation>
+        <translation>只支援 Unicode Codepoint Collation（%1）。%2 未支援。</translation>
     </message>
     <message>
         <source>Matches are case insensitive</source>
@@ -3411,7 +3411,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>No operand in an integer division, %1, can be %2.</source>
-        <translation>整數除法沒有運作對象，%1，可以是 %2</translation>
+        <translation>整數除法沒有運作對象，%1，可以是 %2。</translation>
     </message>
     <message>
         <source>The element with local name %1 does not exist in XSL-T.</source>
@@ -3419,7 +3419,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Two namespace declaration attributes have the same name: %1.</source>
-        <translation>有兩個命名空間宣告的屬性有相同的名稱：%1</translation>
+        <translation>有兩個命名空間宣告的屬性有相同的名稱：%1。</translation>
     </message>
     <message>
         <source>Effective Boolean Value cannot be calculated for a sequence containing two or more atomic values.</source>
@@ -3631,7 +3631,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>The URI cannot have a fragment</source>
-        <translation>URI 不能有片段。</translation>
+        <translation>URI 不能有片段</translation>
     </message>
     <message>
         <source>%1 is not an atomic type. Casting is only possible to atomic types.</source>
@@ -3671,7 +3671,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>The module import feature is not supported</source>
-        <translation>模組匯入功能未支援。</translation>
+        <translation>不支援模組匯入功能</translation>
     </message>
     <message>
         <source>The parameter %1 is passed, but no corresponding %2 exists.</source>
@@ -3687,8 +3687,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Time 24:%1:%2.%3 is invalid. Hour is 24, but minutes, seconds, and milliseconds are not all 0; </source>
-        <translation>時間 24:%1:%2.%3 不合法。小時為 24 則分、秒與毫秒都必須是 0。
-</translation>
+        <translation>時間 24:%1:%2.%3 不合法。小時為 24 十，分、秒與毫秒都必須是 0； </translation>
     </message>
     <message>
         <source>A template by name %1 has already been declared.</source>
@@ -3840,7 +3839,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>No external functions are supported. All supported functions can be used directly, without first declaring them as external</source>
-        <translation>未支援外部函式。所有支援的含式可以直接使用而不需要先宣告為外部函式。</translation>
+        <translation>不支援外部函式。所有支援的含式可以直接使用而不需要先宣告為外部函式。</translation>
     </message>
     <message>
         <source>The last step in a path must contain either nodes or atomic values. It cannot be a mixture between the two.</source>
@@ -4156,7 +4155,7 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>, but got &apos;</source>
-        <translation>，但是看到的是 </translation>
+        <translation>，但是得到的是</translation>
     </message>
     <message>
         <source>Start tag expected.</source>
@@ -4228,11 +4227,11 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>Invalid entity value.</source>
-        <translation>不合法的實體值</translation>
+        <translation>不合法的實體值。</translation>
     </message>
     <message>
         <source>Encoding %1 is unsupported</source>
-        <translation>編碼 %1 不支援。</translation>
+        <translation>不支援編碼 %1。</translation>
     </message>
     <message>
         <source>NDATA in parameter entity declaration.</source>
@@ -5137,7 +5136,7 @@ libgstreamer-plugins-base 套件。</translation>
     </message>
     <message>
         <source>The shared library was not found.</source>
-        <translation>找不到分享函式庫</translation>
+        <translation>找不到分享函式庫。</translation>
     </message>
     <message>
         <source>Unknown error</source>
@@ -5883,7 +5882,8 @@ libgstreamer-plugins-base 套件。</translation>
     <message>
         <source>Warning: You do not seem to have the base GStreamer plugins installed.
           All audio and video support has been disabled</source>
-        <translation>警告：您可能沒有安裝 GStreamer 外掛程式。          所有音效與影像支援將被關閉。</translation>
+        <translation>警告：您可能沒有安裝 GStreamer 外掛程式。
+          所有音效與影像支援將被關閉。</translation>
     </message>
     <message>
         <source>Warning: You do not seem to have the package gstreamer0.10-plugins-good installed.
@@ -6000,7 +6000,7 @@ libgstreamer-plugins-base 套件。</translation>
     </message>
     <message>
         <source>Preferences...</source>
-        <translation>偏好設定⋯</translation>
+        <translation>偏好設定...</translation>
     </message>
     <message>
         <source>Services</source>
@@ -6038,7 +6038,7 @@ libgstreamer-plugins-base 套件。</translation>
     </message>
     <message>
         <source>&lt;html&gt;Switching to the audio playback device &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;which just became available and has higher preference.&lt;/html&gt;</source>
-        <translation>&lt;html&gt;音效播放裝置 &lt;b&gt;%1&lt;/b&gt; 已可使用，因為有較高優先權，因此將切換到該裝置。&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;音效播放裝置 &lt;b&gt;%1&lt;/b&gt; 已可使用，&lt;br/&gt;因為有較高優先權，因此將切換到該裝置。&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
