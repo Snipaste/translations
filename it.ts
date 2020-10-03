@@ -1994,207 +1994,207 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi comando</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Comando:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Preimpostazioni</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista ignorata:</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci nomi/percorsi degli eseguibili separati da virgole (ad esempio a.exe, giochi/*)</translation>
     </message>
 </context>
 <context>
     <name>keybindingdialog</name>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>Associazioni dei tasti</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia</translation>
     </message>
 </context>
 <context>
     <name>licensedialog</name>
     <message>
         <source>Open source licenses</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenze open source</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste:</source>
-        <translation type="unfinished"></translation>
+        <translation>Software open source utilizzato in Snipaste:</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni su Qt</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>newgroup</name>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea nuovo gruppo</translation>
     </message>
     <message>
         <source>Group name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome del gruppo:</translation>
     </message>
     <message>
         <source>Activate after creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva dopo la creazione</translation>
     </message>
 </context>
 <context>
     <name>optionsdialog</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Generale</translation>
     </message>
     <message>
         <source>Run Snipaste when the operating system starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui Snipaste all&apos;avvio del sistema operativo.</translation>
     </message>
     <message>
         <source>Run on system startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui all&apos;avvio del sistema</translation>
     </message>
     <message>
         <source>Run as administrator for startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui all&apos;avvio come amministratore.</translation>
     </message>
     <message>
         <source>As administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>Come amministratore</translation>
     </message>
     <message>
         <source>So that the global hotkeys are effective when the active window has administrator privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>In modo che i tasti di scelta rapida globali siano effettivi quando la finestra attiva ha privilegi di amministratore.</translation>
     </message>
     <message>
         <source>Add more commands to the tray menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi altri comandi al menu della barra delle applicazioni.</translation>
     </message>
     <message>
         <source>Enhanced tray menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu barra delle applicazioni avanzato</translation>
     </message>
     <message>
         <source>Log level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Livello di registro:</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri il file di registro</translation>
     </message>
     <message>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfaccia</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lingua:</translation>
     </message>
     <message>
         <source>The interface language of Snipaste</source>
-        <translation type="unfinished"></translation>
+        <translation>La lingua dell&apos;interfaccia di Snipaste</translation>
     </message>
     <message>
         <source>Interface font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Carattere dell&apos;interfaccia:</translation>
     </message>
     <message>
         <source>Theme color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colore del tema:</translation>
     </message>
     <message>
         <source>The theme color of Snipaste</source>
-        <translation type="unfinished"></translation>
+        <translation>Il colore del tema di Snipaste</translation>
     </message>
     <message>
         <source>Tray icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>Icona barra applicazioni:</translation>
     </message>
     <message>
         <source>Use default tray icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa l&apos;icona della barra delle applicazioni predefinita.</translation>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa l&apos;icona della barra delle applicazioni con colori personalizzati.</translation>
     </message>
     <message>
         <source>Set the color for the tray icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta il colore dell&apos;icona nella barra delle applicazioni.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
     <message>
         <source>Hover over an option to see its detailed explanation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Passa il mouse su un&apos;opzione per visualizzarne la spiegazione dettagliata.</translation>
     </message>
     <message>
         <source>Restore all settings on this page to their default states.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina tutte le impostazioni in questa pagina ai loro stati predefiniti.</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina i valori predefiniti</translation>
     </message>
     <message>
         <source>Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglia</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza</translation>
     </message>
     <message>
         <source>Border width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Larghezza del bordo:</translation>
     </message>
     <message>
         <source>Set the width of the border around the snipping area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta la larghezza del bordo attorno all&apos;area di ritaglio.</translation>
     </message>
     <message>
         <source>px</source>
-        <translation type="unfinished"></translation>
+        <translation>px</translation>
     </message>
     <message>
         <source>Mask color:</source>
