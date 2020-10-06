@@ -2198,141 +2198,143 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     </message>
     <message>
         <source>Mask color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colore mascheratura:</translation>
     </message>
     <message>
         <source>The mask color of snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Il colore della mascheratura del ritaglio</translation>
     </message>
     <message>
         <source>Show anchors around the snipping area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra gli ancoraggi intorno all&apos;area di ritagilo.</translation>
     </message>
     <message>
         <source>Show anchors</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra ancoraggi</translation>
     </message>
     <message>
         <source>Anchors&apos; border color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colore del bordo delle ancore:</translation>
     </message>
     <message>
         <source>In the magnifier, show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nella lente, mostra:</translation>
     </message>
     <message>
         <source>Show the mask in the magnifier.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra la mascheratura nella lente.</translation>
     </message>
     <message>
         <source>mask</source>
-        <translation type="unfinished"></translation>
+        <translation>mascheratura</translation>
     </message>
     <message>
         <source>Show the border of the snipping area in the magnifier.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra il bordo dell&apos;area di ritaglio nella lente.</translation>
     </message>
     <message>
         <source>border</source>
-        <translation type="unfinished"></translation>
+        <translation>bordo</translation>
     </message>
     <message>
         <source>Show the anchors in the magnifier.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra gli ancoraggi nella lente.</translation>
     </message>
     <message>
         <source>anchors</source>
-        <translation type="unfinished"></translation>
+        <translation>ancoraggi</translation>
     </message>
     <message>
         <source>Automatically show the fullscreen cross lines every time you start snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra automaticamente il reticolo a tutto schermo ogni volta che inizi a ritagliare.</translation>
     </message>
     <message>
         <source>Behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>Comportamento</translation>
     </message>
     <message>
         <source>Auto detect the regions of windows when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rileva automaticamente le regioni delle finestre durante il ritaglio.</translation>
     </message>
     <message>
         <source>Auto detect windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Rileva automaticamente le finestre</translation>
     </message>
     <message>
         <source>Hide the 1x1 region indicator before you decide the snipping region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi l&apos;indicatore 1x1 della regione prima di decidere la regione di ritaglio.</translation>
     </message>
     <message>
         <source>Hide 1x1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi 1x1</translation>
     </message>
     <message>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rileva automaticamente le regioni degli elementi dell&apos;interfaccia utente (come pulsanti e menu) durante il ritaglio.</translation>
     </message>
     <message>
         <source>Auto detect UI elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Rilevamento automatico degli elementi dell&apos;interfaccia utente</translation>
     </message>
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puoi anche attivarlo temporaneamente premendo il tasto Tab durante il ritaglio.</translation>
     </message>
     <message>
         <source>Capture the cursor by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cattura il cursore per impostazione predefinita.</translation>
     </message>
     <message>
         <source>Capture the cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Cattura il cursore</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lascia che l&apos;immagine venga copiata come bitmap di Windows, in modo
+che tu possa poi incollarla in alcune applicazioni speciali come Skype.
+Tuttavia, in questo modo, il canale alfa dell&apos;immagine sarà perduto.</translation>
     </message>
     <message>
         <source>Quit snipping if any window of other programs is activated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudere il ritaglio se una qualsiasi finestra di altri programmi viene attivata.</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Esci dal ritaglio se qualsiasi altra finestra è attivata</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quale azione eseguire alla pressione di &apos;Invio&apos; durante il ritaglio.</translation>
     </message>
     <message>
         <source>then</source>
-        <translation type="unfinished"></translation>
+        <translation>allora</translation>
     </message>
     <message>
         <source>quit snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>smetti di ritagliare</translation>
     </message>
     <message>
         <source>Ignore Win key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora il tasto Win:</translation>
     </message>
     <message>
         <source>Ignore the left Windows key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora il tasto Windows sinistro durante il ritaglio.</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistro</translation>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora il tasto Windows destro durante il ritaglio.</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destro</translation>
     </message>
     <message>
         <source>Max number of history areas:</source>
