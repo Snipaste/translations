@@ -2338,432 +2338,441 @@ Tuttavia, in questo modo, il canale alfa dell&apos;immagine sarà perduto.</tran
     </message>
     <message>
         <source>Max number of history areas:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero massimo di aree della cronologia:</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta il numero massimo di registrazioni dello storico dei ritagli, che vengono memorizzati in storico/ritagli.</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciclo</translation>
     </message>
     <message>
         <source>Max number of history records:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero massimo di registrazioni nello storico:</translation>
     </message>
     <message>
         <source>Sound Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Effetto Sonoro</translation>
     </message>
     <message>
         <source>Sound file:</source>
-        <translation type="unfinished"></translation>
+        <translation>File audio:</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Riproduci</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Riproduci un effetto sonoro se uno screenshot viene salvato negli appunti.</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
-        <translation type="unfinished"></translation>
+        <translation>Riproduci un effetto sonoro se uno screenshot viene salvato tramite Salvataggio Rapido.</translation>
     </message>
     <message>
         <source>Quick Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvataggio Rapido</translation>
     </message>
     <message>
         <source>Pick a sound file (.wav).</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli un file audio (.wav).</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla</translation>
     </message>
     <message>
         <source>Window shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombra della finestra</translation>
     </message>
     <message>
         <source>Set the color of the window shadow.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta il colore dell&apos;ombra della finestra.</translation>
     </message>
     <message>
         <source>Enable hotkeys on the context menu of image windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilita i tasti di scelta rapida nel menu contestuale delle finestre delle immagini.</translation>
     </message>
     <message>
         <source>Mnemonics on the context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Mnemonici nel menu contestuale</translation>
     </message>
     <message>
         <source>Default opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacità predefinita:</translation>
     </message>
     <message>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta l&apos;opacità predefinita per le nuove finestre delle immagini.
+Intervallo: 10-100</translation>
     </message>
     <message>
         <source>Auto backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Backup automatico</translation>
     </message>
     <message>
         <source>Let new image windows have shadows.
 You can also find this option in the context menu of individual image window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lascia che le nuove finestre delle immagini abbiano ombre.
+È possibile trovare quest&apos;opzione anche nel menu contestuale della singola finestra dell&apos;immagine.</translation>
     </message>
     <message>
         <source>If the source is a screenshot, show it where you snipped.
 If disabled, it would always be shown at the center of the primary screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se la sorgente è uno screenshot, mostralo dove lo hai ritagliato.
+Se disabilitato, sarà sempre mostrato al centro della schermata principale.</translation>
     </message>
     <message>
         <source>Use snipping position</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa la posizione di ritaglio</translation>
     </message>
     <message>
         <source>Zoom by mouse wheel</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom con la rotella del mouse</translation>
     </message>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se non selezionato, esegui lo zoom nell&apos;angolo in alto a sinistra.</translation>
     </message>
     <message>
         <source>at mouse cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>al cursore del mouse</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciò potrebbe causare sfarfallìo.</translation>
     </message>
     <message>
         <source>Let new images use smooth scaling when zooming.
 You can also find this option in the context menu of individual image window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consenti alle nuove immagini di utilizzare un ridimensionamento uniforme durante lo zoom.
+È possibile trovare quest&apos;opzione anche nel menu contestuale della singola finestra dell&apos;immagine.</translation>
     </message>
     <message>
         <source>Smooth scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ridimensionamento uniforme</translation>
     </message>
     <message>
         <source>Let the &apos;reset&apos; operation work on thumbnail too.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lascia che l&apos;operazione di &apos;ripristino&apos; funzioni anche sulla miniatura.</translation>
     </message>
     <message>
         <source>Reset on thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Reimposta la miniatura</translation>
     </message>
     <message>
         <source>Let the image window be translucent if its border is flashing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lascia che la finestra dell&apos;immagine sia traslucida se il suo bordo lampeggia.</translation>
     </message>
     <message>
         <source>Translucent when flashing</source>
-        <translation type="unfinished"></translation>
+        <translation>Traslucido quando lampeggia</translation>
     </message>
     <message>
         <source>Flash the image windows after you have switched to another image group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lampeggia le finestre delle immagini dopo essere passati a un altro gruppo di immagini.</translation>
     </message>
     <message>
         <source>Flash after switching to another group</source>
-        <translation type="unfinished"></translation>
+        <translation>Lampeggia dopo il passaggio ad un altro gruppo</translation>
     </message>
     <message>
         <source>When you paste, automatically hide all image windows, if any image window is currently flashing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando incolli, nascondi automaticamente tutte le finestre immagine, se una qualsiasi finestra immagine sta lampeggiando.</translation>
     </message>
     <message>
         <source>Hide all images if you paste when any image is flashing</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi tutte le immagini se incolli quando una qualsiasi immagine lampeggia</translation>
     </message>
     <message>
         <source>If not checked, the original window will be automatically hidden for drag-and-drop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se non selezionata, la finestra originale verrà automaticamente nascosta per il drag-and-drop.</translation>
     </message>
     <message>
         <source>Preserve the original window for drag-and-drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Conserva la finestra originale per il drag-and-drop</translation>
     </message>
     <message>
         <source>When a new image is pasted:</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando viene incollata una nuova immagine:</translation>
     </message>
     <message>
         <source>Let the border of a new image window flash.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lascia che il bordo di una nuova finestra dell&apos;immagine lampeggi.</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Lampeggio</translation>
     </message>
     <message>
         <source>Let the new image window gain keyboard focus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lascia che la nuova finestra dell&apos;immagine ottenga il focus della tastiera.</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Attivare</translation>
     </message>
     <message>
         <source>Max recoverable closed images:</source>
-        <translation type="unfinished"></translation>
+        <translation>Max immagini chiuse recuperabili:</translation>
     </message>
     <message>
         <source>Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversione</translation>
     </message>
     <message>
         <source>Text to Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo in Immagine</translation>
     </message>
     <message>
         <source>Always treat text as plain text when converting text to image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Considera sempre il testo come testo normale quando converti il testo in immagine.</translation>
     </message>
     <message>
         <source>Always ignore HTML formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora sempre le formattazioni HTML</translation>
     </message>
     <message>
         <source>If you copy an image file, the first paste will show the image, the second paste will show the file path.
 If you copy a non-image file, a paste will immediately show the file path.
 If this option is checked, the above features will be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se copi un file immagine, il primo incolla mostrerà l&apos;immagine, il secondo incolla mostrerà il percorso del file.
+Se copi un file non-immagine, l&apos;incolla mostrerà immediatamente il percorso del file.
+Se questa opzione è selezionata, le funzionalità sopra descritte saranno disabilitate.</translation>
     </message>
     <message>
         <source>Never paste file paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Non incollare mai i percorsi dei file</translation>
     </message>
     <message>
         <source>Page margin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Margine della pagina:</translation>
     </message>
     <message>
         <source>The blank space around the text</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo spazio vuoto intorno al testo</translation>
     </message>
     <message>
         <source>Max width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Larghezza massima:</translation>
     </message>
     <message>
         <source>The max width of the image converted from text</source>
-        <translation type="unfinished"></translation>
+        <translation>La larghezza massima dell&apos;immagine convertita dal testo</translation>
     </message>
     <message>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Carattere:</translation>
     </message>
     <message>
         <source>The font used for plain text conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Il carattere utilizzato per la conversione del testo normale</translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colori:</translation>
     </message>
     <message>
         <source>The background color used for plain text conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Il colore di sfondo utilizzato per la conversione del testo normale</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfondo</translation>
     </message>
     <message>
         <source>The text color used for plain text conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Il colore del testo utilizzato per la conversione del testo normale</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo</translation>
     </message>
     <message>
         <source>Text-to-image conversion preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteprima della conversione da testo a immagine</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Produzione</translation>
     </message>
     <message>
         <source>Image quality:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qualità dell&apos;immagine:</translation>
     </message>
     <message>
         <source>Set the default output image quality.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta la qualità predefinita dell&apos;immagine prodotta.</translation>
     </message>
     <message>
         <source>Range: 0 to 100 or -1.
 Specify 0 to obtain small compressed files, 100 for large uncompressed files.
 Specify -1 to let Snipaste decide for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervallo: da 0 a 100 o -1.
+Specifica 0 per ottenere piccoli file compressi, 100 per grandi file non compressi.
+Specifica -1 per lasciare che Snipaste decida per te.</translation>
     </message>
     <message>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteprima:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfoglia la cartella di salvataggio rapido.</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri</translation>
     </message>
     <message>
         <source>Change the quick save folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia la cartella di salvataggio rapido.</translation>
     </message>
     <message>
         <source>Auto Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvataggio automatico</translation>
     </message>
     <message>
         <source>Automatically save every screenshot will be saved to this folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva automaticamente ogni screenshot verrà salvato in questa cartella.</translation>
     </message>
     <message>
         <source>Browse the auto save folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfoglia la cartella di salvataggio automatico.</translation>
     </message>
     <message>
         <source>Change the auto save folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia la cartella di salvataggio automatico.</translation>
     </message>
     <message>
         <source>Global Hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasti di scelta rapida globali</translation>
     </message>
     <message>
         <source>Image Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Operazioni sulle immagini</translation>
     </message>
     <message>
         <source>Close image:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi immagine:</translation>
     </message>
     <message>
         <source>Reset image:</source>
-        <translation type="unfinished"></translation>
+        <translation>Reimposta immagine:</translation>
     </message>
     <message>
         <source>* If conflicted, the upper operation will be matched</source>
-        <translation type="unfinished"></translation>
+        <translation>* In caso di conflitto, verrà abbinata l&apos;operazione superiore</translation>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>Associazioni dei tasti</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornare</translation>
     </message>
     <message>
         <source>Be the first to test new features of Snipaste!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sii il primo a collaudare le nuove funzionalità di Snipaste!</translation>
     </message>
     <message>
         <source>Include beta builds</source>
-        <translation type="unfinished"></translation>
+        <translation>Includi build beta</translation>
     </message>
     <message>
         <source>Beta versions may contain more bugs.
 Please report to the developer if you find any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le versioni beta possono contenere diversi bug.
+Si prega di segnalare allo sviluppatore se ne trovate.</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifica la disponibilità di aggiornamenti all&apos;avvio</translation>
     </message>
     <message>
         <source>Delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritardo:</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>Every</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogni</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy</translation>
     </message>
     <message>
         <source>Proxy type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo di proxy:</translation>
     </message>
     <message>
         <source>Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Server:</translation>
     </message>
     <message>
         <source>Proxy server requires password</source>
-        <translation type="unfinished"></translation>
+        <translation>Il server proxy richiede una password</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome utente:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlla gli aggiornamenti</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni su</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versione</translation>
     </message>
     <message>
         <source>Licenses</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenze</translation>
     </message>
     <message>
         <source>Contact:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contatto:</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Archiviazione della configurazione</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Percorso:</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri il file di configurazione nell&apos;editor di testo predefinito.</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia la posizione del file di configurazione.</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
