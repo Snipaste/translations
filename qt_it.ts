@@ -85,99 +85,99 @@
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"></translation>
+        <translation>Assente</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Blu</translation>
     </message>
     <message>
         <source>Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Libro</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiamata</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia</translation>
     </message>
     <message>
         <source>Ctrl</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Giù</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Esci</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Trova</translation>
     </message>
     <message>
         <source>Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Capovolgi</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"></translation>
+        <translation>Gioco</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Aiuto</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Home</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menù</translation>
     </message>
     <message>
         <source>Meta</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Novità</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri</translation>
     </message>
     <message>
         <source>PgUp</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag Su</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Riproduci</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia</translation>
     </message>
     <message>
         <source>Shop</source>
@@ -185,15 +185,15 @@
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferma</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ora</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>XFer</source>
@@ -201,71 +201,71 @@
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Split Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermo diviso</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripulire</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Eject</source>
-        <translation type="unfinished"></translation>
+        <translation>Espellere</translation>
     </message>
     <message>
         <source>Enter</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserire</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde</translation>
     </message>
     <message>
         <source>Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Guida</translation>
     </message>
     <message>
         <source>Kanji</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanji</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Musica</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefono</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Stampa</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Rispondi</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <source>Shift</source>
