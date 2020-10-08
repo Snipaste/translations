@@ -900,7 +900,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Marker pen</source>
-        <translation>Pennarello</translation>
+        <translation>Evidenziatore</translation>
     </message>
     <message>
         <source>Text</source>
@@ -955,7 +955,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation>Fare clic su questa icona per alternare sfocatura a mosaico e gaussiana.</translation>
+        <translation>Fare clic su questa icona per alternare sfocatura a mosaico e Gaussiana.</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
@@ -1761,7 +1761,7 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation>Non lo mostrare questo di nuovo</translation>
+        <translation>Non mostrare più</translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -2298,11 +2298,11 @@ Tuttavia, in questo modo, il canale alfa dell&apos;immagine sarà perduto.</tran
     </message>
     <message>
         <source>Quit snipping if any window of other programs is activated.</source>
-        <translation>Chiudere il ritaglio se una qualsiasi finestra di altri programmi viene attivata.</translation>
+        <translation>Esci dal ritaglio se una qualsiasi finestra di altri programmi viene attivata.</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
-        <translation>Esci dal ritaglio se qualsiasi altra finestra è attivata</translation>
+        <translation>Esci dal ritaglio se una qualsiasi altra finestra viene attivata</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
@@ -2310,11 +2310,11 @@ Tuttavia, in questo modo, il canale alfa dell&apos;immagine sarà perduto.</tran
     </message>
     <message>
         <source>then</source>
-        <translation>allora</translation>
+        <translation>quindi</translation>
     </message>
     <message>
         <source>quit snipping</source>
-        <translation>smetti di ritagliare</translation>
+        <translation>esci dal ritaglio</translation>
     </message>
     <message>
         <source>Ignore Win key:</source>
@@ -3018,7 +3018,7 @@ Otterrai un tempo di risposta migliore per l&apos;avvio del ritaglio.</translati
     </message>
     <message>
         <source>Rate</source>
-        <translation>Tasso</translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <source>I&apos;m not interest in PRO</source>
@@ -3128,124 +3128,124 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi tutte le finestre delle immagini quando viene visualizzata la finestra di dialogo File</translation>
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Elenco ignorato:</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci nomi/percorsi degli eseguibili separati da virgole (es. a.exe, giochi/*)</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri la cartella contenitrice</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra suggerimenti per l&apos;associazione dei tasti</translation>
     </message>
     <message>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora il comando &quot;Ccopy&quot; simulato da altre applicazioni</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzioni di produzione:</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombra:</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordo:</translation>
     </message>
 </context>
 <context>
     <name>paintbar0</name>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Esci dal ritaglio (Esc)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fissa allo schermo (Ctrl+T)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva su file (Ctrl+S)</translation>
     </message>
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia negli appunti (Ctrl + C)</translation>
     </message>
     <message>
         <source>Finish edit (Esc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Termina modifica (Esc)</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rettangolo/Ellisse (Ctrl+1)</translation>
     </message>
     <message>
         <source>Line strip (Ctrl+2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea spezzata (Ctrl+2)</translation>
     </message>
     <message>
         <source>Arrow (Ctrl+3)</source>
-        <translation type="unfinished"></translation>
+        <translation>Freccia (Ctrl+3)</translation>
     </message>
     <message>
         <source>Pencil (Ctrl+4)</source>
-        <translation type="unfinished"></translation>
+        <translation>Matita (Ctrl+4)</translation>
     </message>
     <message>
         <source>Marker pen (Ctrl+5)</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidenziatore (Ctrl+5)</translation>
     </message>
     <message>
         <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mosaico/Sfocatura (Ctrl+6)</translation>
     </message>
     <message>
         <source>Text (Ctrl+7)</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo (Ctrl+7)</translation>
     </message>
 </context>
 <context>
     <name>paintbar1</name>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Riempi</translation>
     </message>
     <message>
         <source>Font family</source>
-        <translation type="unfinished"></translation>
+        <translation>Famiglia di caratteri</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterna mosaico/sfocatura</translation>
     </message>
     <message>
         <source>Fill with stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Riempi con il tratto</translation>
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Scala dei caratteri</translation>
     </message>
     <message>
         <source>Pen style</source>
