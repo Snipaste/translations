@@ -277,31 +277,31 @@
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Spazio</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Strumenti</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Hiragana</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiragana</translation>
     </message>
     <message>
         <source>Wireless</source>
-        <translation type="unfinished"></translation>
+        <translation>Senza fili</translation>
     </message>
     <message>
         <source>Media Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Registra media</translation>
     </message>
     <message>
         <source>Media Rewind</source>
-        <translation type="unfinished"></translation>
+        <translation>Riavvolgi media</translation>
     </message>
     <message>
         <source>Multiple Candidate</source>
@@ -313,43 +313,43 @@
     </message>
     <message>
         <source>Print Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Stampa Schermo</translation>
     </message>
     <message>
         <source>Audio Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripetizione audio</translation>
     </message>
     <message>
         <source>Toggle Call/Hangup</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterna Chiama/Riaggancia</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom avanti</translation>
     </message>
     <message>
         <source>Camera Shutter</source>
-        <translation type="unfinished"></translation>
+        <translation>Otturatore fotocamera</translation>
     </message>
     <message>
         <source>Ultra Wide Band</source>
-        <translation type="unfinished"></translation>
+        <translation>Banda Ultra Larga</translation>
     </message>
     <message>
         <source>Hangul Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangul Speciale</translation>
     </message>
     <message>
         <source>Treble Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuisci acuti</translation>
     </message>
     <message>
         <source>Scroll Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocco Maiuscole</translation>
     </message>
     <message>
         <source>Media Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <source>Word Processor</source>
@@ -357,11 +357,11 @@
     </message>
     <message>
         <source>Volume Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuisci volume</translation>
     </message>
     <message>
         <source>Volume Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume muto</translation>
     </message>
     <message>
         <source>Kana Shift</source>
@@ -369,7 +369,7 @@
     </message>
     <message>
         <source>Media Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Media precedente</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -377,15 +377,15 @@
     </message>
     <message>
         <source>Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Riunione</translation>
     </message>
     <message>
         <source>Touchpad Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Touchpad spento</translation>
     </message>
     <message>
         <source>Volume Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumenta volume</translation>
     </message>
     <message>
         <source>Menu PB</source>
@@ -393,7 +393,7 @@
     </message>
     <message>
         <source>Keyboard Brightness Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumenta luminosità tastiera</translation>
     </message>
     <message>
         <source>Hangul PostHanja</source>
@@ -405,43 +405,43 @@
     </message>
     <message>
         <source>Community</source>
-        <translation type="unfinished"></translation>
+        <translation>Comunità</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Launch (6)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (6)</translation>
     </message>
     <message>
         <source>Launch (7)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (7)</translation>
     </message>
     <message>
         <source>Launch (8)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (8)</translation>
     </message>
     <message>
         <source>Launch (9)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (9)</translation>
     </message>
     <message>
         <source>Launch (2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (2)</translation>
     </message>
     <message>
         <source>Launch (3)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (3)</translation>
     </message>
     <message>
         <source>Launch (4)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (4)</translation>
     </message>
     <message>
         <source>Launch (5)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (5)</translation>
     </message>
     <message>
         <source>Launch (0)</source>
