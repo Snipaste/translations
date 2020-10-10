@@ -482,19 +482,19 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Left click</source>
-        <translation>Clic sinistro</translation>
+        <translation>Click sinistro</translation>
     </message>
     <message>
         <source>Left double-click</source>
-        <translation>Doppio clic sinistro</translation>
+        <translation>Doppio click sinistro</translation>
     </message>
     <message>
         <source>Middle click</source>
-        <translation>Clic centrale</translation>
+        <translation>Click centrale</translation>
     </message>
     <message>
         <source>Right click</source>
-        <translation>Clic destro</translation>
+        <translation>Click destro</translation>
     </message>
 </context>
 <context>
@@ -955,11 +955,11 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation>Fare clic su questa icona per alternare sfocatura a mosaico e Gaussiana.</translation>
+        <translation>Fare click su questa icona per alternare sfocatura a mosaico e Gaussiana.</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation>Trascina per disegnare una linea singola o fai clic per disegnare linee spezzate.</translation>
+        <translation>Trascina per disegnare una linea singola o fai click per disegnare linee spezzate.</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1273,7 +1273,7 @@ Puoi trovare il tasto di scelta rapida del click-attraverso del mouse in &quot;P
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation>Facendo doppio clic sulla finestra dell&apos;immagine si chiuderà la finestra.
+        <translation>Facendo doppio click sulla finestra dell&apos;immagine si chiuderà la finestra.
 È possibile configurare questo comportamento nella finestra di dialogo Preferenze: Controllo - Mouse.</translation>
     </message>
     <message>
@@ -2346,7 +2346,7 @@ Tuttavia, in questo modo, il canale alfa dell&apos;immagine sarà perduto.</tran
     </message>
     <message>
         <source>Loop</source>
-        <translation>Ciclo</translation>
+        <translation>Ciclo continuo</translation>
     </message>
     <message>
         <source>Max number of history records:</source>
@@ -2918,7 +2918,7 @@ Otterrai un tempo di risposta migliore per l&apos;avvio del ritaglio.</translati
     </message>
     <message>
         <source>Middle click:</source>
-        <translation>Clic centrale:</translation>
+        <translation>Click centrale:</translation>
     </message>
     <message>
         <source>Right click:</source>
@@ -3062,15 +3062,15 @@ Otterrai un tempo di risposta migliore per l&apos;avvio del ritaglio.</translati
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation>Quale azione eseguire per il doppio clic durante il ritaglio.</translation>
+        <translation>Quale azione eseguire per il doppio click durante il ritaglio.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation>Clic centrale:</translation>
+        <translation>Click centrale:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation>Quale azione eseguire per il clic centrale durante il ritaglio.</translation>
+        <translation>Quale azione eseguire per il click centrale durante il ritaglio.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
@@ -3190,7 +3190,7 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     </message>
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
-        <translation>Copia negli appunti (Ctrl + C)</translation>
+        <translation>Copia negli appunti (Ctrl+C)</translation>
     </message>
     <message>
         <source>Finish edit (Esc)</source>
