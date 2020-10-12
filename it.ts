@@ -16,7 +16,7 @@
     <name>CustomSnipDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation>Editare le preimpostazioni...</translation>
+        <translation>Modifica le preimpostazioni...</translation>
     </message>
     <message>
         <source>s</source>
@@ -652,7 +652,7 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Follow</source>
-        <translation>Seguire</translation>
+        <translation>Seguici su</translation>
     </message>
     <message>
         <source>Weibo</source>
@@ -2678,7 +2678,7 @@ Specifica -1 per lasciare che Snipaste decida per te.</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation>Aggiornare</translation>
+        <translation>Aggiornamento</translation>
     </message>
     <message>
         <source>Be the first to test new features of Snipaste!</source>
