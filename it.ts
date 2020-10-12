@@ -912,7 +912,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation>Gomma da cancellare</translation>
+        <translation>Gomma per cancellare</translation>
     </message>
     <message>
         <source>Normal snip</source>
@@ -983,7 +983,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation>Gomma da cancellare</translation>
+        <translation>Gomma per cancellare</translation>
     </message>
     <message>
         <source>Text background</source>
