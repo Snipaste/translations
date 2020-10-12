@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>Num</source>
-        <translation>Tast. Num.</translation>
+        <translation>Tastierino Numerico</translation>
     </message>
     <message>
         <source>Red</source>
@@ -273,7 +273,7 @@
     </message>
     <message>
         <source>Sleep</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità risparmio</translation>
     </message>
     <message>
         <source>Space</source>
@@ -373,7 +373,7 @@
     </message>
     <message>
         <source>Home Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina principale</translation>
     </message>
     <message>
         <source>Meeting</source>
@@ -1313,7 +1313,7 @@
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>Sotto&amp;linea</translation>
+        <translation>&amp;Sottolineato</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -1332,15 +1332,15 @@
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>&amp;Sat:</translation>
+        <translation>&amp;Saturazione:</translation>
     </message>
     <message>
         <source>&amp;Val:</source>
-        <translation>&amp;Val:</translation>
+        <translation>&amp;Luminosità:</translation>
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation>&amp;Ton:</translation>
+        <translation>&amp;Tonalità:</translation>
     </message>
     <message>
         <source>&amp;HTML:</source>
