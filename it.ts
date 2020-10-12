@@ -415,7 +415,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation>Regola la larghezza della penna</translation>
+        <translation>Regola la larghezza del tratto</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
@@ -2114,7 +2114,7 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     </message>
     <message>
         <source>Log level:</source>
-        <translation>Livello di registro:</translation>
+        <translation>Livello di registrazione:</translation>
     </message>
     <message>
         <source>Open log file</source>
