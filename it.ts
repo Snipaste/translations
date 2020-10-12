@@ -133,7 +133,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Basic Operations</source>
-        <translation>Operazioni Basilari</translation>
+        <translation>Operazioni di base</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -145,7 +145,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Advanced Configs</source>
-        <translation>Configurazioni Avanzate</translation>
+        <translation>Configurazioni avanzate</translation>
     </message>
     <message>
         <source>Troubleshooting</source>
@@ -1094,7 +1094,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation>Lisciatura</translation>
+        <translation>Smussatura</translation>
     </message>
     <message>
         <source>Background mode</source>
@@ -2638,7 +2638,7 @@ Specifica -1 per lasciare che Snipaste decida per te.</translation>
     </message>
     <message>
         <source>Auto Save</source>
-        <translation>Salvataggio automatico</translation>
+        <translation>Salvataggio Automatico</translation>
     </message>
     <message>
         <source>Automatically save every screenshot will be saved to this folder.</source>
@@ -2658,7 +2658,7 @@ Specifica -1 per lasciare che Snipaste decida per te.</translation>
     </message>
     <message>
         <source>Image Operations</source>
-        <translation>Operazioni sulle immagini</translation>
+        <translation>Operazioni sulle Immagini</translation>
     </message>
     <message>
         <source>Close image:</source>
@@ -3088,7 +3088,7 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     </message>
     <message>
         <source>Manual Save</source>
-        <translation>Salvataggio manuale</translation>
+        <translation>Salvataggio Manuale</translation>
     </message>
     <message>
         <source>File name:</source>
@@ -3229,7 +3229,7 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     <name>paintbar1</name>
     <message>
         <source>Fill</source>
-        <translation>Riempi</translation>
+        <translation>Area</translation>
     </message>
     <message>
         <source>Font family</source>
