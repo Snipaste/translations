@@ -1071,7 +1071,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -1365,7 +1365,8 @@
     <message>
         <source>Cursor at %1, %2
 Press ESC to cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursore su %1, %2
+Premere ESC per annullare</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
