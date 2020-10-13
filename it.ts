@@ -415,7 +415,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation>Regola la larghezza del tratto</translation>
+        <translation>Regola l&apos;ampiezza del tratto</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
