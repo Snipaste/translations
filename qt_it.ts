@@ -813,7 +813,7 @@
     </message>
     <message>
         <source>My Sites</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferiti</translation>
     </message>
     <message>
         <source>Rotate Windows</source>
@@ -857,7 +857,7 @@
     </message>
     <message>
         <source>Screensaver</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvaschermo</translation>
     </message>
     <message>
         <source>Number Lock</source>
@@ -865,7 +865,7 @@
     </message>
     <message>
         <source>Power Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Spegnere</translation>
     </message>
     <message>
         <source>Spellchecker</source>
@@ -897,11 +897,11 @@
     </message>
     <message>
         <source>Microphone Volume Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuisci volume microfono</translation>
     </message>
     <message>
         <source>Task Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestione attività</translation>
     </message>
     <message>
         <source>Favorites</source>
@@ -921,7 +921,7 @@
     </message>
     <message>
         <source>Power Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Spegnere</translation>
     </message>
     <message>
         <source>LightBulb</source>
@@ -929,7 +929,7 @@
     </message>
     <message>
         <source>Touchpad Toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Commuta touchpad</translation>
     </message>
     <message>
         <source>Hankaku</source>
@@ -937,7 +937,7 @@
     </message>
     <message>
         <source>Media Fast Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzamento rapido media</translation>
     </message>
     <message>
         <source>Hangul End</source>
@@ -945,27 +945,27 @@
     </message>
     <message>
         <source>Monitor Brightness Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuisci luminosità monitor</translation>
     </message>
     <message>
         <source>Microphone Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Microfono muto</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"></translation>
+        <translation>Storico</translation>
     </message>
     <message>
         <source>Media Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui media</translation>
     </message>
     <message>
         <source>Media Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop media</translation>
     </message>
     <message>
         <source>Media Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Media seguente</translation>
     </message>
     <message>
         <source>Touchpad On</source>
@@ -973,19 +973,19 @@
     </message>
     <message>
         <source>Channel Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Canale giù</translation>
     </message>
     <message>
         <source>Launch Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvia media</translation>
     </message>
     <message>
         <source>Application Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicazione destra</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagini</translation>
     </message>
 </context>
 <context>
@@ -1055,7 +1055,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation>Ciudi</translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1186,7 +1186,7 @@
     </message>
     <message>
         <source>Demi Bold</source>
-        <translation>Semigrassetto</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Arabic</source>
@@ -1218,7 +1218,7 @@
     </message>
     <message>
         <source>Oblique</source>
-        <translation type="unfinished"></translation>
+        <translation>Obliquo</translation>
     </message>
     <message>
         <source>Telugu</source>
