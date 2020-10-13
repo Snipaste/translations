@@ -971,7 +971,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Contorno</translation>
+        <translation>Contornato</translation>
     </message>
     <message>
         <source>Width:</source>
