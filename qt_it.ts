@@ -445,35 +445,35 @@
     </message>
     <message>
         <source>Launch (0)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (0)</translation>
     </message>
     <message>
         <source>Launch (1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (1)</translation>
     </message>
     <message>
         <source>Launch (F)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (F)</translation>
     </message>
     <message>
         <source>Launch (B)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (B)</translation>
     </message>
     <message>
         <source>Launch (C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (C)</translation>
     </message>
     <message>
         <source>Launch (D)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (D)</translation>
     </message>
     <message>
         <source>Launch (E)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (E)</translation>
     </message>
     <message>
         <source>Launch (A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancio (A)</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -509,11 +509,11 @@
     </message>
     <message>
         <source>Last Number Redial</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricomposizione ultimo numero</translation>
     </message>
     <message>
         <source>Logoff</source>
-        <translation type="unfinished"></translation>
+        <translation>Disconnessione</translation>
     </message>
     <message>
         <source>Market</source>
@@ -525,11 +525,11 @@
     </message>
     <message>
         <source>Bass Boost</source>
-        <translation type="unfinished"></translation>
+        <translation>Esalta bassi</translation>
     </message>
     <message>
         <source>Channel Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Canale successivo</translation>
     </message>
     <message>
         <source>Option</source>
@@ -565,7 +565,7 @@
     </message>
     <message>
         <source>Travel</source>
-        <translation type="unfinished"></translation>
+        <translation>Viaggio</translation>
     </message>
     <message>
         <source>NumLock</source>
@@ -597,7 +597,7 @@
     </message>
     <message>
         <source>Audio Cycle Track</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripeti brano audio</translation>
     </message>
     <message>
         <source>Context1</source>
@@ -625,7 +625,7 @@
     </message>
     <message>
         <source>Open URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri URL</translation>
     </message>
     <message>
         <source>iTouch</source>
@@ -637,7 +637,7 @@
     </message>
     <message>
         <source>Toggle Media Play/Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterna Esecuzione/Pausa media</translation>
     </message>
     <message>
         <source>Caps Lock</source>
@@ -649,7 +649,7 @@
     </message>
     <message>
         <source>Code input</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserimento codice</translation>
     </message>
     <message>
         <source>Printer</source>
@@ -681,7 +681,7 @@
     </message>
     <message>
         <source>Monitor Brightness Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumenta luminosità del monitor</translation>
     </message>
     <message>
         <source>System Request</source>
@@ -689,7 +689,7 @@
     </message>
     <message>
         <source>Microphone Volume Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumenta volume microfono</translation>
     </message>
     <message>
         <source>CapsLock</source>
@@ -701,11 +701,11 @@
     </message>
     <message>
         <source>Bass Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumenta bassi</translation>
     </message>
     <message>
         <source>Battery</source>
-        <translation type="unfinished"></translation>
+        <translation>Batteria</translation>
     </message>
     <message>
         <source>Katakana</source>
@@ -713,15 +713,15 @@
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricarica</translation>
     </message>
     <message>
         <source>Hibernate</source>
-        <translation type="unfinished"></translation>
+        <translation>Sospendi</translation>
     </message>
     <message>
         <source>Application Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicazione sinistra</translation>
     </message>
     <message>
         <source>Voice Dial</source>
@@ -729,11 +729,11 @@
     </message>
     <message>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigatore</translation>
     </message>
     <message>
         <source>Keyboard Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menù tastiera</translation>
     </message>
     <message>
         <source>Back Forward</source>
@@ -741,7 +741,7 @@
     </message>
     <message>
         <source>Launch Mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvia Mail</translation>
     </message>
     <message>
         <source>Keyboard Light On/Off</source>
@@ -753,11 +753,11 @@
     </message>
     <message>
         <source>Bass Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuisci bassi</translation>
     </message>
     <message>
         <source>Mail Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Inoltra posta</translation>
     </message>
     <message>
         <source>Messenger</source>
@@ -773,7 +773,7 @@
     </message>
     <message>
         <source>Standby</source>
-        <translation type="unfinished"></translation>
+        <translation>Attesa</translation>
     </message>
     <message>
         <source>Hangul Start</source>
@@ -801,7 +801,7 @@
     </message>
     <message>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Sospendi</translation>
     </message>
     <message>
         <source>Display</source>
