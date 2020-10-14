@@ -493,7 +493,7 @@
     </message>
     <message>
         <source>Hangup</source>
-        <translation type="unfinished"></translation>
+        <translation>Riagganciare</translation>
     </message>
     <message>
         <source>Henkan</source>
@@ -781,11 +781,11 @@
     </message>
     <message>
         <source>Rotation KB</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotazione KB</translation>
     </message>
     <message>
         <source>Rotation PB</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotazione PB</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -917,7 +917,7 @@
     </message>
     <message>
         <source>Wake Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Riattivazione</translation>
     </message>
     <message>
         <source>Power Off</source>
