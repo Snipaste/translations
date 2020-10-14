@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation>Premere %1 per commutare fra RGB/HEX</translation>
+        <translation>Premere %1 per alternare RGB/HEX</translation>
     </message>
 </context>
 <context>
