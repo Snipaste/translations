@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ko">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -350,18 +357,6 @@ Please contact the developer.</source>
     <message>
         <source>Send the image to the printer</source>
         <translation>이미지를 프린터로 전송</translation>
-    </message>
-    <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">편집 모드에서 현재 모양 편집 완료</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">마우스 스크롤 또는 1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation type="vanished">편집 모드에서 펜 폭 감소 / 증가</translation>
     </message>
     <message>
         <source>or</source>
@@ -953,20 +948,16 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Free</source>
         <translation>무료</translation>
     </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>색상 선택</translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="vanished">펜 너비를 변경하려면 마우스 휠을 스크롤하거나 &apos;1&apos;또는 &apos;2&apos;를 누르십시오.</translation>
-    </message>
-    <message>
-        <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="vanished">텍스트 상자의 모서리를 끌어서 텍스트 크기를 변경할 수 있습니다.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -987,27 +978,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Outline</source>
         <translation>테두리</translation>
-    </message>
-    <message>
-        <source>Copy with shadow</source>
-        <translatorcomment>(</translatorcomment>
-        <translation type="vanished">(그림자 포함) 클립보드에 복사</translation>
-    </message>
-    <message>
-        <source>Save with shadow</source>
-        <translation type="vanished">(그림자 포함) 저장</translation>
-    </message>
-    <message>
-        <source>Copy without shadow</source>
-        <translation type="vanished">(그림자 제외) 클립보드로 복사</translation>
-    </message>
-    <message>
-        <source>Save without shadow</source>
-        <translation type="vanished">(그림자 제외) 저장</translation>
-    </message>
-    <message>
-        <source>Radius:</source>
-        <translation type="vanished">반지름 : </translation>
     </message>
     <message>
         <source>Width:</source>
@@ -1244,20 +1214,8 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>사용자</translation>
     </message>
     <message>
-        <source>Copy image with shadow</source>
-        <translation type="vanished">그림자가있는 이미지 복사</translation>
-    </message>
-    <message>
         <source>Copy unscaled image</source>
         <translation>크기가 조절되지 않은 이미지 복사</translation>
-    </message>
-    <message>
-        <source>Copy unscaled image with shadow</source>
-        <translation type="vanished">스케일이없는 이미지를 그림자로 복사</translation>
-    </message>
-    <message>
-        <source>Save image with shadow as...</source>
-        <translation type="vanished">그림자가있는 이미지를 다른 이름으로 저장 ...</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1310,10 +1268,6 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Save unscaled image as...</source>
         <translation>크기 조정되지 않은 이미지를 다른 이름으로 저장 ...</translation>
-    </message>
-    <message>
-        <source>Save unscaled image with shadow as...</source>
-        <translation type="vanished">그림자가없는 비 스케일 이미지를 다른 이름으로 저장...</translation>
     </message>
     <message>
         <source>Invert color</source>
@@ -1867,10 +1821,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>%1는 개인 용도로만 무료입니다. 직장에서 사용하려면 PRO 라이센스가 필요합니다.</translation>
     </message>
     <message>
-        <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="vanished">PRO 버전은 20 가지 이상의 어마무시한 새 기능을 제공합니다!</translation>
-    </message>
-    <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
         <translation>자세한 내용은 &lt;a href=&quot;%1&quot;&gt; 웹 사이트 &lt;/a&gt;를 방문하세요</translation>
     </message>
@@ -1886,10 +1836,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>취소</translation>
-    </message>
-    <message>
-        <source>Enter license key</source>
-        <translation type="vanished">라이센스 키 입력</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -3074,10 +3020,6 @@ You will gain better response time on entering snipping.</source>
         <translation>평가</translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation>프로버전엔 관시미가 없어영</translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation>다음 번에 사용 할 수 있도록 캡춰 창의 상태와 이미지 창을 자동으로 기억합니다.</translation>
     </message>
@@ -3206,6 +3148,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
         <translation>다른 응용 프로그램에서 시뮬레이션 한 &quot;Ccopy&quot;명령 무시</translation>
     </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3251,10 +3201,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>실행취소(Ctrl+Z)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">다시실행(Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

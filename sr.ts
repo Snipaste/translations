@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="sr_RS" sourcelanguage="en">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -352,18 +359,6 @@ Please contact the developer.</source>
     <message>
         <source>Send the image to the printer</source>
         <translation>Послати слику на штампач</translation>
-    </message>
-    <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">Завршити едитовање тренутног облика када се едитује</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">Точак миша или 1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation type="vanished">Смањити/повећати ширину оловке у моду едитовања</translation>
     </message>
     <message>
         <source>or</source>
@@ -958,20 +953,16 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Free</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Одабрати боју</translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="vanished">Да бисте променили ширину оловке, померите точкић миша или притисните &apos;1&apos; или &apos;2&apos;.</translation>
-    </message>
-    <message>
-        <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="vanished">Можете да повучете угао поља за текст да бисте променили величину текста.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -992,14 +983,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Outline</source>
         <translation>Контура</translation>
-    </message>
-    <message>
-        <source>Copy with shadow</source>
-        <translation type="vanished">Копирај са сенком</translation>
-    </message>
-    <message>
-        <source>Save with shadow</source>
-        <translation type="vanished">Сачувај са сенком</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -1235,20 +1218,8 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>Прилагоди...</translation>
     </message>
     <message>
-        <source>Copy image with shadow</source>
-        <translation type="vanished">Копирај слику са сенком</translation>
-    </message>
-    <message>
         <source>Copy unscaled image</source>
         <translation>Копирај слике без скале</translation>
-    </message>
-    <message>
-        <source>Copy unscaled image with shadow</source>
-        <translation type="vanished">Копирај слике без скале са сенком</translation>
-    </message>
-    <message>
-        <source>Save image with shadow as...</source>
-        <translation type="vanished">Сачувај слику са сенком као...</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1854,10 +1825,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>%1 је сао за личну употребу. Ако га користите у радној околини, треба PRO лиценца.</translation>
     </message>
     <message>
-        <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="vanished">PRO верзија пружа више од 20 способности!</translation>
-    </message>
-    <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
         <translation>Ићи на &lt;a href=&quot;%1&quot;&gt;сајт&lt;/a&gt; за више информације.</translation>
     </message>
@@ -1872,10 +1839,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>Поништити</translation>
-    </message>
-    <message>
-        <source>Enter license key</source>
-        <translation type="vanished">Унос лиценце</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -3068,10 +3031,6 @@ You will gain better response time on entering snipping.</source>
         <translation>Оцена</translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation>Нисам заинтересован у ПРО</translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation>Аутоматско прављење резервних копија статуса прозора за исецање, као и прозора слике, тако да могу бити спасене када следећи пут отворите програм.</translation>
     </message>
@@ -3201,6 +3160,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3246,10 +3213,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Опозвати (Ctrl+Z)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">Поновити (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

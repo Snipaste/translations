@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">Välj färg</translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -352,18 +359,6 @@ Kontakta programutvecklaren.</translation>
     <message>
         <source>Send the image to the printer</source>
         <translation>Skicka bild till skrivare</translation>
-    </message>
-    <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">Slutför redigering av aktuell figur i redigeringsläge</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">Musskroll eller 1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation type="vanished">Minska /Öka pennbredden i redigeringsläget</translation>
     </message>
     <message>
         <source>or</source>
@@ -952,16 +947,16 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Free</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Välj färg</translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="vanished">Skrolla eller tryck &quot;1&quot; eller &quot;2&quot;, för att ändra penntjocklek.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -3027,10 +3022,6 @@ You will gain better response time on entering snipping.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3159,6 +3150,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3188,10 +3187,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Marker pen (Ctrl+5)</source>
         <translation>Markeringspenna (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">Upprepa (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

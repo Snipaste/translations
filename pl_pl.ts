@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="pl_PL" sourcelanguage="en_US">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">Wybierz kolor</translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -352,10 +359,6 @@ Proszę skontaktować się z deweloperem.</translation>
     <message>
         <source>Send the image to the printer</source>
         <translation>Wyślij obraz do drukowania</translation>
-    </message>
-    <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">Zakończ edytowanie bieżącego kształtu kiedy w trybie edytowania</translation>
     </message>
     <message>
         <source>or</source>
@@ -942,6 +945,10 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italian</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3015,10 +3022,6 @@ You will gain better response time on entering snipping.</source>
         <translation></translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation></translation>
     </message>
@@ -3148,6 +3151,14 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3193,10 +3204,6 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Confij (Ctrl+Z)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">Powtórz (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

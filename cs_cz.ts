@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="cs_CZ">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -370,18 +377,6 @@ Please contact the developer.</source>
     <message>
         <source>Send the image to the printer</source>
         <translation>Poslat obrázek na Tiskárnu</translation>
-    </message>
-    <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">Dokončit úpravy aktuálního tvaru v režimu úprav</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">Kolečko Myši nebo 1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation type="vanished">Zmenšit / zvětšit šířku pera v režimu úprav</translation>
     </message>
     <message>
         <source>Close the image window</source>
@@ -948,6 +943,10 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
     </message>
     <message>
         <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italian</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3104,10 +3103,6 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Contact:</source>
         <translation>Kontakt:</translation>
     </message>
@@ -3149,6 +3144,14 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
     </message>
     <message>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3200,10 +3203,6 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Zpět (Ctrl+Z)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">Znovu (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

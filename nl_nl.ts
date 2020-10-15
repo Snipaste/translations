@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="nl_NL" sourcelanguage="en_US">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">Kleur selecteren</translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -352,18 +359,6 @@ Informeer alsjeblieft de maker.</translation>
     <message>
         <source>Send the image to the printer</source>
         <translation>Afbeelding afdrukken</translation>
-    </message>
-    <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">Bewerking van huidige vorm voltooien</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">Muiswiel of 1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation type="vanished">Pendikte verkleinen/vergroten</translation>
     </message>
     <message>
         <source>or</source>
@@ -958,20 +953,16 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
         <source>Free</source>
         <translation>Gratis</translation>
     </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Kleur selecteren</translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="vanished">Pas de pendikte aan met het muiswiel of toets &apos;1&apos; of &apos;2&apos;.</translation>
-    </message>
-    <message>
-        <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="vanished">Sleep de hoek van het tekstkader om de tekstgrootte aan te passen.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -992,26 +983,6 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     <message>
         <source>Outline</source>
         <translation>Contour</translation>
-    </message>
-    <message>
-        <source>Copy with shadow</source>
-        <translation type="vanished">Met schaduw kopiëren</translation>
-    </message>
-    <message>
-        <source>Save with shadow</source>
-        <translation type="vanished">Met schaduw opslaan</translation>
-    </message>
-    <message>
-        <source>Copy without shadow</source>
-        <translation type="vanished">Zonder schaduw kopiëren</translation>
-    </message>
-    <message>
-        <source>Save without shadow</source>
-        <translation type="vanished">Zonder schaduw opslaan</translation>
-    </message>
-    <message>
-        <source>Radius:</source>
-        <translation type="vanished">Radius:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -1247,20 +1218,8 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
         <translation>Aangepast…</translation>
     </message>
     <message>
-        <source>Copy image with shadow</source>
-        <translation type="vanished">Afbeelding met schaduw kopiëren</translation>
-    </message>
-    <message>
         <source>Copy unscaled image</source>
         <translation>Afbeelding ongeschaald kopiëren</translation>
-    </message>
-    <message>
-        <source>Copy unscaled image with shadow</source>
-        <translation type="vanished">Afbeelding ongeschaald met schaduw kopiëren</translation>
-    </message>
-    <message>
-        <source>Save image with shadow as...</source>
-        <translation type="vanished">Afbeelding met schaduw opslaan als…</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1313,10 +1272,6 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
     <message>
         <source>Save unscaled image as...</source>
         <translation>Afbeelding ongeschaald opslaan als…</translation>
-    </message>
-    <message>
-        <source>Save unscaled image with shadow as...</source>
-        <translation type="vanished">Afbeelding ongeschaald met schaduw opslaan als …</translation>
     </message>
     <message>
         <source>Invert color</source>
@@ -1824,14 +1779,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>Punts (pt)</translation>
     </message>
     <message>
-        <source>Device pixel (dp)</source>
-        <translation type="vanished">Apparaat-pixels (dp)</translation>
-    </message>
-    <message>
-        <source>Logical pixel (px)</source>
-        <translation type="vanished">Logische pixels (px)</translation>
-    </message>
-    <message>
         <source>Physical pixel (px)</source>
         <translation>Fysieke pixel (px)</translation>
     </message>
@@ -1879,10 +1826,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>%1 is alleen gratis voor PERSOONLIJK gebruik. Voor gebruik in een werkomgeving is een PRO-licentie vereist.</translation>
     </message>
     <message>
-        <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="vanished">De PRO-versie biedt meer dan 20 nuttige extra functies!</translation>
-    </message>
-    <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
         <translation>Bezoek &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; voor meer informatie.</translation>
     </message>
@@ -1897,10 +1840,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Cancel</source>
         <translation>Annuleren</translation>
-    </message>
-    <message>
-        <source>Enter license key</source>
-        <translation type="vanished">Licentiecode invoeren</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -3093,10 +3032,6 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
         <translation>Waardering</translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation>Ik ben niet geïnteresseerd in PRO</translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation>Vensterinstellingen en afbeeldingsvensters automatisch opslaan om deze bij de volgende start van Snipaste weer te kunnen openen.</translation>
     </message>
@@ -3226,6 +3161,14 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
         <translation>Negeer de &quot;Ccopy&quot;-opdracht afkomstig van andere toepassingen</translation>
     </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3275,10 +3218,6 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Ongedaan maken (Ctrl+Z)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">Opnieuw uitvoeren (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>

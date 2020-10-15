@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -945,6 +952,10 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     <message>
         <source>Free</source>
         <translation>Gratis</translation>
+    </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3021,10 +3032,6 @@ Otterrai un tempo di risposta migliore per l&apos;avvio del ritaglio.</translati
         <translation>Valuta</translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation>PRO non m&apos;interessa</translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation>Effettua automaticamente il backup dello stato della finestra di ritaglio e delle finestre dell&apos;immagine, in modo che possano essere ripristinate la prossima volta che apri Snipaste.</translation>
     </message>
@@ -3153,6 +3160,14 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     <message>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
         <translation>Ignora il comando &quot;Ccopy&quot; simulato da altre applicazioni</translation>
+    </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

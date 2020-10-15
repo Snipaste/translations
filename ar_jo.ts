@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ar_JO">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">حدد اللون</translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -328,20 +335,8 @@ Please contact the developer.</source>
         <translation>تدوير الصورة بعكس اتجاه عقارب الساعة بمقدار 90 درجه</translation>
     </message>
     <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">تمرير الماوس او 1/2</translation>
-    </message>
-    <message>
         <source>Show the magnifier if it is not visible</source>
         <translation>اظهار المكبر اذا لم يكن مرئيا</translation>
-    </message>
-    <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">انهاء تحرير الشكل الحالي عندما تكون في وضع التحرير</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation type="vanished">انقاص/زيادة عرض القلم عند في وضع التحرير</translation>
     </message>
     <message>
         <source>Abort snipping</source>
@@ -952,20 +947,16 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Free</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>حدد اللون</translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="vanished">لتغيير عرض القلم ، الرجاء تمرير عجله الماوس او الضغط على &apos; 1 &apos; او &apos; 2 &apos;.</translation>
-    </message>
-    <message>
-        <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="vanished">يمكنك سحب ركن مربع النص لتغيير حجم النص.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -986,14 +977,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Outline</source>
         <translation>خطوط عريضة</translation>
-    </message>
-    <message>
-        <source>Copy with shadow</source>
-        <translation type="vanished">نسخ مع الظل</translation>
-    </message>
-    <message>
-        <source>Save with shadow</source>
-        <translation type="vanished">حفظ مع الظل</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -1229,20 +1212,8 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>مخصص...</translation>
     </message>
     <message>
-        <source>Copy image with shadow</source>
-        <translation type="vanished">نسخ الصورة مع الظل</translation>
-    </message>
-    <message>
         <source>Copy unscaled image</source>
         <translation>نسخ الصورة غير المقاسة</translation>
-    </message>
-    <message>
-        <source>Copy unscaled image with shadow</source>
-        <translation type="vanished">نسخ الصورة غير المقاسة مع الظل</translation>
-    </message>
-    <message>
-        <source>Save image with shadow as...</source>
-        <translation type="vanished">حفظ الصورة مع الظل كـ ...</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1847,10 +1818,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>%1 مجاني فقط للاستخدام الشخصي. اذا كنت ترغب في استخدامه في مكان العمل ، يلزم وجود ترخيص للمحترفين.</translation>
     </message>
     <message>
-        <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="vanished">يوفر اصدار المحترف اكثر من 20 ميزة جديدة مفيدة!</translation>
-    </message>
-    <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
         <translation>يرجى زيارة &lt;a href=&quot;%1&quot;&gt; موقع الويب &lt;/a&gt; للحصول على مزيد من المعلومات.</translation>
     </message>
@@ -1865,10 +1832,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>الغاء الامر</translation>
-    </message>
-    <message>
-        <source>Enter license key</source>
-        <translation type="vanished">ادخل مفتاح الرخصة</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -3049,10 +3012,6 @@ You will gain better response time on entering snipping.</source>
         <translation>معدل</translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation>لست مهتمًا بـ المحترف</translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation>قم بالاحتفاظ بنسخة احتياطية لحالة نافذة القطع تلقائيًا وكذلك نوافذ الصور ، بحيث يمكن استعادتها في المرة التالية التي تفتح فيها Snipaste.</translation>
     </message>
@@ -3181,6 +3140,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3210,10 +3177,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Marker pen (Ctrl+5)</source>
         <translation>قلم تعلىم (Ctrl + 5)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">اعاده (Ctrl + y)</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse (Ctrl+1)</source>

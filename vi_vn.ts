@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="vi_VN">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">Chọn màu sắc</translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -350,10 +357,6 @@ Please contact the developer.</source>
     <message>
         <source>Send the image to the printer</source>
         <translation>Gửi hình ảnh đến máy in</translation>
-    </message>
-    <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">Kết thúc chỉnh sửa hình dạng hiện tại khi ở trong chế độ chỉnh sửa</translation>
     </message>
     <message>
         <source>or</source>
@@ -940,6 +943,10 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italian</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3005,10 +3012,6 @@ You will gain better response time on entering snipping.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3137,6 +3140,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3182,10 +3193,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Quay lại</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">Làm lại</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

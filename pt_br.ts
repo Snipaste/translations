@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="pt_BR" sourcelanguage="en_US">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -352,18 +359,6 @@ Por favor, contate o desenvolvedor.</translation>
     <message>
         <source>Send the image to the printer</source>
         <translation>Envia a imagem para a impressora</translation>
-    </message>
-    <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">Terminar edição da forma atual, quando no modo de edição</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">Roda do mouse ou 1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation type="vanished">Aumenta / diminui a largura da caneta no modo de edição</translation>
     </message>
     <message>
         <source>or</source>
@@ -958,20 +953,16 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
         <source>Free</source>
         <translation>Grátis</translation>
     </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Selecione o Cor</translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="vanished">Para mudar a largura da caneta, gire a roda do mouse ou pressione &apos;1&apos; ou &apos;2&apos;.</translation>
-    </message>
-    <message>
-        <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="vanished">Você pode arrastar o canto da caixa de texto para alterar o tamanho do texto.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -992,26 +983,6 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     <message>
         <source>Outline</source>
         <translation>Borda</translation>
-    </message>
-    <message>
-        <source>Copy with shadow</source>
-        <translation type="vanished">Copiar com sombra</translation>
-    </message>
-    <message>
-        <source>Save with shadow</source>
-        <translation type="vanished">Salvar com sombra</translation>
-    </message>
-    <message>
-        <source>Copy without shadow</source>
-        <translation type="vanished">Copiar sem sombra</translation>
-    </message>
-    <message>
-        <source>Save without shadow</source>
-        <translation type="vanished">Salvar sem sombra</translation>
-    </message>
-    <message>
-        <source>Radius:</source>
-        <translation type="vanished">Raio:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -1247,20 +1218,8 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
         <translation>Personalizado...</translation>
     </message>
     <message>
-        <source>Copy image with shadow</source>
-        <translation type="vanished">Copiar imagem com sombra</translation>
-    </message>
-    <message>
         <source>Copy unscaled image</source>
         <translation>Copiar imagem sem escala</translation>
-    </message>
-    <message>
-        <source>Copy unscaled image with shadow</source>
-        <translation type="vanished">Copiar imagem sem escala com sombra</translation>
-    </message>
-    <message>
-        <source>Save image with shadow as...</source>
-        <translation type="vanished">Salvar imagem com sombra como...</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1313,10 +1272,6 @@ Para o clique do mouse, você pode encontrar sua tecla de atalho em &apos;Prefer
     <message>
         <source>Save unscaled image as...</source>
         <translation>Salvar imagem não dimensionada como...</translation>
-    </message>
-    <message>
-        <source>Save unscaled image with shadow as...</source>
-        <translation type="vanished">Salvar imagem não dimensionada com sombra como...</translation>
     </message>
     <message>
         <source>Invert color</source>
@@ -1824,14 +1779,6 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <translation>Ponto (pt)</translation>
     </message>
     <message>
-        <source>Device pixel (dp)</source>
-        <translation type="vanished">Pixel de dispositivo (dp)</translation>
-    </message>
-    <message>
-        <source>Logical pixel (px)</source>
-        <translation type="vanished">Pixel lógico (px)</translation>
-    </message>
-    <message>
         <source>Physical pixel (px)</source>
         <translation>Pixel físico (px)</translation>
     </message>
@@ -1879,10 +1826,6 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <translation>O %1 é gratuito somente para USO PESSOAL. Se você deseja usá-lo no seu espaço de trabalho, uma licença PRO é necessária.</translation>
     </message>
     <message>
-        <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="vanished">A versão PRO fornece mais do que 20 novos recursos úteis!</translation>
-    </message>
-    <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
         <translation>Por favor, visite o &lt;a href=&quot;%1&quot;&gt;site&lt;/a&gt; para mais informações.</translation>
     </message>
@@ -1897,10 +1840,6 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
-    </message>
-    <message>
-        <source>Enter license key</source>
-        <translation type="vanished">Entrar chave de licença</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -3093,10 +3032,6 @@ Você terá melhor tempo de resposta ao realizar recortes.</translation>
         <translation>Taxa</translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation>Não estou interessado no PRO</translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation>Faz o backup automático do status da janela de recorte, bem como das janelas de imagem, para que elas possam ser recuperadas na próxima vez que você abrir o Snipaste.</translation>
     </message>
@@ -3226,6 +3161,14 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
         <translation>Ignorar comando &quot;Ccopy&quot; simulado por outros aplicativos</translation>
     </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3271,10 +3214,6 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Desfazer (Ctrl+Z)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">Refazer (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

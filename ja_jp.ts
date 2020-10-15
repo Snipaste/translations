@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ja_JP" sourcelanguage="en_US">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">色を選択</translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
@@ -350,18 +357,6 @@ Please contact the developer.</source>
     <message>
         <source>Send the image to the printer</source>
         <translation>プリンタに画像を送信</translation>
-    </message>
-    <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">マーク完了</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">マウススクロール或は1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation type="vanished">編集モードでのペンの幅の減少/増加</translation>
     </message>
     <message>
         <source>or</source>
@@ -955,20 +950,16 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Free</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>色を選択</translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="vanished">ペンの幅を変更するには、マウスホイールをスクロールするか、&apos;1&apos;或は&apos;2&apos;を押してください。</translation>
-    </message>
-    <message>
-        <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="vanished">テキストボックスのコーナーをドラッグ、テキストのサイズを変更することができます。</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -989,14 +980,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Outline</source>
         <translation>輪郭</translation>
-    </message>
-    <message>
-        <source>Copy with shadow</source>
-        <translation type="vanished">影付きコピー</translation>
-    </message>
-    <message>
-        <source>Save with shadow</source>
-        <translation type="vanished">影付き保存する</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -1232,20 +1215,8 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>カスタム...</translation>
     </message>
     <message>
-        <source>Copy image with shadow</source>
-        <translation type="vanished">影付き画像をコピーする</translation>
-    </message>
-    <message>
         <source>Copy unscaled image</source>
         <translation>元サイズの画像をコピーする</translation>
-    </message>
-    <message>
-        <source>Copy unscaled image with shadow</source>
-        <translation type="vanished">元サイズの影付き画像をコピーする</translation>
-    </message>
-    <message>
-        <source>Save image with shadow as...</source>
-        <translation type="vanished">影付き画像を名前付けて保存する</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1850,10 +1821,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>％1は個人使用のみ無料です。職場で使用する場合は、PROライセンスが必要です。</translation>
     </message>
     <message>
-        <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="vanished">PRO版が20種類を超える便利な新機能を提供します。</translation>
-    </message>
-    <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
         <translation>詳細については &lt;a href=&quot;%1&quot;&gt;ウェブサイト&lt;/a&gt; までください</translation>
     </message>
@@ -1868,10 +1835,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>キャンセル</translation>
-    </message>
-    <message>
-        <source>Enter license key</source>
-        <translation type="vanished">ライセンスキーを入力する</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -3063,10 +3026,6 @@ You will gain better response time on entering snipping.</source>
         <translation>レート</translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation>PROに興味ない</translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation>今度Snipasteを開くときに復元するため、スニップウィンドウと画像ウィンドウの状態を自動的にバックアップします。</translation>
     </message>
@@ -3196,6 +3155,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3225,10 +3192,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Marker pen (Ctrl+5)</source>
         <translation>マーカー (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">やり直す (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>

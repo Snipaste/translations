@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_CN" sourcelanguage="en_US">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation>选择颜色</translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -350,18 +357,6 @@ Please contact the developer.</source>
     <message>
         <source>Send the image to the printer</source>
         <translation>发送图像到打印机</translation>
-    </message>
-    <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">结束对当前标注的编辑</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">鼠标滚轮 或 1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation type="vanished">调整画笔粗细（编辑模式时）</translation>
     </message>
     <message>
         <source>or</source>
@@ -956,20 +951,16 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Free</source>
         <translation>免费版</translation>
     </message>
+    <message>
+        <source>Italian</source>
+        <translation>意大利语</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>选择颜色</translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="vanished">若要调整画笔粗细，请滑动鼠标滚轮或按键盘上的 1 或 2.</translation>
-    </message>
-    <message>
-        <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="vanished">通过拖动文字框的边角可以改变文字的大小。</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -990,26 +981,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Outline</source>
         <translation>描边</translation>
-    </message>
-    <message>
-        <source>Copy with shadow</source>
-        <translation type="vanished">带阴影复制</translation>
-    </message>
-    <message>
-        <source>Save with shadow</source>
-        <translation type="vanished">带阴影保存</translation>
-    </message>
-    <message>
-        <source>Copy without shadow</source>
-        <translation type="vanished">不带阴影复制</translation>
-    </message>
-    <message>
-        <source>Save without shadow</source>
-        <translation type="vanished">不带阴影保存</translation>
-    </message>
-    <message>
-        <source>Radius:</source>
-        <translation type="vanished">半径:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -1245,20 +1216,8 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>自定义...</translation>
     </message>
     <message>
-        <source>Copy image with shadow</source>
-        <translation type="vanished">复制图像（带阴影）</translation>
-    </message>
-    <message>
         <source>Copy unscaled image</source>
         <translation>复制原始大小图像</translation>
-    </message>
-    <message>
-        <source>Copy unscaled image with shadow</source>
-        <translation type="vanished">复制原始大小图像（带阴影）</translation>
-    </message>
-    <message>
-        <source>Save image with shadow as...</source>
-        <translation type="vanished">图像（带阴影）另存为...</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1311,10 +1270,6 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Save unscaled image as...</source>
         <translation>原始大小图像另存为...</translation>
-    </message>
-    <message>
-        <source>Save unscaled image with shadow as...</source>
-        <translation type="vanished">原始大小图像（带阴影）另存为...</translation>
     </message>
     <message>
         <source>Invert color</source>
@@ -1823,14 +1778,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>点 (pt)</translation>
     </message>
     <message>
-        <source>Device pixel (dp)</source>
-        <translation type="vanished">设备像素 (dp)</translation>
-    </message>
-    <message>
-        <source>Logical pixel (px)</source>
-        <translation type="vanished">逻辑像素 (px)</translation>
-    </message>
-    <message>
         <source>Physical pixel (px)</source>
         <translation>物理像素 (px)</translation>
     </message>
@@ -1852,10 +1799,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Unlock PRO features</source>
         <translation>解锁专业版</translation>
-    </message>
-    <message>
-        <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="vanished">专业版提供了 20+ 实用的新功能！</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -1940,10 +1883,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Invalid license key.</source>
         <translation>无效的授权码。</translation>
-    </message>
-    <message>
-        <source>Enter license key</source>
-        <translation type="vanished">输入授权码</translation>
     </message>
     <message>
         <source>The PRO version unlocks more than 30 useful features!</source>
@@ -3091,10 +3030,6 @@ You will gain better response time on entering snipping.</source>
         <translation>评价</translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation>我对专业版不感兴趣</translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation>备份截图/贴图的所有状态，使得下次启动 Snipaste 时能够恢复。</translation>
     </message>
@@ -3224,6 +3159,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
         <translation>忽略其他程序模拟的&quot;复制&quot;命令</translation>
     </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation>颜色数量:</translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation>点击或拖拽颜色按钮进行自定义。</translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3277,10 +3220,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>撤销 (Ctrl+Z)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">重做 (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>

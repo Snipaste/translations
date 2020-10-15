@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="tr_TR">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished">Renk seç</translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -372,18 +379,6 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     <message>
         <source>Send the image to the printer</source>
         <translation>Görüntüyü yazıcıya gönder</translation>
-    </message>
-    <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">Düzenleme modunda iken mevcut şekli düzenlemeyi bitirin</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">Fare tekeri veya 1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation type="vanished">Düzenleme modunda kalem genişliğini azalt/arttır</translation>
     </message>
     <message>
         <source>Close the image window</source>
@@ -958,6 +953,10 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <source>Free</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -966,20 +965,12 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <translation>Tek bir çizgi çizmek için sürükleyin veya şeritleri çizmek için tıklayın.</translation>
     </message>
     <message>
-        <source>You can drag the corner of the text box to change the text size.</source>
-        <translation type="vanished">Metin boyutunu değiştirmek için metin kutusunun köşesinden sürükleyebilirsiniz.</translation>
-    </message>
-    <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
         <translation>Mozaik ve Gauss bulanıklığı arasında geçiş yapmak için bu simgeye tıklayın.</translation>
     </message>
     <message>
         <source>Select Color</source>
         <translation>Renk seç</translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="vanished">Kalem genişliğini değiştirmek için lütfen fare tekerleğini kaydırın veya &apos;1&apos; veya &apos;2&apos; tuşlarına basın.</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -992,14 +983,6 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     <message>
         <source>Outline</source>
         <translation>Anahat</translation>
-    </message>
-    <message>
-        <source>Copy with shadow</source>
-        <translation type="vanished">Gölgeyle kopyala</translation>
-    </message>
-    <message>
-        <source>Save with shadow</source>
-        <translation type="vanished">Gölgeyle kaydet</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -1235,20 +1218,8 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
         <translation>Özel...</translation>
     </message>
     <message>
-        <source>Copy image with shadow</source>
-        <translation type="vanished">Görüntüyü gölgeyle kopyala</translation>
-    </message>
-    <message>
         <source>Copy unscaled image</source>
         <translation>Ölçeklenmemiş görüntüyü kopyala</translation>
-    </message>
-    <message>
-        <source>Copy unscaled image with shadow</source>
-        <translation type="vanished">Ölçeklenmemiş görüntüyü gölgeyle kopyala</translation>
-    </message>
-    <message>
-        <source>Save image with shadow as...</source>
-        <translation type="vanished">Görüntüyü gölgeyle farklı kaydet...</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1854,10 +1825,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>%1 sadece KİŞİSEL KULLANIM için ücretsizdir. İşyerinde kullanmak istiyorsanız, PRO lisansı gereklidir.</translation>
     </message>
     <message>
-        <source>The PRO version provides more than 20 useful new features!</source>
-        <translation type="vanished">PRO sürümü 20&apos;den fazla yararlı yeni özellik sağlar!</translation>
-    </message>
-    <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
         <translation>Daha fazla bilgi için lütfen &lt;a href=&quot;%1&quot;&gt;web sitesini &lt;/a&gt; ziyaret edin.</translation>
     </message>
@@ -1872,10 +1839,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>İptal</translation>
-    </message>
-    <message>
-        <source>Enter license key</source>
-        <translation type="vanished">Lisans anahtarını girin</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -3088,10 +3051,6 @@ Herhangi bir hata bulursanız lütfen geliştiriciye bildirin.</translation>
         <translation>Derecelendir</translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation>PRO ile ilgilenmiyorum</translation>
-    </message>
-    <message>
         <source>Contact:</source>
         <translation>İletişim:</translation>
     </message>
@@ -3201,6 +3160,14 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3250,10 +3217,6 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Geri al (Ctrl+Z)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">Yinele (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
