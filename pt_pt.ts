@@ -5,7 +5,7 @@
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Seleccionar Cor</translation>
+        <translation>Seleccionar cor</translation>
     </message>
 </context>
 <context>
@@ -955,7 +955,7 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Italiano</translation>
     </message>
 </context>
 <context>
@@ -3163,11 +3163,11 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de cores:</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique ou arraste os botões das cores para personalizar a paleta.</translation>
     </message>
 </context>
 <context>
