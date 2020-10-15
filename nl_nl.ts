@@ -5,7 +5,7 @@
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Kleur selecteren</translation>
+        <translation>Selecteer kleur</translation>
     </message>
 </context>
 <context>
@@ -955,7 +955,7 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Italiaans</translation>
     </message>
 </context>
 <context>
@@ -3163,11 +3163,11 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aantal kleuren:</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik of sleep de kleurknoppen om het palet aan te passen.</translation>
     </message>
 </context>
 <context>
