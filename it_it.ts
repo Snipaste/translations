@@ -966,7 +966,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation>Fare clic su quest&apos;icona per alternare sfocatura a mosaico e Gaussiana.</translation>
+        <translation>Cliccare quest&apos;icona per alternare sfocatura a mosaico e Gaussiana.</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
@@ -3167,7 +3167,7 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation>Fare clic o trascinare i pulsanti del colore per personalizzare la tavolozza.</translation>
+        <translation>Cliccare o trascinare i pulsanti del colore per personalizzare la tavolozza.</translation>
     </message>
 </context>
 <context>
