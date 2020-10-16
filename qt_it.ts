@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>Shop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Shop</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -197,7 +197,7 @@
     </message>
     <message>
         <source>XFer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">XFer</translation>
     </message>
     <message>
         <source>View</source>
@@ -269,7 +269,7 @@
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Shift</translation>
     </message>
     <message>
         <source>Sleep</source>
@@ -305,11 +305,11 @@
     </message>
     <message>
         <source>Multiple Candidate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Multiple Candidate</translation>
     </message>
     <message>
         <source>Zenkaku</source>
-        <translation type="unfinished"></translation>
+        <translation>Zenkaku</translation>
     </message>
     <message>
         <source>Print Screen</source>
@@ -353,7 +353,7 @@
     </message>
     <message>
         <source>Word Processor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Word Processor</translation>
     </message>
     <message>
         <source>Volume Down</source>
@@ -365,7 +365,7 @@
     </message>
     <message>
         <source>Kana Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Kana Shift</translation>
     </message>
     <message>
         <source>Media Previous</source>
@@ -389,7 +389,7 @@
     </message>
     <message>
         <source>Menu PB</source>
-        <translation type="unfinished"></translation>
+        <translation>Menù PB</translation>
     </message>
     <message>
         <source>Keyboard Brightness Up</source>
@@ -397,11 +397,11 @@
     </message>
     <message>
         <source>Hangul PostHanja</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangul PostHanja</translation>
     </message>
     <message>
         <source>Kana Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Kana Lock</translation>
     </message>
     <message>
         <source>Community</source>
@@ -481,7 +481,7 @@
     </message>
     <message>
         <source>Escape</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Escape</translation>
     </message>
     <message>
         <source>Audio Random Play</source>
@@ -489,7 +489,7 @@
     </message>
     <message>
         <source>Hangul</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangul</translation>
     </message>
     <message>
         <source>Hangup</source>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <source>Henkan</source>
-        <translation type="unfinished"></translation>
+        <translation>Henkan</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -505,7 +505,7 @@
     </message>
     <message>
         <source>Home Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Home Office</translation>
     </message>
     <message>
         <source>Last Number Redial</source>
@@ -517,11 +517,11 @@
     </message>
     <message>
         <source>Market</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Market</translation>
     </message>
     <message>
         <source>Massyo</source>
-        <translation type="unfinished"></translation>
+        <translation>Massyo</translation>
     </message>
     <message>
         <source>Bass Boost</source>
@@ -549,7 +549,7 @@
     </message>
     <message>
         <source>Romaji</source>
-        <translation type="unfinished"></translation>
+        <translation>Romaji</translation>
     </message>
     <message>
         <source>Search</source>
@@ -561,7 +561,7 @@
     </message>
     <message>
         <source>SysReq</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">SysReq</translation>
     </message>
     <message>
         <source>Travel</source>
@@ -569,15 +569,15 @@
     </message>
     <message>
         <source>NumLock</source>
-        <translation type="unfinished"></translation>
+        <translation>BlocNum</translation>
     </message>
     <message>
         <source>WebCam</source>
-        <translation type="unfinished"></translation>
+        <translation>WebCam</translation>
     </message>
     <message>
         <source>Hiragana Katakana</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiragana Katakana</translation>
     </message>
     <message>
         <source>Yellow</source>
@@ -585,15 +585,15 @@
     </message>
     <message>
         <source>Top Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menù principale</translation>
     </message>
     <message>
         <source>ScrollLock</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ScrollLock</translation>
     </message>
     <message>
         <source>Hot Links</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hot Links</translation>
     </message>
     <message>
         <source>Audio Cycle Track</source>
@@ -629,11 +629,11 @@
     </message>
     <message>
         <source>iTouch</source>
-        <translation type="unfinished"></translation>
+        <translation>iTouch</translation>
     </message>
     <message>
         <source>Previous Candidate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Previous Candidate</translation>
     </message>
     <message>
         <source>Toggle Media Play/Pause</source>
@@ -645,7 +645,7 @@
     </message>
     <message>
         <source>Eisu Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Eisu Shift</translation>
     </message>
     <message>
         <source>Code input</source>
@@ -669,7 +669,7 @@
     </message>
     <message>
         <source>Eisu toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Eisu toggle</translation>
     </message>
     <message>
         <source>Keyboard Brightness Down</source>
@@ -677,7 +677,7 @@
     </message>
     <message>
         <source>Clear Grab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clear Grab</translation>
     </message>
     <message>
         <source>Monitor Brightness Up</source>
@@ -685,7 +685,7 @@
     </message>
     <message>
         <source>System Request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">System Request</translation>
     </message>
     <message>
         <source>Microphone Volume Up</source>
@@ -697,7 +697,7 @@
     </message>
     <message>
         <source>Backtab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Backtab</translation>
     </message>
     <message>
         <source>Bass Up</source>
@@ -709,7 +709,7 @@
     </message>
     <message>
         <source>Katakana</source>
-        <translation type="unfinished"></translation>
+        <translation>Katakana</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -737,7 +737,7 @@
     </message>
     <message>
         <source>Back Forward</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Back Forward</translation>
     </message>
     <message>
         <source>Launch Mail</source>
@@ -749,7 +749,7 @@
     </message>
     <message>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Backspace</translation>
     </message>
     <message>
         <source>Bass Down</source>
@@ -761,15 +761,15 @@
     </message>
     <message>
         <source>Messenger</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Messenger</translation>
     </message>
     <message>
         <source>Hangul Banja</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangul Banja</translation>
     </message>
     <message>
         <source>Hangul Hanja</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangul Hanja</translation>
     </message>
     <message>
         <source>Standby</source>
@@ -777,7 +777,7 @@
     </message>
     <message>
         <source>Hangul Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangul Start</translation>
     </message>
     <message>
         <source>Rotation KB</source>
@@ -809,7 +809,7 @@
     </message>
     <message>
         <source>Hangul Romaja</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangul Romaja</translation>
     </message>
     <message>
         <source>My Sites</source>
@@ -821,15 +821,15 @@
     </message>
     <message>
         <source>Touroku</source>
-        <translation type="unfinished"></translation>
+        <translation>Touroku</translation>
     </message>
     <message>
         <source>Zenkaku Hankaku</source>
-        <translation type="unfinished"></translation>
+        <translation>Zenkaku Hankaku</translation>
     </message>
     <message>
         <source>Hangul Jeonja</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangul Jeonja</translation>
     </message>
     <message>
         <source>Treble Up</source>
@@ -841,7 +841,7 @@
     </message>
     <message>
         <source>Hangul Jamo</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangul Jamo</translation>
     </message>
     <message>
         <source>Bluetooth</source>
@@ -849,11 +849,11 @@
     </message>
     <message>
         <source>Muhenkan</source>
-        <translation type="unfinished"></translation>
+        <translation>Muhenkan</translation>
     </message>
     <message>
         <source>Num Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloc Num</translation>
     </message>
     <message>
         <source>Screensaver</source>
@@ -861,7 +861,7 @@
     </message>
     <message>
         <source>Number Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocco numeri</translation>
     </message>
     <message>
         <source>Power Down</source>
@@ -873,7 +873,7 @@
     </message>
     <message>
         <source>Hangul PreHanja</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangul PreHanja</translation>
     </message>
     <message>
         <source>Terminal</source>
@@ -925,7 +925,7 @@
     </message>
     <message>
         <source>LightBulb</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LightBulb</translation>
     </message>
     <message>
         <source>Touchpad Toggle</source>
@@ -933,7 +933,7 @@
     </message>
     <message>
         <source>Hankaku</source>
-        <translation type="unfinished"></translation>
+        <translation>Hankaku</translation>
     </message>
     <message>
         <source>Media Fast Forward</source>
@@ -941,7 +941,7 @@
     </message>
     <message>
         <source>Hangul End</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hangul End</translation>
     </message>
     <message>
         <source>Monitor Brightness Down</source>
@@ -1102,35 +1102,35 @@
     </message>
     <message>
         <source>Lao</source>
-        <translation type="unfinished"></translation>
+        <translation>Lao</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bold</translation>
     </message>
     <message>
         <source>Demi</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Demi</translation>
     </message>
     <message>
         <source>N&apos;Ko</source>
-        <translation type="unfinished"></translation>
+        <translation>N&apos;Ko</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>Thai</translation>
     </message>
     <message>
         <source>Thin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Thin</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Black</translation>
     </message>
     <message>
         <source>Extra</source>
-        <translation type="unfinished"></translation>
+        <translation>Extra</translation>
     </message>
     <message>
         <source>Greek</source>
@@ -1138,7 +1138,7 @@
     </message>
     <message>
         <source>Khmer</source>
-        <translation type="unfinished"></translation>
+        <translation>Khmer</translation>
     </message>
     <message>
         <source>Latin</source>
@@ -1146,15 +1146,15 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Light</translation>
     </message>
     <message>
         <source>Ogham</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogham</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"></translation>
+        <translation>Oriya</translation>
     </message>
     <message>
         <source>Runic</source>
@@ -1162,7 +1162,7 @@
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <source>Cyrillic</source>
@@ -1170,15 +1170,15 @@
     </message>
     <message>
         <source>Kannada</source>
-        <translation type="unfinished"></translation>
+        <translation>Kannada</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"></translation>
+        <translation>Malayalam</translation>
     </message>
     <message>
         <source>Extra Light</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extra Light</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -1198,11 +1198,11 @@
     </message>
     <message>
         <source>Myanmar</source>
-        <translation type="unfinished"></translation>
+        <translation>Myanmar</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Corsivo</translation>
     </message>
     <message>
         <source>Korean</source>
@@ -1214,7 +1214,7 @@
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <source>Oblique</source>
@@ -1222,15 +1222,15 @@
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"></translation>
+        <translation>Telugu</translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation type="unfinished"></translation>
+        <translation>Thaana</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Symbol</translation>
     </message>
     <message>
         <source>Syriac</source>
@@ -1238,11 +1238,11 @@
     </message>
     <message>
         <source>Extra Bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extra Bold</translation>
     </message>
     <message>
         <source>Devanagari</source>
-        <translation type="unfinished"></translation>
+        <translation>Devanagari</translation>
     </message>
     <message>
         <source>Japanese</source>
@@ -1258,7 +1258,7 @@
     </message>
     <message>
         <source>Sinhala</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinhala</translation>
     </message>
     <message>
         <source>Tibetan</source>
@@ -1270,7 +1270,7 @@
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"></translation>
+        <translation>Gujarati</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
@@ -1282,7 +1282,7 @@
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation type="unfinished"></translation>
+        <translation>Gurmukhi</translation>
     </message>
 </context>
 <context>
