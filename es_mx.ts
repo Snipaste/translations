@@ -5,7 +5,7 @@
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona Color</translation>
     </message>
 </context>
 <context>
@@ -91,12 +91,14 @@
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation>Descarga de feed fallida. Error de Red: %1</translation>
+        <translation>Descarga de datos fallida.
+Error de Red: %1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation>Ocurrió algo mal con el feed de actualización (%1). Por favor contacte al desarrollador.</translation>
+        <translation>Ocurrió algo mal con la fuente de actualización (%1).
+Por favor contacte al desarrollador.</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -440,7 +442,8 @@ Please contact the developer.</source>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>¡Gracias por tu apoyo! ¿Reiniciar ahora para disfrutar de las funciones PRO?</translation>
+        <translation>¡Gracias por tu apoyo!
+¿Reiniciar ahora para disfrutar de las funciones PRO?</translation>
     </message>
     <message>
         <source>OK</source>
@@ -773,7 +776,8 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
-        <translation>Algo salió mal con el acceso directo de inicio. El inicio en arranque ha sido cancelado.</translation>
+        <translation>Algo salió mal con el acceso directo de inicio.
+El inicio en arranque ha sido cancelado.</translation>
     </message>
     <message>
         <source>Russian</source>
@@ -834,7 +838,8 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation>Los datos de la paleta han sido copiados al portapapeles. ¡Compártelo con tus amigos!</translation>
+        <translation>Los datos de la paleta han sido copiados al portapapeles.
+¡Compártelo con tus amigos!</translation>
     </message>
     <message>
         <source>Snipping</source>
@@ -934,7 +939,7 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation>Cortar, copiar y mantener en pantalla </translation>
+        <translation>Cortar, copiar y mantener en pantalla</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
@@ -950,7 +955,7 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Italiano</translation>
     </message>
 </context>
 <context>
@@ -1177,7 +1182,8 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation>La acción de &apos;Pulsa dos veces X&apos; ha sido cancelada. Para dar clic a través de, puede encontrar su atajo en &apos;Preferencias - Atajos&apos;.</translation>
+        <translation>La acción de &apos;Pulsa dos veces X&apos; ha sido cancelada.
+Para dar clic a través de, puede encontrar su atajo en &apos;Preferencias - Atajos&apos;.</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -1307,7 +1313,8 @@ Puedes configurar esta acción en Preferencias - Control - Mouse.</translation>
     <message>
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
-        <translation>No se pudo crear una tarea programada. Podría reiniciar Snipaste con privilegios de administrador e intentar de nuevo.</translation>
+        <translation>No se pudo crear una tarea programada.
+Podría reiniciar Snipaste con privilegios de administrador e intentar de nuevo.</translation>
     </message>
     <message>
         <source>Failed to create a shortcut in the startup directory.</source>
@@ -1482,7 +1489,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Cortar y copiar la misma área de la última captura de pantalla </translation>
+        <translation>Cortar y copiar la misma área de la última captura de pantalla</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
@@ -1514,7 +1521,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation>Cortar, copiar y mantener en pantalla </translation>
+        <translation>Cortar, copiar y mantener en pantalla</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
@@ -2415,7 +2422,8 @@ Pero, al mismo tiempo, el canal alfa de la imagen es perdida.</translation>
     <message>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
-        <translation>Establece la opacidad por defecto para las nuevas ventanas de imágenes. Rango: 1 - 100</translation>
+        <translation>Establece la opacidad por defecto para las nuevas ventanas de imágenes.
+Rango: 1 - 100</translation>
     </message>
     <message>
         <source>Auto backup</source>
@@ -3156,11 +3164,11 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de colores:</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haz clic o arrastra los colores para personalizar tu paleta.</translation>
     </message>
 </context>
 <context>
