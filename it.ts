@@ -5,7 +5,7 @@
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona colore</translation>
     </message>
 </context>
 <context>
@@ -250,7 +250,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Mouse right-click</source>
-        <translation>Click destro del mouse</translation>
+        <translation>Clic destro del mouse</translation>
     </message>
     <message>
         <source>Re-decide the snipping area / abort snipping</source>
@@ -489,19 +489,19 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Left click</source>
-        <translation>Click sinistro</translation>
+        <translation>Clic sinistro</translation>
     </message>
     <message>
         <source>Left double-click</source>
-        <translation>Doppio click sinistro</translation>
+        <translation>Doppio clic sinistro</translation>
     </message>
     <message>
         <source>Middle click</source>
-        <translation>Click centrale</translation>
+        <translation>Clic centrale</translation>
     </message>
     <message>
         <source>Right click</source>
-        <translation>Click destro</translation>
+        <translation>Clic destro</translation>
     </message>
 </context>
 <context>
@@ -955,7 +955,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Italiano</translation>
     </message>
 </context>
 <context>
@@ -966,11 +966,11 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation>Fare click su questa icona per alternare sfocatura a mosaico e Gaussiana.</translation>
+        <translation>Fare clic su quest&apos;icona per alternare sfocatura a mosaico e Gaussiana.</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation>Trascina per disegnare una linea singola o fai click per disegnare linee spezzate.</translation>
+        <translation>Trascina per disegnare una linea singola o fai clic per disegnare linee spezzate.</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1183,7 +1183,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>L&apos;azione &quot;Doppio tocco X&quot; è stata annullata.
-Puoi trovare il tasto di scelta rapida del click-attraverso del mouse in &quot;Preferenze - Tasto di scelta rapida&quot;.</translation>
+Puoi trovare il tasto di scelta rapida del clic-attraverso del mouse in &quot;Preferenze - Tasto di scelta rapida&quot;.</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -1284,7 +1284,7 @@ Puoi trovare il tasto di scelta rapida del click-attraverso del mouse in &quot;P
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation>Facendo doppio click sulla finestra dell&apos;immagine si chiuderà la finestra.
+        <translation>Facendo doppio clic sulla finestra dell&apos;immagine si chiuderà la finestra.
 È possibile configurare questo comportamento nella finestra di dialogo Preferenze: Controllo - Mouse.</translation>
     </message>
     <message>
@@ -1455,7 +1455,7 @@ Puoi riavviare Snipaste con i privilegi di amministratore e riprovare.</translat
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation>Alterna click-attraverso del mouse</translation>
+        <translation>Alterna clic-attraverso del mouse</translation>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
@@ -1464,7 +1464,7 @@ Puoi riavviare Snipaste con i privilegi di amministratore e riprovare.</translat
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>La scorciatoia per alternare la modalità di click-attraverso dell&apos;immagine sotto il cursore.
+        <translation>La scorciatoia per alternare la modalità di clic-attraverso dell&apos;immagine sotto il cursore.
 Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini non cliccabili verranno rese cliccabili.</translation>
     </message>
     <message>
@@ -2921,7 +2921,7 @@ Otterrai un tempo di risposta migliore per l&apos;avvio del ritaglio.</translati
     </message>
     <message>
         <source>Left click:</source>
-        <translation>Click sinistro:</translation>
+        <translation>Clic sinistro:</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -2929,11 +2929,11 @@ Otterrai un tempo di risposta migliore per l&apos;avvio del ritaglio.</translati
     </message>
     <message>
         <source>Middle click:</source>
-        <translation>Click centrale:</translation>
+        <translation>Clic centrale:</translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation>Click destro:</translation>
+        <translation>Clic destro:</translation>
     </message>
     <message>
         <source>Hot Corner</source>
@@ -3065,19 +3065,19 @@ Otterrai un tempo di risposta migliore per l&apos;avvio del ritaglio.</translati
     </message>
     <message>
         <source>Double-click:</source>
-        <translation>Doppio click:</translation>
+        <translation>Doppio clic:</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation>Quale azione eseguire per il doppio click durante il ritaglio.</translation>
+        <translation>Quale azione eseguire per il doppio clic durante il ritaglio.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation>Click centrale:</translation>
+        <translation>Clic centrale:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation>Quale azione eseguire per il click centrale durante il ritaglio.</translation>
+        <translation>Quale azione eseguire per il clic centrale durante il ritaglio.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
@@ -3163,11 +3163,11 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero di colori:</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fare clic o trascinare i pulsanti del colore per personalizzare la tavolozza.</translation>
     </message>
 </context>
 <context>
