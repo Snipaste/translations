@@ -1368,7 +1368,8 @@
     <message>
         <source>Cursor at %1, %2
 Press ESC to cancel</source>
-        <translation>Cursor en %1, %2 Presiona ESC para cancelar</translation>
+        <translation>Cursor en %1, %2
+Presiona ESC para cancelar</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
