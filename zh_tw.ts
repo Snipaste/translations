@@ -42,7 +42,7 @@
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation>檔案校驗值不符合。</translation>
+        <translation>檔案校驗值不相符。</translation>
     </message>
     <message>
         <source>Please retry.</source>
@@ -955,7 +955,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>義大利語</translation>
     </message>
 </context>
 <context>
@@ -1010,11 +1010,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation>圓角半徑:</translation>
+        <translation>圓角半徑：</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation>不透明度:</translation>
+        <translation>不透明度：</translation>
     </message>
 </context>
 <context>
@@ -3164,26 +3164,26 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>色彩數量：</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>點選或拖曳色彩按鈕進行自訂。</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation>輸出選項:</translation>
+        <translation>輸出選項：</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation>陰影:</translation>
+        <translation>陰影：</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation>邊框:</translation>
+        <translation>邊框：</translation>
     </message>
 </context>
 <context>
