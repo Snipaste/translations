@@ -12,18 +12,18 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите %1 чтобы скопировать</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите %1 чтобы сменить RGB/HEX</translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать пресеты...</translation>
     </message>
     <message>
         <source>s</source>
@@ -66,11 +66,11 @@
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
-        <translation>Ошибки загрузки! Код ошибки http: %1</translation>
+        <translation>Ошибка загрузки! Код ошибки http: %1</translation>
     </message>
     <message>
         <source>Unzipped successfully.</source>
-        <translation>Распаковка завершена успешно..</translation>
+        <translation>Распаковка завершена успешно.</translation>
     </message>
     <message>
         <source>Unable to download updates.</source>
@@ -106,7 +106,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая версия Snipaste  была загружена в:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -114,18 +114,18 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать в проводнике</translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить сейчас</translation>
     </message>
 </context>
 <context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уверены что хотите закрыть выбранн(ую/ые) групп(у/ы)? Это действие нельзя отменить</translation>
     </message>
 </context>
 <context>
@@ -152,7 +152,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Advanced Configs</source>
-        <translation>Расширенные конфигурации</translation>
+        <translation>Расширенные настройки</translation>
     </message>
     <message>
         <source>Troubleshooting</source>
@@ -168,38 +168,38 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Бета для Mac</translation>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO возможности</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить команду</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уверены что хотите удалить эту команду?</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя не может быть пустым!</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда не может быть пустой!</translation>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите название сборки/пути, разделяя запятой (пр. snipaste.app, games/*)</translation>
     </message>
     <message>
         <source>More examples...</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше примеров...</translation>
     </message>
 </context>
 <context>
@@ -378,55 +378,55 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить преобразование оттенков серого [PRO]</translation>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть окно изображения</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить инверсию цвета [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать все видимые окна изображений [PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>Прокрутка колесика мышки или 1/2, или [/]</translation>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить выбор текущей формы в режиме редактирования</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить/увеличить ширину пера в режиме редактирования</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Переиспользовать последние области выделения</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести историю выделения</translation>
     </message>
     <message>
         <source>Capture full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Захватить весь экран</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Двигать выделенную область на 1 пиксель</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить ширину пера</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать родительский/дочерний UI элемент</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
