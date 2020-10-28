@@ -161,7 +161,7 @@
     </message>
     <message>
         <source>PgUp</source>
-        <translation></translation>
+        <translation>Страницу вверх</translation>
     </message>
     <message>
         <source>Play</source>
@@ -493,7 +493,7 @@
     </message>
     <message>
         <source>Hangup</source>
-        <translation></translation>
+        <translation>Повесить трубку</translation>
     </message>
     <message>
         <source>Henkan</source>
@@ -509,7 +509,7 @@
     </message>
     <message>
         <source>Last Number Redial</source>
-        <translation></translation>
+        <translation>Повтор последнего номера</translation>
     </message>
     <message>
         <source>Logoff</source>
@@ -537,7 +537,7 @@
     </message>
     <message>
         <source>PgDown</source>
-        <translation></translation>
+        <translation>Страницу вниз</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -561,7 +561,7 @@
     </message>
     <message>
         <source>SysReq</source>
-        <translation></translation>
+        <translation>Системные требования</translation>
     </message>
     <message>
         <source>Travel</source>
@@ -661,7 +661,7 @@
     </message>
     <message>
         <source>Adjust Brightness</source>
-        <translation></translation>
+        <translation>Отрегулировать яркость</translation>
     </message>
     <message>
         <source>Spreadsheet</source>
@@ -677,7 +677,7 @@
     </message>
     <message>
         <source>Clear Grab</source>
-        <translation></translation>
+        <translation>Очистить захват</translation>
     </message>
     <message>
         <source>Monitor Brightness Up</source>
@@ -745,7 +745,7 @@
     </message>
     <message>
         <source>Keyboard Light On/Off</source>
-        <translation></translation>
+        <translation>Подсветка клавиатуры Вкл/Выкл</translation>
     </message>
     <message>
         <source>Backspace</source>
@@ -753,7 +753,7 @@
     </message>
     <message>
         <source>Bass Down</source>
-        <translation></translation>
+        <translation>Уменьшить басс</translation>
     </message>
     <message>
         <source>Mail Forward</source>
@@ -897,7 +897,7 @@
     </message>
     <message>
         <source>Microphone Volume Down</source>
-        <translation></translation>
+        <translation>Уменьшить громкость микрофона</translation>
     </message>
     <message>
         <source>Task Panel</source>
@@ -945,11 +945,11 @@
     </message>
     <message>
         <source>Monitor Brightness Down</source>
-        <translation></translation>
+        <translation>Уменьшить яркость монитора</translation>
     </message>
     <message>
         <source>Microphone Mute</source>
-        <translation></translation>
+        <translation>Выключить микрофон</translation>
     </message>
     <message>
         <source>History</source>
