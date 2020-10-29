@@ -125,7 +125,7 @@ Please contact the developer.</source>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation>Вы уверены что хотите закрыть выбранн(ую/ые) групп(у/ы)? Это действие нельзя отменить</translation>
+        <translation>Вы уверены что хотите закрыть выбранн(ую/ые) групп(у/ы)? Это действие нельзя отменить.</translation>
     </message>
 </context>
 <context>
@@ -218,15 +218,15 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation>Установите выделение области так же, как и последнее успешноя</translation>
+        <translation>Установить выделение области так же, как и последнее успешный раз</translation>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
-        <translation>Переключение на предыдущую запись области</translation>
+        <translation>Переключить на предыдущую запись области</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
-        <translation>Переключиться на следующую запись области</translation>
+        <translation>Переключить на следующую запись области</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -238,7 +238,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
-        <translation>Вставить снимок экрана непосредственно на экран</translation>
+        <translation>Вставить снимок экрана на экран</translation>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
@@ -254,7 +254,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Re-decide the snipping area / abort snipping</source>
-        <translation>Повторно определить выделение области экрана / отменить выделение области экрана</translation>
+        <translation>Повторно определить выделение области экрана/отменить выделение области экрана</translation>
     </message>
     <message>
         <source>Paste only:</source>
@@ -270,11 +270,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Flip the image horizontally</source>
-        <translation>Отразить изображение по горизонтали</translation>
+        <translation>Перевернуть изображение по горизонтали</translation>
     </message>
     <message>
         <source>Flip the image vertically</source>
-        <translation>Отразить изображение по вертикали</translation>
+        <translation>Перевернуть изображение по вертикали</translation>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
