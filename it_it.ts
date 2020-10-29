@@ -210,7 +210,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
-        <translation>Alterna tra rilevamento della finestra e rilevamento degli elementi</translation>
+        <translation>Alterna rilevamento della finestra e rilevamento degli elementi</translation>
     </message>
     <message>
         <source>Set the snipping area to fullscreen</source>
