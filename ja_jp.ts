@@ -2631,8 +2631,7 @@ Range: 10 - 100</source>
     </message>
     <message>
         <source>Preserve the original window for drag-and-drop</source>
-        <translation>ドラッグ＆ドロップのため元のウィンドウを保持する
-</translation>
+        <translation>ドラッグ＆ドロップのため元のウィンドウを保持する</translation>
     </message>
     <message>
         <source>Be the first to test new features of Snipaste!</source>
