@@ -34,11 +34,11 @@
     <name>FvUpdater</name>
     <message>
         <source>Please try later.</source>
-        <translation>後でもう一度やり直してください</translation>
+        <translation>もう一度やり直してください。</translation>
     </message>
     <message>
         <source>Unable to download updates.</source>
-        <translation>更新をダウンロードすることができません</translation>
+        <translation>ダウンロードできません。</translation>
     </message>
     <message>
         <source>Downloading</source>
@@ -46,12 +46,13 @@
     </message>
     <message>
         <source>Download complete.</source>
-        <translation>ダウンロード完了</translation>
+        <translation>ダウンロード完了。</translation>
     </message>
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation>更新のダウンロードに失敗しました、ネットワークエラー: %1</translation>
+        <translation>ダウンロード失敗しました。
+ネットワークエラー: %1</translation>
     </message>
     <message>
         <source>Redirecting</source>
@@ -72,7 +73,8 @@ Network Error: %1</source>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation>更新フィードにエラー発生 (%1)。開発者に連絡してください</translation>
+        <translation>更新フィードにエラー発生しました (%1)。
+開発者にご連絡してください。</translation>
     </message>
     <message>
         <source>Error</source>
@@ -80,7 +82,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation>ファイルのハッシュが一致していません</translation>
+        <translation>ファイルのハッシュが一致していません。</translation>
     </message>
     <message>
         <source>Please retry.</source>
@@ -100,7 +102,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Restarting</source>
-        <translation>再起動中...</translation>
+        <translation>再起動中</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
@@ -170,7 +172,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation>専用機能</translation>
+        <translation>PRO版の機能</translation>
     </message>
 </context>
 <context>
@@ -197,7 +199,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>More examples...</source>
-        <translation>もっとの例...</translation>
+        <translation>他の例...</translation>
     </message>
 </context>
 <context>
@@ -384,7 +386,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>色反転を切替する [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
@@ -396,11 +398,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>編集モードで現形状を非選択する</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation>編集状態でペンの幅を大きく/小さくする</translation>
+        <translation>編集状態でペンの太さを大きく/小さくする</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
@@ -453,7 +455,7 @@ PRO機能を利用するために今すぐSnipasteを再起動しますか？</t
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation>ライセンスキーを削除するか？Snipasteが登録解除される</translation>
+        <translation>ライセンスキーを削除しますか？Snipasteがレジスト解除になります。</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -617,7 +619,7 @@ PRO機能を利用するために今すぐSnipasteを再起動しますか？</t
     <name>OptionsDialog</name>
     <message>
         <source>-bit</source>
-        <translation> ビット</translation>
+        <translation>‐ ビット</translation>
     </message>
     <message>
         <source>Greek</source>
@@ -698,7 +700,8 @@ PRO機能を利用するために今すぐSnipasteを再起動しますか？</t
     <message>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
-        <translation>スタートアップのショートカットに何か問題が発生しました、スタートアップがキャンセルしました。</translation>
+        <translation>スタートアップのショートカットに何か問題が発生しました。
+スタートアップがキャンセルしました。</translation>
     </message>
     <message>
         <source>None</source>
@@ -730,7 +733,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Pin to screen</source>
-        <translation>スクリーンに固定</translation>
+        <translation>スクリーンにピン留め</translation>
     </message>
     <message>
         <source>Save to file</source>
@@ -932,11 +935,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation>UI</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation>切り取り、コピーと固定</translation>
+        <translation>切り取り、コピーとピン留め</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
@@ -1003,7 +1006,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>ペンの太さを調整する時、マウスのホイール、或いは &apos;1&apos; と &apos;2&apos; 、または &apos;[&apos; と &apos;]&apos;で調整してください。</translation>
     </message>
     <message>
         <source>Corner radius:</source>
@@ -1342,7 +1345,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished">「画面収録」でSnipasteがすでにチェックされていても機能しない場合、SnipasteまたはMacを再起動してください。</translation>
+        <translation>「画面レコーディング」を起用しても、Snipasteは機能しない場合、SnipasteまたはMacを再起動してください。</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1517,7 +1520,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished">切り取り、コピーと固定</translation>
+        <translation>切り取り、コピーとピン留め</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
@@ -2225,7 +2228,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Set the width of the border around the snipping area.</source>
-        <translation>スニップエリアの境界線の幅の設定。</translation>
+        <translation>スニップエリアのボーダーの幅の設定。</translation>
     </message>
     <message>
         <source>Always ignore HTML formats</source>
@@ -2297,7 +2300,7 @@ Skypeなど特別なプログラムに貼り付け可能になります。ただ
     </message>
     <message>
         <source>Let the image window be translucent if its border is flashing.</source>
-        <translation>貼り画像の境界線が点滅する時、ウィンドウを半透明にします。</translation>
+        <translation>貼り画像のボーダーが点滅する時、ウィンドウを半透明にします。</translation>
     </message>
     <message>
         <source>Restore all settings on this page to their default states.</source>
@@ -2345,7 +2348,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Show the border of the snipping area in the magnifier.</source>
-        <translation>拡大鏡に境界線を表示する。</translation>
+        <translation>拡大鏡にボーダーを表示する。</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -2387,7 +2390,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Translucent when flashing</source>
-        <translation>境界線を点滅する時にウィンドウを半透明にする</translation>
+        <translation type="unfinished">点滅する時にウィンドウを半透明にする</translation>
     </message>
     <message>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
@@ -2411,7 +2414,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Let the border of a new image window flash.</source>
-        <translation>新しいスニップが出る時に境界線を点滅する。</translation>
+        <translation>新しい画像のボーダーを点滅させる。</translation>
     </message>
     <message>
         <source>General</source>
@@ -2444,7 +2447,7 @@ Range: 10 - 100</source>
     </message>
     <message>
         <source>Border width:</source>
-        <translation>境界線の幅:</translation>
+        <translation>ボーダーの幅:</translation>
     </message>
     <message>
         <source>Default opacity:</source>
