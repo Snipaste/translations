@@ -5,7 +5,7 @@
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">色を選択</translation>
+        <translation>色を選択する</translation>
     </message>
 </context>
 <context>
@@ -170,7 +170,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>専用機能</translation>
     </message>
 </context>
 <context>
@@ -380,7 +380,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>画像ウィンドウを閉じる</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
@@ -388,11 +388,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて表示画像を選択する　[PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>マウスでスクール、1/2、あるいは[/]</translation>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
@@ -400,27 +400,27 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>編集状態でペンの幅を大きく/小さくする</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>前回切り取るエリアを使用する</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>切り取る履歴を再生する</translation>
     </message>
     <message>
         <source>Capture full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>全画面切り取り</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>切り取るエリアを1ピクセル移動する</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>ペンの太さを調整する</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
@@ -428,11 +428,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Resize the area from center</source>
-        <translation type="unfinished"></translation>
+        <translation>中心からエリアをリセットする</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>編集アイテムを非選択する</translation>
     </message>
 </context>
 <context>
@@ -924,11 +924,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>韓国語</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>チェコ語</translation>
     </message>
     <message>
         <source>UI</source>
@@ -936,7 +936,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>切り取り、コピーと固定</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
@@ -944,15 +944,15 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO版</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>無料版</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>イタリア語</translation>
     </message>
 </context>
 <context>
@@ -983,23 +983,23 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>幅：</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>ナンバー</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">消しゴム</translation>
+        <translation>消しゴム</translation>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>テキストのバックグラウンド</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>再実行</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
@@ -1007,11 +1007,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>コーナーの半径：</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>アルファ：</translation>
     </message>
 </context>
 <context>
@@ -1248,11 +1248,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>全デスクトップ</translation>
     </message>
     <message>
         <source>This desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>このデスクトップ</translation>
     </message>
     <message>
         <source>Assign to desktop</source>
@@ -1260,7 +1260,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>デスクトップ　%1</translation>
     </message>
     <message>
         <source>Copy raw HTML</source>
@@ -1281,15 +1281,16 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>画像ウィンドウをダブルクリックし、ウィンドウが閉じる
+環境設定で本動作を調整できる：制御　-　マウス</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
-        <translation type="unfinished"></translation>
+        <translation>選択した画像をエクスポート...</translation>
     </message>
     <message>
         <source>Output Options</source>
-        <translation type="unfinished"></translation>
+        <translation>アウトプットオプション</translation>
     </message>
 </context>
 <context>
@@ -1337,7 +1338,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished">スクリーンショットを撮るために、Snipasteは「画面収録」の許可が必要です。</translation>
+        <translation>スクリーンショットを切り取るために、Snipasteは「画面レコーディング」の許可が必要です。</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
@@ -1353,7 +1354,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>購入手続きを完成するために、UAC（ユーザーアカウントコントロール）をオンにする必要です。</translation>
     </message>
 </context>
 <context>
@@ -1512,19 +1513,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>シャドウで切り取り</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切り取り、コピーと固定</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>透明ホワイトボードモードを開く（Escをダブルクリックして閉じる）</translation>
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished">スニップの記録をクリア</translation>
+        <translation>スニップの記録を削除する</translation>
     </message>
 </context>
 <context>
@@ -1771,15 +1772,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>ポイント（pt）</translation>
     </message>
     <message>
         <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>物理ピクセル（px）</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
-        <translation type="unfinished"></translation>
+        <translation>密度独立ピクセル（dip）</translation>
     </message>
 </context>
 <context>
@@ -1882,11 +1883,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>PROバージョンでは30個以上の追加機能があります！</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>このライセンスでSnipaste 2及び今後すべての2.x アップデートを継続的に使用可能です。</translation>
     </message>
     <message>
         <source>Enter license key:</source>
@@ -3120,7 +3121,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルダイアログが表示する時、マスキングを無効にする</translation>
     </message>
     <message>
         <source>Show fullscreen cross lines</source>
@@ -3128,7 +3129,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルダイアログが表示する時、全画像ウィンドウを隠す</translation>
     </message>
     <message>
         <source>Ignored list:</source>
@@ -3140,23 +3141,23 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>オート</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>所在フォルダを開く</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>キー割り当てのヒントを表示する</translation>
     </message>
     <message>
         <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>他のプログラムがシミュレートした「Ccopy」命令を無視する</translation>
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>色の数量：</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
@@ -3167,15 +3168,15 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>アウトプットオプション：</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation>シャドウ：</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>ボーダー：</translation>
     </message>
 </context>
 <context>
@@ -3253,11 +3254,11 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>文字の大きさ</translation>
     </message>
     <message>
         <source>Pen style</source>
-        <translation type="unfinished"></translation>
+        <translation>ペンのスタイル</translation>
     </message>
 </context>
 <context>
@@ -3301,7 +3302,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <name>unlockprodialog</name>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>あるいは</translation>
     </message>
 </context>
 <context>
