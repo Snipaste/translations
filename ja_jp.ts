@@ -426,7 +426,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>親要素/子要素を選択する</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
@@ -1182,8 +1182,8 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation>&apos;ダブルタップ X&apos;行動がキャンセルされた
-マウスクリックを通して、そのホットキーは&apos;好みのホットキー&apos;の中に見つけることができる </translation>
+        <translation type="unfinished">「ダブルタップ X」がキャンセルされた。
+マウスクリック無効化は、「環境設定　-　ショーカード」で調整可能 。</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -1259,7 +1259,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Assign to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>デスクトップにアサインする</translation>
     </message>
     <message>
         <source>Desktop %1</source>
@@ -1267,7 +1267,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Copy raw HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTMLコートをコピーする</translation>
     </message>
     <message>
         <source>Save unscaled image as...</source>
@@ -1275,17 +1275,17 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>色反転</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>色反転済み</translation>
     </message>
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation>画像ウィンドウをダブルクリックし、ウィンドウが閉じる
-環境設定で本動作を調整できる：制御　-　マウス</translation>
+        <translation>画像ウィンドウをダブルクリックし、ウィンドウが閉じる。
+環境設定で本動作を調整できる：コントロール　-　マウス。</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
@@ -1313,7 +1313,8 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     <message>
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
-        <translation>スケジュールタスクの作成に失敗、Snipasteを管理者として実行して再試行してください。</translation>
+        <translation>スケジュールタスクの作成に失敗。
+Snipasteを管理者権限で再試行してください。</translation>
     </message>
     <message>
         <source>Failed to create a shortcut in the startup directory.</source>
@@ -1376,7 +1377,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
-        <translation>トレイアイコンで制御することができます。</translation>
+        <translation>トレイアイコンでコントロールできます。</translation>
     </message>
     <message>
         <source>Snipaste has been updated to %1.</source>
@@ -1463,8 +1464,8 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>カーソルの下で画像を切り替えるモのクリックモードのショートカット。
-もしカーソルの下に画像ウィンドウがなかったら、すべてのクリックできない画像をクリック可能に変更する</translation>
+        <translation>カーソル所在の画像のクリックモードを切り替えるショートカット。
+カーソル所在に画像がなければ、すべてのクリックできない画像をクリック可能に変更する。</translation>
     </message>
     <message>
         <source>Show tray menu</source>
@@ -1790,7 +1791,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2</source>
-        <translation>無料版のSnipaste %1 %2を使用しています。</translation>
+        <translation>無料版のSnipaste %1 %2を使用しています</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -1822,11 +1823,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation>％1は個人使用のみ無料です。職場で使用する場合は、PROライセンスが必要です。</translation>
+        <translation>%1は個人使用のみ無料です。職場で使用する場合は、PROライセンスが必要です。</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation>詳細については &lt;a href=&quot;%1&quot;&gt;ウェブサイト&lt;/a&gt; までください</translation>
+        <translation>詳細については &lt;a href=&quot;%1&quot;&gt;ウェブサイト&lt;/a&gt; にご確認ください。</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
@@ -1850,7 +1851,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Offline activation...</source>
-        <translation>オフラインでアクティベーション</translation>
+        <translation>オフライン アクティベーション...</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -1862,11 +1863,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Invalid license.</source>
-        <translation>無効なライセンスキー</translation>
+        <translation>無効なライセンス。</translation>
     </message>
     <message>
         <source>Number of activations exceeded.</source>
-        <translation>最大アクティベーション数を超えました</translation>
+        <translation>最大アクティベーション数を超えました。</translation>
     </message>
     <message>
         <source>Network error.</source>
@@ -2390,7 +2391,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Translucent when flashing</source>
-        <translation type="unfinished">点滅する時にウィンドウを半透明にする</translation>
+        <translation type="unfinished">点滅する時にウィンドウを半透明化</translation>
     </message>
     <message>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
@@ -2435,7 +2436,8 @@ You can also find this option in the context menu of individual image window.</s
     <message>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
-        <translation>新規貼り画像の透明度. 範囲: 10 - 100</translation>
+        <translation>新画像ウィンドウのデフォルト透明度設定。
+範囲: 10 - 100</translation>
     </message>
     <message>
         <source>Flash the image windows after you have switched to another image group.</source>
@@ -2644,7 +2646,8 @@ Range: 10 - 100</source>
     <message>
         <source>Beta versions may contain more bugs.
 Please report to the developer if you find any.</source>
-        <translation>ベータ版にはより多くのバグが含まれる可能性があります。見つけたら報告してください。</translation>
+        <translation>ベータ版にはより多くのバグが含まれる可能性があります。
+見つけたらご連絡ください。</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
@@ -2776,11 +2779,11 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation>デフォルトテキストエディタで設定ファイルを開く</translation>
+        <translation>デフォルトテキストエディタで設定ファイルを開く。</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation>設定ファイルの場所を変更する</translation>
+        <translation>設定ファイルの場所を変更する。</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
@@ -2906,7 +2909,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Control</source>
-        <translation>制御</translation>
+        <translation>コントロール</translation>
     </message>
     <message>
         <source>Super Snip</source>
@@ -3120,7 +3123,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation>拡大倍率</translation>
+        <translation>拡大倍率：</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
@@ -3128,7 +3131,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Show fullscreen cross lines</source>
-        <translation type="unfinished">全画面で十字型の基準線を表示する</translation>
+        <translation>全画面十字基準線を表示する</translation>
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
@@ -3164,7 +3167,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>クリック或いは色ボタンをカスタマイズパレットへドラッグする。</translation>
     </message>
 </context>
 <context>
