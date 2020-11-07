@@ -809,7 +809,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation>擬似透明 </translation>
+        <translation>擬似透明</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
@@ -1182,7 +1182,7 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished">「ダブルタップ X」がキャンセルされた。
+        <translation>「ダブルタップ X」がキャンセルされた。
 マウスクリック無効化は、「環境設定　-　ショーカード」で調整可能 。</translation>
     </message>
     <message>
@@ -2391,7 +2391,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Translucent when flashing</source>
-        <translation type="unfinished">点滅する時にウィンドウを半透明化</translation>
+        <translation>点滅する時にウィンドウを半透明化</translation>
     </message>
     <message>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
@@ -2477,7 +2477,7 @@ Range: 10 - 100</source>
     </message>
     <message>
         <source>Hide 1x1</source>
-        <translation> 1×1 ヒントを非表示</translation>
+        <translation>1×1 ヒントを非表示</translation>
     </message>
     <message>
         <source>Image quality:</source>
