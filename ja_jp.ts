@@ -2113,7 +2113,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>About</source>
-        <translation>について</translation>
+        <translation>その他</translation>
     </message>
     <message>
         <source>Flash</source>
