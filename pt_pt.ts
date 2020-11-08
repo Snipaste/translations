@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="pt_PT">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation>Seleccionar cor</translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -354,18 +361,6 @@ Por favor contacte o autor.</translation>
         <translation>Envia a imagem para a impressora</translation>
     </message>
     <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation>Termina a edição da forma actual se estiver em modo edição</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">Roda do rato ou 1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation>Reduz/Aumenta a largura do traço em modo edição</translation>
-    </message>
-    <message>
         <source>or</source>
         <translation>ou</translation>
     </message>
@@ -395,11 +390,51 @@ Por favor contacte o autor.</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation>Seleccionar todas as janelas de  imagem visíveis [PRO</translation>
+        <translation>Seleccionar todas as janelas de imagem visíveis [PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
         <translation>Rolagem do rato ou 1/2 ou [/</translation>
+    </message>
+    <message>
+        <source>Deselect the current shape if in edit mode</source>
+        <translation>Desmarcar a forma actual no modo edição</translation>
+    </message>
+    <message>
+        <source>Decrease/Increase the pen width if in edit mode</source>
+        <translation>Diminuir/Aumentar a largura da caneta no modo edição</translation>
+    </message>
+    <message>
+        <source>Reuse last snipping areas</source>
+        <translation>Reutilizar as últimas áreas de captura</translation>
+    </message>
+    <message>
+        <source>Replay snipping history</source>
+        <translation>Reproduzir histórico de capturas</translation>
+    </message>
+    <message>
+        <source>Capture full screen</source>
+        <translation>Capturar ecrã completo</translation>
+    </message>
+    <message>
+        <source>Move the snipping area by 1 pixel</source>
+        <translation>Mover a área de captura em 1 píxel</translation>
+    </message>
+    <message>
+        <source>Adjust the pen width</source>
+        <translation>Ajustar largura da caneta</translation>
+    </message>
+    <message>
+        <source>Select parent/child UI element</source>
+        <translation>Seleccionar elemento da IU principal/dependente</translation>
+    </message>
+    <message>
+        <source>Resize the area from center</source>
+        <translation>Redimensionar a área a partir do centro</translation>
+    </message>
+    <message>
+        <source>Deselect the editing item</source>
+        <translation>Desmarcar o item a editar</translation>
     </message>
 </context>
 <context>
@@ -918,20 +953,16 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
         <source>Free</source>
         <translation>Gratuíta</translation>
     </message>
+    <message>
+        <source>Italian</source>
+        <translation>Italiano</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Seleccionar Cor</translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="vanished">Para alterar a largura do traço, rode a roda do rato ou pressione &apos;1&apos; ou &apos;2&apos;.</translation>
-    </message>
-    <message>
-        <source>You can drag the corner of the text box to change the text size.</source>
-        <translation>Pode arrastar o canto da caixa de texto para alterar o tamanho do texto.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -952,26 +983,6 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     <message>
         <source>Outline</source>
         <translation>Contorno</translation>
-    </message>
-    <message>
-        <source>Copy with shadow</source>
-        <translation>Copiar com sombra</translation>
-    </message>
-    <message>
-        <source>Save with shadow</source>
-        <translation>Guardar com sombra</translation>
-    </message>
-    <message>
-        <source>Copy without shadow</source>
-        <translation>Copiar sem sombra</translation>
-    </message>
-    <message>
-        <source>Save without shadow</source>
-        <translation>Guardar sem sombra</translation>
-    </message>
-    <message>
-        <source>Radius:</source>
-        <translation>Raio:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -996,6 +1007,14 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation>Para alterar a espessura da caneta, rode a roda do rato ou pressione &apos;1&apos; ou &apos;2&apos; ou pressione &apos;[&apos; or &apos;]&apos;.</translation>
+    </message>
+    <message>
+        <source>Corner radius:</source>
+        <translation>raio do canto:</translation>
+    </message>
+    <message>
+        <source>Alpha:</source>
+        <translation>Alfa:</translation>
     </message>
 </context>
 <context>
@@ -1199,20 +1218,8 @@ Para o modo clique do rato, pode encontrar a sua tecla de atalho em &apos;Prefer
         <translation>Personalizado...</translation>
     </message>
     <message>
-        <source>Copy image with shadow</source>
-        <translation>Copiar imagem com sombra</translation>
-    </message>
-    <message>
         <source>Copy unscaled image</source>
         <translation>Copiar imagem sem escala</translation>
-    </message>
-    <message>
-        <source>Copy unscaled image with shadow</source>
-        <translation>Copiar imagem sem escala com sombra</translation>
-    </message>
-    <message>
-        <source>Save image with shadow as...</source>
-        <translation>Guardar imagem com sombra como...</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1267,10 +1274,6 @@ Para o modo clique do rato, pode encontrar a sua tecla de atalho em &apos;Prefer
         <translation>Guardar imagem sem escala como...</translation>
     </message>
     <message>
-        <source>Save unscaled image with shadow as...</source>
-        <translation>Guardar imagem sem escala com sombra como...</translation>
-    </message>
-    <message>
         <source>Invert color</source>
         <translation>Inverter cor</translation>
     </message>
@@ -1283,6 +1286,14 @@ Para o modo clique do rato, pode encontrar a sua tecla de atalho em &apos;Prefer
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation>Duplo clique na janela da imagem fecha a janela.
 Pode confidurar este comportamento em Preferências:Controlo - Rato.</translation>
+    </message>
+    <message>
+        <source>Export selected images to...</source>
+        <translation>Exportar imagens seleccionadas para...</translation>
+    </message>
+    <message>
+        <source>Output Options</source>
+        <translation>Opções de saída</translation>
     </message>
 </context>
 <context>
@@ -1515,6 +1526,10 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation>Entrar em modo quadro branco transparente (premir 2 vezes Esc para sair)</translation>
+    </message>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Limpar registo de capturas</translation>
     </message>
 </context>
 <context>
@@ -1759,6 +1774,18 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <source>Do not show this again</source>
         <translation>Não mostrar mais isto</translation>
     </message>
+    <message>
+        <source>Point (pt)</source>
+        <translation>Ponto (pt)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation>Píxel físico (px)</translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation>Píxel dispositivo-independente (dip)</translation>
+    </message>
 </context>
 <context>
     <name>UnlockProDialog</name>
@@ -1799,10 +1826,6 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <translation>O %1 só é gratuíto para USO PESSOAL. Se pretende usálo em ambiente de trabalho é necessária uma licença PRO.</translation>
     </message>
     <message>
-        <source>The PRO version provides more than 20 useful new features!</source>
-        <translation>A versão PRO permite mais de 20 novas funcionalidades!</translation>
-    </message>
-    <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
         <translation>Por favor visite &lt;a href=&quot;%1&quot;&gt;o website&lt;/a&gt; para mais informação.</translation>
     </message>
@@ -1817,10 +1840,6 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
-    </message>
-    <message>
-        <source>Enter license key</source>
-        <translation>Introduzir chave de licença</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -1865,6 +1884,18 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <message>
         <source>Error code</source>
         <translation>Código de erro</translation>
+    </message>
+    <message>
+        <source>The PRO version unlocks more than 30 useful features!</source>
+        <translation>A versão PRO desbloqueia mais de 30 funcionalidades úteis!</translation>
+    </message>
+    <message>
+        <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
+        <translation>A licença permite-lhe usar o Snipaste 2 para sempre com todas as actualizações 2.x.</translation>
+    </message>
+    <message>
+        <source>Enter license key:</source>
+        <translation>Introduzir chave de licença:</translation>
     </message>
 </context>
 <context>
@@ -3001,10 +3032,6 @@ Terá um melhor tempo de resposta ao efectuar a captura.</translation>
         <translation>Classificação</translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation>Não estou interessado no PRO</translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation>Fazer cópia de segurança automática da janela de captura, bem como das janelas de imagens, para que possam ser recuperadas da próxima vez que abrir o Snipaste.</translation>
     </message>
@@ -3122,6 +3149,41 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
         <source>Auto</source>
         <translation>Auto</translation>
     </message>
+    <message>
+        <source>Open containing folder</source>
+        <translation>Abrir a pasta respectiva</translation>
+    </message>
+    <message>
+        <source>Show key binding tips</source>
+        <translation>Mostrar dicas de ligações de teclas</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <translation>Ignorar o comando &quot;Copy&quot; simulado por outros programas</translation>
+    </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation>Número de cores:</translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation>Clique ou arraste os botões das cores para personalizar a paleta.</translation>
+    </message>
+</context>
+<context>
+    <name>outputoptionswidget</name>
+    <message>
+        <source>Output Options:</source>
+        <translation>Opções de saída:</translation>
+    </message>
+    <message>
+        <source>Shadow:</source>
+        <translation>Sombra:</translation>
+    </message>
+    <message>
+        <source>Border:</source>
+        <translation>Borda:</translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
@@ -3152,10 +3214,6 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Anular (Ctrl+Z)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">Refazer (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
@@ -3203,6 +3261,10 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
     <message>
         <source>Font scale</source>
         <translation>Escala do tipo de letra</translation>
+    </message>
+    <message>
+        <source>Pen style</source>
+        <translation>Estilo da caneta</translation>
     </message>
 </context>
 <context>

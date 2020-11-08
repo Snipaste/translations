@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_TW" sourcelanguage="en_US">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation>選擇色彩</translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -35,7 +42,7 @@
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation>檔案校驗值不符合。</translation>
+        <translation>檔案校驗值不相符。</translation>
     </message>
     <message>
         <source>Please retry.</source>
@@ -88,12 +95,14 @@
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation>下載更新來源失敗。網路錯誤：%1</translation>
+        <translation>下載更新來源失敗。
+網路錯誤：%1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation>更新來源出錯啦 (%1)。請聯絡開發者。</translation>
+        <translation>更新來源出錯啦（%1）。
+請聯絡開發者。</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
@@ -352,18 +361,6 @@ Please contact the developer.</source>
         <translation>傳送圖片至印表機</translation>
     </message>
     <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation>結束對目前標註的編輯</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">滑鼠滾輪 或 1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation>調整畫筆粗細(編輯模式時)</translation>
-    </message>
-    <message>
         <source>or</source>
         <translation>或</translation>
     </message>
@@ -398,6 +395,46 @@ Please contact the developer.</source>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
         <translation>滑鼠滾輪 或 1/2 或 [/]</translation>
+    </message>
+    <message>
+        <source>Deselect the current shape if in edit mode</source>
+        <translation>取消選擇目前選擇的形狀（編輯模式時）</translation>
+    </message>
+    <message>
+        <source>Decrease/Increase the pen width if in edit mode</source>
+        <translation>調整畫筆粗細（編輯模式時）</translation>
+    </message>
+    <message>
+        <source>Reuse last snipping areas</source>
+        <translation>使用上一次擷取螢幕的區域</translation>
+    </message>
+    <message>
+        <source>Replay snipping history</source>
+        <translation>回溯擷取螢幕歷史</translation>
+    </message>
+    <message>
+        <source>Capture full screen</source>
+        <translation>擷取全螢幕</translation>
+    </message>
+    <message>
+        <source>Move the snipping area by 1 pixel</source>
+        <translation>將擷取螢幕區域移動 1 像素</translation>
+    </message>
+    <message>
+        <source>Adjust the pen width</source>
+        <translation>調整畫筆粗細</translation>
+    </message>
+    <message>
+        <source>Select parent/child UI element</source>
+        <translation>選擇上一層/下一層介面元素</translation>
+    </message>
+    <message>
+        <source>Resize the area from center</source>
+        <translation>從中心調整區域大小</translation>
+    </message>
+    <message>
+        <source>Deselect the editing item</source>
+        <translation>取消選取目前標註</translation>
     </message>
 </context>
 <context>
@@ -916,20 +953,16 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Free</source>
         <translation>免費版</translation>
     </message>
+    <message>
+        <source>Italian</source>
+        <translation>義大利語</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>選擇色彩</translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="vanished">若要調整畫筆粗細，請滾動滑鼠滾輪或按鍵盤上的 1 或 2。</translation>
-    </message>
-    <message>
-        <source>You can drag the corner of the text box to change the text size.</source>
-        <translation>透過拖動文字框的邊角可以改變文字的大小。</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -950,26 +983,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Outline</source>
         <translation>描邊</translation>
-    </message>
-    <message>
-        <source>Copy with shadow</source>
-        <translation>連帶陰影一併複製</translation>
-    </message>
-    <message>
-        <source>Save with shadow</source>
-        <translation>連帶陰影一併儲存</translation>
-    </message>
-    <message>
-        <source>Copy without shadow</source>
-        <translation>不含陰影複製</translation>
-    </message>
-    <message>
-        <source>Save without shadow</source>
-        <translation>不含陰影儲存</translation>
-    </message>
-    <message>
-        <source>Radius:</source>
-        <translation>半徑：</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -994,6 +1007,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation>若要調整畫筆粗細，請滾動滑鼠滾輪，或按鍵盤上的 1 或 2，或按 [ 或 ].</translation>
+    </message>
+    <message>
+        <source>Corner radius:</source>
+        <translation>圓角半徑：</translation>
+    </message>
+    <message>
+        <source>Alpha:</source>
+        <translation>不透明度：</translation>
     </message>
 </context>
 <context>
@@ -1197,20 +1218,8 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>自訂...</translation>
     </message>
     <message>
-        <source>Copy image with shadow</source>
-        <translation>複製圖像（包含陰影）</translation>
-    </message>
-    <message>
         <source>Copy unscaled image</source>
         <translation>複製未縮放圖像</translation>
-    </message>
-    <message>
-        <source>Copy unscaled image with shadow</source>
-        <translation>複製未縮放圖像（包含陰影）</translation>
-    </message>
-    <message>
-        <source>Save image with shadow as...</source>
-        <translation>圖像（包含陰影）另存為...</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1265,10 +1274,6 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>原始大小圖像另存為...</translation>
     </message>
     <message>
-        <source>Save unscaled image with shadow as...</source>
-        <translation>原始大小圖像（含陰影）另存為...</translation>
-    </message>
-    <message>
         <source>Invert color</source>
         <translation>色彩對換</translation>
     </message>
@@ -1281,6 +1286,14 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation>按兩下貼圖視窗會使其關閉。
 你可以在偏好設定視窗中（控制 - 滑鼠）變更此動作。</translation>
+    </message>
+    <message>
+        <source>Export selected images to...</source>
+        <translation>匯出選擇的貼圖...</translation>
+    </message>
+    <message>
+        <source>Output Options</source>
+        <translation>輸出選項</translation>
     </message>
 </context>
 <context>
@@ -1514,6 +1527,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation>進入透明白板模式（按兩下 Esc 以離開）</translation>
+    </message>
+    <message>
+        <source>Clear snip records</source>
+        <translation>清除擷圖記錄</translation>
     </message>
 </context>
 <context>
@@ -1758,6 +1775,18 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Do not show this again</source>
         <translation>以後不再顯示此訊息</translation>
     </message>
+    <message>
+        <source>Point (pt)</source>
+        <translation>點 (pt)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation>物理像素 (px)</translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation>裝置獨立畫素 (dip)</translation>
+    </message>
 </context>
 <context>
     <name>UnlockProDialog</name>
@@ -1798,10 +1827,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>%1 只對個人使用者免費。如需在公司使用，請購買專業版授權。</translation>
     </message>
     <message>
-        <source>The PRO version provides more than 20 useful new features!</source>
-        <translation>專業版提供了 20+ 實用的新功能！</translation>
-    </message>
-    <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
         <translation>請造訪 &lt;a href=&quot;%1&quot;&gt;網站&lt;/a&gt; 了解更多資訊。</translation>
     </message>
@@ -1816,10 +1841,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
-    </message>
-    <message>
-        <source>Enter license key</source>
-        <translation>輸入授權碼</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -1864,6 +1885,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error code</source>
         <translation>錯誤代碼</translation>
+    </message>
+    <message>
+        <source>The PRO version unlocks more than 30 useful features!</source>
+        <translation>專業版可解鎖 30 多種實用功能！</translation>
+    </message>
+    <message>
+        <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
+        <translation>永久使用，子版本免費更新。</translation>
+    </message>
+    <message>
+        <source>Enter license key:</source>
+        <translation>輸入授權碼：</translation>
     </message>
 </context>
 <context>
@@ -2410,7 +2443,8 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <message>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
-        <translation>設定新貼圖視窗的不透明度。範圍：10 - 100</translation>
+        <translation>設定新貼圖視窗的不透明度。
+範圍：10 - 100</translation>
     </message>
     <message>
         <source>Max recoverable closed images:</source>
@@ -2999,10 +3033,6 @@ You will gain better response time on entering snipping.</source>
         <translation>評價</translation>
     </message>
     <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation>我對專業版不感興趣</translation>
-    </message>
-    <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
         <translation>備份擷圖/貼圖的所有狀態，使得下次啟動 Snipaste 時能夠還原。</translation>
     </message>
@@ -3120,6 +3150,41 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Auto</source>
         <translation>自動</translation>
     </message>
+    <message>
+        <source>Open containing folder</source>
+        <translation>開啟所在資料夾</translation>
+    </message>
+    <message>
+        <source>Show key binding tips</source>
+        <translation>顯示快速鍵提示</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <translation>略過其他程式模擬的&quot;複製&quot;命令</translation>
+    </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation>色彩數量：</translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation>點選或拖曳色彩按鈕進行自訂。</translation>
+    </message>
+</context>
+<context>
+    <name>outputoptionswidget</name>
+    <message>
+        <source>Output Options:</source>
+        <translation>輸出選項：</translation>
+    </message>
+    <message>
+        <source>Shadow:</source>
+        <translation>陰影：</translation>
+    </message>
+    <message>
+        <source>Border:</source>
+        <translation>邊框：</translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
@@ -3160,10 +3225,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>還原 (Ctrl+Z)</translation>
     </message>
     <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">重做 (Ctrl+Y)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>儲存至檔案 (Ctrl+S)</translation>
     </message>
@@ -3201,6 +3262,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Font scale</source>
         <translation>字型縮放</translation>
+    </message>
+    <message>
+        <source>Pen style</source>
+        <translation>畫筆樣式</translation>
     </message>
 </context>
 <context>

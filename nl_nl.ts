@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="nl_NL" sourcelanguage="en_US">
 <context>
+    <name>ColorBoard</name>
+    <message>
+        <source>Select Color</source>
+        <translation>Selecteer kleur</translation>
+    </message>
+</context>
+<context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
@@ -354,18 +361,6 @@ Informeer alsjeblieft de maker.</translation>
         <translation>Afbeelding afdrukken</translation>
     </message>
     <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation>Bewerking van huidige vorm voltooien</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">Muiswiel of 1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation>Pendikte verkleinen/vergroten</translation>
-    </message>
-    <message>
         <source>or</source>
         <translation>of</translation>
     </message>
@@ -400,6 +395,46 @@ Informeer alsjeblieft de maker.</translation>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
         <translation>Bladeren met de muis 1/2 of [/]</translation>
+    </message>
+    <message>
+        <source>Deselect the current shape if in edit mode</source>
+        <translation>Maak de selectie van de huidige vorm ongedaan in de bewerkingsmodus</translation>
+    </message>
+    <message>
+        <source>Decrease/Increase the pen width if in edit mode</source>
+        <translation>Verklein/vergroot de pendikte in de bewerkingsmodus</translation>
+    </message>
+    <message>
+        <source>Reuse last snipping areas</source>
+        <translation>De laatste knipgebieden opnieuw gebruiken</translation>
+    </message>
+    <message>
+        <source>Replay snipping history</source>
+        <translation>Knipgeschiedenis opnieuw toepassen</translation>
+    </message>
+    <message>
+        <source>Capture full screen</source>
+        <translation>Volledig scherm vastleggen</translation>
+    </message>
+    <message>
+        <source>Move the snipping area by 1 pixel</source>
+        <translation>Het knipgebied met 1 pixel verplaatsen</translation>
+    </message>
+    <message>
+        <source>Adjust the pen width</source>
+        <translation>De pendikte aanpassen</translation>
+    </message>
+    <message>
+        <source>Select parent/child UI element</source>
+        <translation>Boven- of onderliggend element selecteren</translation>
+    </message>
+    <message>
+        <source>Resize the area from center</source>
+        <translation>Het gebied vanuit het midden vergroten</translation>
+    </message>
+    <message>
+        <source>Deselect the editing item</source>
+        <translation>Selectie van bewerkt item ongedaan maken</translation>
     </message>
 </context>
 <context>
@@ -918,20 +953,16 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
         <source>Free</source>
         <translation>Gratis</translation>
     </message>
+    <message>
+        <source>Italian</source>
+        <translation>Italiaans</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
         <translation>Kleur selecteren</translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll your mouse wheel or press &apos;1&apos; or &apos;2&apos;.</source>
-        <translation type="vanished">Pas de pendikte aan met het muiswiel of toets &apos;1&apos; of &apos;2&apos;.</translation>
-    </message>
-    <message>
-        <source>You can drag the corner of the text box to change the text size.</source>
-        <translation>Sleep de hoek van het tekstkader om de tekstgrootte aan te passen.</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -952,26 +983,6 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     <message>
         <source>Outline</source>
         <translation>Contour</translation>
-    </message>
-    <message>
-        <source>Copy with shadow</source>
-        <translation>Met schaduw kopiëren</translation>
-    </message>
-    <message>
-        <source>Save with shadow</source>
-        <translation>Met schaduw opslaan</translation>
-    </message>
-    <message>
-        <source>Copy without shadow</source>
-        <translation>Zonder schaduw kopiëren</translation>
-    </message>
-    <message>
-        <source>Save without shadow</source>
-        <translation>Zonder schaduw opslaan</translation>
-    </message>
-    <message>
-        <source>Radius:</source>
-        <translation>Radius:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -996,6 +1007,14 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
         <translation>Blader met het muiswiel om de pendikte te veranderen of toets &apos;1&apos; of &apos;2&apos; of toets &apos;[&apos; of &apos;]&apos;.</translation>
+    </message>
+    <message>
+        <source>Corner radius:</source>
+        <translation>Hoekradius:</translation>
+    </message>
+    <message>
+        <source>Alpha:</source>
+        <translation>Alpha:</translation>
     </message>
 </context>
 <context>
@@ -1199,20 +1218,8 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
         <translation>Aangepast…</translation>
     </message>
     <message>
-        <source>Copy image with shadow</source>
-        <translation>Afbeelding met schaduw kopiëren</translation>
-    </message>
-    <message>
         <source>Copy unscaled image</source>
         <translation>Afbeelding ongeschaald kopiëren</translation>
-    </message>
-    <message>
-        <source>Copy unscaled image with shadow</source>
-        <translation>Afbeelding ongeschaald met schaduw kopiëren</translation>
-    </message>
-    <message>
-        <source>Save image with shadow as...</source>
-        <translation>Afbeelding met schaduw opslaan als…</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1267,10 +1274,6 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
         <translation>Afbeelding ongeschaald opslaan als…</translation>
     </message>
     <message>
-        <source>Save unscaled image with shadow as...</source>
-        <translation>Afbeelding ongeschaald met schaduw opslaan als …</translation>
-    </message>
-    <message>
         <source>Invert color</source>
         <translation>Kleur inverteren</translation>
     </message>
@@ -1283,6 +1286,14 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation>Met een dubbelklik wordt het afbeeldingsvenster gesloten.
 Je kunt dit gedrag instellen bij Instellingen: Beheer - Muis.</translation>
+    </message>
+    <message>
+        <source>Export selected images to...</source>
+        <translation>Exporteer geselecteerde afbeeldingen naar...</translation>
+    </message>
+    <message>
+        <source>Output Options</source>
+        <translation>Uitvoeropties</translation>
     </message>
 </context>
 <context>
@@ -1339,7 +1350,7 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation>Snipaste heeft toegankelijkheidsinstellingen nodig voor de detectie van vensterelementen</translation>
+        <translation>Om detectie van UI-elementen in te schakelen, heeft Snipaste toegankelijkheidscontrole nodig.</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
@@ -1516,6 +1527,10 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation>Transparante whiteboard-modus starten (dubbeltik op Esc om te stoppen)</translation>
     </message>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Opnamelijsten wissen</translation>
+    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1535,7 +1550,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes</source>
-        <translation>Grootte-instellingen bewerken…</translation>
+        <translation>Vooraf ingestelde formaten bewerken</translation>
     </message>
 </context>
 <context>
@@ -1759,6 +1774,18 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <source>Do not show this again</source>
         <translation>Dit niet meer tonen</translation>
     </message>
+    <message>
+        <source>Point (pt)</source>
+        <translation>Punts (pt)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation>Fysieke pixel (px)</translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation>Apparaatonafhankelijke pixel (dip)</translation>
+    </message>
 </context>
 <context>
     <name>UnlockProDialog</name>
@@ -1799,10 +1826,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>%1 is alleen gratis voor PERSOONLIJK gebruik. Voor gebruik in een werkomgeving is een PRO-licentie vereist.</translation>
     </message>
     <message>
-        <source>The PRO version provides more than 20 useful new features!</source>
-        <translation>De PRO-versie biedt meer dan 20 nuttige extra functies!</translation>
-    </message>
-    <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
         <translation>Bezoek &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; voor meer informatie.</translation>
     </message>
@@ -1817,10 +1840,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Cancel</source>
         <translation>Annuleren</translation>
-    </message>
-    <message>
-        <source>Enter license key</source>
-        <translation>Licentiecode invoeren</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -1865,6 +1884,18 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Error code</source>
         <translation>Foutcode</translation>
+    </message>
+    <message>
+        <source>The PRO version unlocks more than 30 useful features!</source>
+        <translation>De PRO-versie biedt meer dan 30 handige functies!</translation>
+    </message>
+    <message>
+        <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
+        <translation>Met de licentie kun je alle Snipaste 2.x-updates voor altijd gebruiken.</translation>
+    </message>
+    <message>
+        <source>Enter license key:</source>
+        <translation>Licentiecode invoeren:</translation>
     </message>
 </context>
 <context>
@@ -2794,7 +2825,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation>Kleurdekking aanpassen</translation>
+        <translation>Kleurdekking aanpassen:</translation>
     </message>
     <message>
         <source>or</source>
@@ -2858,7 +2889,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation>Als Windows Bitmap kopiëren</translation>
+        <translation>Als Windows Bitmap kopiëren:</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -2954,7 +2985,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation>Automatisch weergeven voor: </translation>
+        <translation>Automatisch weergeven voor:</translation>
     </message>
     <message>
         <source>Normal snip</source>
@@ -2999,10 +3030,6 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     <message>
         <source>Rate</source>
         <translation>Waardering</translation>
-    </message>
-    <message>
-        <source>I&apos;m not interest in PRO</source>
-        <translation>Ik ben niet geïnteresseerd in PRO</translation>
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
@@ -3058,7 +3085,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation>Standaardaantekening</translation>
+        <translation>Standaardaantekening:</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -3122,6 +3149,41 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
         <source>Auto</source>
         <translation>Automatisch</translation>
     </message>
+    <message>
+        <source>Open containing folder</source>
+        <translation>Onderliggende map openen</translation>
+    </message>
+    <message>
+        <source>Show key binding tips</source>
+        <translation>Sneltoets-tips tonen</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <translation>Negeer de &quot;Copy&quot;-opdracht afkomstig van andere toepassingen</translation>
+    </message>
+    <message>
+        <source>Number of colors:</source>
+        <translation>Aantal kleuren:</translation>
+    </message>
+    <message>
+        <source>Click or drag the color buttons to customize the palette.</source>
+        <translation>Klik of sleep de kleurknoppen om het palet aan te passen.</translation>
+    </message>
+</context>
+<context>
+    <name>outputoptionswidget</name>
+    <message>
+        <source>Output Options:</source>
+        <translation>Uitvoeropties:</translation>
+    </message>
+    <message>
+        <source>Shadow:</source>
+        <translation>Schaduw:</translation>
+    </message>
+    <message>
+        <source>Border:</source>
+        <translation>Rand:</translation>
+    </message>
 </context>
 <context>
     <name>paintbar0</name>
@@ -3156,10 +3218,6 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Ongedaan maken (Ctrl+Z)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation type="vanished">Opnieuw uitvoeren (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
@@ -3203,6 +3261,10 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     <message>
         <source>Font scale</source>
         <translation>Lettergrootte</translation>
+    </message>
+    <message>
+        <source>Pen style</source>
+        <translation>Penstijl</translation>
     </message>
 </context>
 <context>

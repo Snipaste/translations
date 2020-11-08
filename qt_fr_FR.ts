@@ -1,1395 +1,1394 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru">
+<TS version="2.1" language="fr_FR">
 <context>
     <name>QShortcut</name>
     <message>
         <source>+</source>
-        <translation>+</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>CD</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go</source>
-        <translation>Вперёд</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Нет</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Вверх</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Alt</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>F%1</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>DOS</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Del</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Обрезать</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>End</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Esc</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ins</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New</source>
-        <translation>Новый</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Num</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Red</source>
-        <translation>Красный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WWW</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Да</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Назад</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Away</source>
-        <translation>Отсюда</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Синий</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Book</source>
-        <translation>Книга</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Call</source>
-        <translation>Вызов</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Копировать</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ctrl</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Вниз</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Выход</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>Поиск</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip</source>
-        <translation>Флип</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Игра</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Помощь</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>Главная</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Информация</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Влево</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation>Меню</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meta</source>
-        <translation>Мета</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>News</source>
-        <translation>Новости</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Открыть</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PgUp</source>
-        <translation>Страницу вверх</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Play</source>
-        <translation>Начать</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Повторить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Отправить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shop</source>
-        <translation>Магазин</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Остановить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Время</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Отменить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>XFer</source>
-        <translation>Переключение</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Обзор</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Масштабирование</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Screen</source>
-        <translation>Разделённый экран</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Очистить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Отмена</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Eject</source>
-        <translation>Извлечь</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enter</source>
-        <translation>Ввод</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Зелёный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Guide</source>
-        <translation>Руководство</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kanji</source>
-        <translation>Кандзи</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Music</source>
-        <translation>Музыка</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Вставить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation>Пауза</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation>Телефон</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>Распечатать</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation>Ответить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Вправо</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sleep</source>
-        <translation>Сон</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Space</source>
-        <translation>Пробел</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Инструменты</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Video</source>
-        <translation>Видео</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hiragana</source>
-        <translation>Хирагана</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wireless</source>
-        <translation>Беспроводной</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Media Record</source>
-        <translation>Запись мультимедии</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Media Rewind</source>
-        <translation>Перемотка мультимедии</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Multiple Candidate</source>
-        <translation>Многократный кандидат</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zenkaku</source>
-        <translation>Зенкаку</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print Screen</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Audio Repeat</source>
-        <translation>Повтор звука</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Call/Hangup</source>
-        <translation>Переключить Вызов/Сброс</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Приблизить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Camera Shutter</source>
-        <translation>Затвор камеры</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ultra Wide Band</source>
-        <translation>Ультра широкий диапазон</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hangul Special</source>
-        <translation>Хангыль Специальный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Treble Down</source>
-        <translation>Тройное вниз</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scroll Lock</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Media Pause</source>
-        <translation>Пауза мультимедии</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Word Processor</source>
-        <translation>Текстовый процессор</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Volume Down</source>
-        <translation>Уменьшить звук</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Volume Mute</source>
-        <translation>Откл. звук</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kana Shift</source>
-        <translation>Кана Сдвиг</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Media Previous</source>
-        <translation>Предыдущий мультимедии</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Home Page</source>
-        <translation>Домашняя страница</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting</source>
-        <translation>Встреча</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Touchpad Off</source>
-        <translation>Выкл.сенсорную панель</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Volume Up</source>
-        <translation>Увеличить звук</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Menu PB</source>
-        <translation>Меню ПБ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keyboard Brightness Up</source>
-        <translation>Клавиатура повышения яркости</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hangul PostHanja</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kana Lock</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Community</source>
-        <translation>Сообщество</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (6)</source>
-        <translation>Запуск (6)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (7)</source>
-        <translation>Запуск (7)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (8)</source>
-        <translation>Запуск (8)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (9)</source>
-        <translation>Запуск (9)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (2)</source>
-        <translation>Запуск (2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (3)</source>
-        <translation>Запуск (3)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (4)</source>
-        <translation>Запуск (4)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (5)</source>
-        <translation>Запуск (5)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (0)</source>
-        <translation>Запуск (0)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (1)</source>
-        <translation>Запуск (1)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (F)</source>
-        <translation>Запуск (Д)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (B)</source>
-        <translation>Запуск (Б)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (C)</source>
-        <translation>Запуск (В)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (D)</source>
-        <translation>Запуск (Г)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (E)</source>
-        <translation>Запуск (Е)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch (A)</source>
-        <translation>Запуск (А)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Удалить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Escape</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Audio Random Play</source>
-        <translation>Случ. воспр. музыки</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hangul</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hangup</source>
-        <translation>Повесить трубку</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Henkan</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Home Office</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last Number Redial</source>
-        <translation>Повтор последнего номера</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Logoff</source>
-        <translation>Выход</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Market</source>
-        <translation>Маркет</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Massyo</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bass Boost</source>
-        <translation>Усилить басс</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Channel Up</source>
-        <translation>Вверх по каналу</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option</source>
-        <translation>Параметры</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PgDown</source>
-        <translation>Страницу вниз</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Перезагрузить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Return</source>
-        <translation>Вернуться</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Romaji</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Поиск</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Выбрать</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SysReq</source>
-        <translation>Системные требования</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Travel</source>
-        <translation>Путешествие</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>NumLock</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WebCam</source>
-        <translation>Веб-камера</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hiragana Katakana</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation>Жёлтый</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top Menu</source>
-        <translation>Верхнее меню</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ScrollLock</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hot Links</source>
-        <translation>Горячии ссылки</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Audio Cycle Track</source>
-        <translation>Зациклить аудиотрек</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Context1</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Context2</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Context3</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Context4</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Уменьшить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Up</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open URL</source>
-        <translation>Открыть URL-адрес</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>iTouch</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Previous Candidate</source>
-        <translation>Предыдущий Кандидат</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Media Play/Pause</source>
-        <translation>Переключение мультимедии Воспр./Пауза</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Eisu Shift</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Code input</source>
-        <translation>Ввод кода</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Printer</source>
-        <translation>Принтер</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Camera Focus</source>
-        <translation>Фокус камеры</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Adjust Brightness</source>
-        <translation>Отрегулировать яркость</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spreadsheet</source>
-        <translation>Таблицы</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Eisu toggle</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keyboard Brightness Down</source>
-        <translation>Клавиатура уменьшения яркости</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear Grab</source>
-        <translation>Очистить захват</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Monitor Brightness Up</source>
-        <translation>Повышение яркости экрана</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>System Request</source>
-        <translation>Запрос системы</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microphone Volume Up</source>
-        <translation>Увеличить звук микрофона</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>CapsLock</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backtab</source>
-        <translation>Вернется</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bass Up</source>
-        <translation>Увеличить басс</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Battery</source>
-        <translation>Аккамулятор</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Katakana</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Обновить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hibernate</source>
-        <translation>Гибернация</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Application Left</source>
-        <translation>Приложение осталось</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Voice Dial</source>
-        <translation>Голосовой набор</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Браузер</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keyboard Menu</source>
-        <translation>Меню клавиатуры</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Back Forward</source>
-        <translation>Назад-вперед</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch Mail</source>
-        <translation>Запустить почту</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keyboard Light On/Off</source>
-        <translation>Подсветка клавиатуры Вкл/Выкл</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backspace</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bass Down</source>
-        <translation>Уменьшить басс</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mail Forward</source>
-        <translation>Пересылка</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Messenger</source>
-        <translation>Посыльный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hangul Banja</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hangul Hanja</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standby</source>
-        <translation>Ожидание</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hangul Start</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotation KB</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotation PB</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation>Документы</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calculator</source>
-        <translation>Калькулятор</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Support</source>
-        <translation>Поддержка</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Suspend</source>
-        <translation>Приостановить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Display</source>
-        <translation>Экран</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hangul Romaja</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>My Sites</source>
-        <translation>Мой сайт</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate Windows</source>
-        <translation>Поворот окон</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Touroku</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zenkaku Hankaku</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hangul Jeonja</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Treble Up</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subtitle</source>
-        <translation>Субтитры</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hangul Jamo</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bluetooth</source>
-        <translation>Блютуз</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Muhenkan</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Num Lock</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Screensaver</source>
-        <translation>Заставка</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Number Lock</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Power Down</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spellchecker</source>
-        <translation>Проверка орфографии</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hangul PreHanja</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Terminal</source>
-        <translation>Терминал</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add Favorite</source>
-        <translation>Добавить избранное</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation>Выполнить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Finance</source>
-        <translation>Финансы</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microphone Volume Down</source>
-        <translation>Уменьшить громкость микрофона</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Task Panel</source>
-        <translation>Панель задач</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation>Избранное</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Вперёд</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Down</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wake Up</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Power Off</source>
-        <translation>Выключить питание</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>LightBulb</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Touchpad Toggle</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hankaku</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Media Fast Forward</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hangul End</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Monitor Brightness Down</source>
-        <translation>Уменьшить яркость монитора</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microphone Mute</source>
-        <translation>Выключить микрофон</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>History</source>
-        <translation>История</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Media Play</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Media Stop</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Media Next</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Touchpad On</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Channel Down</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Launch Media</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Application Right</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation>Изображения</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QMessageBox</name>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Нет</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Да</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Помощь</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Details...</source>
-        <translation>Показать подробности...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>О Qt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide Details...</source>
-        <translation>Скрыть подробности...</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QPlatformTheme</name>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Нет</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Да</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Помощь</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Открыть</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Прервать</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Применить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Сброс</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation>Повтор</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation>Восстановить по умолчанию</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>Игнорировать</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation>Н&amp;ет для всех</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation>Сохранить всё</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation>Отклонить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation>Да для &amp;всех</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QFontDatabase</name>
     <message>
         <source>Any</source>
-        <translation>Любой</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Lao</source>
-        <translation>Лао</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Жирный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Demi</source>
-        <translation>Деми</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>N&apos;Ko</source>
-        <translation>Н&apos;Ко</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation>Тайский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thin</source>
-        <translation>Мелкий</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Чёрный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Extra</source>
-        <translation>Дополнительные</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation>Греческий</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Khmer</source>
-        <translation>Кхмерский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Latin</source>
-        <translation>Латинский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Тонкий</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ogham</source>
-        <translation>Огам</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation>Ория</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Runic</source>
-        <translation>Рунический</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation>Тамильский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cyrillic</source>
-        <translation>Кириллический</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kannada</source>
-        <translation>Каннадский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation>Малайялам</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Extra Light</source>
-        <translation>Экстра тонкий</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
-        <translation>Китайский Упрощенный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Demi Bold</source>
-        <translation>Деми Жирный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation>Арабский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation>Иврит</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Myanmar</source>
-        <translation>Мьянма</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Курсив</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation>Корейский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation>Средний</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Обычный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oblique</source>
-        <translation>Наклонный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation>Телугу</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation>Тхаана</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>Символы</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Syriac</source>
-        <translation>Сирийский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Extra Bold</source>
-        <translation>Экстра Жирный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Devanagari</source>
-        <translation>Деванагари</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation>Японский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation>Бенгальский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation>Армянский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation>Сингальский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation>Тибетский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation>Вьетнамский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation>Гуджарати</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
-        <translation>Китайский Традиционный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Georgian</source>
-        <translation>Грузинский</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation>Гурмукхиский</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QFontDialog</name>
     <message>
         <source>&amp;Font</source>
-        <translation>&amp;Шрифт</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation>&amp;Размер</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sample</source>
-        <translation>Образец</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Font st&amp;yle</source>
-        <translation>Стиль шри&amp;фта</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wr&amp;iting System</source>
-        <translation>Си&amp;стема письма</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation>Выбрать шрифт</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>&amp;Подчёркивание</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation>Эффекты</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stri&amp;keout</source>
-        <translation>Зачёi&amp;ркивание</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QColorDialog</name>
     <message>
         <source>&amp;Red:</source>
-        <translation>&amp;Красный:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>&amp;Суб:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Val:</source>
-        <translation>&amp;Знач:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation>Оттено&amp;к:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;HTML:</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation>Выбрать цвет</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
-        <translation>&amp;Добавить из пользовательских цветов</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation>Сиl&amp;ний:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Pick Screen Color</source>
-        <translation>&amp;Выбрать цвет экрана</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cursor at %1, %2
 Press ESC to cancel</source>
-        <translation>Курсор в %1, %2
-Нажмите ESC для отмены</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation>&amp;Зелёный:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Basic colors</source>
-        <translation>&amp;Основной цвет</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Custom colors</source>
-        <translation>&amp;Пользовательский цвет</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation>А&amp;льфа-канал:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QKeySequenceEdit</name>
     <message>
         <source>Press shortcut</source>
-        <translation>Нажмите сочетание клавиш</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
