@@ -3156,7 +3156,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>显示快捷键提示</translation>
     </message>
     <message>
-        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
         <translation>忽略其他程序模拟的&quot;复制&quot;命令</translation>
     </message>
     <message>

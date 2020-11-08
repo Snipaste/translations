@@ -3158,8 +3158,8 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
         <translation>Sneltoets-tips tonen</translation>
     </message>
     <message>
-        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation>Negeer de &quot;Ccopy&quot;-opdracht afkomstig van andere toepassingen</translation>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <translation>Negeer de &quot;Copy&quot;-opdracht afkomstig van andere toepassingen</translation>
     </message>
     <message>
         <source>Number of colors:</source>

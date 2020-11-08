@@ -3157,7 +3157,7 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

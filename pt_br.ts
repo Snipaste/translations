@@ -3158,8 +3158,8 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
         <translation>Mostrar dicas de ligação de chave</translation>
     </message>
     <message>
-        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation>Ignorar comando &quot;Ccopy&quot; simulado por outros aplicativos</translation>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <translation>Ignorar comando &quot;Copy&quot; simulado por outros aplicativos</translation>
     </message>
     <message>
         <source>Number of colors:</source>

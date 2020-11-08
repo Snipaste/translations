@@ -3159,7 +3159,7 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
         <translation>Mostrar consejos de atajos de teclado</translation>
     </message>
     <message>
-        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
         <translation>Ignorar el comando &quot;Copiar&quot; simulado por otras aplicaciones</translation>
     </message>
     <message>

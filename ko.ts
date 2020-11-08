@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ko">
 <context>
@@ -3145,8 +3145,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>키 바인딩 팁 표시</translation>
     </message>
     <message>
-        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation>다른 응용 프로그램에서 시뮬레이션 한 &quot;Ccopy&quot;명령 무시</translation>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <translation>다른 응용 프로그램에서 시뮬레이션 한 &quot;Copy&quot;명령 무시</translation>
     </message>
     <message>
         <source>Number of colors:</source>

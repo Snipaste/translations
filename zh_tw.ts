@@ -3159,7 +3159,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>顯示快速鍵提示</translation>
     </message>
     <message>
-        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
         <translation>略過其他程式模擬的&quot;複製&quot;命令</translation>
     </message>
     <message>

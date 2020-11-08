@@ -3158,8 +3158,8 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
         <translation>Mostra suggerimenti per l&apos;associazione dei tasti</translation>
     </message>
     <message>
-        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation>Ignora il comando &quot;Ccopy&quot; simulato da altre applicazioni</translation>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <translation>Ignora il comando &quot;Copy&quot; simulato da altre applicazioni</translation>
     </message>
     <message>
         <source>Number of colors:</source>

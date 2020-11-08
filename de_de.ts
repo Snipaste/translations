@@ -3155,8 +3155,8 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
         <translation>Zeige Tastatur Tipps</translation>
     </message>
     <message>
-        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation>Von anderen Anwendungen simulierten &quot;Ccopy&quot;-Befehl irnorieren</translation>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <translation>Von anderen Anwendungen simulierten &quot;Copy&quot;-Befehl irnorieren</translation>
     </message>
     <message>
         <source>Number of colors:</source>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ja_JP" sourcelanguage="en_US">
 <context>
@@ -3158,8 +3158,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>キー割り当てのヒントを表示する</translation>
     </message>
     <message>
-        <source>Ignore &quot;Ccopy&quot; command simulated by other applications</source>
-        <translation>他のプログラムがシミュレートした「Ccopy」命令を無視する</translation>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <translation>他のプログラムがシミュレートした「Copy」命令を無視する</translation>
     </message>
     <message>
         <source>Number of colors:</source>
