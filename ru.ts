@@ -5,7 +5,7 @@
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Выбрать цвет</translation>
+        <translation>Выбрать цвет</translation>
     </message>
 </context>
 <context>
@@ -106,7 +106,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation>Новая версия Snipaste  была загружена в:</translation>
+        <translation>Новая версия Snipaste была загружена в:</translation>
     </message>
     <message>
         <source>Cancel</source>
