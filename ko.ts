@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ko">
 <context>
@@ -360,7 +360,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Finish editing current shape when in edit mode</source>
-        <translation>편집모드에서 현재 모양편집 완료</translation>
+        <translation type="vanished">편집모드에서 현재 모양편집 완료</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2</source>
@@ -368,7 +368,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation>편집모드에서 펜 폭 감소 / 증가</translation>
+        <translation type="vanished">편집모드에서 펜 폭 감소 / 증가</translation>
     </message>
     <message>
         <source>or</source>
@@ -622,6 +622,18 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Dates and times</source>
         <translation>날짜와 시간</translation>
+    </message>
+    <message>
+        <source>The title of the active window before snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Same as the above, but the number of characters is limited to 50</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special variables</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

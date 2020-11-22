@@ -390,7 +390,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation>すべて表示画像を選択する　[PRO]</translation>
+        <translation>すべて表示画像を選択する&#x3000;[PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
@@ -613,6 +613,18 @@ PRO機能を利用するために今すぐSnipasteを再起動しますか？</t
     <message>
         <source>Dates and times</source>
         <translation>日付と時刻</translation>
+    </message>
+    <message>
+        <source>The title of the active window before snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Same as the above, but the number of characters is limited to 50</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special variables</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1183,7 +1195,7 @@ Are you sure you want to switch to another configuration file?</source>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>「X」キーのダブルクリック操作がすでに無効になった。
-マウスクリック無効化必要の場合は「環境設定　-　ショートカット」で調整 。</translation>
+マウスクリック無効化必要の場合は「環境設定&#x3000;-&#x3000;ショートカット」で調整 。</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -1263,7 +1275,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation>デスクトップ　%1</translation>
+        <translation>デスクトップ&#x3000;%1</translation>
     </message>
     <message>
         <source>Copy raw HTML</source>
@@ -1285,7 +1297,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation>画像ウィンドウをダブルクリックし、ウィンドウが閉じる。
-環境設定で本動作を調整できる：コントロール　-　マウス。</translation>
+環境設定で本動作を調整できる：コントロール&#x3000;-&#x3000;マウス。</translation>
     </message>
     <message>
         <source>Export selected images to...</source>

@@ -612,6 +612,18 @@ Restart now to enjoy PRO features?</source>
         <source>Dates and times</source>
         <translation>日期和时间</translation>
     </message>
+    <message>
+        <source>The title of the active window before snipping</source>
+        <translation>截图前的活动窗口的标题</translation>
+    </message>
+    <message>
+        <source>Same as the above, but the number of characters is limited to 50</source>
+        <translation>同上，但标题长度被限制在 50 个字符以内</translation>
+    </message>
+    <message>
+        <source>Special variables</source>
+        <translation>特殊变量</translation>
+    </message>
 </context>
 <context>
     <name>OptionsDialog</name>

@@ -612,6 +612,18 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
         <source>Dates and times</source>
         <translation>Datum und Zeit</translation>
     </message>
+    <message>
+        <source>The title of the active window before snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Same as the above, but the number of characters is limited to 50</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special variables</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionsDialog</name>

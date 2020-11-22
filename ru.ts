@@ -614,6 +614,18 @@ Restart now to enjoy PRO features?</source>
         <source>Dates and times</source>
         <translation>Даты и время</translation>
     </message>
+    <message>
+        <source>The title of the active window before snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Same as the above, but the number of characters is limited to 50</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special variables</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionsDialog</name>
@@ -1957,7 +1969,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пользовательский снимок</translation>
     </message>
 </context>
 <context>
@@ -2988,7 +3000,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обычный снимок</translation>
     </message>
     <message>
         <source>Super snip</source>
@@ -3110,7 +3122,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Правила наименования</translation>
     </message>
     <message>
         <source>Also copy image as file</source>
