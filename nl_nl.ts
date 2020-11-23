@@ -616,15 +616,15 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     </message>
     <message>
         <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>De titel van het venster voor de opname</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>Hetzelfde als hierboven, maar met het aantal leestekens beperkt tot 50</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Speciale variabelen</translation>
     </message>
 </context>
 <context>
