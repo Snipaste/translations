@@ -616,15 +616,15 @@ Reiniciar agora para usufruir dos recursos PRO?</translation>
     </message>
     <message>
         <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>O título da janela ativa antes do recorte</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>O mesmo do acima, mas o número de caracteres é limitado em 50</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variáveis especiais</translation>
     </message>
 </context>
 <context>
@@ -2064,7 +2064,7 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>Copy</source>
-        <translation></translation>
+        <translation>Copiar</translation>
     </message>
 </context>
 <context>
