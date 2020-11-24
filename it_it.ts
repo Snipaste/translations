@@ -616,15 +616,15 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Titolo della finestra attiva prima del ritaglio</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>Come sopra, ma col numero di caratteri limitato a 50</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variabili speciali</translation>
     </message>
 </context>
 <context>
