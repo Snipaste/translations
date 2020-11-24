@@ -616,15 +616,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>擷圖前的使用中視窗標題</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>同上，但標題長度被限制在 50 個字元以內</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>特殊變數</translation>
     </message>
 </context>
 <context>
