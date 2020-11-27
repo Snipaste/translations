@@ -614,15 +614,15 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Titel des aktiven Fensters vor dem Aufnehmen</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>Wie oben, jedoch ist die Anzahl der Zeichen auf 50 begrenzt</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Spezielle Variablen</translation>
     </message>
 </context>
 <context>
@@ -1021,7 +1021,7 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation>Eckradius</translation>
+        <translation>Eckradius:</translation>
     </message>
     <message>
         <source>Alpha:</source>
