@@ -5,7 +5,7 @@
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>색상 선택</translation>
     </message>
 </context>
 <context>
@@ -23,7 +23,7 @@
     <name>CustomSnipDialog</name>
     <message>
         <source>Edit presets...</source>
-        <translation>프리셋 편집</translation>
+        <translation>프리셋 편집...</translation>
     </message>
     <message>
         <source>s</source>
@@ -38,7 +38,7 @@
     </message>
     <message>
         <source>Download complete.</source>
-        <translation>다운로드 완료</translation>
+        <translation>다운로드 완료.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -46,11 +46,11 @@
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation>파일 해시값이 일치하지 않습니다</translation>
+        <translation>파일 해시값이 일치하지 않습니다.</translation>
     </message>
     <message>
         <source>Please retry.</source>
-        <translation>재시도 해보세요</translation>
+        <translation>재시도 해보세요.</translation>
     </message>
     <message>
         <source>Writing downloaded file into</source>
@@ -62,7 +62,7 @@
     </message>
     <message>
         <source>Saved successfully.</source>
-        <translation>저장완료</translation>
+        <translation>저장완료.</translation>
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
@@ -78,7 +78,7 @@
     </message>
     <message>
         <source>Please try later.</source>
-        <translation>나중에 다시 시도해 보세요</translation>
+        <translation>나중에 다시 시도해 보세요.</translation>
     </message>
     <message>
         <source>Downloading</source>
@@ -91,12 +91,12 @@
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation>네트워크 오류로 다운로드가 실패했습니다 : %1</translation>
+        <translation>네트워크 오류로 다운로드가 실패했습니다. : %1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation>업데이트중 문제가 발생했습니다. 개발자에게 연락해 보세요</translation>
+        <translation>업데이트중 문제가 발생했습니다. 개발자에게 연락해 보세요.(%1)</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -104,7 +104,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation>새 버전의 Snipaste 다운로드</translation>
+        <translation>새 버전의 Snipaste 다운로드 :</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -123,7 +123,7 @@ Please contact the developer.</source>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation>선택된 그룹들을 닫으시겠습니까? (진행 후엔 복구할 수 없습니다)</translation>
+        <translation>선택된 그룹들을 닫으시겠습니까? (진행 후엔 복구할 수 없습니다.)</translation>
     </message>
 </context>
 <context>
@@ -197,14 +197,14 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>More examples...</source>
-        <translation>추가적인 예제보기</translation>
+        <translation>추가적인 예제보기...</translation>
     </message>
 </context>
 <context>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation>캡춰만</translation>
+        <translation>캡춰만 :</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
@@ -228,11 +228,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
-        <translation>스니핑 영역을 1 픽셀 씩 확대합니다.</translation>
+        <translation>캡춰 영역을 1 픽셀 씩 확대</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
-        <translation>스니핑 영역을 1 픽셀 씩 축소 합니다.</translation>
+        <translation>캡춰 영역을 1 픽셀 씩 축소</translation>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
@@ -240,7 +240,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
-        <translation>스크린샷을 복사하고 스니핑을 종료합니다.</translation>
+        <translation>스크린샷을 복사하고 스니핑을 종료</translation>
     </message>
     <message>
         <source>Abort snipping</source>
@@ -256,7 +256,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Paste only:</source>
-        <translation>붙여넣기만</translation>
+        <translation>붙여넣기만:</translation>
     </message>
     <message>
         <source>Rotate the image clockwise by 90 degrees</source>
@@ -296,7 +296,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Common:</source>
-        <translation>일반</translation>
+        <translation>일반:</translation>
     </message>
     <message>
         <source>Show the magnifier if it is not visible</source>
@@ -320,7 +320,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
-        <translation>편집하지 않으면 snipping 영역 / 이미지창을 1 픽셀씩 이동합니다.</translation>
+        <translation>편집하지 않으면 snipping 영역 / 이미지창을 1 픽셀씩 이동</translation>
     </message>
     <message>
         <source>Space</source>
@@ -452,7 +452,8 @@ Please contact the developer.</source>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>감사합니다! 지금 재시작을 하고 PRO버전을 사용하시겠습니까?</translation>
+        <translation>감사합니다!
+PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>OK</source>
@@ -625,15 +626,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>캡처하기 전 활성 창의 제목</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>위와 동일하지만 문자 수를 50 자로 제한함</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>특수 변수</translation>
     </message>
 </context>
 <context>
@@ -797,7 +798,8 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
-        <translation>시작시 바로 가기에 문제가 발생했습니다. 시작시 자동실행이 취소되었습니다.</translation>
+        <translation>시작시 바로 가기에 문제가 발생했습니다.
+시작시 자동실행이 취소되었습니다.</translation>
     </message>
     <message>
         <source>Russian</source>
@@ -974,7 +976,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>이탈리안</translation>
     </message>
 </context>
 <context>
@@ -1799,11 +1801,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>물리적 픽셀(px)</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
-        <translation type="unfinished"></translation>
+        <translation>장치독립픽셀(dip)</translation>
     </message>
 </context>
 <context>
@@ -3174,11 +3176,11 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>색상번호:</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>색상 버튼을 클릭하거나 드래그하여 팔레트를 사용자 화합니다.</translation>
     </message>
 </context>
 <context>
