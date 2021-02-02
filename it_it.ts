@@ -963,7 +963,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation>Gratis</translation>
+        <translation>Gratuito</translation>
     </message>
     <message>
         <source>Italian</source>
@@ -2665,7 +2665,7 @@ Specifica -1 per lasciare che Snipaste decida per te.</translation>
     </message>
     <message>
         <source>Automatically save every screenshot will be saved to this folder.</source>
-        <translation>Salva automaticamente ogni screenshot verrà salvato in questa cartella.</translation>
+        <translation>Ogni screenshot salvato automaticamente verrà salvato in questa cartella.</translation>
     </message>
     <message>
         <source>Browse the auto save folder.</source>
