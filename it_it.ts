@@ -1030,7 +1030,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished">Area</translation>
+        <translation>Area</translation>
     </message>
     <message>
         <source>Filled rectangle</source>
@@ -1038,31 +1038,31 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
-        <translation type="unfinished">Rettangolo/Ellisse</translation>
+        <translation>Rettangolo/Ellisse</translation>
     </message>
     <message>
         <source>Line strip</source>
-        <translation type="unfinished">Linea spezzata</translation>
+        <translation>Linea spezzata</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished">Freccia</translation>
+        <translation>Freccia</translation>
     </message>
     <message>
         <source>Pencil</source>
-        <translation type="unfinished">Matita</translation>
+        <translation>Matita</translation>
     </message>
     <message>
         <source>Marker pen</source>
-        <translation type="unfinished">Evidenziatore</translation>
+        <translation>Evidenziatore</translation>
     </message>
     <message>
         <source>Mosaic/Blur</source>
-        <translation type="unfinished">Mosaico/Sfocatura</translation>
+        <translation>Mosaico/Sfocatura</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Testo</translation>
+        <translation>Testo</translation>
     </message>
 </context>
 <context>
