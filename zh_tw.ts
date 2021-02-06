@@ -1028,6 +1028,42 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Alpha:</source>
         <translation>不透明度：</translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation>填充</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation>填充矩形</translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>矩形/橢圓</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>連續線段</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>箭頭</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>畫筆</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>螢光筆</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>馬賽克/模糊</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>文字</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -3182,6 +3218,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation>點選或拖曳色彩按鈕進行自訂。</translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3201,36 +3241,12 @@ When the limit is reached, the oldest one will be destroyed.</source>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>連續線段 (Ctrl+2)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>箭頭 (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>螢光筆 (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>文字 (Ctrl+7)</translation>
-    </message>
-    <message>
         <source>Pin to screen (Ctrl+T)</source>
         <translation>貼到螢幕上 (Ctrl+T)</translation>
     </message>
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
         <translation>複製至剪貼簿 (Ctrl+C)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>畫筆 (Ctrl+4)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>馬賽克/模糊 (Ctrl+6)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -3248,17 +3264,9 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Quit snipping (Esc)</source>
         <translation>結束擷圖 (Esc)</translation>
     </message>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>矩形/橢圓 (Ctrl+1)</translation>
-    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation>填充</translation>
-    </message>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>切換馬賽克/模糊</translation>
@@ -3278,6 +3286,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Pen style</source>
         <translation>畫筆樣式</translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
+        <translation>填充橢圓</translation>
     </message>
 </context>
 <context>

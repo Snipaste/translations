@@ -390,7 +390,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation>すべて表示画像を選択する　[PRO]</translation>
+        <translation>すべて表示画像を選択する&#x3000;[PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
@@ -1028,6 +1028,42 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Alpha:</source>
         <translation>アルファ：</translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation>充填</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>長方形/楕円</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>折れ線</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>矢印</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>ブラシ</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>マーカー</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>モザイク/ぼかし</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>テキスト</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1195,7 +1231,7 @@ Are you sure you want to switch to another configuration file?</source>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>「X」キーのダブルクリック操作がすでに無効になった。
-マウスクリック無効化必要の場合は「環境設定　-　ショートカット」で調整 。</translation>
+マウスクリック無効化必要の場合は「環境設定&#x3000;-&#x3000;ショートカット」で調整 。</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -1275,7 +1311,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation>デスクトップ　%1</translation>
+        <translation>デスクトップ&#x3000;%1</translation>
     </message>
     <message>
         <source>Copy raw HTML</source>
@@ -1297,7 +1333,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation>画像ウィンドウをダブルクリックし、ウィンドウが閉じる。
-環境設定で本動作を調整できる：コントロール　-　マウス。</translation>
+環境設定で本動作を調整できる：コントロール&#x3000;-&#x3000;マウス。</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
@@ -3181,6 +3217,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation>クリック或いは色ボタンをドラッグしてカスタマイズする。</translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3200,24 +3240,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>テキスト (Ctrl+7)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>矢印 (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>マーカー (Ctrl+5)</translation>
-    </message>
-    <message>
         <source>Quit snipping (Esc)</source>
         <translation>切り取り終了 (Esc)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>ブラシ (Ctrl+4)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
@@ -3228,16 +3252,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>元に戻す (Ctrl+Z)</translation>
     </message>
     <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>折れ線 (Ctrl+2)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>ファイルに保存する (Ctrl+S)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>モザイク/ぼかし (Ctrl+6)</translation>
     </message>
     <message>
         <source>Finish edit (Esc)</source>
@@ -3247,17 +3263,9 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Copy to clipboard (Ctrl+C)</source>
         <translation>クリップボードにコピーする (Ctrl+C)</translation>
     </message>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>長方形/楕円 (Ctrl+1)</translation>
-    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation>充填</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>フォント集</translation>
@@ -3277,6 +3285,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Pen style</source>
         <translation>ペンのスタイル</translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

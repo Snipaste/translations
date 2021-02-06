@@ -1028,6 +1028,42 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <source>Alpha:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation>Doldur</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Dikdörtgen/Elips</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>Çizgi</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Ok</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Kalem</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Keçeli kalem</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>Mozaik/Bulanık</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Metin</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1352,14 +1388,6 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
         <translation>Sistem Tercihlerini Aç</translation>
     </message>
     <message>
-        <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
         <translation>UI öğesi algılamayı etkinleştirmek için, Snipaste erişilebilirlik kontrolü gerektirir.</translation>
     </message>
@@ -1369,6 +1397,14 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3180,6 +3216,10 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3198,34 +3238,6 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
 </context>
 <context>
     <name>paintbar0</name>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>Dikdörtgen/Elips (Ctrl+1)</translation>
-    </message>
-    <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>Çizgi (Ctrl+2)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>Ok (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>Kalem (Ctrl+4)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>Keçeli kalem (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>Mozaik/Bulanık (Ctrl+6)</translation>
-    </message>
-    <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>Metin (Ctrl+7)</translation>
-    </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Geri al (Ctrl+Z)</translation>
@@ -3254,10 +3266,6 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
 <context>
     <name>paintbar1</name>
     <message>
-        <source>Fill</source>
-        <translation>Doldur</translation>
-    </message>
-    <message>
         <source>Fill with stroke</source>
         <translation>Kontur ile doldurun</translation>
     </message>
@@ -3275,6 +3283,10 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     </message>
     <message>
         <source>Pen style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

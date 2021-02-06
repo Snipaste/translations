@@ -1028,6 +1028,42 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
         <source>Alpha:</source>
         <translation>Alpha:</translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation>Vlak</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Rechthoek/Ellips</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>Lijnstuk</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Pijl</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Potlood</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Markeerstift</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>Mozaïek/Vervagen</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Tekst</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -3181,6 +3217,10 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation>Klik of sleep de kleurknoppen om het palet aan te passen.</translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3200,32 +3240,8 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>Lijnstuk (Ctrl+2)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>Pijl (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>Markeerstift (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>Tekst (Ctrl+7)</translation>
-    </message>
-    <message>
         <source>Copy to clipboard (Ctrl+C)</source>
         <translation>Naar klembord kopiëren (Ctrl+C)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>Potlood (Ctrl+4)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>Mozaïek/Vervagen (Ctrl+6)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -3247,17 +3263,9 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
         <source>Quit snipping (Esc)</source>
         <translation>Knippen afbreken (Esc)</translation>
     </message>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>Rechthoek/Ellips (Ctrl+1)</translation>
-    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation>Vlak</translation>
-    </message>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Mozaïek/Vervagen wisselen</translation>
@@ -3277,6 +3285,10 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     <message>
         <source>Pen style</source>
         <translation>Penstijl</translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

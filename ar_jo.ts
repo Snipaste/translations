@@ -1022,6 +1022,42 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Alpha:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation>ملء</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>مستطيل/بيضوي</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>شريط الخط</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>سهم</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>قلم</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>قلم تعلىم</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>فسيفساء/طمس</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>نص</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1345,14 +1381,6 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>فتح تفضيلات النظام</translation>
     </message>
     <message>
-        <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
         <translation>التحكم في امكانيه الوصول Snipaste لتمكين الكشف عن عنصر واجهه المستخدم ، يتطلب.</translation>
     </message>
@@ -1362,6 +1390,14 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3160,6 +3196,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3179,28 +3219,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>نص (Ctrl + 7)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>سهم (Ctrl + 3)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>قلم تعلىم (Ctrl + 5)</translation>
-    </message>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>مستطيل/بيضوي (Ctrl + 1)</translation>
-    </message>
-    <message>
         <source>Quit snipping (Esc)</source>
         <translation>انهاء القص (Esc)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>قلم (Ctrl + 4)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
@@ -3211,16 +3231,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>تراجع (Ctrl + z)</translation>
     </message>
     <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>شريط الخط (Ctrl + 2)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>حفظ الى ملف (Ctrl + s)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>فسيفساء/طمس (Ctrl + 6)</translation>
     </message>
     <message>
         <source>Finish edit (Esc)</source>
@@ -3233,10 +3245,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation>ملء</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>عائلة الخط</translation>
@@ -3255,6 +3263,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Pen style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -1027,6 +1027,42 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
         <source>Alpha:</source>
         <translation>Alpha:</translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation>Füllen</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Rechteck/Kreis</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>Linie</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Pfeil</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Stift</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Marker</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>Mosaik/Unschärfe</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Text</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -3178,6 +3214,10 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation>Klicken oder ziehen Sie die Farbschaltflächen, um die Palette anzupassen.</translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3197,32 +3237,8 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>Linie (Ctrl+2)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>Pfeil (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>Marker (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>Text (Ctrl+7)</translation>
-    </message>
-    <message>
         <source>Copy to clipboard (Ctrl+C)</source>
         <translation>In Zwischenablage kopieren (Ctrl+C)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>Stift (Ctrl+4)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>Mosaik/Unschärfe (Ctrl+6)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -3244,17 +3260,9 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
         <source>Quit snipping (Esc)</source>
         <translation>Aufnahme beenden (Esc)</translation>
     </message>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>Rechteck/Kreis (Ctrl+1)</translation>
-    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation>Füllen</translation>
-    </message>
     <message>
         <source>Toggle mosaic/blur</source>
         <translation>Zwischen Mosaik und Unschärfe wechseln</translation>
@@ -3274,6 +3282,10 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
     <message>
         <source>Pen style</source>
         <translation>Stiftstil</translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1028,6 +1028,42 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
         <source>Alpha:</source>
         <translation>Alpha :</translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation>Remplir</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Rectangle/Ellipse</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>Bande de ligne</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Flèche</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Pinceau</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Marqueur</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>Mosaique/Flou</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Texte</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -3181,6 +3217,10 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation>Cliquez ou faites glisser boutons de couleur pour personnaliser la palette.</translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3200,24 +3240,8 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>Texte (Ctrl+7)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>Flèche (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>Marqueur (Ctrl+5)</translation>
-    </message>
-    <message>
         <source>Quit snipping (Esc)</source>
         <translation>Arrêter enregistrement (Esc)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>Pinceau (Ctrl+4)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
@@ -3228,16 +3252,8 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
         <translation>Défaire (Ctrl+Z)</translation>
     </message>
     <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>Bande de ligne (Ctrl+2)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Enregistrer dans un fichier (Ctrl+S)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>Mosaique/Flou (Ctrl+6)</translation>
     </message>
     <message>
         <source>Finish edit (Esc)</source>
@@ -3247,17 +3263,9 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
         <source>Copy to clipboard (Ctrl+C)</source>
         <translation>Copier vers presse-papier (Ctrl+C)</translation>
     </message>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>Rectangle/Ellipse (Ctrl+1)</translation>
-    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation>Remplir</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>Famille de polices</translation>
@@ -3277,6 +3285,10 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     <message>
         <source>Pen style</source>
         <translation>Style du stylo</translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

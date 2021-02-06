@@ -1037,6 +1037,42 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Alpha:</source>
         <translation>알파값 : </translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation>채움</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>도형</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>줄무늬</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>화살표</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>펜</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>형광펜</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>모자이크/흐리게</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>텍스트</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -3182,6 +3218,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation>색상 버튼을 클릭하거나 드래그하여 팔레트를 사용자 화합니다.</translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3200,30 +3240,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
 </context>
 <context>
     <name>paintbar0</name>
-    <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>줄무늬 (Ctrl+2)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>화살표 (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>펜 (Ctrl+4)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>마커팬 (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>모자이크/블러 (Ctrl+6)</translation>
-    </message>
-    <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>텍스트 (Ctrl+7)</translation>
-    </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>실행취소(Ctrl+Z)</translation>
@@ -3248,17 +3264,9 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Finish edit (Esc)</source>
         <translation>편집 끝내기 (Esc)</translation>
     </message>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>직사각형 / 타원 (Ctrl+1)</translation>
-    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation>채움</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>폰트 모음</translation>
@@ -3278,6 +3286,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Pen style</source>
         <translation>펜 스타일</translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

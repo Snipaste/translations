@@ -99,10 +99,6 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restarting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The new version of Snipaste has been downloaded to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -116,6 +112,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Install now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restarting</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1019,6 +1019,42 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Alpha:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1333,6 +1369,10 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1354,10 +1394,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1900,7 +1936,7 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>UpdaterDialog</name>
     <message>
-        <source>Checking...</source>
+        <source>Download updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1912,10 +1948,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Recheck</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Release notes are currently not available.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1924,7 +1956,11 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Download updates</source>
+        <source>Recheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3155,6 +3191,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3197,41 +3237,9 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Finish edit (Esc)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text (Ctrl+7)</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation type="unfinished"></translation>
@@ -3250,6 +3258,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Pen style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

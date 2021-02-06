@@ -45,32 +45,12 @@
         <translation>Lỗi</translation>
     </message>
     <message>
-        <source>File hash does not match.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please retry.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Writing downloaded file into</source>
         <translation>Tải hoàn tất</translation>
     </message>
     <message>
-        <source>Do you have write access to %1?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Saved successfully.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
         <translation>Tải xảy ra lỗi!HTTP lỗi mã: %1</translation>
-    </message>
-    <message>
-        <source>Unzipped successfully.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to download updates.</source>
@@ -89,10 +69,6 @@
         <translation>Thử lại</translation>
     </message>
     <message>
-        <source>Restarting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Feed download failed.
 Network Error: %1</source>
         <translation>Đường dẫn tải xuống bị hỏng. Lỗi đường truyền %1 </translation>
@@ -103,12 +79,32 @@ Please contact the developer.</source>
         <translation>Có một vài vấn đề bị lỗi với đường truyền tải lên %1.Hãy liên hệ với nhà phát triển.</translation>
     </message>
     <message>
-        <source>The new version of Snipaste has been downloaded to:</source>
+        <source>Cancel</source>
+        <translation>Hủy bỏ</translation>
+    </message>
+    <message>
+        <source>File hash does not match.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation>Hủy bỏ</translation>
+        <source>Please retry.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have write access to %1?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saved successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unzipped successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The new version of Snipaste has been downloaded to:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show in Finder</source>
@@ -116,6 +112,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Install now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restarting</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -998,7 +998,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">Cục tẩy</translation>
+        <translation>Cục tẩy</translation>
     </message>
     <message>
         <source>Text background</source>
@@ -1019,6 +1019,42 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Alpha:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>Lấp đầy</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Sao chép vào clipboard/Hình ellip</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>Hàng dòng</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Mũi tên</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Bút chì</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Bút đánh dấu</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>Mosaic/Blur</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Chữ viết</translation>
     </message>
 </context>
 <context>
@@ -1338,6 +1374,10 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Hủy bỏ</translation>
     </message>
     <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open System Preferences</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1355,10 +1395,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3160,6 +3196,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3178,30 +3218,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
 </context>
 <context>
     <name>paintbar0</name>
-    <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>Hàng dòng (Ctrl+2)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>Mũi tên (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>Bút chì (Ctrl+4)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>Bút đánh dấu (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>Mosaic/Blur (Ctrl+6)</translation>
-    </message>
-    <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>Đoạn văn (Ctrl+7)</translation>
-    </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Quay lại</translation>
@@ -3226,17 +3242,9 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Finish edit (Esc)</source>
         <translation>Hoàn tất chỉnh sửa</translation>
     </message>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>Sao chép vào clipboard/Hình ellip (Ctrl+1)</translation>
-    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation>Lấp đầy</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>Kiểu phông chữ</translation>
@@ -3255,6 +3263,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Pen style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

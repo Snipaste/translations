@@ -45,32 +45,12 @@
         <translation>Błąd</translation>
     </message>
     <message>
-        <source>File hash does not match.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Please retry.</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Writing downloaded file into</source>
         <translation>Kopiowanie pobranego pliku do </translation>
     </message>
     <message>
-        <source>Do you have write access to %1?</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Saved successfully.</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
         <translation>Nastąpił błąd pobierania! Kod błędu HTTP: %1</translation>
-    </message>
-    <message>
-        <source>Unzipped successfully.</source>
-        <translation></translation>
     </message>
     <message>
         <source>Unable to download updates.</source>
@@ -101,24 +81,44 @@ Please contact the developer.</source>
 Proszę skontaktować się z deweloperem.</translation>
     </message>
     <message>
-        <source>Restarting</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>The new version of Snipaste has been downloaded to:</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
     <message>
+        <source>File hash does not match.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please retry.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have write access to %1?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saved successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unzipped successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The new version of Snipaste has been downloaded to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show in Finder</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restarting</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1022,6 +1022,42 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Alpha:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation>Wypełnienie</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Prostokąt/Elipsa</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>Linie</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Strzałki</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Ołówek</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Marker</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>Mozaika/Rozmazanie</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Tekst</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1341,27 +1377,27 @@ Otwórz Snipaste jako administrator i spróbuj ponownie.</translation>
         <translation>Anuluj</translation>
     </message>
     <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open System Preferences</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1929,7 +1965,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Download updates</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3171,6 +3207,10 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3189,30 +3229,6 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
 </context>
 <context>
     <name>paintbar0</name>
-    <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>Linie (Ctrl+2)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>Strzałki (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>Ołówek (Ctrl+4)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>Marker (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>Mozaika/Rozmazanie (Ctrl+6)</translation>
-    </message>
-    <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>Tekst (Ctrl+7)</translation>
-    </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Confij (Ctrl+Z)</translation>
@@ -3237,17 +3253,9 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
         <source>Finish edit (Esc)</source>
         <translation>Zakończ edycję (Esc)</translation>
     </message>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>Prostokąt/Elipsa (Ctrl+1)</translation>
-    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation>Wypełnienie</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>Rodzina czcionek</translation>
@@ -3266,6 +3274,10 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
     </message>
     <message>
         <source>Pen style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

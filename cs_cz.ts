@@ -33,16 +33,20 @@
 <context>
     <name>FvUpdater</name>
     <message>
+        <source>Error</source>
+        <translation>Chyba</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Zrušit</translation>
+    </message>
+    <message>
         <source>Redirecting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download complete.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Chyba</translation>
     </message>
     <message>
         <source>File hash does not match.</source>
@@ -101,10 +105,6 @@ Please contact the developer.</source>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Zrušit</translation>
     </message>
     <message>
         <source>Show in Finder</source>
@@ -1020,6 +1020,42 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
         <source>Alpha:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation>Vyplnit</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>Linka</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Šipka</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Tužka</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Zvýrazňovací tužka</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>Mozaika/Rozostření</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Text</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1339,6 +1375,10 @@ Spusťte Snipaste s právy správce a zkuste znovu provést nastavení.</transla
         <translation>Zrušit</translation>
     </message>
     <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open System Preferences</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1356,10 +1396,6 @@ Spusťte Snipaste s právy správce a zkuste znovu provést nastavení.</transla
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1902,16 +1938,20 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>UpdaterDialog</name>
     <message>
+        <source>Cancel</source>
+        <translation>Zrušit</translation>
+    </message>
+    <message>
+        <source>Checking...</source>
+        <translation>Kontrola...</translation>
+    </message>
+    <message>
         <source>Download updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Zrušit</translation>
     </message>
     <message>
         <source>Release notes are currently not available.</source>
@@ -1924,10 +1964,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Recheck</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checking...</source>
-        <translation>Kontrola...</translation>
     </message>
 </context>
 <context>
@@ -3166,6 +3202,10 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3184,34 +3224,6 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
 </context>
 <context>
     <name>paintbar0</name>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>Linka (Ctrl+2)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>Šipka (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>Tužka (Ctrl+4)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>Zvýrazňovací tužka (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>Mozaika/Rozostření (Ctrl+6)</translation>
-    </message>
-    <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>Text (Ctrl+7)</translation>
-    </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Zpět (Ctrl+Z)</translation>
@@ -3240,10 +3252,6 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
 <context>
     <name>paintbar1</name>
     <message>
-        <source>Fill</source>
-        <translation>Vyplnit</translation>
-    </message>
-    <message>
         <source>Fill with stroke</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3261,6 +3269,10 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
     </message>
     <message>
         <source>Pen style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

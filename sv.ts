@@ -105,12 +105,12 @@ Kontakta programutvecklaren.</translation>
         <translation>Startar om</translation>
     </message>
     <message>
-        <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Avbryt</translation>
+    </message>
+    <message>
+        <source>The new version of Snipaste has been downloaded to:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show in Finder</source>
@@ -1022,6 +1022,42 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Alpha:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation>Fyll</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Rektangel/Ellips</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>Linje</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Pil</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Penna</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Markeringspenna</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>Mosaik/Oskärpa</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Text</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -1341,6 +1377,10 @@ Du kan starta om Snipaste som administratör och försöka igen.</translation>
         <translation>Avbryt</translation>
     </message>
     <message>
+        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open System Preferences</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1358,10 +1398,6 @@ Du kan starta om Snipaste som administratör och försöka igen.</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3170,6 +3206,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3189,40 +3229,16 @@ When the limit is reached, the oldest one will be destroyed.</source>
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>Text (Ctrl+7)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>Pil (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>Markeringspenna (Ctrl+5)</translation>
-    </message>
-    <message>
         <source>Quit snipping (Esc)</source>
         <translation>Avsluta klippning (Esc)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>Penna (Ctrl+4)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Ångra (Ctrl+Z)</translation>
     </message>
     <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>Linje (Ctrl+2)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Spara till fil (Ctrl+S)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>Mosaik/Oskärpa (Ctrl+6)</translation>
     </message>
     <message>
         <source>Finish edit (Esc)</source>
@@ -3236,17 +3252,9 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Pin to screen (Ctrl+T)</source>
         <translation>Fäst på skärmen (Ctrl+T)</translation>
     </message>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>Rektangel/Ellips (Ctrl+1)</translation>
-    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation>Fyll</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>Teckensnittsfamilj</translation>
@@ -3265,6 +3273,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Pen style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

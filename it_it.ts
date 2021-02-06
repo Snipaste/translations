@@ -1028,6 +1028,42 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
         <source>Alpha:</source>
         <translation>Alfa:</translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished">Area</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation type="unfinished">Rettangolo/Ellisse</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation type="unfinished">Linea spezzata</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation type="unfinished">Freccia</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation type="unfinished">Matita</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation type="unfinished">Evidenziatore</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation type="unfinished">Mosaico/Sfocatura</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Testo</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -3181,6 +3217,10 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation>Cliccare o trascinare i pulsanti del colore per personalizzare la tavolozza.</translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3225,39 +3265,35 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     </message>
     <message>
         <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>Rettangolo/Ellisse (Ctrl+1)</translation>
+        <translation type="vanished">Rettangolo/Ellisse (Ctrl+1)</translation>
     </message>
     <message>
         <source>Line strip (Ctrl+2)</source>
-        <translation>Linea spezzata (Ctrl+2)</translation>
+        <translation type="vanished">Linea spezzata (Ctrl+2)</translation>
     </message>
     <message>
         <source>Arrow (Ctrl+3)</source>
-        <translation>Freccia (Ctrl+3)</translation>
+        <translation type="vanished">Freccia (Ctrl+3)</translation>
     </message>
     <message>
         <source>Pencil (Ctrl+4)</source>
-        <translation>Matita (Ctrl+4)</translation>
+        <translation type="vanished">Matita (Ctrl+4)</translation>
     </message>
     <message>
         <source>Marker pen (Ctrl+5)</source>
-        <translation>Evidenziatore (Ctrl+5)</translation>
+        <translation type="vanished">Evidenziatore (Ctrl+5)</translation>
     </message>
     <message>
         <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>Mosaico/Sfocatura (Ctrl+6)</translation>
+        <translation type="vanished">Mosaico/Sfocatura (Ctrl+6)</translation>
     </message>
     <message>
         <source>Text (Ctrl+7)</source>
-        <translation>Testo (Ctrl+7)</translation>
+        <translation type="vanished">Testo (Ctrl+7)</translation>
     </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation>Area</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>Famiglia di caratteri</translation>
@@ -3277,6 +3313,10 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     <message>
         <source>Pen style</source>
         <translation>Stile penna</translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

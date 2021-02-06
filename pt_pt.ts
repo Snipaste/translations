@@ -1028,6 +1028,42 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
         <source>Alpha:</source>
         <translation>Alfa:</translation>
     </message>
+    <message>
+        <source>Fill</source>
+        <translation>Preencher</translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle/Ellipse</source>
+        <translation>Rectângulo/Elipse</translation>
+    </message>
+    <message>
+        <source>Line strip</source>
+        <translation>Linha</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Seta</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Lápis</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Marcador</translation>
+    </message>
+    <message>
+        <source>Mosaic/Blur</source>
+        <translation>Mosaico/Desfocar</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Texto</translation>
+    </message>
 </context>
 <context>
     <name>Paster</name>
@@ -3181,6 +3217,10 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
         <source>Click or drag the color buttons to customize the palette.</source>
         <translation>Clique ou arraste os botões das cores para personalizar a paleta.</translation>
     </message>
+    <message>
+        <source>Follow system theme</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3199,30 +3239,6 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
 </context>
 <context>
     <name>paintbar0</name>
-    <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation>Linha (Ctrl+2)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>Seta (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation>Lápis (Ctrl+4)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation>Marcador (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation>Mosaico/Desfocar (Ctrl+6)</translation>
-    </message>
-    <message>
-        <source>Text (Ctrl+7)</source>
-        <translation>Texto (Ctrl+7)</translation>
-    </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Anular (Ctrl+Z)</translation>
@@ -3247,17 +3263,9 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
         <source>Finish edit (Esc)</source>
         <translation>Terminar edição (Esc)</translation>
     </message>
-    <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation>Rectângulo/Elipse (Ctrl+1)</translation>
-    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Fill</source>
-        <translation>Preencher</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>Família de tipos de letra</translation>
@@ -3277,6 +3285,10 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
     <message>
         <source>Pen style</source>
         <translation>Estilo da caneta</translation>
+    </message>
+    <message>
+        <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
