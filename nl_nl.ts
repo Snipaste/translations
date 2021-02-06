@@ -1034,7 +1034,7 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Filled rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Gevulde rechthoek</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -3219,7 +3219,7 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     </message>
     <message>
         <source>Follow system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeemthema volgen</translation>
     </message>
 </context>
 <context>
@@ -3288,7 +3288,7 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     </message>
     <message>
         <source>Filled ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Gevulde ellips</translation>
     </message>
 </context>
 <context>
