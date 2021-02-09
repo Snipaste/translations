@@ -837,7 +837,7 @@ L&apos;esecuzione automatica all&apos;avvio del sistema è stata annullata.</tra
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation>Cattura e copia</translation>
+        <translation>Ritaglia e copia</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
@@ -935,7 +935,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation>Cattura normale</translation>
+        <translation>Ritaglio normale</translation>
     </message>
     <message>
         <source>Korean</source>
