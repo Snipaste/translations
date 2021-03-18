@@ -667,7 +667,7 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Feedback</translation>
+        <translation>Retroazione</translation>
     </message>
     <message>
         <source>Follow</source>
@@ -1034,7 +1034,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Filled rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rettangolo pieno</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -3219,7 +3219,7 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     </message>
     <message>
         <source>Follow system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Come il tema di sistema</translation>
     </message>
 </context>
 <context>
@@ -3316,7 +3316,7 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     </message>
     <message>
         <source>Filled ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Ellisse piena</translation>
     </message>
 </context>
 <context>
