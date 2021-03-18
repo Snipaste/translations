@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>Shop</source>
-        <translation type="unfinished">Shop</translation>
+        <translation>Negozio</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -517,7 +517,7 @@
     </message>
     <message>
         <source>Market</source>
-        <translation type="unfinished">Market</translation>
+        <translation>Mercato</translation>
     </message>
     <message>
         <source>Massyo</source>
@@ -589,7 +589,7 @@
     </message>
     <message>
         <source>ScrollLock</source>
-        <translation type="unfinished">ScrollLock</translation>
+        <translation>Blocco Maiuscole</translation>
     </message>
     <message>
         <source>Hot Links</source>
@@ -1106,11 +1106,11 @@
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished">Bold</translation>
+        <translation>Grassetto</translation>
     </message>
     <message>
         <source>Demi</source>
-        <translation type="unfinished">Demi</translation>
+        <translation>Semi</translation>
     </message>
     <message>
         <source>N&apos;Ko</source>
@@ -1122,11 +1122,11 @@
     </message>
     <message>
         <source>Thin</source>
-        <translation type="unfinished">Thin</translation>
+        <translation>Sottile</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished">Black</translation>
+        <translation>Neretto</translation>
     </message>
     <message>
         <source>Extra</source>
@@ -1146,7 +1146,7 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished">Light</translation>
+        <translation>Fine</translation>
     </message>
     <message>
         <source>Ogham</source>
@@ -1178,7 +1178,7 @@
     </message>
     <message>
         <source>Extra Light</source>
-        <translation type="unfinished">Extra Light</translation>
+        <translation>Extra Fine</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -1238,7 +1238,7 @@
     </message>
     <message>
         <source>Extra Bold</source>
-        <translation type="unfinished">Extra Bold</translation>
+        <translation>Extra Grassetto</translation>
     </message>
     <message>
         <source>Devanagari</source>
