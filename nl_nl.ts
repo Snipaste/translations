@@ -210,7 +210,7 @@ Informeer alsjeblieft de maker.</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
-        <translation>Wisselen tussen detectie van scherm en element</translation>
+        <translation>Wisselen tussen detectie van venster en element</translation>
     </message>
     <message>
         <source>Set the snipping area to fullscreen</source>
@@ -254,7 +254,7 @@ Informeer alsjeblieft de maker.</translation>
     </message>
     <message>
         <source>Re-decide the snipping area / abort snipping</source>
-        <translation>Knipgebied opnieuw vaststellen / Knippen afbreken</translation>
+        <translation>Knipgebied opnieuw instellen / Knippen afbreken</translation>
     </message>
     <message>
         <source>Paste only:</source>
@@ -366,7 +366,7 @@ Informeer alsjeblieft de maker.</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
-        <translation>Cursor in schermopname weergeven/verbergen</translation>
+        <translation>Cursor weergeven/verbergen</translation>
     </message>
     <message>
         <source>Comma</source>
@@ -406,11 +406,11 @@ Informeer alsjeblieft de maker.</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation>De laatste knipgebieden opnieuw gebruiken</translation>
+        <translation>Laatste knipgebied(en) opnieuw toepassen</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation>Knipgeschiedenis opnieuw toepassen</translation>
+        <translation>Knipgeschiedenis weergeven</translation>
     </message>
     <message>
         <source>Capture full screen</source>
@@ -907,7 +907,7 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Line strip</source>
-        <translation>Lijnstuk</translation>
+        <translation>Lijn</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -978,7 +978,7 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation>Klik hier om te wisselen tussen mozaïek en Gauss-vervaging.</translation>
+        <translation>Klik hier om te wisselen tussen mozaïek- en Gauss-vervaging.</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
@@ -1042,7 +1042,7 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Line strip</source>
-        <translation>Lijnstuk</translation>
+        <translation>Lijn</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -1394,7 +1394,7 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation>Als Snipaste al is ingeschakeld in de lijst Schermopname en het werkt nog steeds niet, dan moet je het mogelijk opnieuw opstarten of uw Mac opnieuw opstarten.</translation>
+        <translation>Als Snipaste al is ingeschakeld in de lijst Schermopname en het werkt nog steeds niet, dan moet je het mogelijk opnieuw opstarten of je Mac opnieuw opstarten.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -2337,7 +2337,7 @@ De alfa-transparantie van de afbeelding gaat hiermee verloren.</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
-        <translation>Dit kan flikkeringen van het scherm opleveren.</translation>
+        <translation>Dit kan flikkeringen opleveren.</translation>
     </message>
     <message>
         <source>Let the &apos;reset&apos; operation work on thumbnail too.</source>
