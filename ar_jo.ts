@@ -170,7 +170,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>ميزات المحترف</translation>
     </message>
 </context>
 <context>
