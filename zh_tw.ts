@@ -3220,7 +3220,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Follow system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>遵循系統主題</translation>
     </message>
 </context>
 <context>
