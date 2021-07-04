@@ -211,7 +211,7 @@
     </message>
     <message>
         <source>Print</source>
-        <translation>Print</translation>
+        <translation>PrtSc</translation>
     </message>
     <message>
         <source>Right</source>
@@ -645,7 +645,7 @@ Druk ESC om te annulleren</translation>
     </message>
     <message>
         <source>Oblique</source>
-        <translation>Oblique</translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Telugu</source>
