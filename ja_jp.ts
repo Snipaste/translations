@@ -390,7 +390,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation>すべて表示画像を選択する&#x3000;[PRO]</translation>
+        <translation>すべて表示画像を選択する　[PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
@@ -841,7 +841,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation>ホイールスクロール</translation>
+        <translation>マウスホイール</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -851,7 +851,7 @@ Startup on boot has been cancelled.</source>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
         <translation>パレットデータがクリップボードにコピーしました。
-友人とご共有してください！</translation>
+友達とご共有してください！</translation>
     </message>
     <message>
         <source>Snipping</source>
@@ -967,11 +967,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished">ナンバー</translation>
+        <translation>ナンバー</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>拡大鏡</translation>
     </message>
 </context>
 <context>
@@ -1022,7 +1022,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation>ペンの太さを調整する時、マウスのホイール、「1」と「2」、または「[」と「]」で調整してください。</translation>
+        <translation>ペンの太さを調整する時、マウスホイール、「1」と「2」、または「[」と「]」で調整してください。</translation>
     </message>
     <message>
         <source>Corner radius:</source>
@@ -1038,7 +1038,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Filled rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>長方形充填</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1066,11 +1066,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>拡大鏡</translation>
     </message>
     <message>
         <source>Clear content</source>
-        <translation type="unfinished"></translation>
+        <translation>内容を削除する</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1078,7 +1078,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>ピクセル円滑化</translation>
     </message>
 </context>
 <context>
@@ -1247,7 +1247,7 @@ Are you sure you want to switch to another configuration file?</source>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>「X」キーのダブルクリック操作がすでに無効になった。
-マウスクリック無効化必要の場合は「環境設定&#x3000;-&#x3000;ショートカット」で調整 。</translation>
+マウスクリック無効化必要の場合は「環境設定　-　ショートカット」で調整 。</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -1327,7 +1327,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation>デスクトップ&#x3000;%1</translation>
+        <translation>デスクトップ　%1</translation>
     </message>
     <message>
         <source>Copy raw HTML</source>
@@ -1349,7 +1349,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation>画像ウィンドウをダブルクリックし、ウィンドウが閉じる。
-環境設定で本動作を調整できる：コントロール&#x3000;-&#x3000;マウス。</translation>
+環境設定で本動作を調整できる：コントロール　-　マウス。</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
@@ -1611,7 +1611,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタマイズへ追加</translation>
     </message>
 </context>
 <context>
@@ -2565,7 +2565,7 @@ Range: 10 - 100</source>
     </message>
     <message>
         <source>* If conflicted, the upper operation will be matched</source>
-        <translation>* 衝突した場合、順位高い操作を優先する</translation>
+        <translation>* 重複の場合、上から始まるプライオリティで適用する</translation>
     </message>
     <message>
         <source>Output</source>
@@ -2933,11 +2933,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Import from clipboard</source>
-        <translation>クリップボードからインポートする</translation>
+        <translation>クリップボードから</translation>
     </message>
     <message>
         <source>Export to clipboard</source>
-        <translation>クリップボードへエクスポートする</translation>
+        <translation>クリップボードへ</translation>
     </message>
     <message>
         <source>Disable completely</source>
@@ -3239,24 +3239,25 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Follow system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>システムテーマに従う</translation>
     </message>
     <message>
         <source>Disable reedition for Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>消しゴムの再編集を禁止する</translation>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>「シャア」ボタンを表示する</translation>
     </message>
     <message>
         <source>Max window size:</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウの最大サイズ：</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipasteを再起動する。
+シェアボタンが表示できなくなりますので、管理者権限で起動しないようにお気を付けください。</translation>
     </message>
 </context>
 <context>
@@ -3302,7 +3303,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>シェア</translation>
     </message>
 </context>
 <context>
@@ -3325,15 +3326,15 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Filled ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>楕円形を充填する</translation>
     </message>
     <message>
         <source>Line start</source>
-        <translation type="unfinished"></translation>
+        <translation>矢印始点</translation>
     </message>
     <message>
         <source>Line end</source>
-        <translation type="unfinished"></translation>
+        <translation>矢印終点</translation>
     </message>
 </context>
 <context>
