@@ -967,11 +967,11 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished">Nummer</translation>
+        <translation>Nummer</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergroten</translation>
     </message>
 </context>
 <context>
@@ -1066,11 +1066,11 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergroten</translation>
     </message>
     <message>
         <source>Clear content</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhoud wissen</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1078,7 +1078,7 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>Vloeiendheid wisselen</translation>
     </message>
 </context>
 <context>
@@ -1233,7 +1233,7 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation>Vloeiend schalen</translation>
+        <translation>Vloeiend maken</translation>
     </message>
     <message>
         <source>Play</source>
@@ -1611,7 +1611,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Toevoegen aan voorinstellingen</translation>
     </message>
 </context>
 <context>
@@ -3243,20 +3243,21 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     </message>
     <message>
         <source>Disable reedition for Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>Opnieuw bewerken uitschakelen voor wisser</translation>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>Knop &quot;Delen&quot; weergeven</translation>
     </message>
     <message>
         <source>Max window size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Max. venstergrootte:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Snipaste opnieuw om de wijziging door te voeren.
+Snipaste mag niet met beheerdersrechten worden uitgevoerd om de knop &quot;Delen&quot; weer te geven.</translation>
     </message>
 </context>
 <context>
@@ -3302,7 +3303,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Delen</translation>
     </message>
 </context>
 <context>
@@ -3329,11 +3330,11 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Line start</source>
-        <translation type="unfinished"></translation>
+        <translation>Beginpunt lijn</translation>
     </message>
     <message>
         <source>Line end</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindpunt lijn</translation>
     </message>
 </context>
 <context>

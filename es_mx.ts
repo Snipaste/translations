@@ -967,11 +967,11 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished">Número</translation>
+        <translation>Número</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar</translation>
     </message>
 </context>
 <context>
@@ -1038,7 +1038,7 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Filled rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rectángulo relleno</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1066,11 +1066,11 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar</translation>
     </message>
     <message>
         <source>Clear content</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar contenido</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1078,7 +1078,7 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar suavidad</translation>
     </message>
 </context>
 <context>
@@ -1611,7 +1611,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar a preestablecidos</translation>
     </message>
 </context>
 <context>
@@ -3240,24 +3240,25 @@ Cuando se llegue al límite, la más antigua será destruida.</translation>
     </message>
     <message>
         <source>Follow system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar tema del sistema</translation>
     </message>
     <message>
         <source>Disable reedition for Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshabilitar reedición para el Borrador</translation>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar botón de &quot;Compartir&quot;</translation>
     </message>
     <message>
         <source>Max window size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño máximo de la ventana:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicia Snipaste para que el cambio tome efecto.
+Snipaste no debe ejecutarse con permisos elevados para poder mostrar el botón de &quot;Compartir&quot;.</translation>
     </message>
 </context>
 <context>
@@ -3303,7 +3304,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir</translation>
     </message>
 </context>
 <context>
@@ -3326,15 +3327,15 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Filled ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Elipse rellena</translation>
     </message>
     <message>
         <source>Line start</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de línea</translation>
     </message>
     <message>
         <source>Line end</source>
-        <translation type="unfinished"></translation>
+        <translation>Fin de línea</translation>
     </message>
 </context>
 <context>
