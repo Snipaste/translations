@@ -910,10 +910,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>連續線段</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>箭頭</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>畫筆</translation>
     </message>
@@ -968,6 +964,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Italian</source>
         <translation>義大利語</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished">序號</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1045,10 +1049,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>連續線段</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>箭頭</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>畫筆</translation>
     </message>
@@ -1063,6 +1063,22 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Text</source>
         <translation>文字</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mosaic/blur</source>
+        <translation>切換馬賽克/模糊</translation>
+    </message>
+    <message>
+        <source>Toggle smoothness</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1593,6 +1609,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Edit presets...</source>
         <translation>編輯預設值...</translation>
+    </message>
+    <message>
+        <source>Add to presets</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3222,6 +3242,23 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Follow system theme</source>
         <translation>遵循系統主題</translation>
     </message>
+    <message>
+        <source>Disable reedition for Eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Share&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max window size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.
+Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3264,13 +3301,13 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Quit snipping (Esc)</source>
         <translation>結束擷圖 (Esc)</translation>
     </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Toggle mosaic/blur</source>
-        <translation>切換馬賽克/模糊</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>字族</translation>
@@ -3290,6 +3327,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Filled ellipse</source>
         <translation>填充橢圓</translation>
+    </message>
+    <message>
+        <source>Line start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line end</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

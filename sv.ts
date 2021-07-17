@@ -904,10 +904,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished">Linje</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation type="unfinished">Pil</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation type="unfinished">Penna</translation>
     </message>
@@ -961,6 +957,14 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magnify</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1039,10 +1043,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Linje</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Pil</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Penna</translation>
     </message>
@@ -1057,6 +1057,22 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Text</source>
         <translation>Text</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mosaic/blur</source>
+        <translation>Växla mosaik/oskärpa</translation>
+    </message>
+    <message>
+        <source>Toggle smoothness</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1582,6 +1598,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>SizeInputDialog</name>
     <message>
         <source>Edit presets...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to presets</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3210,6 +3230,23 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Follow system theme</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable reedition for Eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Share&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max window size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.
+Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3252,16 +3289,16 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Pin to screen (Ctrl+T)</source>
         <translation>Fäst på skärmen (Ctrl+T)</translation>
     </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar1</name>
     <message>
         <source>Font family</source>
         <translation>Teckensnittsfamilj</translation>
-    </message>
-    <message>
-        <source>Toggle mosaic/blur</source>
-        <translation>Växla mosaik/oskärpa</translation>
     </message>
     <message>
         <source>Fill with stroke</source>
@@ -3277,6 +3314,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line end</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

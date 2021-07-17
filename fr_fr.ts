@@ -910,10 +910,6 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
         <translation>Bande de ligne</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Flèche</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Pinceau</translation>
     </message>
@@ -968,6 +964,14 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     <message>
         <source>Italian</source>
         <translation>Italien</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished">Nombre</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1045,10 +1049,6 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
         <translation>Bande de ligne</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Flèche</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Pinceau</translation>
     </message>
@@ -1063,6 +1063,22 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     <message>
         <source>Text</source>
         <translation>Texte</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mosaic/blur</source>
+        <translation>Basculer mosaïque/flou</translation>
+    </message>
+    <message>
+        <source>Toggle smoothness</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1592,6 +1608,10 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <message>
         <source>Edit presets...</source>
         <translation>Modifier préréglages...</translation>
+    </message>
+    <message>
+        <source>Add to presets</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3221,6 +3241,23 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
         <source>Follow system theme</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable reedition for Eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Share&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max window size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.
+Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3263,16 +3300,16 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
         <source>Copy to clipboard (Ctrl+C)</source>
         <translation>Copier vers presse-papier (Ctrl+C)</translation>
     </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar1</name>
     <message>
         <source>Font family</source>
         <translation>Famille de polices</translation>
-    </message>
-    <message>
-        <source>Toggle mosaic/blur</source>
-        <translation>Basculer mosaïque/flou</translation>
     </message>
     <message>
         <source>Fill with stroke</source>
@@ -3288,6 +3325,14 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     </message>
     <message>
         <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line end</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

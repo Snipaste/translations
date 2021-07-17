@@ -910,10 +910,6 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <translation>Çizgi</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Ok</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Kalem</translation>
     </message>
@@ -967,6 +963,14 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magnify</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1045,10 +1049,6 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <translation>Çizgi</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Ok</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Kalem</translation>
     </message>
@@ -1063,6 +1063,22 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     <message>
         <source>Text</source>
         <translation>Metin</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mosaic/blur</source>
+        <translation>Mozaik/Bulanık seçim</translation>
+    </message>
+    <message>
+        <source>Toggle smoothness</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1591,6 +1607,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Edit presets...</source>
         <translation>Şablonları düzenle...</translation>
+    </message>
+    <message>
+        <source>Add to presets</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3220,6 +3240,23 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
         <source>Follow system theme</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable reedition for Eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Share&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max window size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.
+Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3262,6 +3299,10 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
         <source>Finish edit (Esc)</source>
         <translation>Düzenlemeyi bitir (Esc)</translation>
     </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar1</name>
@@ -3274,10 +3315,6 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
         <translation>Yazı tipi</translation>
     </message>
     <message>
-        <source>Toggle mosaic/blur</source>
-        <translation>Mozaik/Bulanık seçim</translation>
-    </message>
-    <message>
         <source>Font scale</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3287,6 +3324,14 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     </message>
     <message>
         <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line end</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

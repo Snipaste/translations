@@ -910,10 +910,6 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
         <translation>Lijn</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Pijl</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Potlood</translation>
     </message>
@@ -968,6 +964,14 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     <message>
         <source>Italian</source>
         <translation>Italiaans</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished">Nummer</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1045,10 +1049,6 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
         <translation>Lijn</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Pijl</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Potlood</translation>
     </message>
@@ -1063,6 +1063,22 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     <message>
         <source>Text</source>
         <translation>Tekst</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mosaic/blur</source>
+        <translation>Mozaïek/Vervagen wisselen</translation>
+    </message>
+    <message>
+        <source>Toggle smoothness</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1592,6 +1608,10 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Edit presets...</source>
         <translation>Voorinstellingen bewerken…</translation>
+    </message>
+    <message>
+        <source>Add to presets</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3221,6 +3241,23 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
         <source>Follow system theme</source>
         <translation>Systeemthema volgen</translation>
     </message>
+    <message>
+        <source>Disable reedition for Eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Share&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max window size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.
+Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3263,13 +3300,13 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
         <source>Quit snipping (Esc)</source>
         <translation>Knippen afbreken (Esc)</translation>
     </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Toggle mosaic/blur</source>
-        <translation>Mozaïek/Vervagen wisselen</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>Lettertype</translation>
@@ -3289,6 +3326,14 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     <message>
         <source>Filled ellipse</source>
         <translation>Gevulde ellips</translation>
+    </message>
+    <message>
+        <source>Line start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line end</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

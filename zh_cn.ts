@@ -908,10 +908,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>折线</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>箭头</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>画笔</translation>
     </message>
@@ -967,6 +963,14 @@ Are you sure you want to switch to another configuration file?</source>
         <source>Italian</source>
         <translation>意大利语</translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation>数字序号</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation>放大镜</translation>
+    </message>
 </context>
 <context>
     <name>PaintBar</name>
@@ -1000,7 +1004,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Number</source>
-        <translation>序号</translation>
+        <translation>数字序号</translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -1043,10 +1047,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>折线</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>箭头</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>画笔</translation>
     </message>
@@ -1061,6 +1061,22 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Text</source>
         <translation>文本</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation>放大镜</translation>
+    </message>
+    <message>
+        <source>Clear content</source>
+        <translation>清除区域内容</translation>
+    </message>
+    <message>
+        <source>Toggle mosaic/blur</source>
+        <translation>切换马赛克/模糊</translation>
+    </message>
+    <message>
+        <source>Toggle smoothness</source>
+        <translation>切换像素平滑</translation>
     </message>
 </context>
 <context>
@@ -1591,6 +1607,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Edit presets...</source>
         <translation>编辑预设值...</translation>
+    </message>
+    <message>
+        <source>Add to presets</source>
+        <translation>添加到预设</translation>
     </message>
 </context>
 <context>
@@ -3219,6 +3239,24 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Follow system theme</source>
         <translation>跟随系统主题</translation>
     </message>
+    <message>
+        <source>Disable reedition for Eraser</source>
+        <translation>对橡皮擦工具禁用二次编辑</translation>
+    </message>
+    <message>
+        <source>Show &quot;Share&quot; button</source>
+        <translation>显示&quot;分享&quot;按钮</translation>
+    </message>
+    <message>
+        <source>Max window size:</source>
+        <translation>最大窗口尺寸:</translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.
+Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
+        <translation>重启 Snipaste 以生效。
+请不要以管理员权限启动 Snipaste，否则将无法显示分享按钮。</translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3261,13 +3299,13 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Quit snipping (Esc)</source>
         <translation>退出截屏 (Esc)</translation>
     </message>
+    <message>
+        <source>Share</source>
+        <translation>分享</translation>
+    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Toggle mosaic/blur</source>
-        <translation>切换马赛克/模糊</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>字体族</translation>
@@ -3287,6 +3325,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Filled ellipse</source>
         <translation>椭圆填充</translation>
+    </message>
+    <message>
+        <source>Line start</source>
+        <translation>开始箭头</translation>
+    </message>
+    <message>
+        <source>Line end</source>
+        <translation>结尾箭头</translation>
     </message>
 </context>
 <context>

@@ -910,10 +910,6 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
         <translation>Linha</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Seta</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Lápis</translation>
     </message>
@@ -968,6 +964,14 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     <message>
         <source>Italian</source>
         <translation>Italiano</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished">Número</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1045,10 +1049,6 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
         <translation>Linha</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Seta</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Lápis</translation>
     </message>
@@ -1063,6 +1063,22 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     <message>
         <source>Text</source>
         <translation>Texto</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mosaic/blur</source>
+        <translation>Alterar mosaico/desfoque</translation>
+    </message>
+    <message>
+        <source>Toggle smoothness</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1592,6 +1608,10 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <message>
         <source>Edit presets...</source>
         <translation>Editar predefinições...</translation>
+    </message>
+    <message>
+        <source>Add to presets</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3221,6 +3241,23 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
         <source>Follow system theme</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable reedition for Eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Share&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max window size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.
+Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3263,16 +3300,16 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
         <source>Finish edit (Esc)</source>
         <translation>Concluir edição (Esc)</translation>
     </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar1</name>
     <message>
         <source>Font family</source>
         <translation>Tipo de fonte</translation>
-    </message>
-    <message>
-        <source>Toggle mosaic/blur</source>
-        <translation>Alterar mosaico/desfoque</translation>
     </message>
     <message>
         <source>Fill with stroke</source>
@@ -3288,6 +3325,14 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
     </message>
     <message>
         <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line end</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

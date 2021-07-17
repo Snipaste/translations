@@ -910,10 +910,6 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
         <translation>Linea spezzata</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Freccia</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Matita</translation>
     </message>
@@ -968,6 +964,14 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     <message>
         <source>Italian</source>
         <translation>Italiano</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished">Numero</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1045,10 +1049,6 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
         <translation>Linea spezzata</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Freccia</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Matita</translation>
     </message>
@@ -1063,6 +1063,22 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     <message>
         <source>Text</source>
         <translation>Testo</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mosaic/blur</source>
+        <translation>Alterna mosaico/sfocatura</translation>
+    </message>
+    <message>
+        <source>Toggle smoothness</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1592,6 +1608,10 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     <message>
         <source>Edit presets...</source>
         <translation>Modifica preimpostazioni...</translation>
+    </message>
+    <message>
+        <source>Add to presets</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3221,6 +3241,23 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
         <source>Follow system theme</source>
         <translation>Come il tema di sistema</translation>
     </message>
+    <message>
+        <source>Disable reedition for Eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Share&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max window size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.
+Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3264,32 +3301,8 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
         <translation>Termina modifica (Esc)</translation>
     </message>
     <message>
-        <source>Rectangle/Ellipse (Ctrl+1)</source>
-        <translation type="vanished">Rettangolo/Ellisse (Ctrl+1)</translation>
-    </message>
-    <message>
-        <source>Line strip (Ctrl+2)</source>
-        <translation type="vanished">Linea spezzata (Ctrl+2)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation type="vanished">Freccia (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4)</source>
-        <translation type="vanished">Matita (Ctrl+4)</translation>
-    </message>
-    <message>
-        <source>Marker pen (Ctrl+5)</source>
-        <translation type="vanished">Evidenziatore (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur (Ctrl+6)</source>
-        <translation type="vanished">Mosaico/Sfocatura (Ctrl+6)</translation>
-    </message>
-    <message>
-        <source>Text (Ctrl+7)</source>
-        <translation type="vanished">Testo (Ctrl+7)</translation>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3297,10 +3310,6 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     <message>
         <source>Font family</source>
         <translation>Famiglia di caratteri</translation>
-    </message>
-    <message>
-        <source>Toggle mosaic/blur</source>
-        <translation>Alterna mosaico/sfocatura</translation>
     </message>
     <message>
         <source>Fill with stroke</source>
@@ -3317,6 +3326,14 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     <message>
         <source>Filled ellipse</source>
         <translation>Ellisse piena</translation>
+    </message>
+    <message>
+        <source>Line start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line end</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

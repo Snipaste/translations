@@ -908,10 +908,6 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
         <translation>Linie</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Pfeil</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Stift</translation>
     </message>
@@ -967,6 +963,14 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     <message>
         <source>Italian</source>
         <translation>Italienisch</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished">Nummer</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1044,10 +1048,6 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
         <translation>Linie</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>Pfeil</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Stift</translation>
     </message>
@@ -1062,6 +1062,22 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     <message>
         <source>Text</source>
         <translation>Text</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mosaic/blur</source>
+        <translation>Zwischen Mosaik und Unschärfe wechseln</translation>
+    </message>
+    <message>
+        <source>Toggle smoothness</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1591,6 +1607,10 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Edit presets...</source>
         <translation>Voreinstellungen bearbeiten...</translation>
+    </message>
+    <message>
+        <source>Add to presets</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3218,6 +3238,23 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
         <source>Follow system theme</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable reedition for Eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Share&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max window size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.
+Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3260,13 +3297,13 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
         <source>Quit snipping (Esc)</source>
         <translation>Aufnahme beenden (Esc)</translation>
     </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar1</name>
-    <message>
-        <source>Toggle mosaic/blur</source>
-        <translation>Zwischen Mosaik und Unschärfe wechseln</translation>
-    </message>
     <message>
         <source>Font family</source>
         <translation>Schriftfamilie</translation>
@@ -3285,6 +3322,14 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
     </message>
     <message>
         <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line end</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

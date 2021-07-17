@@ -359,18 +359,6 @@ Please contact the developer.</source>
         <translation>이미지를 프린터로 전송</translation>
     </message>
     <message>
-        <source>Finish editing current shape when in edit mode</source>
-        <translation type="vanished">편집모드에서 현재 모양편집 완료</translation>
-    </message>
-    <message>
-        <source>Mouse scroll or 1/2</source>
-        <translation type="vanished">마우스 스크롤 또는 1/2</translation>
-    </message>
-    <message>
-        <source>Decrease/Increase the pen width when in edit mode</source>
-        <translation type="vanished">편집모드에서 펜 폭 감소 / 증가</translation>
-    </message>
-    <message>
         <source>or</source>
         <translation>또는</translation>
     </message>
@@ -931,10 +919,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>줄무늬</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>화살표</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>펜</translation>
     </message>
@@ -977,6 +961,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Italian</source>
         <translation>이탈리안</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished">번호</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1054,10 +1046,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>줄무늬</translation>
     </message>
     <message>
-        <source>Arrow</source>
-        <translation>화살표</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>펜</translation>
     </message>
@@ -1072,6 +1060,22 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Text</source>
         <translation>텍스트</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mosaic/blur</source>
+        <translation>토글 : 모자이크/블러</translation>
+    </message>
+    <message>
+        <source>Toggle smoothness</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1600,6 +1604,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Edit presets...</source>
         <translation>프리셋 수정</translation>
+    </message>
+    <message>
+        <source>Add to presets</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3222,6 +3230,23 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Follow system theme</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable reedition for Eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Share&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max window size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.
+Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3264,16 +3289,16 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <source>Finish edit (Esc)</source>
         <translation>편집 끝내기 (Esc)</translation>
     </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>paintbar1</name>
     <message>
         <source>Font family</source>
         <translation>폰트 모음</translation>
-    </message>
-    <message>
-        <source>Toggle mosaic/blur</source>
-        <translation>토글 : 모자이크/블러</translation>
     </message>
     <message>
         <source>Fill with stroke</source>
@@ -3289,6 +3314,14 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Filled ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line end</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
