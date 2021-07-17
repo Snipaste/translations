@@ -378,7 +378,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation>Attiva/Disattiva la conversione in scala di grigi [PRO]</translation>
+        <translation>Alterna la conversione in scala di grigi [PRO]</translation>
     </message>
     <message>
         <source>Close the image window</source>
@@ -386,7 +386,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation>Attiva/Disattiva inversione colore [PRO]</translation>
+        <translation>Alterna inversione colore [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
@@ -967,11 +967,11 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished">Numero</translation>
+        <translation>Numero</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrandisci</translation>
     </message>
 </context>
 <context>
@@ -1066,11 +1066,11 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrandisci</translation>
     </message>
     <message>
         <source>Clear content</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina contenuto</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1078,7 +1078,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterna smussatura</translation>
     </message>
 </context>
 <context>
@@ -1611,7 +1611,7 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     </message>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi alle preimpostazioni</translation>
     </message>
 </context>
 <context>
@@ -3243,20 +3243,21 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
     </message>
     <message>
         <source>Disable reedition for Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita riedizione per la Gomma per cancellare</translation>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra il pulsante &quot;Condividi&quot;</translation>
     </message>
     <message>
         <source>Max window size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione massima della finestra:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Riavviare Snipaste per rendere effettive le modifiche.
+Per mostrare il pulsante &quot;Condividi&quot;, Snipaste dev&apos;essere eseguito con privilegi non elevati.</translation>
     </message>
 </context>
 <context>
@@ -3302,7 +3303,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Condividi</translation>
     </message>
 </context>
 <context>
@@ -3329,11 +3330,11 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Line start</source>
-        <translation type="unfinished"></translation>
+        <translation>Inizio linea</translation>
     </message>
     <message>
         <source>Line end</source>
-        <translation type="unfinished"></translation>
+        <translation>Fine linea</translation>
     </message>
 </context>
 <context>
