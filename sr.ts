@@ -5,7 +5,7 @@
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Одабери боју</translation>
     </message>
 </context>
 <context>
@@ -172,7 +172,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO способности</translation>
     </message>
 </context>
 <context>
@@ -199,7 +199,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>More examples...</source>
-        <translation type="unfinished"></translation>
+        <translation>Још примера...</translation>
     </message>
 </context>
 <context>
@@ -382,59 +382,59 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>Затвори прозор слике</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Пребаци обртање боје [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Изабери све видљиве прозоре слике [PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>Точак миша или 1/2 или [/]</translation>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Поништи одабир тренутног облика ако је у режиму уређивања</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Смањити/повећајти ширину оловке ако у режиму уређивања</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Употреби последњу зону резања</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>Поново пусти историју резања</translation>
     </message>
     <message>
         <source>Capture full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Ухвати цео екран</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Премести зону резања за 1 пиксел</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>Подеси ширину оловке</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>Одабери родитељ/дете елеменат интерфејса</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
-        <translation type="unfinished"></translation>
+        <translation>Промени величину зоне са центра</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>Не-одабери елеменат за уређивање</translation>
     </message>
 </context>
 <context>
@@ -616,15 +616,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Наслов активног прозора пре резања</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>Исто као горе, али број знакова је ограничен на 50</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Специјалне варијабле</translation>
     </message>
 </context>
 <context>
@@ -935,19 +935,19 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Korean</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Czech</translation>
     </message>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Интерфејс</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Резати, копирати и закачити</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
@@ -955,23 +955,23 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Бесплатно</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Italian</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Број</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличај</translation>
     </message>
 </context>
 <context>
@@ -1002,35 +1002,35 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина:</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Број</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">Брисач</translation>
+        <translation>Брисач</translation>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>Позадина текста</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Понови</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Да бисте променили ширину оловке, померите точак миша или притисните &apos;1&apos; или &apos;2&apos; или притисните &apos;[&apos; или &apos;]&apos;.</translation>
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Радијус ивице:</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>Алфа:</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -1038,7 +1038,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Filled rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Пуњен правоугаоник</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1066,11 +1066,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличај</translation>
     </message>
     <message>
         <source>Clear content</source>
-        <translation type="unfinished"></translation>
+        <translation>Испразни садржај</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1078,7 +1078,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>Пребацити углађивање</translation>
     </message>
 </context>
 <context>
@@ -1315,48 +1315,49 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Све радне површине</translation>
     </message>
     <message>
         <source>This desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ова радна површина</translation>
     </message>
     <message>
         <source>Assign to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Додели на ову површину</translation>
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Површина %1</translation>
     </message>
     <message>
         <source>Copy raw HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирати HTML</translation>
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сачувај слику без скале као...</translation>
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрни боје</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Боја обрнута</translation>
     </message>
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Двоструким кликом на прозор слике ће затворити прозор.
+Можете да конфигуришете ово понашање у дијалогу подешавања: Контрола - Миш.</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
-        <translation type="unfinished"></translation>
+        <translation>Извоз одабране слике на...</translation>
     </message>
     <message>
         <source>Output Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Опције излаза</translation>
     </message>
 </context>
 <context>
@@ -1409,19 +1410,19 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Морате да укључите UAC (User Account Control) да бисте довршили куповину.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Поништити</translation>
     </message>
     <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>Да бисте снимили снимак екрана, Snipaste-у је потребна дозвоа са Снима Екран.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако је Snipaste већ одобрен да користи снимање екрана и ипак не ради, можда ћете морати да се поново покренете Snipaste или ваш Mac.</translation>
     </message>
 </context>
 <context>
@@ -1580,19 +1581,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Резати са сенком</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Резати, копирати и закачити</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ући у моду провидне табле (Дупли Esc за излаз)</translation>
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished">Обрисати снимке резања</translation>
+        <translation>Обрисати снимке резања</translation>
     </message>
 </context>
 <context>
@@ -1610,7 +1611,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Додај у подешавања</translation>
     </message>
 </context>
 <context>
@@ -1843,15 +1844,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Тачка (pt)</translation>
     </message>
     <message>
         <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Пиксел (px)</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Пиксел независно од уређаја (dip)</translation>
     </message>
 </context>
 <context>
@@ -1954,11 +1955,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO верзија откључава више од 30 корисних функција!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лиценца вам омогућава да користите Snipaste 2 заувек са свим 2.x ажурирања.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
@@ -3186,23 +3187,23 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Закачи на све виртуелне површине</translation>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ниво лупе:</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Угаси маскирање када је приказан дијалог Датотека</translation>
     </message>
     <message>
         <source>Show fullscreen cross lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Прикажи линије пуних екрана</translation>
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Сакриј слике када је приказан дијалог Датотека</translation>
     </message>
     <message>
         <source>Ignored list:</source>
@@ -3214,63 +3215,64 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Ауто</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Отворите садржећи фасциклу</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Покажи савете кључне везице</translation>
     </message>
     <message>
         <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Игнориши &quot;Копирај&quot; моманду симулирана другим апликацијама</translation>
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Број боја:</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кликните или превуците тастере боје да бисте прилагодили палету.</translation>
     </message>
     <message>
         <source>Follow system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Прати тему система</translation>
     </message>
     <message>
         <source>Disable reedition for Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>Онемогућите реедицију за гумицу</translation>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>Прикажи дугме &quot;Подели&quot;</translation>
     </message>
     <message>
         <source>Max window size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Макс величина прозора:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поново покренути Snipaste да би промена ступила на снагу.
+Snipaste не сме се покретати повишеним да би се показало дугме &quot;Подели&quot;.</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Опције излаза:</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation>Сенка:</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ивица:</translation>
     </message>
 </context>
 <context>
@@ -3301,7 +3303,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Подели</translation>
     </message>
 </context>
 <context>
@@ -3316,23 +3318,23 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Скала фонта</translation>
     </message>
     <message>
         <source>Pen style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стил оловке</translation>
     </message>
     <message>
         <source>Filled ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Попуњена елипса</translation>
     </message>
     <message>
         <source>Line start</source>
-        <translation type="unfinished"></translation>
+        <translation>Почетак линије</translation>
     </message>
     <message>
         <source>Line end</source>
-        <translation type="unfinished"></translation>
+        <translation>Крај линије</translation>
     </message>
 </context>
 <context>
@@ -3376,7 +3378,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     <name>unlockprodialog</name>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>ИЛИ</translation>
     </message>
 </context>
 <context>
