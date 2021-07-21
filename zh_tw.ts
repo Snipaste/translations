@@ -967,11 +967,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished">序號</translation>
+        <translation>數字序號</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>放大鏡</translation>
     </message>
 </context>
 <context>
@@ -1066,11 +1066,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>放大鏡</translation>
     </message>
     <message>
         <source>Clear content</source>
-        <translation type="unfinished"></translation>
+        <translation>清除區域內容</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1078,7 +1078,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>切換像素平滑</translation>
     </message>
 </context>
 <context>
@@ -1612,7 +1612,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>新增至預設</translation>
     </message>
 </context>
 <context>
@@ -3244,20 +3244,21 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Disable reedition for Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>對橡皮擦工具停用二次編輯</translation>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示&quot;分享&quot;按鈕</translation>
     </message>
     <message>
         <source>Max window size:</source>
-        <translation type="unfinished"></translation>
+        <translation>最大視窗大小：</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>重啟 Snipaste 以生效。
+請不要以管理員權限啟動 Snipaste，否則將無法顯示分享按鈕。</translation>
     </message>
 </context>
 <context>
@@ -3303,7 +3304,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>分享</translation>
     </message>
 </context>
 <context>
@@ -3330,11 +3331,11 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Line start</source>
-        <translation type="unfinished"></translation>
+        <translation>開始箭頭</translation>
     </message>
     <message>
         <source>Line end</source>
-        <translation type="unfinished"></translation>
+        <translation>結尾箭頭</translation>
     </message>
 </context>
 <context>
