@@ -1359,6 +1359,10 @@ Você pode configurar este comportamento no diálogo Preferências: Controle - M
         <source>Output Options</source>
         <translation>Opções de Saída</translation>
     </message>
+    <message>
+        <source>Show hidden images</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1853,6 +1857,10 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <message>
         <source>Device-independent pixel (dip)</source>
         <translation>Pixel independente de dispositivo (dip)</translation>
+    </message>
+    <message>
+        <source>Error: cannot detect display device. Please restart Snipaste.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

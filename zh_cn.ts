@@ -1357,6 +1357,10 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
         <source>Output Options</source>
         <translation>输出选项</translation>
     </message>
+    <message>
+        <source>Show hidden images</source>
+        <translation>显示已隐藏贴图</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1852,6 +1856,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Device-independent pixel (dip)</source>
         <translation>逻辑像素 (dip)</translation>
+    </message>
+    <message>
+        <source>Error: cannot detect display device. Please restart Snipaste.</source>
+        <translation>无法获取显示设备信息，请重启 Snipaste.</translation>
     </message>
 </context>
 <context>

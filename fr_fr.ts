@@ -1359,6 +1359,10 @@ Vous pouvez configurer ce comportement dans la boîte de dialogue Préférences:
         <source>Output Options</source>
         <translation>Options de sortie</translation>
     </message>
+    <message>
+        <source>Show hidden images</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1853,6 +1857,10 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <message>
         <source>Device-independent pixel (dip)</source>
         <translation>Pixel indépendant du périphérique (dip)</translation>
+    </message>
+    <message>
+        <source>Error: cannot detect display device. Please restart Snipaste.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

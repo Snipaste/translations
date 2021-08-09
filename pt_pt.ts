@@ -1359,6 +1359,10 @@ Pode confidurar este comportamento em Preferências:Controlo - Rato.</translatio
         <source>Output Options</source>
         <translation>Opções de saída</translation>
     </message>
+    <message>
+        <source>Show hidden images</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1853,6 +1857,10 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <message>
         <source>Device-independent pixel (dip)</source>
         <translation>Píxel dispositivo-independente (dip)</translation>
+    </message>
+    <message>
+        <source>Error: cannot detect display device. Please restart Snipaste.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

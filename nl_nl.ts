@@ -1359,6 +1359,10 @@ Je kunt dit gedrag instellen bij Instellingen: Beheer - Muis.</translation>
         <source>Output Options</source>
         <translation>Uitvoeropties</translation>
     </message>
+    <message>
+        <source>Show hidden images</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1853,6 +1857,10 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Device-independent pixel (dip)</source>
         <translation>Apparaatonafhankelijke pixel (dip)</translation>
+    </message>
+    <message>
+        <source>Error: cannot detect display device. Please restart Snipaste.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
