@@ -1361,7 +1361,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Show hidden images</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示已隱藏的貼圖</translation>
     </message>
 </context>
 <context>
