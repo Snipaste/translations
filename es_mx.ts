@@ -1361,7 +1361,7 @@ Puedes configurar esta acción en Preferencias - Control - Mouse.</translation>
     </message>
     <message>
         <source>Show hidden images</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar imágenes ocultas</translation>
     </message>
 </context>
 <context>
@@ -1860,7 +1860,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error: No se detecta ningún dispositivo de imagen. Por favor reinicie Snipaste.</translation>
     </message>
 </context>
 <context>
