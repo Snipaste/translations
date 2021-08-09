@@ -1361,7 +1361,7 @@ Você pode configurar este comportamento no diálogo Preferências: Controle - M
     </message>
     <message>
         <source>Show hidden images</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar imagens ocultas</translation>
     </message>
 </context>
 <context>
@@ -1860,7 +1860,7 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro: não foi possível detectar o dispositivo de exibição. Por favor, reinicie o Snipaste.</translation>
     </message>
 </context>
 <context>
