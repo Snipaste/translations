@@ -114,7 +114,7 @@ Informeer alsjeblieft de maker.</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation>In Verkenner tonen</translation>
+        <translation>In Verkenner weergeven</translation>
     </message>
     <message>
         <source>Install now</source>
@@ -1361,7 +1361,7 @@ Je kunt dit gedrag instellen bij Instellingen: Beheer - Muis.</translation>
     </message>
     <message>
         <source>Show hidden images</source>
-        <translation type="unfinished"></translation>
+        <translation>Verborgen afbeeldingen weergeven</translation>
     </message>
 </context>
 <context>
@@ -1637,7 +1637,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Show all images</source>
-        <translation>Alle afbeeldingen tonen</translation>
+        <translation>Alle afbeeldingen weergeven</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1844,7 +1844,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation>Dit niet meer tonen</translation>
+        <translation>Dit niet meer weergeven</translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -1860,7 +1860,8 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout: kan weergaveapparaat niet detecteren.
+Start Snipaste opnieuw op.</translation>
     </message>
 </context>
 <context>
@@ -2479,11 +2480,11 @@ Meld deze alsjeblieft als je ze tegenkomt.</translation>
     </message>
     <message>
         <source>Show the mask in the magnifier.</source>
-        <translation>Raster tonen in het vergrootglas.</translation>
+        <translation>Raster weergeven in het vergrootglas.</translation>
     </message>
     <message>
         <source>Show the border of the snipping area in the magnifier.</source>
-        <translation>Rand van het Knipgebied in het vergrootglas tonen.</translation>
+        <translation>Rand van het Knipgebied in het vergrootglas weergeven.</translation>
     </message>
     <message>
         <source>Capture the cursor by default.</source>
@@ -3231,7 +3232,7 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation>Sneltoets-tips tonen</translation>
+        <translation>Sneltoets-tips weergeven</translation>
     </message>
     <message>
         <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
