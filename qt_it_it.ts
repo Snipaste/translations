@@ -197,7 +197,7 @@
     </message>
     <message>
         <source>XFer</source>
-        <translation type="unfinished">XFer</translation>
+        <translation>XFer</translation>
     </message>
     <message>
         <source>View</source>
