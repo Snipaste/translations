@@ -1361,7 +1361,7 @@ Vous pouvez configurer ce comportement dans la boîte de dialogue Préférences:
     </message>
     <message>
         <source>Show hidden images</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les images cachées</translation>
     </message>
 </context>
 <context>
@@ -1860,7 +1860,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur: impossible de détecter le périphérique d&apos;affichage. Veuillez redémarrer Snipaste.</translation>
     </message>
 </context>
 <context>

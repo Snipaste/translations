@@ -1361,7 +1361,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Show hidden images</source>
-        <translation type="unfinished"></translation>
+        <translation>Прикажи сакривене слике</translation>
     </message>
 </context>
 <context>
@@ -1860,7 +1860,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка: не могу да детектујем уређај за приказ. Поново покрените Snipaste.</translation>
     </message>
 </context>
 <context>
