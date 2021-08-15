@@ -631,7 +631,7 @@ Restart now to enjoy PRO features?</source>
     <name>OptionsDialog</name>
     <message>
         <source>-bit</source>
-        <translation> 位元</translation>
+        <translation>位元</translation>
     </message>
     <message>
         <source>Portuguese (Brazil)</source>
@@ -1861,7 +1861,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法取得顯示裝置資訊，請重啟 Snipaste.</translation>
     </message>
 </context>
 <context>
