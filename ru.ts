@@ -616,15 +616,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок активного окна для снимка</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>Тоже самое, что и выше, только число символов ограничено 50-ью</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Специальные переменные</translation>
     </message>
 </context>
 <context>
@@ -967,11 +967,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished">Число</translation>
+        <translation>Число</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить</translation>
     </message>
 </context>
 <context>
@@ -1038,7 +1038,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Filled rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрашенный прямоугольник</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1066,11 +1066,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <source>Clear content</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить содержание</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1078,7 +1078,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить плавность</translation>
     </message>
 </context>
 <context>
@@ -1361,7 +1361,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Show hidden images</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать скрытые изображения</translation>
     </message>
 </context>
 <context>
@@ -1615,7 +1615,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить в пресеты</translation>
     </message>
 </context>
 <context>
@@ -1809,23 +1809,23 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Open config file</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть файл конфигурации</translation>
     </message>
     <message>
         <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
+        <translation>Разблокировать PRO...</translation>
     </message>
     <message>
         <source>Export image group(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортировать группу(ы) изображений</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы изображений Snipaste</translation>
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить файл логов</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -1840,78 +1840,78 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>Snipper</name>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите отменить обрезку?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Не показывать это снова</translation>
     </message>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Point (pt)</translation>
     </message>
     <message>
         <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Физический пиксель (px)</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Пиксель зависящий от устройства (dip)</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка: не удалось обнаружить дисплей устройства. Перезапустите пожалуйста Snipaste.</translation>
     </message>
 </context>
 <context>
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы используете бесплатную версию Snipaste %1 %2</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste запрос оффлайн активации</translation>
     </message>
     <message>
         <source>Hardware identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификация оборудования</translation>
     </message>
     <message>
         <source>Validity period</source>
-        <translation type="unfinished"></translation>
+        <translation>Срок годности</translation>
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, введите корректную продолжительность для этого устройства. Оффлайн лицензия не может быть удалена в течение срока ее действия.</translation>
     </message>
     <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензионный ключ</translation>
     </message>
     <message>
         <source>Paste your license key here</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставьте здесь ваш лицензионный ключ</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation type="unfinished"></translation>
+        <translation>Разблокировать PRO функционал</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - это только для ЛИЧНОГО ИСПОЛЬЗОВАНИЯ. Если вы хотите использовать это на своем компьютере, PRO лицензия обязательна.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для большей информации, пожалуйста посетите &lt;a href=&quot;%1&quot;&gt;сайт&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вам понадобится помощь, свяжитесь с %1.</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Приобрести</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1923,55 +1923,55 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Назад</translation>
     </message>
     <message>
         <source>Offline activation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Оффлайн активация...</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторить</translation>
     </message>
     <message>
         <source>Activation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Активация не удалась</translation>
     </message>
     <message>
         <source>Invalid license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недействительная лицензия.</translation>
     </message>
     <message>
         <source>Number of activations exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Превышено количество активаций.</translation>
     </message>
     <message>
         <source>Network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка сети.</translation>
     </message>
     <message>
         <source>License expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензия истекла.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не верный лицензионный ключ.</translation>
     </message>
     <message>
         <source>Error code</source>
-        <translation type="unfinished"></translation>
+        <translation>Код ошибки</translation>
     </message>
     <message>
         <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO версия разблокирует более чем 30 удобных фич!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензия позволяет вам пожизненно использовать Snipaste 2 со всеми последующими обновлениями 2.x.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите лицензионный ключ:</translation>
     </message>
 </context>
 <context>
@@ -2002,18 +2002,18 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Download updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать обновления</translation>
     </message>
 </context>
 <context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Верху слева:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер:</translation>
     </message>
     <message>
         <source>Delay:</source>
@@ -2029,11 +2029,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Пресет</translation>
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished">Пользовательский снимок</translation>
+        <translation>Пользовательский снимок</translation>
     </message>
 </context>
 <context>
@@ -2051,19 +2051,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>groupmanager</name>
     <message>
         <source>Image groups:</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы изображений:</translation>
     </message>
     <message>
         <source>Manage Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Управлять группами</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Импорт</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт</translation>
     </message>
     <message>
         <source>Remove empty groups</source>
@@ -2081,27 +2081,27 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить команду</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Тест</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Пресеты</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2113,11 +2113,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Список игнорируемых:</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите имена/пути исполняемых файлов через запятую (например, a.exe, games/*)</translation>
     </message>
 </context>
 <context>
@@ -2847,27 +2847,27 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Хранилище конфигураций</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь:</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть файл конфигураций в текстовом редакторе по-умолчанию.</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить расположение файла конфигурации.</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Спрашивать подтверждения когда нажать клавиша Esc</translation>
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>Когда:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2875,32 +2875,33 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить скролл мышкой</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметьте это, если вам не нужен захват курсора.
+Вы получите лучшее время отклика при старте обрезки.</translation>
     </message>
     <message>
         <source>Show notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать уведомление</translation>
     </message>
     <message>
         <source>Add custom hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить пользовательскую комбинацию горячих клавиш</translation>
     </message>
     <message>
         <source>Add new command</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить новую команду</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Мышка</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить непрозрачность:</translation>
     </message>
     <message>
         <source>or</source>
@@ -2908,259 +2909,259 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличение:</translation>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Лупа</translation>
     </message>
     <message>
         <source>Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель инструментов</translation>
     </message>
     <message>
         <source>Use separate colors for different shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Используйте разные цвета для разных форм</translation>
     </message>
     <message>
         <source>Number of pen sizes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер пера:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапустите Snipaste, чтобы изменения вступили в силу.</translation>
     </message>
     <message>
         <source>Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Паллета</translation>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить к</translation>
     </message>
     <message>
         <source>Import from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортировать в буфер обмена</translation>
     </message>
     <message>
         <source>Export to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортировать из буфера обмена</translation>
     </message>
     <message>
         <source>Disable completely</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить полностью</translation>
     </message>
     <message>
         <source>Include unsaved screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Включая несохраненные скриншоты</translation>
     </message>
     <message>
         <source>Default background mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Фон по-умолчанию:</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Буфер обмена</translation>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать как растровое изображение Windows:</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Скриншот</translation>
     </message>
     <message>
         <source>Image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображения окон</translation>
     </message>
     <message>
         <source>So that you can also paste the image into file explorer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы также можете вставить изображение в проводник.</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Контроллер</translation>
     </message>
     <message>
         <source>Super Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Супер обрезка</translation>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконка в трее</translation>
     </message>
     <message>
         <source>Left click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Левый клик:</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Пресеты</translation>
     </message>
     <message>
         <source>Middle click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Клик средней кнопкой мыши:</translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Клик правой кнопкой мыши:</translation>
     </message>
     <message>
         <source>Hot Corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Горячий угол</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить</translation>
     </message>
     <message>
         <source>Corner size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер угла:</translation>
     </message>
     <message>
         <source>Trigger delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Задержка триггера:</translation>
     </message>
     <message>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>мс</translation>
     </message>
     <message>
         <source>Check interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Интервал проверки:</translation>
     </message>
     <message>
         <source>Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Функция</translation>
     </message>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Верх слева:</translation>
     </message>
     <message>
         <source>Top right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Верх справа:</translation>
     </message>
     <message>
         <source>Bottom left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Низ слева:</translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Низ справа:</translation>
     </message>
     <message>
         <source>Keep responsive</source>
-        <translation type="unfinished"></translation>
+        <translation>Оставить отзывчивым</translation>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать автоматически:</translation>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation type="unfinished">Обычный снимок</translation>
+        <translation>Обычный снимок</translation>
     </message>
     <message>
         <source>Super snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Супер снимок</translation>
     </message>
     <message>
         <source>Color value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет:</translation>
     </message>
     <message>
         <source>No &apos;#&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер &apos;#&apos;</translation>
     </message>
     <message>
         <source>Uppercase Hex</source>
-        <translation type="unfinished"></translation>
+        <translation>Hex в верхнем регистре</translation>
     </message>
     <message>
         <source>Show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать:</translation>
     </message>
     <message>
         <source>Grid lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Screen coordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Координаты снимка</translation>
     </message>
     <message>
         <source>Usage tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать подсказки</translation>
     </message>
     <message>
         <source>Copy text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать текст:</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Коэффициент</translation>
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическое делать резервное копирование состояния окна обрезки, а также окон изображений, чтобы их можно было восстановить в следующий раз, когда вы откроете Snipaste.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Улучшить скорость отклика при обрезке за счет периодической автоматической перезагрузки DLL.</translation>
     </message>
     <message>
         <source>Fast thumbnail size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер ярлыка:</translation>
     </message>
     <message>
         <source>Fast thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярлык:</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
-        <translation type="unfinished"></translation>
+        <translation>В Snipaste используется свободное ПО</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы также можете показать/скрыть курсор при обрезке с помощью клавиш ` или !.</translation>
     </message>
     <message>
         <source>Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Клавиши</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Действия</translation>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойное нажатие кнопки мыши:</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Какое действие выполнять при двойном щелчке мышью при обрезке.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Клик средней клавишей мыши:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Какое действие выполнять при обрезке при нажатии средней клавишей мыши.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Клавиша &apos;Enter&apos;:</translation>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Аннотация по умолчанию:</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -3170,115 +3171,116 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранение вручную</translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Название файла:</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть папку</translation>
     </message>
     <message>
         <source>Change Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить папку</translation>
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished">Правила наименования</translation>
+        <translation>Правила наименования</translation>
     </message>
     <message>
         <source>Also copy image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать изображение как файл</translation>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрепить все виртуальные рабочие столы</translation>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень увеличения:</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить маскировку при отображении диалогового окна файла</translation>
     </message>
     <message>
         <source>Show fullscreen cross lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать полноэкранные линии пересечения</translation>
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть все окна изображений при отображении диалогового окна</translation>
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Список игнорируемых:</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите имена/пути исполняемых файлов через запятую (например, a.exe, games/*)</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть папку</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать подсказки горячих клавиш</translation>
     </message>
     <message>
         <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Игнорировать команду «Копировать», имитируемую другими приложениями</translation>
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Число цветов:</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите или перетащите кнопки цветов для настройки паллеты.</translation>
     </message>
     <message>
         <source>Follow system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Следовать системной теме</translation>
     </message>
     <message>
         <source>Disable reedition for Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить повторное редактирование для ластика</translation>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать кнопку &quot;Поделиться&quot;</translation>
     </message>
     <message>
         <source>Max window size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальный размер окна:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапустите Snipaste, чтобы изменения вступили в силу.
+Snipaste не должен запускаться с повышенными правами, чтобы отображалась кнопка «Поделиться».</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры вывода:</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тени:</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>Граница:</translation>
     </message>
 </context>
 <context>
@@ -3309,7 +3311,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Поделиться</translation>
     </message>
 </context>
 <context>
@@ -3320,34 +3322,34 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Fill with stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Залить штрихом</translation>
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб шрифта</translation>
     </message>
     <message>
         <source>Pen style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль пера</translation>
     </message>
     <message>
         <source>Filled ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрашенный эллипс</translation>
     </message>
     <message>
         <source>Line start</source>
-        <translation type="unfinished"></translation>
+        <translation>Линия старта</translation>
     </message>
     <message>
         <source>Line end</source>
-        <translation type="unfinished"></translation>
+        <translation>Линия окончания</translation>
     </message>
 </context>
 <context>
     <name>sizeinputdialog</name>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Пресет</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3359,7 +3361,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение размера</translation>
     </message>
 </context>
 <context>
@@ -3377,14 +3379,14 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation type="unfinished"></translation>
+        <translation>Подсказки:</translation>
     </message>
 </context>
 <context>
     <name>unlockprodialog</name>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>ИЛИ</translation>
     </message>
 </context>
 <context>
@@ -3414,11 +3416,11 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     <name>zoominputdialog</name>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличение:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер:</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3430,7 +3432,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить изображение</translation>
     </message>
 </context>
 </TS>
