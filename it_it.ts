@@ -667,7 +667,7 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Retroazione</translation>
+        <translation>Segnalazione problemi</translation>
     </message>
     <message>
         <source>Follow</source>
@@ -2301,7 +2301,7 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     </message>
     <message>
         <source>Anchors&apos; border color:</source>
-        <translation>Colore del bordo delle ancore:</translation>
+        <translation>Colore del bordo degli ancoraggi:</translation>
     </message>
     <message>
         <source>In the magnifier, show:</source>
@@ -2527,7 +2527,7 @@ Se disabilitato, sarà sempre mostrato al centro della schermata principale.</tr
     </message>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
-        <translation>Se non selezionato, esegui lo zoom nell&apos;angolo in alto a sinistra.</translation>
+        <translation>Se non selezionato, esegue lo zoom nell&apos;angolo in alto a sinistra.</translation>
     </message>
     <message>
         <source>at mouse cursor</source>
@@ -2597,7 +2597,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Flash</source>
-        <translation>Lampeggio</translation>
+        <translation>Lampeggia</translation>
     </message>
     <message>
         <source>Let the new image window gain keyboard focus.</source>
@@ -2605,7 +2605,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Activate</source>
-        <translation>Attivare</translation>
+        <translation>Attiva</translation>
     </message>
     <message>
         <source>Max recoverable closed images:</source>
@@ -3109,7 +3109,7 @@ Otterrai un tempo di risposta migliore per l&apos;avvio del ritaglio.</translati
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
-        <translation>Effettua automaticamente il backup dello stato della finestra di ritaglio e delle finestre dell&apos;immagine, in modo che possano essere ripristinate la prossima volta che apri Snipaste.</translation>
+        <translation>Effettua automaticamente il backup dello stato della finestra di ritaglio e delle finestre dell&apos;immagine, in modo che possano essere ripristinate alla successiva apertura di Snipaste.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
