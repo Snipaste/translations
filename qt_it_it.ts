@@ -269,7 +269,7 @@
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished">Shift</translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <source>Sleep</source>
@@ -353,7 +353,7 @@
     </message>
     <message>
         <source>Word Processor</source>
-        <translation type="unfinished">Word Processor</translation>
+        <translation>Word Processor</translation>
     </message>
     <message>
         <source>Volume Down</source>
@@ -481,7 +481,7 @@
     </message>
     <message>
         <source>Escape</source>
-        <translation type="unfinished">Escape</translation>
+        <translation>Escape</translation>
     </message>
     <message>
         <source>Audio Random Play</source>
@@ -505,7 +505,7 @@
     </message>
     <message>
         <source>Home Office</source>
-        <translation type="unfinished">Home Office</translation>
+        <translation>Home Office</translation>
     </message>
     <message>
         <source>Last Number Redial</source>
@@ -561,7 +561,7 @@
     </message>
     <message>
         <source>SysReq</source>
-        <translation type="unfinished">SysReq</translation>
+        <translation>SysReq</translation>
     </message>
     <message>
         <source>Travel</source>
@@ -925,7 +925,7 @@
     </message>
     <message>
         <source>LightBulb</source>
-        <translation type="unfinished">LightBulb</translation>
+        <translation>Lampadina</translation>
     </message>
     <message>
         <source>Touchpad Toggle</source>
@@ -941,7 +941,7 @@
     </message>
     <message>
         <source>Hangul End</source>
-        <translation type="unfinished">Hangul End</translation>
+        <translation>Hangul Fine</translation>
     </message>
     <message>
         <source>Monitor Brightness Down</source>
@@ -1230,7 +1230,7 @@
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished">Symbol</translation>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Syriac</source>
