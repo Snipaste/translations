@@ -1433,19 +1433,19 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     <name>ResolutionItem</name>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Afmetingen knipgebied invoeren</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Eenheid aanpassen</translation>
     </message>
     <message>
         <source>Lock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Verhouding vergrendelen</translation>
     </message>
     <message>
         <source>Refresh screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermopname vernieuwen</translation>
     </message>
 </context>
 <context>
@@ -1995,11 +1995,11 @@ Start Snipaste opnieuw op.</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>voor Microsoft Store</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Bureaublad)</translation>
     </message>
 </context>
 <context>
