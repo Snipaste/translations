@@ -1433,19 +1433,19 @@ You may restart Snipaste with admin privileges and try again.</source>
     <name>ResolutionItem</name>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入區域大小</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>變更尺寸單位</translation>
     </message>
     <message>
         <source>Lock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>鎖定長寬比</translation>
     </message>
     <message>
         <source>Refresh screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>重新整理螢幕擷取畫面</translation>
     </message>
 </context>
 <context>
@@ -1995,11 +1995,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>微軟商店版</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>桌面版</translation>
     </message>
 </context>
 <context>
