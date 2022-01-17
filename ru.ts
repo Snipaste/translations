@@ -1433,19 +1433,19 @@ You may restart Snipaste with admin privileges and try again.</source>
     <name>ResolutionItem</name>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите размер зоны</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить единицу размера</translation>
     </message>
     <message>
         <source>Lock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Заблокировать соотношение сторон</translation>
     </message>
     <message>
         <source>Refresh screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить скриншот</translation>
     </message>
 </context>
 <context>
@@ -1994,11 +1994,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>для Microsoft Store</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Desktop)</translation>
     </message>
 </context>
 <context>
