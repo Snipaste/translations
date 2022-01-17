@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ja_JP" sourcelanguage="en_US">
 <context>
@@ -1430,6 +1430,25 @@ Snipasteを管理者権限で再試行してください。</translation>
     </message>
 </context>
 <context>
+    <name>ResolutionItem</name>
+    <message>
+        <source>Input region size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
@@ -1866,8 +1885,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>UnlockProDialog</name>
     <message>
-        <source>You are using the free version of Snipaste %1 %2</source>
-        <translation>無料版のSnipaste %1 %2 です</translation>
+        <source>You are using the free version of Snipaste %1 %2.</source>
+        <translation>無料版のSnipaste %1 %2 です。</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -1962,8 +1981,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>エラーコード</translation>
     </message>
     <message>
-        <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation>PRO版では30個以上の追加機能があります！</translation>
+        <source>The PRO version unlocks more than 40 useful features!</source>
+        <translation>PRO版では40個以上の追加機能があります！</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
@@ -1972,6 +1991,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Enter license key:</source>
         <translation>ライセンスキーを入力する：</translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

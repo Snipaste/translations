@@ -1430,6 +1430,25 @@ Puoi riavviare Snipaste con i privilegi di amministratore e riprovare.</translat
     </message>
 </context>
 <context>
+    <name>ResolutionItem</name>
+    <message>
+        <source>Input region size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
@@ -1866,8 +1885,8 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
 <context>
     <name>UnlockProDialog</name>
     <message>
-        <source>You are using the free version of Snipaste %1 %2</source>
-        <translation>Stai utilizzando la versione gratuita di Snipaste %1 %2</translation>
+        <source>You are using the free version of Snipaste %1 %2.</source>
+        <translation>Stai utilizzando la versione gratuita di Snipaste %1 %2.</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -1962,8 +1981,8 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
         <translation>Codice errore</translation>
     </message>
     <message>
-        <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation>La versione PRO sblocca più di 30 funzioni utili!</translation>
+        <source>The PRO version unlocks more than 40 useful features!</source>
+        <translation>La versione PRO sblocca più di 40 funzioni utili!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
@@ -1972,6 +1991,14 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     <message>
         <source>Enter license key:</source>
         <translation>Inserisci il codice di licenza:</translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

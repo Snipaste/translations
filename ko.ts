@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ko">
 <context>
@@ -1426,6 +1426,25 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
 </context>
 <context>
+    <name>ResolutionItem</name>
+    <message>
+        <source>Input region size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
@@ -1891,8 +1910,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>PRO 기능 잠금 해제</translation>
     </message>
     <message>
-        <source>You are using the free version of Snipaste %1 %2</source>
-        <translation>무료 버전의 Snipaste % 1 % 2을 (를) 사용하고 있습니다</translation>
+        <source>You are using the free version of Snipaste %1 %2.</source>
+        <translation>무료 버전의 Snipaste % 1 % 2을 (를) 사용하고 있습니다.</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -1960,8 +1979,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>에러코드</translation>
     </message>
     <message>
-        <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation>PRO 버전은 30 가지 이상의 유용한 기능을 제공합니다!</translation>
+        <source>The PRO version unlocks more than 40 useful features!</source>
+        <translation>PRO 버전은 40 가지 이상의 유용한 기능을 제공합니다!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
@@ -1970,6 +1989,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Enter license key:</source>
         <translation>라이센스 키 입력:</translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

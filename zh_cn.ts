@@ -1428,6 +1428,25 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
 </context>
 <context>
+    <name>ResolutionItem</name>
+    <message>
+        <source>Input region size</source>
+        <translation>输入区域大小</translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation>更改尺寸单位</translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio</source>
+        <translation>锁定长宽比</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation>刷新截屏</translation>
+    </message>
+</context>
+<context>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
@@ -1863,10 +1882,51 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>TxPCMgr</name>
+    <message>
+        <source>Tencent PC Manager:</source>
+        <translation>腾讯电脑管家:</translation>
+    </message>
+    <message>
+        <source>for Tencent PC Manager</source>
+        <translation>腾讯电脑管家版</translation>
+    </message>
+    <message>
+        <source>Not launched</source>
+        <translation>未启动</translation>
+    </message>
+    <message>
+        <source>Launch</source>
+        <translation>启动</translation>
+    </message>
+    <message>
+        <source>Not logged in</source>
+        <translation>未登录</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation>登录</translation>
+    </message>
+    <message>
+        <source>Logged in</source>
+        <translation>已登录</translation>
+    </message>
+    <message>
+        <source>Tencent PC Manager is not active.
+Please launch the subscrition platform first.</source>
+        <translation>腾讯电脑管家未启动。
+请先启动腾讯电脑管家。</translation>
+    </message>
+    <message>
+        <source>Please login Tencent PC Manager first.</source>
+        <translation>请先登录腾讯电脑管家。</translation>
+    </message>
+</context>
+<context>
     <name>UnlockProDialog</name>
     <message>
-        <source>You are using the free version of Snipaste %1 %2</source>
-        <translation>你正在使用免费版 Snipaste %1 %2</translation>
+        <source>You are using the free version of Snipaste %1 %2.</source>
+        <translation>你正在使用 Snipaste %1 %2 (免费版)。</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -1961,8 +2021,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>无效的授权码。</translation>
     </message>
     <message>
-        <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation>专业版可解锁了 30+ 实用功能！</translation>
+        <source>The PRO version unlocks more than 40 useful features!</source>
+        <translation>专业版可解锁 40+ 实用功能！</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
@@ -1971,6 +2031,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Enter license key:</source>
         <translation>输入授权码:</translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation>微软商店版</translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>桌面版</translation>
     </message>
 </context>
 <context>

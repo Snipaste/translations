@@ -1430,6 +1430,25 @@ Reinicie o Snipaste como Administrador e tente novamente.</translation>
     </message>
 </context>
 <context>
+    <name>ResolutionItem</name>
+    <message>
+        <source>Input region size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
@@ -1866,8 +1885,8 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
 <context>
     <name>UnlockProDialog</name>
     <message>
-        <source>You are using the free version of Snipaste %1 %2</source>
-        <translation>Você está usando a versão gratuita do Snipaste %1 %2</translation>
+        <source>You are using the free version of Snipaste %1 %2.</source>
+        <translation>Você está usando a versão gratuita do Snipaste %1 %2.</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -1962,8 +1981,8 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <translation>Código de erro</translation>
     </message>
     <message>
-        <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation>A versão PRO desbloqueia mais de 30 recursos úteis!</translation>
+        <source>The PRO version unlocks more than 40 useful features!</source>
+        <translation>A versão PRO desbloqueia mais de 40 recursos úteis!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
@@ -1972,6 +1991,14 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <message>
         <source>Enter license key:</source>
         <translation>Entrar chave de licença:</translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1429,6 +1429,25 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
     </message>
 </context>
 <context>
+    <name>ResolutionItem</name>
+    <message>
+        <source>Input region size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
@@ -1865,8 +1884,8 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
 <context>
     <name>UnlockProDialog</name>
     <message>
-        <source>You are using the free version of Snipaste %1 %2</source>
-        <translation>Sie verwenden die kostenlose Version von Snipaste %1 %2</translation>
+        <source>You are using the free version of Snipaste %1 %2.</source>
+        <translation>Sie verwenden die kostenlose Version von Snipaste %1 %2.</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -1961,8 +1980,8 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>Fehlercode</translation>
     </message>
     <message>
-        <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation>Die PRO-Version schaltet mehr als 30 nützliche Funktionen frei!</translation>
+        <source>The PRO version unlocks more than 40 useful features!</source>
+        <translation>Die PRO-Version schaltet mehr als 40 nützliche Funktionen frei!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
@@ -1971,6 +1990,14 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Enter license key:</source>
         <translation>Lizenzschlüssel eingeben:</translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

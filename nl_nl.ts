@@ -1430,6 +1430,25 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     </message>
 </context>
 <context>
+    <name>ResolutionItem</name>
+    <message>
+        <source>Input region size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
@@ -1867,8 +1886,8 @@ Start Snipaste opnieuw op.</translation>
 <context>
     <name>UnlockProDialog</name>
     <message>
-        <source>You are using the free version of Snipaste %1 %2</source>
-        <translation>Je gebruikt de gratis verie van Snipaste %1 %2</translation>
+        <source>You are using the free version of Snipaste %1 %2.</source>
+        <translation>Je gebruikt de gratis verie van Snipaste %1 %2.</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -1963,8 +1982,8 @@ Start Snipaste opnieuw op.</translation>
         <translation>Foutcode</translation>
     </message>
     <message>
-        <source>The PRO version unlocks more than 30 useful features!</source>
-        <translation>De PRO-versie biedt meer dan 30 handige functies!</translation>
+        <source>The PRO version unlocks more than 40 useful features!</source>
+        <translation>De PRO-versie biedt meer dan 40 handige functies!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
@@ -1973,6 +1992,14 @@ Start Snipaste opnieuw op.</translation>
     <message>
         <source>Enter license key:</source>
         <translation>Licentiecode invoeren:</translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

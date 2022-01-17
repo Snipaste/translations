@@ -1429,6 +1429,25 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     </message>
 </context>
 <context>
+    <name>ResolutionItem</name>
+    <message>
+        <source>Input region size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
@@ -1865,8 +1884,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>UnlockProDialog</name>
     <message>
-        <source>You are using the free version of Snipaste %1 %2</source>
-        <translation>Snipaste&apos;nin ücretsiz sürümünü kullanıyorsunuz %1 %2</translation>
+        <source>You are using the free version of Snipaste %1 %2.</source>
+        <translation>Snipaste&apos;nin ücretsiz sürümünü kullanıyorsunuz %1 %2.</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -1961,7 +1980,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Hata kodu</translation>
     </message>
     <message>
-        <source>The PRO version unlocks more than 30 useful features!</source>
+        <source>The PRO version unlocks more than 40 useful features!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1971,6 +1990,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Enter license key:</source>
         <translation>Lisans anahtarını girin:</translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
