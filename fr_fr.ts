@@ -1433,19 +1433,19 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     <name>ResolutionItem</name>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de la région d&apos;entrée</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer la taille de l&apos;unité</translation>
     </message>
     <message>
         <source>Lock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Verrouiller le ratio d&apos;aspect</translation>
     </message>
     <message>
         <source>Refresh screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiser la capture d&apos;écran</translation>
     </message>
 </context>
 <context>
@@ -1994,11 +1994,11 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>pour Microsoft Store</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Bureau)</translation>
     </message>
 </context>
 <context>
@@ -2240,7 +2240,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>About</source>
-        <translation>A propos de</translation>
+        <translation>À propos de</translation>
     </message>
     <message>
         <source>Every</source>

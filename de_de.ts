@@ -1360,7 +1360,7 @@ Sie können dieses Verhalten im Dialogfeld &quot;Einstellungen&quot; konfigurier
     </message>
     <message>
         <source>Show hidden images</source>
-        <translation type="unfinished"></translation>
+        <translation>Versteckte Bilder anzeigen</translation>
     </message>
 </context>
 <context>
@@ -1432,19 +1432,19 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
     <name>ResolutionItem</name>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Bereichsgröße eingeben</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Größeneinheit ändern</translation>
     </message>
     <message>
         <source>Lock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenverhältnis sperren</translation>
     </message>
     <message>
         <source>Refresh screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Screenshot aktualisieren</translation>
     </message>
 </context>
 <context>
@@ -1878,7 +1878,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Anzeigegerät kann nicht erkannt werden. Bitte starten Sie Snipaste neu.</translation>
     </message>
 </context>
 <context>
@@ -1993,11 +1993,11 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>für den Microsoft Store</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Desktop)</translation>
     </message>
 </context>
 <context>

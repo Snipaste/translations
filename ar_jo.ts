@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ar_JO">
+<TS version="2.0" language="ar_JO">
 <context>
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">حدد اللون</translation>
+        <translation>حدد اللون</translation>
     </message>
 </context>
 <context>
@@ -197,7 +197,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>More examples...</source>
-        <translation type="unfinished"></translation>
+        <translation>امثلة اكثر...</translation>
     </message>
 </context>
 <context>
@@ -380,59 +380,59 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق نافذة الصورة</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل انعكاس اللون محترف]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد جميع نوافذ الصور المرئية [محترف]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>تمرير الماوس أو 1/2 أو [/]</translation>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء تحديد الشكل الحالي إذا كان في وضع التحرير</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>إنقاص/زيادة عرض القلم إذا كان في وضع التحرير</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة استخدام مناطق القص الأخيرة</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تشغيل تاريخ القص</translation>
     </message>
     <message>
         <source>Capture full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>التقاط ملء الشاشة</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>نقل منطقة القص بمقدار بكسل واحد</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>ضبط عرض القلم</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد عنصر واجهة مستخدم أصلي / فرعي </translation>
     </message>
     <message>
         <source>Resize the area from center</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير حجم المنطقة من المركز</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء تحديد عنصر التحرير</translation>
     </message>
 </context>
 <context>
@@ -613,15 +613,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان النافذة النشطة قبل القص</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>مثل ما ورد أعلاه ، لكن عدد الأحرف يقتصر على 50 حرفًا</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>المتغيرات الخاصة</translation>
     </message>
 </context>
 <context>
@@ -941,7 +941,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>قص ونسخ وتثبيت</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
@@ -949,23 +949,23 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>محترف</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>حرة</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>إيطالي</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير</translation>
     </message>
 </context>
 <context>
@@ -996,35 +996,35 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>العرض:</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">ممحاة</translation>
+        <translation>ممحاة</translation>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>خلفية النص</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة </translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>لتغيير عرض القلم ، يرجى تمرير عجلة الماوس أو الضغط على &quot;1&quot; أو &quot;2&quot; أو الضغط على &quot;[&quot; أو &quot;]&quot;.</translation>
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>نصف قطر الزاوية:</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>ألفا:</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -1032,7 +1032,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Filled rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>مستطيل ممتلئ</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1060,19 +1060,19 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير</translation>
     </message>
     <message>
         <source>Clear content</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح المحتوى</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
-        <translation type="unfinished">تبديل الفسيفساء / طمس</translation>
+        <translation>تبديل الفسيفساء / طمس</translation>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل النعومة</translation>
     </message>
 </context>
 <context>
@@ -1325,36 +1325,36 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Copy raw HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>انسخ HTML الخام</translation>
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ الصورة بدون مقياس باسم ...</translation>
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>عكس اللون</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>اللون مقلوب</translation>
     </message>
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيؤدي النقر المزدوج فوق إطار الصورة إلى إغلاق النافذة. يمكنك تكوين هذا السلوك في مربع الحوار تفضيلات: عنصر تحكم - الماوس.</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير الصور المحددة إلى...</translation>
     </message>
     <message>
         <source>Output Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات الإخراج</translation>
     </message>
     <message>
         <source>Show hidden images</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار الصور المخفية</translation>
     </message>
 </context>
 <context>
@@ -1410,34 +1410,34 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحتاج إلى تشغيل التحكم في حساب المستخدم (UAC) لإكمال عملية الشراء.</translation>
     </message>
     <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>من أجل التقاط لقطة شاشة ، يتطلب Snipaste إذن تسجيل الشاشة.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم بالفعل تحديد Snipaste في قائمة Screen Recording (تسجيل الشاشة) ولا يزال لا يعمل ، فقد تحتاج إلى إعادة تشغيل Snipaste أو إعادة تشغيل جهاز Mac الخاص بك.</translation>
     </message>
 </context>
 <context>
     <name>ResolutionItem</name>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم منطقة الإدخال</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير وحدة الحجم</translation>
     </message>
     <message>
         <source>Lock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>تأمين نسبة الارتفاع</translation>
     </message>
     <message>
         <source>Refresh screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث لقطة الشاشة</translation>
     </message>
 </context>
 <context>
@@ -1596,19 +1596,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>قص مع الظل</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>قص ونسخ وتثبيت</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>أدخل وضع السبورة الشفافة (انقر نقرًا مزدوجًا على هروب للإنهاء)</translation>
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished">مسح سجلات القص</translation>
+        <translation>مسح سجلات القص</translation>
     </message>
 </context>
 <context>
@@ -1626,7 +1626,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة إلى الإعدادات المسبقة</translation>
     </message>
 </context>
 <context>
@@ -1859,26 +1859,26 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة (pt)</translation>
     </message>
     <message>
         <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>بكسل فعلي (بكسل)</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
-        <translation type="unfinished"></translation>
+        <translation>الجهاز - بكسل مستقل (dip)</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ: لا يمكن الكشف عن جهاز العرض. الرجاء إعادة تشغيل Snipaste.</translation>
     </message>
 </context>
 <context>
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2.</source>
-        <translation>انت تستخدم الاصدار المجاني من Snipaste %1 %2</translation>
+        <translation>انت تستخدم الاصدار المجاني من Snipaste %1 %2.</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -1974,11 +1974,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The PRO version unlocks more than 40 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>تفتح النسخة الاحترافية أكثر من 40 ميزة مفيدة!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>يسمح لك الترخيص باستخدام Snipaste 2 إلى الأبد مع جميع تحديثات 2.x.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
@@ -1986,11 +1986,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>لمتجر مايكروسوفت</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>(سطح المكتب)</translation>
     </message>
 </context>
 <context>
@@ -3156,7 +3156,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation>نقر بالوسط</translation>
+        <translation>نقر-بالوسط:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
@@ -3201,23 +3201,23 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation></translation>
+        <translation>تثبيت على جميع أجهزة سطح المكتب الظاهرية</translation>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation type="unfinished"></translation>
+        <translation>مستوى التكبير:</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل التقنيع عند عرض ملف مربع</translation>
     </message>
     <message>
         <source>Show fullscreen cross lines</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار الخطوط المتقاطعة بملء الشاشة</translation>
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء كل نوافذ الصور عند عرض ملف مربع الحوار</translation>
     </message>
     <message>
         <source>Ignored list:</source>
@@ -3229,63 +3229,63 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>آلي</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح محتوى الملف</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار تلميحات ربط المفاتيح</translation>
     </message>
     <message>
         <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>تجاهل أمر &quot;نسخ&quot; الذي تمت محاكاته بواسطة التطبيقات الأخرى</translation>
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الألوان:</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر أو اسحب أزرار الألوان لتخصيص اللوحة.</translation>
     </message>
     <message>
         <source>Follow system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>اتبع موضوع النظام</translation>
     </message>
     <message>
         <source>Disable reedition for Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل إعادة تعريف الممحاة</translation>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار زر &quot;مشاركة&quot;</translation>
     </message>
     <message>
         <source>Max window size:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لحجم النافذة:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>أعد تشغيل Snipaste حتى يسري التغيير. يجب عدم تشغيل Snipaste كما مرتفعة من أجل إظهار الزر &quot;مشاركة&quot;.</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات الإخراج:</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation>ظل:</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>حد:</translation>
     </message>
 </context>
 <context>
@@ -3316,7 +3316,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>شارك </translation>
     </message>
 </context>
 <context>
@@ -3331,23 +3331,23 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>مقياس الخط</translation>
     </message>
     <message>
         <source>Pen style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط القلم</translation>
     </message>
     <message>
         <source>Filled ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>بيضوي  ممتلئ</translation>
     </message>
     <message>
         <source>Line start</source>
-        <translation type="unfinished"></translation>
+        <translation>بداية الخط</translation>
     </message>
     <message>
         <source>Line end</source>
-        <translation type="unfinished"></translation>
+        <translation>نهاية الخط</translation>
     </message>
 </context>
 <context>
@@ -3391,7 +3391,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     <name>unlockprodialog</name>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>او</translation>
     </message>
 </context>
 <context>

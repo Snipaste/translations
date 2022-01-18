@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Undo</source>
-        <translation>Défaire</translation>
+        <translation>Rétablir</translation>
     </message>
     <message>
         <source>XFer</source>
@@ -221,7 +221,7 @@
     </message>
     <message>
         <source>Eject</source>
-        <translation>Ejecter</translation>
+        <translation>Éjecter</translation>
     </message>
     <message>
         <source>Enter</source>
@@ -713,7 +713,7 @@
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Rafraichir</translation>
+        <translation>Actualiser</translation>
     </message>
     <message>
         <source>Hibernate</source>
@@ -781,7 +781,7 @@
     </message>
     <message>
         <source>Rotation KB</source>
-        <translation>Rotation Ko</translation>
+        <translation>Rotation KB</translation>
     </message>
     <message>
         <source>Rotation PB</source>
@@ -865,7 +865,7 @@
     </message>
     <message>
         <source>Power Down</source>
-        <translation>Eteindre</translation>
+        <translation>Éteindre</translation>
     </message>
     <message>
         <source>Spellchecker</source>
@@ -925,7 +925,7 @@
     </message>
     <message>
         <source>LightBulb</source>
-        <translation>Eclairage</translation>
+        <translation>Éclairage</translation>
     </message>
     <message>
         <source>Touchpad Toggle</source>
@@ -1012,7 +1012,7 @@
     </message>
     <message>
         <source>About Qt</source>
-        <translation>A propos de Qt</translation>
+        <translation>À propos de Qt</translation>
     </message>
     <message>
         <source>Hide Details...</source>
@@ -1186,7 +1186,7 @@
     </message>
     <message>
         <source>Demi Bold</source>
-        <translation>Demi gras</translation>
+        <translation>Demi Bold</translation>
     </message>
     <message>
         <source>Arabic</source>
@@ -1321,30 +1321,30 @@
     </message>
     <message>
         <source>Stri&amp;keout</source>
-        <translation>Supprimé &amp; Par</translation>
+        <translation>Supprimé&amp;Par</translation>
     </message>
 </context>
 <context>
     <name>QColorDialog</name>
     <message>
         <source>&amp;Red:</source>
-        <translation>&amp;Rouge :</translation>
+        <translation>&amp;Rouge:</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>&amp;Saturation :</translation>
+        <translation>&amp;Saturation:</translation>
     </message>
     <message>
         <source>&amp;Val:</source>
-        <translation>&amp;Luminosité :</translation>
+        <translation>&amp;Luminosité:</translation>
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation>Teint&amp;e :</translation>
+        <translation>Tein&amp;te:</translation>
     </message>
     <message>
         <source>&amp;HTML:</source>
-        <translation>&amp;HTML :</translation>
+        <translation>&amp;HTML:</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1356,7 +1356,7 @@
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation>Ble&amp;u :</translation>
+        <translation>Ble&amp;u:</translation>
     </message>
     <message>
         <source>&amp;Pick Screen Color</source>
@@ -1370,7 +1370,7 @@ Appuyez sur ESC pour annuler</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation>&amp;Vert :</translation>
+        <translation>&amp;Vert:</translation>
     </message>
     <message>
         <source>&amp;Basic colors</source>
@@ -1382,7 +1382,7 @@ Appuyez sur ESC pour annuler</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation>A&amp;lphacanal :</translation>
+        <translation>A&amp;lphacanal:</translation>
     </message>
 </context>
 <context>
