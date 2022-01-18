@@ -95,7 +95,8 @@
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation>下载更新源失败。网络错误：%1</translation>
+        <translation>下载更新源失败。
+网络错误：%1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
