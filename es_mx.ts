@@ -1433,19 +1433,19 @@ Podría reiniciar Snipaste con privilegios de administrador e intentar de nuevo.
     <name>ResolutionItem</name>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca tamaño de la zona</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar unidad de tamaño</translation>
     </message>
     <message>
         <source>Lock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear relación de aspecto</translation>
     </message>
     <message>
         <source>Refresh screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar captura de pantalla</translation>
     </message>
 </context>
 <context>
@@ -1994,11 +1994,11 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>para Microsoft Store</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Escritorio)</translation>
     </message>
 </context>
 <context>
