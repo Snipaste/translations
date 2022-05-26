@@ -816,6 +816,14 @@ Startup on boot has been cancelled.</source>
         <translation>Μεταφορά με το ποντίκι</translation>
     </message>
     <message>
+        <source>Close image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destroy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Transparent</source>
         <translation>Διαφανής</translation>
     </message>
@@ -1172,6 +1180,14 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Όλα τα αρχεία</translation>
     </message>
     <message>
+        <source>Show toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show annotations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation>Μεγέθυνση</translation>
     </message>
@@ -1239,10 +1255,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Select Color</source>
         <translation>Επιλογή χρώματος</translation>
-    </message>
-    <message>
-        <source>Annotate</source>
-        <translation>Σχολιασμός</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1419,15 +1431,19 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Εάν θέλετε αυτό το χαρακτηριστικό, παρακαλούμε να παραχωρήσετε πρόσβαση σε αυτήν την εφαρμογή από τις προτιμήσεις Ασφάλειας &amp; Προσωπικών δεδομένων στις Ρυθμίσεις συστήματος.</translation>
     </message>
     <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The purchase cannot be completed because Snipaste is running as administrator.
+To continue the purchase, please:
+* log on using the non-administrator user
+* do not disable UAC (User Account Control
+These requirements are only necessary DURING the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1477,6 +1493,12 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Κάντε κλικ εδώ για να δείτε το αρχείο μεταβολών</translation>
     </message>
     <message>
+        <source>Did you notice the red dots on the toolbar? They will show you useful tips!
+Click any of them to dismiss this notification permanently.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Color</source>
         <translation>Επιλογή χρώματος</translation>
     </message>
@@ -1491,10 +1513,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Pick File</source>
         <translation>Επιλέξτε αρχείο</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>Προσέξατε τις κόκκινες τελείες στη γραμμή εργαλείων; Κάντε κλικ σε αυτές για χρήσιμες συμβουλές!</translation>
     </message>
 </context>
 <context>
@@ -1625,6 +1643,22 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>ShortcutEdit</name>
     <message>
+        <source>The shortcut is already in use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut has already been registered by another program.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut is too simple and would not be registered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut cannot be recognized.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press shortcut</source>
         <translation>Πατήστε τη συντόμευση</translation>
     </message>
@@ -1724,6 +1758,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Failed to save the image!</source>
         <translation>H αποθήκευση της εικόνας απέτυχε!</translation>
+    </message>
+    <message>
+        <source>The group title should not be empty.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New group name:</source>
@@ -1922,6 +1960,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation>Το %1 είναι δωρεάν μόνο για ΠΡΟΣΩΠΙΚΗ ΧΡΗΣΗ. Εάν θέλετε να το χρησιμοποιήσετε σε χώρο εργασίας, απαιτείται άδεια PRO.</translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

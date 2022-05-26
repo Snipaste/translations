@@ -742,6 +742,14 @@ Restart now to enjoy PRO features?</source>
         <translation>Error</translation>
     </message>
     <message>
+        <source>Close image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destroy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No Proxy</source>
         <translation>Sin proxy</translation>
     </message>
@@ -1148,6 +1156,14 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
         <translation>Copiar</translation>
     </message>
     <message>
+        <source>Show toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show annotations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ignore format</source>
         <translation>Ignorar el formato</translation>
     </message>
@@ -1238,10 +1254,6 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     <message>
         <source>Y-mirror</source>
         <translation>Reflejo en Y</translation>
-    </message>
-    <message>
-        <source>Annotate</source>
-        <translation>Anotar</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1425,8 +1437,12 @@ Podría reiniciar Snipaste con privilegios de administrador e intentar de nuevo.
         <translation>Si desea esta función, conceda acceso a esta aplicación en Preferencias de seguridad y privacidad, que se encuentra en Preferencias del Sistema.</translation>
     </message>
     <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation>Necesita activar UAC (Control de cuentas) para completar la compra.</translation>
+        <source>The purchase cannot be completed because Snipaste is running as administrator.
+To continue the purchase, please:
+* log on using the non-administrator user
+* do not disable UAC (User Account Control
+These requirements are only necessary DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1475,6 +1491,12 @@ Podría reiniciar Snipaste con privilegios de administrador e intentar de nuevo.
         <translation>Haga clic aquí para ver el registro de cambios</translation>
     </message>
     <message>
+        <source>Did you notice the red dots on the toolbar? They will show you useful tips!
+Click any of them to dismiss this notification permanently.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Color</source>
         <translation>Seleccionar el color</translation>
     </message>
@@ -1489,10 +1511,6 @@ Podría reiniciar Snipaste con privilegios de administrador e intentar de nuevo.
     <message>
         <source>Pick File</source>
         <translation>Elegir archivo</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>¿Notaste los puntos rojos en la barra de herramientas? ¡Da clic para obtener consejos útiles!</translation>
     </message>
 </context>
 <context>
@@ -1621,6 +1639,22 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
 </context>
 <context>
     <name>ShortcutEdit</name>
+    <message>
+        <source>The shortcut is already in use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut has already been registered by another program.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut is too simple and would not be registered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut cannot be recognized.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Press shortcut</source>
         <translation>Presiona el atajo</translation>
@@ -1783,6 +1817,10 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
         <translation>Cambiar al grupo importado</translation>
     </message>
     <message>
+        <source>The group title should not be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New group name:</source>
         <translation>Nuevo nombre del grupo:</translation>
     </message>
@@ -1919,6 +1957,10 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation>%1 solo es gratuito para USO PERSONAL. Si tu quieres usarlo en el lugar de trabajo, una licencia PRO es requerida.</translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

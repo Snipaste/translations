@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ar_JO">
+<TS version="2.1" language="ar_JO">
 <context>
     <name>ColorBoard</name>
     <message>
@@ -813,6 +813,14 @@ Startup on boot has been cancelled.</source>
         <translation>سحب الماوس</translation>
     </message>
     <message>
+        <source>Close image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destroy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Transparent</source>
         <translation>شفاف</translation>
     </message>
@@ -1102,6 +1110,14 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>حجم</translation>
     </message>
     <message>
+        <source>Show toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show annotations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation>تكبير/تصغير</translation>
     </message>
@@ -1228,10 +1244,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Edit color</source>
         <translation>تحرير اللون</translation>
-    </message>
-    <message>
-        <source>Annotate</source>
-        <translation>تعلىق توضيحي</translation>
     </message>
     <message>
         <source>Stay on top</source>
@@ -1409,16 +1421,20 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>اذا كنت تريد هذه الميزة ، الرجاء منح الوصول لهذا التطبيق في تفضيلات الامان &amp;الخصوصية ، الموجود في تفضيلات النظام.</translation>
     </message>
     <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation>تحتاج إلى تشغيل التحكم في حساب المستخدم (UAC) لإكمال عملية الشراء.</translation>
-    </message>
-    <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
         <translation>من أجل التقاط لقطة شاشة ، يتطلب Snipaste إذن تسجيل الشاشة.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
         <translation>إذا تم بالفعل تحديد Snipaste في قائمة Screen Recording (تسجيل الشاشة) ولا يزال لا يعمل ، فقد تحتاج إلى إعادة تشغيل Snipaste أو إعادة تشغيل جهاز Mac الخاص بك.</translation>
+    </message>
+    <message>
+        <source>The purchase cannot be completed because Snipaste is running as administrator.
+To continue the purchase, please:
+* log on using the non-administrator user
+* do not disable UAC (User Account Control
+These requirements are only necessary DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1467,6 +1483,12 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>انقر هنا لمشاهدة التغيير</translation>
     </message>
     <message>
+        <source>Did you notice the red dots on the toolbar? They will show you useful tips!
+Click any of them to dismiss this notification permanently.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Color</source>
         <translation>حدد اللون</translation>
     </message>
@@ -1481,10 +1503,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Pick File</source>
         <translation>اختر ملف</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>هل لاحظت النقاط الحمراء على شريط الادوات؟ انقر علىها للحصول على نصائح مفيدة!</translation>
     </message>
 </context>
 <context>
@@ -1614,6 +1632,22 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>ShortcutEdit</name>
     <message>
+        <source>The shortcut is already in use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut has already been registered by another program.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut is too simple and would not be registered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut cannot be recognized.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press shortcut</source>
         <translation>اضغط على الاختصار</translation>
     </message>
@@ -1741,6 +1775,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>File %1 not found.</source>
         <translation>لم يتم العثور على الملف%1.</translation>
+    </message>
+    <message>
+        <source>The group title should not be empty.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Success</source>
@@ -1911,6 +1949,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation>%1 مجاني فقط للاستخدام الشخصي. اذا كنت ترغب في استخدامه في مكان العمل ، يلزم وجود ترخيص للمحترفين.</translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

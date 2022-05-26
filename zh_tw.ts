@@ -734,6 +734,14 @@ Restart now to enjoy PRO features?</source>
         <translation>錯誤</translation>
     </message>
     <message>
+        <source>Close image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destroy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Off</source>
         <translation>關</translation>
     </message>
@@ -1116,6 +1124,14 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>複製</translation>
     </message>
     <message>
+        <source>Show toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show annotations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ignore format</source>
         <translation>略過格式</translation>
     </message>
@@ -1238,10 +1254,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Play</source>
         <translation>播放</translation>
-    </message>
-    <message>
-        <source>Annotate</source>
-        <translation>標註</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1425,8 +1437,12 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>如需啟用此功能，請先至 系統偏好設定-安全性與隱私-隱私-輔助功能 新增 Snipaste。</translation>
     </message>
     <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation>你需要先啟用 UAC（使用者帳戶控制）才能完成購買。</translation>
+        <source>The purchase cannot be completed because Snipaste is running as administrator.
+To continue the purchase, please:
+* log on using the non-administrator user
+* do not disable UAC (User Account Control
+These requirements are only necessary DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1475,6 +1491,12 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>點選這裡檢視更新記錄</translation>
     </message>
     <message>
+        <source>Did you notice the red dots on the toolbar? They will show you useful tips!
+Click any of them to dismiss this notification permanently.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Color</source>
         <translation>選擇色彩</translation>
     </message>
@@ -1489,11 +1511,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Pick File</source>
         <translation>選擇檔案</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>你注意到工具列上的小紅點了嗎？
-點選它們可以取得提示哦！</translation>
     </message>
 </context>
 <context>
@@ -1622,6 +1639,22 @@ If no image window is under the cursor, all unclickable images will be made clic
 </context>
 <context>
     <name>ShortcutEdit</name>
+    <message>
+        <source>The shortcut is already in use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut has already been registered by another program.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut is too simple and would not be registered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut cannot be recognized.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Press shortcut</source>
         <translation>按下快速鍵</translation>
@@ -1792,6 +1825,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>切換至匯入分組</translation>
     </message>
     <message>
+        <source>The group title should not be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New group name:</source>
         <translation>新的分組名稱：</translation>
     </message>
@@ -1920,6 +1957,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation>%1 只對個人使用者免費。如需在公司使用，請購買專業版授權。</translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

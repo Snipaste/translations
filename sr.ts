@@ -742,6 +742,14 @@ Restart now to enjoy PRO features?</source>
         <translation>Грешка</translation>
     </message>
     <message>
+        <source>Close image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destroy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No Proxy</source>
         <translation>Без проксија</translation>
     </message>
@@ -1148,6 +1156,14 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Копирати</translation>
     </message>
     <message>
+        <source>Show toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show annotations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ignore format</source>
         <translation>Игнорисати формат</translation>
     </message>
@@ -1238,10 +1254,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Y-mirror</source>
         <translation>Огледало на Y</translation>
-    </message>
-    <message>
-        <source>Annotate</source>
-        <translation>Обележити</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1413,10 +1425,6 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Ако желите ову опцију, требате да дозволите овај програм у Security &amp; Privacyм у системска подешавања.</translation>
     </message>
     <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation>Морате да укључите UAC (User Account Control) да бисте довршили куповину.</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Поништити</translation>
     </message>
@@ -1427,6 +1435,14 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
         <translation>Ако је Snipaste већ одобрен да користи снимање екрана и ипак не ради, можда ћете морати да се поново покренете Snipaste или ваш Mac.</translation>
+    </message>
+    <message>
+        <source>The purchase cannot be completed because Snipaste is running as administrator.
+To continue the purchase, please:
+* log on using the non-administrator user
+* do not disable UAC (User Account Control
+These requirements are only necessary DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1475,6 +1491,12 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Кликнути овде за извештај промене</translation>
     </message>
     <message>
+        <source>Did you notice the red dots on the toolbar? They will show you useful tips!
+Click any of them to dismiss this notification permanently.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Color</source>
         <translation>Одабрати боју</translation>
     </message>
@@ -1489,10 +1511,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Pick File</source>
         <translation>Одабрати датотеку</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>Да ли сте видели црвене тачке на траци? Кликнути их за савете!</translation>
     </message>
 </context>
 <context>
@@ -1621,6 +1639,22 @@ If no image window is under the cursor, all unclickable images will be made clic
 </context>
 <context>
     <name>ShortcutEdit</name>
+    <message>
+        <source>The shortcut is already in use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut has already been registered by another program.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut is too simple and would not be registered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut cannot be recognized.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Press shortcut</source>
         <translation>Стиснути пречицу</translation>
@@ -1783,6 +1817,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Ићи на увежене групе</translation>
     </message>
     <message>
+        <source>The group title should not be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New group name:</source>
         <translation>Ново име групе:</translation>
     </message>
@@ -1919,6 +1957,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation>%1 је сао за личну употребу. Ако га користите у радној околини, треба PRO лиценца.</translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

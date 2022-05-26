@@ -739,6 +739,14 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Close image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destroy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No Proxy</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1139,6 +1147,14 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show annotations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ignore format</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1228,10 +1244,6 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Y-mirror</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Annotate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1389,10 +1401,6 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1414,6 +1422,14 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The purchase cannot be completed because Snipaste is running as administrator.
+To continue the purchase, please:
+* log on using the non-administrator user
+* do not disable UAC (User Account Control
+These requirements are only necessary DURING the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1463,6 +1479,12 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Did you notice the red dots on the toolbar? They will show you useful tips!
+Click any of them to dismiss this notification permanently.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1476,10 +1498,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Pick File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1608,6 +1626,22 @@ If no image window is under the cursor, all unclickable images will be made clic
 </context>
 <context>
     <name>ShortcutEdit</name>
+    <message>
+        <source>The shortcut is already in use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut has already been registered by another program.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut is too simple and would not be registered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut cannot be recognized.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Press shortcut</source>
         <translation type="unfinished"></translation>
@@ -1770,6 +1804,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The group title should not be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New group name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1905,6 +1943,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

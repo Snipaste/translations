@@ -733,6 +733,14 @@ Restart now to enjoy PRO features?</source>
         <translation>错误</translation>
     </message>
     <message>
+        <source>Close image</source>
+        <translation>关闭贴图</translation>
+    </message>
+    <message>
+        <source>Destroy image</source>
+        <translation>销毁贴图</translation>
+    </message>
+    <message>
         <source>Off</source>
         <translation>关</translation>
     </message>
@@ -1115,6 +1123,14 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>复制</translation>
     </message>
     <message>
+        <source>Show toolbar</source>
+        <translation>显示工具条</translation>
+    </message>
+    <message>
+        <source>Show annotations</source>
+        <translation>显示标注</translation>
+    </message>
+    <message>
         <source>Ignore format</source>
         <translation>忽略格式</translation>
     </message>
@@ -1237,10 +1253,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Play</source>
         <translation>播放</translation>
-    </message>
-    <message>
-        <source>Annotate</source>
-        <translation>标注</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1424,8 +1436,12 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>如需启用该特性，请先到 系统偏好设置-安全性与隐私-隐私-辅助功能 添加 Snipaste.</translation>
     </message>
     <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation>您需要先启用 UAC（用户账户控制）才能完成购买。</translation>
+        <source>The purchase cannot be completed because Snipaste is running as administrator.
+To continue the purchase, please:
+* log on using the non-administrator user
+* do not disable UAC (User Account Control
+These requirements are only necessary DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1474,6 +1490,13 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>点击这里查看更新日志</translation>
     </message>
     <message>
+        <source>Did you notice the red dots on the toolbar? They will show you useful tips!
+Click any of them to dismiss this notification permanently.
+</source>
+        <translation>你注意到工具条上的小红点了吗？点击它们可以获取提示哦！
+点击任一小红点即可永久消除该通知。</translation>
+    </message>
+    <message>
         <source>Select Color</source>
         <translation>选择颜色</translation>
     </message>
@@ -1488,11 +1511,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Pick File</source>
         <translation>选择文件</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>你注意到工具条上的小红点了吗？
-点击它们可以获取提示哦！</translation>
     </message>
 </context>
 <context>
@@ -1621,6 +1639,22 @@ If no image window is under the cursor, all unclickable images will be made clic
 </context>
 <context>
     <name>ShortcutEdit</name>
+    <message>
+        <source>The shortcut is already in use.</source>
+        <translation>该快捷键已被使用。</translation>
+    </message>
+    <message>
+        <source>The shortcut has already been registered by another program.</source>
+        <translation>该快捷键已被其他程序注册。</translation>
+    </message>
+    <message>
+        <source>The shortcut is too simple and would not be registered.</source>
+        <translation>该快捷键太简单了，注册后会影响日常打字，请考虑换一个。</translation>
+    </message>
+    <message>
+        <source>The shortcut cannot be recognized.</source>
+        <translation>无法识别的快捷键。</translation>
+    </message>
     <message>
         <source>Press shortcut</source>
         <translation>按下快捷键</translation>
@@ -1791,6 +1825,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>切换到导入组</translation>
     </message>
     <message>
+        <source>The group title should not be empty.</source>
+        <translation>贴图组的标题不能为空。</translation>
+    </message>
+    <message>
         <source>New group name:</source>
         <translation>新组名:</translation>
     </message>
@@ -1927,7 +1965,7 @@ Please launch the subscrition platform first.</source>
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2.</source>
-        <translation>你正在使用 Snipaste %1 %2 (免费版)。</translation>
+        <translation>您正在使用 Snipaste %1 %2 (免费版)。</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -1939,7 +1977,7 @@ Please launch the subscrition platform first.</source>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation>请访问&lt;a href=&quot;%1&quot;&gt;官网&lt;/a&gt;了解更多信息。</translation>
+        <translation>欢迎访问&lt;a href=&quot;%1&quot;&gt;官网&lt;/a&gt;了解专业版与免费版的详细区别。</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
@@ -1956,6 +1994,10 @@ Please launch the subscrition platform first.</source>
     <message>
         <source>Activate</source>
         <translation>激活</translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Back</source>
@@ -2003,7 +2045,7 @@ Please launch the subscrition platform first.</source>
     </message>
     <message>
         <source>Paste your license key here</source>
-        <translation>请在这里粘贴你的授权码</translation>
+        <translation>请在这里粘贴您的授权码</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -2594,7 +2636,7 @@ Specify 0 to obtain small compressed files, 100 for large uncompressed files.
 Specify -1 to let Snipaste decide for you.</source>
         <translation>范围：0 到 100 或 -1.
 设为 0 可最大压缩图像，100 为完全不压缩。
-设为 -1，Snipaste 会帮你做决定。</translation>
+设为 -1，Snipaste 会帮您做决定。</translation>
     </message>
     <message>
         <source>Preview:</source>
@@ -2728,7 +2770,7 @@ Specify -1 to let Snipaste decide for you.</source>
         <source>Let new images use smooth scaling when zooming.
 You can also find this option in the context menu of individual image window.</source>
         <translation>令新的贴图窗口使用平滑缩放。
-你也可以对每个贴图窗口进行单独设置（右键菜单）。</translation>
+您也可以对每个贴图窗口进行单独设置（右键菜单）。</translation>
     </message>
     <message>
         <source>When a new image is pasted:</source>

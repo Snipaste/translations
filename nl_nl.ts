@@ -734,6 +734,14 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
         <translation>Fout</translation>
     </message>
     <message>
+        <source>Close image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destroy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Off</source>
         <translation>Uit</translation>
     </message>
@@ -1116,6 +1124,14 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
         <translation>Kopiëren</translation>
     </message>
     <message>
+        <source>Show toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show annotations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ignore format</source>
         <translation>Formaat negeren</translation>
     </message>
@@ -1238,10 +1254,6 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     <message>
         <source>Play</source>
         <translation>Afspelen</translation>
-    </message>
-    <message>
-        <source>Annotate</source>
-        <translation>Aantekening toevoegen</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1425,8 +1437,12 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
         <translation>Voor deze functie moet dit programma toegang krijgen in Systeeminstellingen - Privacyinstellingen.</translation>
     </message>
     <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation>Je moet UAC (gebruikersaccountbeheer) inschakelen om de aankoop te voltooien.</translation>
+        <source>The purchase cannot be completed because Snipaste is running as administrator.
+To continue the purchase, please:
+* log on using the non-administrator user
+* do not disable UAC (User Account Control
+These requirements are only necessary DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1475,6 +1491,12 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
         <translation>Klik hier om het versiebestand te lezen</translation>
     </message>
     <message>
+        <source>Did you notice the red dots on the toolbar? They will show you useful tips!
+Click any of them to dismiss this notification permanently.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Color</source>
         <translation>Kleur selecteren</translation>
     </message>
@@ -1489,10 +1511,6 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     <message>
         <source>Pick File</source>
         <translation>Bestand kiezen</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>Heb je de rode stippen op de Snipaste knoppenbalk al gezien? Klik erop voor handige tips!</translation>
     </message>
 </context>
 <context>
@@ -1621,6 +1639,22 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
 </context>
 <context>
     <name>ShortcutEdit</name>
+    <message>
+        <source>The shortcut is already in use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut has already been registered by another program.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut is too simple and would not be registered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut cannot be recognized.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Press shortcut</source>
         <translation>Gebruik sneltoets</translation>
@@ -1791,6 +1825,10 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>Naar geïmporteerde groep schakelen</translation>
     </message>
     <message>
+        <source>The group title should not be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New group name:</source>
         <translation>Nieuwe groepsnaam:</translation>
     </message>
@@ -1920,6 +1958,10 @@ Start Snipaste opnieuw op.</translation>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation>%1 is alleen gratis voor PERSOONLIJK gebruik. Voor gebruik in een werkomgeving is een PRO-licentie vereist.</translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

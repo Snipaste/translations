@@ -390,7 +390,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation>すべて表示画像を選択する　[PRO]</translation>
+        <translation>すべて表示画像を選択する&#x3000;[PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
@@ -816,6 +816,14 @@ Startup on boot has been cancelled.</source>
         <translation>マウスドラッグ</translation>
     </message>
     <message>
+        <source>Close image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destroy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Transparent</source>
         <translation>透明</translation>
     </message>
@@ -1108,6 +1116,14 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>サイズ</translation>
     </message>
     <message>
+        <source>Show toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show annotations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation>ズーム</translation>
     </message>
@@ -1240,14 +1256,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>色を選択する</translation>
     </message>
     <message>
-        <source>Annotate</source>
-        <translation>注釈</translation>
-    </message>
-    <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>「X」キーのダブルクリック操作がすでに無効になった。
-マウスクリック無効化必要の場合は「環境設定　-　ショートカット」で調整 。</translation>
+マウスクリック無効化必要の場合は「環境設定&#x3000;-&#x3000;ショートカット」で調整 。</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -1327,7 +1339,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation>デスクトップ　%1</translation>
+        <translation>デスクトップ&#x3000;%1</translation>
     </message>
     <message>
         <source>Copy raw HTML</source>
@@ -1349,7 +1361,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation>画像ウィンドウをダブルクリックし、ウィンドウが閉じる。
-環境設定で本動作を調整できる：コントロール　-　マウス。</translation>
+環境設定で本動作を調整できる：コントロール&#x3000;-&#x3000;マウス。</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
@@ -1425,8 +1437,12 @@ Snipasteを管理者権限で再試行してください。</translation>
         <translation>この機能を使用するには、システム環境設定にある「セキュリティとプライバシー」でこのソフトにアクセス許可を与えてください。</translation>
     </message>
     <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation>購入手続きを完成するために、UAC（ユーザーアカウントコントロール）をオンにする必要です。</translation>
+        <source>The purchase cannot be completed because Snipaste is running as administrator.
+To continue the purchase, please:
+* log on using the non-administrator user
+* do not disable UAC (User Account Control
+These requirements are only necessary DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1475,6 +1491,12 @@ Snipasteを管理者権限で再試行してください。</translation>
         <translation>ここをクリックして変更履歴を見られます</translation>
     </message>
     <message>
+        <source>Did you notice the red dots on the toolbar? They will show you useful tips!
+Click any of them to dismiss this notification permanently.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Color</source>
         <translation>色を選択する</translation>
     </message>
@@ -1489,10 +1511,6 @@ Snipasteを管理者権限で再試行してください。</translation>
     <message>
         <source>Pick File</source>
         <translation>ファイルを選択する</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>ツールバーの赤い点に気づきましたか？クリックするとヒントが出てきますよ！</translation>
     </message>
 </context>
 <context>
@@ -1622,6 +1640,22 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>ShortcutEdit</name>
     <message>
+        <source>The shortcut is already in use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut has already been registered by another program.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut is too simple and would not be registered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut cannot be recognized.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press shortcut</source>
         <translation>ショートカットを押す</translation>
     </message>
@@ -1677,6 +1711,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Failed to save the image!</source>
         <translation>画像の保存に失敗しました!</translation>
+    </message>
+    <message>
+        <source>The group title should not be empty.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
@@ -1919,6 +1957,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation>%1は個人使用のみ無料です。職場で使用する場合は、PRO版ライセンスをご購入ください。</translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

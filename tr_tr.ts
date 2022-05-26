@@ -812,6 +812,14 @@ Açılışta başlatma iptal edildi.</translation>
         <translation>Hızlı kaydet</translation>
     </message>
     <message>
+        <source>Close image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destroy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Transparent</source>
         <translation>Şeffaflık</translation>
     </message>
@@ -1162,10 +1170,6 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
         <translation>Kopyala</translation>
     </message>
     <message>
-        <source>Annotate</source>
-        <translation>Açıklama</translation>
-    </message>
-    <message>
         <source>Ignore format</source>
         <translation>Biçimi yoksay</translation>
     </message>
@@ -1302,6 +1306,14 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
         <translation>Sonraki çerçeve</translation>
     </message>
     <message>
+        <source>Show toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show annotations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rotate right</source>
         <translation>Sağa döndür</translation>
     </message>
@@ -1416,15 +1428,19 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
         <translation>Bu özelliği isterseniz, lütfen bu uygulamaya Sistem Ayarları&apos;nda bulunan Güvenlik ve Gizlilik tercihlerinde erişim izni verin.</translation>
     </message>
     <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The purchase cannot be completed because Snipaste is running as administrator.
+To continue the purchase, please:
+* log on using the non-administrator user
+* do not disable UAC (User Account Control
+These requirements are only necessary DURING the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1474,6 +1490,12 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
         <translation>Değişiklikleri görmek için tıklayın</translation>
     </message>
     <message>
+        <source>Did you notice the red dots on the toolbar? They will show you useful tips!
+Click any of them to dismiss this notification permanently.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Color</source>
         <translation>Renk seç</translation>
     </message>
@@ -1488,10 +1510,6 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     <message>
         <source>Pick File</source>
         <translation>Dosya seç</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>Araç çubuğundaki kırmızı noktayı fark ettin mi? Yararlı ipuçları almak için onları tıklatın!</translation>
     </message>
 </context>
 <context>
@@ -1620,6 +1638,22 @@ If no image window is under the cursor, all unclickable images will be made clic
 </context>
 <context>
     <name>ShortcutEdit</name>
+    <message>
+        <source>The shortcut is already in use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut has already been registered by another program.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut is too simple and would not be registered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut cannot be recognized.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Press shortcut</source>
         <translation>Kısayol tuşuna basın</translation>
@@ -1822,6 +1856,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Snipaste görüntü grupları</translation>
     </message>
     <message>
+        <source>The group title should not be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New group name:</source>
         <translation>Yeni grup adı:</translation>
     </message>
@@ -1918,6 +1956,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation>%1 sadece KİŞİSEL KULLANIM için ücretsizdir. İşyerinde kullanmak istiyorsanız, PRO lisansı gereklidir.</translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

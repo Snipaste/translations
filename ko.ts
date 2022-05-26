@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ko">
 <context>
@@ -740,6 +740,14 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
         <translation>오류</translation>
     </message>
     <message>
+        <source>Close image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destroy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No Proxy</source>
         <translation>프록시 없음</translation>
     </message>
@@ -1145,6 +1153,14 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>복사</translation>
     </message>
     <message>
+        <source>Show toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show annotations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ignore format</source>
         <translation>형식을 무시</translation>
     </message>
@@ -1235,10 +1251,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Y-mirror</source>
         <translation>Y-mirror</translation>
-    </message>
-    <message>
-        <source>Annotate</source>
-        <translation>주석</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1421,8 +1433,12 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>이 기능을 원하면 시스템 환경 설정의 보안 및 개인 정보 환경 설정에서이 응용 프로그램에 대한 액세스 권한을 부여하십시오.</translation>
     </message>
     <message>
-        <source>You need to turn on UAC (User Account Control) in order to complete the purchase.</source>
-        <translation>구매를 완료하려면 UAC (사용자 계정 컨트롤)를 켜야합니다.</translation>
+        <source>The purchase cannot be completed because Snipaste is running as administrator.
+To continue the purchase, please:
+* log on using the non-administrator user
+* do not disable UAC (User Account Control
+These requirements are only necessary DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1471,6 +1487,12 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>변경 내역을 보려면 여기를 클릭하십시오.</translation>
     </message>
     <message>
+        <source>Did you notice the red dots on the toolbar? They will show you useful tips!
+Click any of them to dismiss this notification permanently.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Color</source>
         <translation>색상 선택</translation>
     </message>
@@ -1485,10 +1507,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Pick File</source>
         <translation>파일 선택</translation>
-    </message>
-    <message>
-        <source>Did you notice the red dots on the toolbar? Click them to get useful tips!</source>
-        <translation>툴바에 빨간 점이 보입니까? 유용한 팁을 얻으려면 클릭하세요!</translation>
     </message>
 </context>
 <context>
@@ -1617,6 +1635,22 @@ If no image window is under the cursor, all unclickable images will be made clic
 </context>
 <context>
     <name>ShortcutEdit</name>
+    <message>
+        <source>The shortcut is already in use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut has already been registered by another program.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut is too simple and would not be registered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut cannot be recognized.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Press shortcut</source>
         <translation>단축키 누르기</translation>
@@ -1779,6 +1813,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>가져온 그룹 전환하기</translation>
     </message>
     <message>
+        <source>The group title should not be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New group name:</source>
         <translation>새로운 그룹 이름</translation>
     </message>
@@ -1916,6 +1954,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation>%1는 개인 용도로만 무료입니다. 직장에서 사용하려면 PRO 라이센스가 필요합니다.</translation>
+    </message>
+    <message>
+        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
