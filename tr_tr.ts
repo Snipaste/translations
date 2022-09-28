@@ -5,7 +5,7 @@
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Renk seç</translation>
+        <translation>Renk seç</translation>
     </message>
 </context>
 <context>
@@ -199,7 +199,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>More examples...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha fazla örnek...</translation>
     </message>
 </context>
 <context>
@@ -382,59 +382,59 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüntü penceresini kapat</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Renk çevirmeyi aç/kapat [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünür tüm görüntü pencerelerini seçin [PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>Fare tekerleği veya 1/2 veya [/]</translation>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzenleme modundaysa mevcut şeklin seçimini kaldır</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzenleme modundaysa kalem genişliğini azalt/artır</translation>
     </message>
     <message>
         <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Son kırpma alanını yeniden kullan</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırpma geçmişini oynat</translation>
     </message>
     <message>
         <source>Capture full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Tam ekran yakala</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırpma alanını 1 piksel taşı</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalem genişliğini ayarla</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>Ana/yan arayüz öğesini seçin</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
-        <translation type="unfinished"></translation>
+        <translation>Alanı merkezden yeniden boyutlandır</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzenleme öğesinin seçimini kaldır</translation>
     </message>
 </context>
 <context>
@@ -616,15 +616,15 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     </message>
     <message>
         <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırpma yapmadan önce etkin pencere başlığı</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>Yukarıdakiyle aynı, ancak karakter sayısı 50 ile sınırlıdır</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel değişkenler</translation>
     </message>
 </context>
 <context>
@@ -813,11 +813,11 @@ Açılışta başlatma iptal edildi.</translation>
     </message>
     <message>
         <source>Close image</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüntüyü kapat</translation>
     </message>
     <message>
         <source>Destroy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüntüyü kaldır</translation>
     </message>
     <message>
         <source>Transparent</source>
@@ -955,7 +955,7 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırp, kopyala ve sabitle</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
@@ -963,23 +963,23 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Ücretsiz</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>İtalyan</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayı</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Büyüt</translation>
     </message>
 </context>
 <context>
@@ -1010,35 +1010,35 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Genişlik:</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayı</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">Silgi</translation>
+        <translation>Silgi</translation>
     </message>
     <message>
         <source>Text background</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin arka planı</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeniden yap</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalem genişliğini değiştirmek için lütfen fare tekerleğini kaydırın veya &apos;1&apos; veya &apos;2&apos;ye basın veya &apos;[&apos; veya &apos;]&apos; tuşuna basın.</translation>
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Köşe yarıçapı:</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfa:</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -1046,7 +1046,7 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Filled rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolu dikdörtgen</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1074,11 +1074,11 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Büyüt</translation>
     </message>
     <message>
         <source>Clear content</source>
-        <translation type="unfinished"></translation>
+        <translation>İçeriği temizle</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1086,7 +1086,7 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>Pürüzsüzlüğü aç/kapat</translation>
     </message>
 </context>
 <context>
@@ -1307,11 +1307,11 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Araç çubuğunu göster</translation>
     </message>
     <message>
         <source>Show annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Ek açıklamaları göster</translation>
     </message>
     <message>
         <source>Rotate right</source>
@@ -1343,36 +1343,37 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Copy raw HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham HTML&apos;yi kopyala</translation>
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ölçeklendirilmemiş resmi farklı kaydet...</translation>
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>Rengi ters çevir</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ters çevrilmiş renk</translation>
     </message>
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüntü penceresine çift tıklama pencereyi kapatacaktır.
+Bu davranışı Tercihler İletişim Kutusu: Kontrol - Fare. kısmından yapılandırabilirsiniz.</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçili resimleri şuraya aktar...</translation>
     </message>
     <message>
         <source>Output Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıktı Seçenekleri</translation>
     </message>
     <message>
         <source>Show hidden images</source>
-        <translation type="unfinished"></translation>
+        <translation>Gizli resimleri göster</translation>
     </message>
 </context>
 <context>
@@ -1429,11 +1430,11 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
     </message>
     <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran görüntüsü almak için Snipaste, Ekran Kaydı iznine ihtiyaç duyar.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste, Ekran Kaydı listesinde zaten işaretlenmişse ve hala çalışmıyorsa, Snipaste&apos;i yeniden başlatmanız veya Mac&apos;inizi yeniden başlatmanız gerekebilir.</translation>
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running as administrator.
@@ -1441,26 +1442,30 @@ To continue the purchase, please:
 * log on using the non-administrator user
 * do not disable UAC (User Account Control
 These requirements are only necessary DURING the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste yönetici olarak çalıştığı için satın alma tamamlanamıyor.
+Satın almaya devam etmek için lütfen:
+* yönetici olmayan kullanıcıyı kullanarak oturum açın
+* UAC&apos;yi (Kullanıcı Hesabı Denetimi) devre dışı bırakmayın
+Bu gereksinimler yalnızca satın alma SIRASINDA gereklidir.</translation>
     </message>
 </context>
 <context>
     <name>ResolutionItem</name>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş bölgesi boyutu</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Boyut birimini değiştir</translation>
     </message>
     <message>
         <source>Lock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>En boy oranını kilitle</translation>
     </message>
     <message>
         <source>Refresh screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran görüntüsünü yenile</translation>
     </message>
 </context>
 <context>
@@ -1493,7 +1498,9 @@ These requirements are only necessary DURING the purchase.</source>
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Araç çubuğundaki kırmızı noktaları fark ettiniz mi? Size yararlı ipuçları gösterecekler!
+Bu bildirimi kalıcı olarak kapatmak için bunlardan herhangi birini tıklayın.
+</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1621,38 +1628,38 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Gölgeli kırp</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırp, kopyala ve sabitle</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Şeffaf beyaz tahta moduna girin (Çıkmak için Esc&apos;ye iki kez dokunun)</translation>
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished">Kırpma kayıtlarını temizle</translation>
+        <translation>Kırpma kayıtlarını temizle</translation>
     </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kısayol zaten kullanılıyor.</translation>
     </message>
     <message>
         <source>The shortcut has already been registered by another program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kısayol zaten başka bir program tarafından kaydedilmiş.</translation>
     </message>
     <message>
         <source>The shortcut is too simple and would not be registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kısayol çok basit ve kaydedilmeyecek.</translation>
     </message>
     <message>
         <source>The shortcut cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kısayol tanınamıyor.</translation>
     </message>
     <message>
         <source>Press shortcut</source>
@@ -1667,7 +1674,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Şablonlara ekle</translation>
     </message>
 </context>
 <context>
@@ -1857,7 +1864,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The group title should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Grup başlığı boş bırakılmamalıdır.</translation>
     </message>
     <message>
         <source>New group name:</source>
@@ -1904,19 +1911,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nokta (pt)</translation>
     </message>
     <message>
         <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiziksel(p) piksel(x) (px)</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cihazdan(d) bağımsız(i) piksel(p) (dip)</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hata: görüntüleme aygıtı algılanamıyor. Lütfen Snipaste&apos;i yeniden başlatın.</translation>
     </message>
 </context>
 <context>
@@ -1959,7 +1966,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO ile ücretsiz arasında bir karşılaştırma için lütfen &lt;a href=&quot;%1&quot;&gt;web sitesini&lt;/a&gt; ziyaret edin.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -2023,11 +2030,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The PRO version unlocks more than 40 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO sürümü, 40&apos;tan fazla kullanışlı özelliğin kilidini açar!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisans, Snipaste 2&apos;yi tüm 2.x güncellemeleriyle sonsuza kadar kullanmanıza izin verir.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
@@ -2035,11 +2042,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Mağazası için</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Masaüstü)</translation>
     </message>
 </context>
 <context>
@@ -3267,19 +3274,19 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Büyütme seviyesi:</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya İletişim Kutusu gösterildiğinde maskelemeyi devre dışı bırak</translation>
     </message>
     <message>
         <source>Show fullscreen cross lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Tam ekran çapraz çizgileri göster</translation>
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya İletişim Kutusu gösterildiğinde tüm görüntü pencerelerini gizle</translation>
     </message>
     <message>
         <source>Ignored list:</source>
@@ -3291,63 +3298,64 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Oto</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosyayı içeren klasörü açınız</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Anahtar bağlama ipuçlarını göster</translation>
     </message>
     <message>
         <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Diğer uygulamalar tarafından simüle edilen &quot;Kopyala&quot; komutunu yoksay</translation>
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Renk sayısı:</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleti özelleştirmek için renk düğmelerini tıklayın veya sürükleyin.</translation>
     </message>
     <message>
         <source>Follow system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem temasını takip et</translation>
     </message>
     <message>
         <source>Disable reedition for Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>Silgi için yeniden basımı devre dışı bırak</translation>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Paylaş&quot; düğmesini göster</translation>
     </message>
     <message>
         <source>Max window size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimum pencere boyutu:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Değişikliğin etkili olması için Snipaste&apos;i yeniden başlatın.
+&quot;Paylaş&quot; butonunun görünmesi için Snipaste yükseltilmiş olarak çalıştırılmamalıdır.</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıktı Seçenekleri:</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gölge:</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sınır:</translation>
     </message>
 </context>
 <context>
@@ -3378,7 +3386,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Paylaş</translation>
     </message>
 </context>
 <context>
@@ -3393,23 +3401,23 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     </message>
     <message>
         <source>Font scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazı tipi boyutu</translation>
     </message>
     <message>
         <source>Pen style</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalem stili</translation>
     </message>
     <message>
         <source>Filled ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolu elips</translation>
     </message>
     <message>
         <source>Line start</source>
-        <translation type="unfinished"></translation>
+        <translation>Satır başı</translation>
     </message>
     <message>
         <source>Line end</source>
-        <translation type="unfinished"></translation>
+        <translation>Satır sonu</translation>
     </message>
 </context>
 <context>
@@ -3453,7 +3461,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     <name>unlockprodialog</name>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>VEYA</translation>
     </message>
 </context>
 <context>
