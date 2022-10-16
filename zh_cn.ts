@@ -1,6 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_CN" sourcelanguage="en_US">
+<context>
+    <name>BarcodeButton</name>
+    <message>
+        <source>Follow link</source>
+        <translation>打开链接</translation>
+    </message>
+    <message>
+        <source>%1+Click to follow link</source>
+        <translation>按住 %1 并单击可访问链接</translation>
+    </message>
+    <message>
+        <source>Copy text</source>
+        <translation>复制文本</translation>
+    </message>
+</context>
 <context>
     <name>ColorBoard</name>
     <message>
@@ -823,6 +838,12 @@ Startup on boot has been cancelled.</source>
         <translation>鼠标左键拖拽</translation>
     </message>
     <message>
+        <source>Restart is required for the change to take effect.
+Restart Snipaste now?</source>
+        <translation>需要重启 Snipaste 以使修改生效。
+现在重启 Snipaste?</translation>
+    </message>
+    <message>
         <source>Transparent</source>
         <translation>透明</translation>
     </message>
@@ -1207,6 +1228,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>垂直镜像</translation>
     </message>
     <message>
+        <source>Quit annotating</source>
+        <translation>退出标注</translation>
+    </message>
+    <message>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
@@ -1436,31 +1461,17 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>如需启用该特性，请先到 系统偏好设置-安全性与隐私-隐私-辅助功能 添加 Snipaste.</translation>
     </message>
     <message>
-        <source>The purchase cannot be completed because Snipaste is running as administrator.
-To continue the purchase, please:
-* log on using the non-administrator user
-* do not disable UAC (User Account Control
-These requirements are only necessary DURING the purchase.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ResolutionItem</name>
-    <message>
-        <source>Input region size</source>
-        <translation>输入区域大小</translation>
+        <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
+        <translation>由于 Snipaste 正在以管理员身份运行，导致无法完成购买。</translation>
     </message>
     <message>
-        <source>Change size unit</source>
-        <translation>更改尺寸单位</translation>
+        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
+        <translation>请尝试以普通用户或访客用户登录操作系统，然后继续购买。
+在购买完成后，您可以切换回当前用户。</translation>
     </message>
     <message>
-        <source>Lock aspect ratio</source>
-        <translation>锁定长宽比</translation>
-    </message>
-    <message>
-        <source>Refresh screenshot</source>
-        <translation>刷新截屏</translation>
+        <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
+        <translation>您是否禁用了 UAC (用户账户控制)？请在购买前从系统设置中启用它，购买后您可以恢复设置。</translation>
     </message>
 </context>
 <context>
@@ -1837,10 +1848,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>确定要关闭 &quot;%1&quot; 吗？此操作将不能撤销。</translation>
     </message>
     <message>
-        <source>Default</source>
-        <translation>默认</translation>
-    </message>
-    <message>
         <source>Remove empty groups</source>
         <translation>清除空组</translation>
     </message>
@@ -1873,6 +1880,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>解锁专业版...</translation>
     </message>
     <message>
+        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <translation>确定要贴出所有图片吗？(数量: %1)</translation>
+    </message>
+    <message>
         <source>Export image group(s)</source>
         <translation>导出贴图组</translation>
     </message>
@@ -1894,7 +1905,22 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>Snipaste::PGroup</name>
+    <message>
+        <source>Default</source>
+        <translation>默认</translation>
+    </message>
+</context>
+<context>
     <name>Snipper</name>
+    <message>
+        <source>Lock aspect ratio (on)</source>
+        <translation>锁定长宽比 (开)</translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio (off)</source>
+        <translation>锁定长宽比 (关)</translation>
+    </message>
     <message>
         <source>Do you want to abort snipping?</source>
         <translation>确定要退出截屏吗？</translation>
@@ -1914,6 +1940,20 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Device-independent pixel (dip)</source>
         <translation>逻辑像素 (dip)</translation>
+    </message>
+    <message>
+        <source>Input region size</source>
+        <translation>输入区域大小</translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation>更改尺寸单位</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot
+(Long press to keep refreshing)</source>
+        <translation>刷新截图
+(长按可持续刷新)</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -1997,7 +2037,7 @@ Please launch the subscrition platform first.</source>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation type="unfinished"></translation>
+        <translation>欢迎访问&lt;a href=&quot;%1&quot;&gt;官网&lt;/a&gt;了解专业版与免费版的详细区别。</translation>
     </message>
     <message>
         <source>Back</source>
@@ -3375,6 +3415,30 @@ When the limit is reached, the oldest one will be destroyed.</source>
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
         <translation>重启 Snipaste 以生效。
 请不要以管理员权限启动 Snipaste，否则将无法显示分享按钮。</translation>
+    </message>
+    <message>
+        <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
+It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
+        <translation>选中过，贴图在跨屏移动时将不会根据屏幕的缩放系数自动缩放。
+如果你在使用远程桌面，这可以保持贴图窗口的布局。</translation>
+    </message>
+    <message>
+        <source>Disable window scaling on high DPI</source>
+        <translation>高 DPI 设置时禁用贴图窗口缩放</translation>
+    </message>
+    <message>
+        <source>Remember last used image extension</source>
+        <translation>记住上一次使用的图片扩展名</translation>
+    </message>
+    <message>
+        <source>Enable selecting any types of drawn annotations on hovering.
+If unchecked, only the active type of annotations can be selected on hovering.</source>
+        <translation>允许选中任意类型的已绘制的标注。
+如果取消选中，对于已绘制的标注，只有当前选中类型的标注才可以在鼠标悬停时被选中。</translation>
+    </message>
+    <message>
+        <source>Free select</source>
+        <translation>自由选中</translation>
     </message>
 </context>
 <context>

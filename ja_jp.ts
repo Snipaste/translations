@@ -2,6 +2,21 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ja_JP" sourcelanguage="en_US">
 <context>
+    <name>BarcodeButton</name>
+    <message>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1+Click to follow link</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
@@ -816,6 +831,11 @@ Startup on boot has been cancelled.</source>
         <translation>マウスドラッグ</translation>
     </message>
     <message>
+        <source>Restart is required for the change to take effect.
+Restart Snipaste now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Close image</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1140,6 +1160,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>グループ</translation>
     </message>
     <message>
+        <source>Quit annotating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Paste</source>
         <translation>貼り付け</translation>
     </message>
@@ -1437,31 +1461,16 @@ Snipasteを管理者権限で再試行してください。</translation>
         <translation>この機能を使用するには、システム環境設定にある「セキュリティとプライバシー」でこのソフトにアクセス許可を与えてください。</translation>
     </message>
     <message>
-        <source>The purchase cannot be completed because Snipaste is running as administrator.
-To continue the purchase, please:
-* log on using the non-administrator user
-* do not disable UAC (User Account Control
-These requirements are only necessary DURING the purchase.</source>
+        <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ResolutionItem</name>
     <message>
-        <source>Input region size</source>
-        <translation>エリアサイスをインプットする</translation>
+        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change size unit</source>
-        <translation>寸法単位を変更する</translation>
-    </message>
-    <message>
-        <source>Lock aspect ratio</source>
-        <translation>サイズ比率をロックする</translation>
-    </message>
-    <message>
-        <source>Refresh screenshot</source>
-        <translation>スクリーンショットを更新する</translation>
+        <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1737,10 +1746,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>空グループを削除する</translation>
     </message>
     <message>
-        <source>Default</source>
-        <translation>デフォルト</translation>
-    </message>
-    <message>
         <source>Save image as</source>
         <translation>画像を保存する</translation>
     </message>
@@ -1775,6 +1780,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Fail to import group.</source>
         <translation>グループのインポートに失敗。</translation>
+    </message>
+    <message>
+        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File %1 not found.</source>
@@ -1894,7 +1903,22 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>Snipaste::PGroup</name>
+    <message>
+        <source>Default</source>
+        <translation>デフォルト</translation>
+    </message>
+</context>
+<context>
     <name>Snipper</name>
+    <message>
+        <source>Lock aspect ratio (on)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio (off)</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Do you want to abort snipping?</source>
         <translation>切り取りを中止しますか？</translation>
@@ -1914,6 +1938,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Device-independent pixel (dip)</source>
         <translation>密度独立ピクセル（dip）</translation>
+    </message>
+    <message>
+        <source>Input region size</source>
+        <translation>エリアサイスをインプットする</translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation>寸法単位を変更する</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot
+(Long press to keep refreshing)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -3335,6 +3372,28 @@ When the limit is reached, the oldest one will be destroyed.</source>
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
         <translation>Snipasteを再起動する。
 シェアボタンが表示できなくなりますので、管理者権限で起動しないようにお気を付けください。</translation>
+    </message>
+    <message>
+        <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
+It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable window scaling on high DPI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable selecting any types of drawn annotations on hovering.
+If unchecked, only the active type of annotations can be selected on hovering.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember last used image extension</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

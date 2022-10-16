@@ -2,6 +2,21 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_TW" sourcelanguage="en_US">
 <context>
+    <name>BarcodeButton</name>
+    <message>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1+Click to follow link</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
@@ -734,6 +749,11 @@ Restart now to enjoy PRO features?</source>
         <translation>錯誤</translation>
     </message>
     <message>
+        <source>Restart is required for the change to take effect.
+Restart Snipaste now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Close image</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1208,6 +1228,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>垂直映像</translation>
     </message>
     <message>
+        <source>Quit annotating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Destroy</source>
         <translation>銷毀</translation>
     </message>
@@ -1437,31 +1461,16 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>如需啟用此功能，請先至 系統偏好設定-安全性與隱私-隱私-輔助功能 新增 Snipaste。</translation>
     </message>
     <message>
-        <source>The purchase cannot be completed because Snipaste is running as administrator.
-To continue the purchase, please:
-* log on using the non-administrator user
-* do not disable UAC (User Account Control
-These requirements are only necessary DURING the purchase.</source>
+        <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ResolutionItem</name>
     <message>
-        <source>Input region size</source>
-        <translation>輸入區域大小</translation>
+        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change size unit</source>
-        <translation>變更尺寸單位</translation>
-    </message>
-    <message>
-        <source>Lock aspect ratio</source>
-        <translation>鎖定長寬比</translation>
-    </message>
-    <message>
-        <source>Refresh screenshot</source>
-        <translation>重新整理螢幕擷取畫面</translation>
+        <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1761,6 +1770,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>無效的命令列參數。</translation>
     </message>
     <message>
+        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Success</source>
         <translation>成功</translation>
     </message>
@@ -1837,10 +1850,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>確定要關閉 &quot;%1&quot; 嗎？此操作將不能還原。</translation>
     </message>
     <message>
-        <source>Default</source>
-        <translation>預設</translation>
-    </message>
-    <message>
         <source>Remove empty groups</source>
         <translation>刪除空分組</translation>
     </message>
@@ -1894,7 +1903,22 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>Snipaste::PGroup</name>
+    <message>
+        <source>Default</source>
+        <translation>預設</translation>
+    </message>
+</context>
+<context>
     <name>Snipper</name>
+    <message>
+        <source>Lock aspect ratio (on)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio (off)</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Do you want to abort snipping?</source>
         <translation>你確定要結束擷圖嗎？</translation>
@@ -1914,6 +1938,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Device-independent pixel (dip)</source>
         <translation>裝置獨立畫素 (dip)</translation>
+    </message>
+    <message>
+        <source>Input region size</source>
+        <translation>輸入區域大小</translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation>變更尺寸單位</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot
+(Long press to keep refreshing)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -3335,6 +3372,28 @@ When the limit is reached, the oldest one will be destroyed.</source>
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
         <translation>重啟 Snipaste 以生效。
 請不要以管理員權限啟動 Snipaste，否則將無法顯示分享按鈕。</translation>
+    </message>
+    <message>
+        <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
+It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable window scaling on high DPI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable selecting any types of drawn annotations on hovering.
+If unchecked, only the active type of annotations can be selected on hovering.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember last used image extension</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
