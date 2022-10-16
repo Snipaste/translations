@@ -2,6 +2,21 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="nl_NL" sourcelanguage="en_US">
 <context>
+    <name>BarcodeButton</name>
+    <message>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1+Click to follow link</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
@@ -734,6 +749,11 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
         <translation>Fout</translation>
     </message>
     <message>
+        <source>Restart is required for the change to take effect.
+Restart Snipaste now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Close image</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1212,6 +1232,10 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
         <translation>Y-spiegelen</translation>
     </message>
     <message>
+        <source>Quit annotating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Destroy</source>
         <translation>Vernietigen</translation>
     </message>
@@ -1437,31 +1461,16 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
         <translation>Voor deze functie moet dit programma toegang krijgen in Systeeminstellingen - Privacyinstellingen.</translation>
     </message>
     <message>
-        <source>The purchase cannot be completed because Snipaste is running as administrator.
-To continue the purchase, please:
-* log on using the non-administrator user
-* do not disable UAC (User Account Control
-These requirements are only necessary DURING the purchase.</source>
+        <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ResolutionItem</name>
     <message>
-        <source>Input region size</source>
-        <translation>Afmetingen knipgebied invoeren</translation>
+        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change size unit</source>
-        <translation>Eenheid aanpassen</translation>
-    </message>
-    <message>
-        <source>Lock aspect ratio</source>
-        <translation>Verhouding vergrendelen</translation>
-    </message>
-    <message>
-        <source>Refresh screenshot</source>
-        <translation>Schermopname vernieuwen</translation>
+        <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1761,6 +1770,10 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>Fout in opdrachtregel.</translation>
     </message>
     <message>
+        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Success</source>
         <translation>Gereed</translation>
     </message>
@@ -1837,10 +1850,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>Wil je &quot;%1&quot; sluiten? Dit kan niet ongedaan worden.</translation>
     </message>
     <message>
-        <source>Default</source>
-        <translation>Standaard</translation>
-    </message>
-    <message>
         <source>Remove empty groups</source>
         <translation>Lege groepen verwijderen</translation>
     </message>
@@ -1894,7 +1903,22 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
 </context>
 <context>
+    <name>Snipaste::PGroup</name>
+    <message>
+        <source>Default</source>
+        <translation>Standaard</translation>
+    </message>
+</context>
+<context>
     <name>Snipper</name>
+    <message>
+        <source>Lock aspect ratio (on)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio (off)</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Do you want to abort snipping?</source>
         <translation>Wil je Knippen afbreken?</translation>
@@ -1914,6 +1938,19 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Device-independent pixel (dip)</source>
         <translation>Apparaatonafhankelijke pixel (dip)</translation>
+    </message>
+    <message>
+        <source>Input region size</source>
+        <translation>Afmetingen knipgebied invoeren</translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation>Eenheid aanpassen</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot
+(Long press to keep refreshing)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -3336,6 +3373,28 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
         <translation>Start Snipaste opnieuw om de wijziging door te voeren.
 Snipaste mag niet met beheerdersrechten worden uitgevoerd om de knop &quot;Delen&quot; weer te geven.</translation>
+    </message>
+    <message>
+        <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
+It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable window scaling on high DPI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable selecting any types of drawn annotations on hovering.
+If unchecked, only the active type of annotations can be selected on hovering.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember last used image extension</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

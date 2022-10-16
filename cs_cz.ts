@@ -2,6 +2,21 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="cs_CZ">
 <context>
+    <name>BarcodeButton</name>
+    <message>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1+Click to follow link</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
@@ -771,6 +786,11 @@ Restart now to enjoy PRO features?</source>
         <translation>Chyba</translation>
     </message>
     <message>
+        <source>Restart is required for the change to take effect.
+Restart Snipaste now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No Proxy</source>
         <translation>Žádné Proxy</translation>
     </message>
@@ -1333,6 +1353,10 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation>Y-zrcadlení</translation>
     </message>
     <message>
+        <source>Quit annotating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy raw HTML</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1427,30 +1451,15 @@ Spusťte Snipaste s právy správce a zkuste znovu provést nastavení.</transla
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The purchase cannot be completed because Snipaste is running as administrator.
-To continue the purchase, please:
-* log on using the non-administrator user
-* do not disable UAC (User Account Control
-These requirements are only necessary DURING the purchase.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ResolutionItem</name>
-    <message>
-        <source>Input region size</source>
+        <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change size unit</source>
+        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lock aspect ratio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh screenshot</source>
+        <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1794,6 +1803,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Konec</translation>
     </message>
     <message>
+        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>is already running.</source>
         <translation>stále běží.</translation>
     </message>
@@ -1858,10 +1871,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Jste si jisti, že chcete zavřít &quot;%1&quot;? Tuto akci nelze vzít zpět.</translation>
     </message>
     <message>
-        <source>Default</source>
-        <translation>Výchozí</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Úspěch</translation>
     </message>
@@ -1883,7 +1892,22 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>Snipaste::PGroup</name>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished">Výchozí</translation>
+    </message>
+</context>
+<context>
     <name>Snipper</name>
+    <message>
+        <source>Lock aspect ratio (on)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio (off)</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Do you want to abort snipping?</source>
         <translation type="unfinished"></translation>
@@ -1902,6 +1926,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input region size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh screenshot
+(Long press to keep refreshing)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3318,6 +3355,28 @@ Pokud nějaké objevíte, prosím, oznamte to vývojáři.</translation>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
+It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable window scaling on high DPI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable selecting any types of drawn annotations on hovering.
+If unchecked, only the active type of annotations can be selected on hovering.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember last used image extension</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

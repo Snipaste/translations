@@ -2,6 +2,21 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="pt_PT">
 <context>
+    <name>BarcodeButton</name>
+    <message>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1+Click to follow link</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
@@ -742,6 +757,11 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
         <translation>Erro</translation>
     </message>
     <message>
+        <source>Restart is required for the change to take effect.
+Restart Snipaste now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Close image</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1256,6 +1276,10 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
         <translation>Espelho-Y</translation>
     </message>
     <message>
+        <source>Quit annotating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>A acção &apos;Toque duplo X&apos; foi cancelada.
@@ -1437,31 +1461,16 @@ Deve reiniciar o Snipaste como administrador e tentar de novo.</translation>
         <translation>Se pretende esta função permita o acesso a este programa nas Preferências de Segurança&amp; Privacidade localizadas nas Preferências do Sistema.</translation>
     </message>
     <message>
-        <source>The purchase cannot be completed because Snipaste is running as administrator.
-To continue the purchase, please:
-* log on using the non-administrator user
-* do not disable UAC (User Account Control
-These requirements are only necessary DURING the purchase.</source>
+        <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ResolutionItem</name>
     <message>
-        <source>Input region size</source>
-        <translation>Introduzir tamanho da região</translation>
+        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change size unit</source>
-        <translation>Alterar unidade de tamanho</translation>
-    </message>
-    <message>
-        <source>Lock aspect ratio</source>
-        <translation>Bloquear proporção</translation>
-    </message>
-    <message>
-        <source>Refresh screenshot</source>
-        <translation>Actualizar captura</translation>
+        <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1733,6 +1742,10 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <translation>Fechar</translation>
     </message>
     <message>
+        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Import image group</source>
         <translation>Importar grupo de imagens</translation>
     </message>
@@ -1841,10 +1854,6 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <translation>Tem a certeza que quer fechar o &quot;%1&quot;? Esta acção não pode anulada.</translation>
     </message>
     <message>
-        <source>Default</source>
-        <translation>Padrão</translation>
-    </message>
-    <message>
         <source>Snipaste %1 is released!</source>
         <translation>Foi lançado o Snipaste %1!</translation>
     </message>
@@ -1894,7 +1903,22 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
 </context>
 <context>
+    <name>Snipaste::PGroup</name>
+    <message>
+        <source>Default</source>
+        <translation>Padrão</translation>
+    </message>
+</context>
+<context>
     <name>Snipper</name>
+    <message>
+        <source>Lock aspect ratio (on)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio (off)</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Do you want to abort snipping?</source>
         <translation>Deseja abortar a captura?</translation>
@@ -1914,6 +1938,19 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <message>
         <source>Device-independent pixel (dip)</source>
         <translation>Píxel dispositivo-independente (dip)</translation>
+    </message>
+    <message>
+        <source>Input region size</source>
+        <translation>Introduzir tamanho da região</translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation>Alterar unidade de tamanho</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot
+(Long press to keep refreshing)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -3335,6 +3372,28 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
         <translation>Reiniciar o Snipaste para a alteração produzir efeito.
 O Snipaste não deve ser executado em modo elevado para poder mostrar o botão &quot;Partilhar&quot;.</translation>
+    </message>
+    <message>
+        <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
+It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable window scaling on high DPI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable selecting any types of drawn annotations on hovering.
+If unchecked, only the active type of annotations can be selected on hovering.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember last used image extension</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

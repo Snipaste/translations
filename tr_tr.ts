@@ -2,6 +2,21 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="tr_TR">
 <context>
+    <name>BarcodeButton</name>
+    <message>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1+Click to follow link</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
@@ -792,6 +807,11 @@ Startup on boot has been cancelled.</source>
 Açılışta başlatma iptal edildi.</translation>
     </message>
     <message>
+        <source>Restart is required for the change to take effect.
+Restart Snipaste now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>None</source>
         <translation>Hiçbiri</translation>
     </message>
@@ -1278,6 +1298,10 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
         <translation>Y-Ekseni</translation>
     </message>
     <message>
+        <source>Quit annotating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Grayscale</source>
         <translation>Gri tonlama</translation>
     </message>
@@ -1437,35 +1461,16 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
         <translation>Snipaste, Ekran Kaydı listesinde zaten işaretlenmişse ve hala çalışmıyorsa, Snipaste&apos;i yeniden başlatmanız veya Mac&apos;inizi yeniden başlatmanız gerekebilir.</translation>
     </message>
     <message>
-        <source>The purchase cannot be completed because Snipaste is running as administrator.
-To continue the purchase, please:
-* log on using the non-administrator user
-* do not disable UAC (User Account Control
-These requirements are only necessary DURING the purchase.</source>
-        <translation>Snipaste yönetici olarak çalıştığı için satın alma tamamlanamıyor.
-Satın almaya devam etmek için lütfen:
-* yönetici olmayan kullanıcıyı kullanarak oturum açın
-* UAC&apos;yi (Kullanıcı Hesabı Denetimi) devre dışı bırakmayın
-Bu gereksinimler yalnızca satın alma SIRASINDA gereklidir.</translation>
-    </message>
-</context>
-<context>
-    <name>ResolutionItem</name>
-    <message>
-        <source>Input region size</source>
-        <translation>Giriş bölgesi boyutu</translation>
+        <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change size unit</source>
-        <translation>Boyut birimini değiştir</translation>
+        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lock aspect ratio</source>
-        <translation>En boy oranını kilitle</translation>
-    </message>
-    <message>
-        <source>Refresh screenshot</source>
-        <translation>Ekran görüntüsünü yenile</translation>
+        <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1807,6 +1812,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Çık</translation>
     </message>
     <message>
+        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>is already running.</source>
         <translation>zaten çalışıyor.</translation>
     </message>
@@ -1875,10 +1884,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>&quot;%1&quot; i kapatmak istediğinden emin misin? Bu eylem geri alınamaz.</translation>
     </message>
     <message>
-        <source>Default</source>
-        <translation>Varsayılan</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Başarılı</translation>
     </message>
@@ -1900,7 +1905,22 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>Snipaste::PGroup</name>
+    <message>
+        <source>Default</source>
+        <translation>Varsayılan</translation>
+    </message>
+</context>
+<context>
     <name>Snipper</name>
+    <message>
+        <source>Lock aspect ratio (on)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock aspect ratio (off)</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Do you want to abort snipping?</source>
         <translation>Kırpmadan vazgeçmek istiyor musunuz?</translation>
@@ -1920,6 +1940,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Device-independent pixel (dip)</source>
         <translation>Cihazdan(d) bağımsız(i) piksel(p) (dip)</translation>
+    </message>
+    <message>
+        <source>Input region size</source>
+        <translation>Giriş bölgesi boyutu</translation>
+    </message>
+    <message>
+        <source>Change size unit</source>
+        <translation>Boyut birimini değiştir</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot
+(Long press to keep refreshing)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -3341,6 +3374,28 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
         <translation>Değişikliğin etkili olması için Snipaste&apos;i yeniden başlatın.
 &quot;Paylaş&quot; butonunun görünmesi için Snipaste yükseltilmiş olarak çalıştırılmamalıdır.</translation>
+    </message>
+    <message>
+        <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
+It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable window scaling on high DPI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable selecting any types of drawn annotations on hovering.
+If unchecked, only the active type of annotations can be selected on hovering.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember last used image extension</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
