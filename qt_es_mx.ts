@@ -1385,7 +1385,7 @@ Presiona ESC para cancelar</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation></translation>
+        <translation>A&amp;lpha channel:</translation>
     </message>
 </context>
 <context>
