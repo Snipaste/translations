@@ -1186,7 +1186,7 @@
     </message>
     <message>
         <source>Demi Bold</source>
-        <translation></translation>
+        <translation>Demi Bold</translation>
     </message>
     <message>
         <source>Arabic</source>

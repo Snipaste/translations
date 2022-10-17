@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>CD</source>
-        <translation></translation>
+        <translation>CD</translation>
     </message>
     <message>
         <source>Go</source>
@@ -25,19 +25,19 @@
     </message>
     <message>
         <source>Alt</source>
-        <translation></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>F%1</source>
-        <translation></translation>
+        <translation>F%1</translation>
     </message>
     <message>
         <source>DOS</source>
-        <translation></translation>
+        <translation>DOS</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -45,15 +45,15 @@
     </message>
     <message>
         <source>End</source>
-        <translation></translation>
+        <translation>End</translation>
     </message>
     <message>
         <source>Esc</source>
-        <translation></translation>
+        <translation>Esc</translation>
     </message>
     <message>
         <source>Ins</source>
-        <translation></translation>
+        <translation>Ins</translation>
     </message>
     <message>
         <source>New</source>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>Num</source>
-        <translation></translation>
+        <translation>Num</translation>
     </message>
     <message>
         <source>Red</source>
@@ -69,11 +69,11 @@
     </message>
     <message>
         <source>Tab</source>
-        <translation></translation>
+        <translation>Tab</translation>
     </message>
     <message>
         <source>WWW</source>
-        <translation></translation>
+        <translation>WWW</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -105,7 +105,7 @@
     </message>
     <message>
         <source>Ctrl</source>
-        <translation></translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Down</source>
@@ -269,7 +269,7 @@
     </message>
     <message>
         <source>Shift</source>
-        <translation></translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <source>Sleep</source>
@@ -313,7 +313,7 @@
     </message>
     <message>
         <source>Print Screen</source>
-        <translation></translation>
+        <translation>Print Screen</translation>
     </message>
     <message>
         <source>Audio Repeat</source>
@@ -345,7 +345,7 @@
     </message>
     <message>
         <source>Scroll Lock</source>
-        <translation></translation>
+        <translation>Scroll Lock</translation>
     </message>
     <message>
         <source>Media Pause</source>
@@ -397,11 +397,11 @@
     </message>
     <message>
         <source>Hangul PostHanja</source>
-        <translation></translation>
+        <translation>Hangul PostHanja</translation>
     </message>
     <message>
         <source>Kana Lock</source>
-        <translation></translation>
+        <translation>Kana Lock</translation>
     </message>
     <message>
         <source>Community</source>
@@ -481,7 +481,7 @@
     </message>
     <message>
         <source>Escape</source>
-        <translation></translation>
+        <translation>Escape</translation>
     </message>
     <message>
         <source>Audio Random Play</source>
@@ -489,7 +489,7 @@
     </message>
     <message>
         <source>Hangul</source>
-        <translation></translation>
+        <translation>Hangul</translation>
     </message>
     <message>
         <source>Hangup</source>
@@ -497,15 +497,15 @@
     </message>
     <message>
         <source>Henkan</source>
-        <translation></translation>
+        <translation>Henkan</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation></translation>
+        <translation>Insert</translation>
     </message>
     <message>
         <source>Home Office</source>
-        <translation></translation>
+        <translation>Home Office</translation>
     </message>
     <message>
         <source>Last Number Redial</source>
@@ -521,7 +521,7 @@
     </message>
     <message>
         <source>Massyo</source>
-        <translation></translation>
+        <translation>Massyo</translation>
     </message>
     <message>
         <source>Bass Boost</source>
@@ -549,7 +549,7 @@
     </message>
     <message>
         <source>Romaji</source>
-        <translation></translation>
+        <translation>Romaji</translation>
     </message>
     <message>
         <source>Search</source>
@@ -569,7 +569,7 @@
     </message>
     <message>
         <source>NumLock</source>
-        <translation></translation>
+        <translation>NumLock</translation>
     </message>
     <message>
         <source>WebCam</source>
@@ -577,7 +577,7 @@
     </message>
     <message>
         <source>Hiragana Katakana</source>
-        <translation></translation>
+        <translation>Hiragana Katakana</translation>
     </message>
     <message>
         <source>Yellow</source>
@@ -589,7 +589,7 @@
     </message>
     <message>
         <source>ScrollLock</source>
-        <translation></translation>
+        <translation>ScrollLock</translation>
     </message>
     <message>
         <source>Hot Links</source>
@@ -601,19 +601,19 @@
     </message>
     <message>
         <source>Context1</source>
-        <translation></translation>
+        <translation>Context1</translation>
     </message>
     <message>
         <source>Context2</source>
-        <translation></translation>
+        <translation>Context2</translation>
     </message>
     <message>
         <source>Context3</source>
-        <translation></translation>
+        <translation>Context3</translation>
     </message>
     <message>
         <source>Context4</source>
-        <translation></translation>
+        <translation>Context4</translation>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -621,7 +621,7 @@
     </message>
     <message>
         <source>Page Up</source>
-        <translation></translation>
+        <translation>Page Up</translation>
     </message>
     <message>
         <source>Open URL</source>
@@ -629,7 +629,7 @@
     </message>
     <message>
         <source>iTouch</source>
-        <translation></translation>
+        <translation>iTouch</translation>
     </message>
     <message>
         <source>Previous Candidate</source>
@@ -641,11 +641,11 @@
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation></translation>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>Eisu Shift</source>
-        <translation></translation>
+        <translation>Eisu Shift</translation>
     </message>
     <message>
         <source>Code input</source>
@@ -669,7 +669,7 @@
     </message>
     <message>
         <source>Eisu toggle</source>
-        <translation></translation>
+        <translation>Eisu toggle</translation>
     </message>
     <message>
         <source>Keyboard Brightness Down</source>
@@ -693,7 +693,7 @@
     </message>
     <message>
         <source>CapsLock</source>
-        <translation></translation>
+        <translation>CapsLock</translation>
     </message>
     <message>
         <source>Backtab</source>
@@ -709,7 +709,7 @@
     </message>
     <message>
         <source>Katakana</source>
-        <translation></translation>
+        <translation>Katakana</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -749,7 +749,7 @@
     </message>
     <message>
         <source>Backspace</source>
-        <translation></translation>
+        <translation>Backspace</translation>
     </message>
     <message>
         <source>Bass Down</source>
@@ -765,11 +765,11 @@
     </message>
     <message>
         <source>Hangul Banja</source>
-        <translation></translation>
+        <translation>Hangul Banja</translation>
     </message>
     <message>
         <source>Hangul Hanja</source>
-        <translation></translation>
+        <translation>Hangul Hanja</translation>
     </message>
     <message>
         <source>Standby</source>
@@ -777,15 +777,15 @@
     </message>
     <message>
         <source>Hangul Start</source>
-        <translation></translation>
+        <translation>Hangul Start</translation>
     </message>
     <message>
         <source>Rotation KB</source>
-        <translation></translation>
+        <translation>Rotation KB</translation>
     </message>
     <message>
         <source>Rotation PB</source>
-        <translation></translation>
+        <translation>Rotation PB</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -809,7 +809,7 @@
     </message>
     <message>
         <source>Hangul Romaja</source>
-        <translation></translation>
+        <translation>Hangul Romaja</translation>
     </message>
     <message>
         <source>My Sites</source>
@@ -821,19 +821,19 @@
     </message>
     <message>
         <source>Touroku</source>
-        <translation></translation>
+        <translation>Touroku</translation>
     </message>
     <message>
         <source>Zenkaku Hankaku</source>
-        <translation></translation>
+        <translation>Zenkaku Hankaku</translation>
     </message>
     <message>
         <source>Hangul Jeonja</source>
-        <translation></translation>
+        <translation>Hangul Jeonja</translation>
     </message>
     <message>
         <source>Treble Up</source>
-        <translation></translation>
+        <translation>Treble Up</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -841,7 +841,7 @@
     </message>
     <message>
         <source>Hangul Jamo</source>
-        <translation></translation>
+        <translation>Hangul Jamo</translation>
     </message>
     <message>
         <source>Bluetooth</source>
@@ -849,11 +849,11 @@
     </message>
     <message>
         <source>Muhenkan</source>
-        <translation></translation>
+        <translation>Muhenkan</translation>
     </message>
     <message>
         <source>Num Lock</source>
-        <translation></translation>
+        <translation>Num Lock</translation>
     </message>
     <message>
         <source>Screensaver</source>
@@ -861,11 +861,11 @@
     </message>
     <message>
         <source>Number Lock</source>
-        <translation></translation>
+        <translation>Number Lock</translation>
     </message>
     <message>
         <source>Power Down</source>
-        <translation></translation>
+        <translation>Power Down</translation>
     </message>
     <message>
         <source>Spellchecker</source>
@@ -873,7 +873,7 @@
     </message>
     <message>
         <source>Hangul PreHanja</source>
-        <translation></translation>
+        <translation>Hangul PreHanja</translation>
     </message>
     <message>
         <source>Terminal</source>
@@ -913,11 +913,11 @@
     </message>
     <message>
         <source>Page Down</source>
-        <translation></translation>
+        <translation>Page Down</translation>
     </message>
     <message>
         <source>Wake Up</source>
-        <translation></translation>
+        <translation>Wake Up</translation>
     </message>
     <message>
         <source>Power Off</source>
@@ -925,23 +925,23 @@
     </message>
     <message>
         <source>LightBulb</source>
-        <translation></translation>
+        <translation>LightBulb</translation>
     </message>
     <message>
         <source>Touchpad Toggle</source>
-        <translation></translation>
+        <translation>Touchpad Toggle</translation>
     </message>
     <message>
         <source>Hankaku</source>
-        <translation></translation>
+        <translation>Hankaku</translation>
     </message>
     <message>
         <source>Media Fast Forward</source>
-        <translation></translation>
+        <translation>Media Fast Forward</translation>
     </message>
     <message>
         <source>Hangul End</source>
-        <translation></translation>
+        <translation>Hangul End</translation>
     </message>
     <message>
         <source>Monitor Brightness Down</source>
@@ -957,31 +957,31 @@
     </message>
     <message>
         <source>Media Play</source>
-        <translation></translation>
+        <translation>Media Play</translation>
     </message>
     <message>
         <source>Media Stop</source>
-        <translation></translation>
+        <translation>Media Stop</translation>
     </message>
     <message>
         <source>Media Next</source>
-        <translation></translation>
+        <translation>Media Next</translation>
     </message>
     <message>
         <source>Touchpad On</source>
-        <translation></translation>
+        <translation>Touchpad On</translation>
     </message>
     <message>
         <source>Channel Down</source>
-        <translation></translation>
+        <translation>Channel Down</translation>
     </message>
     <message>
         <source>Launch Media</source>
-        <translation></translation>
+        <translation>Launch Media</translation>
     </message>
     <message>
         <source>Application Right</source>
-        <translation></translation>
+        <translation>Application Right</translation>
     </message>
     <message>
         <source>Pictures</source>
@@ -1344,7 +1344,7 @@
     </message>
     <message>
         <source>&amp;HTML:</source>
-        <translation></translation>
+        <translation>&amp;HTML:</translation>
     </message>
     <message>
         <source>Select Color</source>
