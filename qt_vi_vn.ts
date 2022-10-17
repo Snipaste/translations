@@ -276,7 +276,7 @@
     <message>
         <source>Insert</source>
         <translatorcomment>chèn ký tự</translatorcomment>
-        <translation></translation>
+        <translation>Insert</translation>
     </message>
     <message>
         <source>Bass Boost</source>
