@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation>Back</translation>
+        <translation>Anterior</translation>
     </message>
     <message>
         <source>Call</source>
@@ -526,7 +526,7 @@ Pressione ESC para cancelar</translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation>Seleccionar fonte</translation>
+        <translation>Seleccionar tipo de letra</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
