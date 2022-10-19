@@ -5,15 +5,15 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar texto</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>Seguir enlace</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>%1+Clic para seguir enlace</translation>
     </message>
 </context>
 <context>
@@ -759,15 +759,16 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se requiere reiniciar para que el cambio tenga efecto.
+¿Reiniciar Snipaste ahora?</translation>
     </message>
     <message>
         <source>Close image</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar imagen</translation>
     </message>
     <message>
         <source>Destroy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Destruir imagen</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -1177,11 +1178,11 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar barra de herramientas</translation>
     </message>
     <message>
         <source>Show annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar anotaciones</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -1277,7 +1278,7 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Quit annotating</source>
-        <translation type="unfinished"></translation>
+        <translation>Dejar de anotar</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1462,15 +1463,15 @@ Podría reiniciar Snipaste con privilegios de administrador e intentar de nuevo.
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>La compra no se pudo completar porque Snipaste está ejecutándose con privilegios de administrador.</translation>
     </message>
     <message>
         <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrías intentar continuar iniciando sesión en el sistema operativo con un usuario no administrador. Eres libre de regresar a este usuario DESPUÉS de la compra.</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Deshabilitaste el CCU (Control de Cuentas de Usuario)? Por favor habilítalo DURANTE la compra.</translation>
     </message>
 </context>
 <context>
@@ -1503,7 +1504,9 @@ Podría reiniciar Snipaste con privilegios de administrador e intentar de nuevo.
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>¿Has visto los puntos rojos en la barra de herramientas? ¡Te mostrarán consejos útiles!
+Dale clic a cualquiera de ellos para quitar esta notificación permanentemente.
+</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1569,7 +1572,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaciar el grupo de imágenes actual</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1654,19 +1657,19 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>El método abreviado ya está en uso.</translation>
     </message>
     <message>
         <source>The shortcut has already been registered by another program.</source>
-        <translation type="unfinished"></translation>
+        <translation>El método abreviado ya ha sido registrado por otro programa.</translation>
     </message>
     <message>
         <source>The shortcut is too simple and would not be registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>El método abreviado es muy simple y no se registraría.</translation>
     </message>
     <message>
         <source>The shortcut cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>El método abreviado no se puede reconocer.</translation>
     </message>
     <message>
         <source>Press shortcut</source>
@@ -1787,7 +1790,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Estás seguro de anclar todas las imágenes? (Número: %1)</translation>
     </message>
     <message>
         <source>is already running.</source>
@@ -1835,7 +1838,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>The group title should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>El título del grupo no debería estar vacío.</translation>
     </message>
     <message>
         <source>New group name:</source>
@@ -1917,11 +1920,11 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     <name>Snipper</name>
     <message>
         <source>Lock aspect ratio (on)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear la relación de aspecto (prendido)</translation>
     </message>
     <message>
         <source>Lock aspect ratio (off)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear la relación de aspecto (apagado)</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
@@ -1954,7 +1957,8 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Refrescar captura de pantalla
+(Manten presionado para seguir refrescando)</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -2001,7 +2005,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor visita &lt;a href=&quot;%1&quot;&gt;el sitio web&lt;/a&gt; para una comparación entre Snipaste 2 PRO y gratuito.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -3381,24 +3385,26 @@ Snipaste no debe ejecutarse con permisos elevados para poder mostrar el botón d
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando este prendido, las ventanas de imágenes no serán escaladas cuando se muevan entre pantallas con diferente DPIs.
+También es util para conexiones de escritorio remoto para mantener un arreglo de ventanas.</translation>
     </message>
     <message>
         <source>Disable window scaling on high DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshabilitar escalamiento de ventanas en DPI altos</translation>
     </message>
     <message>
         <source>Enable selecting any types of drawn annotations on hovering.
 If unchecked, only the active type of annotations can be selected on hovering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar seleccionar cualquier tipo de anotación dibujada al pasar el apuntador por encima.
+Si no está prendido, solo el tipo de anotación activo se puede seleccionar al pasar el apuntador por encima.</translation>
     </message>
     <message>
         <source>Free select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selección libre</translation>
     </message>
     <message>
         <source>Remember last used image extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordar la última extensión de imagen usada</translation>
     </message>
 </context>
 <context>
