@@ -1563,7 +1563,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
+        <translation>清空当前贴图组</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
