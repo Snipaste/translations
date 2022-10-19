@@ -1556,8 +1556,12 @@ Click any of them to dismiss this notification permanently.
         <translation>التبديل الى مجموعه صور اخرى</translation>
     </message>
     <message>
-        <source>Switch to the previous group</source>
+        <source>Switch to the previous image group</source>
         <translation>تبديل الى المجموعة السابقة</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
