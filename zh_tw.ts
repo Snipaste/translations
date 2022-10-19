@@ -1564,8 +1564,12 @@ Click any of them to dismiss this notification permanently.
         <translation>切換至另一貼圖組</translation>
     </message>
     <message>
-        <source>Switch to the previous group</source>
+        <source>Switch to the previous image group</source>
         <translation>切換至上一個分組</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>

@@ -1563,8 +1563,12 @@ Click any of them to dismiss this notification permanently.
         <translation>Wechsle zu einer anderen Bildergruppe</translation>
     </message>
     <message>
-        <source>Switch to the previous group</source>
+        <source>Switch to the previous image group</source>
         <translation>Zur vorherigen Gruppe wechseln</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>

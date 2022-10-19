@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_CN" sourcelanguage="en_US">
 <context>
@@ -1562,6 +1562,10 @@ Click any of them to dismiss this notification permanently.
         <translation>切换到另一贴图组</translation>
     </message>
     <message>
+        <source>Empty the current image group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toggle mouse click-through</source>
         <translation>鼠标穿透开关</translation>
     </message>
@@ -1576,7 +1580,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>编辑命令</translation>
     </message>
     <message>
-        <source>Switch to the previous group</source>
+        <source>Switch to the previous image group</source>
         <translation>切换到上一个组</translation>
     </message>
     <message>

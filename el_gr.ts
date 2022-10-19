@@ -1566,8 +1566,12 @@ Click any of them to dismiss this notification permanently.
         <translation>Μετάβαση σε άλλη ομάδα εικόνων</translation>
     </message>
     <message>
-        <source>Switch to the previous group</source>
+        <source>Switch to the previous image group</source>
         <translation>Μετάβαση στην προηγούμενη ομάδα</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
