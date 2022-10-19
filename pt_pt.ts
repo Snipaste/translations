@@ -5,15 +5,15 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar texto</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>Seguir ligação</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>%1+Clique para seguir ligação</translation>
     </message>
 </context>
 <context>
@@ -759,15 +759,16 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
     <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
-        <translation type="unfinished"></translation>
+        <translation>É necessário reiniciar para a alteração produzir efeito.
+Reiniciar o Snipaste agora?</translation>
     </message>
     <message>
         <source>Close image</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar imagem</translation>
     </message>
     <message>
         <source>Destroy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar imagem</translation>
     </message>
     <message>
         <source>Off</source>
@@ -915,7 +916,7 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>Select Color</source>
-        <translation>Seleccionar Cor</translation>
+        <translation>Seleccionar cor</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1177,11 +1178,11 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar barra de ferramentas</translation>
     </message>
     <message>
         <source>Show annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar anotações</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -1277,7 +1278,7 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>Quit annotating</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotação rápida</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1462,15 +1463,15 @@ Deve reiniciar o Snipaste como administrador e tentar de novo.</translation>
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>A compra não pôde ser concluída porque o Snipaste está a ser executado com privilégios de administrador.</translation>
     </message>
     <message>
         <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pode tentar continuar iniciando sessão no sistema operativo usando um utilizador não administrador. Pode regressar a esta conta de utilizador APÓS a compra.</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivou a UAC (Controlo da Conta de Utilizador)? Por favor, active-a DURANTE a compra.</translation>
     </message>
 </context>
 <context>
@@ -1503,11 +1504,13 @@ Deve reiniciar o Snipaste como administrador e tentar de novo.</translation>
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Reparou nos pontos vermelhos na barra de ferramentas? Eles vão mostrar-lhe dicas úteis!
+Clique em qualquer deles para desligar esta notificação permanentemente.
+</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation>Seleccionar Cor</translation>
+        <translation>Seleccionar cor</translation>
     </message>
     <message>
         <source>Select Font</source>
@@ -1569,11 +1572,11 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
+        <translation>Esvaziar o actual grupo de imagens</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation>Altarnar para clique do rato</translation>
+        <translation>Alternar para clique do rato</translation>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
@@ -1654,19 +1657,19 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>A tecla de atalho já está a ser usada.</translation>
     </message>
     <message>
         <source>The shortcut has already been registered by another program.</source>
-        <translation type="unfinished"></translation>
+        <translation>A tecla de atalho já foi registada por outro programa.</translation>
     </message>
     <message>
         <source>The shortcut is too simple and would not be registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>A tecla de atalho é demasiado simples e não será registada.</translation>
     </message>
     <message>
         <source>The shortcut cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível reconhecer a tecla de atalho.</translation>
     </message>
     <message>
         <source>Press shortcut</source>
@@ -1688,7 +1691,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes</source>
-        <translation>Editar tamanhos predifinidos</translation>
+        <translation>Editar tamanhos predeifinidos</translation>
     </message>
 </context>
 <context>
@@ -1747,7 +1750,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tem a certeza de fixar todas as imagens? (Número: %1)</translation>
     </message>
     <message>
         <source>Import image group</source>
@@ -1847,7 +1850,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>The group title should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>O título do grupo não pode estar em branco.</translation>
     </message>
     <message>
         <source>New group name:</source>
@@ -1917,11 +1920,11 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <name>Snipper</name>
     <message>
         <source>Lock aspect ratio (on)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear proporção (ligado)</translation>
     </message>
     <message>
         <source>Lock aspect ratio (off)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear proporção (desligado)</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
@@ -1954,7 +1957,8 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar captura
+(Manter pressionado para continuar a actualizar)</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -2001,7 +2005,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, visite &lt;a href=&quot;%1&quot;&gt;o website&lt;/a&gt; para comparação entre o Snipaste 2 PRO e gratuito.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -3380,24 +3384,26 @@ O Snipaste não deve ser executado em modo elevado para poder mostrar o botão &
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se seleccionado, as janelas de imagem não serão escaladas ao mover entre ecrãs de diferentes DPls.
+Também é útil para ligações de ambientes de trabalho remotos para manter o arranjo das janelas.</translation>
     </message>
     <message>
         <source>Disable window scaling on high DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar dimensionamento das janelas em altos DPI</translation>
     </message>
     <message>
         <source>Enable selecting any types of drawn annotations on hovering.
 If unchecked, only the active type of annotations can be selected on hovering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar seleccionando quaisquer tipos de anotações desenhadas ao passar o rato.
+Se não seleccionado, apenas as anotações de tipo activo podem ser seleccionadas ao passar o rato.</translation>
     </message>
     <message>
         <source>Free select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecção livre</translation>
     </message>
     <message>
         <source>Remember last used image extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Lembrar a última extensão de imagem usada</translation>
     </message>
 </context>
 <context>
