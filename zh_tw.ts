@@ -5,15 +5,15 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>複製文字</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟連結</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>按住 %1 並點選可開啟連結</translation>
     </message>
 </context>
 <context>
@@ -751,15 +751,16 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
-        <translation type="unfinished"></translation>
+        <translation>需要重啟 Snipaste 以使變更生效。
+現在重啟 Snipaste?</translation>
     </message>
     <message>
         <source>Close image</source>
-        <translation type="unfinished"></translation>
+        <translation>關閉貼圖</translation>
     </message>
     <message>
         <source>Destroy image</source>
-        <translation type="unfinished"></translation>
+        <translation>銷毀貼圖</translation>
     </message>
     <message>
         <source>Off</source>
@@ -1145,11 +1146,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示工具列</translation>
     </message>
     <message>
         <source>Show annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示標註</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -1229,7 +1230,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Quit annotating</source>
-        <translation type="unfinished"></translation>
+        <translation>結束標註</translation>
     </message>
     <message>
         <source>Destroy</source>
@@ -1462,15 +1463,16 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>由於 Snipaste 正在以管理員身分執行，導致無法完成購買。</translation>
     </message>
     <message>
         <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>請嘗試以普通使用者或訪客使用者登入作業系統，然後繼續購買。 
+在購買完成後，您可以切換回目前使用者。</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>您是否停用了 UAC (使用者帳戶控制)？請在購買前從系統設定中啟用它，購買後您可以還原設定。</translation>
     </message>
 </context>
 <context>
@@ -1503,7 +1505,9 @@ You may restart Snipaste with admin privileges and try again.</source>
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>你注意到工具列上的小紅點了嗎？點選它們可以取得提示哦！ 
+點選任一小紅點即可永久消除該通知。
+</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1569,7 +1573,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
+        <translation>清空目前貼圖組</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1654,19 +1658,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>該快速鍵已被使用。</translation>
     </message>
     <message>
         <source>The shortcut has already been registered by another program.</source>
-        <translation type="unfinished"></translation>
+        <translation>該快速鍵已被其他程式佔用。</translation>
     </message>
     <message>
         <source>The shortcut is too simple and would not be registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>該快速鍵太簡單了，設定後會影響日常打字，請考慮換一個。</translation>
     </message>
     <message>
         <source>The shortcut cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法辨識的快速鍵。</translation>
     </message>
     <message>
         <source>Press shortcut</source>
@@ -1775,7 +1779,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>確定要貼出所有圖片嗎？(數量: %1)</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1843,7 +1847,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The group title should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>貼圖組的標題不能為空。</translation>
     </message>
     <message>
         <source>New group name:</source>
@@ -1917,11 +1921,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>Snipper</name>
     <message>
         <source>Lock aspect ratio (on)</source>
-        <translation type="unfinished"></translation>
+        <translation>鎖定長寬比 (開)</translation>
     </message>
     <message>
         <source>Lock aspect ratio (off)</source>
-        <translation type="unfinished"></translation>
+        <translation>鎖定長寬比 (關)</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
@@ -1954,7 +1958,8 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
-        <translation type="unfinished"></translation>
+        <translation>重新整理擷圖
+(長按可持續重新整理)</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -2001,7 +2006,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation type="unfinished"></translation>
+        <translation>歡迎前往&lt;a href=&quot;%1&quot;&gt;官網&lt;/a&gt;了解專業版與免費版的詳細差異。</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -3380,24 +3385,26 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation>選取過，貼圖在跨螢幕移動時將不會根據螢幕的縮放因數自動縮放。 
+如果你在使用遠端桌面，這可以保持貼圖視窗的配置。</translation>
     </message>
     <message>
         <source>Disable window scaling on high DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>高 DPI 設定時停用貼圖視窗縮放</translation>
     </message>
     <message>
         <source>Enable selecting any types of drawn annotations on hovering.
 If unchecked, only the active type of annotations can be selected on hovering.</source>
-        <translation type="unfinished"></translation>
+        <translation>允許選取任意類型的已繪製的標註。 
+如果取消選取，對於已繪製的標註，只有目前選取類型的標註才可以在滑鼠暫留時被選取。</translation>
     </message>
     <message>
         <source>Free select</source>
-        <translation type="unfinished"></translation>
+        <translation>自由選取</translation>
     </message>
     <message>
         <source>Remember last used image extension</source>
-        <translation type="unfinished"></translation>
+        <translation>記住上一次使用的圖片副檔名</translation>
     </message>
 </context>
 <context>
