@@ -3400,7 +3400,7 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     </message>
     <message>
         <source>Free select</source>
-        <translation>Vrije keuze</translation>
+        <translation>Vrije selectie</translation>
     </message>
     <message>
         <source>Remember last used image extension</source>
