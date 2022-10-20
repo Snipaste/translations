@@ -5,15 +5,15 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейдите по ссылке</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>%1+Кликните для перехода по ссылке</translation>
     </message>
 </context>
 <context>
@@ -759,15 +759,16 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтобы изменения вступили в силу, требуется перезапустить приложение.
+Перезапустить Snipaste?</translation>
     </message>
     <message>
         <source>Close image</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть изображение</translation>
     </message>
     <message>
         <source>Destroy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить изображение</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -1177,11 +1178,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать панель инструментов</translation>
     </message>
     <message>
         <source>Show annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать аннотации</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -1277,7 +1278,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Quit annotating</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть аннотации</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1462,15 +1463,15 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Покупка не может быть завершена, потому что Snipaste запущен с правами администратора.</translation>
     </message>
     <message>
         <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы можете попробовать снова зайдя в систему пользователем без прав администратора. Вы можете вернуться к текущего пользователю ПОСЛЕ завершения покупки.</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы выключили КУЗ (Контроль Учетных Записей - UAC англ.)? Пожалуйста включите обратно ПОКА идет процесс покупки.</translation>
     </message>
 </context>
 <context>
@@ -1503,7 +1504,9 @@ You may restart Snipaste with admin privileges and try again.</source>
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Вы заметили красные точки на панели инструментов? Они подскажут вам полезные советы!
+Щелкните любую из них, чтобы навсегда закрыть это уведомление.
+</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1569,7 +1572,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущая группа изображений пустая</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1654,19 +1657,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данное сочетание клавиш уже используется.</translation>
     </message>
     <message>
         <source>The shortcut has already been registered by another program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данное сочетание клавиш уже зарегистрировано другой программой.</translation>
     </message>
     <message>
         <source>The shortcut is too simple and would not be registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данное сочетание клавиш слишком простое и не может быть зарегистрировано.</translation>
     </message>
     <message>
         <source>The shortcut cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данное сочетание клавиш не может быть распознано.</translation>
     </message>
     <message>
         <source>Press shortcut</source>
@@ -1787,7 +1790,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уверены, что хотите закрепить все изображения? (Количество: %1)</translation>
     </message>
     <message>
         <source>is already running.</source>
@@ -1835,7 +1838,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The group title should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок группы не может быть пустым.</translation>
     </message>
     <message>
         <source>New group name:</source>
@@ -1917,11 +1920,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>Snipper</name>
     <message>
         <source>Lock aspect ratio (on)</source>
-        <translation type="unfinished"></translation>
+        <translation>Заблокировать соотношение сторон (вкл.)</translation>
     </message>
     <message>
         <source>Lock aspect ratio (off)</source>
-        <translation type="unfinished"></translation>
+        <translation>Заблокировать соотношение сторон (выкл.)</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
@@ -1954,7 +1957,8 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить скриншот
+(Долгое нажатие для обновления)</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -2001,7 +2005,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста посетите &lt;a href=&quot;%1&quot;&gt;сайт&lt;/a&gt; для сравнения версий Snipaste 2 PRO и FREE.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -3380,24 +3384,26 @@ Snipaste не должен запускаться с повышенными пр
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если выбрано, окна изображений не будут масштабироваться при перемещении по экранам с разным разрешением DPI.
+Также полезно сохранять расположение окон при подключении к удаленному рабочему столу.</translation>
     </message>
     <message>
         <source>Disable window scaling on high DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить масштабирование окна при высоком DPI</translation>
     </message>
     <message>
         <source>Enable selecting any types of drawn annotations on hovering.
 If unchecked, only the active type of annotations can be selected on hovering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить выбор любых типов нарисованных аннотаций при наведении.
+Если отключено, при наведении можно выбрать только активный тип аннотаций.</translation>
     </message>
     <message>
         <source>Free select</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать бесплатный</translation>
     </message>
     <message>
         <source>Remember last used image extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Запомнить последнее использовавшееся расширение изображения</translation>
     </message>
 </context>
 <context>

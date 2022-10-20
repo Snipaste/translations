@@ -5,15 +5,15 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>文字をコピーする</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>URLを開く</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>％1を押しながらクリックしてURLを開ける</translation>
     </message>
 </context>
 <context>
@@ -405,7 +405,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation>すべて表示画像を選択する&#x3000;[PRO]</translation>
+        <translation>すべて表示画像を選択する　[PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
@@ -833,15 +833,16 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
-        <translation type="unfinished"></translation>
+        <translation>再起動して設定を適用する。
+今再起動しますか？</translation>
     </message>
     <message>
         <source>Close image</source>
-        <translation type="unfinished"></translation>
+        <translation>画像を閉じる</translation>
     </message>
     <message>
         <source>Destroy image</source>
-        <translation type="unfinished"></translation>
+        <translation>画像を削除する</translation>
     </message>
     <message>
         <source>Transparent</source>
@@ -1137,11 +1138,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>ツールバーを表示する</translation>
     </message>
     <message>
         <source>Show annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>表記を表示する</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1161,7 +1162,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Quit annotating</source>
-        <translation type="unfinished"></translation>
+        <translation>表記を閉じる</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1283,7 +1284,7 @@ Are you sure you want to switch to another configuration file?</source>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>「X」キーのダブルクリック操作がすでに無効になった。
-マウスクリック無効化必要の場合は「環境設定&#x3000;-&#x3000;ショートカット」で調整 。</translation>
+マウスクリック無効化必要の場合は「環境設定　-　ショートカット」で調整 。</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -1363,7 +1364,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation>デスクトップ&#x3000;%1</translation>
+        <translation>デスクトップ　%1</translation>
     </message>
     <message>
         <source>Copy raw HTML</source>
@@ -1385,7 +1386,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation>画像ウィンドウをダブルクリックし、ウィンドウが閉じる。
-環境設定で本動作を調整できる：コントロール&#x3000;-&#x3000;マウス。</translation>
+環境設定で本動作を調整できる：コントロール　-　マウス。</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
@@ -1462,15 +1463,16 @@ Snipasteを管理者権限で再試行してください。</translation>
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>管理者で使用されておりますので、購入が完成できません。</translation>
     </message>
     <message>
         <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>普通なユーザーまたはゲストでシステム登録して、購入を継続してください。
+購入次第、現行ユーザーに切り替えてください。</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>UACを禁止しましたでしょうか？購入前にシステムで起用してください。</translation>
     </message>
 </context>
 <context>
@@ -1503,7 +1505,9 @@ Snipasteを管理者権限で再試行してください。</translation>
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ツールバーの赤点に気づきましたでしょうか？クリックしてヒントが表示できます。
+赤点を一度クリックしたら、当該通知が消えます。
+</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1569,7 +1573,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
+        <translation>現行画像グループを削除する</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1654,19 +1658,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>このショートカットはすでに使用されています。</translation>
     </message>
     <message>
         <source>The shortcut has already been registered by another program.</source>
-        <translation type="unfinished"></translation>
+        <translation>このショートカットは他のプログラムに使用されています。</translation>
     </message>
     <message>
         <source>The shortcut is too simple and would not be registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>このショートカットは簡単すぎて、日常入力に影響しますので、別のショートカットをお薦めます。</translation>
     </message>
     <message>
         <source>The shortcut cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>このショートカットは識別できません。</translation>
     </message>
     <message>
         <source>Press shortcut</source>
@@ -1727,7 +1731,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The group title should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>画像グループのタイトルは必要です。</translation>
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
@@ -1787,7 +1791,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてな画像を表示しますか？（数量：%1）</translation>
     </message>
     <message>
         <source>File %1 not found.</source>
@@ -1917,11 +1921,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>Snipper</name>
     <message>
         <source>Lock aspect ratio (on)</source>
-        <translation type="unfinished"></translation>
+        <translation>比率を固定する（on）</translation>
     </message>
     <message>
         <source>Lock aspect ratio (off)</source>
-        <translation type="unfinished"></translation>
+        <translation>比率を固定する（off）</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
@@ -1954,7 +1958,8 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
-        <translation type="unfinished"></translation>
+        <translation>スクリーンショットを再表示する
+（押し続けると再表示し続ける）</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -2001,7 +2006,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;ホームページ&lt;/a&gt; を訪問してPRO版と無料版の詳細違いをご確認してください。</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -3380,24 +3385,26 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation>適用する場合、スクリーンショットがディスプレイを跨ぐ時、スクリーンに従って自動調整しません。
+リモートデスクトップ使用の時、これは画像のレイアウトをキープできます。</translation>
     </message>
     <message>
         <source>Disable window scaling on high DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>高DPI時画像の変動を禁止する</translation>
     </message>
     <message>
         <source>Enable selecting any types of drawn annotations on hovering.
 If unchecked, only the active type of annotations can be selected on hovering.</source>
-        <translation type="unfinished"></translation>
+        <translation>全種類の表記を選択できる。
+適用しない場合、既存表記は当該種類の表記を選択した時しか選択できない。</translation>
     </message>
     <message>
         <source>Free select</source>
-        <translation type="unfinished"></translation>
+        <translation>自由に選択できる</translation>
     </message>
     <message>
         <source>Remember last used image extension</source>
-        <translation type="unfinished"></translation>
+        <translation>前回使用した画像の拡張子を保存する</translation>
     </message>
 </context>
 <context>

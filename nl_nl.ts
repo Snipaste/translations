@@ -5,15 +5,15 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst kopiëren</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>Koppeling volgen</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>%1+Klikken om koppeling te volgen</translation>
     </message>
 </context>
 <context>
@@ -81,7 +81,7 @@
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
-        <translation>Fout bij het downloaden! HTTP foutcode: %1</translation>
+        <translation>Fout bij het downloaden! HTTP-foutcode: %1</translation>
     </message>
     <message>
         <source>Unzipped successfully.</source>
@@ -140,18 +140,18 @@ Informeer alsjeblieft de maker.</translation>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation>Wil je de geselecteerde groepen sluiten? Dit kan niet ongedaan worden.</translation>
+        <translation>Geselecteerde groep(en) sluiten? Dit kan niet ongedaan worden.</translation>
     </message>
 </context>
 <context>
     <name>HelpDialog</name>
     <message>
         <source>Help</source>
-        <translation>Help</translation>
+        <translation>Hulp</translation>
     </message>
     <message>
         <source>Visit Online</source>
-        <translation>Online Help</translation>
+        <translation>Online Hulp</translation>
     </message>
     <message>
         <source>Basic Operations</source>
@@ -751,15 +751,16 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Opnieuw starten is vereist om de wijziging van kracht te laten worden.
+Snipaste nu opnieuw opstarten?</translation>
     </message>
     <message>
         <source>Close image</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding sluiten</translation>
     </message>
     <message>
         <source>Destroy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding wissen</translation>
     </message>
     <message>
         <source>Off</source>
@@ -1145,11 +1146,11 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Taakbalk weergeven</translation>
     </message>
     <message>
         <source>Show annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Aantekeningen weergeven</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -1233,7 +1234,7 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Quit annotating</source>
-        <translation type="unfinished"></translation>
+        <translation>Aantekeningen stoppen</translation>
     </message>
     <message>
         <source>Destroy</source>
@@ -1299,7 +1300,7 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
     </message>
     <message>
         <source>Copy annotation text</source>
-        <translation>Annotatietekst kopiëren</translation>
+        <translation>Aantekening kopiëren</translation>
     </message>
     <message>
         <source>Select all images</source>
@@ -1462,15 +1463,15 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>De aankoop kan niet worden voltooid omdat Snipaste draait met beheerdersrechten.</translation>
     </message>
     <message>
         <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je kunt proberen door te gaan door aan te melden met een niet-beheerder-account. Na de aankoop kun je weer terugschakelen naar dit gebruikersaccount.</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Heb je UAC (User Account Control) uitgeschakeld?? Schakel dit in TIJDENS de aankoop.</translation>
     </message>
 </context>
 <context>
@@ -1503,7 +1504,9 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Heb je de rode stippen op de werkbalk opgemerkt?? Ze wijzen je op nuttige tips!
+Klik op een ervan om deze melding permanent af te wijzen.
+</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1569,7 +1572,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
+        <translation>De huidige afbeeldingsgroep leegmaken</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1654,19 +1657,19 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>De sneltoets is al in gebruik.</translation>
     </message>
     <message>
         <source>The shortcut has already been registered by another program.</source>
-        <translation type="unfinished"></translation>
+        <translation>De sneltoets is al geregistreerd door een ander programma.</translation>
     </message>
     <message>
         <source>The shortcut is too simple and would not be registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>De sneltoets is te eenvoudig en kan niet worden geregistreerd.</translation>
     </message>
     <message>
         <source>The shortcut cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>De sneltoets is niet herkend.</translation>
     </message>
     <message>
         <source>Press shortcut</source>
@@ -1775,7 +1778,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wil je alle afbeeldingen vastpinnen? (Aantal: %1)</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1843,7 +1846,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>The group title should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer een groepsnaam in.</translation>
     </message>
     <message>
         <source>New group name:</source>
@@ -1917,11 +1920,11 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>Snipper</name>
     <message>
         <source>Lock aspect ratio (on)</source>
-        <translation type="unfinished"></translation>
+        <translation>Verhoudingen vergrendelen (aan)</translation>
     </message>
     <message>
         <source>Lock aspect ratio (off)</source>
-        <translation type="unfinished"></translation>
+        <translation>Verhoudingen vergrendelen (uit)</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
@@ -1954,7 +1957,8 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermopname verversen
+(Lang ingedrukt houden om te blijven verversen)</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -2002,7 +2006,7 @@ Start Snipaste opnieuw op.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezoek &lt;a href=&quot;%1&quot;&gt;de website&lt;/a&gt; voor een vergelijking van Snipaste 2 PRO en de gratis versie.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -3381,24 +3385,26 @@ Snipaste mag niet met beheerdersrechten worden uitgevoerd om de knop &quot;Delen
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indien geactiveerd, worden afbeeldingsvensters niet geschaald wanneer deze geplaatst worden over schermen met verschillende DPI&apos;s.
+Dit is ook nuttig om bij externe desktopverbindingen de vensteropstelling te behouden.</translation>
     </message>
     <message>
         <source>Disable window scaling on high DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>Vensterschaling op hoge DPI uitschakelen</translation>
     </message>
     <message>
         <source>Enable selecting any types of drawn annotations on hovering.
 If unchecked, only the active type of annotations can be selected on hovering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie van alle soorten getekende aantekeningen bij zweven inschakelen.
+Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselecteerd bij zweven.</translation>
     </message>
     <message>
         <source>Free select</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrije keuze</translation>
     </message>
     <message>
         <source>Remember last used image extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Laatst gebruikte afbeeldingsextensie onthouden</translation>
     </message>
 </context>
 <context>
