@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>Print</source>
-        <translation>Print</translation>
+        <translation>인쇄</translation>
     </message>
     <message>
         <source>Reply</source>
@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>Space</source>
-        <translation>Space</translation>
+        <translation>스페이스</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -3071,7 +3071,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Show </source>
-        <translation>보이기</translation>
+        <translation>보이기 </translation>
     </message>
     <message>
         <source>&apos;%1&apos; is write protected.
