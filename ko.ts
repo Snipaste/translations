@@ -5,15 +5,15 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>글자복사</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>링크 따라가기</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>%1+링크 따라가기</translation>
     </message>
 </context>
 <context>
@@ -757,15 +757,16 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
-        <translation type="unfinished"></translation>
+        <translation>적용하려면 Snipaste를 재시작 해야 합니다. 
+지금 재시작 할까요?</translation>
     </message>
     <message>
         <source>Close image</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 닫기</translation>
     </message>
     <message>
         <source>Destroy image</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 삭제</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -996,7 +997,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>확대</translation>
     </message>
 </context>
 <context>
@@ -1063,7 +1064,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Filled rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>사각형 채우기</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1091,11 +1092,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>확대</translation>
     </message>
     <message>
         <source>Clear content</source>
-        <translation type="unfinished"></translation>
+        <translation>컨텐츠 치우기</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1103,7 +1104,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>토글 : 매끄럽게</translation>
     </message>
 </context>
 <context>
@@ -1174,11 +1175,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>툴바 보기</translation>
     </message>
     <message>
         <source>Show annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>주석 보기</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -1274,7 +1275,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Quit annotating</source>
-        <translation type="unfinished"></translation>
+        <translation>주석 나가기</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1394,7 +1395,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Show hidden images</source>
-        <translation type="unfinished"></translation>
+        <translation>숨겨진 이미지 보기</translation>
     </message>
 </context>
 <context>
@@ -1458,15 +1459,15 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste가 관리자 권한으로 실행 중이므로 구매를 완료할 수 없습니다.</translation>
     </message>
     <message>
         <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>관리자가 아닌 사용자를 사용하여 운영 체제에 로그온하여 계속할 수 있습니다. 구매 후 이 사용자 계정으로 자유롭게 전환할 수 있습니다.</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>UAC(사용자 계정 컨트롤)를 비활성화했습니까? 구매하는 동안 활성화하십시오.</translation>
     </message>
 </context>
 <context>
@@ -1499,7 +1500,9 @@ You may restart Snipaste with admin privileges and try again.</source>
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>캡쳐시 툴바 아이콘에 빨간 점이 보인다면? 클릭해 보세요, 꿀팁들이 나타납니다!
+(알림을 앞으로 보지 않으려면 아무 항목이나 클릭하세요.)
+</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1565,7 +1568,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
+        <translation>현재 이미지 그룹 비우기</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1650,19 +1653,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>바로 가기가 이미 사용 중입니다.</translation>
     </message>
     <message>
         <source>The shortcut has already been registered by another program.</source>
-        <translation type="unfinished"></translation>
+        <translation>바로가기는 이미 다른 프로그램에 의해 등록되었습니다.</translation>
     </message>
     <message>
         <source>The shortcut is too simple and would not be registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>바로 가기가 너무 간단하여 등록되지 않습니다.</translation>
     </message>
     <message>
         <source>The shortcut cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>바로가기를 인식할 수 없습니다.</translation>
     </message>
     <message>
         <source>Press shortcut</source>
@@ -1677,7 +1680,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>사전 설정에 추가</translation>
     </message>
 </context>
 <context>
@@ -1783,7 +1786,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 이미지를 고정하시겠습니까? (Number: %1)</translation>
     </message>
     <message>
         <source>is already running.</source>
@@ -1831,7 +1834,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The group title should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>그룹 제목은 비워둘 수 없습니다.</translation>
     </message>
     <message>
         <source>New group name:</source>
@@ -1914,11 +1917,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>Snipper</name>
     <message>
         <source>Lock aspect ratio (on)</source>
-        <translation type="unfinished"></translation>
+        <translation>가로 세로 비율 잠금 (켜기)</translation>
     </message>
     <message>
         <source>Lock aspect ratio (off)</source>
-        <translation type="unfinished"></translation>
+        <translation>가로 세로 비율 잠금 (끄기)</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
@@ -1942,20 +1945,21 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>영역크기 입력</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>크기 단위 변경</translation>
     </message>
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
-        <translation type="unfinished"></translation>
+        <translation>스크린샷 새로고침
+(새로고침을 유지하려면 길게 누르세요)</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>오류: 디스플레이 장치를 감지할 수 없습니다. Snipaste를 다시 시작하십시오.</translation>
     </message>
 </context>
 <context>
@@ -1998,7 +2002,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO와 무료버전을 비교하려면 &lt;a href=&quot;%1&quot;&gt;웹사이트&lt;/a&gt;를 방문하세요.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -2075,11 +2079,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>마이크로소프트 스토어</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>(데스크탑)</translation>
     </message>
 </context>
 <context>
@@ -3346,19 +3350,19 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Follow system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템 테마에 따름</translation>
     </message>
     <message>
         <source>Disable reedition for Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>지우개 재편집 비활성화</translation>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>공유 버튼 보이기</translation>
     </message>
     <message>
         <source>Max window size:</source>
-        <translation type="unfinished"></translation>
+        <translation>최대 창 크기 :</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.
@@ -3368,39 +3372,41 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택하면 다른 DPI의 화면에서 이동할 때 이미지 창의 크기가 조정되지 않습니다.
+또한 창 배열을 유지하기 위해 원격 데스크톱 연결에 유용합니다.</translation>
     </message>
     <message>
         <source>Disable window scaling on high DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>높은 DPI에서 창 크기 조정 비활성화</translation>
     </message>
     <message>
         <source>Enable selecting any types of drawn annotations on hovering.
 If unchecked, only the active type of annotations can be selected on hovering.</source>
-        <translation type="unfinished"></translation>
+        <translation>커서를 올리고 있으면 그려진 주석의 모든 유형을 선택할 수 있습니다.
+선택하지 않으면 커서를 올릴때 활성 유형의 주석만 선택할 수 있습니다.</translation>
     </message>
     <message>
         <source>Free select</source>
-        <translation type="unfinished"></translation>
+        <translation>자유선택</translation>
     </message>
     <message>
         <source>Remember last used image extension</source>
-        <translation type="unfinished"></translation>
+        <translation>마지막으로 사용한 이미지 확장자 기억</translation>
     </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
     <message>
         <source>Output Options:</source>
-        <translation>출력 옵션 : </translation>
+        <translation>출력 옵션 :</translation>
     </message>
     <message>
         <source>Shadow:</source>
-        <translation></translation>
+        <translation>그림자 :</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation></translation>
+        <translation>두께 :</translation>
     </message>
 </context>
 <context>
@@ -3411,11 +3417,11 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Quit snipping (Esc)</source>
-        <translation>캡춰 나가기(Esc)</translation>
+        <translation>스니핑 나가기(Esc)</translation>
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation>화면으로 Pin걸기(Ctrl+T)</translation>
+        <translation>화면으로 핀고정(Ctrl+T)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
@@ -3431,7 +3437,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>공유</translation>
     </message>
 </context>
 <context>
@@ -3454,15 +3460,15 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Filled ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>채워진 타원</translation>
     </message>
     <message>
         <source>Line start</source>
-        <translation type="unfinished"></translation>
+        <translation>선의 머리 유형</translation>
     </message>
     <message>
         <source>Line end</source>
-        <translation type="unfinished"></translation>
+        <translation>선의 꼬리 유형</translation>
     </message>
 </context>
 <context>
@@ -3499,7 +3505,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation>팁 : </translation>
+        <translation>팁 :</translation>
     </message>
 </context>
 <context>
@@ -3513,15 +3519,15 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <name>updatedialog</name>
     <message>
         <source>Latest version:</source>
-        <translation>마지막 버전 : </translation>
+        <translation>마지막 버전 :</translation>
     </message>
     <message>
         <source>Your version:</source>
-        <translation>당신의 버전 : </translation>
+        <translation>현재 버전 :</translation>
     </message>
     <message>
         <source>Last check:</source>
-        <translation>마지막 확인 : </translation>
+        <translation>마지막 확인 :</translation>
     </message>
     <message>
         <source>Download and install updates</source>
@@ -3536,11 +3542,11 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <name>zoominputdialog</name>
     <message>
         <source>Zoom:</source>
-        <translation>줌 : </translation>
+        <translation>줌 :</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation>사이즈 : </translation>
+        <translation>크기 :</translation>
     </message>
     <message>
         <source>OK</source>
