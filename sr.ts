@@ -5,15 +5,15 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирај текст</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>Пратити линк</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>%1+Клик да се прати линк</translation>
     </message>
 </context>
 <context>
@@ -759,15 +759,16 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Поновно покретање је потребно.
+Поново покренути Snipastе?</translation>
     </message>
     <message>
         <source>Close image</source>
-        <translation type="unfinished"></translation>
+        <translation>Затворити слику</translation>
     </message>
     <message>
         <source>Destroy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Уништити слику</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -1177,11 +1178,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Приказати алатну траку</translation>
     </message>
     <message>
         <source>Show annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Приказати анотације</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -1277,7 +1278,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Quit annotating</source>
-        <translation type="unfinished"></translation>
+        <translation>Затворити анотације</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1462,15 +1463,15 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Куповина не може да се заврши пошто је Snipaste покренут као администратор.</translation>
     </message>
     <message>
         <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Можете покушати да наставите тако што ћете се пријавити на систеум са корисником који није администратор. Можете се слободно вратити на овај налог НАКОН куповине.</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Да ли сте угасили UAC (User Account Control)? Омогућите га ТОКОМ куповине.</translation>
     </message>
 </context>
 <context>
@@ -1503,7 +1504,8 @@ You may restart Snipaste with admin privileges and try again.</source>
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Да ли сте приметили црвене тачке на траци са алаткама? Оне ће вам показати корисне савете!
+Кликните на било коју од њих да бисте трајно одбацили ово обавештење.</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1569,7 +1571,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
+        <translation>Испразнити тренутну групу слика</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
@@ -1654,19 +1656,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пречице се већ користи.</translation>
     </message>
     <message>
         <source>The shortcut has already been registered by another program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Други програм већ користи ту пречицу.</translation>
     </message>
     <message>
         <source>The shortcut is too simple and would not be registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пречица је једноставна и неће бити регистрована.</translation>
     </message>
     <message>
         <source>The shortcut cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се препозна пречица.</translation>
     </message>
     <message>
         <source>Press shortcut</source>
@@ -1787,7 +1789,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Сигурно да се закаче све слике? (Број: %1)</translation>
     </message>
     <message>
         <source>is already running.</source>
@@ -1835,7 +1837,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The group title should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Наслов групе не може да буде празан.</translation>
     </message>
     <message>
         <source>New group name:</source>
@@ -1917,11 +1919,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>Snipper</name>
     <message>
         <source>Lock aspect ratio (on)</source>
-        <translation type="unfinished"></translation>
+        <translation>Закључај однос ширине и висине (да)</translation>
     </message>
     <message>
         <source>Lock aspect ratio (off)</source>
-        <translation type="unfinished"></translation>
+        <translation>Закључај однос ширине и висине (не)</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
@@ -1945,16 +1947,17 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Унос величине региона</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Промените јединицу величине</translation>
     </message>
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Освежите снимак екрана
+(Дуго притисните да наставите освежавање)</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -2001,7 +2004,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation type="unfinished"></translation>
+        <translation>Идите на &lt;a href=&quot;%1&quot;&gt;сајту&lt;/a&gt; да би упоредили Snipaste 2 PRO и бесплатну верзију.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -2077,11 +2080,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>за Microsoft Store</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Desktop)</translation>
     </message>
 </context>
 <context>
@@ -3380,24 +3383,26 @@ Snipaste не сме се покретати повишеним да би се �
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако је означено, прозори слике неће бити скалирани када се крећете преко екрана различитих ДПИ.
+Такође је корисно за везе са удаљеном радном површином да задрже распоред прозора.</translation>
     </message>
     <message>
         <source>Disable window scaling on high DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>Онемогућите скалирање прозора на високом ДПИ</translation>
     </message>
     <message>
         <source>Enable selecting any types of drawn annotations on hovering.
 If unchecked, only the active type of annotations can be selected on hovering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Омогућите избор било које врсте нацртаних напомена при прелаза.
+Ако није означено, само активни тип напомена може да се изабере када се прелети.</translation>
     </message>
     <message>
         <source>Free select</source>
-        <translation type="unfinished"></translation>
+        <translation>Слободно одабирање</translation>
     </message>
     <message>
         <source>Remember last used image extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Запамтити последњу коришћену екстензију за слику</translation>
     </message>
 </context>
 <context>
