@@ -1107,7 +1107,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation>Alterna smussatura</translation>
+        <translation>Alterna sfumatura</translation>
     </message>
 </context>
 <context>
@@ -1206,7 +1206,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation>Smussatura</translation>
+        <translation>Sfumatura</translation>
     </message>
     <message>
         <source>Background mode</source>
@@ -1332,7 +1332,7 @@ Puoi trovare il tasto di scelta rapida del clic-attraverso del mouse in &quot;Pr
     </message>
     <message>
         <source>Rotate left</source>
-        <translation>Ruota a sinistra</translation>
+        <translation>Rotazione antioraria</translation>
     </message>
     <message>
         <source>Next frame</source>
@@ -1340,15 +1340,15 @@ Puoi trovare il tasto di scelta rapida del clic-attraverso del mouse in &quot;Pr
     </message>
     <message>
         <source>Rotate right</source>
-        <translation>Ruota a destra</translation>
+        <translation>Rotazione oraria</translation>
     </message>
     <message>
         <source>Horizontal flip</source>
-        <translation>Ribaltamento orizzontale</translation>
+        <translation>Specularità orizzontale</translation>
     </message>
     <message>
         <source>Vertical flip</source>
-        <translation>Ribaltamento verticale</translation>
+        <translation>Specularità verticale</translation>
     </message>
     <message>
         <source>All desktops</source>
