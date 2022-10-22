@@ -1288,7 +1288,7 @@ Puoi trovare il tasto di scelta rapida del clic-attraverso del mouse in &quot;Pr
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation>Nascondi altre immagini per ora</translation>
+        <translation>Nascondi temporaneamente le altre immagini</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -1380,7 +1380,7 @@ Puoi trovare il tasto di scelta rapida del clic-attraverso del mouse in &quot;Pr
     </message>
     <message>
         <source>Color inverted</source>
-        <translation>Colore invertito</translation>
+        <translation>Colori invertiti</translation>
     </message>
     <message>
         <source>Double clicking the image window will close the window.
@@ -3570,7 +3570,7 @@ Se deselezionato, solo il tipo attivo di annotazioni sarà selezionabile al pass
     </message>
     <message>
         <source>Zoom Image</source>
-        <translation>Ingrandire immagine</translation>
+        <translation>Ridimensiona immagine</translation>
     </message>
 </context>
 </TS>
