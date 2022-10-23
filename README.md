@@ -32,6 +32,7 @@ If you do not have an account yet, just [let me know](mailto:snipaste.app@gmail.
 | Korean                | ko    | [![](https://translations.snipaste.com/widgets/snipaste/ko/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/ko/) | [박경태](https://github.com/parkkyeongtae) |
 | Czech                 | cs_cz | [![](https://translations.snipaste.com/widgets/snipaste/cs_CZ/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/cs_CZ/) | Štěpán Hašler |
 | Italian               | it_it | [![](https://translations.snipaste.com/widgets/snipaste/it/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/it/) | [mausan66](mailto:muox66@gmail.com) |
+| Ukrainian             | uk | [![](https://translations.snipaste.com/widgets/snipaste/uk/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/uk/) | [sharkeron](https://github.com/sharkeron) |
 
 
 ## Contact
