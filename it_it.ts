@@ -3275,7 +3275,7 @@ Otterrai un tempo di risposta migliore per l&apos;avvio del ritaglio.</translati
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation>Annotazione predefinita:</translation>
+        <translation>Strumento predefinito:</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
