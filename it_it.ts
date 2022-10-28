@@ -1206,7 +1206,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation>Sfumatura</translation>
+        <translation>Lisciatura</translation>
     </message>
     <message>
         <source>Background mode</source>
@@ -1376,7 +1376,7 @@ Puoi trovare il tasto di scelta rapida del clic-attraverso del mouse in &quot;Pr
     </message>
     <message>
         <source>Invert color</source>
-        <translation>Inverti il colore</translation>
+        <translation>Inversione colori</translation>
     </message>
     <message>
         <source>Color inverted</source>
