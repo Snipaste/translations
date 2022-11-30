@@ -228,10 +228,6 @@ Please contact the developer.</source>
         <translation>ウィンドウ検出と要素検出の切り替え</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>切り取るエリアをフルスクリーンに設定する</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>切り取るエリアを直近成功したエリアに設定する</translation>
     </message>
@@ -242,6 +238,10 @@ Please contact the developer.</source>
     <message>
         <source>Switch to the next snip record</source>
         <translation>次の切り取り記録に切り替え</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation>スクリーンショットを再表示する</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -336,6 +336,10 @@ Please contact the developer.</source>
         <translation>矢印キー</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation>切り取るエリアをフルスクリーンに設定する</translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>非編集状態で切り取るエリア/画像ウィンドウを 1 ピクセル移動</translation>
     </message>
@@ -405,7 +409,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation>すべて表示画像を選択する　[PRO]</translation>
+        <translation>すべて表示画像を選択する&#x3000;[PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
@@ -420,16 +424,16 @@ Please contact the developer.</source>
         <translation>編集状態でペンの太さを大きく/小さくする</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>前回切り取るエリアを使用する</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>切り取り履歴を再生する</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>全画面切り取り</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>前回切り取るエリアを使用する</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation>切り取るエリアをフルスクリーンに設定する</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
@@ -1284,7 +1288,7 @@ Are you sure you want to switch to another configuration file?</source>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>「X」キーのダブルクリック操作がすでに無効になった。
-マウスクリック無効化必要の場合は「環境設定　-　ショートカット」で調整 。</translation>
+マウスクリック無効化必要の場合は「環境設定&#x3000;-&#x3000;ショートカット」で調整 。</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -1364,7 +1368,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation>デスクトップ　%1</translation>
+        <translation>デスクトップ&#x3000;%1</translation>
     </message>
     <message>
         <source>Copy raw HTML</source>
@@ -1386,7 +1390,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation>画像ウィンドウをダブルクリックし、ウィンドウが閉じる。
-環境設定で本動作を調整できる：コントロール　-　マウス。</translation>
+環境設定で本動作を調整できる：コントロール&#x3000;-&#x3000;マウス。</translation>
     </message>
     <message>
         <source>Export selected images to...</source>

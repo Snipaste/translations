@@ -228,10 +228,6 @@ Informeer alsjeblieft de maker.</translation>
         <translation>Wisselen tussen detectie van venster en element</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>Knipgebied instellen op volledig scherm</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>Knipgebied instellen gelijk aan vorige Knip</translation>
     </message>
@@ -242,6 +238,10 @@ Informeer alsjeblieft de maker.</translation>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Naar volgende Knip overschakelen</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation>Schermopname verversen</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -336,6 +336,10 @@ Informeer alsjeblieft de maker.</translation>
         <translation>Pijltoetsen</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation>Knipgebied instellen op volledig scherm</translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>Knipgebied/afbeeldingskader met 1 pixel verplaatsen</translation>
     </message>
@@ -420,16 +424,16 @@ Informeer alsjeblieft de maker.</translation>
         <translation>Verklein/vergroot de pendikte in de bewerkingsmodus</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>Laatste knipgebied(en) opnieuw toepassen</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>Knipgeschiedenis weergeven</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>Volledig scherm vastleggen</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>Laatste knipgebied(en) opnieuw toepassen</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation>Knipgebied instellen op volledig scherm</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>

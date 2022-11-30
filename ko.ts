@@ -226,10 +226,6 @@ Please contact the developer.</source>
         <translation>토글 : 윈도우창 / 요소감지</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>전체화면을 캡춰영역으로 지정</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>마지막 캡춰했던 영역으로 설정</translation>
     </message>
@@ -240,6 +236,10 @@ Please contact the developer.</source>
     <message>
         <source>Switch to the next snip record</source>
         <translation>다음 스니프 기록으로 전환</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation>스크린샷 새로고침</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -334,6 +334,10 @@ Please contact the developer.</source>
         <translation>방향키</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation>전체화면을 캡춰영역으로 지정</translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>편집하지 않으면 snipping 영역 / 이미지창을 1 픽셀씩 이동</translation>
     </message>
@@ -418,16 +422,16 @@ Please contact the developer.</source>
         <translation>편집 모드 인 경우 펜 너비 감소/증가</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>마지막 캡춰 영역을 재사용 합니다</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>캡춰 히스토리를 재생합니다</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>전체 화면 캡춰</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>마지막 캡춰 영역을 재사용 합니다</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation>전체화면을 캡춰영역으로 지정</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>

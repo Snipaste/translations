@@ -228,10 +228,6 @@ Please contact the developer.</source>
         <translation>Переключение между обнаружением окна и обнаружением элемента</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>Установить выделение области экрана в полноэкранный режим</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>Установить выделение области так же, как и последнее успешный раз</translation>
     </message>
@@ -242,6 +238,10 @@ Please contact the developer.</source>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Переключить на следующую запись области</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation>Обновить скриншот</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -336,6 +336,10 @@ Please contact the developer.</source>
         <translation>Клавиши со стрелками</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation>Установить выделение области экрана в полноэкранный режим</translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>Перемещение области выделения фрагментов/изображения на 1 пиксель, если оно не редактируется</translation>
     </message>
@@ -420,16 +424,16 @@ Please contact the developer.</source>
         <translation>Уменьшить/увеличить ширину пера в режиме редактирования</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>Переиспользовать последние области выделения</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>Воспроизвести историю выделения</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>Захватить весь экран</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>Переиспользовать последние области выделения</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation>Установить выделение области экрана в полноэкранный режим</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>

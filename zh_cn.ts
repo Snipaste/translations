@@ -227,10 +227,6 @@ Please contact the developer.</source>
         <translation>切换检测窗口/检测界面元素</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>设置截屏区域为全屏</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>将截屏区域设置为上一次成功截屏时的区域</translation>
     </message>
@@ -241,6 +237,10 @@ Please contact the developer.</source>
     <message>
         <source>Switch to the next snip record</source>
         <translation>切换到下一次截屏记录</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation>刷新截图</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -335,6 +335,10 @@ Please contact the developer.</source>
         <translation>方向键</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation>设置截屏区域为当前屏幕/全屏</translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>非编辑状态下，将截屏区域/贴图窗口移动 1 像素</translation>
     </message>
@@ -419,16 +423,16 @@ Please contact the developer.</source>
         <translation>调整画笔粗细（编辑模式时）</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>使用上一次截屏的区域</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>回溯截屏历史</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>捕捉全屏</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>使用上一次截屏的区域</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation>设置截屏区域为当前屏幕/全屏</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>

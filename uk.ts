@@ -226,10 +226,6 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation type="unfinished"></translation>
     </message>
@@ -239,6 +235,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Switch to the next snip record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -334,6 +334,10 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation type="unfinished"></translation>
     </message>
@@ -418,15 +422,15 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Capture full screen</source>
+        <source>Reuse the last snipping areas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

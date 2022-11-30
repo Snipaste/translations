@@ -278,10 +278,6 @@ Please contact the developer.</source>
         <translation>اقلب الصورة عموديا</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>تعيين منطقه القص الى ملء الشاشة</translation>
-    </message>
-    <message>
         <source>Shrink the snipping area by 1 pixel</source>
         <translation>تقليص منطقه القص بمقدار 1 بيكسل</translation>
     </message>
@@ -382,12 +378,20 @@ Please contact the developer.</source>
         <translation>اظهار/اخفاء المؤشر الملتقط</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation>تعيين منطقه القص الى ملء الشاشة</translation>
+    </message>
+    <message>
         <source>Comma</source>
         <translation>فاصله</translation>
     </message>
     <message>
         <source>Period</source>
         <translation>فترة</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
@@ -418,16 +422,16 @@ Please contact the developer.</source>
         <translation>إنقاص/زيادة عرض القلم إذا كان في وضع التحرير</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>إعادة استخدام مناطق القص الأخيرة</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>إعادة تشغيل تاريخ القص</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>التقاط ملء الشاشة</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>إعادة استخدام مناطق القص الأخيرة</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation>تعيين منطقه القص الى ملء الشاشة</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>

@@ -226,10 +226,6 @@ Please contact the developer.</source>
         <translation>Zwischen Fenstererkennung und Elementerkennung wechseln</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>Aufnahmebereich auf Vollbild stellen</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>Aufnahmebereich wie bei letzter erfolgreicher Aufnahme einstellen</translation>
     </message>
@@ -240,6 +236,10 @@ Please contact the developer.</source>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Zum nächsten Aufnahme-Eintrag wechseln</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation>Bildschirmfoto aktualisieren</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -334,6 +334,10 @@ Please contact the developer.</source>
         <translation>Pfeiltasten</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation>Aufnahmebereich auf Vollbild stellen</translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>Aufnahmebereich/Bildfenster um 1 Pixel verschieben wenn nicht editiert wird</translation>
     </message>
@@ -418,16 +422,16 @@ Please contact the developer.</source>
         <translation>Verringern/Vergrößern der Stiftbreite im Bearbeitungsmodus</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>Letzten Aufnahmebereich wiederverwenden</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>Aufnahmeverlauf wiedergeben</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>Vollbild erfassen</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>Letzten Aufnahmebereich wiederverwenden</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation>Aufnahmebereich auf Vollbild stellen</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>

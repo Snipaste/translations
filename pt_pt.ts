@@ -228,10 +228,6 @@ Por favor contacte o autor.</translation>
         <translation>Alterna entre detecção de janela e de elemento</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>Define a área de captura para todo o ecrã</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>Define a área de captura como a da última efectuada</translation>
     </message>
@@ -242,6 +238,10 @@ Por favor contacte o autor.</translation>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Muda para a captura seguinte</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation>Actualizar captura</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -336,6 +336,10 @@ Por favor contacte o autor.</translation>
         <translation>Teclas de setas</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation>Define a área de captura para todo o ecrã</translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>Move a janela da captura/imagem 1 píxel se não estiver a editar</translation>
     </message>
@@ -420,16 +424,16 @@ Por favor contacte o autor.</translation>
         <translation>Diminuir/Aumentar a largura da caneta no modo edição</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>Reutilizar as últimas áreas de captura</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>Reproduzir histórico de capturas</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>Capturar ecrã completo</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>Reutilizar as últimas áreas de captura</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation>Define a área de captura para todo o ecrã</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
