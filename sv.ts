@@ -228,10 +228,6 @@ Kontakta programutvecklaren.</translation>
         <translation>Växla mellan fönster- och elementidentifiering</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>Ange klipprektangel som helskärm</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>Ange klipprektangeln till samma storlek som senast lyckade klipp</translation>
     </message>
@@ -242,6 +238,10 @@ Kontakta programutvecklaren.</translation>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Växla till nästa klippost</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -336,6 +336,10 @@ Kontakta programutvecklaren.</translation>
         <translation>Piltangenter</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>Flytta klipprektangel/bildfönster 1 pixe,l undantaget redigering</translation>
     </message>
@@ -420,15 +424,15 @@ Kontakta programutvecklaren.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Capture full screen</source>
+        <source>Reuse the last snipping areas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1572,6 +1576,10 @@ Click any of them to dismiss this notification permanently.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Scan QR code / barcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation type="unfinished"></translation>
@@ -1945,6 +1953,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No QR code / barcode detected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QR code / barcode scan result</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

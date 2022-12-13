@@ -236,10 +236,6 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <translation>Yakalanan imleci göster/gizle</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>Kırpma alanını tam ekran olarak belirleyin</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>Kırpma alanını son başarılı kırpma ile aynı şekilde belirleyin</translation>
     </message>
@@ -258,6 +254,10 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Sonraki kırpma kaydına geç</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Arrow keys</source>
@@ -400,6 +400,10 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <translation>Görüntü penceresini kapat</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toggle color inversion [PRO]</source>
         <translation>Renk çevirmeyi aç/kapat [PRO]</translation>
     </message>
@@ -420,16 +424,16 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <translation>Düzenleme modundaysa kalem genişliğini azalt/artır</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>Son kırpma alanını yeniden kullan</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>Kırpma geçmişini oynat</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>Tam ekran yakala</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation type="unfinished">Son kırpma alanını yeniden kullan</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
@@ -1606,6 +1610,10 @@ Bu bildirimi kalıcı olarak kapatmak için bunlardan herhangi birini tıklayın
         <translation>Son kırpma alanını kırp ve kopyala</translation>
     </message>
     <message>
+        <source>Scan QR code / barcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enter whiteboard mode</source>
         <translation>Beyaz tahta moduna geç</translation>
     </message>
@@ -1956,6 +1964,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No QR code / barcode detected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QR code / barcode scan result</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

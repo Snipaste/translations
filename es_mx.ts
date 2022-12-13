@@ -228,10 +228,6 @@ Por favor contacte al desarrollador.</translation>
         <translation>Cambiar entre detección de ventanas y detección de elementos</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>Establecer la zona de recorte a pantalla completa</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>Establecer la zona de recorte a la misma que del último recorte exitoso</translation>
     </message>
@@ -242,6 +238,10 @@ Por favor contacte al desarrollador.</translation>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Cambiar al siguiente registro de recorte</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation>Refrescar captura de pantalla</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -336,6 +336,10 @@ Por favor contacte al desarrollador.</translation>
         <translation>Teclas de navegación</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>Mover la ventana de la zona/imagen de recorte en 1 pixel si no se está editando</translation>
     </message>
@@ -420,16 +424,16 @@ Por favor contacte al desarrollador.</translation>
         <translation>Disminuye/Incrementa el ancho de la pluma si se encuentra en modo editar</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>Reutilizar las últimas áreas recortadas</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>Repetir historial de recortes</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>Capturar pantalla completa</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>Reutilizar las últimas áreas recortadas</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
@@ -1583,6 +1587,10 @@ Dale clic a cualquiera de ellos para quitar esta notificación permanentemente.
         <translation>Deshabilita/Habilita atajos globales</translation>
     </message>
     <message>
+        <source>Scan QR code / barcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>El atajo para alternar el modo del clic a través de la imagen debajo del cursor.
@@ -1959,6 +1967,14 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
 (Long press to keep refreshing)</source>
         <translation>Refrescar captura de pantalla
 (Manten presionado para seguir refrescando)</translation>
+    </message>
+    <message>
+        <source>No QR code / barcode detected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QR code / barcode scan result</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>

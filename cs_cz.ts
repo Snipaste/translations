@@ -226,10 +226,6 @@ Please contact the developer.</source>
         <translation>Přepnout mezi detekcí oken a detekcí prvků</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>Nastavit na celoobrazovkový výstřižek</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>Nastavit vystřihávání podle posledního úspěšného výstřižku</translation>
     </message>
@@ -240,6 +236,10 @@ Please contact the developer.</source>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Přepnout na následující záznam výstřižku</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -342,6 +342,10 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Comma</source>
         <translation type="unfinished"></translation>
     </message>
@@ -418,15 +422,15 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Capture full screen</source>
+        <source>Reuse the last snipping areas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1594,6 +1598,10 @@ Click any of them to dismiss this notification permanently.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Scan QR code / barcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enter whiteboard mode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1943,6 +1951,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No QR code / barcode detected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QR code / barcode scan result</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

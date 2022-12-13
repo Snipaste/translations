@@ -228,10 +228,6 @@ Per favore contatta lo sviluppatore.</translation>
         <translation>Alterna rilevamento della finestra e rilevamento degli elementi</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>Imposta l&apos;area ritagliata all&apos;intero schermo</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>Imposta l&apos;area di ritaglio uguale a quella dell&apos;ultimo ritaglio riuscito</translation>
     </message>
@@ -242,6 +238,10 @@ Per favore contatta lo sviluppatore.</translation>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Passa al record di ritaglio successivo</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation>Aggiorna screenshot</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -336,6 +336,10 @@ Per favore contatta lo sviluppatore.</translation>
         <translation>Tasti freccia</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>Spostare l&apos;area di ritaglio/finestra dell&apos;immagine di 1 pixel se non in modifica</translation>
     </message>
@@ -420,16 +424,16 @@ Per favore contatta lo sviluppatore.</translation>
         <translation>Diminuire/Aumentare la larghezza della penna se in modalità di modifica</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>Riutilizza le ultime aree di ritaglio</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>Ripeti la cronologia dei ritagli</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>Cattura lo schermo intero</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>Riutilizza le ultime aree di ritaglio</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
@@ -1583,6 +1587,10 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
         <translation>Disabilita/Abilita i tasti di scelta rapida globali</translation>
     </message>
     <message>
+        <source>Scan QR code / barcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>La scorciatoia per alternare la modalità di clic-attraverso dell&apos;immagine sotto il cursore.
@@ -1959,6 +1967,14 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
 (Long press to keep refreshing)</source>
         <translation>Aggiorna screenshot
 (Premere a lungo per continuare ad aggiornare)</translation>
+    </message>
+    <message>
+        <source>No QR code / barcode detected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QR code / barcode scan result</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>

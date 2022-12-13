@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_CN" sourcelanguage="en_US">
 <context>
@@ -227,10 +227,6 @@ Please contact the developer.</source>
         <translation>切换检测窗口/检测界面元素</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>设置截屏区域为全屏</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>将截屏区域设置为上一次成功截屏时的区域</translation>
     </message>
@@ -241,6 +237,10 @@ Please contact the developer.</source>
     <message>
         <source>Switch to the next snip record</source>
         <translation>切换到下一次截屏记录</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation>刷新截图</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -335,6 +335,10 @@ Please contact the developer.</source>
         <translation>方向键</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation>设置截屏区域为当前屏幕/全屏</translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>非编辑状态下，将截屏区域/贴图窗口移动 1 像素</translation>
     </message>
@@ -419,16 +423,16 @@ Please contact the developer.</source>
         <translation>调整画笔粗细（编辑模式时）</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>使用上一次截屏的区域</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>回溯截屏历史</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>捕捉全屏</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>使用上一次截屏的区域</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation>设置截屏区域为当前屏幕/全屏</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
@@ -1570,6 +1574,10 @@ Click any of them to dismiss this notification permanently.
         <translation>鼠标穿透开关</translation>
     </message>
     <message>
+        <source>Scan QR code / barcode</source>
+        <translation>扫描二维码/条形码</translation>
+    </message>
+    <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>该快捷键用于开启/关闭光标所在位置的贴图的鼠标穿透状态。
@@ -1958,6 +1966,14 @@ If no image window is under the cursor, all unclickable images will be made clic
 (Long press to keep refreshing)</source>
         <translation>刷新截图
 (长按可持续刷新)</translation>
+    </message>
+    <message>
+        <source>No QR code / barcode detected.</source>
+        <translation>没有检测到二维码/条形码。</translation>
+    </message>
+    <message>
+        <source>QR code / barcode scan result</source>
+        <translation>二维码/条形码扫描结果</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>

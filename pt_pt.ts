@@ -228,10 +228,6 @@ Por favor contacte o autor.</translation>
         <translation>Alterna entre detecção de janela e de elemento</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>Define a área de captura para todo o ecrã</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>Define a área de captura como a da última efectuada</translation>
     </message>
@@ -242,6 +238,10 @@ Por favor contacte o autor.</translation>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Muda para a captura seguinte</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation>Actualizar captura</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -336,6 +336,10 @@ Por favor contacte o autor.</translation>
         <translation>Teclas de setas</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>Move a janela da captura/imagem 1 píxel se não estiver a editar</translation>
     </message>
@@ -420,16 +424,16 @@ Por favor contacte o autor.</translation>
         <translation>Diminuir/Aumentar a largura da caneta no modo edição</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>Reutilizar as últimas áreas de captura</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>Reproduzir histórico de capturas</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>Capturar ecrã completo</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>Reutilizar as últimas áreas de captura</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
@@ -1583,6 +1587,10 @@ Clique em qualquer deles para desligar esta notificação permanentemente.
         <translation>Activar/Desactivar teclas de atalho globais</translation>
     </message>
     <message>
+        <source>Scan QR code / barcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>A tecla de atalho para alternar para o modo clique do rato da imagem sob o cursor.
@@ -1959,6 +1967,14 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
 (Long press to keep refreshing)</source>
         <translation>Actualizar captura
 (Manter pressionado para continuar a actualizar)</translation>
+    </message>
+    <message>
+        <source>No QR code / barcode detected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QR code / barcode scan result</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>

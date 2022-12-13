@@ -278,10 +278,6 @@ Please contact the developer.</source>
         <translation>اقلب الصورة عموديا</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>تعيين منطقه القص الى ملء الشاشة</translation>
-    </message>
-    <message>
         <source>Shrink the snipping area by 1 pixel</source>
         <translation>تقليص منطقه القص بمقدار 1 بيكسل</translation>
     </message>
@@ -382,12 +378,20 @@ Please contact the developer.</source>
         <translation>اظهار/اخفاء المؤشر الملتقط</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Comma</source>
         <translation>فاصله</translation>
     </message>
     <message>
         <source>Period</source>
         <translation>فترة</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
@@ -418,16 +422,16 @@ Please contact the developer.</source>
         <translation>إنقاص/زيادة عرض القلم إذا كان في وضع التحرير</translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation>إعادة استخدام مناطق القص الأخيرة</translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation>إعادة تشغيل تاريخ القص</translation>
     </message>
     <message>
-        <source>Capture full screen</source>
-        <translation>التقاط ملء الشاشة</translation>
+        <source>Reuse the last snipping areas</source>
+        <translation>إعادة استخدام مناطق القص الأخيرة</translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
@@ -1572,6 +1576,10 @@ Click any of them to dismiss this notification permanently.
         <translation>تعطيل/تمكين مفاتيح الاختصار العالمية</translation>
     </message>
     <message>
+        <source>Scan QR code / barcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>الاختصار لتبديل وضع النقرة من الصورة تحت المؤشر. اذا لم يكن اطار الصورة تحت المؤشر ،
@@ -1946,6 +1954,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No QR code / barcode detected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QR code / barcode scan result</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

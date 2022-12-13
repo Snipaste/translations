@@ -228,10 +228,6 @@ Please contact the developer.</source>
         <translation>Εναλλαγή μεταξύ εντοπισμού παραθύρου και εντοπισμού στοιχείου</translation>
     </message>
     <message>
-        <source>Set the snipping area to fullscreen</source>
-        <translation>Ορίζει την περιοχή στιγμιότυπου σε πλήρη οθόνη</translation>
-    </message>
-    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation>Ορίζει την περιοχή στιγμιότυπου όπως το τελευταίο σας επιτυχημένο στιγμιότυπο</translation>
     </message>
@@ -242,6 +238,10 @@ Please contact the developer.</source>
     <message>
         <source>Switch to the next snip record</source>
         <translation>Μετάβαση στην επόμενη καταχώρηση στιγμιοτύπου</translation>
+    </message>
+    <message>
+        <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -336,6 +336,10 @@ Please contact the developer.</source>
         <translation>Πλήκτρα βέλους</translation>
     </message>
     <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation>Μετακίνηση περιοχής στιγμιοτύπου / παραθύρου εικόνας κατά 1 πίξελ, εάν δεν είναι σε επεξεργασία</translation>
     </message>
@@ -420,15 +424,15 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reuse last snipping areas</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Replay snipping history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Capture full screen</source>
+        <source>Reuse the last snipping areas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the active screen / fullscreen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1582,6 +1586,10 @@ Click any of them to dismiss this notification permanently.
         <translation>Απ-Ενεργοποίηση καθολικών πλήκτρων πρόσβασης</translation>
     </message>
     <message>
+        <source>Scan QR code / barcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation>Η συντόμευση για εναλλαγή της λειτουργίας κλικ ποντικιού της εικόνας κάτω από το δρομέα.
@@ -1957,6 +1965,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No QR code / barcode detected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QR code / barcode scan result</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
