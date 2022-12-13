@@ -337,7 +337,7 @@ Por favor contacte al desarrollador.</translation>
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer el area de recorte a la pantalla activa / pantalla completa</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -433,7 +433,7 @@ Por favor contacte al desarrollador.</translation>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar la pantalla activa / pantalla completa</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
@@ -1588,7 +1588,7 @@ Dale clic a cualquiera de ellos para quitar esta notificación permanentemente.
     </message>
     <message>
         <source>Scan QR code / barcode</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanear código QR / código de barras</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1970,11 +1970,11 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se detectó ningún código QR / código de barras.</translation>
     </message>
     <message>
         <source>QR code / barcode scan result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado de escaneo de código QR / código de barras</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
