@@ -337,7 +337,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Постави зону снимања на активном екрану/пуни екран</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -433,7 +433,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>одабрати сктицни екран/Пунуи екран</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
@@ -1509,7 +1509,8 @@ You may restart Snipaste with admin privileges and try again.</source>
 Click any of them to dismiss this notification permanently.
 </source>
         <translation>Да ли сте приметили црвене тачке на траци са алаткама? Оне ће вам показати корисне савете!
-Кликните на било коју од њих да бисте трајно одбацили ово обавештење.</translation>
+Кликните на било коју од њих да бисте трајно одбацили ово обавештење.
+</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1587,7 +1588,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Scan QR code / barcode</source>
-        <translation type="unfinished"></translation>
+        <translation>Скенирати QR код / баркод</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1969,11 +1970,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Није нађен QR код / баркод.</translation>
     </message>
     <message>
         <source>QR code / barcode scan result</source>
-        <translation type="unfinished"></translation>
+        <translation>резултат скенирања QR кода / баркода</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
