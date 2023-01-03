@@ -337,7 +337,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Установите область обрезки на текущий экран/полноэкранный режим</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -433,7 +433,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите текущее окно/полноэкранный режим</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
@@ -1588,7 +1588,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Scan QR code / barcode</source>
-        <translation type="unfinished"></translation>
+        <translation>Сканировать QR-код/штрих-код</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1970,11 +1970,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>QR-код/штрих-код не обнаружен.</translation>
     </message>
     <message>
         <source>QR code / barcode scan result</source>
-        <translation type="unfinished"></translation>
+        <translation>Результат сканирования QR-кода/штрих-кода</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
