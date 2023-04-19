@@ -627,19 +627,19 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Week day in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Giorno della settimana in italiano (abbr.)</translation>
     </message>
     <message>
         <source>Week day in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Giorno della settimana in italiano</translation>
     </message>
     <message>
         <source>Month name in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome del mese in italiano (abbr.)</translation>
     </message>
     <message>
         <source>Month name in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome del mese in italiano</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1588,7 +1588,7 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
     </message>
     <message>
         <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilita/Disabilita gli angoli attivi</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -1692,7 +1692,7 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes/regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica le preimpostazioni di dimensioni/regioni</translation>
     </message>
 </context>
 <context>
@@ -1937,7 +1937,7 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiusta l&apos;area di ritaglio</translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -3412,15 +3412,15 @@ Se deselezionato, solo il tipo attivo di annotazioni sarà selezionabile al pass
     </message>
     <message>
         <source>Copy image as file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia l&apos;immagine come file:</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita</translation>
     </message>
 </context>
 <context>
@@ -3525,7 +3525,20 @@ Examples:
 ---
 1280 720 720p
 200 50 20 20 icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato:
+• Per dimensioni: larghezza altezza
+• Per regioni: sinistra alto larghezza altezza
+
+PRO solamente:
+• Si può denominare una preimpostazione aggiungendo il nome alla fine della riga
+• Si può usare &quot;---&quot; come seperatore
+
+Esempi:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 icona</translation>
     </message>
 </context>
 <context>
