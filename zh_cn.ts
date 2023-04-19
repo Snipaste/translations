@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_CN" sourcelanguage="en_US">
 <context>
@@ -36,6 +36,10 @@
 </context>
 <context>
     <name>CustomSnipDialog</name>
+    <message>
+        <source>Add to presets</source>
+        <translation>添加到预设</translation>
+    </message>
     <message>
         <source>Edit presets...</source>
         <translation>编辑预设值...</translation>
@@ -537,28 +541,12 @@ Restart now to enjoy PRO features?</source>
         <translation>日期 (01-31)</translation>
     </message>
     <message>
-        <source>Localized day name (abbr.)</source>
-        <translation>周几</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation>星期几</translation>
-    </message>
-    <message>
         <source>Month (1-12)</source>
         <translation>月份 (1-12)</translation>
     </message>
     <message>
         <source>Month (01-12)</source>
         <translation>月份 (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation>月份名 (小写)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation>月份名 (大写)</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
@@ -635,6 +623,22 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>The title of the active window before snipping</source>
         <translation>截图前的活动窗口的标题</translation>
+    </message>
+    <message>
+        <source>Week day in English (abbr.)</source>
+        <translation>星期几 (英文缩写)</translation>
+    </message>
+    <message>
+        <source>Week day in English</source>
+        <translation>星期几 (英文全称)</translation>
+    </message>
+    <message>
+        <source>Month name in English (abbr.)</source>
+        <translation>月份 (英文缩写)</translation>
+    </message>
+    <message>
+        <source>Month name in English</source>
+        <translation>月份 (英文全称)</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1469,11 +1473,6 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>由于 Snipaste 正在以管理员身份运行，导致无法完成购买。</translation>
     </message>
     <message>
-        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation>请尝试以普通用户或访客用户登录操作系统，然后继续购买。
-在购买完成后，您可以切换回当前用户。</translation>
-    </message>
-    <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation>您是否禁用了 UAC (用户账户控制)？请在购买前从系统设置中启用它，购买后您可以恢复设置。</translation>
     </message>
@@ -1571,7 +1570,11 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation>鼠标穿透开关</translation>
+        <translation>开/关鼠标穿透</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation>禁用/启用触发角</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -1684,21 +1687,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
-    <name>SizeInputDialog</name>
-    <message>
-        <source>Edit presets...</source>
-        <translation>编辑预设值...</translation>
-    </message>
-    <message>
-        <source>Add to presets</source>
-        <translation>添加到预设</translation>
-    </message>
-</context>
-<context>
     <name>SizePresetsDialog</name>
     <message>
-        <source>Edit preset sizes</source>
-        <translation>编辑预设尺寸</translation>
+        <source>Edit preset sizes/regions</source>
+        <translation>编辑预设尺寸/区域</translation>
     </message>
 </context>
 <context>
@@ -1940,6 +1932,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Do not show this again</source>
         <translation>以后不再显示此消息</translation>
+    </message>
+    <message>
+        <source>Adjust the snipping area</source>
+        <translation>调整截图区域</translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -3169,10 +3165,6 @@ You will gain better response time on entering snipping.</source>
         <translation>贴图</translation>
     </message>
     <message>
-        <source>So that you can also paste the image into file explorer.</source>
-        <translation>这样你可以直接将图片粘贴到文件管理器中。</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>文件</translation>
     </message>
@@ -3353,10 +3345,6 @@ You will gain better response time on entering snipping.</source>
         <translation>命名规则</translation>
     </message>
     <message>
-        <source>Also copy image as file</source>
-        <translation>同时复制为文件</translation>
-    </message>
-    <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
         <translation>被关闭的贴图窗口可以通过再次按下贴图键来恢复，只要已经被关闭的贴图数没有超过这个值。
@@ -3460,6 +3448,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>Free select</source>
         <translation>自由选中</translation>
     </message>
+    <message>
+        <source>Copy image as file:</source>
+        <translation>复制图像为文件</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation>总是</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>禁用</translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3539,25 +3539,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
 </context>
 <context>
-    <name>sizeinputdialog</name>
-    <message>
-        <source>Preset</source>
-        <translation>预设</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>确定</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <source>Resize</source>
-        <translation>调整区域大小</translation>
-    </message>
-</context>
-<context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
@@ -3566,6 +3547,36 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+    <message>
+        <source>Format:
+• For size: width height
+• For region: left top width height
+
+PRO only:
+• Can name your preset by appending the name at the end of the line
+• Can use &quot;---&quot; as seperator
+
+Examples:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 icon</source>
+        <translation>格式
+• 尺寸: 宽 高
+• 区域: 左 上 宽 高
+
+专业版：
+• 可为预设值命名
+• 可使用 &quot;---&quot; 作为分隔符
+
+示例:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 图标</translation>
     </message>
 </context>
 <context>

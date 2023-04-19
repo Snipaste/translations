@@ -37,6 +37,10 @@
 <context>
     <name>CustomSnipDialog</name>
     <message>
+        <source>Add to presets</source>
+        <translation>Adicionar às predefinições</translation>
+    </message>
+    <message>
         <source>Edit presets...</source>
         <translation>Editar predefinições...</translation>
     </message>
@@ -538,28 +542,12 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
         <translation>Dia (01-31)</translation>
     </message>
     <message>
-        <source>Localized day name (abbr.)</source>
-        <translation>Nome do dia (abrev.)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation>Nome do dia</translation>
-    </message>
-    <message>
         <source>Month (1-12)</source>
         <translation>Mês (1-12)</translation>
     </message>
     <message>
         <source>Month (01-12)</source>
         <translation>Mês (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation>Nome do mês (abrev.)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation>Nome do mês</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
@@ -636,6 +624,22 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
     <message>
         <source>The title of the active window before snipping</source>
         <translation>O título da janela activa antes de capturar</translation>
+    </message>
+    <message>
+        <source>Week day in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Week day in English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1470,10 +1474,6 @@ Deve reiniciar o Snipaste como administrador e tentar de novo.</translation>
         <translation>A compra não pôde ser concluída porque o Snipaste está a ser executado com privilégios de administrador.</translation>
     </message>
     <message>
-        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation>Pode tentar continuar iniciando sessão no sistema operativo usando um utilizador não administrador. Pode regressar a esta conta de utilizador APÓS a compra.</translation>
-    </message>
-    <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation>Desactivou a UAC (Controlo da Conta de Utilizador)? Por favor, active-a DURANTE a compra.</translation>
     </message>
@@ -1587,6 +1587,10 @@ Clique em qualquer deles para desligar esta notificação permanentemente.
         <translation>Activar/Desactivar teclas de atalho globais</translation>
     </message>
     <message>
+        <source>Disable/Enable hot corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Scan QR code / barcode</source>
         <translation>Digitalizar QR code / código de barras</translation>
     </message>
@@ -1685,21 +1689,10 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
 </context>
 <context>
-    <name>SizeInputDialog</name>
-    <message>
-        <source>Edit presets...</source>
-        <translation>Editar predefinições...</translation>
-    </message>
-    <message>
-        <source>Add to presets</source>
-        <translation>Adicionar às predefinições</translation>
-    </message>
-</context>
-<context>
     <name>SizePresetsDialog</name>
     <message>
-        <source>Edit preset sizes</source>
-        <translation>Editar tamanhos predeifinidos</translation>
+        <source>Edit preset sizes/regions</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1941,6 +1934,10 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <message>
         <source>Do not show this again</source>
         <translation>Não mostrar mais isto</translation>
+    </message>
+    <message>
+        <source>Adjust the snipping area</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -3106,10 +3103,6 @@ Terá um melhor tempo de resposta ao efectuar a captura.</translation>
         <translation>Janelas de imagem</translation>
     </message>
     <message>
-        <source>So that you can also paste the image into file explorer.</source>
-        <translation>Para que a imagem também possa ser colada no explorador de ficheiros.</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Ficheiro</translation>
     </message>
@@ -3320,10 +3313,6 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
         <translation>Regras de Nomes</translation>
     </message>
     <message>
-        <source>Also copy image as file</source>
-        <translation>Copiar também imagem como ficheiro</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>Fixar em todos os ambientes virtuais</translation>
     </message>
@@ -3421,6 +3410,18 @@ Se não seleccionado, apenas as anotações de tipo activo podem ser seleccionad
         <source>Remember last used image extension</source>
         <translation>Lembrar a última extensão de imagem usada</translation>
     </message>
+    <message>
+        <source>Copy image as file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3500,25 +3501,6 @@ Se não seleccionado, apenas as anotações de tipo activo podem ser seleccionad
     </message>
 </context>
 <context>
-    <name>sizeinputdialog</name>
-    <message>
-        <source>Preset</source>
-        <translation>Predefinição</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancelar</translation>
-    </message>
-    <message>
-        <source>Resize</source>
-        <translation>Redimensionar</translation>
-    </message>
-</context>
-<context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
@@ -3527,6 +3509,23 @@ Se não seleccionado, apenas as anotações de tipo activo podem ser seleccionad
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Format:
+• For size: width height
+• For region: left top width height
+
+PRO only:
+• Can name your preset by appending the name at the end of the line
+• Can use &quot;---&quot; as seperator
+
+Examples:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

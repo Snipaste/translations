@@ -37,6 +37,10 @@
 <context>
     <name>CustomSnipDialog</name>
     <message>
+        <source>Add to presets</source>
+        <translation>Toevoegen aan voorinstellingen</translation>
+    </message>
+    <message>
         <source>s</source>
         <translation>s.</translation>
     </message>
@@ -538,28 +542,12 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
         <translation>Dag (01-31)</translation>
     </message>
     <message>
-        <source>Localized day name (abbr.)</source>
-        <translation>Dag (afk.)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation>Dag</translation>
-    </message>
-    <message>
         <source>Month (1-12)</source>
         <translation>Maand (1-12)</translation>
     </message>
     <message>
         <source>Month (01-12)</source>
         <translation>Maand (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation>Maand (afk.)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation>Maand</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
@@ -636,6 +624,22 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     <message>
         <source>The title of the active window before snipping</source>
         <translation>De titel van het venster voor de opname</translation>
+    </message>
+    <message>
+        <source>Week day in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Week day in English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1470,10 +1474,6 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
         <translation>De aankoop kan niet worden voltooid omdat Snipaste draait met beheerdersrechten.</translation>
     </message>
     <message>
-        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation>Je kunt proberen door te gaan door aan te melden met een niet-beheerder-account. Na de aankoop kun je weer terugschakelen naar dit gebruikersaccount.</translation>
-    </message>
-    <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation>Heb je UAC (User Account Control) uitgeschakeld?? Schakel dit in TIJDENS de aankoop.</translation>
     </message>
@@ -1587,6 +1587,10 @@ Klik op een ervan om deze melding permanent af te wijzen.
         <translation>Algemene sneltoetsen aan/uitschakelen</translation>
     </message>
     <message>
+        <source>Disable/Enable hot corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Scan QR code / barcode</source>
         <translation>Scan QR-code / streepjescode</translation>
     </message>
@@ -1685,21 +1689,10 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
 </context>
 <context>
-    <name>SizeInputDialog</name>
-    <message>
-        <source>Edit presets...</source>
-        <translation>Voorinstellingen bewerken…</translation>
-    </message>
-    <message>
-        <source>Add to presets</source>
-        <translation>Toevoegen aan voorinstellingen</translation>
-    </message>
-</context>
-<context>
     <name>SizePresetsDialog</name>
     <message>
-        <source>Edit preset sizes</source>
-        <translation>Vooraf ingestelde formaten bewerken</translation>
+        <source>Edit preset sizes/regions</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1941,6 +1934,10 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Do not show this again</source>
         <translation>Dit niet meer weergeven</translation>
+    </message>
+    <message>
+        <source>Adjust the snipping area</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -3107,10 +3104,6 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
         <translation>Afbeeldingsvensters</translation>
     </message>
     <message>
-        <source>So that you can also paste the image into file explorer.</source>
-        <translation>Hiermee kan een afbeelding ook in de Verkenner worden gekopieerd.</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Bestand</translation>
     </message>
@@ -3321,10 +3314,6 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
         <translation>Naamgeving</translation>
     </message>
     <message>
-        <source>Also copy image as file</source>
-        <translation>Afbeelding ook kopiëren als bestand</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>Aan elk virtueel bureablad vastmaken</translation>
     </message>
@@ -3422,6 +3411,18 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
         <source>Remember last used image extension</source>
         <translation>Laatst gebruikte afbeeldingsextensie onthouden</translation>
     </message>
+    <message>
+        <source>Copy image as file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3501,25 +3502,6 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     </message>
 </context>
 <context>
-    <name>sizeinputdialog</name>
-    <message>
-        <source>Preset</source>
-        <translation>Voorinstelling</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Annuleren</translation>
-    </message>
-    <message>
-        <source>Resize</source>
-        <translation>Grootte aanpassen</translation>
-    </message>
-</context>
-<context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
@@ -3528,6 +3510,23 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     <message>
         <source>Cancel</source>
         <translation>Annuleren</translation>
+    </message>
+    <message>
+        <source>Format:
+• For size: width height
+• For region: left top width height
+
+PRO only:
+• Can name your preset by appending the name at the end of the line
+• Can use &quot;---&quot; as seperator
+
+Examples:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -37,6 +37,10 @@
 <context>
     <name>CustomSnipDialog</name>
     <message>
+        <source>Add to presets</source>
+        <translation>사전 설정에 추가</translation>
+    </message>
+    <message>
         <source>Edit presets...</source>
         <translation>프리셋 편집...</translation>
     </message>
@@ -536,28 +540,12 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
         <translation>일(01-31)</translation>
     </message>
     <message>
-        <source>Localized day name (abbr.)</source>
-        <translation>현지 요일(약식)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation>현지 요일</translation>
-    </message>
-    <message>
         <source>Month (1-12)</source>
         <translation>월(1-12)</translation>
     </message>
     <message>
         <source>Month (01-12)</source>
         <translation>월(01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation>현지 월(약식)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation>현지 월</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
@@ -634,6 +622,22 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     <message>
         <source>The title of the active window before snipping</source>
         <translation>캡처하기 전 활성 창의 제목</translation>
+    </message>
+    <message>
+        <source>Week day in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Week day in English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1466,10 +1470,6 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Snipaste가 관리자 권한으로 실행 중이므로 구매를 완료할 수 없습니다.</translation>
     </message>
     <message>
-        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation>관리자가 아닌 사용자를 사용하여 운영 체제에 로그온하여 계속할 수 있습니다. 구매 후 이 사용자 계정으로 자유롭게 전환할 수 있습니다.</translation>
-    </message>
-    <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation>UAC(사용자 계정 컨트롤)를 비활성화했습니까? 구매하는 동안 활성화하십시오.</translation>
     </message>
@@ -1583,6 +1583,10 @@ Click any of them to dismiss this notification permanently.
         <translation>글로벌 단축키 비활성화 / 활성화</translation>
     </message>
     <message>
+        <source>Disable/Enable hot corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Scan QR code / barcode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1681,21 +1685,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
-    <name>SizeInputDialog</name>
-    <message>
-        <source>Edit presets...</source>
-        <translation>프리셋 수정</translation>
-    </message>
-    <message>
-        <source>Add to presets</source>
-        <translation>사전 설정에 추가</translation>
-    </message>
-</context>
-<context>
     <name>SizePresetsDialog</name>
     <message>
-        <source>Edit preset sizes</source>
-        <translation>프리셋 사이즈 수정</translation>
+        <source>Edit preset sizes/regions</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1938,6 +1931,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Do not show this again</source>
         <translation>다시 보지 않음</translation>
+    </message>
+    <message>
+        <source>Adjust the snipping area</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -3096,10 +3093,6 @@ You will gain better response time on entering snipping.</source>
         <translation>이미지 창</translation>
     </message>
     <message>
-        <source>So that you can also paste the image into file explorer.</source>
-        <translation>이미지를 파일 탐색기에 붙여넣기 할 수도 있습니다.</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>파일</translation>
     </message>
@@ -3313,10 +3306,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>네이밍 규칙</translation>
     </message>
     <message>
-        <source>Also copy image as file</source>
-        <translation>이미지를 파일로 복사</translation>
-    </message>
-    <message>
         <source>Magnification level:</source>
         <translation>확대 레벨 : </translation>
     </message>
@@ -3409,6 +3398,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>Remember last used image extension</source>
         <translation>마지막으로 사용한 이미지 확장자 기억</translation>
     </message>
+    <message>
+        <source>Copy image as file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3488,25 +3489,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
 </context>
 <context>
-    <name>sizeinputdialog</name>
-    <message>
-        <source>Preset</source>
-        <translation>프리셋</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>확인</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>취소</translation>
-    </message>
-    <message>
-        <source>Resize</source>
-        <translation>리사이즈</translation>
-    </message>
-</context>
-<context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
@@ -3515,6 +3497,23 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Cancel</source>
         <translation>취소</translation>
+    </message>
+    <message>
+        <source>Format:
+• For size: width height
+• For region: left top width height
+
+PRO only:
+• Can name your preset by appending the name at the end of the line
+• Can use &quot;---&quot; as seperator
+
+Examples:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

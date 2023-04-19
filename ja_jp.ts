@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ja_JP" sourcelanguage="en_US">
 <context>
@@ -36,6 +36,10 @@
 </context>
 <context>
     <name>CustomSnipDialog</name>
+    <message>
+        <source>Add to presets</source>
+        <translation>カスタマイズへ追加</translation>
+    </message>
     <message>
         <source>s</source>
         <translation>秒</translation>
@@ -538,28 +542,12 @@ PRO機能を利用するために今すぐSnipasteを再起動しますか？</t
         <translation>日 (01-31)</translation>
     </message>
     <message>
-        <source>Localized day name (abbr.)</source>
-        <translation>ローカライズされた日名 (abbr.)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation>ローカライズされた日名</translation>
-    </message>
-    <message>
         <source>Month (1-12)</source>
         <translation>月 (1-12)</translation>
     </message>
     <message>
         <source>Month (01-12)</source>
         <translation>月 (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation>ローカライズされた月名 (abbr.)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation>ローカライズされた月名</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
@@ -636,6 +624,22 @@ PRO機能を利用するために今すぐSnipasteを再起動しますか？</t
     <message>
         <source>The title of the active window before snipping</source>
         <translation>切取り前のアクティブウィンドウのタイトル</translation>
+    </message>
+    <message>
+        <source>Week day in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Week day in English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1470,11 +1474,6 @@ Snipasteを管理者権限で再試行してください。</translation>
         <translation>管理者で使用されておりますので、購入が完成できません。</translation>
     </message>
     <message>
-        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation>普通なユーザーまたはゲストでシステム登録して、購入を継続してください。
-購入次第、現行ユーザーに切り替えてください。</translation>
-    </message>
-    <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation>UACを禁止しましたでしょうか？購入前にシステムで起用してください。</translation>
     </message>
@@ -1588,6 +1587,10 @@ Click any of them to dismiss this notification permanently.
         <translation>グローバルホットキーを無効/有効にする</translation>
     </message>
     <message>
+        <source>Disable/Enable hot corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Scan QR code / barcode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1686,21 +1689,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
-    <name>SizeInputDialog</name>
-    <message>
-        <source>Edit presets...</source>
-        <translation>プリセットを編集...</translation>
-    </message>
-    <message>
-        <source>Add to presets</source>
-        <translation>カスタマイズへ追加</translation>
-    </message>
-</context>
-<context>
     <name>SizePresetsDialog</name>
     <message>
-        <source>Edit preset sizes</source>
-        <translation>プリセットサイズを編集する</translation>
+        <source>Edit preset sizes/regions</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1942,6 +1934,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Do not show this again</source>
         <translation>これから表示しない</translation>
+    </message>
+    <message>
+        <source>Adjust the snipping area</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -3107,10 +3103,6 @@ You will gain better response time on entering snipping.</source>
         <translation>画像ウィンドウ</translation>
     </message>
     <message>
-        <source>So that you can also paste the image into file explorer.</source>
-        <translation>これで直接ファイルエクスプローラに画像を貼り付けることができる。</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>ファイル</translation>
     </message>
@@ -3321,10 +3313,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>命名規則</translation>
     </message>
     <message>
-        <source>Also copy image as file</source>
-        <translation>同時にファイルでコピーする</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>すべての仮想デスクトップにピン留めする</translation>
     </message>
@@ -3422,6 +3410,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>Remember last used image extension</source>
         <translation>前回使用した画像の拡張子を保存する</translation>
     </message>
+    <message>
+        <source>Copy image as file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3501,25 +3501,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
 </context>
 <context>
-    <name>sizeinputdialog</name>
-    <message>
-        <source>Preset</source>
-        <translation>プリセット</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>確認</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>キャンセル</translation>
-    </message>
-    <message>
-        <source>Resize</source>
-        <translation>リサイズ</translation>
-    </message>
-</context>
-<context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
@@ -3528,6 +3509,23 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Cancel</source>
         <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Format:
+• For size: width height
+• For region: left top width height
+
+PRO only:
+• Can name your preset by appending the name at the end of the line
+• Can use &quot;---&quot; as seperator
+
+Examples:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

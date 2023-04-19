@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_TW" sourcelanguage="en_US">
 <context>
@@ -36,6 +36,10 @@
 </context>
 <context>
     <name>CustomSnipDialog</name>
+    <message>
+        <source>Add to presets</source>
+        <translation>新增至預設</translation>
+    </message>
     <message>
         <source>Edit presets...</source>
         <translation>編輯預設值...</translation>
@@ -538,28 +542,12 @@ Restart now to enjoy PRO features?</source>
         <translation>日期 (01-31)</translation>
     </message>
     <message>
-        <source>Localized day name (abbr.)</source>
-        <translation>周幾</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation>星期幾</translation>
-    </message>
-    <message>
         <source>Month (1-12)</source>
         <translation>月份 (1-12)</translation>
     </message>
     <message>
         <source>Month (01-12)</source>
         <translation>月份 (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation>月份名稱 (小寫)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation>月份名稱 (大寫)</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
@@ -636,6 +624,22 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>The title of the active window before snipping</source>
         <translation>擷圖前的使用中視窗標題</translation>
+    </message>
+    <message>
+        <source>Week day in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Week day in English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1470,11 +1474,6 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>由於 Snipaste 正在以管理員身分執行，導致無法完成購買。</translation>
     </message>
     <message>
-        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation>請嘗試以普通使用者或訪客使用者登入作業系統，然後繼續購買。 
-在購買完成後，您可以切換回目前使用者。</translation>
-    </message>
-    <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation>您是否停用了 UAC (使用者帳戶控制)？請在購買前從系統設定中啟用它，購買後您可以還原設定。</translation>
     </message>
@@ -1509,7 +1508,7 @@ You may restart Snipaste with admin privileges and try again.</source>
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation>你注意到工具列上的小紅點了嗎？點選它們可以取得提示哦！ 
+        <translation>你注意到工具列上的小紅點了嗎？點選它們可以取得提示哦！
 點選任一小紅點即可永久消除該通知。
 </translation>
     </message>
@@ -1581,11 +1580,15 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation>滑鼠穿透開關</translation>
+        <translation>開/關滑鼠穿透</translation>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
         <translation>停用/啟用全域快速鍵</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -1686,21 +1689,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
-    <name>SizeInputDialog</name>
-    <message>
-        <source>Edit presets...</source>
-        <translation>編輯預設值...</translation>
-    </message>
-    <message>
-        <source>Add to presets</source>
-        <translation>新增至預設</translation>
-    </message>
-</context>
-<context>
     <name>SizePresetsDialog</name>
     <message>
-        <source>Edit preset sizes</source>
-        <translation>編輯預設大小</translation>
+        <source>Edit preset sizes/regions</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1942,6 +1934,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Do not show this again</source>
         <translation>以後不再顯示此訊息</translation>
+    </message>
+    <message>
+        <source>Adjust the snipping area</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -3107,10 +3103,6 @@ You will gain better response time on entering snipping.</source>
         <translation>貼圖</translation>
     </message>
     <message>
-        <source>So that you can also paste the image into file explorer.</source>
-        <translation>這樣你可以直接將圖片貼上至檔案總管中。</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>檔案</translation>
     </message>
@@ -3321,10 +3313,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>命名規則</translation>
     </message>
     <message>
-        <source>Also copy image as file</source>
-        <translation>同時複製為檔案</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>固定到所有虛擬桌面</translation>
     </message>
@@ -3401,7 +3389,7 @@ Snipaste must not be run as elevated in order to show the &quot;Share&quot; butt
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation>選取過，貼圖在跨螢幕移動時將不會根據螢幕的縮放因數自動縮放。 
+        <translation>選取過，貼圖在跨螢幕移動時將不會根據螢幕的縮放因數自動縮放。
 如果你在使用遠端桌面，這可以保持貼圖視窗的配置。</translation>
     </message>
     <message>
@@ -3411,7 +3399,7 @@ It&apos;s also useful for remote desktop connections to keep window arrangement.
     <message>
         <source>Enable selecting any types of drawn annotations on hovering.
 If unchecked, only the active type of annotations can be selected on hovering.</source>
-        <translation>允許選取任意類型的已繪製的標註。 
+        <translation>允許選取任意類型的已繪製的標註。
 如果取消選取，對於已繪製的標註，只有目前選取類型的標註才可以在滑鼠暫留時被選取。</translation>
     </message>
     <message>
@@ -3421,6 +3409,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Remember last used image extension</source>
         <translation>記住上一次使用的圖片副檔名</translation>
+    </message>
+    <message>
+        <source>Copy image as file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3501,25 +3501,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
 </context>
 <context>
-    <name>sizeinputdialog</name>
-    <message>
-        <source>Preset</source>
-        <translation>預設</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>確定</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <source>Resize</source>
-        <translation>調整區域大小</translation>
-    </message>
-</context>
-<context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
@@ -3528,6 +3509,23 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+    <message>
+        <source>Format:
+• For size: width height
+• For region: left top width height
+
+PRO only:
+• Can name your preset by appending the name at the end of the line
+• Can use &quot;---&quot; as seperator
+
+Examples:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

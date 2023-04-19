@@ -37,6 +37,10 @@
 <context>
     <name>CustomSnipDialog</name>
     <message>
+        <source>Add to presets</source>
+        <translation>Добавить в пресеты</translation>
+    </message>
+    <message>
         <source>Edit presets...</source>
         <translation>Редактировать пресеты...</translation>
     </message>
@@ -538,28 +542,12 @@ Restart now to enjoy PRO features?</source>
         <translation>День (01-31)</translation>
     </message>
     <message>
-        <source>Localized day name (abbr.)</source>
-        <translation>Локализованное название дня (аббр.)</translation>
-    </message>
-    <message>
-        <source>Localized day name</source>
-        <translation>Локализованное название дня</translation>
-    </message>
-    <message>
         <source>Month (1-12)</source>
         <translation>Месяц (1-12)</translation>
     </message>
     <message>
         <source>Month (01-12)</source>
         <translation>Месяц (01-12)</translation>
-    </message>
-    <message>
-        <source>Localized month name (abbr.)</source>
-        <translation>Локализованное название месяца (аббр.)</translation>
-    </message>
-    <message>
-        <source>Localized month name</source>
-        <translation>Локализованное название месяца</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
@@ -636,6 +624,22 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>The title of the active window before snipping</source>
         <translation>Заголовок активного окна для снимка</translation>
+    </message>
+    <message>
+        <source>Week day in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Week day in English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1470,10 +1474,6 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Покупка не может быть завершена, потому что Snipaste запущен с правами администратора.</translation>
     </message>
     <message>
-        <source>You may try continue by logging on the operating system using a non-administrator user. You are free to switch back to this user account AFTER the purchase.</source>
-        <translation>Вы можете попробовать снова зайдя в систему пользователем без прав администратора. Вы можете вернуться к текущего пользователю ПОСЛЕ завершения покупки.</translation>
-    </message>
-    <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation>Вы выключили КУЗ (Контроль Учетных Записей - UAC англ.)? Пожалуйста включите обратно ПОКА идет процесс покупки.</translation>
     </message>
@@ -1587,6 +1587,10 @@ Click any of them to dismiss this notification permanently.
         <translation>Выключить/Включить глобальные горячие клавиши</translation>
     </message>
     <message>
+        <source>Disable/Enable hot corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Scan QR code / barcode</source>
         <translation>Сканировать QR-код/штрих-код</translation>
     </message>
@@ -1685,21 +1689,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
-    <name>SizeInputDialog</name>
-    <message>
-        <source>Edit presets...</source>
-        <translation>Редактировать пресеты...</translation>
-    </message>
-    <message>
-        <source>Add to presets</source>
-        <translation>Добавить в пресеты</translation>
-    </message>
-</context>
-<context>
     <name>SizePresetsDialog</name>
     <message>
-        <source>Edit preset sizes</source>
-        <translation>Редактировать размер пресета</translation>
+        <source>Edit preset sizes/regions</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1941,6 +1934,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Do not show this again</source>
         <translation>Не показывать это снова</translation>
+    </message>
+    <message>
+        <source>Adjust the snipping area</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -3106,10 +3103,6 @@ You will gain better response time on entering snipping.</source>
         <translation>Изображения окон</translation>
     </message>
     <message>
-        <source>So that you can also paste the image into file explorer.</source>
-        <translation>Вы также можете вставить изображение в проводник.</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Файл</translation>
     </message>
@@ -3320,10 +3313,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Правила наименования</translation>
     </message>
     <message>
-        <source>Also copy image as file</source>
-        <translation>Копировать изображение как файл</translation>
-    </message>
-    <message>
         <source>Pin on all virtual desktops</source>
         <translation>Закрепить все виртуальные рабочие столы</translation>
     </message>
@@ -3421,6 +3410,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>Remember last used image extension</source>
         <translation>Запомнить последнее использовавшееся расширение изображения</translation>
     </message>
+    <message>
+        <source>Copy image as file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3500,25 +3501,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
 </context>
 <context>
-    <name>sizeinputdialog</name>
-    <message>
-        <source>Preset</source>
-        <translation>Пресет</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>ОК</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Resize</source>
-        <translation>Изменение размера</translation>
-    </message>
-</context>
-<context>
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
@@ -3527,6 +3509,23 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Cancel</source>
         <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>Format:
+• For size: width height
+• For region: left top width height
+
+PRO only:
+• Can name your preset by appending the name at the end of the line
+• Can use &quot;---&quot; as seperator
+
+Examples:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
