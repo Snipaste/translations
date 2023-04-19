@@ -627,19 +627,19 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
     </message>
     <message>
         <source>Week day in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia da semana em Inglês (abrev.)</translation>
     </message>
     <message>
         <source>Week day in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia da semana em Inglês</translation>
     </message>
     <message>
         <source>Month name in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do mês em Inglês (abrev.)</translation>
     </message>
     <message>
         <source>Month name in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do mês em Inglês</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1588,7 +1588,7 @@ Clique em qualquer deles para desligar esta notificação permanentemente.
     </message>
     <message>
         <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar/Activar cantos quentes</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -1692,7 +1692,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes/regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar regiões/tamanhos predefinidos</translation>
     </message>
 </context>
 <context>
@@ -1937,7 +1937,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar área de recorte</translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -3412,15 +3412,15 @@ Se não seleccionado, apenas as anotações de tipo activo podem ser seleccionad
     </message>
     <message>
         <source>Copy image as file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar imagem como ficheiro:</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar</translation>
     </message>
 </context>
 <context>
@@ -3525,7 +3525,20 @@ Examples:
 ---
 1280 720 720p
 200 50 20 20 icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato:
+• Para tamanho: largura altura
+• Para região: largura altura superior esquerda
+
+Apenas PRO:
+• Pode nomear a sua predefinição juntando o nome no fim da linha
+• Pode usar &quot;---&quot; como separador
+
+Examplos:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 ícone</translation>
     </message>
 </context>
 <context>
