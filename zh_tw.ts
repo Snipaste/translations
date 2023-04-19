@@ -341,7 +341,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>設定擷圖區域為目前螢幕/全螢幕</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -437,7 +437,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>設定擷圖區域為目前螢幕/全螢幕</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
@@ -627,19 +627,19 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Week day in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>星期幾 (英文縮寫)</translation>
     </message>
     <message>
         <source>Week day in English</source>
-        <translation type="unfinished"></translation>
+        <translation>星期幾 (英文全稱)</translation>
     </message>
     <message>
         <source>Month name in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>月份 (英文縮寫)</translation>
     </message>
     <message>
         <source>Month name in English</source>
-        <translation type="unfinished"></translation>
+        <translation>月份 (英文全稱)</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1588,11 +1588,11 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
+        <translation>停用/啟用熱點</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
-        <translation type="unfinished"></translation>
+        <translation>掃瞄 QR 碼/條碼</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1692,7 +1692,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes/regions</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯預設大小/區域</translation>
     </message>
 </context>
 <context>
@@ -1937,7 +1937,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
+        <translation>調整擷圖區域</translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -1967,11 +1967,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>沒有偵測到 QR 碼/條碼。</translation>
     </message>
     <message>
         <source>QR code / barcode scan result</source>
-        <translation type="unfinished"></translation>
+        <translation>QR 碼/條碼掃瞄結果</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -2608,7 +2608,7 @@ You can also find this option in the context menu of individual image window.</s
         <source>If the source is a screenshot, show it where you snipped.
 If disabled, it would always be shown at the center of the primary screen.</source>
         <translation>如果貼圖來源是螢幕擷圖，貼在擷圖時的位置。
-如果不選取，則顯示於主螢幕中央。</translation>
+如果不選取，則一律顯示於主螢幕中央。</translation>
     </message>
     <message>
         <source>Use snipping position</source>
@@ -3412,15 +3412,15 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Copy image as file:</source>
-        <translation type="unfinished"></translation>
+        <translation>複製圖像為檔案：</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>一律</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>停用</translation>
     </message>
 </context>
 <context>
@@ -3525,7 +3525,20 @@ Examples:
 ---
 1280 720 720p
 200 50 20 20 icon</source>
-        <translation type="unfinished"></translation>
+        <translation>格式
+• 大小: 寬 高
+• 區域: 左 上 寬 高
+
+專業版：
+• 可為預設值命名
+• 可使用 &quot;---&quot; 作為分隔字元
+
+範例:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 圖示</translation>
     </message>
 </context>
 <context>
