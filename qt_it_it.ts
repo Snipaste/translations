@@ -305,7 +305,7 @@
     </message>
     <message>
         <source>Multiple Candidate</source>
-        <translation type="unfinished">Multiple Candidate</translation>
+        <translation>Candidati multiplo</translation>
     </message>
     <message>
         <source>Zenkaku</source>
@@ -589,11 +589,11 @@
     </message>
     <message>
         <source>ScrollLock</source>
-        <translation>Blocco Maiuscole</translation>
+        <translation>Blocco Scorrimento</translation>
     </message>
     <message>
         <source>Hot Links</source>
-        <translation type="unfinished">Hot Links</translation>
+        <translation>Collegamenti utili</translation>
     </message>
     <message>
         <source>Audio Cycle Track</source>
@@ -633,7 +633,7 @@
     </message>
     <message>
         <source>Previous Candidate</source>
-        <translation type="unfinished">Previous Candidate</translation>
+        <translation>Candidato precedente</translation>
     </message>
     <message>
         <source>Toggle Media Play/Pause</source>
@@ -677,7 +677,7 @@
     </message>
     <message>
         <source>Clear Grab</source>
-        <translation type="unfinished">Clear Grab</translation>
+        <translation>Annulla cattura</translation>
     </message>
     <message>
         <source>Monitor Brightness Up</source>
@@ -685,7 +685,7 @@
     </message>
     <message>
         <source>System Request</source>
-        <translation type="unfinished">System Request</translation>
+        <translation>Richiesta di sistema</translation>
     </message>
     <message>
         <source>Microphone Volume Up</source>
@@ -697,7 +697,7 @@
     </message>
     <message>
         <source>Backtab</source>
-        <translation type="unfinished">Backtab</translation>
+        <translation>Tabulazione indietro</translation>
     </message>
     <message>
         <source>Bass Up</source>
@@ -749,7 +749,7 @@
     </message>
     <message>
         <source>Backspace</source>
-        <translation type="unfinished">Backspace</translation>
+        <translation>Spazio indietro</translation>
     </message>
     <message>
         <source>Bass Down</source>
