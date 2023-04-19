@@ -627,19 +627,19 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     </message>
     <message>
         <source>Week day in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Weekdag in het Engels (afk.)</translation>
     </message>
     <message>
         <source>Week day in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Weekdag in het Engels</translation>
     </message>
     <message>
         <source>Month name in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Maandnaam in het Engels (afk.)</translation>
     </message>
     <message>
         <source>Month name in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Maandnaam in het Engels</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1588,7 +1588,7 @@ Klik op een ervan om deze melding permanent af te wijzen.
     </message>
     <message>
         <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
+        <translation>Actie-hoeken aan/uitschakelen</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -1692,7 +1692,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes/regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorinstellingen knipgebied bewerken</translation>
     </message>
 </context>
 <context>
@@ -1803,7 +1803,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation>Sneltoetsen deactiveren</translation>
+        <translation>Sneltoetsen uitschakelen</translation>
     </message>
     <message>
         <source>Save image as</source>
@@ -1937,7 +1937,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
+        <translation>Knipgebied aanpassen</translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -2717,7 +2717,7 @@ If you copy a non-image file, a paste will immediately show the file path.
 If this option is checked, the above features will be disabled.</source>
         <translation>Bij het kopiëren van een afbeeldingsbestand, bevat de eerste plak-actie de afbeelding en de tweede het bestandspad.
 Bij het kopiëren van een ander soort bestand, bevat de eerste plakactie direct het bestandspad.
-Indien geselecteerd, wordt bovenstaande functionaliteit afgeschakeld.</translation>
+Indien geselecteerd, wordt bovenstaande functionaliteit uitgeschakeld.</translation>
     </message>
     <message>
         <source>Font:</source>
@@ -3003,7 +3003,7 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation>Muiswiel deactiveren</translation>
+        <translation>Muiswiel uitschakelen</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
@@ -3077,7 +3077,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>Disable completely</source>
-        <translation>Volledig deactiveren</translation>
+        <translation>Volledig uitschakelen</translation>
     </message>
     <message>
         <source>Include unsaved screenshots</source>
@@ -3413,15 +3413,15 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     </message>
     <message>
         <source>Copy image as file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding als bestand kopiëren:</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Altijd</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitschakelen</translation>
     </message>
 </context>
 <context>
@@ -3526,7 +3526,20 @@ Examples:
 ---
 1280 720 720p
 200 50 20 20 icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Formaat:
+• Voor grootte: breedte hoogte
+• Voor gebied: links boven breedte hoogte
+
+PRO:
+• Kan de voorinstelling een naam geven door deze aan het eind van de regel toe te voegen
+• Kan &quot;---&quot; als scheidingsteken gebruiken
+
+Voorbeelden:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 pictogram</translation>
     </message>
 </context>
 <context>
