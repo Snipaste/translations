@@ -2831,8 +2831,8 @@ Se questa opzione è selezionata, le funzionalità sopra descritte saranno disab
 Specify 0 to obtain small compressed files, 100 for large uncompressed files.
 Specify -1 to let Snipaste decide for you.</source>
         <translation>Intervallo: da 0 a 100 o -1.
-Specifica 0 per ottenere piccoli file compressi, 100 per grandi file non compressi.
-Specifica -1 per lasciare che Snipaste decida per te.</translation>
+Imposta 0 per ottenere piccoli file compressi, 100 per grandi file non compressi.
+Imposta -1 per lasciare che Snipaste decida per te.</translation>
     </message>
     <message>
         <source>Preview:</source>
