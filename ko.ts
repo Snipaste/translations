@@ -115,7 +115,7 @@ Network Error: %1</source>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation>업데이트중 문제가 발생했습니다. 개발자에게 연락해 보세요.(%1)</translation>
+        <translation>업데이트중 문제가 발생했습니다. (%1)개발자에게 연락해 보세요.</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -142,7 +142,7 @@ Please contact the developer.</source>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation>선택된 그룹들을 닫으시겠습니까? (진행 후엔 복구할 수 없습니다.)</translation>
+        <translation>선택된 그룹들을 닫으시겠습니까? 진행 후엔 복구할 수 없습니다.</translation>
     </message>
 </context>
 <context>
@@ -355,7 +355,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Undo the last edit (can be redone later)</source>
-        <translation>마지막 수정사항 취소(취소 가능)</translation>
+        <translation>마지막 수정사항 취소(이후 취소 가능)</translation>
     </message>
     <message>
         <source>Remove all edits (cannot be undone)</source>
@@ -856,8 +856,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation>Pseudo 투명
-</translation>
+        <translation>Pseudo 투명도</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
@@ -886,7 +885,7 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation>팔레트 데이터가 클립 보드로 복사되었습니다. 친구들과 공유하세요!</translation>
+        <translation>팔레트 데이터가 클립 보드로 복사되었습니다. 친구들과 공유해 보세요!</translation>
     </message>
     <message>
         <source>Snipping</source>
@@ -906,7 +905,7 @@ Share it to your friends!</source>
 Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>참고 : 다른 구성 파일로 전환하려고합니다. 설정이 적용되고 현재 설정이 모두 무시됩니다.
+        <translation>참고 : 다른 구성 파일로 전환하려고합니다. 설정이 적용되면 현재 설정이 모두 무시됩니다.
 작업 후에 새 구성 파일을 찾을 위치를 기록하기 때문에 기본 구성 파일을 제거하지 않아야합니다.
 
 다른 구성 파일로 전환 하시겠습니까?</translation>
@@ -917,7 +916,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Custom color</source>
-        <translation>사용자 컬러</translation>
+        <translation>사용자 지정 컬러</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -925,7 +924,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation>가져 오기가 성공했습니다!</translation>
+        <translation>가져 오기 완료!</translation>
     </message>
     <message>
         <source>Remove license</source>
@@ -985,7 +984,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Snipaste Preferences</source>
-        <translation>스니페이스트 설정</translation>
+        <translation>Snipaste 설정</translation>
     </message>
     <message>
         <source>PRO</source>
@@ -1024,7 +1023,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation>볼드</translation>
+        <translation>볼드체</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -1036,7 +1035,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation>가로길이 : </translation>
+        <translation>가로 :</translation>
     </message>
     <message>
         <source>Number</source>
@@ -1048,7 +1047,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Text background</source>
-        <translation>텍스트 백그라이운드</translation>
+        <translation>텍스트 백그라운드</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -1064,7 +1063,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation>알파값 : </translation>
+        <translation>알파값 :</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -1119,7 +1118,7 @@ Are you sure you want to switch to another configuration file?</source>
     <name>Paster</name>
     <message>
         <source>Load image</source>
-        <translation>팁 : </translation>
+        <translation>이미지 불러오기</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1155,7 +1154,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Save image as...</source>
-        <translation>다른이름으로 이미지 저장</translation>
+        <translation>다른이름으로 이미지 저장...</translation>
     </message>
     <message>
         <source>Restore</source>
@@ -1191,7 +1190,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Ignore format</source>
-        <translation>형식을 무시</translation>
+        <translation>형식 무시</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -1235,7 +1234,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Replace by file...</source>
-        <translation>파일로 바꾸기</translation>
+        <translation>파일로 바꾸기...</translation>
     </message>
     <message>
         <source>Move to group</source>
@@ -1243,7 +1242,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>New group...</source>
-        <translation>새 그룹 만들기</translation>
+        <translation>새 그룹 만들기...</translation>
     </message>
     <message>
         <source>View in folder</source>
@@ -1301,8 +1300,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation>Pseudo 투명
-</translation>
+        <translation>Pseudo 투명도</translation>
     </message>
     <message>
         <source>Copy annotation text</source>
@@ -1322,7 +1320,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Custom...</source>
-        <translation>사용자</translation>
+        <translation>사용자 설정...</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
@@ -1395,7 +1393,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Export selected images to...</source>
-        <translation>선택한 이미지를 다음으로 내보내기</translation>
+        <translation>선택한 이미지를 다음으로 내보내기...</translation>
     </message>
     <message>
         <source>Output Options</source>
@@ -1418,7 +1416,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
-        <translation>Snipaste을 관리자 모드 실행하세요</translation>
+        <translation>Snipaste을 관리자 모드로 실행</translation>
     </message>
     <message>
         <source>Failed to create the schedule task.
@@ -1759,7 +1757,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Preferences...</source>
-        <translation>환경설정</translation>
+        <translation>환경설정...</translation>
     </message>
     <message>
         <source>Help</source>
@@ -1767,15 +1765,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>업데이트 확인</translation>
+        <translation>업데이트 확인...</translation>
     </message>
     <message>
         <source>Update now...</source>
-        <translation>지금 업데이트</translation>
+        <translation>지금 업데이트...</translation>
     </message>
     <message>
         <source>Check for updates...</source>
-        <translation>업데이트 확인</translation>
+        <translation>업데이트 확인...</translation>
     </message>
     <message>
         <source>Restart</source>
