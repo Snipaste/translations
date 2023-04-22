@@ -627,19 +627,19 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Week day in English (abbr.)</source>
-        <translation>Giorno della settimana in italiano (abbr.)</translation>
+        <translation>Giorno della settimana in inglese (abbr.)</translation>
     </message>
     <message>
         <source>Week day in English</source>
-        <translation>Giorno della settimana in italiano</translation>
+        <translation>Giorno della settimana in inglese</translation>
     </message>
     <message>
         <source>Month name in English (abbr.)</source>
-        <translation>Nome del mese in italiano (abbr.)</translation>
+        <translation>Nome del mese in inglese (abbr.)</translation>
     </message>
     <message>
         <source>Month name in English</source>
-        <translation>Nome del mese in italiano</translation>
+        <translation>Nome del mese in inglese</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
