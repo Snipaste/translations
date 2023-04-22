@@ -627,19 +627,19 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Week day in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Дан у недељи на енглеском (скр)</translation>
     </message>
     <message>
         <source>Week day in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Дан у недељи на енглеском</translation>
     </message>
     <message>
         <source>Month name in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Назив месеца на енглеском (скр)</translation>
     </message>
     <message>
         <source>Month name in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Назив месеца на енглеском</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1588,7 +1588,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
+        <translation>Онемогући/Омогући вруће углове</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -1692,7 +1692,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes/regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Уредите унапред подешене величине/регионе</translation>
     </message>
 </context>
 <context>
@@ -1937,7 +1937,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
+        <translation>Подесите област сечења</translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -3412,15 +3412,15 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Copy image as file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирати слику као датотеку:</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Увек</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Онемогућено</translation>
     </message>
 </context>
 <context>
@@ -3525,7 +3525,20 @@ Examples:
 ---
 1280 720 720p
 200 50 20 20 icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат:
+• За величину: ширина висина
+• За регион: висина леве горње ширине
+
+само PRO:
+• Можете именовати унапред подешено додавањем имена на крај реда
+• Можете користити &quot;---&quot; као сепаратор
+
+Примери:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 икона</translation>
     </message>
 </context>
 <context>

@@ -625,19 +625,19 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>Week day in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wochentag auf Englisch (Abkürzung)</translation>
     </message>
     <message>
         <source>Week day in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Wochentag auf Englisch</translation>
     </message>
     <message>
         <source>Month name in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Monatsname auf Englisch (Abkürzung)</translation>
     </message>
     <message>
         <source>Month name in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Monatsname auf Englisch</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1587,7 +1587,7 @@ Klicken Sie auf einen dieser Punkte, um diese Benachrichtigung dauerhaft zu deak
     </message>
     <message>
         <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivieren/aktivieren Sie die Hot Corners</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -1691,7 +1691,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes/regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Voreingestellte Größen/Regionen bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -1936,7 +1936,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Einstellen des Aufnahme-Bereichs</translation>
     </message>
     <message>
         <source>Point (pt)</source>
@@ -3409,15 +3409,15 @@ Wenn diese Option nicht aktiviert ist, kann nur die aktive Art von Anmerkungen b
     </message>
     <message>
         <source>Copy image as file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild als Datei kopieren:</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Immer</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivieren</translation>
     </message>
 </context>
 <context>
@@ -3522,7 +3522,33 @@ Examples:
 ---
 1280 720 720p
 200 50 20 20 icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Format:
+
+- Für Größe: Breite Höhe
+
+- Für Region: links oben Breite Höhe
+
+
+
+Nur PRO:
+
+- Sie können Ihre Voreinstellung benennen, indem Sie den Namen am Ende der Zeile anhängen
+
+- Kann &quot;---&quot; als Trennzeichen verwenden
+
+
+
+Beispiele:
+
+500 500
+
+200 200 100 100
+
+---
+
+1280 720 720p
+
+200 50 20 20 Symbol</translation>
     </message>
 </context>
 <context>
