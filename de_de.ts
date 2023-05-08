@@ -1936,7 +1936,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished">Einstellen des Aufnahme-Bereichs</translation>
+        <translation>Einstellen des Aufnahme-Bereichs</translation>
     </message>
     <message>
         <source>Point (pt)</source>
