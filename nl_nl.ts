@@ -465,7 +465,7 @@ Informeer alsjeblieft de maker.</translation>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>Hartelijk bedankt voor je ondersteuning!
+        <translation>Hartelijk bedankt voor de ondersteuning!
 Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     </message>
     <message>
@@ -806,7 +806,7 @@ Automatisch opstarten is niet ingeschakeld.</translation>
     </message>
     <message>
         <source>Pin to screen</source>
-        <translation>Aan het scherm vastpinnen</translation>
+        <translation>Aan het scherm vastmaken</translation>
     </message>
     <message>
         <source>Save to file</source>
@@ -826,7 +826,7 @@ Automatisch opstarten is niet ingeschakeld.</translation>
     </message>
     <message>
         <source>Thank you for your support!</source>
-        <translation>Bedankt voor je ondersteuning!</translation>
+        <translation>Bedankt voor de ondersteuning!</translation>
     </message>
     <message>
         <source>Russian</source>
@@ -870,7 +870,7 @@ Automatisch opstarten is niet ingeschakeld.</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation>Knippen en vastpinnen</translation>
+        <translation>Knippen en vastmaken</translation>
     </message>
     <message>
         <source>Snip and copy</source>
@@ -888,7 +888,7 @@ Automatisch opstarten is niet ingeschakeld.</translation>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
         <translation>Kleurenpalet is naar het klembord gekopieerd.
-Deel het met je vrienden!</translation>
+Deel het met vrienden!</translation>
     </message>
     <message>
         <source>Snipping</source>
@@ -984,7 +984,7 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation>Knippen, kopiëren en vastpinnen</translation>
+        <translation>Knippen, kopiëren en vastmaken</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
@@ -1111,7 +1111,7 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     </message>
     <message>
         <source>Toggle arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl wisselen</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1398,7 +1398,7 @@ De sneltoets voor Doorklikken-met-de-muis is te vinden in Instellingen - Sneltoe
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
         <translation>Met een dubbelklik wordt het afbeeldingsvenster gesloten.
-Je kunt dit gedrag instellen bij Instellingen: Beheer - Muis.</translation>
+Dit gedrag is in te stellen bij Instellingen: Beheer - Muis.</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
@@ -1432,7 +1432,7 @@ Je kunt dit gedrag instellen bij Instellingen: Beheer - Muis.</translation>
     <name>PlusMinusButton</name>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius bij hoek</translation>
     </message>
 </context>
 <context>
@@ -1443,7 +1443,7 @@ Je kunt dit gedrag instellen bij Instellingen: Beheer - Muis.</translation>
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation>Automatisch starten is niet ingesteld. Je moet dit mogelijk handmatig instellen in Taakbeheer.</translation>
+        <translation>Automatisch starten kon niet worden ingesteld. Dit kan handmatig worden ingesteld in Taakbeheer.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -1485,7 +1485,7 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Als Snipaste al is aangevinkt in de lijst Schermopname, maar het werkt nog steeds niet, probeer dan de toestemming voor Schermopname te verwijderen en opnieuw te verlenen en Snipaste vervolgens opnieuw te starten, of de Mac opnieuw op te starten.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1493,7 +1493,7 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation>Voor deze functie moet dit programma toegang krijgen in Systeeminstellingen - Privacyinstellingen.</translation>
+        <translation>Om deze functie te kunnen gebruiken, dient deze toepassing toegang te worden verleend in Systeemvoorkeuren - Beveiliging en privacy.</translation>
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
@@ -1501,18 +1501,18 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
-        <translation>Heb je UAC (User Account Control) uitgeschakeld?? Schakel dit in TIJDENS de aankoop.</translation>
+        <translation>Is UAC (User Account Control) uitgeschakeld? Schakel dit in TIJDENS de aankoop.</translation>
     </message>
 </context>
 <context>
     <name>RoundedCornerButton</name>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Afgeronde hoek</translation>
     </message>
     <message>
         <source>Sharp corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Scherpe hoek</translation>
     </message>
 </context>
 <context>
@@ -1531,7 +1531,7 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
-        <translation>Je kunt dit aanpassen via het systeemvakpictogram.</translation>
+        <translation>Dit is aan te passen via het systeemvakpictogram.</translation>
     </message>
     <message>
         <source>Snipaste has been updated to %1.</source>
@@ -1545,8 +1545,8 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation>Heb je de rode stippen op de werkbalk opgemerkt?? Ze wijzen je op nuttige tips!
-Klik op een ervan om deze melding permanent af te wijzen.
+        <translation>Heb je de rode stippen op de werkbalk opgemerkt? Deze wijzen je op nuttige tips!
+Klik erop om deze melding permanent af te wijzen.
 </translation>
     </message>
     <message>
@@ -1651,7 +1651,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation>Knippen en vastpinnen</translation>
+        <translation>Knippen en vastmaken</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
@@ -1691,7 +1691,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation>Knippen, kopiëren en vastpinnen</translation>
+        <translation>Knippen, kopiëren en vastmaken</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
@@ -1816,7 +1816,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
-        <translation>Wil je alle afbeeldingen vastpinnen? (Aantal: %1)</translation>
+        <translation>Wil je alle afbeeldingen vastmaken? (Aantal: %1)</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1966,7 +1966,7 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation>Wil je Knippen afbreken?</translation>
+        <translation>Wil je het Knippen afbreken?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
@@ -2008,7 +2008,7 @@ Start Snipaste opnieuw op.</translation>
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2.</source>
-        <translation>Je gebruikt de gratis verie van Snipaste %1 %2.</translation>
+        <translation>Dit is de gratis verie van Snipaste %1 %2.</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
@@ -2044,7 +2044,7 @@ Start Snipaste opnieuw op.</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>De licentie is gekoppeld aan het Microsoft-account. Als u de licentie al bezit met uw account, kunt u op &apos;Kopen&apos; klikken om de aankoop te herstellen zonder dat er opnieuw kosten in rekening worden gebracht.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -2382,7 +2382,7 @@ Start Snipaste opnieuw op.</translation>
     </message>
     <message>
         <source>Show anchors around the snipping area.</source>
-        <translation>Ankers weergeven in het Knipgebied.</translation>
+        <translation>Ankers weergeven om het Knipgebied.</translation>
     </message>
     <message>
         <source>Show anchors</source>
@@ -2838,7 +2838,7 @@ Indien geselecteerd, wordt bovenstaande functionaliteit uitgeschakeld.</translat
     </message>
     <message>
         <source>Hide the 1x1 region indicator before you decide the snipping region.</source>
-        <translation>1x1 regio-indicator verbergen bij het bepalen van het Knipgebied.</translation>
+        <translation>1x1 regio-indicatie verbergen bij het bepalen van het Knipgebied.</translation>
     </message>
     <message>
         <source>Hide 1x1</source>
@@ -3033,7 +3033,7 @@ Deze optie is ook beschikbaar in het context-menu.</translation>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation>Selecteer deze optie als je nooit de cursor wilt opnemen.
+        <translation>Selecteer deze optie als de cursor nooit opgenomen moet worden.
 Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
@@ -3278,7 +3278,7 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation>Je kunt de zichtbaarheid van de muiscursor ook wisselen met de ` of de !-toets.</translation>
+        <translation>De zichtbaarheid van de muiscursor kan ook worden gewisseld met de ` of de !-toets.</translation>
     </message>
     <message>
         <source>Keys</source>
@@ -3476,7 +3476,7 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation>Vastpinnen aan scherm (Ctrl+T)</translation>
+        <translation>Vastmaken aan scherm (Ctrl+T)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
