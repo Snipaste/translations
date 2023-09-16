@@ -1111,7 +1111,7 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Toggle arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar flecha</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1432,7 +1432,7 @@ Puedes configurar esta acción en Preferencias - Control - Mouse.</translation>
     <name>PlusMinusButton</name>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Radio de la esquina</translation>
     </message>
 </context>
 <context>
@@ -1485,7 +1485,7 @@ Podría reiniciar Snipaste con privilegios de administrador e intentar de nuevo.
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si Snipaste ya está marcado en la lista de Grabación de pantalla, pero aun así no funciona, intenta remover y re agregar el permiso de Grabación de pantalla, luego reinicia Snipaste o reinicia tu Mac.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1508,11 +1508,11 @@ Podría reiniciar Snipaste con privilegios de administrador e intentar de nuevo.
     <name>RoundedCornerButton</name>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquina redondeada</translation>
     </message>
     <message>
         <source>Sharp corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquina puntiaguda</translation>
     </message>
 </context>
 <context>
@@ -2043,7 +2043,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>La licencia está enlazada a tu cuenta de Microsoft. Si ya tienes la licencia en tu cuenta, puedes hacer clic &apos;Comprar&apos; para restaurar tu compra sin ser cobrado de nuevo.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
