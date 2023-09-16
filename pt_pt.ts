@@ -1111,7 +1111,7 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>Toggle arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar seta</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1432,7 +1432,7 @@ Pode confidurar este comportamento em Preferências:Controlo - Rato.</translatio
     <name>PlusMinusButton</name>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Raio do canto</translation>
     </message>
 </context>
 <context>
@@ -1485,7 +1485,7 @@ Deve reiniciar o Snipaste como administrador e tentar de novo.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se o Snipaste já tiver sido seleccionado na lista de Gravação de Ecrã mas mesmo assim não funcionar, pode tentar remover e reatribuir a permissão na Gravação de Ecrã, depois reiniciar o Snipaste ou reiniciar o seu Mac.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1508,11 +1508,11 @@ Deve reiniciar o Snipaste como administrador e tentar de novo.</translation>
     <name>RoundedCornerButton</name>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Canto arredondado</translation>
     </message>
     <message>
         <source>Sharp corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Canto agudo</translation>
     </message>
 </context>
 <context>
@@ -2043,7 +2043,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>A licença está ligada à sua conta Microsoft. Se já possui uma licença com a sua conta, pode clicar em &apos;Comprar&apos; para restaurar a sua compra sem ter que pagar de novo.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
