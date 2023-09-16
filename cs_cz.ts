@@ -1038,7 +1038,7 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">Guma</translation>
+        <translation>Guma</translation>
     </message>
     <message>
         <source>Text background</source>
@@ -1098,6 +1098,10 @@ Spuštění při náběhu systému bylo zrušeno. </translation>
     </message>
     <message>
         <source>Clear content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle arrow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1399,6 +1403,28 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
 </context>
 <context>
+    <name>PixelUnitButton</name>
+    <message>
+        <source>Point (pt)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PlusMinusButton</name>
+    <message>
+        <source>Corner radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -1447,7 +1473,7 @@ Spusťte Snipaste s právy správce a zkuste znovu provést nastavení.</transla
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1464,6 +1490,17 @@ Spusťte Snipaste s právy správce a zkuste znovu provést nastavení.</transla
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>RoundedCornerButton</name>
+    <message>
+        <source>Rounded corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharp corner</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1648,7 +1685,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished">Vyčistit záznamy výstřižků</translation>
+        <translation>Vyčistit záznamy výstřižků</translation>
     </message>
 </context>
 <context>
@@ -1900,7 +1937,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>Snipaste::PGroup</name>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Výchozí</translation>
+        <translation>Výchozí</translation>
     </message>
 </context>
 <context>
@@ -1923,18 +1960,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device-independent pixel (dip)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2002,7 +2027,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

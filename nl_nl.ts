@@ -1110,6 +1110,10 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
         <translation>Inhoud wissen</translation>
     </message>
     <message>
+        <source>Toggle arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toggle mosaic/blur</source>
         <translation>Mozaïek/Vervagen wisselen</translation>
     </message>
@@ -1410,6 +1414,28 @@ Je kunt dit gedrag instellen bij Instellingen: Beheer - Muis.</translation>
     </message>
 </context>
 <context>
+    <name>PixelUnitButton</name>
+    <message>
+        <source>Point (pt)</source>
+        <translation>Punts (pt)</translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation>Apparaatonafhankelijke pixel (dip)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation>Fysieke pixel (px)</translation>
+    </message>
+</context>
+<context>
+    <name>PlusMinusButton</name>
+    <message>
+        <source>Corner radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Error</source>
@@ -1458,8 +1484,8 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
         <translation>Om een schermopnames te maken, heeft Snipaste uw toestemming nodig.</translation>
     </message>
     <message>
-        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation>Als Snipaste al is ingeschakeld in de lijst Schermopname en het werkt nog steeds niet, dan moet je het mogelijk opnieuw opstarten of je Mac opnieuw opstarten.</translation>
+        <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1476,6 +1502,17 @@ Start Snipaste opnieuw als beheerder en probeer het nog eens.</translation>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation>Heb je UAC (User Account Control) uitgeschakeld?? Schakel dit in TIJDENS de aankoop.</translation>
+    </message>
+</context>
+<context>
+    <name>RoundedCornerButton</name>
+    <message>
+        <source>Rounded corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharp corner</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1940,18 +1977,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>Knipgebied aanpassen</translation>
     </message>
     <message>
-        <source>Point (pt)</source>
-        <translation>Punts (pt)</translation>
-    </message>
-    <message>
-        <source>Physical pixel (px)</source>
-        <translation>Fysieke pixel (px)</translation>
-    </message>
-    <message>
-        <source>Device-independent pixel (dip)</source>
-        <translation>Apparaatonafhankelijke pixel (dip)</translation>
-    </message>
-    <message>
         <source>Input region size</source>
         <translation>Afmetingen knipgebied invoeren</translation>
     </message>
@@ -2018,8 +2043,8 @@ Start Snipaste opnieuw op.</translation>
         <translation>%1 is alleen gratis voor PERSOONLIJK gebruik. Voor gebruik in een werkomgeving is een PRO-licentie vereist.</translation>
     </message>
     <message>
-        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation>Bezoek &lt;a href=&quot;%1&quot;&gt;de website&lt;/a&gt; voor een vergelijking van Snipaste 2 PRO en de gratis versie.</translation>
+        <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

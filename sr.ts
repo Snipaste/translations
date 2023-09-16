@@ -1110,6 +1110,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Испразни садржај</translation>
     </message>
     <message>
+        <source>Toggle arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toggle mosaic/blur</source>
         <translation>Пребацити мозаик/замућење</translation>
     </message>
@@ -1410,6 +1414,28 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
 </context>
 <context>
+    <name>PixelUnitButton</name>
+    <message>
+        <source>Point (pt)</source>
+        <translation>Тачка (pt)</translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation>Пиксел независно од уређаја (dip)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation>Пиксел (px)</translation>
+    </message>
+</context>
+<context>
+    <name>PlusMinusButton</name>
+    <message>
+        <source>Corner radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Error</source>
@@ -1450,6 +1476,10 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Отворити подешавања система</translation>
     </message>
     <message>
+        <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
         <translation>Да би могли да нађете елементе, Snipaste треба да има контролу приступа.</translation>
     </message>
@@ -1466,16 +1496,23 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Да бисте снимили снимак екрана, Snipaste-у је потребна дозвоа са Снима Екран.</translation>
     </message>
     <message>
-        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation>Ако је Snipaste већ одобрен да користи снимање екрана и ипак не ради, можда ћете морати да се поново покренете Snipaste или ваш Mac.</translation>
-    </message>
-    <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
         <translation>Куповина не може да се заврши пошто је Snipaste покренут као администратор.</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation>Да ли сте угасили UAC (User Account Control)? Омогућите га ТОКОМ куповине.</translation>
+    </message>
+</context>
+<context>
+    <name>RoundedCornerButton</name>
+    <message>
+        <source>Rounded corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharp corner</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1940,18 +1977,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Подесите област сечења</translation>
     </message>
     <message>
-        <source>Point (pt)</source>
-        <translation>Тачка (pt)</translation>
-    </message>
-    <message>
-        <source>Physical pixel (px)</source>
-        <translation>Пиксел (px)</translation>
-    </message>
-    <message>
-        <source>Device-independent pixel (dip)</source>
-        <translation>Пиксел независно од уређаја (dip)</translation>
-    </message>
-    <message>
         <source>Input region size</source>
         <translation>Унос величине региона</translation>
     </message>
@@ -2017,8 +2042,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>%1 је сао за личну употребу. Ако га користите у радној околини, треба PRO лиценца.</translation>
     </message>
     <message>
-        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation>Идите на &lt;a href=&quot;%1&quot;&gt;сајту&lt;/a&gt; да би упоредили Snipaste 2 PRO и бесплатну верзију.</translation>
+        <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

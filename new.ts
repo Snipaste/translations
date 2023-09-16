@@ -1100,6 +1100,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Toggle arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toggle mosaic/blur</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1398,6 +1402,28 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
 </context>
 <context>
+    <name>PixelUnitButton</name>
+    <message>
+        <source>Point (pt)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PlusMinusButton</name>
+    <message>
+        <source>Corner radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Error</source>
@@ -1445,7 +1471,7 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1462,6 +1488,17 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>RoundedCornerButton</name>
+    <message>
+        <source>Rounded corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharp corner</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1924,18 +1961,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device-independent pixel (dip)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Input region size</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2000,7 +2025,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

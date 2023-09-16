@@ -1109,6 +1109,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>清除区域内容</translation>
     </message>
     <message>
+        <source>Toggle arrow</source>
+        <translation>开/关箭头</translation>
+    </message>
+    <message>
         <source>Toggle mosaic/blur</source>
         <translation>切换马赛克/模糊</translation>
     </message>
@@ -1409,6 +1413,28 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
 </context>
 <context>
+    <name>PixelUnitButton</name>
+    <message>
+        <source>Point (pt)</source>
+        <translation>点 (pt)</translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation>逻辑像素 (dip)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation>物理像素 (px)</translation>
+    </message>
+</context>
+<context>
+    <name>PlusMinusButton</name>
+    <message>
+        <source>Corner radius</source>
+        <translation>圆角半径</translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Error</source>
@@ -1457,8 +1483,8 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Snipaste 需要屏幕录制权限才能进行截屏。</translation>
     </message>
     <message>
-        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation>如果 Snipaste 已经被授予屏幕录制权限却依然无法截屏，请尝试重启 Snipaste 或重启系统。</translation>
+        <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
+        <translation>如果 Snipaste 已经被授予屏幕录制权限却依然无法截屏，可以尝试先移除 Snipaste 的屏幕录制权限，然后退出 Snipaste，重新勾选权限后重启 Snipaste 或重启系统。</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1475,6 +1501,17 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation>您是否禁用了 UAC (用户账户控制)？请在购买前从系统设置中启用它，购买后您可以恢复设置。</translation>
+    </message>
+</context>
+<context>
+    <name>RoundedCornerButton</name>
+    <message>
+        <source>Rounded corner</source>
+        <translation>圆角</translation>
+    </message>
+    <message>
+        <source>Sharp corner</source>
+        <translation>直角</translation>
     </message>
 </context>
 <context>
@@ -1938,18 +1975,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>调整截图区域</translation>
     </message>
     <message>
-        <source>Point (pt)</source>
-        <translation>点 (pt)</translation>
-    </message>
-    <message>
-        <source>Physical pixel (px)</source>
-        <translation>物理像素 (px)</translation>
-    </message>
-    <message>
-        <source>Device-independent pixel (dip)</source>
-        <translation>逻辑像素 (dip)</translation>
-    </message>
-    <message>
         <source>Input region size</source>
         <translation>输入区域大小</translation>
     </message>
@@ -2008,7 +2033,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Tencent PC Manager is not active.
-Please launch the subscrition platform first.</source>
+Please launch the subscription platform first.</source>
         <translation>腾讯电脑管家未启动。
 请先启动腾讯电脑管家。</translation>
     </message>
@@ -2052,8 +2077,8 @@ Please launch the subscrition platform first.</source>
         <translation>激活</translation>
     </message>
     <message>
-        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation>欢迎访问&lt;a href=&quot;%1&quot;&gt;官网&lt;/a&gt;了解专业版与免费版的详细区别。</translation>
+        <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
+        <translation>该许可证与您的微软账户相关联。如果您的账户已拥有该许可证，您可以点击“购买”来恢复购买。请放心，同一帐号不会重复扣费。</translation>
     </message>
     <message>
         <source>Back</source>

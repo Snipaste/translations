@@ -433,7 +433,7 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
     <message>
         <source>Reuse the last snipping areas</source>
-        <translation type="unfinished">Son kırpma alanını yeniden kullan</translation>
+        <translation>Son kırpma alanını yeniden kullan</translation>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
@@ -1109,6 +1109,10 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <translation>İçeriği temizle</translation>
     </message>
     <message>
+        <source>Toggle arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toggle mosaic/blur</source>
         <translation>Mozaik/Bulanık seçim</translation>
     </message>
@@ -1409,6 +1413,28 @@ Bu davranışı Tercihler İletişim Kutusu: Kontrol - Fare. kısmından yapıla
     </message>
 </context>
 <context>
+    <name>PixelUnitButton</name>
+    <message>
+        <source>Point (pt)</source>
+        <translation>Nokta (pt)</translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation>Cihazdan(d) bağımsız(i) piksel(p) (dip)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation>Fiziksel(p) piksel(x) (px)</translation>
+    </message>
+</context>
+<context>
+    <name>PlusMinusButton</name>
+    <message>
+        <source>Corner radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Error</source>
@@ -1453,6 +1479,10 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
         <translation>Sistem Tercihlerini Aç</translation>
     </message>
     <message>
+        <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
         <translation>UI öğesi algılamayı etkinleştirmek için, Snipaste erişilebilirlik kontrolü gerektirir.</translation>
     </message>
@@ -1465,15 +1495,22 @@ Snipaste&apos;i yönetici olarak çalıştırın ve tekrar deneyin.</translation
         <translation>Ekran görüntüsü almak için Snipaste, Ekran Kaydı iznine ihtiyaç duyar.</translation>
     </message>
     <message>
-        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation>Snipaste, Ekran Kaydı listesinde zaten işaretlenmişse ve hala çalışmıyorsa, Snipaste&apos;i yeniden başlatmanız veya Mac&apos;inizi yeniden başlatmanız gerekebilir.</translation>
-    </message>
-    <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>RoundedCornerButton</name>
+    <message>
+        <source>Rounded corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharp corner</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1939,18 +1976,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Point (pt)</source>
-        <translation>Nokta (pt)</translation>
-    </message>
-    <message>
-        <source>Physical pixel (px)</source>
-        <translation>Fiziksel(p) piksel(x) (px)</translation>
-    </message>
-    <message>
-        <source>Device-independent pixel (dip)</source>
-        <translation>Cihazdan(d) bağımsız(i) piksel(p) (dip)</translation>
-    </message>
-    <message>
         <source>Input region size</source>
         <translation>Giriş bölgesi boyutu</translation>
     </message>
@@ -2015,8 +2040,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>%1 sadece KİŞİSEL KULLANIM için ücretsizdir. İşyerinde kullanmak istiyorsanız, PRO lisansı gereklidir.</translation>
     </message>
     <message>
-        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation>Snipaste 2 PRO ile ücretsiz arasında bir karşılaştırma için lütfen &lt;a href=&quot;%1&quot;&gt;web sitesini&lt;/a&gt; ziyaret edin.</translation>
+        <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

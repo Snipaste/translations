@@ -1106,6 +1106,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>컨텐츠 치우기</translation>
     </message>
     <message>
+        <source>Toggle arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toggle mosaic/blur</source>
         <translation>토글 : 모자이크/블러</translation>
     </message>
@@ -1405,6 +1409,28 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
 </context>
 <context>
+    <name>PixelUnitButton</name>
+    <message>
+        <source>Point (pt)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation>장치독립픽셀(dip)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation>물리적 픽셀(px)</translation>
+    </message>
+</context>
+<context>
+    <name>PlusMinusButton</name>
+    <message>
+        <source>Corner radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Error</source>
@@ -1452,8 +1478,8 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>스크린 샷을 찍으려면 Snipaste에 화면 녹화 권한이 필요합니다.</translation>
     </message>
     <message>
-        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation>화면 녹화 목록에서 Snipaste가 이미 선택되어 있는데도 여전히 작동하지 않으면 Snipaste를 다시 시작하거나 Mac을 다시 시작해야 할 수 있습니다.</translation>
+        <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1470,6 +1496,17 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation>UAC(사용자 계정 컨트롤)를 비활성화했습니까? 구매하는 동안 활성화하십시오.</translation>
+    </message>
+</context>
+<context>
+    <name>RoundedCornerButton</name>
+    <message>
+        <source>Rounded corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharp corner</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1935,18 +1972,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Point (pt)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Physical pixel (px)</source>
-        <translation>물리적 픽셀(px)</translation>
-    </message>
-    <message>
-        <source>Device-independent pixel (dip)</source>
-        <translation>장치독립픽셀(dip)</translation>
-    </message>
-    <message>
         <source>Input region size</source>
         <translation>영역크기 입력</translation>
     </message>
@@ -2012,8 +2037,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>%1는 개인 용도로만 무료입니다. 직장에서 사용하려면 PRO 라이센스가 필요합니다.</translation>
     </message>
     <message>
-        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation>Snipaste 2 PRO와 무료버전을 비교하려면 &lt;a href=&quot;%1&quot;&gt;웹사이트&lt;/a&gt;를 방문하세요.</translation>
+        <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

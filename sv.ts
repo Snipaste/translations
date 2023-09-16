@@ -20,7 +20,7 @@
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished">Välj färg</translation>
+        <translation>Välj färg</translation>
     </message>
 </context>
 <context>
@@ -933,31 +933,31 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
-        <translation type="unfinished">Rektangel/Ellips</translation>
+        <translation>Rektangel/Ellips</translation>
     </message>
     <message>
         <source>Line strip</source>
-        <translation type="unfinished">Linje</translation>
+        <translation>Linje</translation>
     </message>
     <message>
         <source>Pencil</source>
-        <translation type="unfinished">Penna</translation>
+        <translation>Penna</translation>
     </message>
     <message>
         <source>Marker pen</source>
-        <translation type="unfinished">Markeringspenna</translation>
+        <translation>Markeringspenna</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Text</translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Mosaic/Blur</source>
-        <translation type="unfinished">Mosaik/Oskärpa</translation>
+        <translation>Mosaik/Oskärpa</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">Radera</translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <source>Normal snip</source>
@@ -1040,7 +1040,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished">Radera</translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <source>Text background</source>
@@ -1100,6 +1100,10 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Clear content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle arrow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1401,6 +1405,28 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
 </context>
 <context>
+    <name>PixelUnitButton</name>
+    <message>
+        <source>Point (pt)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PlusMinusButton</name>
+    <message>
+        <source>Corner radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Error</source>
@@ -1449,7 +1475,7 @@ Du kan starta om Snipaste som administratör och försöka igen.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
+        <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1466,6 +1492,17 @@ Du kan starta om Snipaste som administratör och försöka igen.</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>RoundedCornerButton</name>
+    <message>
+        <source>Rounded corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharp corner</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1650,7 +1687,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished">Rensa klipposter</translation>
+        <translation>Rensa klipposter</translation>
     </message>
 </context>
 <context>
@@ -1902,7 +1939,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>Snipaste::PGroup</name>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Standard</translation>
+        <translation>Standard</translation>
     </message>
 </context>
 <context>
@@ -1925,18 +1962,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device-independent pixel (dip)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2004,7 +2029,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
+        <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2025,7 +2050,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Aktivera</translation>
+        <translation>Aktivera</translation>
     </message>
     <message>
         <source>Back</source>
@@ -2131,15 +2156,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Delay:</source>
-        <translation type="unfinished">Fördröj:</translation>
+        <translation>Fördröj:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Preset</source>
@@ -2181,7 +2206,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Remove empty groups</source>
-        <translation type="unfinished">Ta bort tomma grupper</translation>
+        <translation>Ta bort tomma grupper</translation>
     </message>
 </context>
 <context>
@@ -3486,11 +3511,11 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Format:
@@ -3559,11 +3584,11 @@ Examples:
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Zoom Image</source>

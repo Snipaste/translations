@@ -1109,6 +1109,10 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
         <translation>Inhalt löschen</translation>
     </message>
     <message>
+        <source>Toggle arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toggle mosaic/blur</source>
         <translation>Zwischen Mosaik und Unschärfe wechseln</translation>
     </message>
@@ -1409,6 +1413,28 @@ Sie können dieses Verhalten im Dialogfeld &quot;Einstellungen&quot; konfigurier
     </message>
 </context>
 <context>
+    <name>PixelUnitButton</name>
+    <message>
+        <source>Point (pt)</source>
+        <translation>Punkt (pt)</translation>
+    </message>
+    <message>
+        <source>Device-independent pixel (dip)</source>
+        <translation>Geräteunabhängiges Pixel (Dip)</translation>
+    </message>
+    <message>
+        <source>Physical pixel (px)</source>
+        <translation>Physikalische Pixel (px)</translation>
+    </message>
+</context>
+<context>
+    <name>PlusMinusButton</name>
+    <message>
+        <source>Corner radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Error</source>
@@ -1457,8 +1483,8 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
         <translation>Um einen Screenshot zu machen, benötigt Snipaste die Berechtigung zur Bildschirmaufzeichnung.</translation>
     </message>
     <message>
-        <source>If Snipaste has already been checked in the Screen Recording list and it still not works, you may need to restart Snipaste or restart your Mac.</source>
-        <translation>Wenn Snipaste bereits in der Bildschirmaufzeichnungsliste aktiviert wurde und immer noch nicht funktioniert, müssen Sie möglicherweise Snipaste neu starten oder Ihren Mac neu starten.</translation>
+        <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1475,6 +1501,17 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation>Haben Sie die UAC (Benutzerkontensteuerung) deaktiviert? Bitte aktivieren Sie sie WÄHREND des Kaufs.</translation>
+    </message>
+</context>
+<context>
+    <name>RoundedCornerButton</name>
+    <message>
+        <source>Rounded corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharp corner</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1939,18 +1976,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>Einstellen des Aufnahme-Bereichs</translation>
     </message>
     <message>
-        <source>Point (pt)</source>
-        <translation>Punkt (pt)</translation>
-    </message>
-    <message>
-        <source>Physical pixel (px)</source>
-        <translation>Physikalische Pixel (px)</translation>
-    </message>
-    <message>
-        <source>Device-independent pixel (dip)</source>
-        <translation>Geräteunabhängiges Pixel (Dip)</translation>
-    </message>
-    <message>
         <source>Input region size</source>
         <translation>Bereichsgröße eingeben</translation>
     </message>
@@ -2016,8 +2041,8 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>%1 ist nur für PERSÖNLICHE NUTZUNG kostenlos. Wenn Sie es am Arbeitsplatz verwenden möchten, ist eine PRO-Lizenz erforderlich.</translation>
     </message>
     <message>
-        <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for a comparison between Snipaste 2 PRO and free.</source>
-        <translation>Bitte besuchen Sie &lt;a href=&quot;%1&quot;&gt;die Website&lt;/a&gt; für einen Vergleich zwischen Snipaste 2 PRO und der kostenlosen Version.</translation>
+        <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
