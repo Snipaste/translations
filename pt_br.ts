@@ -1111,7 +1111,7 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     </message>
     <message>
         <source>Toggle arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar seta</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1432,7 +1432,7 @@ Você pode configurar este comportamento no diálogo Preferências: Controle - M
     <name>PlusMinusButton</name>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Raio de canto</translation>
     </message>
 </context>
 <context>
@@ -1485,7 +1485,7 @@ Reinicie o Snipaste como Administrador e tente novamente.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se o Snipaste já tiver sido verificado na lista de gravação de tela, mas ainda não funcionar, você pode tentar remover e conceder novamente a permissão para gravação de tela e, em seguida, reiniciar o Snipaste ou reiniciar o Mac.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1508,11 +1508,11 @@ Reinicie o Snipaste como Administrador e tente novamente.</translation>
     <name>RoundedCornerButton</name>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Canto arredondado</translation>
     </message>
     <message>
         <source>Sharp corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Canto pontudo</translation>
     </message>
 </context>
 <context>
@@ -2043,7 +2043,7 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>A licença está vinculada à sua conta da Microsoft. Se você já possui a licença com sua conta, pode clicar em “Comprar” para restaurar sua compra sem ser cobrado novamente.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
