@@ -1111,7 +1111,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Toggle arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>開/關箭頭</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1432,7 +1432,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     <name>PlusMinusButton</name>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>圓角半徑</translation>
     </message>
 </context>
 <context>
@@ -1485,7 +1485,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果 Snipaste 已經被授予螢幕錄製權限卻依然無法擷取螢幕，可以嘗試先移除 Snipaste 的螢幕錄製權限，然後結束 Snipaste，重新勾選權限後重啟 Snipaste 或重啟系統。</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1508,11 +1508,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     <name>RoundedCornerButton</name>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>圓角</translation>
     </message>
     <message>
         <source>Sharp corner</source>
-        <translation type="unfinished"></translation>
+        <translation>直角</translation>
     </message>
 </context>
 <context>
@@ -2043,7 +2043,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>該授權證與您的微軟帳戶相關聯。如果您的帳戶已擁有該授權證，您可以點選「購買」來恢復購買。請放心，同一帳戶不會重複扣費。</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
