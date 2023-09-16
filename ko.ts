@@ -339,7 +339,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>캡쳐 영역을 활성 화면/전체 화면으로 설정</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -435,7 +435,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>활성 화면 / 전체 화면 선택</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
@@ -629,15 +629,15 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>Week day in English</source>
-        <translation type="unfinished"></translation>
+        <translation>요일을 영어로</translation>
     </message>
     <message>
         <source>Month name in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>월 이름을 영어로(약어)</translation>
     </message>
     <message>
         <source>Month name in English</source>
-        <translation type="unfinished"></translation>
+        <translation>월 이름을 영어로</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -1107,7 +1107,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Toggle arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>전환 화살표</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1427,7 +1427,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     <name>PlusMinusButton</name>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>모서리 반경</translation>
     </message>
 </context>
 <context>
@@ -1438,7 +1438,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation>부팅 할 때 시작을 활성화하지 못했습니다. 먼저 작업 관리자에서 수동으로 활성화해야 할 수도 있습니다.</translation>
+        <translation>부팅할 때 시작을 활성화하지 못했습니다. 먼저 작업 관리자에서 수동으로 활성화해야 할 수도 있습니다.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
@@ -1890,11 +1890,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Failed to save the image to</source>
-        <translation>이미지를 저장하지 못했습니다.</translation>
+        <translation>이미지로 저장 실패</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
-        <translation>Snipaste가 % 1 (으)로 업데이트되었습니다.</translation>
+        <translation>Snipaste가 % 1 (으)로 업데이트되었습니다!</translation>
     </message>
     <message>
         <source>Click here to update now</source>
@@ -2042,7 +2042,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation>자세한 내용은 &lt;a href=&quot;%1&quot;&gt; 웹 사이트 &lt;/a&gt;를 방문하세요</translation>
+        <translation>자세한 내용은 &lt;a href=&quot;%1&quot;&gt; 웹 사이트 &lt;/a&gt;를 방문하세요.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
@@ -2079,7 +2079,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Invalid license.</source>
-        <translation>잘못된 라이센스</translation>
+        <translation>잘못된 라이센스.</translation>
     </message>
     <message>
         <source>Number of activations exceeded.</source>
@@ -2087,15 +2087,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Network error.</source>
-        <translation>네트워크 에러</translation>
+        <translation>네트워크 에러.</translation>
     </message>
     <message>
         <source>License expired.</source>
-        <translation>라이센스 만료됨</translation>
+        <translation>라이센스 만료됨.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation>잘못된 라이센스 키</translation>
+        <translation>잘못된 라이센스 키.</translation>
     </message>
     <message>
         <source>Error code</source>
@@ -2126,7 +2126,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>UpdaterDialog</name>
     <message>
         <source>Checking...</source>
-        <translation>확인중</translation>
+        <translation>확인중...</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -2321,7 +2321,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Run Snipaste when the operating system starts.</source>
-        <translation>윈도우 시작시 스니페이스트 자동 실행</translation>
+        <translation>윈도우 시작시 Snipaste를 자동 실행.</translation>
     </message>
     <message>
         <source>Run on system startup</source>
@@ -2329,7 +2329,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Run as administrator for startup.</source>
-        <translation>스니페이스트를 관리자 모드 실행</translation>
+        <translation>관리자 모드로 실행</translation>
     </message>
     <message>
         <source>As administrator</source>
@@ -2341,7 +2341,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Add more commands to the tray menu.</source>
-        <translation>트레이 메뉴에 명령 추가</translation>
+        <translation>트레이 메뉴에 명령 추가.</translation>
     </message>
     <message>
         <source>Enhanced tray menu</source>
@@ -2385,15 +2385,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Use default tray icon.</source>
-        <translation>기본 트레이 아이콘 사용</translation>
+        <translation>기본 트레이 아이콘 사용.</translation>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
-        <translation>트레이 아이콘 색상을 사용자가 지정</translation>
+        <translation>트레이 아이콘 색상을 사용자가 지정.</translation>
     </message>
     <message>
         <source>Set the color for the tray icon.</source>
-        <translation>트레이 아이콘 색상 설정</translation>
+        <translation>트레이 아이콘 색상 설정.</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2405,7 +2405,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Restore all settings on this page to their default states.</source>
-        <translation>이 페이지의 모든 설정을 기본값으로 복원</translation>
+        <translation>이 페이지의 모든 설정을 기본값으로 복원.</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
@@ -2425,7 +2425,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Set the width of the border around the snipping area.</source>
-        <translation>캡춰 영역 주위의 너비 설정</translation>
+        <translation>캡쳐 영역 주위의 너비 설정.</translation>
     </message>
     <message>
         <source>px</source>
@@ -2441,7 +2441,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Show anchors around the snipping area.</source>
-        <translation>캡춰 영역에 앵커 표시</translation>
+        <translation>캡쳐 영역에 앵커 표시.</translation>
     </message>
     <message>
         <source>Show anchors</source>
