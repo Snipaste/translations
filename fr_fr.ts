@@ -1111,7 +1111,7 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>Toggle arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flèche basculante</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1432,7 +1432,7 @@ Vous pouvez configurer ce comportement dans la boîte de dialogue Préférences:
     <name>PlusMinusButton</name>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayon d&apos;angle</translation>
     </message>
 </context>
 <context>
@@ -1485,7 +1485,7 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si Snipaste a déjà été coché dans la liste des enregistrements d&apos;écran mais que cela ne fonctionne toujours pas, vous pouvez essayer de supprimer et d&apos;accorder à nouveau l&apos;autorisation d&apos;enregistrement d&apos;écran, puis de redémarrer Snipaste ou de redémarrer votre Mac.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1508,11 +1508,11 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     <name>RoundedCornerButton</name>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Angle arrondi</translation>
     </message>
     <message>
         <source>Sharp corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Angle vif</translation>
     </message>
 </context>
 <context>
@@ -2043,7 +2043,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>La licence est liée à votre compte Microsoft. Si vous possédez déjà la licence avec votre compte, vous pouvez cliquer sur &apos;Acheter&apos; pour restaurer votre achat sans être facturé à nouveau.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>

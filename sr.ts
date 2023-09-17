@@ -1111,7 +1111,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Toggle arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Пребацити стрелицу</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1432,7 +1432,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     <name>PlusMinusButton</name>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Радијус ивице</translation>
     </message>
 </context>
 <context>
@@ -1477,7 +1477,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако је Snipaste већ означен на листи за снимање екрана, али и даље не ради, можете покушати да уклоните и поново дате дозволу за снимање екрана, а затим поново покрените Snipaste или поново покрените Mac.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1508,11 +1508,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     <name>RoundedCornerButton</name>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Заобљени угао</translation>
     </message>
     <message>
         <source>Sharp corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Оштар угао</translation>
     </message>
 </context>
 <context>
@@ -2043,7 +2043,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лиценца је повезана са вашим Microsoft налогом. Ако већ поседујете лиценцу са својим налогом, можете да кликнете на „Купи“ да бисте вратили куповину без поновне наплате.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
