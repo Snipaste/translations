@@ -1110,7 +1110,7 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Toggle arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfeil umschalten</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1431,7 +1431,7 @@ Sie können dieses Verhalten im Dialogfeld &quot;Einstellungen&quot; konfigurier
     <name>PlusMinusButton</name>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Eckenradius</translation>
     </message>
 </context>
 <context>
@@ -1484,7 +1484,7 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn Snipaste bereits in der Bildschirmaufzeichnungsliste aktiviert wurde, es aber immer noch nicht funktioniert, können Sie versuchen, die Berechtigung für die Bildschirmaufzeichnung zu entfernen und erneut zu erteilen. Starten Sie dann Snipaste neu oder starten Sie Ihren Mac neu.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1507,11 +1507,11 @@ Sie können Snipaste mit Administratorrechten neu starten und es erneut versuche
     <name>RoundedCornerButton</name>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerundete Ecken</translation>
     </message>
     <message>
         <source>Sharp corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Scharfe Ecken</translation>
     </message>
 </context>
 <context>
@@ -2042,7 +2042,7 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Lizenz ist mit Ihrem Microsoft-Konto verknüpft. Wenn Sie die Lizenz bereits mit Ihrem Konto besitzen, können Sie auf „Kaufen“ klicken, um Ihren Kauf ohne erneute Belastung wiederherzustellen.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
