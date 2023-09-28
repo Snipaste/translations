@@ -5,63 +5,63 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti tekstą</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekti nuorodą</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>%1+Spauskite, kad sektumėte nuorodą</translation>
     </message>
 </context>
 <context>
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti spalvą</translation>
     </message>
 </context>
 <context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation>Spauskite %1, kad kopijuotumėte spalvą</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation>Spauskite %1, kad pasikeistumėte tarp „RŽM(RGB)/HEX“</translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Spauskite, kad pridėtumėte į rinkinius</translation>
     </message>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Redaguoti rinkinius...</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
 </context>
 <context>
     <name>FvUpdater</name>
     <message>
         <source>Redirecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Peradresuojame</translation>
     </message>
     <message>
         <source>Download complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsisiuntimas baigtas.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>File hash does not match.</source>
