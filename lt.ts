@@ -46,7 +46,7 @@
     </message>
     <message>
         <source>s</source>
-        <translation>s</translation>
+        <translation>sek.</translation>
     </message>
 </context>
 <context>
@@ -281,19 +281,19 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
         <source>Rotate the image clockwise by 90 degrees</source>
-        <translation>Pasukti nuotrauką/vaizdą/iškarpą/paveikslėlį pagal laikrodžio rodyklės puse 90° kampu</translation>
+        <translation>Pasukti nuotrauka/vaizda/iškarpa/paveikslėlį pagal laikrodžio rodyklės puse 90° kampu</translation>
     </message>
     <message>
         <source>Rotate the image counter-clockwise by 90 degrees</source>
-        <translation>Pasukti nuotrauką/vaizdą/iškarpą/paveikslėlį prieš laikrodžio rodyklės puse 90° kampu</translation>
+        <translation>Pasukti nuotrauka/vaizda/iškarpa/paveikslėlį prieš laikrodžio rodyklės puse 90° kampu</translation>
     </message>
     <message>
         <source>Flip the image horizontally</source>
-        <translation>Pasukti nuotrauką/vaizdą/iškarpą/paveikslėlį horizontaliai</translation>
+        <translation>Pasukti nuotrauka/vaizda/iškarpa/paveikslėlį horizontaliai</translation>
     </message>
     <message>
         <source>Flip the image vertically</source>
-        <translation>Pasukti nuotrauką/vaizdą/iškarpą/paveikslėlį vertikaliai</translation>
+        <translation>Pasukti nuotrauka/vaizda/iškarpa/paveikslėlį vertikaliai</translation>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
@@ -425,23 +425,23 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumažinti/padidinti rašyklio plotį, jei redagavimo režime</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>Atkartoti užfiksavimų istoriją</translation>
     </message>
     <message>
         <source>Reuse the last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Pernaudoti paskutinias užfiksavimo zonas</translation>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti aktyvų langą / pilną ekraną</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Perkelti užfiksavimo sritį vienu (1) pikseliu</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
@@ -449,7 +449,7 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti aukštutinį/žemutinį (tėvinį/vaikinį) išvaizdos elementą</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
@@ -457,7 +457,7 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>Pašalinti pasirinkimą redaguojant elementą</translation>
     </message>
 </context>
 <context>
@@ -465,7 +465,8 @@ Prašome susisiekti su kūrėju.</translation>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ačiū už palaikymą!
+Perjungti dabar, kad mėgautumės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>OK</source>
@@ -606,54 +607,54 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Allowed suffixes</source>
-        <translation type="unfinished"></translation>
+        <translation>Leidžiamos priesagos</translation>
     </message>
     <message>
         <source>Illegal characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Draudžiami / Neteisėti simboliai</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplinkos kintamieji</translation>
     </message>
     <message>
         <source>Dates and times</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos ir laikai</translation>
     </message>
     <message>
         <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvaus lango pavadinimas prieš užfiksuojant</translation>
     </message>
     <message>
         <source>Week day in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Savaitės diena angliškai (Santrumpa)</translation>
     </message>
     <message>
         <source>Week day in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Savaitės diena angliškai</translation>
     </message>
     <message>
         <source>Month name in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mėnesio pavadinimas angliškai (santrumpa)</translation>
     </message>
     <message>
         <source>Month name in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Mėnesio pavadinimas angliškai</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>Tas pats kaip viršuje, bet simbolių skaičius yra ribojamas iki 50</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Specialieji kintamieji</translation>
     </message>
 </context>
 <context>
     <name>OptionsDialog</name>
     <message>
         <source>Thank you for your support!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ačiū už palaikymą!</translation>
     </message>
     <message>
         <source>Checking...</source>
@@ -665,7 +666,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Peržiūrą</translation>
     </message>
     <message>
         <source>For XP</source>
@@ -673,27 +674,27 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>-bit</source>
-        <translation type="unfinished"></translation>
+        <translation>-bitas</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorių teisės</translation>
     </message>
     <message>
         <source>Home Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagrindinis Puslapis</translation>
     </message>
     <message>
         <source>Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentacija</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsiliepimai</translation>
     </message>
     <message>
         <source>Follow</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekti</translation>
     </message>
     <message>
         <source>Weibo</source>
@@ -779,19 +780,19 @@ Paleisti iš naujo „Snipaste“ dabar?</translation>
     </message>
     <message>
         <source>No Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Nėra įgaliojimo</translation>
     </message>
     <message>
         <source>System Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemos įgaliotojas</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Joks</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Kopijuoti į iškarpinė</translation>
+        <translation>Kopijuoti į iškarpinę</translation>
     </message>
     <message>
         <source>Pin to screen</source>
@@ -811,20 +812,21 @@ Paleisti iš naujo „Snipaste“ dabar?</translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Trukdžių, bei testavimo ieškojimas ir šalinimas</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalus</translation>
     </message>
     <message>
         <source>Trace</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsekti</translation>
     </message>
     <message>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kažkas negerai su paleidimo sparčiuoju klavišu.
+Paleidimas įkrovos metu buvo atšauktas.</translation>
     </message>
     <message>
         <source>Russian</source>
@@ -856,15 +858,15 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Pseudo-skaidrumas</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamsus šachmatinis skleidimas</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Šviesus šachmatinis skleidimas</translation>
     </message>
     <message>
         <source>Snip and pin</source>
@@ -885,7 +887,8 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation type="unfinished"></translation>
+        <translation>Paletės duomenys nukopijuotos į iškarpinę.
+Pasidalykite jais su draugais!</translation>
     </message>
     <message>
         <source>Snipping</source>
@@ -905,11 +908,15 @@ Share it to your friends!</source>
 Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastaba: Jūs ketinate pereiti prie kito konfigūracijos failo. Jame esantys nustatymai bus taikomi ir visi dabartiniai nustatymai bus pakeisti.
+
+Be to, po šios operacijos neturėtumėte ištrinti numatytojo konfigūracijos failo, nes jame įrašyta, kur rasti naująjį konfigūracijos failą.
+
+Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ispanų (Meksika)</translation>
     </message>
     <message>
         <source>Custom color</source>
@@ -981,7 +988,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Snipaste Preferences</source>
-        <translation>„Snipaste“ nustatymai</translation>
+        <translation>„Snipaste“ parinktys</translation>
     </message>
     <message>
         <source>PRO</source>
@@ -1016,7 +1023,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vilkite, kad nubrėžtumėte vieną liniją, arba spustelėkite, kad nubrėžtumėte linijų juostas.</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1052,11 +1059,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Norėdami pakeisti rašiklio plotį, slinkite pelės ratuku arba paspauskite „1“ arba „2“, arba paspauskite „[“ arba „]“.</translation>
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kampo spindulys:</translation>
     </message>
     <message>
         <source>Alpha:</source>
@@ -1108,11 +1115,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Perjungti mozaiką / suliejimą</translation>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>Perjungti sklandumą</translation>
     </message>
 </context>
 <context>
@@ -1139,7 +1146,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Neskaidrumas</translation>
     </message>
     <message>
         <source>Play</source>
@@ -1159,11 +1166,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Atkurti</translation>
     </message>
     <message>
         <source>Copy plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti paprastą tekstą</translation>
     </message>
     <message>
         <source>Copy HTML</source>
@@ -1187,47 +1194,47 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Show annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti pastabas</translation>
     </message>
     <message>
         <source>Ignore format</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoruoti formatą</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Šešėlis</translation>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Likti ant viršaus</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Priartinimas ir atitolinimas</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Dabartinis</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Išlyginimas</translation>
     </message>
     <message>
         <source>Background mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Fono režimas</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Skaidrus</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamsus šachmatinis skleidimas</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Šviesus šachmatinis skleidimas</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1235,19 +1242,19 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Replace by file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti pagal failą...</translation>
     </message>
     <message>
         <source>Move to group</source>
-        <translation type="unfinished"></translation>
+        <translation>Perkelti į grupę</translation>
     </message>
     <message>
         <source>New group...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nauja grupė...</translation>
     </message>
     <message>
         <source>View in folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiūrėti aplanke</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1283,12 +1290,13 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Quit annotating</source>
-        <translation type="unfinished"></translation>
+        <translation>Išjungti pastabas</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veiksmas „Dvigubas bakstelėjimas X“ buvo atšauktas.
+Pelės paspaudimo per pelę veiksmą galite rasti jo sparčiuoju klavišu „Parinktys – Spartieji klavišai“.</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -1296,15 +1304,15 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Apkirpti</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Pseudo-skaidrus</translation>
     </message>
     <message>
         <source>Copy annotation text</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti pastabos tekstą</translation>
     </message>
     <message>
         <source>Select all images</source>
@@ -1312,15 +1320,15 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilkos spalvos tonai</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinktinė spalva</translation>
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinktinis...</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
@@ -1332,11 +1340,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Praeitas kadras</translation>
     </message>
     <message>
         <source>Rotate left</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasukti į kairę</translation>
     </message>
     <message>
         <source>Next frame</source>
@@ -1344,15 +1352,15 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Rotate right</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasukti į dešinę</translation>
     </message>
     <message>
         <source>Horizontal flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontaliai pasukti</translation>
     </message>
     <message>
         <source>Vertical flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaliai pasukti</translation>
     </message>
     <message>
         <source>All desktops</source>
@@ -1372,7 +1380,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Copy raw HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti neapdoruota „HTML“</translation>
     </message>
     <message>
         <source>Save unscaled image as...</source>
@@ -1380,11 +1388,11 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>Apversti spalvą</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalva apversta</translation>
     </message>
     <message>
         <source>Double clicking the image window will close the window.
@@ -1398,7 +1406,7 @@ Jūs galite konfigūruoti šį veiksmą parametrų dialoge: Kontrolė – Pelė.
     </message>
     <message>
         <source>Output Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Išvesties parinktys</translation>
     </message>
     <message>
         <source>Show hidden images</source>
@@ -1409,22 +1417,22 @@ Jūs galite konfigūruoti šį veiksmą parametrų dialoge: Kontrolė – Pelė.
     <name>PixelUnitButton</name>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Taškas (tš)</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Įrenginio-priklausomas pikselis (ĮPP)</translation>
     </message>
     <message>
         <source>Physical pixel (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fizinis pikselis („px“)</translation>
     </message>
 </context>
 <context>
     <name>PlusMinusButton</name>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Kampo spindulys</translation>
     </message>
 </context>
 <context>
@@ -1435,32 +1443,33 @@ Jūs galite konfigūruoti šį veiksmą parametrų dialoge: Kontrolė – Pelė.
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko įjungti paleidimo įkrovos metu. Jūms gali tekti rankiniu būdu įjungti jį per užduočių tvarkytuve.</translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleisti „Snipaste“ su administratoriaus teisėmis.</translation>
     </message>
     <message>
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko sukurti tvarkaraščio užduoties.
+Jūms galimai reikės iš naujo paleisti „Snipaste“ su administratoriaus teisėmis ir bandyti dar kartą.</translation>
     </message>
     <message>
         <source>Failed to create a shortcut in the startup directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko sukurti nuorodą paleidimo kataloge.</translation>
     </message>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
-        <translation type="unfinished"></translation>
+        <translation>Iš naujo paleisti „Snipaste“ su administratoriaus teisėmis?</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Pavyko</translation>
     </message>
     <message>
         <source>It may take a few seconds...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tai gali užtrukti kelias sekundes...</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1468,125 +1477,127 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Open System Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti sistemos parametrus</translation>
     </message>
     <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>Norint paimti iškarpą, „Snipaste“ reikalauja ekrano įrašymo leidimo.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jei „Snipaste&quot; buvo patikrinta ekrano įrašymo sąraše, bet vis tiek neveikia, galite pabandyti pašalinti ir iš naujo suteikti leidimą ekrano įrašymui, tada iš naujo paleisti „Snipaste“ arba iš naujo paleisti „Mac“.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Norint įjungti vartotojo sąsajos elemento aptikimą, „Snipaste“ reikalauja prieinamumo valdymo.</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jei norite naudoti šią funkciją, suteikite prieigą prie šios programos saugumo ir privatumo nuostatose, esančiose sistemos parametruose.</translation>
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pirkimo negalima užbaigti, nes „Snipaste“ veikia su administratoriaus teisėmis.</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar išjungėte VPV (Vartotojo paskyros valdymą)? Ją įjunkite perkimo METU.</translation>
     </message>
 </context>
 <context>
     <name>RoundedCornerButton</name>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Suapvalintas kampas</translation>
     </message>
     <message>
         <source>Sharp corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Aštrus kampas</translation>
     </message>
 </context>
 <context>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko užregistruoti nuorodos:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Snipaste is running</source>
-        <translation type="unfinished"></translation>
+        <translation>„Snipaste“ veikia</translation>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jį galite valdyti per dėklo piktogramą.</translation>
     </message>
     <message>
         <source>Snipaste has been updated to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>„Snipaste“ buvo atnaujintas į %1.</translation>
     </message>
     <message>
         <source>Click here to see the changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustelėkite čia, jei norite peržiūrėti pakeitimų sąrašą</translation>
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ar pastebėjote raudonus taškus įrankių juostoje? Jie parodys jums naudingus patarimus!
+Spustelėkite bet kurį iš jų, kad visam laikui atšauktumėte šį pranešimą.
+</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti spalvą</translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti šriftą</translation>
     </message>
     <message>
         <source>Set Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Nustatyti katalogą</translation>
     </message>
     <message>
         <source>Pick File</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti failą</translation>
     </message>
 </context>
 <context>
     <name>Settings</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigūracijos faile nėra leidimo rašyti!</translation>
     </message>
 </context>
 <context>
     <name>ShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation type="unfinished"></translation>
+        <translation>Redagavimo komanda</translation>
     </message>
     <message>
         <source>Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksuoti</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksuoti ir kopijuoti</translation>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidėtas užfiksavimas</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Įklijuoti</translation>
     </message>
     <message>
         <source>Hide/Show all images</source>
@@ -1606,1809 +1617,1827 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Perjungti pelės paspaudimą</translation>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Išjungti / įjungti visuotinius sparčiuosius klavišus</translation>
     </message>
     <message>
         <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
+        <translation>Išjungti / įjungti karštuosius kampus</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
-        <translation type="unfinished"></translation>
+        <translation>Skenuoti „QR kodą“ / „Barkodą“</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spartusis klavišas, skirtas perjungti po žymekliu esančio paveikslėlio paspaudimo režimą.
+Jei po žymekliu nėra jokios nuotraukos/Vaizdo/İškarpos/paveikslėlio lango, visi nespaudžiami paveikslėliai taps spaudžiamais.</translation>
     </message>
     <message>
         <source>Show tray menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti dėklo meniu</translation>
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinktinis užfiksavimas</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksuoti aktyvų langą</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksuoti ir prisegti</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksuoti ir kopijuoti pilną ekraną</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksuoti ir kopijuoti tą patį plotą, praeitos iškarpos</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Eitį į baltos lentos režimą</translation>
     </message>
     <message>
         <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti užrašinę</translation>
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eitį į baltos lentos režimą (du kart spustelėkite „Esc“, kad išjungtumėte)</translation>
     </message>
     <message>
         <source>Pick color</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti spalvą</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Įklijuoti kaip paveiksla</translation>
     </message>
     <message>
         <source>Paste as plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>Įklijuoti kaip paprastą tekstą</translation>
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksuoti su šešėliu</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksuoti, kopijuoti ir prisegti</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eitį į skaidrios baltos lentos režimą (du kart spustelėkite „Esc“, kad išjungtumėte)</translation>
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished"></translation>
+        <translation>Išvalyti užfiksavimų istoriją</translation>
     </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šis spartusis klavišas jau yra naudojamas.</translation>
     </message>
     <message>
         <source>The shortcut has already been registered by another program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šis spartusis klavišas jau yra užregistruotas kitos programėles.</translation>
     </message>
     <message>
         <source>The shortcut is too simple and would not be registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šis spartusis klavišas yra per paprastas ir nebus užregistruotas.</translation>
     </message>
     <message>
         <source>The shortcut cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spartsusis klavišas negali būti atpažintas.</translation>
     </message>
     <message>
         <source>Press shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Spauskite nuorodą</translation>
     </message>
 </context>
 <context>
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes/regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Redaguoti iš anksto nustatytus dydžius ir (arba) regionus</translation>
     </message>
 </context>
 <context>
     <name>Snipaste</name>
     <message>
         <source>No update available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nėra naujinimų.</translation>
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Valdyti grupes</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Netinkamos komandinės eilutės parinktys.</translation>
     </message>
     <message>
         <source>Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksuoti</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Įklijuoti</translation>
     </message>
     <message>
         <source>Hide all images</source>
-        <translation type="unfinished"></translation>
+        <translation>Paslėpti visas/-us nuotraukas/vaizdus/iškarpas/paveikslėlius</translation>
     </message>
     <message>
         <source>Show all images</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti visas/-us nuotraukas/vaizdus/iškarpas/paveikslėlius</translation>
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation type="unfinished"></translation>
+        <translation>Išvalyti užfiksavimo įrašus</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Išjungti sparčiuosius klavišus</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuotraukos/Vaizdai/İškarpos/Paveikslėliai</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Pervadinti</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Uždaryti</translation>
     </message>
     <message>
         <source>Import image group</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuoti paveikslėlių grupę</translation>
     </message>
     <message>
         <source>Remove empty groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Pašalinti tuščias grupes</translation>
     </message>
     <message>
         <source>Show images</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti paveikslėlius</translation>
     </message>
     <message>
         <source>Preferences...</source>
-        <translation type="unfinished"></translation>
+        <translation>Parinktys...</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagalba</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikrinama dėl atnaujinimų...</translation>
     </message>
     <message>
         <source>Update now...</source>
-        <translation type="unfinished"></translation>
+        <translation>Atnaujinti dabar...</translation>
     </message>
     <message>
         <source>Check for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikrinti ar yra atnaujinimų.</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleisti iš naujo</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Išeiti</translation>
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar tikrai norite prisegti visus/-as nuotraukas/vaizdus/iškarpas/paveikslėlius? (Skaičius: %1)</translation>
     </message>
     <message>
         <source>is already running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jau veikia.</translation>
     </message>
     <message>
         <source>Save image as</source>
-        <translation type="unfinished"></translation>
+        <translation>Išsaugoti nuotrauka/vaizda/iškarpa/paveikslėlį kaip</translation>
     </message>
     <message>
         <source>Failed to save the image!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko išsaugoti nuotrauką/vaizdą/iškarpą/paveikslėlį!</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko importuoti grupes.</translation>
     </message>
     <message>
         <source>File %1 not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failas %1 nerastas.</translation>
     </message>
     <message>
         <source>Error Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaidos kodas</translation>
     </message>
     <message>
         <source>This group already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ši grupė jau egzistuoja.</translation>
     </message>
     <message>
         <source>Imported Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuota grupė</translation>
     </message>
     <message>
         <source>Import successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Importavimas sėkmingas</translation>
     </message>
     <message>
         <source>Rename the imported group:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pervadinti importuota grupę:</translation>
     </message>
     <message>
         <source>Switch to the imported group</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasikeisti į importuota grupe</translation>
     </message>
     <message>
         <source>The group title should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupės pavadinimas netūrėtų būti tuščias.</translation>
     </message>
     <message>
         <source>New group name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Naujos grupės pavadinimas:</translation>
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar tikrai norite uždaryti „%1“? Šio veiksmo negalima atšaukti.</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Pavyko</translation>
     </message>
     <message>
         <source>Image saved to</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuotrauka/Vaizdas/Iškarpa/Paveikslėlis išsaugotas į</translation>
     </message>
     <message>
         <source>Failed to save the image to</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko išsaugoti nuotraukos/vaizdo/iškarpos/paveikslėlio į</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
-        <translation type="unfinished"></translation>
+        <translation>„Snipaste %1“ yra išleistas!</translation>
     </message>
     <message>
         <source>Click here to update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Spauskite čia, kad atnaujintumėte dabar</translation>
     </message>
     <message>
         <source>Create new group</source>
-        <translation type="unfinished"></translation>
+        <translation>Sukurti naują grupę</translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Trukdžių, bei testavimo ieškojimas ir šalinimas</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti žurnalo failą</translation>
     </message>
     <message>
         <source>Open config file</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti konfigūracijos failą</translation>
     </message>
     <message>
         <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
+        <translation>Atrakinti „PRO“...</translation>
     </message>
     <message>
         <source>Export image group(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuoti nuotraukų/vaizdų/iškarpų/paveikslėlių grupe/-s</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation type="unfinished"></translation>
+        <translation>„Snipaste“ nuotraukų/vaizdų/iškarpų/paveikslėlių grupės</translation>
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Išvalyti žurnalo failą</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksavimo spartusis klavišas</translation>
     </message>
     <message>
         <source>Paste hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Įklijavimo spartusis klavišas</translation>
     </message>
 </context>
 <context>
     <name>Snipaste::PGroup</name>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Numatyta</translation>
     </message>
 </context>
 <context>
     <name>Snipper</name>
     <message>
         <source>Lock aspect ratio (on)</source>
-        <translation type="unfinished"></translation>
+        <translation>Užrakinti proporcijų santykį (įjungta)</translation>
     </message>
     <message>
         <source>Lock aspect ratio (off)</source>
-        <translation type="unfinished"></translation>
+        <translation>Užrakinti proporcijų santykį (įšungta)</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar norite nutraukti užfiksavimą?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Neberodyti šito daugiau</translation>
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakoreguoti užfiksavimo zoną</translation>
     </message>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Regiono įvesties dydis</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti dydžio vienetą</translation>
     </message>
     <message>
         <source>Refresh screenshot
 (Long press to keep refreshing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Perkrauti iškarpą
+(Laikyk, kad toliau perkrautum)</translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jokio „QR kodo“/ „Barkodo“ nerasta.</translation>
     </message>
     <message>
         <source>QR code / barcode scan result</source>
-        <translation type="unfinished"></translation>
+        <translation>„QR kodo“ / „Barkodo“ skenavimo rezultatas</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaida: nepavyksta aptikti ekrano įrenginio. Iš naujo paleiskite „Snipaste“.</translation>
     </message>
 </context>
 <context>
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūs naudojate nemokamą „Snipaste %1 %2“ versiją.</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>„Snipaste“ be-internetinė aktyvacijos užklausa</translation>
     </message>
     <message>
         <source>Hardware identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Įrangos tapatybė</translation>
     </message>
     <message>
         <source>Validity period</source>
-        <translation type="unfinished"></translation>
+        <translation>Patvirtinimo periodas</translation>
     </message>
     <message>
         <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation type="unfinished"></translation>
+        <translation>Įveskite tinkamą šio įrenginio trukmę. Neprisijungus licencijos negalima pašalinti per jos galiojimo laikotarpį.</translation>
     </message>
     <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencijos kodas</translation>
     </message>
     <message>
         <source>Paste your license key here</source>
-        <translation type="unfinished"></translation>
+        <translation>Įklijuokite savo licencijos kodą čia</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation type="unfinished"></translation>
+        <translation>Atrakinti „PRO“ funkcijas</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 yra tik ASMENINIAM nemokamam naudojimui. Jeigu nori naudoti jį darbo vietoje, „PRO“ licencija yra reikalinga.</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencija susieta su jūsų „Microsoft“ paskyra. Jei jau turite licenciją su savo paskyra, galite spustelėti „įsigyti“ ir atkurti pirkinį, kad už jį nereikėtų dar kartą mokėti.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prašome aplankyti &lt;a href=&quot;%1&quot;&gt;Tinklapis&lt;/a&gt;, kad gautumėte daugiau informacijos.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jei reikia pagalbos, kreipkitės į „%1“.</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusipirkti</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvuoti</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Atgal</translation>
     </message>
     <message>
         <source>Offline activation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Be ryšinė aktyvacija...</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakartoti</translation>
     </message>
     <message>
         <source>Activation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvacija nepavyko</translation>
     </message>
     <message>
         <source>Invalid license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Negalima licencija.</translation>
     </message>
     <message>
         <source>Number of activations exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Viršytas aktyvacijų skaičius.</translation>
     </message>
     <message>
         <source>Network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinklo klaida.</translation>
     </message>
     <message>
         <source>License expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencija nebegaliojanti.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neteisingas licencijos kodas.</translation>
     </message>
     <message>
         <source>Error code</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaidos kodas</translation>
     </message>
     <message>
         <source>The PRO version unlocks more than 40 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>„PRO“ versija atrakina daugiau negu 40 naudingų funkcijų!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencija leidžia jums naudoti „Snipaste 2“ visam laikui su visais 2.x atnaujinimais.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Įveskite licencijos kodą:</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>Skirta „Microsoft Store“</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Darbalaukis)</translation>
     </message>
 </context>
 <context>
     <name>UpdaterDialog</name>
     <message>
         <source>Download updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsiųsti atnaujinimus</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Slėpti</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>Release notes are currently not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Išleidimo pastabų šiuo metu nėra.</translation>
     </message>
     <message>
         <source>Are you sure you want to cancel the update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar Jūs esate tikras/-a, kad norite atšaukti šį atnaujinimą?</translation>
     </message>
     <message>
         <source>Recheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Pertikrinti</translation>
     </message>
     <message>
         <source>Checking...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikrinama...</translation>
     </message>
 </context>
 <context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Viršaus kairė:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dydis:</translation>
     </message>
     <message>
         <source>Delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidėjimas:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerai</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Išankstinė parinktis</translation>
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinktinis užfiksavimas</translation>
     </message>
 </context>
 <context>
     <name>doubleinputdialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerai</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Atšaukti</translation>
     </message>
 </context>
 <context>
     <name>groupmanager</name>
     <message>
         <source>Image groups:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuotraukų/vaizdų/iškarpų/paveikslėlių grupes:</translation>
     </message>
     <message>
         <source>Manage Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Valdyti grupes</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuoti</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuoti</translation>
     </message>
     <message>
         <source>Remove empty groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Pašalinti tuščias grupes</translation>
     </message>
 </context>
 <context>
     <name>helpdialog</name>
     <message>
         <source>Pages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Puslapiai:</translation>
     </message>
 </context>
 <context>
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridėti komandą</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vardas:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Komanda:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Testas</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Išankstinė parinktis</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Pašalinti</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerai</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoruotų sąrašas:</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Įveskite kableliais atskirtus vykdomųjų programų pavadinimus ir kelius (pvz., a.exe, games/*)</translation>
     </message>
 </context>
 <context>
     <name>keybindingdialog</name>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>Klavišo priskyrimas</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti</translation>
     </message>
 </context>
 <context>
     <name>licensedialog</name>
     <message>
         <source>Open source licenses</source>
-        <translation type="unfinished"></translation>
+        <translation>Atviro kodo licencijos</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste:</source>
-        <translation type="unfinished"></translation>
+        <translation>„Snipaste“ naudojama atvirojo kodo programinė įranga:</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Apie „QT“</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerai</translation>
     </message>
 </context>
 <context>
     <name>newgroup</name>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Sukurti naują grupę</translation>
     </message>
     <message>
         <source>Group name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupės pavadinimas:</translation>
     </message>
     <message>
         <source>Activate after creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvuoti po kūrimo</translation>
     </message>
 </context>
 <context>
     <name>optionsdialog</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Bendrai</translation>
     </message>
     <message>
         <source>Run Snipaste when the operating system starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pajungti „Snipaste“, kai operacinė sistema pasileidžia.</translation>
     </message>
     <message>
         <source>Run on system startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykdyti, kai pasileidžia sistema</translation>
     </message>
     <message>
         <source>Run as administrator for startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykdyti kaip administratorius, kai pasileidžia sistema.</translation>
     </message>
     <message>
         <source>As administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaip administratorius</translation>
     </message>
     <message>
         <source>So that the global hotkeys are effective when the active window has administrator privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kad visuotiniai spartieji klavišai veiktų, kai aktyvusis langas turi administratoriaus teises.</translation>
     </message>
     <message>
         <source>Add more commands to the tray menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridėti daugiau komandų į dėklo meniu.</translation>
     </message>
     <message>
         <source>Enhanced tray menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Patobulintas dėklo meniu</translation>
     </message>
     <message>
         <source>Log level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Žurnalo lygis:</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti žurnalo failą</translation>
     </message>
     <message>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Sąsaja</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalba:</translation>
     </message>
     <message>
         <source>The interface language of Snipaste</source>
-        <translation type="unfinished"></translation>
+        <translation>„Snipaste“ išvaizdos kalba</translation>
     </message>
     <message>
         <source>Interface font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Išvaizdos šriftas:</translation>
     </message>
     <message>
         <source>Theme color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Temos spalva:</translation>
     </message>
     <message>
         <source>The theme color of Snipaste</source>
-        <translation type="unfinished"></translation>
+        <translation>„Snipaste“ temos spalva</translation>
     </message>
     <message>
         <source>Tray icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dėklo piktograma:</translation>
     </message>
     <message>
         <source>Use default tray icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti numatytą dėklo piktogramą.</translation>
     </message>
     <message>
         <source>Use tray icon with custom color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti dėklo piktogramą su pasirinktinėm spalvom.</translation>
     </message>
     <message>
         <source>Set the color for the tray icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nustatyti spalvą dėklo piktogramai.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinktinis</translation>
     </message>
     <message>
         <source>Hover over an option to see its detailed explanation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Užveskite pelės žymeklį ant parinkties, kad pamatytumėte išsamų jos paaiškinimą.</translation>
     </message>
     <message>
         <source>Restore all settings on this page to their default states.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atkurti visų šio puslapio nustatymų numatytąsias būsenas.</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Atkurti numatytuosius nustatymus</translation>
     </message>
     <message>
         <source>Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksuoti</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekranas</translation>
     </message>
     <message>
         <source>Border width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kraštinės plotis:</translation>
     </message>
     <message>
         <source>Set the width of the border around the snipping area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nustatyti kraštinės plotį aplink užfiksavimo zoną.</translation>
     </message>
     <message>
         <source>px</source>
-        <translation type="unfinished"></translation>
+        <translation>pikselis</translation>
     </message>
     <message>
         <source>Mask color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Šablono spalva:</translation>
     </message>
     <message>
         <source>The mask color of snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksavimo šablono spalva</translation>
     </message>
     <message>
         <source>Show anchors around the snipping area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti inkarus aplink užfiksavimo sritį.</translation>
     </message>
     <message>
         <source>Show anchors</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti inkarus</translation>
     </message>
     <message>
         <source>Anchors&apos; border color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkarų kraštinęs spalvą:</translation>
     </message>
     <message>
         <source>In the magnifier, show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupoje parodyti:</translation>
     </message>
     <message>
         <source>Show the mask in the magnifier.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti Šabloną lupoje.</translation>
     </message>
     <message>
         <source>mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Šablonas</translation>
     </message>
     <message>
         <source>Show the border of the snipping area in the magnifier.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti lupoje užfisavimo srities kraštines.</translation>
     </message>
     <message>
         <source>border</source>
-        <translation type="unfinished"></translation>
+        <translation>Kraštinė</translation>
     </message>
     <message>
         <source>Show the anchors in the magnifier.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti inkarus didinimo stikle.</translation>
     </message>
     <message>
         <source>anchors</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkarai</translation>
     </message>
     <message>
         <source>Automatically show the fullscreen cross lines every time you start snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiškai rodyti kryžmines linijas per visą ekraną kiekvieną kartą, kai pradedate užfiksuoti.</translation>
     </message>
     <message>
         <source>Behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>Elgsena</translation>
     </message>
     <message>
         <source>Auto detect the regions of windows when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatinis langų regionų aptikimas užfiksuojant.</translation>
     </message>
     <message>
         <source>Auto detect windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiškai aptikti langus</translation>
     </message>
     <message>
         <source>Hide the 1x1 region indicator before you decide the snipping region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paslėpti „1x1“ regiono indikatorių prieš nuspręsdami dėl užfiksavimo regiono.</translation>
     </message>
     <message>
         <source>Hide 1x1</source>
-        <translation type="unfinished"></translation>
+        <translation>Slėpti „1x1“</translation>
     </message>
     <message>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatinis naudotojo sąsajos elementų (pvz., mygtukų ir meniu) regionų aptikimas užfiksuojant.</translation>
     </message>
     <message>
         <source>Auto detect UI elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiškai atpažinti vartotojo sąsajos elementus</translation>
     </message>
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Taip pat galite laikinai perjungti paspausdami klavišą „Tab“, kai užfiksuojate.</translation>
     </message>
     <message>
         <source>Capture the cursor by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numatytai užfiksuoti pelės rodyklę.</translation>
     </message>
     <message>
         <source>Capture the cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksuoti pelės rodyklę</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leisti nuotraukų/vaizdų/iškarpų/paveikslėlių būti kopijuojami kaip „Windows Bitmap“, kad galėtumėte
+juos įklijuoti į specialias programas, pavyzdžiui, „Skype“.
+Tačiau per tą laiką prarandamas vaizdo alfa kanalas.</translation>
     </message>
     <message>
         <source>Quit snipping if any window of other programs is activated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nutraukti užfiksavimą, jei yra įjungtas bet kuris kitų programų langas.</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Nutraukti užfiksavimą, jei yra įjungtas bet kuris kitas langas</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurį veiksmą reikia atlikti, kai spaudžiate „Enter“, kai užfiksuojate.</translation>
     </message>
     <message>
         <source>then</source>
-        <translation type="unfinished"></translation>
+        <translation>tada</translation>
     </message>
     <message>
         <source>quit snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Nutraukti užfiksavimą</translation>
     </message>
     <message>
         <source>Ignore Win key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoruoti „Win“ klavišą:</translation>
     </message>
     <message>
         <source>Ignore the left Windows key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoruoti kairįjį „Windows“ klavišą, kai užfiksuojama.</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Kairė</translation>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoruoti dešinįjį „Windows“ klavišą, kai užfiksuojama.</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dešinė</translation>
     </message>
     <message>
         <source>Max number of history areas:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalus istorijos sričių skaičius:</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nustatyti maksimalų istorijos įrašų, kurie saugomi „history/snip“, skaičių.</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciklas</translation>
     </message>
     <message>
         <source>Max number of history records:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalus istorijos įrašų skaičius:</translation>
     </message>
     <message>
         <source>Sound Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Garso efektas</translation>
     </message>
     <message>
         <source>Sound file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Garso failas:</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleisti</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleisti garso efektą, kai ekrano iškarpą yra išsaugoti į mainų sritį.</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleisti garso efektą, kai ekrano iškarpą yra išsaugoti per greitą išsaugojimą.</translation>
     </message>
     <message>
         <source>Quick Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Greitas išsaugojimas</translation>
     </message>
     <message>
         <source>Pick a sound file (.wav).</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti garso failą („*.wav“).</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Įklijuoti</translation>
     </message>
     <message>
         <source>Window shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Lango šešėlis</translation>
     </message>
     <message>
         <source>Set the color of the window shadow.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nustatyti langų šešėlių spalvą.</translation>
     </message>
     <message>
         <source>Enable hotkeys on the context menu of image windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Įjungti sparčiuosius klavišus nuotraukų/vaizdų/iškarpų/paveikslėlių langų kontekstiniame meniu.</translation>
     </message>
     <message>
         <source>Mnemonics on the context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Mnemonikos kontekstiniame meniu</translation>
     </message>
     <message>
         <source>Default opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numatytas neskaidrumas:</translation>
     </message>
     <message>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
-        <translation type="unfinished"></translation>
+        <translation>Nustatyti numatytąjį naujų nuotraukų/vaizdų/iškarpų/paveikslėlių langų neskaidrumą.
+Diapazonas: 10 - 100</translation>
     </message>
     <message>
         <source>Auto backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiškai kuriama atsarginė kopija</translation>
     </message>
     <message>
         <source>Let new image windows have shadows.
 You can also find this option in the context menu of individual image window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leisti naujų nuotraukų/vaizdų/iškarpų/paveikslėlių langams turėti šešėlius.
+Šią parinktį taip pat galite rasti atskiro nuotraukų/vaizdų/iškarpų/paveikslėlių lango kontekstiniame meniu.</translation>
     </message>
     <message>
         <source>If the source is a screenshot, show it where you snipped.
 If disabled, it would always be shown at the center of the primary screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jei šaltinis yra iškarpą, parodykite, kur ją užfiksavote.
+Jei išjungta, ji visada bus rodoma pagrindinio ekrano centre.</translation>
     </message>
     <message>
         <source>Use snipping position</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti užfiksavimo poziciją</translation>
     </message>
     <message>
         <source>Zoom by mouse wheel</source>
-        <translation type="unfinished"></translation>
+        <translation>Priartinti / atitolinti naudojant pelės ratuką</translation>
     </message>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jei nepažymėta, priartinkite vaizdą prie viršutinio kairiojo kampo.</translation>
     </message>
     <message>
         <source>at mouse cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Prie pelės žymeklio</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tai gali sukelti mirgėjimą.</translation>
     </message>
     <message>
         <source>Let new images use smooth scaling when zooming.
 You can also find this option in the context menu of individual image window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leisti naujoms nuotraukoms/vaizdams/iškarpoms/paveikslėliams naudoti tolygų mastelio keitimą, kai jie priartinami.
+Šią parinktį taip pat galite rasti atskiros/-o nuotraukos/vaizdo/iškarpos/paveikslėlio lango kontekstiniame meniu.</translation>
     </message>
     <message>
         <source>Smooth scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Sklandus mastelio/skalės keitimas</translation>
     </message>
     <message>
         <source>Let the &apos;reset&apos; operation work on thumbnail too.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leisti „atstatymo“ operacijai veikti ant miniatiūros irgi.</translation>
     </message>
     <message>
         <source>Reset on thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Iš naujo atstatyti ant miniatiūros</translation>
     </message>
     <message>
         <source>Let the image window be translucent if its border is flashing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leisti nuotraukų/vaizdų/iškarpų/paveikslėlių langams būti permatomiems, jei jų kraštinės mirksi.</translation>
     </message>
     <message>
         <source>Translucent when flashing</source>
-        <translation type="unfinished"></translation>
+        <translation>Peršviečiamas, kai mirksi</translation>
     </message>
     <message>
         <source>Flash the image windows after you have switched to another image group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Perjungę nuotraukų/vaizdų/iškarpų/paveikslėlių langus į kitą grupę, blykstelėkite nuotraukų/vaizdų/iškarpų/paveikslėlių langus.</translation>
     </message>
     <message>
         <source>Flash after switching to another group</source>
-        <translation type="unfinished"></translation>
+        <translation>Mirginti perėjus į kitą grupę</translation>
     </message>
     <message>
         <source>When you paste, automatically hide all image windows, if any image window is currently flashing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kai įklijuojate, automatiškai paslėpti visas nuotraukų/vaizdų/iškarpų/paveikslėlių langus, jei kurią nors nuotrauką/vaizdą/iškarpą/paveikslėlį rodomą lange; šiuo metu mirksi.</translation>
     </message>
     <message>
         <source>Hide all images if you paste when any image is flashing</source>
-        <translation type="unfinished"></translation>
+        <translation>Paslėpti visas nuotraukas/vaizdus/iškarpas/paveikslėlius , jei įklijuojate, kai kurią nors nuotrauką/vaizdą/iškarpą/paveikslėlį, kuri mirksi</translation>
     </message>
     <message>
         <source>If not checked, the original window will be automatically hidden for drag-and-drop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jei nepažymėta, originalus langas bus automatiškai paslėptas vilkimo ir nuleidimo metu.</translation>
     </message>
     <message>
         <source>Preserve the original window for drag-and-drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Išlaikyti originalią langą, vilkimo ir nuleidimo metu</translation>
     </message>
     <message>
         <source>When a new image is pasted:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kai įklijuojamas/-ą naujas/-ą nuotrauką/vaizdą/iškarpą/paveikslėlis/-į:</translation>
     </message>
     <message>
         <source>Let the border of a new image window flash.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leisti naujų nuotraukų/vaizdų/iškarpų/paveikslėlių langams mirksėti.</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Mirksėti</translation>
     </message>
     <message>
         <source>Let the new image window gain keyboard focus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leisti naujo/-s nuotraukos/vaizdo/iškarpo/paveikslėlio langams įgauti klaviatūros fokusą.</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvuoti</translation>
     </message>
     <message>
         <source>Max recoverable closed images:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalus atkuriamų uždarų nuotraukų/vaizdų/iškarpų/paveikslėlių skaičius:</translation>
     </message>
     <message>
         <source>Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Konversija</translation>
     </message>
     <message>
         <source>Text to Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstas į nuotrauką/vaizdą/iškarpą/paveikslėlį</translation>
     </message>
     <message>
         <source>Always treat text as plain text when converting text to image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertuodami tekstą į nuotrauką/vaizdą/iškarpą/paveikslėlį visada laikyti tekstą kaip paprastą tekstą.</translation>
     </message>
     <message>
         <source>Always ignore HTML formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Visada ignoruoti „HTML“ formatus</translation>
     </message>
     <message>
         <source>If you copy an image file, the first paste will show the image, the second paste will show the file path.
 If you copy a non-image file, a paste will immediately show the file path.
 If this option is checked, the above features will be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeigu Jūs kopijuojate nuotraukų/vaizdų/iškarpų/paveikslėlių failą, pirmas įklijavimas parodys jį, o kitas failų kelią.
+Jeigu Jūs kopijuosite ne-nuotraukų/vaizdų/iškarpų/paveikslėlių failą, įklijavus tiesiogiai parodys failo kelią.
+Jeigu šis pasirinkimas bus pažymėtas, viršuje pažymėtos funkcijos bus neįjungtos.</translation>
     </message>
     <message>
         <source>Never paste file paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Niekada neklijuoti failų kelių</translation>
     </message>
     <message>
         <source>Page margin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Puslapio paraštė:</translation>
     </message>
     <message>
         <source>The blank space around the text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuščia erdvė aplink tekstą</translation>
     </message>
     <message>
         <source>Max width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalus plotis:</translation>
     </message>
     <message>
         <source>The max width of the image converted from text</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalus plotis iš teksto konvertuoto/-s nuotraukos/vaizdo/iškarpos/paveikslėlio</translation>
     </message>
     <message>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Šriftas:</translation>
     </message>
     <message>
         <source>The font used for plain text conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Šriftas, naudojamas paprastam tekstui konvertuoti</translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalvos:</translation>
     </message>
     <message>
         <source>The background color used for plain text conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Fono spalva, naudojama paprastam tekstui konvertuoti</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonas</translation>
     </message>
     <message>
         <source>The text color used for plain text conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Teksto spalva, naudojama paprastam tekstui konvertuoti</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstas</translation>
     </message>
     <message>
         <source>Text-to-image conversion preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Teksto į nuotraukos/vaizdo/iškarpos/paveikslėlio konvertavimo peržiūrą</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Išvedimas</translation>
     </message>
     <message>
         <source>Image quality:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuotraukos/Vaizdo/Iškarpos/Paveikslėlio kokybė:</translation>
     </message>
     <message>
         <source>Set the default output image quality.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nustatyti numatytąją išvesties nuotraukos/vaizdo/iškarpos/paveikslėlio kokybę.</translation>
     </message>
     <message>
         <source>Range: 0 to 100 or -1.
 Specify 0 to obtain small compressed files, 100 for large uncompressed files.
 Specify -1 to let Snipaste decide for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapazonas: Nuo 0 iki 100 arba -1.
+Nurodykite 0, jei norite gauti mažus suspaustus failus, 100 - didelius nesuspaustus failus.
+Nurodykite -1, kad „Snipaste“ nuspręstų už jus.</translation>
     </message>
     <message>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Peržiūra:</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naršyti greito išsaugojimo aplankalą.</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti</translation>
     </message>
     <message>
         <source>Change the quick save folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti greito išsaugojimo aplankalą.</translation>
     </message>
     <message>
         <source>Auto Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiškai išsaugoti</translation>
     </message>
     <message>
         <source>Automatically save every screenshot will be saved to this folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiškai išsaugoti kiekvieną ekrano iškarpą, kuri bus išsaugota šiame aplankale.</translation>
     </message>
     <message>
         <source>Browse the auto save folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naršyti automatinio išsaugojimo aplanke.</translation>
     </message>
     <message>
         <source>Change the auto save folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti automatinio išsaugojimo aplankalą.</translation>
     </message>
     <message>
         <source>Global Hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Visuotiniai spartieji klavišai</translation>
     </message>
     <message>
         <source>Image Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuotraukų/vaizdų/iškarpų/paveikslėlių operacijos</translation>
     </message>
     <message>
         <source>Close image:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uždaryti nuotrauką/vaizdą/iškarpą/paveikslėlį:</translation>
     </message>
     <message>
         <source>Reset image:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atstatyti nuotrauką/vaizdą/iškarpą/paveikslėlį:</translation>
     </message>
     <message>
         <source>* If conflicted, the upper operation will be matched</source>
-        <translation type="unfinished"></translation>
+        <translation>* Jei konfliktuojama, bus suderintas su viršutinė operacija</translation>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>Klavišų nurodymai/priskirimai</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Atnaujinti</translation>
     </message>
     <message>
         <source>Be the first to test new features of Snipaste!</source>
-        <translation type="unfinished"></translation>
+        <translation>Būkite pirmi ištestuoti naujas „Snipaste“ funkcijas!</translation>
     </message>
     <message>
         <source>Include beta builds</source>
-        <translation type="unfinished"></translation>
+        <translation>Įtraukti „beta“ versijas</translation>
     </message>
     <message>
         <source>Beta versions may contain more bugs.
 Please report to the developer if you find any.</source>
-        <translation type="unfinished"></translation>
+        <translation>„Beta“ versijose gali tūrėti daugiau riktų.
+Jei tokių aptiksite, praneškite kūrėjui.</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikrinti, ar yra naujinimų paleidimo metu</translation>
     </message>
     <message>
         <source>Delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidėjimas:</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>sek.</translation>
     </message>
     <message>
         <source>Every</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiekvienas</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>val.</translation>
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Įgaliojimas</translation>
     </message>
     <message>
         <source>Proxy type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Įgaliojimo tipas:</translation>
     </message>
     <message>
         <source>Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveris:</translation>
     </message>
     <message>
         <source>Proxy server requires password</source>
-        <translation type="unfinished"></translation>
+        <translation>Įgaliotasis serveris reikalauja slaptažodžio</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slapyvardis:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slaptažodis:</translation>
     </message>
     <message>
         <source>Check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Patikrinti ar yra atnaujinimų</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Apie</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Licenses</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencijos</translation>
     </message>
     <message>
         <source>Contact:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontaktai:</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigūracijos saugykla</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelias:</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti konfigūracijos failą numatytuoju teksto redaktoriumi.</translation>
     </message>
     <message>
         <source>Change the location of the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti konfigūracijos failo vietą.</translation>
     </message>
     <message>
         <source>Ask for confirmation when Esc is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Prašyti patvirtinimo, kai paspaudžiamas „Esc“</translation>
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kai:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti į iškarpinę</translation>
     </message>
     <message>
         <source>Disable mouse scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Išjungti pelės slinkimą</translation>
     </message>
     <message>
         <source>Check this if you never need cursor capture.
 You will gain better response time on entering snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pažymėkite tai, jei jums niekada nereikia fiksuoti žymeklio.
+Užfiksuodami pasieksite geresnį atsako laiką.</translation>
     </message>
     <message>
         <source>Show notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti pranešimus</translation>
     </message>
     <message>
         <source>Add custom hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridėti pasirinktinį spartujį klavišą</translation>
     </message>
     <message>
         <source>Add new command</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridėti naują komandą</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Pelė</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Reguliuoti neskaidrumą:</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>arba</translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Priartinimas ir atitolinimas:</translation>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupa/Didinimo stiklas</translation>
     </message>
     <message>
         <source>Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Įrankių juosta</translation>
     </message>
     <message>
         <source>Use separate colors for different shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti atskiras spalvas kitokioms figūroms</translation>
     </message>
     <message>
         <source>Number of pen sizes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rašiklio dydžių skaičius:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Perleisti „Snipaste“, kad pakeitimai būtų įgalinti.</translation>
     </message>
     <message>
         <source>Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Paletė</translation>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation>Pritaikyti prie</translation>
     </message>
     <message>
         <source>Import from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuoti iš mainų srities</translation>
     </message>
     <message>
         <source>Export to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuoti į mainų sritį</translation>
     </message>
     <message>
         <source>Disable completely</source>
-        <translation type="unfinished"></translation>
+        <translation>Visiškai išjungti</translation>
     </message>
     <message>
         <source>Include unsaved screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Įtraukti neišsaugotas iškarpas</translation>
     </message>
     <message>
         <source>Default background mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numatyto fono režimas:</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Mainų sritis/Iškarpinė</translation>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti kaip „Windows Bitmap“:</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekrano iškarpa</translation>
     </message>
     <message>
         <source>Image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuotraukų/vaizdų/iškarpų/paveikslėlių langai</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Failas</translation>
     </message>
     <message>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolė/Valdymas</translation>
     </message>
     <message>
         <source>Super Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>„Super“ užfiksavimas</translation>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Dėklo piktograma</translation>
     </message>
     <message>
         <source>Left click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kairės pelės paspaudimas:</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Išankstinės parinktys</translation>
     </message>
     <message>
         <source>Middle click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slinkties paspaudimas:</translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dešinės pelės paspaudimas:</translation>
     </message>
     <message>
         <source>Hot Corner</source>
-        <translation type="unfinished"></translation>
+        <translation>„Karštas“ kampas</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Įjungti</translation>
     </message>
     <message>
         <source>Corner size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kampo dydis:</translation>
     </message>
     <message>
         <source>Trigger delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paspaudimo / paleidimo atidėjimas:</translation>
     </message>
     <message>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ms</translation>
     </message>
     <message>
         <source>Check interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Patikrinti intervalą:</translation>
     </message>
     <message>
         <source>Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkcija</translation>
     </message>
     <message>
         <source>Top left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Viršaus kairė:</translation>
     </message>
     <message>
         <source>Top right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Viršaus dešinė:</translation>
     </message>
     <message>
         <source>Bottom left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Apačios kairė:</translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Apačios dešinė:</translation>
     </message>
     <message>
         <source>Keep responsive</source>
-        <translation type="unfinished"></translation>
+        <translation>Laikyti atsakantį</translation>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirodyti automatiškai:</translation>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Paprastas užfiksavimas</translation>
     </message>
     <message>
         <source>Super snip</source>
-        <translation type="unfinished"></translation>
+        <translation>„Super“ užfiksavimas</translation>
     </message>
     <message>
         <source>Color value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalvos reikšmė:</translation>
     </message>
     <message>
         <source>No &apos;#&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nr. &apos;#&apos;</translation>
     </message>
     <message>
         <source>Uppercase Hex</source>
-        <translation type="unfinished"></translation>
+        <translation>Šešiaženklis „Hex“</translation>
     </message>
     <message>
         <source>Show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti:</translation>
     </message>
     <message>
         <source>Grid lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinklelio linijos</translation>
     </message>
     <message>
         <source>Screen coordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekrano kordinatės</translation>
     </message>
     <message>
         <source>Usage tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudojimo patarimai</translation>
     </message>
     <message>
         <source>Copy text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti tekstą:</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Dažnis</translation>
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiškai sukurti atsarginę kopiją užfiksavimo lango būsenos ir be to nuotraukos/vaizdo/iškarpos/paveikslėlio langą, kad būtų galima juos atkurti, kitam kartui paleidus „Snipaste“.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patobulinti užfiksavimo reagavimo greitį automatiškai perleidus „*.dll&apos;us“ periodiškai.</translation>
     </message>
     <message>
         <source>Fast thumbnail size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Greitas miniatiūros dydis:</translation>
     </message>
     <message>
         <source>Fast thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Greita miniatiūra:</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
-        <translation type="unfinished"></translation>
+        <translation>Atviro kodo programos naudojama „Snipaste&apos;e“</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Taip pat galite rodyti / slėpti užfiksuota pelės žymeklį naudodami ` arba ! klavišą, kai užfiksuojate.</translation>
     </message>
     <message>
         <source>Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Klavišai</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Veiksmai</translation>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvigubas paspaudimas:</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurį veiksmą atlikti dukart spustelėjus, kai užfiksuojama.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slinkties paspaudimas:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurį veiksmą reikia atlikti, kai spaudžiate vidurinį pelės mygtuką, kai užfiksuojate.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Įvesti klavišas:</translation>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numatytą pastabą:</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uždarytos nuotraukos/vaizdo/iškarpos/paveikslėlio langą galima atkurti dar kartą įklijuojant, jei uždarytų nuotraukų/vaizdų/iškarpų/paveikslėlių skaičius nesiekia ribos.
+Pasiekus ribą, seniausios nuotraukos/vaizdai/iškarpos/paveikslėliai bus sunaikinti.</translation>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Rankinis išsaugojimas</translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Failo pavadinimas:</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti aplankalą</translation>
     </message>
     <message>
         <source>Change Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti aplankalą</translation>
     </message>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Vardijimo taisyklės</translation>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Prisegti prie visų virtualių darbalaukių</translation>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Priartinimo lygis:</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Išjungti maskavimą, kai rodomas failų dialogo langas</translation>
     </message>
     <message>
         <source>Show fullscreen cross lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti viso ekrano kryžmines linijas</translation>
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Paslėpti visas nuotraukų/vaizdų/iškarpų/paveikslėlių langus, kai rodomas failų dialogo langas</translation>
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoruotų sąrašas:</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Įveskite kableliais atskirtus vykdomųjų programų pavadinimus ir kelius (pvz., a.exe, games/*)</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatinis</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti vidinį aplanką</translation>
     </message>
     <message>
         <source>Show key binding tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti klavišo priskyrimo patarimus</translation>
     </message>
     <message>
         <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoruoti kitų programų imituojamą komandą „kopijuoti“</translation>
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalvų skaičius:</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustelėkite arba vilkite spalvų mygtukus, kad pritaikytumėte paletę.</translation>
     </message>
     <message>
         <source>Follow system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekti sistemos temą</translation>
     </message>
     <message>
         <source>Disable reedition for Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>Išjungti pakartotinį pridėjimą trintukui</translation>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti „Bendrinti“ mygtuką</translation>
     </message>
     <message>
         <source>Max window size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalus lango dydis:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iš naujo paleiskite „Snipaste“, kad pakeitimas įsigaliotų.
+Kad būtų rodomas mygtukas &quot;Dalintis&quot;, „Snipaste“ neturi būti paleistas kaip padidintas.</translation>
     </message>
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jei pažymėta, nuotraukų / vaizdų / iškarpų / paveikslėlių langai nebus keičiamo mastelio, kai jie bus perkeliami į skirtingus „DPI“ ekranus.
+Tai taip pat naudinga nuotolinio darbalaukio jungtims, kad būtų išlaikytas langų išdėstymas.</translation>
     </message>
     <message>
         <source>Disable window scaling on high DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>Išjungti lango mastelio keitimą esant dideliam „DPI“</translation>
     </message>
     <message>
         <source>Enable selecting any types of drawn annotations on hovering.
 If unchecked, only the active type of annotations can be selected on hovering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Įgalinti bet kokių tipų piešiamų pastabų pasirinkimą užvedus pelę.
+Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</translation>
     </message>
     <message>
         <source>Free select</source>
-        <translation type="unfinished"></translation>
+        <translation>Laisvas pasirinkimas</translation>
     </message>
     <message>
         <source>Remember last used image extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Prisiminti paskutinį naudotą nuotraukos/vaizdo/İškarpos/paveikslėlio plėtinį</translation>
     </message>
     <message>
         <source>Copy image as file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti nuotrauką/vaizdą/iškarpą/paveikslėlį kaip failą:</translation>
     </message>
     <message>
         <source>Always</source>
