@@ -125,7 +125,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation>Новая версия Snipaste была загружена в:</translation>
+        <translation>Новая версия «Snipaste» была загружена в:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -179,7 +179,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>FAQ</source>
-        <translation></translation>
+        <translation>ЧЗВ</translation>
     </message>
     <message>
         <source>Changelog</source>
@@ -313,7 +313,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Open the Preferences Dialog</source>
-        <translation>Открыть диалоговое окно &quot;Настройки&quot;</translation>
+        <translation>Открыть диалоговое окно «Настройки»</translation>
     </message>
     <message>
         <source>Common:</source>
@@ -377,7 +377,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Save the image to the Quick Save folder</source>
-        <translation>Сохранить изображение в папке &quot;Быстрое сохранение&quot;</translation>
+        <translation>Сохранить изображение в папке «Быстрое сохранение»</translation>
     </message>
     <message>
         <source>Send the image to the printer</source>
@@ -401,7 +401,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation>Переключить преобразование оттенков серого [PRO]</translation>
+        <translation>Переключить преобразование оттенков серого [«PRO»]</translation>
     </message>
     <message>
         <source>Close the image window</source>
@@ -409,11 +409,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation>Переключить инверсию цвета [PRO]</translation>
+        <translation>Переключить инверсию цвета [«PRO»]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation>Выбрать все видимые окна изображений [PRO]</translation>
+        <translation>Выбрать все видимые окна изображений [«PRO»]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
@@ -449,7 +449,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation>Выбрать родительский/дочерний UI элемент</translation>
+        <translation>Выбрать родительский/дочерний интерфейс элемент</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
@@ -465,8 +465,8 @@ Please contact the developer.</source>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>Спасибо за ваше поддержку!
-Перезапустить, чтобы активировать PRO функции?</translation>
+        <translation>Спасибо за вашу поддержку!
+Перезапустить, чтобы активировать «PRO» функции?</translation>
     </message>
     <message>
         <source>OK</source>
@@ -478,7 +478,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation>Удалить ключ лицензии? Приложение Snipaste будет не зарегистрированным.</translation>
+        <translation>Удалить ключ лицензии? Приложение «Snipaste» будет не зарегистрированным.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -627,19 +627,19 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Week day in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>День недели в английский (Week day in English (abbr.))</translation>
     </message>
     <message>
         <source>Week day in English</source>
-        <translation type="unfinished"></translation>
+        <translation>День недели в английский (Week day in English)</translation>
     </message>
     <message>
         <source>Month name in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>День месяц в английский (Month name in English (abbr.))</translation>
     </message>
     <message>
         <source>Month name in English</source>
-        <translation type="unfinished"></translation>
+        <translation>День месяц в английский (Month name in English)</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
@@ -670,7 +670,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>For XP</source>
-        <translation>Для XP</translation>
+        <translation>Для «XP»</translation>
     </message>
     <message>
         <source>-bit</source>
@@ -698,7 +698,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Weibo</source>
-        <translation></translation>
+        <translation>«Weibo»</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -768,7 +768,7 @@ Restart now to enjoy PRO features?</source>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
         <translation>Чтобы изменения вступили в силу, требуется перезапустить приложение.
-Перезапустить Snipaste?</translation>
+Перезапустить «Snipaste»?</translation>
     </message>
     <message>
         <source>Close image</source>
@@ -936,7 +936,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Purchase PRO</source>
-        <translation>Купить PRO</translation>
+        <translation>Купить «PRO»</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -980,19 +980,19 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>UI</source>
-        <translation>UI</translation>
+        <translation>Интерфейс</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation>Сделать снимок. скопировать и закрепить</translation>
+        <translation>Сделать снимок. Скопировать и закрепить</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
-        <translation>Настройки Snipaste</translation>
+        <translation>Настройки «Snipaste»</translation>
     </message>
     <message>
         <source>PRO</source>
-        <translation>PRO</translation>
+        <translation>«PRO»</translation>
     </message>
     <message>
         <source>Free</source>
@@ -1111,7 +1111,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Toggle arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить стрелка</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
@@ -1174,7 +1174,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy HTML</source>
-        <translation>Копировать HTML</translation>
+        <translation>Копировать «HTML»</translation>
     </message>
     <message>
         <source>Edit color</source>
@@ -1380,7 +1380,7 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Copy raw HTML</source>
-        <translation>Копировать в HTML</translation>
+        <translation>Копировать в «HTML»</translation>
     </message>
     <message>
         <source>Save unscaled image as...</source>
@@ -1432,7 +1432,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     <name>PlusMinusButton</name>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Радиус угла</translation>
     </message>
 </context>
 <context>
@@ -1447,13 +1447,13 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
-        <translation>Запускать Snipaste с правами администратора.</translation>
+        <translation>Запускать «Snipaste» с правами администратора.</translation>
     </message>
     <message>
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
         <translation>Не удалось создать задание по расписанию.
-Вы можете перезапустить Snipaste с правами администратора и попробовать снова.</translation>
+Вы можете перезапустить «Snipaste» с правами администратора и попробовать снова.</translation>
     </message>
     <message>
         <source>Failed to create a shortcut in the startup directory.</source>
@@ -1461,7 +1461,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
-        <translation>Перезапустить Snipaste с правами администратора?</translation>
+        <translation>Перезапустить «Snipaste» с правами администратора?</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1481,15 +1481,15 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>In order to take a screenshot, Snipaste requires the Screen Recording permission.</source>
-        <translation>Чтобы сделать снимок экрана, Snipaste требуется разрешения на запись экрана.</translation>
+        <translation>Чтобы сделать снимок экрана, «Snipaste» требуется разрешения на запись экрана.</translation>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если «Snipaste» уже отмечена в списке «Запись экрана», но она по-прежнему не работает, можно попробовать удалить и снова предоставить разрешение на «Запись экрана», затем перезапустить «Snipaste» или перезагрузить «Mac».</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation>Чтобы включить обнаружение UI элементов, Snipaste требуется контроль доступности.</translation>
+        <translation>Чтобы включить обнаружение UI элементов, «Snipaste» требуется контроль доступности.</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
@@ -1497,22 +1497,22 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
-        <translation>Покупка не может быть завершена, потому что Snipaste запущен с правами администратора.</translation>
+        <translation>Покупка не может быть завершена, потому что «Snipaste» запущен с правами администратора.</translation>
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
-        <translation>Вы выключили КУЗ (Контроль Учетных Записей - UAC англ.)? Пожалуйста включите обратно ПОКА идет процесс покупки.</translation>
+        <translation>Вы выключили КУЗ (Контроль Учетных Записей - UAC англ.)? Пожалуйста, включите обратно ПОКА идет процесс покупки.</translation>
     </message>
 </context>
 <context>
     <name>RoundedCornerButton</name>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Скруглённые углы</translation>
     </message>
     <message>
         <source>Sharp corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Острые углы</translation>
     </message>
 </context>
 <context>
@@ -1527,7 +1527,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Snipaste is running</source>
-        <translation>Snipaste запущен</translation>
+        <translation>«Snipaste» запущен</translation>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
@@ -1535,7 +1535,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Snipaste has been updated to %1.</source>
-        <translation>Snipaste был обновлён до %1.</translation>
+        <translation>«Snipaste» был обновлён до %1.</translation>
     </message>
     <message>
         <source>Click here to see the changelog</source>
@@ -1625,11 +1625,11 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить/Отключить «горячие» углы</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
-        <translation>Сканировать QR-код/штрих-код</translation>
+        <translation>Сканировать «QR-код»/«штрих-код»</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1695,7 +1695,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Запустить режим прозрачной доски (двойное нажатие Esc для выхода)</translation>
+        <translation>Запустить режим прозрачной доски (двойное нажатие «Esc» для выхода)</translation>
     </message>
     <message>
         <source>Clear snip records</source>
@@ -1729,7 +1729,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes/regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактирование заданные размеров/областей</translation>
     </message>
 </context>
 <context>
@@ -1884,7 +1884,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Вы уверены, что хотите закрыть &quot;%1&quot;? Это действие невозможно отменить.</translation>
+        <translation>Вы уверены, что хотите закрыть «%1»? Это действие невозможно отменить.</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1900,7 +1900,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
-        <translation>Выпущен Snipaste %1!</translation>
+        <translation>Выпущен «Snipaste» %1!</translation>
     </message>
     <message>
         <source>Click here to update now</source>
@@ -1924,7 +1924,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Unlock PRO...</source>
-        <translation>Разблокировать PRO...</translation>
+        <translation>Разблокировать «PRO»...</translation>
     </message>
     <message>
         <source>Export image group(s)</source>
@@ -1932,7 +1932,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation>Группы изображений Snipaste</translation>
+        <translation>Группы изображений «Snipaste»</translation>
     </message>
     <message>
         <source>Clear log file</source>
@@ -1940,11 +1940,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip hotkey</source>
-        <translation>Горячие клавишиа для &quot;Область&quot;</translation>
+        <translation>Горячие клавиша для «Область»</translation>
     </message>
     <message>
         <source>Paste hotkey</source>
-        <translation>Горячие клавиши для &quot;Вставить&quot;</translation>
+        <translation>Горячие клавиши для «Вставить»</translation>
     </message>
 </context>
 <context>
@@ -1974,7 +1974,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка области зоны</translation>
     </message>
     <message>
         <source>Input region size</source>
@@ -1992,26 +1992,26 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
-        <translation>QR-код/штрих-код не обнаружен.</translation>
+        <translation>«QR-код»/«штрих-код» не обнаружен.</translation>
     </message>
     <message>
         <source>QR code / barcode scan result</source>
-        <translation>Результат сканирования QR-кода/штрих-кода</translation>
+        <translation>Результат сканирования «QR-кода»/«штрих-кода»</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation>Ошибка: не удалось обнаружить дисплей устройства. Перезапустите пожалуйста Snipaste.</translation>
+        <translation>Ошибка: не удалось обнаружить дисплей устройства. Перезапустите, пожалуйста, «Snipaste».</translation>
     </message>
 </context>
 <context>
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2.</source>
-        <translation>Вы используете бесплатную версию Snipaste %1 %2.</translation>
+        <translation>Вы используете бесплатную версию «Snipaste» %1 %2.</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation>Snipaste запрос оффлайн активации</translation>
+        <translation>«Snipaste» запрос офлайн активации</translation>
     </message>
     <message>
         <source>Hardware identity</source>
@@ -2035,15 +2035,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation>Разблокировать PRO функционал</translation>
+        <translation>Разблокировать «PRO» функционал</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation>%1 - это только для ЛИЧНОГО ИСПОЛЬЗОВАНИЯ. Если вы хотите использовать это на своем компьютере, PRO лицензия обязательна.</translation>
+        <translation>%1 - это только для ЛИЧНОГО ИСПОЛЬЗОВАНИЯ. Если вы хотите использовать это на своем компьютере, «PRO» лицензия обязательна.</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензия связаны с учетной записью «Майкрософт». Если вы уже владеете лицензия вместе в вашей учётный аккаунты, вы можете нажать кнопку «Приобрести», чтобы восстановить покупкы без повторной оплаты.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -2107,11 +2107,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The PRO version unlocks more than 40 useful features!</source>
-        <translation>PRO версия разблокирует более чем 40 удобных фич!</translation>
+        <translation>«PRO» версия разблокирует более чем 40 удобных фич!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation>Лицензия позволяет вам пожизненно использовать Snipaste 2 со всеми последующими обновлениями 2.x.</translation>
+        <translation>Лицензия позволяет вам пожизненно использовать «Snipaste 2» со всеми последующими обновлениями 2.x.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
@@ -2119,11 +2119,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation>для Microsoft Store</translation>
+        <translation>для «Microsoft Store»</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation>(Desktop)</translation>
+        <translation>(Рабочий стол)</translation>
     </message>
 </context>
 <context>
@@ -2291,11 +2291,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Open source software used in Snipaste:</source>
-        <translation>Программное обеспечение с открытым исходным кодом, используемое в Snipaste:</translation>
+        <translation>Программное обеспечение с открытым исходным кодом, используемое в «Snipaste»:</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>О Qt</translation>
+        <translation>О «Qt»</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2325,7 +2325,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Run Snipaste when the operating system starts.</source>
-        <translation>Запускать Snipaste после старта операционной системы.</translation>
+        <translation>Запускать «Snipaste» после старта операционной системы.</translation>
     </message>
     <message>
         <source>Run on system startup</source>
@@ -2369,7 +2369,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The interface language of Snipaste</source>
-        <translation>Язык интерфейса Snipaste</translation>
+        <translation>Язык интерфейса «Snipaste»</translation>
     </message>
     <message>
         <source>Interface font:</source>
@@ -2381,7 +2381,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The theme color of Snipaste</source>
-        <translation>Цвет темы Snipaste</translation>
+        <translation>Цвет темы «Snipaste»</translation>
     </message>
     <message>
         <source>Tray icon:</source>
@@ -2457,7 +2457,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>In the magnifier, show:</source>
-        <translation>В окне &quot;Экранная лупа&quot;, показывать:</translation>
+        <translation>В окне «Экранная лупа», показывать:</translation>
     </message>
     <message>
         <source>Show the mask in the magnifier.</source>
@@ -2531,8 +2531,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
-        <translation>Пусть изображение будет скопировано как точечный рисунок Windows, поэтому
-его можно вставить в некоторые специальные приложения, например в Skype.
+        <translation>Пусть изображение будет скопировано как точечный рисунок «Windows», поэтому
+его можно вставить в некоторые специальные приложения, например в «Skype».
 Тем временем, альфа-канал изображения теряется.</translation>
     </message>
     <message>
@@ -2557,11 +2557,11 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Ignore Win key:</source>
-        <translation>Игнорировать кнопку Win:</translation>
+        <translation>Игнорировать кнопку «Win»:</translation>
     </message>
     <message>
         <source>Ignore the left Windows key when snipping.</source>
-        <translation>Игнорировать левую клавишу Windows при выделении области.</translation>
+        <translation>Игнорировать левую клавишу «Windows» при выделении области.</translation>
     </message>
     <message>
         <source>Left</source>
@@ -3257,11 +3257,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
-        <translation>Автоматическое делать резервное копирование состояния окна обрезки, а также окон изображений, чтобы их можно было восстановить в следующий раз, когда вы откроете Snipaste.</translation>
+        <translation>Автоматическое делать резервное копирование состояния окна обрезки, а также окон изображений, чтобы их можно было восстановить в следующий раз, когда вы откроете «Snipaste».</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
-        <translation>Улучшить скорость отклика при обрезке за счет периодической автоматической перезагрузки DLL.</translation>
+        <translation>Улучшить скорость отклика при обрезке за счет периодической автоматической перезагрузки «DLL».</translation>
     </message>
     <message>
         <source>Fast thumbnail size:</source>
@@ -3273,7 +3273,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
-        <translation>В Snipaste используется свободное ПО</translation>
+        <translation>В «Snipaste» используется свободное ПО</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
@@ -3399,7 +3399,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation>Показать кнопку &quot;Поделиться&quot;</translation>
+        <translation>Показать кнопку «Поделиться»</translation>
     </message>
     <message>
         <source>Max window size:</source>
@@ -3408,18 +3408,18 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation>Перезапустите Snipaste, чтобы изменения вступили в силу.
+        <translation>Перезапустите «Snipaste», чтобы изменения вступили в силу.
 Snipaste не должен запускаться с повышенными правами, чтобы отображалась кнопка «Поделиться».</translation>
     </message>
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation>Если выбрано, окна изображений не будут масштабироваться при перемещении по экранам с разным разрешением DPI.
+        <translation>Если выбрано, окна изображений не будут масштабироваться при перемещении по экранам с разным разрешением «DPI».
 Также полезно сохранять расположение окон при подключении к удаленному рабочему столу.</translation>
     </message>
     <message>
         <source>Disable window scaling on high DPI</source>
-        <translation>Отключить масштабирование окна при высоком DPI</translation>
+        <translation>Отключить масштабирование окна при высоком «DPI»</translation>
     </message>
     <message>
         <source>Enable selecting any types of drawn annotations on hovering.
@@ -3437,15 +3437,15 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Copy image as file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать изображение в файл:</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Всегда</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить</translation>
     </message>
 </context>
 <context>
@@ -3550,7 +3550,20 @@ Examples:
 ---
 1280 720 720p
 200 50 20 20 icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат:
+• Для размера: ширина высота
+• Для региона: левый верхний ширина высота
+
+«PRO» эксклюзив:
+• Можно присвоить имя пресеты, добавив его в конец строки
+• В качестве разделителя можно использовать «---»
+
+Примеры:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 иконы</translation>
     </message>
 </context>
 <context>
