@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>DOS</source>
-        <translation></translation>
+        <translation>«DOS»</translation>
     </message>
     <message>
         <source>Del</source>
@@ -313,7 +313,7 @@
     </message>
     <message>
         <source>Print Screen</source>
-        <translation></translation>
+        <translation>«Print Screen»</translation>
     </message>
     <message>
         <source>Audio Repeat</source>
@@ -345,7 +345,7 @@
     </message>
     <message>
         <source>Scroll Lock</source>
-        <translation></translation>
+        <translation>«Scroll Lock»</translation>
     </message>
     <message>
         <source>Media Pause</source>
@@ -397,11 +397,11 @@
     </message>
     <message>
         <source>Hangul PostHanja</source>
-        <translation></translation>
+        <translation>«Hangul PostHanja»</translation>
     </message>
     <message>
         <source>Kana Lock</source>
-        <translation></translation>
+        <translation>«Kana Lock»</translation>
     </message>
     <message>
         <source>Community</source>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <source>Henkan</source>
-        <translation></translation>
+        <translation>«Henkan»</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -521,7 +521,7 @@
     </message>
     <message>
         <source>Massyo</source>
-        <translation></translation>
+        <translation>«Massyo»</translation>
     </message>
     <message>
         <source>Bass Boost</source>
@@ -549,7 +549,7 @@
     </message>
     <message>
         <source>Romaji</source>
-        <translation></translation>
+        <translation>«Romaji»</translation>
     </message>
     <message>
         <source>Search</source>
@@ -569,7 +569,7 @@
     </message>
     <message>
         <source>NumLock</source>
-        <translation></translation>
+        <translation>«NumLock»</translation>
     </message>
     <message>
         <source>WebCam</source>
@@ -589,7 +589,7 @@
     </message>
     <message>
         <source>ScrollLock</source>
-        <translation></translation>
+        <translation>«ScrollLock»</translation>
     </message>
     <message>
         <source>Hot Links</source>
@@ -629,7 +629,7 @@
     </message>
     <message>
         <source>iTouch</source>
-        <translation></translation>
+        <translation>«iTouch»</translation>
     </message>
     <message>
         <source>Previous Candidate</source>
@@ -645,7 +645,7 @@
     </message>
     <message>
         <source>Eisu Shift</source>
-        <translation></translation>
+        <translation>«Eisu Shift»</translation>
     </message>
     <message>
         <source>Code input</source>
@@ -669,7 +669,7 @@
     </message>
     <message>
         <source>Eisu toggle</source>
-        <translation></translation>
+        <translation>«Eisu toggle»</translation>
     </message>
     <message>
         <source>Keyboard Brightness Down</source>
@@ -693,7 +693,7 @@
     </message>
     <message>
         <source>CapsLock</source>
-        <translation></translation>
+        <translation>«CapsLock»</translation>
     </message>
     <message>
         <source>Backtab</source>
@@ -765,7 +765,7 @@
     </message>
     <message>
         <source>Hangul Banja</source>
-        <translation></translation>
+        <translation>«Hangul Banja»</translation>
     </message>
     <message>
         <source>Hangul Hanja</source>
@@ -781,11 +781,11 @@
     </message>
     <message>
         <source>Rotation KB</source>
-        <translation></translation>
+        <translation>«Rotation KB»</translation>
     </message>
     <message>
         <source>Rotation PB</source>
-        <translation></translation>
+        <translation>«Rotation PB»</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -809,7 +809,7 @@
     </message>
     <message>
         <source>Hangul Romaja</source>
-        <translation></translation>
+        <translation>«Hangul Romaja»</translation>
     </message>
     <message>
         <source>My Sites</source>
@@ -821,19 +821,19 @@
     </message>
     <message>
         <source>Touroku</source>
-        <translation></translation>
+        <translation>«Touroku»</translation>
     </message>
     <message>
         <source>Zenkaku Hankaku</source>
-        <translation></translation>
+        <translation>«Zenkaku Hankaku»</translation>
     </message>
     <message>
         <source>Hangul Jeonja</source>
-        <translation></translation>
+        <translation>«Hangul Jeonja»</translation>
     </message>
     <message>
         <source>Treble Up</source>
-        <translation></translation>
+        <translation>«Treble Up»</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -849,7 +849,7 @@
     </message>
     <message>
         <source>Muhenkan</source>
-        <translation></translation>
+        <translation>«Muhenkan»</translation>
     </message>
     <message>
         <source>Num Lock</source>
@@ -865,7 +865,7 @@
     </message>
     <message>
         <source>Power Down</source>
-        <translation></translation>
+        <translation>Отключить питание</translation>
     </message>
     <message>
         <source>Spellchecker</source>
@@ -873,7 +873,7 @@
     </message>
     <message>
         <source>Hangul PreHanja</source>
-        <translation></translation>
+        <translation>«Hangul PreHanja»</translation>
     </message>
     <message>
         <source>Terminal</source>
@@ -925,19 +925,19 @@
     </message>
     <message>
         <source>LightBulb</source>
-        <translation></translation>
+        <translation>Лампочка</translation>
     </message>
     <message>
         <source>Touchpad Toggle</source>
-        <translation></translation>
+        <translation>Тачпад Toggle</translation>
     </message>
     <message>
         <source>Hankaku</source>
-        <translation></translation>
+        <translation>«Hankaku»</translation>
     </message>
     <message>
         <source>Media Fast Forward</source>
-        <translation></translation>
+        <translation>Медия перемотка вперед</translation>
     </message>
     <message>
         <source>Hangul End</source>
@@ -957,7 +957,7 @@
     </message>
     <message>
         <source>Media Play</source>
-        <translation></translation>
+        <translation>Медия плей</translation>
     </message>
     <message>
         <source>Media Stop</source>
@@ -969,19 +969,19 @@
     </message>
     <message>
         <source>Touchpad On</source>
-        <translation></translation>
+        <translation>Тачпад Он</translation>
     </message>
     <message>
         <source>Channel Down</source>
-        <translation></translation>
+        <translation>В канале Down</translation>
     </message>
     <message>
         <source>Launch Media</source>
-        <translation></translation>
+        <translation>Запуск медия</translation>
     </message>
     <message>
         <source>Application Right</source>
-        <translation></translation>
+        <translation>Апликация правый</translation>
     </message>
     <message>
         <source>Pictures</source>
