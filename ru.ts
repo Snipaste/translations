@@ -187,7 +187,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation>Бета для Mac</translation>
+        <translation>Бета для «Mac»</translation>
     </message>
     <message>
         <source>PRO Features</source>
@@ -470,7 +470,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <source>Later</source>
@@ -674,7 +674,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>-bit</source>
-        <translation></translation>
+        <translation>-бит</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -1417,15 +1417,15 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     <name>PixelUnitButton</name>
     <message>
         <source>Point (pt)</source>
-        <translation>Point (pt)</translation>
+        <translation>Точка (тч)</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
-        <translation>Пиксель зависящий от устройства (dip)</translation>
+        <translation>Пиксель зависящий от устройства (ПЗУ)</translation>
     </message>
     <message>
         <source>Physical pixel (px)</source>
-        <translation>Физический пиксель (px)</translation>
+        <translation>Физический пиксель (пксл)</translation>
     </message>
 </context>
 <context>
@@ -1671,7 +1671,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Запустить режим доски (двойное нажатие Esc для выхода)</translation>
+        <translation>Запустить режим доски (двойное нажатие «Esc» для выхода)</translation>
     </message>
     <message>
         <source>Pick color</source>
@@ -2173,7 +2173,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2192,7 +2192,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>doubleinputdialog</name>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2257,7 +2257,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2299,7 +2299,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>Хорошо</translation>
     </message>
 </context>
 <context>
@@ -2569,7 +2569,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
-        <translation>Игнорировать правую клавишу Windows при выделении области.</translation>
+        <translation>Игнорировать правую клавишу «Windows» при выделении области.</translation>
     </message>
     <message>
         <source>Right</source>
@@ -2921,7 +2921,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Be the first to test new features of Snipaste!</source>
-        <translation>Будьте первыми, кто испытает новые возможности Snipaste!</translation>
+        <translation>Будьте первыми, кто испытает новые возможности «Snipaste»!</translation>
     </message>
     <message>
         <source>Include beta builds</source>
@@ -3133,7 +3133,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Control</source>
-        <translation>Контроллер</translation>
+        <translation>Контроль</translation>
     </message>
     <message>
         <source>Super Snip</source>
@@ -3529,7 +3529,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <name>textinputdialog</name>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3615,7 +3615,7 @@ Examples:
     </message>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <source>Cancel</source>
