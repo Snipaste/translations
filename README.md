@@ -24,7 +24,7 @@ If you do not have an account yet, just [let me know](mailto:snipaste.app@gmail.
 | Portuguese (Portugal) | pt_pt | [![](https://translations.snipaste.com/widgets/snipaste/pt_PT/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/pt_PT/) | [Luis Neves](mailto:luis.a.neves@sapo.pt) |
 | Vietnamese            | vi_vn | [![](https://translations.snipaste.com/widgets/snipaste/vi_VN/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/vi_VN/) | [evildeepblue](mailto:it4u.mm@gmail.com) |
 | French                | fr_fr | [![](https://translations.snipaste.com/widgets/snipaste/fr_FR/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/fr_FR/) | rico-sos |
-| Russian               | ru    | [![](https://translations.snipaste.com/widgets/snipaste/ru/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/ru/) | [vanja-san](https://github.com/vanja-san), [sharkeron](https://github.com/sharkeron) |
+| Russian               | ru    | [![](https://translations.snipaste.com/widgets/snipaste/ru/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/ru/) | [vanja-san](https://github.com/vanja-san), [sharkeron](https://github.com/sharkeron), [Džiugas Januševičius](mailto:dziugas1959@hotmail.com) |
 | Arabic                | ar_jo | [![](https://translations.snipaste.com/widgets/snipaste/ar_JO/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/ar_JO/) | [MFM Dawdeh](mailto:lalalogitech@hotmail.com) |
 | Turkish               | tr_tr | [![](https://translations.snipaste.com/widgets/snipaste/tr_TR/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/tr_TR/) | [mthryilmaz](https://github.com/mthryilmaz) |
 | Serbian               | sr    | [![](https://translations.snipaste.com/widgets/snipaste/sr/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/sr/) | [ozzii.translate](mailto:ozzii.translate@gmail.com) |
@@ -33,6 +33,9 @@ If you do not have an account yet, just [let me know](mailto:snipaste.app@gmail.
 | Czech                 | cs_cz | [![](https://translations.snipaste.com/widgets/snipaste/cs_CZ/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/cs_CZ/) | Štěpán Hašler |
 | Italian               | it_it | [![](https://translations.snipaste.com/widgets/snipaste/it/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/it/) | [mausan66](mailto:muox66@gmail.com) |
 | Ukrainian             | uk | [![](https://translations.snipaste.com/widgets/snipaste/uk/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/uk/) | [sharkeron](https://github.com/sharkeron) |
+| Lithuanian             | lt | [![](https://translations.snipaste.com/widgets/snipaste/lt/snipaste/svg-badge.svg)](https://translations.snipaste.com/projects/snipaste/snipaste/lt/) | [Džiugas Januševičius](mailto:dziugas1959@hotmail.com), Redas B |
+
+
 
 
 ## Contact
