@@ -489,7 +489,7 @@
     </message>
     <message>
         <source>Hangul</source>
-        <translation></translation>
+        <translation>«Hangul»</translation>
     </message>
     <message>
         <source>Hangup</source>
@@ -505,7 +505,7 @@
     </message>
     <message>
         <source>Home Office</source>
-        <translation></translation>
+        <translation>Домашний офис</translation>
     </message>
     <message>
         <source>Last Number Redial</source>
@@ -517,7 +517,7 @@
     </message>
     <message>
         <source>Market</source>
-        <translation>Маркет</translation>
+        <translation>Рынок</translation>
     </message>
     <message>
         <source>Massyo</source>
@@ -601,19 +601,19 @@
     </message>
     <message>
         <source>Context1</source>
-        <translation></translation>
+        <translation>Контекст1</translation>
     </message>
     <message>
         <source>Context2</source>
-        <translation></translation>
+        <translation>Контекст2</translation>
     </message>
     <message>
         <source>Context3</source>
-        <translation></translation>
+        <translation>Контекст3</translation>
     </message>
     <message>
         <source>Context4</source>
-        <translation></translation>
+        <translation>Контекст4</translation>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -621,7 +621,7 @@
     </message>
     <message>
         <source>Page Up</source>
-        <translation></translation>
+        <translation>Страницу вверх</translation>
     </message>
     <message>
         <source>Open URL</source>
@@ -641,7 +641,7 @@
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation></translation>
+        <translation>«Капс лок»</translation>
     </message>
     <message>
         <source>Eisu Shift</source>
@@ -749,7 +749,7 @@
     </message>
     <message>
         <source>Backspace</source>
-        <translation></translation>
+        <translation>«Backspace»</translation>
     </message>
     <message>
         <source>Bass Down</source>
@@ -769,7 +769,7 @@
     </message>
     <message>
         <source>Hangul Hanja</source>
-        <translation></translation>
+        <translation>«Hangul Hanja»</translation>
     </message>
     <message>
         <source>Standby</source>
@@ -777,7 +777,7 @@
     </message>
     <message>
         <source>Hangul Start</source>
-        <translation></translation>
+        <translation>«Hangul Start»</translation>
     </message>
     <message>
         <source>Rotation KB</source>
@@ -841,7 +841,7 @@
     </message>
     <message>
         <source>Hangul Jamo</source>
-        <translation></translation>
+        <translation>«Hangul Jamo»</translation>
     </message>
     <message>
         <source>Bluetooth</source>
@@ -861,7 +861,7 @@
     </message>
     <message>
         <source>Number Lock</source>
-        <translation></translation>
+        <translation>Номер замка</translation>
     </message>
     <message>
         <source>Power Down</source>
@@ -913,11 +913,11 @@
     </message>
     <message>
         <source>Page Down</source>
-        <translation></translation>
+        <translation>Страницу вниз</translation>
     </message>
     <message>
         <source>Wake Up</source>
-        <translation></translation>
+        <translation>Пробуждения</translation>
     </message>
     <message>
         <source>Power Off</source>
@@ -941,7 +941,7 @@
     </message>
     <message>
         <source>Hangul End</source>
-        <translation></translation>
+        <translation>«Hangul End»</translation>
     </message>
     <message>
         <source>Monitor Brightness Down</source>
@@ -961,11 +961,11 @@
     </message>
     <message>
         <source>Media Stop</source>
-        <translation></translation>
+        <translation>Медия Стоп</translation>
     </message>
     <message>
         <source>Media Next</source>
-        <translation></translation>
+        <translation>Медия далее</translation>
     </message>
     <message>
         <source>Touchpad On</source>
@@ -992,7 +992,7 @@
     <name>QMessageBox</name>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <source>No</source>
@@ -1012,7 +1012,7 @@
     </message>
     <message>
         <source>About Qt</source>
-        <translation>О Qt</translation>
+        <translation>О «Qt»</translation>
     </message>
     <message>
         <source>Hide Details...</source>
@@ -1023,7 +1023,7 @@
     <name>QPlatformTheme</name>
     <message>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <source>&amp;No</source>
