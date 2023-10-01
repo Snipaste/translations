@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation>Failo patikros „haš&apos;as“ nesutampa.</translation>
+        <translation>Failo patikros maiša nesutampa.</translation>
     </message>
     <message>
         <source>Please retry.</source>
