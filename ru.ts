@@ -133,7 +133,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation>Показать в проводнике</translation>
+        <translation>Показать в «Finder»</translation>
     </message>
     <message>
         <source>Install now</source>
@@ -191,7 +191,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation>PRO возможности</translation>
+        <translation>«PRO» возможности</translation>
     </message>
 </context>
 <context>
