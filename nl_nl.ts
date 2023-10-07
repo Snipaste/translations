@@ -594,7 +594,7 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
         <translation>Tijdzone</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>Besturingssysteem</translation>
     </message>
     <message>

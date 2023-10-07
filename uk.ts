@@ -152,7 +152,11 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Visit Online</source>
+        <source>PRO Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Beta for Mac</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -184,11 +188,7 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PRO Features</source>
+        <source>Visit Online</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -211,11 +211,11 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <source>More examples...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>More examples...</source>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -230,11 +230,31 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide the captured mouse cursor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set the snipping area to the same as your last successful snip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Comma</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch to the previous snip record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Period</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -243,6 +263,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Refresh screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow keys</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -294,11 +318,27 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Toggle grayscale conversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle color inversion [PRO]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide the paint bar or close the image window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Destroy the image window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close the image window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all visible image windows [PRO]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -331,14 +371,6 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the cursor by 1 pixel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow keys</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set the snipping area to active screen / fullscreen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -382,35 +414,7 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>or</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show/Hide the captured mouse cursor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comma</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Period</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close the image window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select all visible image windows [PRO]</source>
+        <source>Deselect the current shape if in edit mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -418,19 +422,15 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Replay snipping history</source>
+        <source>Reuse the last snipping areas</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reuse the last snipping areas</source>
+        <source>Replay snipping history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -539,11 +539,27 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Week day in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Week day in English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Month (1-12)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Month (01-12)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English (abbr.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month name in English</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -591,7 +607,7 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -600,6 +616,14 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>User name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The title of the active window before snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Same as the above, but the number of characters is limited to 50</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -615,66 +639,22 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dates and times</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Week day in English (abbr.)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Week day in English</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Month name in English (abbr.)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Month name in English</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Special variables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dates and times</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsDialog</name>
     <message>
+        <source>Snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Thank you for your support!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checking...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check for updates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For XP</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>-bit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copyright</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -746,6 +726,38 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serbian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Czech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
@@ -754,7 +766,23 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Contributors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
+
+Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to another configuration file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -762,24 +790,13 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Something went wrong with the startup shortcut.
+Startup on boot has been cancelled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Destroy image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No Proxy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>System Proxy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -803,48 +820,47 @@ Restart Snipaste now?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Off</source>
+        <source>Rectangle/Ellipse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Debug</source>
+        <source>Line strip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Normal</source>
+        <source>Pencil</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Trace</source>
+        <source>Marker pen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Something went wrong with the startup shortcut.
-Startup on boot has been cancelled.</source>
+        <source>Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Russian</source>
+        <source>Mosaic/Blur</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Arabic</source>
+        <source>Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Turkish</source>
+        <source>Magnify</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Switch to another configuration file</source>
+        <source>Eraser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Serbian</source>
+        <source>Close image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Mouse drag</source>
+        <source>Destroy image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -864,6 +880,14 @@ Startup on boot has been cancelled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Custom color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Snip and pin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -872,7 +896,43 @@ Startup on boot has been cancelled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wheel scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System Proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import succeeded!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -885,11 +945,15 @@ Share it to your friends!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Snipping</source>
+        <source>Remove license</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Existing image windows</source>
+        <source>Checking...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -897,83 +961,23 @@ Share it to your friends!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
-
-Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
-
-Are you sure you want to switch to another configuration file?</source>
+        <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Spanish (Mexico)</source>
+        <source>For XP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custom color</source>
+        <source>-bit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Select Color</source>
+        <source>Copyright</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove license</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Purchase PRO</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rectangle/Ellipse</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line strip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pencil</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Marker pen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mosaic/Blur</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eraser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Normal snip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Korean</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Czech</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
+        <source>Mouse drag</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -989,22 +993,18 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Italian</source>
+        <source>Existing image windows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Magnify</source>
+        <source>Purchase PRO</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PaintBar</name>
     <message>
-        <source>Select Color</source>
+        <source>Drag to draw a single line or click to draw line strips.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1012,59 +1012,7 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eraser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text background</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Alpha:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Filled rectangle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1092,7 +1040,39 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Magnify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filled rectangle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1104,11 +1084,31 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Corner radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alpha:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toggle mosaic/blur</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle smoothness</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1139,11 +1139,37 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Play</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>The &apos;Double-tap X&apos; action has been cancelled.
+For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1151,11 +1177,27 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Copy unscaled image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save image as...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restore</source>
+        <source>Save unscaled image as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export selected images to...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy annotation text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1164,6 +1206,10 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy HTML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy raw HTML</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1199,7 +1245,23 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Hide other images for now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show hidden images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1219,11 +1281,47 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Pseudo transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dark checkerboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Light checkerboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invert color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1240,6 +1338,22 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>New group...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign to desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All desktops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1279,125 +1393,11 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Quit annotating</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The &apos;Double-tap X&apos; action has been cancelled.
-For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Crop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy annotation text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select all images</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Grayscale</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy unscaled image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image processing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous frame</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rotate left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next frame</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rotate right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Horizontal flip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vertical flip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All desktops</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Assign to desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Desktop %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy raw HTML</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save unscaled image as...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invert color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color inverted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Double clicking the image window will close the window.
-You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export selected images to...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Output Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show hidden images</source>
+        <source>Quit annotating</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1426,15 +1426,19 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
 <context>
     <name>QObject</name>
     <message>
-        <source>Error</source>
+        <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
+        <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Run Snipaste admin privileges.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1443,11 +1447,7 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed to create a shortcut in the startup directory.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Restart Snipaste with admin privileges?</source>
+        <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1455,7 +1455,15 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Restart Snipaste with admin privileges?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>It may take a few seconds...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create a shortcut in the startup directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1480,14 +1488,6 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1573,7 +1573,19 @@ Click any of them to dismiss this notification permanently.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Snip and copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1613,15 +1625,6 @@ Click any of them to dismiss this notification permanently.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Scan QR code / barcode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show tray menu</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1634,15 +1637,19 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Snip and copy the full screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear snip records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1658,6 +1665,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pick color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1670,19 +1681,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1723,7 +1723,11 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Manage groups</source>
+        <source>Snipaste %1 is released!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click here to update now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1735,23 +1739,15 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Clear snip records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Snip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1771,11 +1767,23 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Import image group</source>
+        <source>Hide all images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show all images</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove empty groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1784,6 +1792,22 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Preferences...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1803,6 +1827,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unlock PRO...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restart</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1815,11 +1843,15 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is already running.</source>
+        <source>Snip hotkey</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save image as</source>
+        <source>Paste hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1859,6 +1891,18 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Import image group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export image group(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipaste image groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The group title should not be empty.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1883,51 +1927,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Snipaste %1 is released!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click here to update now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create new group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export image group(s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snipaste image groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip hotkey</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste hotkey</source>
+        <source>Save image as</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1989,10 +1989,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>UnlockProDialog</name>
     <message>
-        <source>You are using the free version of Snipaste %1 %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Snipaste offline activation request</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2021,15 +2017,35 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>You are using the free version of Snipaste %1 %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
+        <source>The PRO version unlocks more than 40 useful features!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2041,7 +2057,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
+        <source>Enter license key:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2058,6 +2074,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2086,26 +2106,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Error code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The PRO version unlocks more than 40 useful features!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter license key:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(Desktop)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

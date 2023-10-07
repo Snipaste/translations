@@ -591,7 +591,7 @@ Restart now to enjoy PRO features?</source>
         <translation>Múi giờ</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>Hoạt động hệ thống</translation>
     </message>
     <message>

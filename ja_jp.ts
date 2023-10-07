@@ -594,7 +594,7 @@ PRO機能を利用するために今すぐSnipasteを再起動しますか？</t
         <translation>時間帯</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>オペレーションシステム</translation>
     </message>
     <message>

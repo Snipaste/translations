@@ -592,7 +592,7 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
         <translation>Zeitzone</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>Betriebssystem</translation>
     </message>
     <message>

@@ -594,7 +594,7 @@ Restart now to enjoy PRO features?</source>
         <translation>Zona horaria</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>Sistema Operativo</translation>
     </message>
     <message>

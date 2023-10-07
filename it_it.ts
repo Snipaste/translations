@@ -594,7 +594,7 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
         <translation>Fuso orario</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>Sistema operativo</translation>
     </message>
     <message>

@@ -594,7 +594,7 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
         <translation>Zaman Dilimi</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>İşletim Sistemi</translation>
     </message>
     <message>

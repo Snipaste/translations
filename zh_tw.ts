@@ -594,7 +594,7 @@ Restart now to enjoy PRO features?</source>
         <translation>時區</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>作業系統</translation>
     </message>
     <message>

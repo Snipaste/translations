@@ -591,7 +591,7 @@ Restart now to enjoy PRO features?</source>
         <translation>Časové pásmo</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>Operační systém</translation>
     </message>
     <message>

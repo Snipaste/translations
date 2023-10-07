@@ -594,7 +594,7 @@ Restart now to enjoy PRO features?</source>
         <translation>Ζώνη ώρας</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>Λειτουργικό σύστημα</translation>
     </message>
     <message>

@@ -592,7 +592,7 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
         <translation>시간대</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>운영체제</translation>
     </message>
     <message>

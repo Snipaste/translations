@@ -591,7 +591,7 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -594,7 +594,7 @@ Restart now to enjoy PRO features?</source>
         <translation>Часовой пояс</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>Операционная система</translation>
     </message>
     <message>

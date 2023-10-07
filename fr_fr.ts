@@ -594,7 +594,7 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO?</translation>
         <translation>Fuseau horaire</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>Système d&apos;exploitation</translation>
     </message>
     <message>

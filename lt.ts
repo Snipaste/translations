@@ -594,7 +594,7 @@ Perjungti dabar, kad mėgautumės „PRO“ funkcijomis?</translation>
         <translation>Laiko zona</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>Operacinė sistema</translation>
     </message>
     <message>

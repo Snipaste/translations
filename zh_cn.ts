@@ -593,7 +593,7 @@ Restart now to enjoy PRO features?</source>
         <translation>时区</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>操作系统</translation>
     </message>
     <message>

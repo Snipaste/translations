@@ -594,7 +594,7 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
         <translation>Fuso Horário</translation>
     </message>
     <message>
-        <source>Operation system</source>
+        <source>Operating system</source>
         <translation>Sistema Operativo</translation>
     </message>
     <message>
