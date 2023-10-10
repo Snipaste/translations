@@ -778,6 +778,10 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Support</source>
         <translation>Podpora</translation>
     </message>

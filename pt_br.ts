@@ -745,6 +745,10 @@ Reiniciar agora para usufruir dos recursos PRO?</translation>
         <translation>Francês</translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation>Lituano</translation>
+    </message>
+    <message>
         <source>Support</source>
         <translation>Suporte</translation>
     </message>

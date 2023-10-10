@@ -777,6 +777,10 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
         <translation>İspanyolca (Meksika)</translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation>Litvanyalı</translation>
+    </message>
+    <message>
         <source>Support</source>
         <translation>Destek</translation>
     </message>

@@ -838,6 +838,10 @@ Autostart vid systemstart har avbrutits.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
         <translation type="unfinished"></translation>

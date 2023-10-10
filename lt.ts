@@ -749,6 +749,10 @@ Perjungti dabar, kad mėgautumės „PRO“ funkcijomis?</translation>
         <translation>Prancūzų</translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Support</source>
         <translation>Palaikymas</translation>
     </message>

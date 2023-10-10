@@ -742,6 +742,10 @@ Restart now to enjoy PRO features?</source>
         <translation>Tiếng Pháp</translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation>Tiếng Litva</translation>
+    </message>
+    <message>
         <source>Support</source>
         <translation>Ủng hộ</translation>
     </message>

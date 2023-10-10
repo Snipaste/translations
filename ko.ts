@@ -747,6 +747,10 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
         <translation>프랑스</translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation>리투아니아 사람</translation>
+    </message>
+    <message>
         <source>Support</source>
         <translation>지원</translation>
     </message>
@@ -765,7 +769,7 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
-        <translation>적용하려면 Snipaste를 재시작 해야 합니다. 
+        <translation>적용하려면 Snipaste를 재시작 해야 합니다.
 지금 재시작 할까요?</translation>
     </message>
     <message>

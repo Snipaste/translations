@@ -839,6 +839,10 @@ Le démarrage sur le démarrage a été annulé.</translation>
         <translation>glisser-dépose sourisr</translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation>Lituanien</translation>
+    </message>
+    <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
         <translation>Un redémarrage est nécessaire pour que la modification prenne effet.

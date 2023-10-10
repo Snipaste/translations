@@ -749,6 +749,10 @@ Restart now to enjoy PRO features?</source>
         <translation>Francés</translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation>Lituano</translation>
+    </message>
+    <message>
         <source>Support</source>
         <translation>Soporte</translation>
     </message>

@@ -743,6 +743,10 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
         <translation>Französisch</translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation>Litauisch</translation>
+    </message>
+    <message>
         <source>Support</source>
         <translation>Unterstützung</translation>
     </message>

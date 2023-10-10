@@ -745,6 +745,10 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
         <translation>Frans</translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation>Litouws</translation>
+    </message>
+    <message>
         <source>Support</source>
         <translation>Ondersteuning</translation>
     </message>

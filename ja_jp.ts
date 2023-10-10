@@ -839,6 +839,10 @@ Startup on boot has been cancelled.</source>
         <translation>マウスドラッグ</translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation>リトアニア語</translation>
+    </message>
+    <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
         <translation>再起動して設定を適用する。

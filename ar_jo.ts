@@ -836,6 +836,10 @@ Startup on boot has been cancelled.</source>
         <translation>سحب الماوس</translation>
     </message>
     <message>
+        <source>Lithuanian</source>
+        <translation>الليتوانية</translation>
+    </message>
+    <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
         <translation type="unfinished"></translation>
