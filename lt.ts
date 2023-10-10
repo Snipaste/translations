@@ -750,7 +750,7 @@ Perjungti dabar, kad mėgautumės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietuvių</translation>
     </message>
     <message>
         <source>Support</source>
