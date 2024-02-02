@@ -223,7 +223,7 @@ Please contact the developer.</source>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation>캡춰만 :</translation>
+        <translation>캡쳐만 :</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
@@ -231,7 +231,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation>마지막 캡춰했던 영역으로 설정</translation>
+        <translation>마지막 캡쳐했던 영역으로 설정</translation>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
@@ -247,11 +247,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
-        <translation>캡춰 영역을 1 픽셀 씩 확대</translation>
+        <translation>캡쳐 영역을 1 픽셀 씩 확대</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
-        <translation>캡춰 영역을 1 픽셀 씩 축소</translation>
+        <translation>캡쳐 영역을 1 픽셀 씩 축소</translation>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
@@ -427,11 +427,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation>캡춰 히스토리를 재생합니다</translation>
+        <translation>캡쳐 히스토리를 재생합니다</translation>
     </message>
     <message>
         <source>Reuse the last snipping areas</source>
-        <translation>마지막 캡춰 영역을 재사용 합니다</translation>
+        <translation>마지막 캡쳐 영역을 재사용 합니다</translation>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
@@ -439,7 +439,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation>캡춰 영역을 1 픽셀 씩 이동</translation>
+        <translation>캡쳐 영역을 1 픽셀 씩 이동</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
@@ -625,7 +625,7 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>Week day in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>요일 영어(약어)</translation>
     </message>
     <message>
         <source>Week day in English</source>
@@ -980,11 +980,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation>일반 캡춰</translation>
+        <translation>일반 캡쳐</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation>캡춰, 복사&amp;핀꽂기</translation>
+        <translation>캡쳐, 복사&amp;핀꽂기</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
@@ -1416,7 +1416,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     <name>PixelUnitButton</name>
     <message>
         <source>Point (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>포인트(pt)</translation>
     </message>
     <message>
         <source>Device-independent pixel (dip)</source>
@@ -1483,7 +1483,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>화면 녹화 목록에서 Snipaste를 이미 선택했지만 여전히 작동하지 않는 경우 화면 녹화에 대한 권한을 제거하고 다시 부여한 다음 Snipaste를 다시 시작하거나 Mac을 다시 시작해 보세요.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1506,11 +1506,11 @@ You may restart Snipaste with admin privileges and try again.</source>
     <name>RoundedCornerButton</name>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>둥근 모서리</translation>
     </message>
     <message>
         <source>Sharp corner</source>
-        <translation type="unfinished"></translation>
+        <translation>날카로운 모서리</translation>
     </message>
 </context>
 <context>
@@ -1583,15 +1583,15 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Snip</source>
-        <translation>캡춰</translation>
+        <translation>캡쳐</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation>캡춰 후 복사</translation>
+        <translation>캡쳐 후 복사</translation>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation>지연 캡춰</translation>
+        <translation>지연 캡쳐</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1623,11 +1623,11 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
+        <translation>핫 코너 비활성화/활성화</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
-        <translation type="unfinished"></translation>
+        <translation>QR 코드/바코드 스캔</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -1641,23 +1641,23 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation>커스텀 캡춰</translation>
+        <translation>커스텀 캡쳐</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation>활성 윈도우창 캡춰</translation>
+        <translation>활성 윈도우창 캡쳐</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation>캡춰하고 핀 설정</translation>
+        <translation>캡쳐하고 핀 설정</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation>전체화면 캡춰후 복사</translation>
+        <translation>전체화면 캡쳐후 복사</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation>이전 캡춰영역을 그대로 캡춰후 복사</translation>
+        <translation>이전 캡쳐영역을 그대로 캡쳐후 복사</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
@@ -1685,7 +1685,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation>그림자 포함 캡춰</translation>
+        <translation>그림자 포함 캡쳐</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
@@ -1697,7 +1697,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation>캡춰기록 삭제</translation>
+        <translation>캡쳐한 기록 삭제</translation>
     </message>
 </context>
 <context>
@@ -1727,7 +1727,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>SizePresetsDialog</name>
     <message>
         <source>Edit preset sizes/regions</source>
-        <translation type="unfinished"></translation>
+        <translation>사전 설정 크기/지역 편집</translation>
     </message>
 </context>
 <context>
@@ -1750,7 +1750,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip</source>
-        <translation>캡춰</translation>
+        <translation>캡쳐</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1766,7 +1766,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Clear snip records</source>
-        <translation>캡춰 기록 삭제</translation>
+        <translation>캡쳐 기록 삭제</translation>
     </message>
     <message>
         <source>Disable hotkeys</source>
@@ -1965,7 +1965,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation>캡춰를 중단하시겠습니까?</translation>
+        <translation>캡쳐를 중단하시겠습니까?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
@@ -1973,7 +1973,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
+        <translation>캡쳐 영역 조정</translation>
     </message>
     <message>
         <source>Input region size</source>
@@ -1991,11 +1991,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>QR 코드/바코드가 감지되지 않습니다.</translation>
     </message>
     <message>
         <source>QR code / barcode scan result</source>
-        <translation type="unfinished"></translation>
+        <translation>QR 코드/바코드 스캔 결과</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -2042,7 +2042,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>라이선스는 Microsoft 계정에 연결되어 있습니다. 계정에 이미 라이선스가 있는 경우 &apos;구매&apos;를 클릭하면 다시 요금이 청구되지 않고 구매를 복원할 수 있습니다.</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -2185,7 +2185,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation>커스텀 사이즈 캡춰</translation>
+        <translation>커스텀 사이즈 캡쳐</translation>
     </message>
 </context>
 <context>
@@ -2417,7 +2417,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip</source>
-        <translation>캡춰</translation>
+        <translation>캡쳐</translation>
     </message>
     <message>
         <source>Display</source>
@@ -2469,7 +2469,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Show the border of the snipping area in the magnifier.</source>
-        <translation>돋보기에서 캡춰 영역의 테두리를 표시함</translation>
+        <translation>돋보기에서 캡쳐 영역의 테두리를 표시함</translation>
     </message>
     <message>
         <source>border</source>
@@ -2493,7 +2493,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Auto detect the regions of windows when snipping.</source>
-        <translation>캡춰시 자동으로 영역 감지</translation>
+        <translation>캡쳐시 자동으로 영역 감지</translation>
     </message>
     <message>
         <source>Auto detect windows</source>
@@ -2509,7 +2509,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
-        <translation>캡춰시 UI 요소 (버튼 및 메뉴 등)의 영역을 자동으로 감지합니다.</translation>
+        <translation>캡쳐시 UI 요소 (버튼 및 메뉴 등)의 영역을 자동으로 감지.</translation>
     </message>
     <message>
         <source>Auto detect UI elements</source>
@@ -2517,7 +2517,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
-        <translation>캡춰 할 때 Tab 키를 눌러 잠시 토글 할 수도 있습니다.</translation>
+        <translation>캡쳐 할 때 Tab 키를 눌러 잠시 토글 할 수도 있습니다.</translation>
     </message>
     <message>
         <source>Capture the cursor by default.</source>
@@ -2525,7 +2525,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Capture the cursor</source>
-        <translation>커서 캡춰</translation>
+        <translation>커서포함 캡쳐</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
@@ -2536,15 +2536,15 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Quit snipping if any window of other programs is activated.</source>
-        <translation>다른 윈도우 프로그램이 활성화 되어 있을때 캡춰 종료</translation>
+        <translation>다른 윈도우 프로그램이 활성화 되어 있을때 캡쳐 종료</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
-        <translation>다른 윈도우창이 활성화 되어 있을때 캡춰 종료</translation>
+        <translation>다른 윈도우창이 활성화 되어 있을때 캡쳐 종료</translation>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
-        <translation>캡춰시 엔터키로 수행할 수 있는 작업</translation>
+        <translation>캡쳐시 엔터키로 수행할 수 있는 작업</translation>
     </message>
     <message>
         <source>then</source>
@@ -2552,7 +2552,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>quit snipping</source>
-        <translation>빠른 캡춰</translation>
+        <translation>빠른 캡쳐</translation>
     </message>
     <message>
         <source>Ignore Win key:</source>
@@ -2560,7 +2560,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Ignore the left Windows key when snipping.</source>
-        <translation>캡춰시 왼쪽 윈도우키 무시</translation>
+        <translation>캡쳐시 왼쪽 윈도우키 무시</translation>
     </message>
     <message>
         <source>Left</source>
@@ -2568,7 +2568,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
-        <translation>캡춰시 오른쪽 윈도우키 무시</translation>
+        <translation>캡쳐시 오른쪽 윈도우키 무시</translation>
     </message>
     <message>
         <source>Right</source>
@@ -2667,7 +2667,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Use snipping position</source>
-        <translation>캡춰 포지션 사용</translation>
+        <translation>캡쳐 포지션 사용</translation>
     </message>
     <message>
         <source>Zoom by mouse wheel</source>
@@ -3129,7 +3129,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Super Snip</source>
-        <translation>슈퍼 캡춰</translation>
+        <translation>슈퍼 캡쳐</translation>
     </message>
     <message>
         <source>Tray Icon</source>
@@ -3205,11 +3205,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation>보통 캡춰</translation>
+        <translation>보통 캡쳐</translation>
     </message>
     <message>
         <source>Super snip</source>
-        <translation>슈퍼 캡춰</translation>
+        <translation>슈퍼 캡쳐</translation>
     </message>
     <message>
         <source>Color value:</source>
@@ -3249,7 +3249,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
-        <translation>다음 번에 사용 할 수 있도록 캡춰 창의 상태와 이미지 창을 자동으로 기억합니다.</translation>
+        <translation>다음 번에 사용 할 수 있도록 캡쳐 창의 상태와 이미지 창을 자동으로 기억합니다.</translation>
     </message>
     <message>
         <source>Improve the response speed of snipping by automatically reloading dlls periodically.</source>
@@ -3269,7 +3269,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation>캡춰할때 `키나 !키로 마우스 커서를 보이게/안보이게 할 수도 있습니다</translation>
+        <translation>캡쳐할때 `키 또는 !키로 마우스 커서를 보이거나/안보이게 할 수도 있습니다</translation>
     </message>
     <message>
         <source>Keys</source>
@@ -3285,7 +3285,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
-        <translation>캡춰시 더블클릭으로 수행할 수 있는 작업</translation>
+        <translation>캡쳐시 더블클릭으로 수행할 수 있는 작업</translation>
     </message>
     <message>
         <source>Middle-click:</source>
@@ -3293,7 +3293,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
-        <translation>캡춰시 마우스 가운데 버튼으로 수행할 수 있는 작업</translation>
+        <translation>캡쳐시 마우스 가운데 버튼으로 수행할 수 있는 작업</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
@@ -3399,7 +3399,8 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>변경 사항을 적용하려면 Snipaste를 다시 시작하세요.
+&quot;공유&quot; 버튼을 표시하려면 Snipaste를 관리자 권한으로 실행하면 안 됩니다.</translation>
     </message>
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
@@ -3427,15 +3428,15 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Copy image as file:</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지를 파일로 복사:</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>항상</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>비활성화</translation>
     </message>
 </context>
 <context>
@@ -3540,7 +3541,19 @@ Examples:
 ---
 1280 720 720p
 200 50 20 20 icon</source>
-        <translation type="unfinished"></translation>
+        <translation>포맷: 
+• 크기: 너비 높이 
+• 지역: 왼쪽 상단 너비 높이 
+ 
+PRO 전용: 
+• 줄 끝에 이름을 추가하여 사전 설정 이름을 지정할 수 있습니다. 
+• &quot;---&quot;를 구분 기호로 사용할 수 있습니다. 
+ 
+ex) 500 500 
+200 200 100 100 
+--- 
+1280 720 720p 
+200 50 20 20 아이콘</translation>
     </message>
 </context>
 <context>
