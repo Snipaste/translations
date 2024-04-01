@@ -5,83 +5,83 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>複製文字</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>打開鏈接</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>撳著 %1 並點擊可打開鏈接</translation>
     </message>
 </context>
 <context>
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>揀顔色</translation>
     </message>
 </context>
 <context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation>撳 %1 複製顔色</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation>撳 %1 于 RGB 同 HEX 之間切換</translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>添加去預設</translation>
     </message>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯預設值...</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
 </context>
 <context>
     <name>FvUpdater</name>
     <message>
         <source>Redirecting</source>
-        <translation type="unfinished"></translation>
+        <translation>重新導向緊</translation>
     </message>
     <message>
         <source>Download complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>下載完成。</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>檔案 Hash 冇啱。</translation>
     </message>
     <message>
         <source>Please retry.</source>
-        <translation type="unfinished"></translation>
+        <translation>請重試。</translation>
     </message>
     <message>
         <source>Writing downloaded file into</source>
-        <translation type="unfinished"></translation>
+        <translation>將已下載檔案寫入緊到</translation>
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>你係咪對 %1 有寫入權限？</translation>
     </message>
     <message>
         <source>Saved successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>儲存成功。</translation>
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
