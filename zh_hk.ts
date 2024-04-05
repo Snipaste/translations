@@ -85,193 +85,195 @@
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>下載嘅時候發生咗錯誤！HTTP 錯誤碼： %1</translation>
     </message>
     <message>
         <source>Unzipped successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>解壓縮成功。</translation>
     </message>
     <message>
         <source>Unable to download updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>冇辦法下載更新。</translation>
     </message>
     <message>
         <source>Please try later.</source>
-        <translation type="unfinished"></translation>
+        <translation>請等一陣再試。</translation>
     </message>
     <message>
         <source>Downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>下載緊</translation>
     </message>
     <message>
         <source>Retrying</source>
-        <translation type="unfinished"></translation>
+        <translation>重試緊</translation>
     </message>
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>下載更新來源失敗。
+網路錯誤：%1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>更新來源有啲錯誤（%1）.
+請聯絡開發者。</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>新版本Snipaste已經下載到咗：</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>算了</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>喺 Finder 裏頭顯示</translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation>馬上安裝</translation>
     </message>
     <message>
         <source>Restarting</source>
-        <translation type="unfinished"></translation>
+        <translation>重啓緊</translation>
     </message>
 </context>
 <context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>確定要関開選取嘅組？此操作無法還原。</translation>
     </message>
 </context>
 <context>
     <name>HelpDialog</name>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>求助</translation>
     </message>
     <message>
         <source>Visit Online</source>
-        <translation type="unfinished"></translation>
+        <translation>綫上檢視</translation>
     </message>
     <message>
         <source>Basic Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>基本嘅操作</translation>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>内建快速鍵</translation>
     </message>
     <message>
         <source>Command Line Options</source>
-        <translation type="unfinished"></translation>
+        <translation>命令行選項</translation>
     </message>
     <message>
         <source>Advanced Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>進階設定</translation>
     </message>
     <message>
         <source>Troubleshooting</source>
-        <translation type="unfinished"></translation>
+        <translation>排除故障</translation>
     </message>
     <message>
         <source>FAQ</source>
-        <translation type="unfinished"></translation>
+        <translation>常見問題</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>更新記錄</translation>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Mac 公測版</translation>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>專業版功能</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>移除命令</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>確定移除呢個命令？</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>名稱冇可以係空！</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>命令冇可以係空！</translation>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入以英文逗號分割嘅軟體套件組合名稱/路徑 （譬如 snipaste.app, games/*）</translation>
     </message>
     <message>
         <source>More examples...</source>
-        <translation type="unfinished"></translation>
+        <translation>更多例子...</translation>
     </message>
 </context>
 <context>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation type="unfinished"></translation>
+        <translation>只有效與截取：</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
-        <translation type="unfinished"></translation>
+        <translation>切換檢測嘅視窗/檢測嘅界面元素</translation>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation type="unfinished"></translation>
+        <translation>將截取area設置為上一次截取成功時嘅area</translation>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
-        <translation type="unfinished"></translation>
+        <translation>切換到上次嘅截取記錄</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
-        <translation type="unfinished"></translation>
+        <translation>切換到下次嘅截取記錄</translation>
     </message>
     <message>
         <source>Refresh screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>refresh截取</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>將截取area相對板邊擴大 1px</translation>
     </message>
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>將截取area相對板邊縮小 1px</translation>
     </message>
     <message>
         <source>Paste the screenshot to the screen directly</source>
-        <translation type="unfinished"></translation>
+        <translation>直接將截取貼到熒幕</translation>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>複製所截取並結束截取</translation>
     </message>
     <message>
         <source>Abort snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>停止截取</translation>
     </message>
     <message>
         <source>Mouse right-click</source>
-        <translation type="unfinished"></translation>
+        <translation>撳滑鼠右鍵</translation>
     </message>
     <message>
         <source>Re-decide the snipping area / abort snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>重新設定截取area/停止截取</translation>
     </message>
     <message>
         <source>Paste only:</source>
