@@ -162,7 +162,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation>内置快捷键</translation>
+        <translation>内部快捷键</translation>
     </message>
     <message>
         <source>Command Line Options</source>
@@ -2319,7 +2319,7 @@ Please launch the subscription platform first.</source>
     <name>keybindingdialog</name>
     <message>
         <source>Key Bindings</source>
-        <translation>内置快捷键</translation>
+        <translation>内部快捷键</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -2765,7 +2765,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation>内置快捷键</translation>
+        <translation>内部快捷键</translation>
     </message>
     <message>
         <source>Version</source>
