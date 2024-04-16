@@ -121,7 +121,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать в диспетчере файлов</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -349,7 +349,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать / Скрыть строки справки при захвате изображения</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -674,7 +674,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>for Windows XP</source>
-        <translation type="unfinished"></translation>
+        <translation>для «Windows XP»</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -682,15 +682,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>для «Windows» рабочем столе</translation>
     </message>
     <message>
         <source>for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>для «macOS»</translation>
     </message>
     <message>
         <source>for Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>для «Linux»</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1202,7 +1202,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать путь в источник файл</translation>
     </message>
     <message>
         <source>Copy plain text</source>
@@ -1330,15 +1330,15 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажатие (англ. click-through) мыши</translation>
     </message>
     <message>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>вкл.</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>отк.</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1892,11 +1892,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажатие (англ. click-through) мыши</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>отк.</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
