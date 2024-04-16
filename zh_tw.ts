@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>在檔案總管中顯示</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -349,7 +349,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>擷圖時顯示/隱藏輔助線</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -686,7 +686,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>for Windows XP</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows XP 版</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -694,15 +694,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Window 桌面版</translation>
     </message>
     <message>
         <source>for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>macOS 版</translation>
     </message>
     <message>
         <source>for Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>Linux 版</translation>
     </message>
     <message>
         <source>For XP</source>
@@ -1170,7 +1170,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation type="unfinished"></translation>
+        <translation>複製原始檔路徑</translation>
     </message>
     <message>
         <source>Copy plain text</source>
@@ -1282,15 +1282,15 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>滑鼠穿透</translation>
     </message>
     <message>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>開</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>關</translation>
     </message>
     <message>
         <source>Destroy</source>
@@ -1900,11 +1900,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>滑鼠穿透</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>關</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
