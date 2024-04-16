@@ -120,6 +120,10 @@ Please contact the developer.</source>
 Por favor contacte o autor.</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>A reiniciar</translation>
     </message>
@@ -342,6 +346,10 @@ Por favor contacte o autor.</translation>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Define a área de captura para área visível / ecrã completo</translation>
+    </message>
+    <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -671,6 +679,26 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
     <message>
         <source>For XP</source>
         <translation>Para.XP</translation>
+    </message>
+    <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation>para Loja Microsoft</translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1173,6 +1201,10 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
         <translation>Restaurar</translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy plain text</source>
         <translation>Copiar texto</translation>
     </message>
@@ -1295,6 +1327,18 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     <message>
         <source>Quit annotating</source>
         <translation>Anotação rápida</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1857,6 +1901,14 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <message>
         <source>Failed to save the image!</source>
         <translation>Falha ao guardar a imagem!</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fail to import group.</source>

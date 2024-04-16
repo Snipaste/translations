@@ -136,6 +136,10 @@ Please contact the developer.</source>
         <translation>馬上安裝</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>重啓緊</translation>
     </message>
@@ -344,6 +348,10 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
         <translation type="unfinished"></translation>
     </message>
@@ -481,14 +489,14 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>算了</translation>
     </message>
 </context>
 <context>
     <name>Licensing_uwp</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
@@ -664,6 +672,26 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
@@ -765,7 +793,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <source>Restart is required for the change to take effect.
@@ -920,7 +948,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>揀顔色</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1011,7 +1039,7 @@ Are you sure you want to switch to another configuration file?</source>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>揀顔色</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -1165,6 +1193,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy plain text</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1178,7 +1210,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>揀顔色</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1286,6 +1318,18 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Quit annotating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1433,7 +1477,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     <name>QObject</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
@@ -1466,7 +1510,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>算了</translation>
     </message>
     <message>
         <source>Open System Preferences</source>
@@ -1516,7 +1560,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <source>Snipaste is running</source>
@@ -1542,7 +1586,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>揀顔色</translation>
     </message>
     <message>
         <source>Select Font</source>
@@ -1561,7 +1605,7 @@ Click any of them to dismiss this notification permanently.
     <name>Settings</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <source>No write permission on the config file!</source>
@@ -1734,7 +1778,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
@@ -1794,7 +1838,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>求助</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
@@ -1830,6 +1874,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Failed to save the image!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2048,7 +2100,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>算了</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -2127,7 +2179,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>算了</translation>
     </message>
     <message>
         <source>Release notes are currently not available.</source>
@@ -2166,7 +2218,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>算了</translation>
     </message>
     <message>
         <source>Preset</source>
@@ -2185,7 +2237,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>算了</translation>
     </message>
 </context>
 <context>
@@ -2250,7 +2302,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>算了</translation>
     </message>
     <message>
         <source>Ignored list:</source>
@@ -2265,7 +2317,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>keybindingdialog</name>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>内建快速鍵</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -2892,7 +2944,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>内建快速鍵</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2921,7 +2973,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
     <message>
         <source>Every</source>
@@ -3506,7 +3558,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>算了</translation>
     </message>
     <message>
         <source>Format:
@@ -3560,7 +3612,7 @@ Examples:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>算了</translation>
     </message>
 </context>
 <context>
@@ -3579,7 +3631,7 @@ Examples:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>算了</translation>
     </message>
     <message>
         <source>Zoom Image</source>

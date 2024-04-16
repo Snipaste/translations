@@ -128,6 +128,10 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <translation>İptal</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>Yeniden başlatılıyor</translation>
     </message>
@@ -416,6 +420,10 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <translation>Görünür tüm görüntü pencerelerini seçin [PRO]</translation>
     </message>
     <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mouse scroll or 1/2 or [/]</source>
         <translation>Fare tekerleği veya 1/2 veya [/]</translation>
     </message>
@@ -659,6 +667,26 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     <message>
         <source>Check for updates</source>
         <translation>Güncellemeleri kontrol et</translation>
+    </message>
+    <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation>Microsoft Mağazası için</translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Same as %1</source>
@@ -1186,6 +1214,10 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
         <translation>Ek açıklama metnini kopyala</translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy plain text</source>
         <translation>Düz metin kopyala</translation>
     </message>
@@ -1315,6 +1347,18 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
     </message>
     <message>
         <source>Quit annotating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1872,6 +1916,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Failed to save the image!</source>
         <translation>Görüntü kaydetme başarısız!</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fail to import group.</source>

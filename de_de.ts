@@ -88,6 +88,10 @@
         <translation>Erfolgreich entpackt.</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>Neu starten</translation>
     </message>
@@ -340,6 +344,10 @@ Please contact the developer.</source>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Snipping-Bereich auf aktiven Bildschirm / Vollbild einstellen</translation>
+    </message>
+    <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -673,6 +681,26 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     <message>
         <source>Check for updates</source>
         <translation>Auf Updates prüfen</translation>
+    </message>
+    <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation>für den Microsoft Store</translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>For XP</source>
@@ -1140,6 +1168,10 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
         <translation>Wiederherstellen</translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy plain text</source>
         <translation>Klartext kopieren</translation>
     </message>
@@ -1250,6 +1282,18 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     <message>
         <source>Quit annotating</source>
         <translation>Beende das Kommentieren</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Destroy</source>
@@ -1852,6 +1896,14 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Failed to save the image!</source>
         <translation>Bild konnte nicht gespeichert werden!</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fail to import group.</source>

@@ -120,6 +120,10 @@ Please contact the developer.</source>
 Informeer alsjeblieft de maker.</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>Opnieuw starten</translation>
     </message>
@@ -342,6 +346,10 @@ Informeer alsjeblieft de maker.</translation>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Knipgebied instellen op actief scherm / volledig scherm</translation>
+    </message>
+    <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -675,6 +683,26 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     <message>
         <source>Check for updates</source>
         <translation>Nieuwe versie zoeken</translation>
+    </message>
+    <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation>voor Microsoft Store</translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>For XP</source>
@@ -1141,6 +1169,10 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
         <translation>Herstellen</translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy plain text</source>
         <translation>Tekst zonder opmaak kopiëren</translation>
     </message>
@@ -1251,6 +1283,18 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     <message>
         <source>Quit annotating</source>
         <translation>Aantekeningen stoppen</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Destroy</source>
@@ -1853,6 +1897,14 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Failed to save the image!</source>
         <translation>De afbeelding is niet opgeslagen!</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fail to import group.</source>

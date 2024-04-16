@@ -88,6 +88,10 @@
         <translation>解壓縮成功。</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>正在重啟</translation>
     </message>
@@ -342,6 +346,10 @@ Please contact the developer.</source>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>設定擷圖區域為目前螢幕/全螢幕</translation>
+    </message>
+    <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -675,6 +683,26 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Check for updates</source>
         <translation>檢查更新</translation>
+    </message>
+    <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation>微軟商店版</translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>For XP</source>
@@ -1141,6 +1169,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>還原</translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy plain text</source>
         <translation>複製 純文字</translation>
     </message>
@@ -1247,6 +1279,18 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Quit annotating</source>
         <translation>結束標註</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Destroy</source>
@@ -1853,6 +1897,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Failed to save the image!</source>
         <translation>圖片儲存失敗！</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fail to import group.</source>

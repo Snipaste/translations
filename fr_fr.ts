@@ -120,6 +120,10 @@ Veuillez contacter le développeur.</translation>
         <translation>Décompressé avec succès.</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>Redémarrage</translation>
     </message>
@@ -342,6 +346,10 @@ Veuillez contacter le développeur.</translation>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Définir la zone de capture sur écran actif / plein écran</translation>
+    </message>
+    <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -835,6 +843,26 @@ Le démarrage sur le démarrage a été annulé.</translation>
         <translation>Serbe</translation>
     </message>
     <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation>pour Microsoft Store</translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mouse drag</source>
         <translation>glisser-dépose sourisr</translation>
     </message>
@@ -1153,6 +1181,10 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
         <translation>Taille</translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show toolbar</source>
         <translation>Afficher barre d&apos;outils</translation>
     </message>
@@ -1179,6 +1211,18 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     <message>
         <source>Quit annotating</source>
         <translation>Quitter l&apos;annotation</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1837,6 +1881,14 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
         <translation>Êtes-vous sûr d&apos;épingler toutes les images ? (Numéro %1)</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File %1 not found.</source>

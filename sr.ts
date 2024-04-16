@@ -120,6 +120,10 @@ Please contact the developer.</source>
 Контактирајте девлопер.</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>Поновно покретање</translation>
     </message>
@@ -342,6 +346,10 @@ Please contact the developer.</source>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Постави зону снимања на активном екрану/пуни екран</translation>
+    </message>
+    <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -663,6 +671,26 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Check for updates</source>
         <translation>Провера ажурирања</translation>
+    </message>
+    <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation>за Microsoft Store</translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1173,6 +1201,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Опозвати</translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy plain text</source>
         <translation>Копирати текст</translation>
     </message>
@@ -1295,6 +1327,18 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Quit annotating</source>
         <translation>Затворити анотације</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1845,6 +1889,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Failed to save the image!</source>
         <translation>Неуспешно сачувавање слике!</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fail to import group.</source>

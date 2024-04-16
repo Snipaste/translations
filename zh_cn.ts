@@ -88,6 +88,10 @@
         <translation>解压成功。</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation>在文件管理器中显示</translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>正在重启</translation>
     </message>
@@ -341,6 +345,10 @@ Please contact the developer.</source>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>设置截屏区域为当前屏幕/全屏</translation>
+    </message>
+    <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
+        <translation>截屏时显示/隐藏辅助线</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -674,6 +682,26 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Check for updates</source>
         <translation>检查更新</translation>
+    </message>
+    <message>
+        <source>for Windows XP</source>
+        <translation>Windows XP 版</translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation>微软商店版</translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation>Window 桌面版</translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation>macOS 版</translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation>Linux 版</translation>
     </message>
     <message>
         <source>For XP</source>
@@ -1140,6 +1168,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>还原</translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation>复制源文件路径</translation>
+    </message>
+    <message>
         <source>Copy plain text</source>
         <translation>复制 纯文本</translation>
     </message>
@@ -1246,6 +1278,18 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Quit annotating</source>
         <translation>退出标注</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation>鼠标穿透</translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation>开</translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation>关</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1847,6 +1891,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Failed to save the image!</source>
         <translation>图片保存失败！</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation>鼠标穿透</translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation>关</translation>
     </message>
     <message>
         <source>Fail to import group.</source>

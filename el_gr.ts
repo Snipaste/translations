@@ -120,6 +120,10 @@ Please contact the developer.</source>
         <translation>Αποσυμπιέστηκε με επιτυχία.</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>Επανεκκίνηση</translation>
     </message>
@@ -341,6 +345,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -835,6 +843,26 @@ Startup on boot has been cancelled.</source>
         <translation>Σερβικά</translation>
     </message>
     <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mouse drag</source>
         <translation>Μεταφορά με το ποντίκι</translation>
     </message>
@@ -1216,6 +1244,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Όλα τα αρχεία</translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show toolbar</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1257,6 +1289,18 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Quit annotating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1828,6 +1872,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

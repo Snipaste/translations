@@ -134,6 +134,10 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation type="unfinished"></translation>
     </message>
@@ -359,6 +363,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show the magnifier if it is not visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -961,6 +969,26 @@ Share it to your friends!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Same as %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1205,6 +1233,10 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy plain text</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1402,6 +1434,18 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     </message>
     <message>
         <source>Quit annotating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1860,6 +1904,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Failed to save the image!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

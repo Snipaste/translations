@@ -120,6 +120,10 @@ Please contact the developer.</source>
         <translation>解凍に成功しました。</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>再起動中</translation>
     </message>
@@ -341,6 +345,10 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -835,6 +843,26 @@ Startup on boot has been cancelled.</source>
         <translation>セルビア語</translation>
     </message>
     <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation>Microsoft Store版</translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mouse drag</source>
         <translation>マウスドラッグ</translation>
     </message>
@@ -1153,6 +1181,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>サイズ</translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show toolbar</source>
         <translation>ツールバーを表示する</translation>
     </message>
@@ -1179,6 +1211,18 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Quit annotating</source>
         <translation>表記を閉じる</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1833,6 +1877,14 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
         <translation>すべてな画像を表示しますか？（数量：%1）</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File %1 not found.</source>

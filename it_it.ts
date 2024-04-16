@@ -120,6 +120,10 @@ Please contact the developer.</source>
 Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>Riavvio</translation>
     </message>
@@ -342,6 +346,10 @@ Per favore contatta lo sviluppatore.</translation>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Seleziona l&apos;area di ritaglio allo schermo attivo / schermo intero</translation>
+    </message>
+    <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -663,6 +671,26 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     <message>
         <source>Check for updates</source>
         <translation>Controlla gli aggiornamenti</translation>
+    </message>
+    <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation>per Microsoft store</translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1173,6 +1201,10 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
         <translation>Ripristina</translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy plain text</source>
         <translation>Copia testo semplice</translation>
     </message>
@@ -1295,6 +1327,18 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     <message>
         <source>Quit annotating</source>
         <translation>Termina le annotazioni</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1845,6 +1889,14 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     <message>
         <source>Failed to save the image!</source>
         <translation>Impossibile salvare l&apos;immagine!</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fail to import group.</source>

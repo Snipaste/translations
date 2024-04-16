@@ -120,6 +120,10 @@ Please contact the developer.</source>
 Por favor contacte al desarrollador.</translation>
     </message>
     <message>
+        <source>Show in File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restarting</source>
         <translation>Reiniciando</translation>
     </message>
@@ -342,6 +346,10 @@ Por favor contacte al desarrollador.</translation>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Establecer el area de recorte a la pantalla activa / pantalla completa</translation>
+    </message>
+    <message>
+        <source>Show/Hide the auxiliary lines if snipping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -663,6 +671,26 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Check for updates</source>
         <translation>Verificar actualizaciones</translation>
+    </message>
+    <message>
+        <source>for Windows XP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Microsoft Store</source>
+        <translation>para Microsoft Store</translation>
+    </message>
+    <message>
+        <source>for Windows Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for macOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for Linux</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1173,6 +1201,10 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
         <translation>Restaurar</translation>
     </message>
     <message>
+        <source>Copy path to the source file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy plain text</source>
         <translation>Copiar texto sin formato</translation>
     </message>
@@ -1295,6 +1327,18 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     <message>
         <source>Quit annotating</source>
         <translation>Dejar de anotar</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1845,6 +1889,14 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     <message>
         <source>Failed to save the image!</source>
         <translation>¡No se pudo guardar la imagen!</translation>
+    </message>
+    <message>
+        <source>Mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fail to import group.</source>
