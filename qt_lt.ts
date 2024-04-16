@@ -305,7 +305,7 @@
     </message>
     <message>
         <source>Multiple Candidate</source>
-        <translation>Dauguma kandidatų</translation>
+        <translation>Dauguma/Keli kandidatų/-ai</translation>
     </message>
     <message>
         <source>Zenkaku</source>
@@ -333,7 +333,7 @@
     </message>
     <message>
         <source>Ultra Wide Band</source>
-        <translation>„Ultra Platus Dažnis“</translation>
+        <translation>„Ultra plačiajuostis diapazonas/ryšys („UWB“)“</translation>
     </message>
     <message>
         <source>Hangul Special</source>
@@ -517,7 +517,7 @@
     </message>
     <message>
         <source>Market</source>
-        <translation>Turgus</translation>
+        <translation>Turgus/Prekyvietė</translation>
     </message>
     <message>
         <source>Massyo</source>
@@ -1134,7 +1134,7 @@
     </message>
     <message>
         <source>Greek</source>
-        <translation>Graikas</translation>
+        <translation>Graikų</translation>
     </message>
     <message>
         <source>Khmer</source>
@@ -1389,7 +1389,7 @@ Spauskite „ESC“, kad atšauktumėte</translation>
     <name>QKeySequenceEdit</name>
     <message>
         <source>Press shortcut</source>
-        <translation>Spauskite nuorodos klavišą</translation>
+        <translation>Spauskite nuorodos/trumpinio klavišą</translation>
     </message>
 </context>
 </TS>
