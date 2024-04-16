@@ -121,7 +121,7 @@ Por favor contacte al desarrollador.</translation>
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar en el administrador de archivos</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -349,7 +349,7 @@ Por favor contacte al desarrollador.</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar/Ocultar las lineas auxiliares durante el recorte</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -674,7 +674,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>for Windows XP</source>
-        <translation type="unfinished"></translation>
+        <translation>para Windows XP</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -682,15 +682,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>para Windows de escritorio</translation>
     </message>
     <message>
         <source>for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>para macOS</translation>
     </message>
     <message>
         <source>for Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>para Linux</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1202,7 +1202,7 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar la ruta al archivo fuente</translation>
     </message>
     <message>
         <source>Copy plain text</source>
@@ -1330,15 +1330,15 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer clic a través</translation>
     </message>
     <message>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>Encendido</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagado</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1892,11 +1892,11 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer clic a través</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagado</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
