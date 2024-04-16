@@ -137,7 +137,7 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti failų naršyklėje</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -349,7 +349,7 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti/Slėpti pagalbines linijas, jei užfiksuojama</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -474,7 +474,7 @@ Prašome susisiekti su kūrėju.</translation>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
         <translation>Ačiū už palaikymą!
-Perjungti dabar, kad mėgautumės „PRO“ funkcijomis?</translation>
+Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>OK</source>
@@ -486,7 +486,7 @@ Perjungti dabar, kad mėgautumės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation>Pašalinti Licencijos raktą? „Snipaste“ bus išregistruota.</translation>
+        <translation>Pašalinti licencijos raktą? „Snipaste“ bus išregistruota/-s.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -559,11 +559,11 @@ Perjungti dabar, kad mėgautumės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Year (2-digit)</source>
-        <translation>Metai (2-skaitmenų)</translation>
+        <translation>Metai (2-ų skaitmenų)</translation>
     </message>
     <message>
         <source>Year (4-digit)</source>
-        <translation>Metai (4-skaitmenų)</translation>
+        <translation>Metai (4-ų skaitmenų)</translation>
     </message>
     <message>
         <source>Hour (0-23)</source>
@@ -674,7 +674,7 @@ Perjungti dabar, kad mėgautumės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>for Windows XP</source>
-        <translation type="unfinished"></translation>
+        <translation>skirta „Windows XP“</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -682,15 +682,15 @@ Perjungti dabar, kad mėgautumės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>skirta „Windows“ darbalaukiui</translation>
     </message>
     <message>
         <source>for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>skirta „macOS“</translation>
     </message>
     <message>
         <source>for Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>skirta „Linux“</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -812,7 +812,7 @@ Paleisti iš naujo „Snipaste“ dabar?</translation>
     </message>
     <message>
         <source>No Proxy</source>
-        <translation>Nėra įgaliojimo</translation>
+        <translation>Nėra įgaliotojo</translation>
     </message>
     <message>
         <source>System Proxy</source>
@@ -1202,7 +1202,7 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti kelią į šaltinio failą</translation>
     </message>
     <message>
         <source>Copy plain text</source>
@@ -1330,15 +1330,15 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Pėlės (jo praeinamumas) perspaudimas</translation>
     </message>
     <message>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>įjungta/įgalinta (-as/-i)</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>išjungta (-as/-i)</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1892,11 +1892,11 @@ Jei po žymekliu nėra jokios nuotraukos/Vaizdo/İškarpos/paveikslėlio lango, 
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Pėlės (jo praeinamumas) perspaudimas</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>išjungta/-as/-i</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
