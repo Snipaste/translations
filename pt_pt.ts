@@ -121,7 +121,7 @@ Por favor contacte o autor.</translation>
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar no Gestor de Ficheiros</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -349,7 +349,7 @@ Por favor contacte o autor.</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar/ocultar as linhas auxiliares ao capturar</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -682,7 +682,7 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
     </message>
     <message>
         <source>for Windows XP</source>
-        <translation type="unfinished"></translation>
+        <translation>para Windows XP</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -690,15 +690,15 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>para Windows Desktop</translation>
     </message>
     <message>
         <source>for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>para macOS</translation>
     </message>
     <message>
         <source>for Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>para Linux</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1202,7 +1202,7 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar caminho para o ficheiro de origem</translation>
     </message>
     <message>
         <source>Copy plain text</source>
@@ -1330,15 +1330,15 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique do rato</translation>
     </message>
     <message>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>ligado</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>desligado</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1904,11 +1904,11 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique do rato</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>desligado</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
