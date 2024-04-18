@@ -353,7 +353,7 @@
     </message>
     <message>
         <source>Word Processor</source>
-        <translation>Word Processor</translation>
+        <translation>Elaboratore di testi</translation>
     </message>
     <message>
         <source>Volume Down</source>
@@ -737,7 +737,7 @@
     </message>
     <message>
         <source>Back Forward</source>
-        <translation type="unfinished">Back Forward</translation>
+        <translation>Indietro Avanti</translation>
     </message>
     <message>
         <source>Launch Mail</source>
@@ -761,7 +761,7 @@
     </message>
     <message>
         <source>Messenger</source>
-        <translation type="unfinished">Messenger</translation>
+        <translation>Messenger</translation>
     </message>
     <message>
         <source>Hangul Banja</source>
