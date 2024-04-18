@@ -121,7 +121,7 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher dans le gestionnaire de fichiers</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -349,7 +349,7 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/masquer les lignes auxiliaires en cas de découpage</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -844,7 +844,7 @@ Le démarrage sur le démarrage a été annulé.</translation>
     </message>
     <message>
         <source>for Windows XP</source>
-        <translation type="unfinished"></translation>
+        <translation>pour Windows XP</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -852,15 +852,15 @@ Le démarrage sur le démarrage a été annulé.</translation>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>pour le bureau Windows</translation>
     </message>
     <message>
         <source>for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>pour macOS</translation>
     </message>
     <message>
         <source>for Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>pour Linux</translation>
     </message>
     <message>
         <source>Mouse drag</source>
@@ -1182,7 +1182,7 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier chemin vers fichier source</translation>
     </message>
     <message>
         <source>Show toolbar</source>
@@ -1214,15 +1214,15 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la souris</translation>
     </message>
     <message>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>activé</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>désactivé</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1884,11 +1884,11 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la souris</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>désactivé</translation>
     </message>
     <message>
         <source>File %1 not found.</source>

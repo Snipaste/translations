@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Im Dateimanager anzeigen</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -347,7 +347,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Hilfslinien beim Ausschneiden ein-/ausblenden</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -684,7 +684,7 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>for Windows XP</source>
-        <translation type="unfinished"></translation>
+        <translation>für Windows XP</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -692,15 +692,15 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>für Windows-Desktop</translation>
     </message>
     <message>
         <source>for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>für macOS</translation>
     </message>
     <message>
         <source>for Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>für Linux</translation>
     </message>
     <message>
         <source>For XP</source>
@@ -1169,7 +1169,7 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad zur Quelldatei kopieren</translation>
     </message>
     <message>
         <source>Copy plain text</source>
@@ -1285,15 +1285,15 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Mouse click-through</translation>
     </message>
     <message>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>an</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>aus</translation>
     </message>
     <message>
         <source>Destroy</source>
@@ -1899,11 +1899,11 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Mouse click-through</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>aus</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
