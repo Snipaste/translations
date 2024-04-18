@@ -121,7 +121,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra nel File Manager</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -349,7 +349,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra/nascondi le linee ausiliarie durante il ritaglio</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -674,7 +674,7 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>for Windows XP</source>
-        <translation type="unfinished"></translation>
+        <translation>per Windows XP</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -682,15 +682,15 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>per Windows Desktop</translation>
     </message>
     <message>
         <source>for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>per macOS</translation>
     </message>
     <message>
         <source>for Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>per Linux</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1202,7 +1202,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia il percorso del file di origine</translation>
     </message>
     <message>
         <source>Copy plain text</source>
@@ -1330,15 +1330,15 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Click-attraverso del mouse</translation>
     </message>
     <message>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>acceso</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>spento</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1892,11 +1892,11 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Click-attraverso del mouse</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>spento</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
