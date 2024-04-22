@@ -694,7 +694,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation>Window 桌面版</translation>
+        <translation>Windows 桌面版</translation>
     </message>
     <message>
         <source>for macOS</source>
