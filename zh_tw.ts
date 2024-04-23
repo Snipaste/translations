@@ -1170,7 +1170,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation>複製原始檔路徑</translation>
+        <translation>複製 原始檔路徑</translation>
     </message>
     <message>
         <source>Copy plain text</source>
