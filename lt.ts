@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation>Ar jūs turite įrašymo prieigą/teisę į %1?</translation>
+        <translation>Ar jūs turite įrašymo prieigą/teisę į „%1“?</translation>
     </message>
     <message>
         <source>Saved successfully.</source>
@@ -167,11 +167,11 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation>Klavišų nurodymai/priskirimai</translation>
+        <translation>Klavišų nurodymai/priskyrimai</translation>
     </message>
     <message>
         <source>Command Line Options</source>
-        <translation>Komandinės eilutės nustatymai/parametrai</translation>
+        <translation>Komandinės eilutės nustatymai/parametrai/parinktys</translation>
     </message>
     <message>
         <source>Advanced Configs</source>
@@ -309,11 +309,11 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
         <source>Copy the plain text (if this image is converted from text)</source>
-        <translation>Kopijuoti tiesioginį tekstą (jeigu ši nuotrauka/vaizdas/iškarpa/paveikslėlis yra konvertuoti iš teksto)</translation>
+        <translation>Kopijuoti tiesioginį tekstą (jeigu ši/-s nuotrauka/vaizdas/iškarpa/paveikslėlis yra konvertuoti iš teksto)</translation>
     </message>
     <message>
         <source>Replace the image with the content in the clipboard</source>
-        <translation>Pakeisti nuotrauką/vaizdą/iškarpą/paveikslėlį su turiniu mainų srityje</translation>
+        <translation>Pakeisti nuotrauką/vaizdą/iškarpą/paveikslėlį su turiniu mainų srityje/iškarpinėje</translation>
     </message>
     <message>
         <source>Open the Preferences Dialog</source>
@@ -433,7 +433,7 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation>Sumažinti/padidinti rašyklio plotį, jei redagavimo režime</translation>
+        <translation>Sumažinti/Padidinti rašiklio plotį, jei redagavimo režime</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
@@ -702,7 +702,7 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>-bit</source>
-        <translation>-bitas</translation>
+        <translation>-bitas/-ai/-ų</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -928,7 +928,7 @@ Pasidalykite jais su draugais!</translation>
     </message>
     <message>
         <source>Existing image windows</source>
-        <translation>Aktyvios nuotraukų/vaizdų/iškarpų/paveikslėlių langai</translation>
+        <translation>Aktyvios/-ūs nuotraukų/vaizdų/iškarpų/paveikslėlių langai</translation>
     </message>
     <message>
         <source>Same as %1</source>
@@ -972,7 +972,7 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
-        <translation>Stačiakampis/elipsė</translation>
+        <translation>Stačiakampis/Elipsė</translation>
     </message>
     <message>
         <source>Line strip</source>
@@ -1111,7 +1111,7 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
-        <translation>Stačiakampis/elipsė</translation>
+        <translation>Stačiakampis/Elipsė</translation>
     </message>
     <message>
         <source>Line strip</source>
@@ -1162,7 +1162,7 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Nuotraukos/Vaizdai/İškarpos/paveikslėliai</translation>
+        <translation>Nuotraukos/Vaizdai/İškarpos/Paveikslėliai</translation>
     </message>
     <message>
         <source>All files</source>
@@ -1384,7 +1384,7 @@ Pelės paspaudimo per pelę veiksmą galite rasti jo sparčiuoju klavišu „Par
     </message>
     <message>
         <source>Image processing</source>
-        <translation>Nuotraukos/vaizdo/iškarpos/paveikslėlio apdorojimas</translation>
+        <translation>Nuotraukos/Vaizdo/Iškarpos/Paveikslėlio apdorojimas</translation>
     </message>
     <message>
         <source>Previous frame</source>
@@ -1445,8 +1445,8 @@ Pelės paspaudimo per pelę veiksmą galite rasti jo sparčiuoju klavišu „Par
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation>Dvigubai paspaudus nuotraukos/vaizdo/iškarpos/paveikslėlio langą, jį uždarys.
-Jūs galite konfigūruoti šį veiksmą parametrų dialoge: Kontrolė – Pelė.</translation>
+        <translation>Dvigubai paspaudus nuotraukos/vaizdo/iškarpos/paveikslėlio langą, jį uždarys. 
+Jūs galite konfigūruoti šį veiksmą parametrų dialoge: Kontrolė/Valdymas – Pelė.</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
@@ -1669,11 +1669,11 @@ Spustelėkite bet kurį iš jų, kad visam laikui atšauktumėte šį pranešim�
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation>Išjungti / įjungti visuotinius sparčiuosius klavišus</translation>
+        <translation>Išjungti / Įjungti visuotinius sparčiuosius klavišus</translation>
     </message>
     <message>
         <source>Disable/Enable hot corners</source>
-        <translation>Išjungti / įjungti karštuosius kampus</translation>
+        <translation>Išjungti / Įjungti karštuosius kampus</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -1682,8 +1682,8 @@ Spustelėkite bet kurį iš jų, kad visam laikui atšauktumėte šį pranešim�
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Spartusis klavišas, skirtas perjungti po žymekliu esančio paveikslėlio paspaudimo režimą.
-Jei po žymekliu nėra jokios nuotraukos/Vaizdo/İškarpos/paveikslėlio lango, visi nespaudžiami paveikslėliai taps spaudžiamais.</translation>
+        <translation>Spartusis klavišas, skirtas perjungti po žymekliu esančio paveikslėlio paspaudimo režimą. 
+Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango, visi nespaudžiami paveikslėliai taps spaudžiamais.</translation>
     </message>
     <message>
         <source>Show tray menu</source>
@@ -1888,7 +1888,7 @@ Jei po žymekliu nėra jokios nuotraukos/Vaizdo/İškarpos/paveikslėlio lango, 
     </message>
     <message>
         <source>Failed to save the image!</source>
-        <translation>Nepavyko išsaugoti nuotrauką/vaizdą/iškarpą/paveikslėlį!</translation>
+        <translation>Nepavyko išsaugoti nuotraukos/vaizdo/iškarpos/paveikslėlio!</translation>
     </message>
     <message>
         <source>Mouse click-through</source>
@@ -1984,7 +1984,7 @@ Jei po žymekliu nėra jokios nuotraukos/Vaizdo/İškarpos/paveikslėlio lango, 
     </message>
     <message>
         <source>Export image group(s)</source>
-        <translation>Eksportuoti nuotraukų/vaizdų/iškarpų/paveikslėlių grupe/-s</translation>
+        <translation>Eksportuoti nuotraukų/vaizdų/iškarpų/paveikslėlių grupę/-es</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
@@ -2007,7 +2007,7 @@ Jei po žymekliu nėra jokios nuotraukos/Vaizdo/İškarpos/paveikslėlio lango, 
     <name>Snipaste::PGroup</name>
     <message>
         <source>Default</source>
-        <translation>Numatyta</translation>
+        <translation>Numatyta/-s</translation>
     </message>
 </context>
 <context>
@@ -2167,7 +2167,7 @@ Jei po žymekliu nėra jokios nuotraukos/Vaizdo/İškarpos/paveikslėlio lango, 
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation>Licencija leidžia jums naudoti „Snipaste 2“ visam laikui su visais 2.x atnaujinimais.</translation>
+        <translation>Licencija leidžia jums naudoti „Snipaste 2“ visam laikui su visais „2.x“ atnaujinimais.</translation>
     </message>
     <message>
         <source>Enter license key:</source>
@@ -2259,7 +2259,7 @@ Jei po žymekliu nėra jokios nuotraukos/Vaizdo/İškarpos/paveikslėlio lango, 
     <name>groupmanager</name>
     <message>
         <source>Image groups:</source>
-        <translation>Nuotraukų/vaizdų/iškarpų/paveikslėlių grupes:</translation>
+        <translation>Nuotraukų/Vaizdų/İškarpų/Paveikslėlių grupės:</translation>
     </message>
     <message>
         <source>Manage Groups</source>
@@ -2325,7 +2325,7 @@ Jei po žymekliu nėra jokios nuotraukos/Vaizdo/İškarpos/paveikslėlio lango, 
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Įveskite kableliais atskirtus vykdomųjų programų pavadinimus ir kelius (pvz., a.exe, games/*)</translation>
+        <translation>Įveskite kableliais atskirtus vykdomųjų programų pavadinimus ir kelius (pvz., a.exe, žaidimai/*)</translation>
     </message>
 </context>
 <context>
@@ -2489,7 +2489,7 @@ Jei po žymekliu nėra jokios nuotraukos/Vaizdo/İškarpos/paveikslėlio lango, 
     </message>
     <message>
         <source>px</source>
-        <translation>pikselis</translation>
+        <translation>pikselis/-iai/-ių</translation>
     </message>
     <message>
         <source>Mask color:</source>
@@ -2573,7 +2573,7 @@ Jei po žymekliu nėra jokios nuotraukos/Vaizdo/İškarpos/paveikslėlio lango, 
     </message>
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
-        <translation>Taip pat galite laikinai perjungti paspausdami klavišą „Tab“, kai užfiksuojate.</translation>
+        <translation>Taip pat galite laikinai perjungti paspausdami klavišą – „Tab“, kai užfiksuojate.</translation>
     </message>
     <message>
         <source>Capture the cursor by default.</source>
@@ -2587,8 +2587,8 @@ Jei po žymekliu nėra jokios nuotraukos/Vaizdo/İškarpos/paveikslėlio lango, 
         <source>Let the image be copied as Windows Bitmap, so that you
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
-        <translation>Leisti nuotraukų/vaizdų/iškarpų/paveikslėlių būti kopijuojami kaip „Windows Bitmap“, kad galėtumėte
-juos įklijuoti į specialias programas, pavyzdžiui, „Skype“.
+        <translation>Leisti nuotraukų/vaizdų/iškarpų/paveikslėlių būti kopijuojami kaip „Windows Bitmap“, kad galėtumėte 
+juos įklijuoti į specialias programas, pavyzdžiui – „Skype“. 
 Tačiau per tą laiką prarandamas vaizdo alfa kanalas.</translation>
     </message>
     <message>
@@ -2637,7 +2637,7 @@ Tačiau per tą laiką prarandamas vaizdo alfa kanalas.</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
-        <translation>Nustatyti maksimalų istorijos įrašų, kurie saugomi „history/snip“, skaičių.</translation>
+        <translation>Nustatyti maksimalų istorijos įrašų skaičių, kurie saugomi „history/snip“.</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -2706,7 +2706,7 @@ Tačiau per tą laiką prarandamas vaizdo alfa kanalas.</translation>
     <message>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
-        <translation>Nustatyti numatytąjį naujų nuotraukų/vaizdų/iškarpų/paveikslėlių langų neskaidrumą.
+        <translation>Nustatyti numatytąjį naujų nuotraukų/vaizdų/iškarpų/paveikslėlių langų neskaidrumą. 
 Diapazonas: 10 - 100</translation>
     </message>
     <message>
@@ -2716,7 +2716,7 @@ Diapazonas: 10 - 100</translation>
     <message>
         <source>Let new image windows have shadows.
 You can also find this option in the context menu of individual image window.</source>
-        <translation>Leisti naujų nuotraukų/vaizdų/iškarpų/paveikslėlių langams turėti šešėlius.
+        <translation>Leisti naujų nuotraukų/vaizdų/iškarpų/paveikslėlių langams turėti šešėlius. 
 Šią parinktį taip pat galite rasti atskiro nuotraukų/vaizdų/iškarpų/paveikslėlių lango kontekstiniame meniu.</translation>
     </message>
     <message>
@@ -2731,7 +2731,7 @@ Jei išjungta, ji visada bus rodoma pagrindinio ekrano centre.</translation>
     </message>
     <message>
         <source>Zoom by mouse wheel</source>
-        <translation>Priartinti / atitolinti naudojant pelės ratuką</translation>
+        <translation>Priartinti / Atitolinti naudojant pelės ratuką</translation>
     </message>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
@@ -2748,7 +2748,7 @@ Jei išjungta, ji visada bus rodoma pagrindinio ekrano centre.</translation>
     <message>
         <source>Let new images use smooth scaling when zooming.
 You can also find this option in the context menu of individual image window.</source>
-        <translation>Leisti naujoms nuotraukoms/vaizdams/iškarpoms/paveikslėliams naudoti tolygų mastelio keitimą, kai jie priartinami.
+        <translation>Leisti naujoms nuotraukoms/vaizdams/iškarpoms/paveikslėliams naudoti tolygų mastelio keitimą, kai jie priartinami. 
 Šią parinktį taip pat galite rasti atskiros/-o nuotraukos/vaizdo/iškarpos/paveikslėlio lango kontekstiniame meniu.</translation>
     </message>
     <message>
@@ -2839,8 +2839,8 @@ You can also find this option in the context menu of individual image window.</s
         <source>If you copy an image file, the first paste will show the image, the second paste will show the file path.
 If you copy a non-image file, a paste will immediately show the file path.
 If this option is checked, the above features will be disabled.</source>
-        <translation>Jeigu Jūs kopijuojate nuotraukų/vaizdų/iškarpų/paveikslėlių failą, pirmas įklijavimas parodys jį, o kitas failų kelią.
-Jeigu Jūs kopijuosite ne-nuotraukų/vaizdų/iškarpų/paveikslėlių failą, įklijavus tiesiogiai parodys failo kelią.
+        <translation>Jeigu Jūs kopijuojate nuotraukų/vaizdų/iškarpų/paveikslėlių failą, pirmas įklijavimas parodys jį, o kitas failų kelią. 
+Jeigu Jūs kopijuosite ne-nuotraukų/vaizdų/iškarpų/paveikslėlių failą, įklijavus tiesiogiai parodys failo kelią. 
 Jeigu šis pasirinkimas bus pažymėtas, viršuje pažymėtos funkcijos bus neįjungtos.</translation>
     </message>
     <message>
@@ -2953,7 +2953,7 @@ Nurodykite -1, kad „Snipaste“ nuspręstų už jus.</translation>
     </message>
     <message>
         <source>Image Operations</source>
-        <translation>Nuotraukų/vaizdų/iškarpų/paveikslėlių operacijos</translation>
+        <translation>Nuotraukų/Vaizdų/İškarpų/Paveikslėlių operacijos</translation>
     </message>
     <message>
         <source>Close image:</source>
@@ -3181,7 +3181,7 @@ Užfiksuodami pasieksite geresnį atsako laiką.</translation>
     </message>
     <message>
         <source>Image windows</source>
-        <translation>Nuotraukų/vaizdų/iškarpų/paveikslėlių langai</translation>
+        <translation>Nuotraukų/Vaizdų/İškarpų/Paveikslėlių langai</translation>
     </message>
     <message>
         <source>File</source>
@@ -3229,7 +3229,7 @@ Užfiksuodami pasieksite geresnį atsako laiką.</translation>
     </message>
     <message>
         <source>Trigger delay:</source>
-        <translation>Paspaudimo / paleidimo atidėjimas:</translation>
+        <translation>Paspaudimo / Paleidimo atidėjimas:</translation>
     </message>
     <message>
         <source>ms</source>
@@ -3281,7 +3281,7 @@ Užfiksuodami pasieksite geresnį atsako laiką.</translation>
     </message>
     <message>
         <source>No &apos;#&apos;</source>
-        <translation>Nr. &apos;#&apos;</translation>
+        <translation>Nr. „#“</translation>
     </message>
     <message>
         <source>Uppercase Hex</source>
@@ -3309,7 +3309,7 @@ Užfiksuodami pasieksite geresnį atsako laiką.</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation>Dažnis</translation>
+        <translation>Dažnis / Įvertinti</translation>
     </message>
     <message>
         <source>Automatically backup the status of the snipping window as well as the image windows, so that they can be recovered the next time you open Snipaste.</source>
@@ -3333,7 +3333,7 @@ Užfiksuodami pasieksite geresnį atsako laiką.</translation>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation>Taip pat galite rodyti / slėpti užfiksuota pelės žymeklį naudodami ` arba ! klavišą, kai užfiksuojate.</translation>
+        <translation>Taip pat galite rodyti / slėpti užfiksuota pelės žymeklį naudodami „`“ arba „!“ klavišą, kai užfiksuojate.</translation>
     </message>
     <message>
         <source>Keys</source>
@@ -3370,7 +3370,7 @@ Užfiksuodami pasieksite geresnį atsako laiką.</translation>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
-        <translation>Uždarytos nuotraukos/vaizdo/iškarpos/paveikslėlio langą galima atkurti dar kartą įklijuojant, jei uždarytų nuotraukų/vaizdų/iškarpų/paveikslėlių skaičius nesiekia ribos.
+        <translation>Uždarytos nuotraukos/vaizdo/iškarpos/paveikslėlio langą galima atkurti dar kartą įklijuojant, jei uždarytų nuotraukų/vaizdų/iškarpų/paveikslėlių skaičius nesiekia ribos. 
 Pasiekus ribą, seniausios nuotraukos/vaizdai/iškarpos/paveikslėliai bus sunaikinti.</translation>
     </message>
     <message>
@@ -3411,7 +3411,7 @@ Pasiekus ribą, seniausios nuotraukos/vaizdai/iškarpos/paveikslėliai bus sunai
     </message>
     <message>
         <source>Hide all image windows when File Dialog is shown</source>
-        <translation>Paslėpti visas nuotraukų/vaizdų/iškarpų/paveikslėlių langus, kai rodomas failų dialogo langas</translation>
+        <translation>Paslėpti visas/-us nuotraukų/vaizdų/iškarpų/paveikslėlių langus, kai rodomas failų dialogo langas</translation>
     </message>
     <message>
         <source>Ignored list:</source>
@@ -3419,7 +3419,7 @@ Pasiekus ribą, seniausios nuotraukos/vaizdai/iškarpos/paveikslėliai bus sunai
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Įveskite kableliais atskirtus vykdomųjų programų pavadinimus ir kelius (pvz., a.exe, games/*)</translation>
+        <translation>Įveskite kableliais atskirtus vykdomųjų programų pavadinimus ir kelius (pvz., a.exe, žaidimai/*)</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -3464,13 +3464,13 @@ Pasiekus ribą, seniausios nuotraukos/vaizdai/iškarpos/paveikslėliai bus sunai
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation>Iš naujo paleiskite „Snipaste“, kad pakeitimas įsigaliotų.
-Kad būtų rodomas mygtukas &quot;Dalintis&quot;, „Snipaste“ neturi būti paleistas kaip padidintas.</translation>
+        <translation>Iš naujo paleiskite „Snipaste“, kad pakeitimas įsigaliotų. 
+Kad būtų rodomas mygtukas „Dalintis“, „Snipaste“ neturi būti paleistas paaukštintomis teisėmis.</translation>
     </message>
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation>Jei pažymėta, nuotraukų / vaizdų / iškarpų / paveikslėlių langai nebus keičiamo mastelio, kai jie bus perkeliami į skirtingus „DPI“ ekranus.
+        <translation>Jei pažymėta, nuotraukų / vaizdų / iškarpų / paveikslėlių langai nebus keičiamo mastelio, kai jie bus perkeliami į skirtingus „DPI“ ekranus. 
 Tai taip pat naudinga nuotolinio darbalaukio jungtims, kad būtų išlaikytas langų išdėstymas.</translation>
     </message>
     <message>
@@ -3489,7 +3489,7 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     </message>
     <message>
         <source>Remember last used image extension</source>
-        <translation>Prisiminti paskutinį naudotą nuotraukos/vaizdo/İškarpos/paveikslėlio plėtinį</translation>
+        <translation>Prisiminti paskutinį naudotą nuotraukos/vaizdo/iškarpos/paveikslėlio plėtinį</translation>
     </message>
     <message>
         <source>Copy image as file:</source>
