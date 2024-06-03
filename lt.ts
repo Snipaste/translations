@@ -2785,7 +2785,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Hide all images if you paste when any image is flashing</source>
-        <translation>Paslėpti visas nuotraukas/vaizdus/iškarpas/paveikslėlius , jei įklijuojate, kai kurią nors nuotrauką/vaizdą/iškarpą/paveikslėlį, kuri mirksi</translation>
+        <translation>Paslėpti visas nuotraukas/vaizdus/iškarpas/paveikslėlius, jei įklijuojate, kai kurią nors nuotrauką/vaizdą/iškarpą/paveikslėlį, kuri mirksi</translation>
     </message>
     <message>
         <source>If not checked, the original window will be automatically hidden for drag-and-drop.</source>
