@@ -1775,36 +1775,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Brak dostępnych aktualizacji.</translation>
     </message>
     <message>
-        <source>Manage groups</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Invalid command line options.</source>
         <translation>Błędna opcja wiersza poleceń.</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Przechwytywanie ekranu</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Wklej</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Ukryj wszystkie obrazy</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Pokaż wszystkie obrazy</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Wyczyść zapisy przechwytywania ekranu</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation></translation>
     </message>
     <message>
         <source>Images</source>
@@ -1815,52 +1787,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Zmień nazwę</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>Zamknij</translation>
-    </message>
-    <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Import image group</source>
         <translation>Importuj grupę obrazów</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>Usuń puste grupy</translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation>Pokaż obrazy</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Ustawienia...</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>Sprawdzanie aktualizacji...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>Aktualizuj teraz....</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Sprawdź aktualizacje...</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Pomoc</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1951,35 +1883,11 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Kliknij tu aby zaktualizować</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation></translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
         <translation></translation>
     </message>
     <message>
@@ -2044,6 +1952,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Wyczyść zapisy przechwytywania ekranu</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Przechwytywanie ekranu</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Wklej</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Obrazy</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Zmień nazwę</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Usuń puste grupy</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Stwórz nową grupę</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Ukryj wszystkie obrazy</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Pokaż obrazy</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Ustawienia...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Pomoc</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Sprawdzanie aktualizacji...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Aktualizuj teraz....</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Sprawdź aktualizacje...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -2659,10 +2666,6 @@ Kanał alpha obrazu jest utracony.</translation>
         <translation>Używaj pozycji zrzutu ekranu</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Przybliżaj kołem myszy</translation>
-    </message>
-    <message>
         <source>Enable hotkeys on the context menu of image windows.</source>
         <translation>Włącz klawisze skrótu menu kontekstowego na oknie obrazu.</translation>
     </message>
@@ -2845,10 +2848,6 @@ Jeżeli wyłączone, zawsze będzie pokazany na środku domyślnego ekranu.</tra
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>Jeżeli nie zaznaczone, przybliż do lewego górnego rogu.</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>na kursor myszy</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3484,6 +3483,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

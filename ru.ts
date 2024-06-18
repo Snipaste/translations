@@ -1787,40 +1787,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Нет доступных обновлений.</translation>
     </message>
     <message>
-        <source>Manage groups</source>
-        <translation>Управление группами</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
         <translation>Неверные параметры командной строки.</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Область</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Вставить</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Скрыть все изображения</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Показать все изображения</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Очистить записи области</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>Отключить горячии клавиши</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1831,48 +1803,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Переиминовать</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>Закрыть</translation>
-    </message>
-    <message>
         <source>Import image group</source>
         <translation>Импорт изображений группы</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>Удалить пустые группы</translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation>Показать изображения</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Настройки...</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Помощь</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>Проверка обновлений...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>Обновить сейчас...</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Проверить обновления...</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Перезапустить</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Выход</translation>
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
@@ -1963,36 +1895,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Нажмите здесь, чтобы обновить сейчас</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation>Создать новую группу</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>Отладка</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>Открыть файл журнала</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>Открыть файл конфигурации</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>Разблокировать «PRO»...</translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation>Экспортировать группу(ы) изображений</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
         <translation>Группы изображений «Snipaste»</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>Очистить файл логов</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2057,6 +1965,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation>Ошибка: не удалось обнаружить дисплей устройства. Перезапустите, пожалуйста, «Snipaste».</translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Очистить записи области</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Область</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Вставить</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>Отключить горячии клавиши</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Изображения</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Переиминовать</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Закрыть</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Удалить пустые группы</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Создать новую группу</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>Управление группами</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Скрыть все изображения</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Показать изображения</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Настройки...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>Отладка</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>Открыть файл конфигурации</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>Открыть файл журнала</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>Очистить файл логов</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Помощь</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Проверка обновлений...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Обновить сейчас...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Проверить обновления...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>Разблокировать «PRO»...</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Перезапустить</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Выход</translation>
     </message>
 </context>
 <context>
@@ -2730,16 +2737,8 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <translation>Использовать положение выделенной области</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Масштабировать колесиком мыши</translation>
-    </message>
-    <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>Если флажок не установлен, увеличьте изображение взявшись за верхний левый угол.</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>курсор мыши</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3502,6 +3501,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Disable</source>
         <translation>Отключить</translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

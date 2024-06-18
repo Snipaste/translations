@@ -1783,30 +1783,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>Snipaste</name>
     <message>
-        <source>Quit</source>
-        <translation>終了</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>切り取り</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>閉じる</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>更新をチェック…</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>貼り付け</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>すべての画像を表示する</translation>
-    </message>
-    <message>
         <source>is already running.</source>
         <translation>すでに実行中。</translation>
     </message>
@@ -1831,40 +1807,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>名前を変更する</translation>
     </message>
     <message>
-        <source>Show images</source>
-        <translation>画像を表示する</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>空グループを削除する</translation>
-    </message>
-    <message>
         <source>Save image as</source>
         <translation>画像を保存する</translation>
     </message>
     <message>
         <source>New group name:</source>
         <translation>新規グループ名:</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>更新…</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>切り取りの記録を削除する</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>環境設定…</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>すべての画像を非表示する</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>アップデートをチェックしています…</translation>
     </message>
     <message>
         <source>Import image group</source>
@@ -1931,28 +1879,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>画像の保存に失敗</translation>
     </message>
     <message>
-        <source>Help</source>
-        <translation>ヘルプ</translation>
-    </message>
-    <message>
         <source>No update available.</source>
         <translation>利用可能な更新はありません。</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
         <translation>無効なコマンドラインオプション。</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>再起動</translation>
-    </message>
-    <message>
-        <source>Manage groups</source>
-        <translation>グループの管理</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>ホットキーを無効にする</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -1963,36 +1895,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>ここをクリックして更新する</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation>新規グループを作成する</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>デバッグ</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>ログファイルを開く</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>配置ファイルを開く</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>PRO版を購入する...</translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation>画像グループをエクスポートする</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
         <translation>Snipaste画像グループ</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>ログファイルを削除する</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2057,6 +1965,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation>デバイス情報を獲得できず。ソフトを再起動してください。</translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>切り取りの記録を削除する</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>切り取り</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>貼り付け</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>ホットキーを無効にする</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>画像</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>名前を変更する</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>閉じる</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>空グループを削除する</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>新規グループを作成する</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>グループの管理</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>すべての画像を非表示する</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>画像を表示する</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>環境設定…</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>デバッグ</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>配置ファイルを開く</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>ログファイルを開く</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>ログファイルを削除する</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>ヘルプ</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>アップデートをチェックしています…</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>更新…</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>更新をチェック…</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>PRO版を購入する...</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>再起動</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>終了</translation>
     </message>
 </context>
 <context>
@@ -2686,10 +2693,6 @@ You can also find this option in the context menu of individual image window.</s
         <translation>バージョン</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>マウスホイールでズームする</translation>
-    </message>
-    <message>
         <source>Interface font:</source>
         <translation>インターフェイスのフォント:</translation>
     </message>
@@ -2898,10 +2901,6 @@ Range: 10 - 100</source>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>チェックされていない場合は、左上を基準にズームする。</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>マウスカーソルを中心に</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3501,6 +3500,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

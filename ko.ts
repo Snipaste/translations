@@ -1781,40 +1781,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>최신버전 입니다.</translation>
     </message>
     <message>
-        <source>Manage groups</source>
-        <translation>그룹 관리</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
         <translation>잘못된 명령 줄 옵션입니다.</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>캡쳐</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>붙이기</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>모든 이미지 숨기기</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>모든 이미지 보기</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>캡쳐 기록 삭제</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>단축키 비활성화</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1825,48 +1797,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>이름바꾸기</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>닫기</translation>
-    </message>
-    <message>
         <source>Import image group</source>
         <translation>이미지 그룹 가져오기</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>비어있는 그룹 제거</translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation>이미지 보기</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>환경설정...</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>도움말</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>업데이트 확인...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>지금 업데이트...</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>업데이트 확인...</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>재시작</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>종료</translation>
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
@@ -1958,36 +1890,12 @@ If no image window is under the cursor, all unclickable images will be made clic
 </translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation>새로운 그룹 생성</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>디버그</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>로그파일 열기</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>설정파일 열기</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>프로버전으로...</translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation>이미지 그룹 내보내기</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
         <translation>이미지 그룹 Snipaste하기</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>로그파일 삭제</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2052,6 +1960,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation>오류: 디스플레이 장치를 감지할 수 없습니다. Snipaste를 다시 시작하십시오.</translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>캡쳐 기록 삭제</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>캡쳐</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>붙이기</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>단축키 비활성화</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>이미지</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>이름바꾸기</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>닫기</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>비어있는 그룹 제거</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>새로운 그룹 생성</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>그룹 관리</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>모든 이미지 숨기기</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>이미지 보기</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>환경설정...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>디버그</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>설정파일 열기</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>로그파일 열기</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>로그파일 삭제</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>도움말</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>업데이트 확인...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>지금 업데이트...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>업데이트 확인...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>프로버전으로...</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>재시작</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>종료</translation>
     </message>
 </context>
 <context>
@@ -2722,16 +2729,8 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <translation>캡쳐 포지션 사용</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>마우스휠로 확대</translation>
-    </message>
-    <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>선택하지 않은 경우 왼쪽 상단으로 확대 / 축소합니다.</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>마우스커서로</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3489,6 +3488,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Disable</source>
         <translation>비활성화</translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

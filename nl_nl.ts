@@ -1783,18 +1783,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
 <context>
     <name>Snipaste</name>
     <message>
-        <source>Snip</source>
-        <translation>Knippen</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Plakken</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Alle afbeeldingen weergeven</translation>
-    </message>
-    <message>
         <source>Images</source>
         <translation>Afbeeldingen</translation>
     </message>
@@ -1803,56 +1791,12 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>Hernoemen</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>Sluiten</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Alle afbeeldingen verbergen</translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation>Afbeeldingen weergeven</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Opnamelijsten wissen</translation>
-    </message>
-    <message>
         <source>No update available.</source>
         <translation>Geen nieuwe versie beschikbaar.</translation>
     </message>
     <message>
         <source>Import image group</source>
         <translation>Afbeeldingengroep importeren</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Instellingen…</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>Nieuwe versie zoeken…</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>Nu vernieuwen…</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Nieuwe versie zoeken…</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Help</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Opnieuw starten</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Afsluiten</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1881,14 +1825,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>is already running.</source>
         <translation>is al actief.</translation>
-    </message>
-    <message>
-        <source>Manage groups</source>
-        <translation>Groepen beheren</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>Sneltoetsen uitschakelen</translation>
     </message>
     <message>
         <source>Save image as</source>
@@ -1951,10 +1887,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>Wil je &quot;%1&quot; sluiten? Dit kan niet ongedaan worden.</translation>
     </message>
     <message>
-        <source>Remove empty groups</source>
-        <translation>Lege groepen verwijderen</translation>
-    </message>
-    <message>
         <source>Snipaste %1 is released!</source>
         <translation>Snipaste %1 is uit!</translation>
     </message>
@@ -1963,36 +1895,12 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>Klik hier om direct te vernieuwen</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation>Nieuwe groep aanmaken</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>Debug</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>Logbestand openen</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>Config-bestand openen</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>PRO activeren…</translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation>Afbeeldingengroep(en) exporteren</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
         <translation>Snipaste afbeeldingengroepen</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>Logbestand wissen</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2058,6 +1966,105 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation>Fout: kan weergaveapparaat niet detecteren.
 Start Snipaste opnieuw op.</translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Opnamelijsten wissen</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Knippen</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Plakken</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>Sneltoetsen uitschakelen</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Afbeeldingen</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Hernoemen</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Sluiten</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Lege groepen verwijderen</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Nieuwe groep aanmaken</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>Groepen beheren</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Alle afbeeldingen verbergen</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Afbeeldingen weergeven</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Instellingen…</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>Debug</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>Config-bestand openen</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>Logbestand openen</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>Logbestand wissen</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Help</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Nieuwe versie zoeken…</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Nu vernieuwen…</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Nieuwe versie zoeken…</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>PRO activeren…</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Opnieuw starten</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Afsluiten</translation>
     </message>
 </context>
 <context>
@@ -2569,10 +2576,6 @@ De alfa-transparantie van de afbeelding gaat hiermee verloren.</translation>
         <translation>Indien niet geselecteerd; zoomen naar linker bovenhoek.</translation>
     </message>
     <message>
-        <source>at mouse cursor</source>
-        <translation>bij muiscursor</translation>
-    </message>
-    <message>
         <source>This may cause flickers.</source>
         <translation>Dit kan flikkeringen opleveren.</translation>
     </message>
@@ -2717,10 +2720,6 @@ Meld deze alsjeblieft als je ze tegenkomt.</translation>
     <message>
         <source>Use snipping position</source>
         <translation>Knip-positie gebruiken</translation>
-    </message>
-    <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Met muiswiel zoomen</translation>
     </message>
     <message>
         <source>Enable hotkeys on the context menu of image windows.</source>
@@ -3503,6 +3502,10 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     <message>
         <source>Disable</source>
         <translation>Uitschakelen</translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

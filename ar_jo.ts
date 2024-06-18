@@ -1772,36 +1772,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>Snipaste</name>
     <message>
-        <source>Help</source>
-        <translation>التعلىمات</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>هروب</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>قص</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>اغلاق</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>خطا</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>تحقق من التحديثات...</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>لصق</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>اظهار كل الصور</translation>
     </message>
     <message>
         <source>Import successful</source>
@@ -1848,10 +1820,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>رمز الخطا</translation>
     </message>
     <message>
-        <source>Show images</source>
-        <translation>اظهار الصور</translation>
-    </message>
-    <message>
         <source>Rename the imported group:</source>
         <translation>اعاده تسميه المجموعة المستوردة:</translation>
     </message>
@@ -1862,14 +1830,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Invalid command line options.</source>
         <translation>خيارات سطر الاوامر غير صالحه.</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>ازاله المجموعات الفارغة</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>تشغيل</translation>
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
@@ -1904,24 +1864,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>اسم المجموعة الجديد:</translation>
     </message>
     <message>
-        <source>Update now...</source>
-        <translation>التحديث الان...</translation>
-    </message>
-    <message>
         <source>Image saved to</source>
         <translation>حفظ الصورة الى</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>مسح سجلات القص</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>التفضيلات...</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>اخفاء كل الصور</translation>
     </message>
     <message>
         <source>This group already exists.</source>
@@ -1932,18 +1876,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>التبديل الى المجموعة المستوردة</translation>
     </message>
     <message>
-        <source>Checking for updates...</source>
-        <translation>تحقق من وجود تحديثات...</translation>
-    </message>
-    <message>
-        <source>Manage groups</source>
-        <translation>اداره المجموعات</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>تعطيل مفاتيح الاختصار</translation>
-    </message>
-    <message>
         <source>Snipaste %1 is released!</source>
         <translation>تم الافراج عن القصاصات%1!</translation>
     </message>
@@ -1952,36 +1884,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation> انقر هنا لتحديث الان</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation>انشاء مجموعة جديدة</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>التصحيح</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>فتح ملف السجل</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>فتح ملف التكوين</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>فك قفل المحترف...</translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation>تصدير مجموعات الصور</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
         <translation>مجموعات الصور قص لصق</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>مسح ملف السجل</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2045,6 +1953,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation>خطأ: لا يمكن الكشف عن جهاز العرض. الرجاء إعادة تشغيل Snipaste.</translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>مسح سجلات القص</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>قص</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>لصق</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>تعطيل مفاتيح الاختصار</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>الصور</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>تسمية</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>اغلاق</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>ازاله المجموعات الفارغة</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>انشاء مجموعة جديدة</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>اداره المجموعات</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>اخفاء كل الصور</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>اظهار الصور</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>التفضيلات...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>التصحيح</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>فتح ملف التكوين</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>فتح ملف السجل</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>مسح ملف السجل</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>التعلىمات</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>تحقق من وجود تحديثات...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>التحديث الان...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>تحقق من التحديثات...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>فك قفل المحترف...</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>تشغيل</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>هروب</translation>
     </message>
 </context>
 <context>
@@ -2494,10 +2501,6 @@ Specify -1 to let Snipaste decide for you.</source>
         <translation>تمكين مفاتيح الاختصار في قائمه سياق اطارات الصور.</translation>
     </message>
     <message>
-        <source>at mouse cursor</source>
-        <translation>عند مؤشر الماوس</translation>
-    </message>
-    <message>
         <source>Background</source>
         <translation>خلفية</translation>
     </message>
@@ -2901,10 +2904,6 @@ If this option is checked, the above features will be disabled.</source>
     <message>
         <source>As administrator</source>
         <translation>كمسؤول</translation>
-    </message>
-    <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>تكبير بواسطة عجله الماوس</translation>
     </message>
     <message>
         <source>Interface font:</source>
@@ -3473,6 +3472,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

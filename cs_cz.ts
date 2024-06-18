@@ -1789,30 +1789,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Chybná volba příkazového řádku.</translation>
     </message>
     <message>
-        <source>Snip</source>
-        <translation>Vystřihnout</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Vložit</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Skrýt všechny obrázky</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Zobrazit všechny obrázky</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Vyčistit záznamy výstřižků</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Images</source>
         <translation>Obrázky</translation>
     </message>
@@ -1821,76 +1797,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Přejmenovat</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>Zavřít</translation>
-    </message>
-    <message>
         <source>Import image group</source>
         <translation>Import skupiny obrázků</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>Odstranit prázdné skupiny</translation>
-    </message>
-    <message>
-        <source>Create new group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation>Zobrazit obrázky</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Předvolby...</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>Ladění</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>Otevřít soubor protokolu</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Návod</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>Kontrola aktualizací...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>Nyní aktualizovat...</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Zkontrolovat aktualizace...</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Restartovat</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Konec</translation>
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
@@ -2042,6 +1950,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Vyčistit záznamy výstřižků</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Vystřihnout</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Vložit</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Obrázky</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Přejmenovat</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Zavřít</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Odstranit prázdné skupiny</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Vytvořit novou skupinu</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Skrýt všechny obrázky</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Zobrazit obrázky</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Předvolby...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>Ladění</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>Otevřít soubor protokolu</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Návod</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Kontrola aktualizací...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Nyní aktualizovat...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Zkontrolovat aktualizace...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Restartovat</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Konec</translation>
     </message>
 </context>
 <context>
@@ -2811,16 +2818,8 @@ Rozsah: 10 - 100</translation>
         <translation>Použíjt pozici výstřihávání</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Přiblížení pomocí kolečka myši</translation>
-    </message>
-    <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>Pokud není zaškrtnuto, bude zvětšováno k levému hornímu rohu.</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>kurzorem myši</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3479,6 +3478,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

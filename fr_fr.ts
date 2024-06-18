@@ -1783,36 +1783,8 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
 <context>
     <name>Snipaste</name>
     <message>
-        <source>Help</source>
-        <translation>Aide</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Quitter</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Record</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Fermer</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Erreur</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Vérifier les mises à jour...</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Coller</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Afficher toutes les images</translation>
     </message>
     <message>
         <source>Import successful</source>
@@ -1859,10 +1831,6 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Code Erreur</translation>
     </message>
     <message>
-        <source>Show images</source>
-        <translation>Afficher images</translation>
-    </message>
-    <message>
         <source>Rename the imported group:</source>
         <translation>Renommer le groupe importé:</translation>
     </message>
@@ -1873,10 +1841,6 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <message>
         <source>Invalid command line options.</source>
         <translation>Options de ligne de commande non valides.</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>Supprimer les groupes vides</translation>
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
@@ -1911,24 +1875,8 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Nouveau nom de groupe:</translation>
     </message>
     <message>
-        <source>Update now...</source>
-        <translation>Mettre à jour maintenant...</translation>
-    </message>
-    <message>
         <source>Image saved to</source>
         <translation>Image enregistrée dans</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Effacer enregistrements de snip</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Préférences...</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Masquer toutes les images</translation>
     </message>
     <message>
         <source>This group already exists.</source>
@@ -1939,22 +1887,6 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Basculer vers le groupe importé</translation>
     </message>
     <message>
-        <source>Checking for updates...</source>
-        <translation>Vérification des mises à jour...</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Redémarrer</translation>
-    </message>
-    <message>
-        <source>Manage groups</source>
-        <translation>Gérer les groupes</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>Désactiver raccourcis clavier</translation>
-    </message>
-    <message>
         <source>Snipaste %1 is released!</source>
         <translation>Snipaste %1 a été publiée!</translation>
     </message>
@@ -1963,36 +1895,12 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Cliquez ici pour mettre à jour maintenant</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation>Créer un nouveau groupe</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>Déboguer</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>Ouvrir le fichier journal</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>Ouvrir fichier de configuration</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>Déverrouiller PRO...</translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation>Exporter le(s) groupe(s) d&apos;images</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
         <translation>Groupes d&apos;images Snipaste</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>Effacer fichier journal</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2057,6 +1965,105 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation>Erreur: impossible de détecter le périphérique d&apos;affichage. Veuillez redémarrer Snipaste.</translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Effacer enregistrements de snip</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Record</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Coller</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>Désactiver raccourcis clavier</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Images</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Renommer</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fermer</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Supprimer les groupes vides</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Créer un nouveau groupe</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>Gérer les groupes</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Masquer toutes les images</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Afficher images</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Préférences...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>Déboguer</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>Ouvrir fichier de configuration</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>Ouvrir le fichier journal</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>Effacer fichier journal</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Aide</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Vérification des mises à jour...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Mettre à jour maintenant...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Vérifier les mises à jour...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>Déverrouiller PRO...</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Redémarrer</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Quitter</translation>
     </message>
 </context>
 <context>
@@ -2492,10 +2499,6 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Activer raccourcis clavier dans menu contextuel des fenêtres d&apos;image.</translation>
     </message>
     <message>
-        <source>at mouse cursor</source>
-        <translation>Au curseur de la souris</translation>
-    </message>
-    <message>
         <source>Background</source>
         <translation>Arrière-plan</translation>
     </message>
@@ -2830,10 +2833,6 @@ Si cette option est cochée, les fonctionnalités ci-dessus seront désactivées
     <message>
         <source>As administrator</source>
         <translation>En tant qu&apos;administrateur</translation>
-    </message>
-    <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Zoom par molette de la souris</translation>
     </message>
     <message>
         <source>Interface font:</source>
@@ -3502,6 +3501,10 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
     <message>
         <source>Disable</source>
         <translation>Désactiver</translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

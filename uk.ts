@@ -1787,103 +1787,11 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear snip records</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Images</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create new group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2039,6 +1947,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2708,15 +2715,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>If not checked, zoom to the top-left corner.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3468,6 +3467,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

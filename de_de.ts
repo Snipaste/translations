@@ -1782,18 +1782,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
 <context>
     <name>Snipaste</name>
     <message>
-        <source>Snip</source>
-        <translation>Aufnehmen</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Einfügen</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Alle Bilder zeigen</translation>
-    </message>
-    <message>
         <source>Images</source>
         <translation>Bilder</translation>
     </message>
@@ -1802,56 +1790,12 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>Umbenennen</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>Schließen</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Alle Bilder verbergen</translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation>Bilder zeigen</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Aufnahme-Einträge löschen</translation>
-    </message>
-    <message>
         <source>No update available.</source>
         <translation>Kein Update verfügbar.</translation>
     </message>
     <message>
         <source>Import image group</source>
         <translation>Bildgruppe importieren</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Einstellungen...</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>Suche nach Updates...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>Jetzt aktualisieren...</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Nach Updates suchen...</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Hilfe</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Neustart</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Beenden</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1880,14 +1824,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>is already running.</source>
         <translation>läuft bereits.</translation>
-    </message>
-    <message>
-        <source>Manage groups</source>
-        <translation>Gruppen verwalten</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>Hotkeys deaktivieren</translation>
     </message>
     <message>
         <source>Save image as</source>
@@ -1950,10 +1886,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>Möchten Sie &quot;%1&quot; wirklich schließen? Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
-        <source>Remove empty groups</source>
-        <translation>Leere Gruppen löschen</translation>
-    </message>
-    <message>
         <source>Snipaste %1 is released!</source>
         <translation>Snipaste %1 wurde veröffentlicht!</translation>
     </message>
@@ -1962,36 +1894,12 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>Hier klicken um jetzt upzudaten</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation>Erstelle neue Gruppe</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>Debuggen</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>Öffne Protokolldatei</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>Öffne Konfigurationsdatei</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>Schalte PRO frei...</translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation>Exportiere Bildgruppe/n</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
         <translation>Snipaste Bildgruppen</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>Protokolldatei löschen</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2056,6 +1964,105 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation>Fehler: Anzeigegerät kann nicht erkannt werden. Bitte starten Sie Snipaste neu.</translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Aufnahme-Einträge löschen</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Aufnehmen</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>Hotkeys deaktivieren</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Bilder</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Umbenennen</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Leere Gruppen löschen</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Erstelle neue Gruppe</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>Gruppen verwalten</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Alle Bilder verbergen</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Bilder zeigen</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Einstellungen...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>Debuggen</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>Öffne Konfigurationsdatei</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>Öffne Protokolldatei</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>Protokolldatei löschen</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Hilfe</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Suche nach Updates...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Jetzt aktualisieren...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Nach Updates suchen...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>Schalte PRO frei...</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Neustart</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Beenden</translation>
     </message>
 </context>
 <context>
@@ -2646,10 +2653,6 @@ Falls deaktiviert, immer zentriert auf dem primären Bildschirm anzeigen.</trans
         <translation>Wenn nicht angehakt, Zoom in die obere linke Ecke.</translation>
     </message>
     <message>
-        <source>at mouse cursor</source>
-        <translation>bei Mauszeiger</translation>
-    </message>
-    <message>
         <source>This may cause flickers.</source>
         <translation>Kann zum Flackern führen.</translation>
     </message>
@@ -2692,10 +2695,6 @@ Falls deaktiviert, immer zentriert auf dem primären Bildschirm anzeigen.</trans
     <message>
         <source>Use snipping position</source>
         <translation>Aufnahmeposition verwenden</translation>
-    </message>
-    <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Zoom per Mausrad</translation>
     </message>
     <message>
         <source>Smooth scaling</source>
@@ -3499,6 +3498,10 @@ Wenn diese Option nicht aktiviert ist, kann nur die aktive Art von Anmerkungen b
     <message>
         <source>Disable</source>
         <translation>Deaktivieren</translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

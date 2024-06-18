@@ -1772,40 +1772,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Bản cập nhật không có sẵn.</translation>
     </message>
     <message>
-        <source>Manage groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
         <translation>Tùy chọn dòng lệnh không hợp lệ.</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Snip</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Dán</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Ẩn tất cả ảnh</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Hiện thị tất cả ảnh</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>xóa snip đã lưu</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images</source>
@@ -1816,52 +1788,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Đổi tên</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>Đóng</translation>
-    </message>
-    <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Import image group</source>
         <translation>Thêm hình ảnh vào nhóm</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>Di chuyển nhóm trống</translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation>Hiện hình ảnh</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Sở thích...</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>Đang kiểm tra cập nhật...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>Cập nhật bây giờ...</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Kiểm tra cập nhật...</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Giúp đỡ</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Thoát</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1948,35 +1880,11 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Nhắp ở đây để cập nhật ngay bây giờ</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2041,6 +1949,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>xóa snip đã lưu</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Snip</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Dán</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Hình ảnh</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Đổi tên</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Đóng</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Di chuyển nhóm trống</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Tạo nhóm mới</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Ẩn tất cả ảnh</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Hiện hình ảnh</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Sở thích...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Giúp đỡ</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Đang kiểm tra cập nhật...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Cập nhật bây giờ...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Kiểm tra cập nhật...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Thoát</translation>
     </message>
 </context>
 <context>
@@ -2669,16 +2676,8 @@ Range: 10 - 100</source>
         <translation>Sử dụng vị trí snipping</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Phóng to bằng lăn chuột</translation>
-    </message>
-    <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>Nếu không được kiểm tra, phóng to tới góc trên bên trái.</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>Tại con trỏ chuột</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3473,6 +3472,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

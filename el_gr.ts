@@ -1783,22 +1783,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>Snipaste</name>
     <message>
-        <source>Quit</source>
-        <translation>Έξοδος</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Στιγμιότυπο</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Κλείσιμο</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Επικόλληση</translation>
-    </message>
-    <message>
         <source>is already running.</source>
         <translation>είναι ήδη σε λειτουργία.</translation>
     </message>
@@ -1811,44 +1795,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Μετονομασία</translation>
     </message>
     <message>
-        <source>Show images</source>
-        <translation>Εμφάνιση εικόνων</translation>
-    </message>
-    <message>
         <source>Save image as</source>
         <translation>Αποθήκευση εικόνας ως</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Απαλοιφή καταχωρήσεων στιγμιοτύπων</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Προτιμήσεις...</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Απόκρυψη όλων των εικόνων</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>Διαγραφή κενών ομάδων</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Εμφάνιση όλων των εικόνων</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>Έλεγχος για ενημερώσεις...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>Ενημέρωση τώρα...</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Έλεγχος για ενημερώσεις...</translation>
     </message>
     <message>
         <source>Failed to save the image!</source>
@@ -1931,28 +1879,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Δεν ήταν δυνατή η αποθήκευση της εικόνας στο</translation>
     </message>
     <message>
-        <source>Help</source>
-        <translation>Βοήθεια</translation>
-    </message>
-    <message>
         <source>No update available.</source>
         <translation>Δεν υπάρχει διαθέσιμη ενημέρωση.</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
         <translation>Μη έγκυρες επιλογές γραμμής εντολών.</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Επανεκκίνηση</translation>
-    </message>
-    <message>
-        <source>Manage groups</source>
-        <translation>Διαχείριση ομάδων</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>Απενεργοποίηση πλήκτρων προσβασης</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -1963,36 +1895,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Κάντε κλικ εδώ για ενημέρωση τώρα</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation>Δημιουργία νέας ομάδας</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>Εντοπισμός σφαλμάτων</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>Άνοιγμα αρχείου καταγραφής</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>Άνοιγμα αρχείου καταγραφής</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>Ξεκλείδωμα PRO...</translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation>Εξαγωγή ομάδας(ων) εικόνων</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
         <translation>Ομάδες εικόνων του Snipaste</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>Απαλοιφή αρχείου καταγραφής</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2056,6 +1964,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Απαλοιφή καταχωρήσεων στιγμιοτύπων</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Στιγμιότυπο</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Επικόλληση</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>Απενεργοποίηση πλήκτρων προσβασης</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Εικόνες</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Μετονομασία</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Κλείσιμο</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Διαγραφή κενών ομάδων</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Δημιουργία νέας ομάδας</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>Διαχείριση ομάδων</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Απόκρυψη όλων των εικόνων</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Εμφάνιση εικόνων</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Προτιμήσεις...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>Εντοπισμός σφαλμάτων</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>Άνοιγμα αρχείου καταγραφής</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>Άνοιγμα αρχείου καταγραφής</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>Απαλοιφή αρχείου καταγραφής</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Βοήθεια</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Έλεγχος για ενημερώσεις...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Ενημέρωση τώρα...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Έλεγχος για ενημερώσεις...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>Ξεκλείδωμα PRO...</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Επανεκκίνηση</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Έξοδος</translation>
     </message>
 </context>
 <context>
@@ -2569,10 +2576,6 @@ You can also find this option in the context menu of individual image window.</s
         <translation>Έκδοση</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Μεγέθυνση με τον τροχό του ποντικιού</translation>
-    </message>
-    <message>
         <source>Interface font:</source>
         <translation>Γραμματοσειρά περιβάλλοντος:</translation>
     </message>
@@ -2910,10 +2913,6 @@ Range: 10 - 100</source>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>Εάν δεν επιλεγεί, η εστίαση θα γίνει στην πάνω αριστερή γωνία.</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>στο δείκτη του ποντικιού</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3503,6 +3502,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

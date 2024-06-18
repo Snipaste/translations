@@ -1781,18 +1781,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>Snipaste</name>
     <message>
-        <source>Snip</source>
-        <translation>截屏</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>贴图</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>显示所有贴图</translation>
-    </message>
-    <message>
         <source>Images</source>
         <translation>贴图</translation>
     </message>
@@ -1801,56 +1789,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>重命名</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>关闭</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>隐藏所有贴图</translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation>显示贴图</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>清空截屏记录</translation>
-    </message>
-    <message>
         <source>No update available.</source>
         <translation>没有可用的更新。</translation>
     </message>
     <message>
         <source>Import image group</source>
         <translation>导入贴图组</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>首选项...</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>正在检查更新...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>更新新版...</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>检查更新...</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>帮助</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>重新启动</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>退出</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1875,14 +1819,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>is already running.</source>
         <translation>已经在运行。</translation>
-    </message>
-    <message>
-        <source>Manage groups</source>
-        <translation>管理贴图组</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>禁用快捷键</translation>
     </message>
     <message>
         <source>Save image as</source>
@@ -1945,36 +1881,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>确定要关闭 &quot;%1&quot; 吗？此操作将不能撤销。</translation>
     </message>
     <message>
-        <source>Remove empty groups</source>
-        <translation>清除空组</translation>
-    </message>
-    <message>
         <source>Snipaste %1 is released!</source>
         <translation>Snipaste %1 已经发布！</translation>
     </message>
     <message>
         <source>Click here to update now</source>
         <translation>点击这里马上更新</translation>
-    </message>
-    <message>
-        <source>Create new group</source>
-        <translation>创建新组</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>调试</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>打开日志文件</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>打开配置文件</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>解锁专业版...</translation>
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
@@ -1987,10 +1899,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Snipaste image groups</source>
         <translation>Snipaste 贴图组</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>清空日志文件</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2055,6 +1963,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation>无法获取显示设备信息，请重启 Snipaste.</translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>清空截屏记录</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>截屏</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>贴图</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>禁用快捷键</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>贴图</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>重命名</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>清除空组</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>创建新组</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>管理贴图组</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>隐藏所有贴图</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>显示贴图</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>首选项...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>调试</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>打开配置文件</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>打开日志文件</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>清空日志文件</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>帮助</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>正在检查更新...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>更新新版...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>检查更新...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>解锁专业版...</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>重新启动</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>退出</translation>
     </message>
 </context>
 <context>
@@ -2603,10 +2610,6 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <translation>使用截屏时的位置</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>使用鼠标滚轮进行缩放</translation>
-    </message>
-    <message>
         <source>Enable hotkeys on the context menu of image windows.</source>
         <translation>启用贴图窗口右键菜单的助记键。</translation>
     </message>
@@ -2714,10 +2717,6 @@ Range: 10 - 100</source>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>若取消勾选，会以图像左上角为锚点进行缩放。</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>以鼠标指针为中心</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3531,7 +3530,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Copy image as file:</source>
-        <translation>复制图像为文件</translation>
+        <translation>复制图像为文件:</translation>
     </message>
     <message>
         <source>Always</source>
@@ -3540,6 +3539,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Disable</source>
         <translation>禁用</translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
+        <translation>鼠标滚轮缩放时以指针为中心</translation>
     </message>
 </context>
 <context>

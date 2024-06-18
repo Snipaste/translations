@@ -1787,36 +1787,8 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <translation>Nenhuma atualização disponível.</translation>
     </message>
     <message>
-        <source>Manage groups</source>
-        <translation>Gerenciar grupos</translation>
-    </message>
-    <message>
         <source>Invalid command line options.</source>
         <translation>Opções inválidas da linha de comando.</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Recortar</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Colar</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Ocultar todas as imagens</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Exibir todas as imagens</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Limpar registros de recortes</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>Desativar teclas de atalho</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1827,52 +1799,12 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <translation>Renomear</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>Fechar</translation>
-    </message>
-    <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
         <translation>Deseja realmente fixar todas as imagens? (Número: %1)</translation>
     </message>
     <message>
         <source>Import image group</source>
         <translation>Importar grupo de imagens</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>Remover grupos vazios</translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation>Exibir imagens</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Preferências...</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>Verificando por atualizações...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>Atualizar agora...</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Verificar por atualizações...</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Ajuda</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Reiniciar</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Fechar</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1963,36 +1895,12 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <translation>Clique aqui para atualizar agora</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation>Criar novo grupo</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>Depuração</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>Abrir arquivo de log</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>Abrir arquivo de configuração</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>Desbloquear PRO...</translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation>Exportar grupo(s) de imagens</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
         <translation>Grupos de imagens do Snipaste</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>Limpar arquivo de log</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2057,6 +1965,105 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation>Erro: não foi possível detectar o dispositivo de exibição. Por favor, reinicie o Snipaste.</translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Limpar registros de recortes</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Recortar</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Colar</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>Desativar teclas de atalho</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Imagens</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Renomear</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fechar</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Remover grupos vazios</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Criar novo grupo</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>Gerenciar grupos</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Ocultar todas as imagens</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Exibir imagens</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Preferências...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>Depuração</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>Abrir arquivo de configuração</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>Abrir arquivo de log</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>Limpar arquivo de log</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Ajuda</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Verificando por atualizações...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Atualizar agora...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Verificar por atualizações...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>Desbloquear PRO...</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Reiniciar</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -2676,10 +2683,6 @@ No entanto, nesse meio tempo, o canal alfa da imagem é perdido.</translation>
         <translation>Usar posição de recorte</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Zoom pela roda do mouse</translation>
-    </message>
-    <message>
         <source>Enable hotkeys on the context menu of image windows.</source>
         <translation>Habilita as teclas de atalho no menu de contexto das janelas de imagem.</translation>
     </message>
@@ -2858,10 +2861,6 @@ Se desativado, sempre será exibido no centro da tela primária.</translation>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>Se não estiver marcado, dar zoom para o canto superior esquerdo.</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>no cursor do mouse</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3502,6 +3501,10 @@ Se desmarcado, somente o tipo ativo de anotação pode ser selecionado ao passar
     <message>
         <source>Disable</source>
         <translation>Desativar</translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

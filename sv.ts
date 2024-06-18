@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>BarcodeButton</name>
     <message>
@@ -1771,22 +1771,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>Snipaste</name>
     <message>
-        <source>Quit</source>
-        <translation>Avsluta</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Klipp</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Stäng</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Klistra in</translation>
-    </message>
-    <message>
         <source>is already running.</source>
         <translation>körs redan.</translation>
     </message>
@@ -1799,44 +1783,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Byt namn</translation>
     </message>
     <message>
-        <source>Show images</source>
-        <translation>Visa bilder</translation>
-    </message>
-    <message>
         <source>Save image as</source>
         <translation>Spara bild som</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Rensa klipposter</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Inställningar...</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Dölj alla bilder</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>Ta bort tomma grupper</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Visa alla bilder</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>Söker efter uppdateringar...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>Uppdatera nu...</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Sök efter uppdateringar...</translation>
     </message>
     <message>
         <source>Failed to save the image!</source>
@@ -1919,28 +1867,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Kunde inte spara bilden i</translation>
     </message>
     <message>
-        <source>Help</source>
-        <translation>Hjälp</translation>
-    </message>
-    <message>
         <source>No update available.</source>
         <translation>Det finns inga uppdateringar.</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
         <translation>Ogiltiga kommandoalternativ.</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Starta om</translation>
-    </message>
-    <message>
-        <source>Manage groups</source>
-        <translation>Hantera grupper</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>Inaktivera snabbtangenter</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -1951,35 +1883,11 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Klicka här för att uppdatera nu</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>Felsök</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>Öppna loggfilen</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2044,6 +1952,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Rensa klipposter</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Klipp</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Klistra in</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>Inaktivera snabbtangenter</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Bilder</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Byt namn</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Stäng</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Ta bort tomma grupper</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Skapa ny grupp</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>Hantera grupper</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Dölj alla bilder</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Visa bilder</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Inställningar...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>Felsök</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>Öppna loggfilen</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Hjälp</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Söker efter uppdateringar...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Uppdatera nu...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Sök efter uppdateringar...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Starta om</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Avsluta</translation>
     </message>
 </context>
 <context>
@@ -2549,10 +2556,6 @@ Detta alternativ hittas också i kontextmenyn för varje individuellt bildfönst
         <translation>Version</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Zooma med mushjulet</translation>
-    </message>
-    <message>
         <source>Interface font:</source>
         <translation>Teckensnitt:</translation>
     </message>
@@ -2893,10 +2896,6 @@ Intervall: 10 - 100</translation>
     <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>Vid inaktivering, zooma till övre vänstra hörnet.</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>vid muspekaren</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3483,6 +3482,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

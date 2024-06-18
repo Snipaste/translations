@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="lt">
+<TS version="2.1" language="lt_LT">
 <context>
     <name>BarcodeButton</name>
     <message>
@@ -1787,40 +1787,12 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>Nėra naujinimų.</translation>
     </message>
     <message>
-        <source>Manage groups</source>
-        <translation>Valdyti grupes</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Klaida</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
         <translation>Netinkamos komandinės eilutės parinktys.</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Užfiksuoti</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Įklijuoti</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Paslėpti visas/-us nuotraukas/vaizdus/iškarpas/paveikslėlius</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Rodyti visas/-us nuotraukas/vaizdus/iškarpas/paveikslėlius</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Išvalyti užfiksavimo įrašus</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>Išjungti sparčiuosius klavišus</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1831,48 +1803,8 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>Pervadinti</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>Uždaryti</translation>
-    </message>
-    <message>
         <source>Import image group</source>
         <translation>Importuoti paveikslėlių grupę</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>Pašalinti tuščias grupes</translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation>Rodyti paveikslėlius</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Parinktys...</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Pagalba</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>Tikrinama dėl atnaujinimų...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>Atnaujinti dabar...</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Tikrinti ar yra atnaujinimų.</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Paleisti iš naujo</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Išeiti</translation>
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
@@ -1963,36 +1895,12 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>Spauskite čia, kad atnaujintumėte dabar</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation>Sukurti naują grupę</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>Trukdžių, bei testavimo ieškojimas ir šalinimas</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>Atidaryti žurnalo failą</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>Atidaryti konfigūracijos failą</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>Atrakinti „PRO“...</translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation>Eksportuoti nuotraukų/vaizdų/iškarpų/paveikslėlių grupę/-es</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
         <translation>„Snipaste“ nuotraukų/vaizdų/iškarpų/paveikslėlių grupės</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>Išvalyti žurnalo failą</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2057,6 +1965,105 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation>Klaida: nepavyksta aptikti ekrano įrenginio. Iš naujo paleiskite „Snipaste“.</translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Išvalyti užfiksavimo įrašus</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Užfiksuoti</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Įklijuoti</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>Išjungti sparčiuosius klavišus</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Nuotraukos/Vaizdai/İškarpos/Paveikslėliai</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Pervadinti</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Uždaryti</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Pašalinti tuščias grupes</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Sukurti naują grupę</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>Valdyti grupes</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Paslėpti visas/-us nuotraukas/vaizdus/iškarpas/paveikslėlius</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Rodyti paveikslėlius</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Parinktys...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>Trukdžių, bei testavimo ieškojimas ir šalinimas</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>Atidaryti konfigūracijos failą</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>Atidaryti žurnalo failą</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>Išvalyti žurnalo failą</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Pagalba</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Tikrinama dėl atnaujinimų...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Atnaujinti dabar...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Tikrinti ar yra atnaujinimų.</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>Atrakinti „PRO“...</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Paleisti iš naujo</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Išeiti</translation>
     </message>
 </context>
 <context>
@@ -2730,16 +2737,8 @@ Jei išjungta, ji visada bus rodoma pagrindinio ekrano centre.</translation>
         <translation>Naudoti užfiksavimo poziciją</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Priartinti / Atitolinti naudojant pelės ratuką</translation>
-    </message>
-    <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>Jei nepažymėta, priartinkite vaizdą prie viršutinio kairiojo kampo.</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>Prie pelės žymeklio</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3502,6 +3501,10 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     <message>
         <source>Disable</source>
         <translation>Išjungti</translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

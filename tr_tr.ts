@@ -1802,104 +1802,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Geçersiz komut satırı seçenekleri.</translation>
     </message>
     <message>
-        <source>Clear snip records</source>
-        <translation>Kırpma kayıtlarını temizle</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Kırp</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Yapıştır</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>Kısayol devredışı</translation>
-    </message>
-    <message>
         <source>Images</source>
         <translation>Görüntüler</translation>
     </message>
     <message>
         <source>Rename</source>
         <translation>Adlandır</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Kapat</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Tüm görüntüleri gizle</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Tüm görüntüleri göster</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>Boş grupları kaldır</translation>
-    </message>
-    <message>
-        <source>Create new group</source>
-        <translation>Yeni grup oluştur</translation>
-    </message>
-    <message>
-        <source>Manage groups</source>
-        <translation>Grupları yönet</translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation>Görüntüleri göster</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Tercihler...</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>Hata ayıklama</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>Yapılandırma dosyasını aç</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>Günlük dosyasını aç</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>Günlük dosyasını temizle</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Yardım</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>Güncellemeler kontrol ediliyor...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>Şimdi güncelle...</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Güncellemeleri kontrol et...</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>PRO kilidini aç ...</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Yeniden başlat</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Çık</translation>
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
@@ -2055,6 +1963,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation>Hata: görüntüleme aygıtı algılanamıyor. Lütfen Snipaste&apos;i yeniden başlatın.</translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Kırpma kayıtlarını temizle</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Kırp</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Yapıştır</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>Kısayol devredışı</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Görüntüler</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Adlandır</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Kapat</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Boş grupları kaldır</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Yeni grup oluştur</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>Grupları yönet</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Tüm görüntüleri gizle</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Görüntüleri göster</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Tercihler...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>Hata ayıklama</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>Yapılandırma dosyasını aç</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>Günlük dosyasını aç</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>Günlük dosyasını temizle</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Yardım</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Güncellemeler kontrol ediliyor...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Şimdi güncelle...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Güncellemeleri kontrol et...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>PRO kilidini aç ...</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Yeniden başlat</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Çık</translation>
     </message>
 </context>
 <context>
@@ -2870,16 +2877,8 @@ Devre dışı bırakılırsa, her zaman birincil ekranın ortasında gösterilir
         <translation>Kırpma pozisyonu kullan</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Fare tekerleği ile yakınlaştırma</translation>
-    </message>
-    <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>İşaretlenmezse, sol üst köşeye yakınlaştırır.</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>fare imlecinde</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3497,6 +3496,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

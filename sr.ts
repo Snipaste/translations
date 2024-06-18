@@ -1787,40 +1787,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Нема ажурирања.</translation>
     </message>
     <message>
-        <source>Manage groups</source>
-        <translation>Уредити групе</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
         <translation>Погрешна опције командне линије.</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Резати</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Прилепити</translation>
-    </message>
-    <message>
-        <source>Hide all images</source>
-        <translation>Сакрити све слике</translation>
-    </message>
-    <message>
-        <source>Show all images</source>
-        <translation>Показати све слике</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Обрисати снимке резања</translation>
-    </message>
-    <message>
-        <source>Disable hotkeys</source>
-        <translation>Угасити пречице</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1831,48 +1803,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Преименовати</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>Затворити</translation>
-    </message>
-    <message>
         <source>Import image group</source>
         <translation>Увоз групе слика</translation>
-    </message>
-    <message>
-        <source>Remove empty groups</source>
-        <translation>Уклонити празне групе</translation>
-    </message>
-    <message>
-        <source>Show images</source>
-        <translation>Показати слике</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Поставке...</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Помоћ</translation>
-    </message>
-    <message>
-        <source>Checking for updates...</source>
-        <translation>Проверавање ажурирања...</translation>
-    </message>
-    <message>
-        <source>Update now...</source>
-        <translation>Ажурирати сада...</translation>
-    </message>
-    <message>
-        <source>Check for updates...</source>
-        <translation>Провера ажурирања...</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Поново покренути</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Затворити</translation>
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
@@ -1963,36 +1895,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Кликнути овде за ажурирање</translation>
     </message>
     <message>
-        <source>Create new group</source>
-        <translation>Креирати нову групу</translation>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation>Дебаг</translation>
-    </message>
-    <message>
-        <source>Open log file</source>
-        <translation>Отворити извештај</translation>
-    </message>
-    <message>
-        <source>Open config file</source>
-        <translation>Отворити конфигурацију</translation>
-    </message>
-    <message>
-        <source>Unlock PRO...</source>
-        <translation>Деблокирај ПРО...</translation>
-    </message>
-    <message>
         <source>Export image group(s)</source>
         <translation>Извоз групе слика</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
         <translation>Групе слике</translation>
-    </message>
-    <message>
-        <source>Clear log file</source>
-        <translation>Испразни извештај</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2057,6 +1965,105 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
         <translation>Грешка: не могу да детектујем уређај за приказ. Поново покрените Snipaste.</translation>
+    </message>
+</context>
+<context>
+    <name>TrayMenu</name>
+    <message>
+        <source>Clear snip records</source>
+        <translation>Обрисати снимке резања</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Резати</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Прилепити</translation>
+    </message>
+    <message>
+        <source>Disable hotkeys</source>
+        <translation>Угасити пречице</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Слике</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Преименовати</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Затворити</translation>
+    </message>
+    <message>
+        <source>Remove empty groups</source>
+        <translation>Уклонити празне групе</translation>
+    </message>
+    <message>
+        <source>Create new group</source>
+        <translation>Креирати нову групу</translation>
+    </message>
+    <message>
+        <source>Manage groups</source>
+        <translation>Уредити групе</translation>
+    </message>
+    <message>
+        <source>Hide all images</source>
+        <translation>Сакрити све слике</translation>
+    </message>
+    <message>
+        <source>Show images</source>
+        <translation>Показати слике</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Поставке...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation>Дебаг</translation>
+    </message>
+    <message>
+        <source>Open config file</source>
+        <translation>Отворити конфигурацију</translation>
+    </message>
+    <message>
+        <source>Open log file</source>
+        <translation>Отворити извештај</translation>
+    </message>
+    <message>
+        <source>Clear log file</source>
+        <translation>Испразни извештај</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Помоћ</translation>
+    </message>
+    <message>
+        <source>Checking for updates...</source>
+        <translation>Проверавање ажурирања...</translation>
+    </message>
+    <message>
+        <source>Update now...</source>
+        <translation>Ажурирати сада...</translation>
+    </message>
+    <message>
+        <source>Check for updates...</source>
+        <translation>Провера ажурирања...</translation>
+    </message>
+    <message>
+        <source>Unlock PRO...</source>
+        <translation>Деблокирај ПРО...</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Поново покренути</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Затворити</translation>
     </message>
 </context>
 <context>
@@ -2730,16 +2737,8 @@ If disabled, it would always be shown at the center of the primary screen.</sour
         <translation>Употребити смештај закачења</translation>
     </message>
     <message>
-        <source>Zoom by mouse wheel</source>
-        <translation>Зумирај са точком</translation>
-    </message>
-    <message>
         <source>If not checked, zoom to the top-left corner.</source>
         <translation>Ако није одабрано, зумирај на горњем-левом екрану.</translation>
-    </message>
-    <message>
-        <source>at mouse cursor</source>
-        <translation>где се налази миш</translation>
     </message>
     <message>
         <source>This may cause flickers.</source>
@@ -3502,6 +3501,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Disable</source>
         <translation>Онемогућено</translation>
+    </message>
+    <message>
+        <source>Zoom at mouse position</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
