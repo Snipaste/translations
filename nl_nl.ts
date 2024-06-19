@@ -3505,7 +3505,7 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     </message>
     <message>
         <source>Zoom at mouse position</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom op muispositie</translation>
     </message>
 </context>
 <context>
