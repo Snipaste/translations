@@ -3504,7 +3504,7 @@ Se não seleccionado, apenas as anotações de tipo activo podem ser seleccionad
     </message>
     <message>
         <source>Zoom at mouse position</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar na posição do rato</translation>
     </message>
 </context>
 <context>
