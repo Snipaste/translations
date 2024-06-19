@@ -3504,7 +3504,7 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     </message>
     <message>
         <source>Zoom at mouse position</source>
-        <translation type="unfinished"></translation>
+        <translation>Priartinti pelės pozicijoje</translation>
     </message>
 </context>
 <context>
