@@ -3504,7 +3504,7 @@ Se deselezionato, solo il tipo attivo di annotazioni sarà selezionabile al pass
     </message>
     <message>
         <source>Zoom at mouse position</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom sulla posizione del mouse</translation>
     </message>
 </context>
 <context>
