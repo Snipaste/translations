@@ -3504,7 +3504,7 @@ Se desmarcado, somente o tipo ativo de anotação pode ser selecionado ao passar
     </message>
     <message>
         <source>Zoom at mouse position</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom na posição do mouse</translation>
     </message>
 </context>
 <context>
