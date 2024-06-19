@@ -3505,7 +3505,7 @@ Si no está prendido, solo el tipo de anotación activo se puede seleccionar al 
     </message>
     <message>
         <source>Zoom at mouse position</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer zoom en el cursor</translation>
     </message>
 </context>
 <context>
