@@ -3504,7 +3504,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Zoom at mouse position</source>
-        <translation type="unfinished"></translation>
+        <translation>滑鼠滾輪縮放時以游標為中心</translation>
     </message>
 </context>
 <context>
