@@ -3501,7 +3501,7 @@ Wenn diese Option nicht aktiviert ist, kann nur die aktive Art von Anmerkungen b
     </message>
     <message>
         <source>Zoom at mouse position</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom an der Mausposition</translation>
     </message>
 </context>
 <context>

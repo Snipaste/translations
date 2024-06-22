@@ -3504,7 +3504,7 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
     </message>
     <message>
         <source>Zoom at mouse position</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoomer à la position de la souris</translation>
     </message>
 </context>
 <context>
