@@ -119,7 +119,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 관리자에 표시</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -347,7 +347,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>잘라내기 시 보조 줄 표시/숨기기</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -672,7 +672,7 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>for Windows XP</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows XP용</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -680,15 +680,15 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 데스크톱용</translation>
     </message>
     <message>
         <source>for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>macOS용</translation>
     </message>
     <message>
         <source>for Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>Linux용</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1198,7 +1198,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation type="unfinished"></translation>
+        <translation>소스 파일 경로 복사</translation>
     </message>
     <message>
         <source>Copy plain text</source>
@@ -1326,15 +1326,15 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>마우스 클릭 연결</translation>
     </message>
     <message>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>on</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>off</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1561,7 +1561,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
-        <translation>바로가기 등록 실패</translation>
+        <translation>바로가기 등록 실패 :</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1818,11 +1818,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>마우스 클릭 연결</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>끄기</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
@@ -1842,7 +1842,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Imported Group</source>
-        <translation></translation>
+        <translation>가져온 그룹</translation>
     </message>
     <message>
         <source>Import successful</source>
@@ -1850,7 +1850,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Rename the imported group:</source>
-        <translation>가져온 그룹의 이름 바꾸기 : </translation>
+        <translation>가져온 그룹의 이름 바꾸기 :</translation>
     </message>
     <message>
         <source>Switch to the imported group</source>
@@ -1862,7 +1862,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>New group name:</source>
-        <translation>새로운 그룹 이름</translation>
+        <translation>새로운 그룹 이름 :</translation>
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
@@ -1886,8 +1886,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Click here to update now</source>
-        <translation>지금 클릭하여 업데이트 하세요
-</translation>
+        <translation>지금 클릭하여 업데이트 하세요</translation>
     </message>
     <message>
         <source>Export image group(s)</source>
@@ -2113,8 +2112,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Purchase</source>
-        <translation>구매
-</translation>
+        <translation>구매</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2220,15 +2218,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
-        <translation></translation>
+        <translation>왼쪽 상단:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation></translation>
+        <translation>크기:</translation>
     </message>
     <message>
         <source>Delay:</source>
-        <translation>딜레이시간(초) : </translation>
+        <translation>딜레이시간(초) :</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2262,11 +2260,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>groupmanager</name>
     <message>
         <source>Image groups:</source>
-        <translation>이미지 그룹 : </translation>
+        <translation>이미지 그룹 :</translation>
     </message>
     <message>
         <source>Manage Groups</source>
-        <translation>그룹 관리 : </translation>
+        <translation>그룹 관리</translation>
     </message>
     <message>
         <source>Import</source>
@@ -2285,7 +2283,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>helpdialog</name>
     <message>
         <source>Pages:</source>
-        <translation>페이지 : </translation>
+        <translation>페이지 :</translation>
     </message>
 </context>
 <context>
@@ -2296,11 +2294,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Name:</source>
-        <translation>이름 : </translation>
+        <translation>이름 :</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation>커맨드 : </translation>
+        <translation>커맨드 :</translation>
     </message>
     <message>
         <source>Test</source>
@@ -2324,7 +2322,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation>무시된 목록 : </translation>
+        <translation>무시된 목록 :</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
@@ -2350,7 +2348,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Open source software used in Snipaste:</source>
-        <translation>Snipaste 에 사용된 오픈소스 스프트웨어 : </translation>
+        <translation>Snipaste에서 사용되는 오픈 소스 소프트웨어입니다:</translation>
     </message>
     <message>
         <source>About Qt</source>
@@ -2369,7 +2367,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Group name:</source>
-        <translation>그룹 이름 : </translation>
+        <translation>그룹 이름 :</translation>
     </message>
     <message>
         <source>Activate after creation</source>
@@ -2392,7 +2390,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Run as administrator for startup.</source>
-        <translation>관리자 모드로 실행</translation>
+        <translation>관리자 모드로 실행.</translation>
     </message>
     <message>
         <source>As administrator</source>
@@ -2412,7 +2410,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Log level:</source>
-        <translation>로그레벨</translation>
+        <translation>로그레벨:</translation>
     </message>
     <message>
         <source>Open log file</source>
@@ -2424,7 +2422,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Language:</source>
-        <translation>언어</translation>
+        <translation>언어:</translation>
     </message>
     <message>
         <source>The interface language of Snipaste</source>
@@ -2432,11 +2430,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Interface font:</source>
-        <translation>인터페이스 글꼴</translation>
+        <translation>인터페이스 글꼴:</translation>
     </message>
     <message>
         <source>Theme color:</source>
-        <translation>테마컬러</translation>
+        <translation>테마컬러:</translation>
     </message>
     <message>
         <source>The theme color of Snipaste</source>
@@ -2444,7 +2442,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Tray icon:</source>
-        <translation>트레이 아이콘</translation>
+        <translation>트레이 아이콘:</translation>
     </message>
     <message>
         <source>Use default tray icon.</source>
@@ -2484,7 +2482,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Border width:</source>
-        <translation>테두리 너비</translation>
+        <translation>테두리 너비:</translation>
     </message>
     <message>
         <source>Set the width of the border around the snipping area.</source>
@@ -2496,7 +2494,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Mask color:</source>
-        <translation>마스크 색상</translation>
+        <translation>마스크 색상:</translation>
     </message>
     <message>
         <source>The mask color of snipping</source>
@@ -2512,15 +2510,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Anchors&apos; border color:</source>
-        <translation>앵커의 경계 색상</translation>
+        <translation>앵커의 테두리 색상:</translation>
     </message>
     <message>
         <source>In the magnifier, show:</source>
-        <translation>돋보기에서 다음을 표시합니다.</translation>
+        <translation>돋보기에서 다음을 표시합니다:</translation>
     </message>
     <message>
         <source>Show the mask in the magnifier.</source>
-        <translation>돋보기에 마스크 보이기</translation>
+        <translation>마스크를 돋보기로 표시합니다.</translation>
     </message>
     <message>
         <source>mask</source>
@@ -2528,7 +2526,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Show the border of the snipping area in the magnifier.</source>
-        <translation>돋보기에서 캡쳐 영역의 테두리를 표시함</translation>
+        <translation>돋보기에서 잘라내기 영역의 테두리를 표시합니다.</translation>
     </message>
     <message>
         <source>border</source>
@@ -2536,7 +2534,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Show the anchors in the magnifier.</source>
-        <translation>돋보기에 앵커 표시</translation>
+        <translation>돋보기로 앵커를 표시합니다.</translation>
     </message>
     <message>
         <source>anchors</source>
@@ -2552,7 +2550,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Auto detect the regions of windows when snipping.</source>
-        <translation>캡쳐시 자동으로 영역 감지</translation>
+        <translation>캡쳐시 자동으로 영역 감지.</translation>
     </message>
     <message>
         <source>Auto detect windows</source>
@@ -2580,7 +2578,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Capture the cursor by default.</source>
-        <translation>커서 포함 캡처를 기본값으로</translation>
+        <translation>커서 포함 캡처를 기본값으로.</translation>
     </message>
     <message>
         <source>Capture the cursor</source>
@@ -2591,11 +2589,11 @@ If no image window is under the cursor, all unclickable images will be made clic
 can then paste it into some special applications like Skype.
 However, in the meantime, the alpha channel of the image is lost.</source>
         <translation>이미지를 Windows Bitmap으로 복사하여 Skype와 같은 일부 특수 응용 프로그램에 붙여 넣을 수 있습니다.
-(이미지의 알파 채널이 손실됩니다. - 참고하세요)</translation>
+(참고)이미지의 알파 채널이 손실됩니다.</translation>
     </message>
     <message>
         <source>Quit snipping if any window of other programs is activated.</source>
-        <translation>다른 윈도우 프로그램이 활성화 되어 있을때 캡쳐 종료</translation>
+        <translation>다른 프로그램의 창이 활성화되어 있으면 캡처를 종료합니다.</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
@@ -2603,7 +2601,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Which action to perform for pressing &apos;Enter&apos; when snipping.</source>
-        <translation>캡쳐시 엔터키로 수행할 수 있는 작업</translation>
+        <translation>캡처할 때 &apos;Enter&apos;를 누르면 어떤 동작을 수행할지 설정합니다.</translation>
     </message>
     <message>
         <source>then</source>
@@ -2615,11 +2613,11 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Ignore Win key:</source>
-        <translation>Win키 무시하기</translation>
+        <translation>Win 키를 무시합니다:</translation>
     </message>
     <message>
         <source>Ignore the left Windows key when snipping.</source>
-        <translation>캡쳐시 왼쪽 윈도우키 무시</translation>
+        <translation>캡처할 때는 왼쪽 Windows 키를 무시하세요.</translation>
     </message>
     <message>
         <source>Left</source>
@@ -3491,7 +3489,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Zoom at mouse position</source>
-        <translation type="unfinished"></translation>
+        <translation>마우스 위치에서 확대/축소</translation>
     </message>
 </context>
 <context>
