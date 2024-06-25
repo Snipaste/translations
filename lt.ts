@@ -285,19 +285,19 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
         <source>Rotate the image clockwise by 90 degrees</source>
-        <translation>Pasukti nuotrauka/vaizda/iškarpa/paveikslėlį pagal laikrodžio rodyklės puse 90° kampu</translation>
+        <translation>Pasukti nuotrauką/vaizdą/iškarpą/paveikslėlį pagal laikrodžio rodyklės puse 90° kampu</translation>
     </message>
     <message>
         <source>Rotate the image counter-clockwise by 90 degrees</source>
-        <translation>Pasukti nuotrauka/vaizda/iškarpa/paveikslėlį prieš laikrodžio rodyklės puse 90° kampu</translation>
+        <translation>Pasukti nuotrauką/vaizdą/iškarpą/paveikslėlį prieš laikrodžio rodyklės puse 90° kampu</translation>
     </message>
     <message>
         <source>Flip the image horizontally</source>
-        <translation>Pasukti nuotrauka/vaizda/iškarpa/paveikslėlį horizontaliai</translation>
+        <translation>Pasukti nuotrauką/vaizdą/iškarpą/paveikslėlį horizontaliai</translation>
     </message>
     <message>
         <source>Flip the image vertically</source>
-        <translation>Pasukti nuotrauka/vaizda/iškarpa/paveikslėlį vertikaliai</translation>
+        <translation>Pasukti nuotrauką/vaizdą/iškarpą/paveikslėlį vertikaliai</translation>
     </message>
     <message>
         <source>Hide the paint bar or close the image window</source>
@@ -804,11 +804,11 @@ Paleisti iš naujo „Snipaste“ dabar?</translation>
     </message>
     <message>
         <source>Close image</source>
-        <translation>Uždaryti nuotrauka/vaizdą/iškarpą/paveikslėlį</translation>
+        <translation>Uždaryti nuotrauką/vaizdą/iškarpą/paveikslėlį</translation>
     </message>
     <message>
         <source>Destroy image</source>
-        <translation>Sunaikinti nuotrauka/vaizdą/iškarpą/paveikslėlį</translation>
+        <translation>Sunaikinti nuotrauką/vaizdą/iškarpą/paveikslėlį</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -1158,7 +1158,7 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     <name>Paster</name>
     <message>
         <source>Load image</source>
-        <translation>Atidaryti/Įkelti nuotrauka/vaizdą/iškarpą/paveikslėlį</translation>
+        <translation>Atidaryti/Įkelti nuotrauką/vaizdą/iškarpą/paveikslėlį</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1190,11 +1190,11 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     </message>
     <message>
         <source>Copy image</source>
-        <translation>Kopijuoti nuotrauka/vaizdą/iškarpą/paveikslėlį</translation>
+        <translation>Kopijuoti nuotrauką/vaizdą/iškarpą/paveikslėlį</translation>
     </message>
     <message>
         <source>Save image as...</source>
-        <translation>Išsaugoti nuotrauka/vaizdą/iškarpą/paveikslėlį kaip...</translation>
+        <translation>Išsaugoti nuotrauką/vaizdą/iškarpą/paveikslėlį kaip...</translation>
     </message>
     <message>
         <source>Restore</source>
@@ -1380,7 +1380,7 @@ Pelės paspaudimo per pelę veiksmą galite rasti jo sparčiuoju klavišu „Par
     </message>
     <message>
         <source>Copy unscaled image</source>
-        <translation>Kopijuoti be skalės modifikacijų nuotrauka/vaizdą/iškarpą/paveikslėlį</translation>
+        <translation>Kopijuoti be skalės modifikacijų nuotrauką/vaizdą/iškarpą/paveikslėlį</translation>
     </message>
     <message>
         <source>Image processing</source>
@@ -1432,7 +1432,7 @@ Pelės paspaudimo per pelę veiksmą galite rasti jo sparčiuoju klavišu „Par
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation>Išsaugoti be skalės modifikacijų nuotrauka/vaizdą/iškarpą/paveikslėlį kaip...</translation>
+        <translation>Išsaugoti be skalės modifikacijų nuotrauką/vaizdą/iškarpą/paveikslėlį kaip...</translation>
     </message>
     <message>
         <source>Invert color</source>
@@ -1450,7 +1450,7 @@ Jūs galite konfigūruoti šį veiksmą parametrų dialoge: Kontrolė/Valdymas �
     </message>
     <message>
         <source>Export selected images to...</source>
-        <translation>Eksportuoti pasirinkta/-as/-us nuotrauka/-as/vaizdą/-us/iškarpą/-as/paveikslėlį/-us į...</translation>
+        <translation>Eksportuoti pasirinkta/-as/-us nuotrauką/-as/vaizdą/-us/iškarpą/-as/paveikslėlį/-us į...</translation>
     </message>
     <message>
         <source>Output Options</source>
@@ -1816,7 +1816,7 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>Save image as</source>
-        <translation>Išsaugoti nuotrauka/vaizda/iškarpa/paveikslėlį kaip</translation>
+        <translation>Išsaugoti nuotrauką/vaizdą/iškarpą/paveikslėlį kaip</translation>
     </message>
     <message>
         <source>Failed to save the image!</source>
