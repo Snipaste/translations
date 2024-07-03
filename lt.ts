@@ -1812,7 +1812,7 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>is already running.</source>
-        <translation>Jau veikia.</translation>
+        <translation>– jau veikia.</translation>
     </message>
     <message>
         <source>Save image as</source>
