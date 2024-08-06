@@ -611,7 +611,7 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>User name</source>
-        <translation>Vartotojo vardas</translation>
+        <translation>Naudotojo/Vartotojo vardas</translation>
     </message>
     <message>
         <source>Allowed suffixes</source>
@@ -1012,7 +1012,7 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     </message>
     <message>
         <source>UI</source>
-        <translation>Vartotojo sąsaja</translation>
+        <translation>Naudotojo/Vartotojo sąsaja</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
@@ -1537,7 +1537,7 @@ Jūms galimai reikės iš naujo paleisti „Snipaste“ su administratoriaus tei
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
-        <translation>Norint įjungti vartotojo sąsajos elemento aptikimą, „Snipaste“ reikalauja prieinamumo valdymo.</translation>
+        <translation>Norint įjungti naudotojo/vartotojo sąsajos elemento aptikimą, „Snipaste“ reikalauja prieinamumo valdymo.</translation>
     </message>
     <message>
         <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
@@ -1549,7 +1549,7 @@ Jūms galimai reikės iš naujo paleisti „Snipaste“ su administratoriaus tei
     </message>
     <message>
         <source>Did you disable UAC (User Account Control)? Please enable it DURING the purchase.</source>
-        <translation>Ar išjungėte VPV (Vartotojo paskyros valdymą)? Ją įjunkite perkimo METU.</translation>
+        <translation>Ar išjungėte „UAC“ (Naudotojo/Vartotojo paskyros valdymą)? Ją įjunkite pirkimo METU.</translation>
     </message>
 </context>
 <context>
@@ -2576,7 +2576,7 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>Auto detect UI elements</source>
-        <translation>Automatiškai atpažinti vartotojo sąsajos elementus</translation>
+        <translation>Automatiškai atpažinti naudotojo/vartotojo sąsajos elementus</translation>
     </message>
     <message>
         <source>You can also temporarily toggle it by pressing the Tab key when snipping.</source>
