@@ -489,35 +489,35 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     <name>LicensingClient</name>
     <message>
         <source>HTTP error code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP foutcode: %1</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Onbekende fout.</translation>
     </message>
     <message>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>Netwerkfout</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan geen verbinding maken met de server.</translation>
     </message>
     <message>
         <source>Server internal error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Interne serverfout.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toestemming geweigerd.</translation>
     </message>
     <message>
         <source>The license key has already been associated with a different email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>De licentiesleutel is al gekoppeld aan een ander e-mailadres.</translation>
     </message>
     <message>
         <source>Please check your input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Controleer de invoer.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
@@ -525,47 +525,47 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     </message>
     <message>
         <source>Invalid arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldige argumenten.</translation>
     </message>
     <message>
         <source>The license key has been revoked.</source>
-        <translation type="unfinished"></translation>
+        <translation>De licentiesleutel is ingetrokken.</translation>
     </message>
     <message>
         <source>The license has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>De licentie is verlopen.</translation>
     </message>
     <message>
         <source>Invalid credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldige referenties.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldige e-mail.</translation>
     </message>
     <message>
         <source>The license has reached its device limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>De licentie heeft de apparaatlimiet bereikt.</translation>
     </message>
     <message>
         <source>The activation on this device has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>De activering op dit apparaat is verlopen.</translation>
     </message>
     <message>
         <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Controleer de netwerkverbinding en druk op &lt;a href=&quot;%1&quot;&gt;vernieuwen&lt;/a&gt; om opnieuw te proberen.</translation>
     </message>
     <message>
         <source>Deactivation request denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deactiveringsverzoek afgewezen.</translation>
     </message>
     <message>
         <source>Please try again after %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Probeer het opnieuw na %1.</translation>
     </message>
     <message>
         <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt het maximum aantal deactiveringen overschreden. Probeer het later opnieuw.</translation>
     </message>
 </context>
 <context>
@@ -785,7 +785,7 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Geregistreerd aan</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -809,15 +809,15 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     </message>
     <message>
         <source>Related Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerelateerde links</translation>
     </message>
     <message>
         <source>EULA</source>
-        <translation type="unfinished"></translation>
+        <translation>EULA</translation>
     </message>
     <message>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Privacybeleid</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -1760,7 +1760,7 @@ Klik erop om deze melding permanent af te wijzen.
     </message>
     <message>
         <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
+        <translation>Knipgeschiedenis wissen</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -2170,7 +2170,7 @@ Start Snipaste opnieuw op.</translation>
     </message>
     <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
-        <translation type="unfinished"></translation>
+        <translation>De licentie kan maximaal 3 apparaten activeren (Windows/Mac/Linux).</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
@@ -2178,35 +2178,35 @@ Start Snipaste opnieuw op.</translation>
     </message>
     <message>
         <source>Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>Persoonlijk</translation>
     </message>
     <message>
         <source>Business</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakelijk</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Geregistreerd aan</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"></translation>
+        <translation>apparaten</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu opnieuw opstarten om te genieten van PRO-functies?</translation>
     </message>
     <message>
         <source>Activating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Activeren…</translation>
     </message>
     <message>
         <source>Deactivating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Deactiveren…</translation>
     </message>
     <message>
         <source>Refreshing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vernieuwen…</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -3552,7 +3552,7 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     </message>
     <message>
         <source>Activation Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informatie over activering</translation>
     </message>
 </context>
 <context>
@@ -3688,7 +3688,7 @@ Voorbeelden:
     </message>
     <message>
         <source>Enter license</source>
-        <translation type="unfinished"></translation>
+        <translation>Licentie invoeren</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3696,15 +3696,15 @@ Voorbeelden:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO activeren</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Offline activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Offline activering</translation>
     </message>
     <message>
         <source>Back</source>
@@ -3716,11 +3716,11 @@ Voorbeelden:
     </message>
     <message>
         <source>Snipaste 2 PRO Activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO geactiveerd</translation>
     </message>
     <message>
         <source>Deactivate</source>
-        <translation type="unfinished"></translation>
+        <translation>Deactiveren</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3732,7 +3732,7 @@ Voorbeelden:
     </message>
     <message>
         <source>Online activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Online activering</translation>
     </message>
 </context>
 <context>
