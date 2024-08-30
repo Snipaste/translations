@@ -482,13 +482,88 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
         <source>Later</source>
         <translation>Später</translation>
     </message>
+</context>
+<context>
+    <name>LicensingClient</name>
     <message>
-        <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation>Lizenzschlüssel entfernen? Snipaste ist dann nicht mehr registriert.</translation>
+        <source>HTTP error code: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <source>Unknown error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to connect to the server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server internal error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission denied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license key has already been associated with a different email address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license key.</source>
+        <translation>Ungültiger Lizenzschlüssel.</translation>
+    </message>
+    <message>
+        <source>Invalid arguments.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license key has been revoked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid credentials.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid email.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license has reached its device limit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The activation on this device has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivation request denied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again after %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -703,12 +778,12 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
         <translation>für Linux</translation>
     </message>
     <message>
-        <source>For XP</source>
-        <translation>Für XP</translation>
-    </message>
-    <message>
         <source>Copyright</source>
         <translation>Copyright</translation>
+    </message>
+    <message>
+        <source>Registered to</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -729,6 +804,18 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     <message>
         <source>Weibo</source>
         <translation>Weibo</translation>
+    </message>
+    <message>
+        <source>Related Links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>EULA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy Policy</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -959,10 +1046,6 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     <message>
         <source>Import succeeded!</source>
         <translation>Importieren erfolgreich!</translation>
-    </message>
-    <message>
-        <source>Remove license</source>
-        <translation>Lizenz entfernen</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
@@ -1675,6 +1758,10 @@ Klicken Sie auf einen dieser Punkte, um diese Benachrichtigung dauerhaft zu deak
         <translation>Deaktivieren/aktivieren Sie die Hot Corners</translation>
     </message>
     <message>
+        <source>Clear snip history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Scan QR code / barcode</source>
         <translation>QR Code / Barcode scannen</translation>
     </message>
@@ -1744,10 +1831,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation>Aktivieren Sie den transparenten Whiteboard-Modus (Tippen Sie zum Beenden zweimal auf Esc)</translation>
     </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Aufnahme-Einträge löschen</translation>
-    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1808,6 +1891,10 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
         <translation>Sind Sie sicher, dass Sie alle Bilder anheften möchten? (Number: %1)</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1969,10 +2056,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
 <context>
     <name>TrayMenu</name>
     <message>
-        <source>Clear snip records</source>
-        <translation>Aufnahme-Einträge löschen</translation>
-    </message>
-    <message>
         <source>Snip</source>
         <translation>Aufnehmen</translation>
     </message>
@@ -2072,28 +2155,8 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>Sie verwenden die kostenlose Version von Snipaste %1 %2.</translation>
     </message>
     <message>
-        <source>Snipaste offline activation request</source>
-        <translation>Snipaste Offline-Aktivierungsanfrage</translation>
-    </message>
-    <message>
-        <source>Hardware identity</source>
-        <translation>Hardware-Identität</translation>
-    </message>
-    <message>
-        <source>Validity period</source>
-        <translation>Gültigkeitszeitraum</translation>
-    </message>
-    <message>
-        <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation>Bitte geben Sie die korrekte Laufzeit für diese Maschine ein. Die Offline-Lizenz kann nicht innerhalb der Gültigkeitsdauer entfernt werden.</translation>
-    </message>
-    <message>
         <source>License key</source>
         <translation>Lizenzschlüssel</translation>
-    </message>
-    <message>
-        <source>Paste your license key here</source>
-        <translation>Fügen Sie hier Ihren Lizenzschlüssel ein</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
@@ -2104,8 +2167,44 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>%1 ist nur für PERSÖNLICHE NUTZUNG kostenlos. Wenn Sie es am Arbeitsplatz verwenden möchten, ist eine PRO-Lizenz erforderlich.</translation>
     </message>
     <message>
+        <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
         <translation>Die Lizenz ist mit Ihrem Microsoft-Konto verknüpft. Wenn Sie die Lizenz bereits mit Ihrem Konto besitzen, können Sie auf „Kaufen“ klicken, um Ihren Kauf ohne erneute Belastung wiederherzustellen.</translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Business</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Registered to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart now to enjoy PRO features?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activating...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivating...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refreshing...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -2116,68 +2215,12 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>Wenden Sie sich bitte an%1, wenn Sie Hilfe benötigen.</translation>
     </message>
     <message>
-        <source>Purchase</source>
-        <translation>Erwerben</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>Activate</source>
-        <translation>Aktivieren</translation>
-    </message>
-    <message>
-        <source>Back</source>
-        <translation>Zurück</translation>
-    </message>
-    <message>
-        <source>Offline activation...</source>
-        <translation>Offline Aktivierung...</translation>
-    </message>
-    <message>
-        <source>Retry</source>
-        <translation>Wiederholen</translation>
-    </message>
-    <message>
-        <source>Activation failed</source>
-        <translation>Aktivierung fehlgeschlagen</translation>
-    </message>
-    <message>
-        <source>Invalid license.</source>
-        <translation>Ungültige Lizenz.</translation>
-    </message>
-    <message>
-        <source>Number of activations exceeded.</source>
-        <translation>Anzahl der Aktivierungen überschritten.</translation>
-    </message>
-    <message>
-        <source>Network error.</source>
-        <translation>Netzwerkfehler.</translation>
-    </message>
-    <message>
-        <source>License expired.</source>
-        <translation>Lizenz abgelaufen.</translation>
-    </message>
-    <message>
-        <source>Invalid license key.</source>
-        <translation>Ungültiger Lizenzschlüssel.</translation>
-    </message>
-    <message>
-        <source>Error code</source>
-        <translation>Fehlercode</translation>
-    </message>
-    <message>
         <source>The PRO version unlocks more than 40 useful features!</source>
         <translation>Die PRO-Version schaltet mehr als 40 nützliche Funktionen frei!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
         <translation>Die Lizenz erlaubt es Ihnen, Snipaste 2 für immer mit allen 2.x-Updates zu verwenden.</translation>
-    </message>
-    <message>
-        <source>Enter license key:</source>
-        <translation>Lizenzschlüssel eingeben:</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -3503,6 +3546,10 @@ Wenn diese Option nicht aktiviert ist, kann nur die aktive Art von Anmerkungen b
         <source>Zoom at mouse position</source>
         <translation>Zoom an der Mausposition</translation>
     </message>
+    <message>
+        <source>Activation Info</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3645,8 +3692,56 @@ Beispiele:
 <context>
     <name>unlockprodialog</name>
     <message>
-        <source>OR</source>
-        <translation>ODER</translation>
+        <source>Purchase</source>
+        <translation>Erwerben</translation>
+    </message>
+    <message>
+        <source>Enter license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline activation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation>Zurück</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation>Aktivieren</translation>
+    </message>
+    <message>
+        <source>Snipaste 2 PRO Activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation>Später</translation>
+    </message>
+    <message>
+        <source>Online activation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

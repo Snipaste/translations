@@ -483,13 +483,88 @@ Restart now to enjoy PRO features?</source>
         <source>Later</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>LicensingClient</name>
     <message>
-        <source>Remove license key? Snipaste will be unregistered.</source>
+        <source>HTTP error code: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation>算了</translation>
+        <source>Unknown error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to connect to the server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server internal error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission denied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license key has already been associated with a different email address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid arguments.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license key has been revoked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid credentials.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid email.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license has reached its device limit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The activation on this device has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivation request denied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again after %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -696,15 +771,15 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>For XP</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>-bit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copyright</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Registered to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -725,6 +800,18 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Weibo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Related Links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>EULA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy Policy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -952,10 +1039,6 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove license</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1663,6 +1746,10 @@ Click any of them to dismiss this notification permanently.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Clear snip history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Scan QR code / barcode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1731,10 +1818,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1778,6 +1861,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Invalid command line options.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PRO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1955,10 +2042,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>TrayMenu</name>
     <message>
-        <source>Clear snip records</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Snip</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2058,27 +2141,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hardware identity</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Validity period</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste your license key here</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2090,7 +2153,43 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Business</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Registered to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart now to enjoy PRO features?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activating...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivating...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refreshing...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2102,67 +2201,11 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Purchase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>算了</translation>
-    </message>
-    <message>
-        <source>Activate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Back</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Offline activation...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Activation failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid license.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number of activations exceeded.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network error.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>License expired.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid license key.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The PRO version unlocks more than 40 useful features!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter license key:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3475,6 +3518,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>Zoom at mouse position</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Activation Info</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3591,7 +3638,55 @@ Examples:
 <context>
     <name>unlockprodialog</name>
     <message>
-        <source>OR</source>
+        <source>Enter license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>算了</translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline activation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipaste 2 PRO Activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online activation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

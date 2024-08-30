@@ -2206,7 +2206,7 @@ Check path and filename.</source>
     <message>
         <source>&apos;%1&apos; is write protected.
 Do you want to delete it anyway?</source>
-        <translation>“%1“是写保护的。
+        <translation>"%1"是写保护的。
 你还是想删除它么？</translation>
     </message>
     <message>
@@ -2251,7 +2251,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Are sure you want to delete &apos;%1&apos;?</source>
-        <translation>你确认你想删除“%1“？</translation>
+        <translation>你确认你想删除"%1"？</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -2777,7 +2777,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&lt;b&gt;The name &quot;%1&quot; can not be used.&lt;/b&gt;&lt;p&gt;Try using another name, with fewer characters or no punctuations marks.</source>
-        <translation>&lt;b&gt;名称“%1“不能被使用。&lt;/b&gt;&lt;p&gt;请使用另外一个包含更少字符或者不含有标点符号的名称。</translation>
+        <translation>&lt;b&gt;名称"%1"不能被使用。&lt;/b&gt;&lt;p&gt;请使用另外一个包含更少字符或者不含有标点符号的名称。</translation>
     </message>
     <message>
         <source>%1 bytes</source>
@@ -4100,7 +4100,7 @@ Press ESC to cancel</source>
     <name>QXmlStream</name>
     <message>
         <source>Reference to unparsed entity &apos;%1&apos;.</source>
-        <translation>未解析实体“%1“的引用。</translation>
+        <translation>未解析实体"%1"的引用。</translation>
     </message>
     <message>
         <source>Unexpected character &apos;%1&apos; in public id literal.</source>
@@ -4168,7 +4168,7 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>Reference to external entity &apos;%1&apos; in attribute value.</source>
-        <translation>在属性值中的外部实体“%1”的引用。</translation>
+        <translation>在属性值中的外部实体"%1"的引用。</translation>
     </message>
     <message>
         <source>Expected </source>
@@ -4188,7 +4188,7 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>Invalid attribute in XML declaration.</source>
-        <translation>在XML声明中无效的属性。</translation>
+        <translation>在 XML 声明中无效的属性。</translation>
     </message>
     <message>
         <source>Attribute redefined.</source>
@@ -4358,7 +4358,7 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>未知的错误</translation>
+        <translation>未知错误</translation>
     </message>
     <message>
         <source>Unable to initialize non-blocking socket</source>
@@ -4654,15 +4654,15 @@ to
     <name>Q3UrlOperator</name>
     <message>
         <source>The protocol `%1&apos; does not support getting files</source>
-        <translation>协议“%1”不支持获取文件</translation>
+        <translation>协议"%1"不支持获取文件</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support renaming files or directories</source>
-        <translation>协议“%1”不支持重命名文件或者目录</translation>
+        <translation>协议"%1"不支持重命名文件或者目录</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support listing directories</source>
-        <translation>协议“%1”不支持列出目录</translation>
+        <translation>协议"%1"不支持列出目录</translation>
     </message>
     <message>
         <source>(unknown)</source>
@@ -4670,23 +4670,23 @@ to
     </message>
     <message>
         <source>The protocol `%1&apos; does not support removing files or directories</source>
-        <translation>协议“%1”不支持移除文件或者目录</translation>
+        <translation>协议"%1"不支持移除文件或者目录</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support putting files</source>
-        <translation>协议“%1”不支持上传文件</translation>
+        <translation>协议"%1"不支持上传文件</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; is not supported</source>
-        <translation>协议“%1”不被支持</translation>
+        <translation>协议"%1"不被支持</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support copying or moving files or directories</source>
-        <translation>协议“%1”不支持复制或者移动文件或者目录</translation>
+        <translation>协议"%1"不支持复制或者移动文件或者目录</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support creating new directories</source>
-        <translation>协议“%1”不支持创建新目录</translation>
+        <translation>协议"%1"不支持创建新目录</translation>
     </message>
 </context>
 <context>
@@ -4705,7 +4705,7 @@ to
     </message>
     <message>
         <source>Not connected</source>
-        <translation>没有连接</translation>
+        <translation>未连接</translation>
     </message>
     <message>
         <source>Connection refused for data connection</source>
@@ -4725,15 +4725,15 @@ to
     </message>
     <message>
         <source>Connected to host</source>
-        <translation>连接到主机了</translation>
+        <translation>已连接到主机</translation>
     </message>
     <message>
         <source>Connection timed out to host %1</source>
-        <translation>主机%1连接超时</translation>
+        <translation>主机 %1 连接超时</translation>
     </message>
     <message>
         <source>Connected to host %1</source>
-        <translation>连接到主机%1了</translation>
+        <translation>已连接到主机 %1</translation>
     </message>
     <message>
         <source>Connecting to host failed:
@@ -4743,7 +4743,7 @@ to
     </message>
     <message>
         <source>Host %1 not found</source>
-        <translation>主机%1没有找到</translation>
+        <translation>主机 %1 没有找到</translation>
     </message>
     <message>
         <source>Uploading file failed:
@@ -4783,15 +4783,15 @@ to
     </message>
     <message>
         <source>Host %1 found</source>
-        <translation>主机%1找到了</translation>
+        <translation>已找到主机 %1</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>未知的错误</translation>
+        <translation>未知错误</translation>
     </message>
     <message>
         <source>Connection closed</source>
-        <translation>连接关闭了</translation>
+        <translation>连接已关闭</translation>
     </message>
 </context>
 <context>
@@ -5061,7 +5061,7 @@ to
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>未知的错误</translation>
+        <translation>未知错误</translation>
     </message>
 </context>
 <context>
@@ -5105,19 +5105,19 @@ have libgstreamer-plugins-base installed.</source>
     <name>QLibrary</name>
     <message>
         <source>Could not unmap &apos;%1&apos;: %2</source>
-        <translation>不能取消映射“%1“：%2</translation>
+        <translation>不能取消映射"%1"：%2</translation>
     </message>
     <message>
         <source>Cannot unload library %1: %2</source>
-        <translation>无法卸载库%1：%2</translation>
+        <translation>无法卸载库 %1：%2</translation>
     </message>
     <message>
         <source>Cannot load library %1: %2</source>
-        <translation>无法加载库%1：%2</translation>
+        <translation>无法加载库 %1：%2</translation>
     </message>
     <message>
         <source>The plugin &apos;%1&apos; uses incompatible Qt library. (%2.%3.%4) [%5]</source>
-        <translation>插件“%1”使用了不兼容的Qt库。(%2.%3.%4) [%5]</translation>
+        <translation>插件"%1"使用了不兼容的Qt库。(%2.%3.%4) [%5]</translation>
     </message>
     <message>
         <source>Cannot resolve symbol &quot;%1&quot; in %2: %3</source>
@@ -5125,15 +5125,15 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Plugin verification data mismatch in &apos;%1&apos;</source>
-        <translation>“%1“中的插件验证数据不匹配</translation>
+        <translation>"%1"中的插件验证数据不匹配</translation>
     </message>
     <message>
         <source>The plugin &apos;%1&apos; uses incompatible Qt library. (Cannot mix debug and release libraries.)</source>
-        <translation>插件“%1“使用了不兼容的Qt库。(不能混合使用库的调试版本和发布版本。)</translation>
+        <translation>插件"%1"使用了不兼容的 Qt 库。(不能混合使用库的调试版本和发布版本。)</translation>
     </message>
     <message>
         <source>The file &apos;%1&apos; is not a valid Qt plugin.</source>
-        <translation>文件“%1“不是有效的Qt插件。</translation>
+        <translation>文件"%1"不是有效的Qt插件。</translation>
     </message>
     <message>
         <source>The shared library was not found.</source>
@@ -5141,15 +5141,15 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>未知的错误</translation>
+        <translation>未知错误</translation>
     </message>
     <message>
         <source>The plugin &apos;%1&apos; uses incompatible Qt library. Expected build key &quot;%2&quot;, got &quot;%3&quot;</source>
-        <translation>插件“%1“使用了不兼容的Qt库。期待的构建键是“%2“，得到的却是”%3“</translation>
+        <translation>插件"%1"使用了不兼容的 Qt 库。期待的构建键是"%2"，得到的却是"%3"</translation>
     </message>
     <message>
         <source>Could not mmap &apos;%1&apos;: %2</source>
-        <translation>不能映射”%1“：%2</translation>
+        <translation>不能映射"%1"：%2</translation>
     </message>
 </context>
 <context>
@@ -5164,15 +5164,15 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Connected to host</source>
-        <translation>连接到主机了</translation>
+        <translation>已连接到主机</translation>
     </message>
     <message>
         <source>Connected to host %1</source>
-        <translation>连接到%1主机了</translation>
+        <translation>已连接到主机 %1</translation>
     </message>
     <message>
         <source>Host %1 not found</source>
-        <translation>主机%1没有找到</translation>
+        <translation>未找到主机 %1</translation>
     </message>
     <message>
         <source>Host requires authentication</source>
@@ -5188,7 +5188,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Host found</source>
-        <translation>主机找到了</translation>
+        <translation>已找到主机</translation>
     </message>
     <message>
         <source>Connection refused</source>
@@ -5204,7 +5204,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>HTTP request failed</source>
-        <translation>HTTP请求失败</translation>
+        <translation>HTTP 请求失败</translation>
     </message>
     <message>
         <source>Proxy requires authentication</source>
@@ -5220,15 +5220,15 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Connection to %1 closed</source>
-        <translation>到%1的连接关闭了</translation>
+        <translation>到 %1 的连接已关闭</translation>
     </message>
     <message>
         <source>Invalid HTTP chunked body</source>
-        <translation>无效的HTTP臃肿体</translation>
+        <translation>无效的 HTTP 分块</translation>
     </message>
     <message>
         <source>Host %1 found</source>
-        <translation>主机%1找到了</translation>
+        <translation>已找到主机 %1</translation>
     </message>
     <message>
         <source>Wrong content length</source>
@@ -5236,15 +5236,15 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>未知的错误</translation>
+        <translation>未知错误</translation>
     </message>
     <message>
         <source>Invalid HTTP response header</source>
-        <translation>无效的HTTP响应头</translation>
+        <translation>无效的 HTTP 响应头</translation>
     </message>
     <message>
         <source>Connection closed</source>
-        <translation>连接关闭了</translation>
+        <translation>连接已关闭</translation>
     </message>
     <message>
         <source>No server set to connect to</source>
@@ -5252,11 +5252,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Server closed connection unexpectedly</source>
-        <translation>服务器异常地关闭了连接</translation>
+        <translation>服务器意外关闭了连接</translation>
     </message>
     <message>
         <source>Request aborted</source>
-        <translation>请求被放弃了</translation>
+        <translation>请求已中断</translation>
     </message>
 </context>
 <context>
@@ -5267,7 +5267,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in DTD</source>
-        <translation>在DTD中不允许使用外部解析的通用实体参考</translation>
+        <translation>在 DTD 中不允许使用外部解析的通用实体参考</translation>
     </message>
     <message>
         <source>wrong value for standalone declaration</source>
@@ -5275,7 +5275,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation>在读取XML声明的时候，编码声明或者独立声明被期待</translation>
+        <translation>在读取 XML 声明的时候，编码声明或者独立声明被期待</translation>
     </message>
     <message>
         <source>no error occurred</source>
@@ -5287,7 +5287,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>standalone declaration expected while reading the XML declaration</source>
-        <translation>在读取XML声明的时候，独立声明被期待</translation>
+        <translation>在读取 XML 声明的时候，独立声明被期待</translation>
     </message>
     <message>
         <source>invalid name for processing instruction</source>
@@ -5416,7 +5416,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Executable &apos;%1&apos; requires Qt %2, found Qt %3.</source>
-        <translation>执行“%1”需要Qt %2，只找到了Qt %3。</translation>
+        <translation>执行"%1"需要Qt %2，只找到了Qt %3。</translation>
     </message>
     <message>
         <source>Incompatible Qt Library Error</source>
@@ -5614,7 +5614,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Protocol &quot;%1&quot; is unknown</source>
-        <translation>协议“%1”是未知的</translation>
+        <translation>协议"%1"是未知的</translation>
     </message>
 </context>
 <context>
@@ -5736,11 +5736,11 @@ have libgstreamer-plugins-base installed.</source>
     <name>QCoreApplication</name>
     <message>
         <source>%1: key is empty</source>
-        <translation>%1：键是空的</translation>
+        <translation>%1: 键值是空的</translation>
     </message>
     <message>
         <source>%1: unable to make key</source>
-        <translation>%1：不能制造键</translation>
+        <translation>%1: 无法生成键值</translation>
     </message>
     <message>
         <source>%1: ftok failed</source>
@@ -5763,7 +5763,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>未知的错误</translation>
+        <translation>未知错误</translation>
     </message>
     <message>
         <source>Too many open files</source>
@@ -6035,7 +6035,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Revert back to device &apos;%1&apos;</source>
-        <translation>恢复到设备“%1”</translation>
+        <translation>恢复到设备"%1"</translation>
     </message>
     <message>
         <source>&lt;html&gt;Switching to the audio playback device &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;which just became available and has higher preference.&lt;/html&gt;</source>
@@ -6050,7 +6050,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>未知的错误</translation>
+        <translation>未知错误</translation>
     </message>
 </context>
 <context>
@@ -6142,7 +6142,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>QHostInfo</name>
     <message>
         <source>Unknown error</source>
-        <translation>未知的错误</translation>
+        <translation>未知错误</translation>
     </message>
 </context>
 <context>

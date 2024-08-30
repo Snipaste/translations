@@ -484,13 +484,88 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
         <source>Later</source>
         <translation>Later</translation>
     </message>
+</context>
+<context>
+    <name>LicensingClient</name>
     <message>
-        <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation>Licentiecode verwijderen? Snipaste raakt dan ongeregistreerd.</translation>
+        <source>HTTP error code: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation>Annuleren</translation>
+        <source>Unknown error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to connect to the server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server internal error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission denied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license key has already been associated with a different email address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license key.</source>
+        <translation>Ongeldige licentiecode.</translation>
+    </message>
+    <message>
+        <source>Invalid arguments.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license key has been revoked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid credentials.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid email.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license has reached its device limit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The activation on this device has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivation request denied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again after %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -705,12 +780,12 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
         <translation>voor Linux</translation>
     </message>
     <message>
-        <source>For XP</source>
-        <translation>Voor XP</translation>
-    </message>
-    <message>
         <source>Copyright</source>
         <translation>Auteursrecht</translation>
+    </message>
+    <message>
+        <source>Registered to</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -731,6 +806,18 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     <message>
         <source>Weibo</source>
         <translation>Weibo</translation>
+    </message>
+    <message>
+        <source>Related Links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>EULA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy Policy</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -961,10 +1048,6 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     <message>
         <source>Import succeeded!</source>
         <translation>Importeren voltooid!</translation>
-    </message>
-    <message>
-        <source>Remove license</source>
-        <translation>Licentie verwijderen</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
@@ -1676,6 +1759,10 @@ Klik erop om deze melding permanent af te wijzen.
         <translation>Actie-hoeken aan/uitschakelen</translation>
     </message>
     <message>
+        <source>Clear snip history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Scan QR code / barcode</source>
         <translation>Scan QR-code / streepjescode</translation>
     </message>
@@ -1745,10 +1832,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation>Transparante whiteboard-modus starten (dubbeltik op Esc om te stoppen)</translation>
     </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Opnamelijsten wissen</translation>
-    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1809,6 +1892,10 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
         <translation>Wil je alle afbeeldingen vastmaken? (Aantal: %1)</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1971,10 +2058,6 @@ Start Snipaste opnieuw op.</translation>
 <context>
     <name>TrayMenu</name>
     <message>
-        <source>Clear snip records</source>
-        <translation>Opnamelijsten wissen</translation>
-    </message>
-    <message>
         <source>Snip</source>
         <translation>Knippen</translation>
     </message>
@@ -2074,28 +2157,8 @@ Start Snipaste opnieuw op.</translation>
         <translation>Dit is de gratis verie van Snipaste %1 %2.</translation>
     </message>
     <message>
-        <source>Snipaste offline activation request</source>
-        <translation>Snipaste offline activeringsverzoek</translation>
-    </message>
-    <message>
-        <source>Hardware identity</source>
-        <translation>Hardware-identiteit</translation>
-    </message>
-    <message>
-        <source>Validity period</source>
-        <translation>Geldigheidsduur</translation>
-    </message>
-    <message>
-        <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation>Voer een juiste periodetijd in voor deze PC. De offline-licentie kan gedurende deze periode niet worden verwijderd.</translation>
-    </message>
-    <message>
         <source>License key</source>
         <translation>Licentiecode</translation>
-    </message>
-    <message>
-        <source>Paste your license key here</source>
-        <translation>Plak hier de licentiecode</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
@@ -2106,8 +2169,44 @@ Start Snipaste opnieuw op.</translation>
         <translation>%1 is alleen gratis voor PERSOONLIJK gebruik. Voor gebruik in een werkomgeving is een PRO-licentie vereist.</translation>
     </message>
     <message>
+        <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
         <translation>De licentie is gekoppeld aan het Microsoft-account. Als u de licentie al bezit met uw account, kunt u op &apos;Kopen&apos; klikken om de aankoop te herstellen zonder dat er opnieuw kosten in rekening worden gebracht.</translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Business</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Registered to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart now to enjoy PRO features?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activating...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivating...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refreshing...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -2118,68 +2217,12 @@ Start Snipaste opnieuw op.</translation>
         <translation>Neem gerust contact op met %1 als je hulp nodig hebt.</translation>
     </message>
     <message>
-        <source>Purchase</source>
-        <translation>Aanschaffen</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Annuleren</translation>
-    </message>
-    <message>
-        <source>Activate</source>
-        <translation>Activeren</translation>
-    </message>
-    <message>
-        <source>Back</source>
-        <translation>Terug</translation>
-    </message>
-    <message>
-        <source>Offline activation...</source>
-        <translation>Offline activering…</translation>
-    </message>
-    <message>
-        <source>Retry</source>
-        <translation>Opnieuw</translation>
-    </message>
-    <message>
-        <source>Activation failed</source>
-        <translation>Activering mislukt</translation>
-    </message>
-    <message>
-        <source>Invalid license.</source>
-        <translation>Ongeldige licentie.</translation>
-    </message>
-    <message>
-        <source>Number of activations exceeded.</source>
-        <translation>Het aantal activeringen is overschreden.</translation>
-    </message>
-    <message>
-        <source>Network error.</source>
-        <translation>Netwerkfout.</translation>
-    </message>
-    <message>
-        <source>License expired.</source>
-        <translation>Licentie verlopen.</translation>
-    </message>
-    <message>
-        <source>Invalid license key.</source>
-        <translation>Ongeldige licentiecode.</translation>
-    </message>
-    <message>
-        <source>Error code</source>
-        <translation>Foutcode</translation>
-    </message>
-    <message>
         <source>The PRO version unlocks more than 40 useful features!</source>
         <translation>De PRO-versie biedt meer dan 40 handige functies!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
         <translation>Met de licentie kun je alle Snipaste 2.x-updates voor altijd gebruiken.</translation>
-    </message>
-    <message>
-        <source>Enter license key:</source>
-        <translation>Licentiecode invoeren:</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -3507,6 +3550,10 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
         <source>Zoom at mouse position</source>
         <translation>Zoom op muispositie</translation>
     </message>
+    <message>
+        <source>Activation Info</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3636,8 +3683,56 @@ Voorbeelden:
 <context>
     <name>unlockprodialog</name>
     <message>
-        <source>OR</source>
-        <translation>OF</translation>
+        <source>Purchase</source>
+        <translation>Aanschaffen</translation>
+    </message>
+    <message>
+        <source>Enter license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuleren</translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline activation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation>Terug</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation>Activeren</translation>
+    </message>
+    <message>
+        <source>Snipaste 2 PRO Activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation>Later</translation>
+    </message>
+    <message>
+        <source>Online activation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -484,13 +484,88 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
         <source>Later</source>
         <translation>Vėliau</translation>
     </message>
+</context>
+<context>
+    <name>LicensingClient</name>
     <message>
-        <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation>Pašalinti licencijos raktą? „Snipaste“ bus išregistruota/-s.</translation>
+        <source>HTTP error code: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation>Atšaukti</translation>
+        <source>Unknown error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to connect to the server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server internal error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission denied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license key has already been associated with a different email address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license key.</source>
+        <translation>Neteisingas licencijos kodas.</translation>
+    </message>
+    <message>
+        <source>Invalid arguments.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license key has been revoked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid credentials.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid email.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license has reached its device limit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The activation on this device has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivation request denied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again after %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -697,16 +772,16 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
         <translation>Peržiūrą</translation>
     </message>
     <message>
-        <source>For XP</source>
-        <translation>„Windows XP“ kompiuteriams</translation>
-    </message>
-    <message>
         <source>-bit</source>
         <translation>-bitas/-ai/-ų</translation>
     </message>
     <message>
         <source>Copyright</source>
         <translation>Autorių teisės</translation>
+    </message>
+    <message>
+        <source>Registered to</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -727,6 +802,18 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     <message>
         <source>Weibo</source>
         <translation>„Weibo“</translation>
+    </message>
+    <message>
+        <source>Related Links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>EULA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy Policy</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -961,10 +1048,6 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     <message>
         <source>Import succeeded!</source>
         <translation>Importas sėkmingas!</translation>
-    </message>
-    <message>
-        <source>Remove license</source>
-        <translation>Pašalinti licencija</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
@@ -1676,6 +1759,10 @@ Spustelėkite bet kurį iš jų, kad visam laikui atšauktumėte šį pranešim�
         <translation>Išjungti / Įjungti karštuosius kampus</translation>
     </message>
     <message>
+        <source>Clear snip history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Scan QR code / barcode</source>
         <translation>Skenuoti „QR kodą“ / „Barkodą“</translation>
     </message>
@@ -1745,10 +1832,6 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation>Eitį į skaidrios baltos lentos režimą (du kart spustelėkite „Esc“, kad išjungtumėte)</translation>
     </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Išvalyti užfiksavimų istoriją</translation>
-    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1793,6 +1876,10 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     <message>
         <source>Invalid command line options.</source>
         <translation>Netinkamos komandinės eilutės parinktys.</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation>„PRO“</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1970,10 +2057,6 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
 <context>
     <name>TrayMenu</name>
     <message>
-        <source>Clear snip records</source>
-        <translation>Išvalyti užfiksavimo įrašus</translation>
-    </message>
-    <message>
         <source>Snip</source>
         <translation>Užfiksuoti</translation>
     </message>
@@ -2073,28 +2156,8 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>Jūs naudojate nemokamą „Snipaste %1 %2“ versiją.</translation>
     </message>
     <message>
-        <source>Snipaste offline activation request</source>
-        <translation>„Snipaste“ be-internetinė aktyvacijos užklausa</translation>
-    </message>
-    <message>
-        <source>Hardware identity</source>
-        <translation>Įrangos tapatybė</translation>
-    </message>
-    <message>
-        <source>Validity period</source>
-        <translation>Patvirtinimo periodas</translation>
-    </message>
-    <message>
-        <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation>Įveskite tinkamą šio įrenginio trukmę. Neprisijungus licencijos negalima pašalinti per jos galiojimo laikotarpį.</translation>
-    </message>
-    <message>
         <source>License key</source>
         <translation>Licencijos kodas</translation>
-    </message>
-    <message>
-        <source>Paste your license key here</source>
-        <translation>Įklijuokite savo licencijos kodą čia</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
@@ -2105,8 +2168,44 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>%1 yra tik ASMENINIAM nemokamam naudojimui. Jeigu nori naudoti jį darbo vietoje, „PRO“ licencija yra reikalinga.</translation>
     </message>
     <message>
+        <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
         <translation>Licencija susieta su jūsų „Microsoft“ paskyra. Jei jau turite licenciją su savo paskyra, galite spustelėti „įsigyti“ ir atkurti pirkinį, kad už jį nereikėtų dar kartą mokėti.</translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Business</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Registered to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart now to enjoy PRO features?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activating...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivating...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refreshing...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -2117,68 +2216,12 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>Jei reikia pagalbos, kreipkitės į „%1“.</translation>
     </message>
     <message>
-        <source>Purchase</source>
-        <translation>Nusipirkti</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Atšaukti</translation>
-    </message>
-    <message>
-        <source>Activate</source>
-        <translation>Aktyvuoti</translation>
-    </message>
-    <message>
-        <source>Back</source>
-        <translation>Atgal</translation>
-    </message>
-    <message>
-        <source>Offline activation...</source>
-        <translation>Be ryšinė aktyvacija...</translation>
-    </message>
-    <message>
-        <source>Retry</source>
-        <translation>Pakartoti</translation>
-    </message>
-    <message>
-        <source>Activation failed</source>
-        <translation>Aktyvacija nepavyko</translation>
-    </message>
-    <message>
-        <source>Invalid license.</source>
-        <translation>Negalima licencija.</translation>
-    </message>
-    <message>
-        <source>Number of activations exceeded.</source>
-        <translation>Viršytas aktyvacijų skaičius.</translation>
-    </message>
-    <message>
-        <source>Network error.</source>
-        <translation>Tinklo klaida.</translation>
-    </message>
-    <message>
-        <source>License expired.</source>
-        <translation>Licencija nebegaliojanti.</translation>
-    </message>
-    <message>
-        <source>Invalid license key.</source>
-        <translation>Neteisingas licencijos kodas.</translation>
-    </message>
-    <message>
-        <source>Error code</source>
-        <translation>Klaidos kodas</translation>
-    </message>
-    <message>
         <source>The PRO version unlocks more than 40 useful features!</source>
         <translation>„PRO“ versija atrakina daugiau negu 40 naudingų funkcijų!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
         <translation>Licencija leidžia jums naudoti „Snipaste 2“ visam laikui su visais „2.x“ atnaujinimais.</translation>
-    </message>
-    <message>
-        <source>Enter license key:</source>
-        <translation>Įveskite licencijos kodą:</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -3506,6 +3549,10 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
         <source>Zoom at mouse position</source>
         <translation>Priartinti pelės pozicijoje</translation>
     </message>
+    <message>
+        <source>Activation Info</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3635,8 +3682,56 @@ Pvz:
 <context>
     <name>unlockprodialog</name>
     <message>
-        <source>OR</source>
-        <translation>ARBA</translation>
+        <source>Purchase</source>
+        <translation>Nusipirkti</translation>
+    </message>
+    <message>
+        <source>Enter license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Atšaukti</translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline activation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation>Atgal</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation>Aktyvuoti</translation>
+    </message>
+    <message>
+        <source>Snipaste 2 PRO Activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>Gerai</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation>Vėliau</translation>
+    </message>
+    <message>
+        <source>Online activation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

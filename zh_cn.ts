@@ -228,7 +228,7 @@ Please contact the developer.</source>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation>只对截屏有效:</translation>
+        <translation>仅对截屏有效:</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
@@ -280,7 +280,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Paste only:</source>
-        <translation>只对贴图有效:</translation>
+        <translation>仅对贴图有效:</translation>
     </message>
     <message>
         <source>Rotate the image clockwise by 90 degrees</source>
@@ -483,13 +483,88 @@ Restart now to enjoy PRO features?</source>
         <source>Later</source>
         <translation>稍后</translation>
     </message>
+</context>
+<context>
+    <name>LicensingClient</name>
     <message>
-        <source>Cancel</source>
-        <translation>取消</translation>
+        <source>HTTP error code: %1</source>
+        <translation>HTTP 错误码: %1</translation>
     </message>
     <message>
-        <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation>移除授权信息？Snipaste 将变成未注册状态。</translation>
+        <source>Unknown error.</source>
+        <translation>未知错误。</translation>
+    </message>
+    <message>
+        <source>Network error</source>
+        <translation>网络错误</translation>
+    </message>
+    <message>
+        <source>Unable to connect to the server.</source>
+        <translation>无法连接到服务器。</translation>
+    </message>
+    <message>
+        <source>Server internal error.</source>
+        <translation>服务器内部错误。</translation>
+    </message>
+    <message>
+        <source>Permission denied.</source>
+        <translation>没有权限。</translation>
+    </message>
+    <message>
+        <source>The license key has already been associated with a different email address.</source>
+        <translation>该授权码已关联到另一个电子邮件地址。</translation>
+    </message>
+    <message>
+        <source>Please check your input.</source>
+        <translation>请检查您的输入。</translation>
+    </message>
+    <message>
+        <source>Invalid license key.</source>
+        <translation>无效的授权码。</translation>
+    </message>
+    <message>
+        <source>Invalid arguments.</source>
+        <translation>参数错误。</translation>
+    </message>
+    <message>
+        <source>The license key has been revoked.</source>
+        <translation>该授权码已被撤销。</translation>
+    </message>
+    <message>
+        <source>The license has expired.</source>
+        <translation>您的授权已过期。</translation>
+    </message>
+    <message>
+        <source>Invalid credentials.</source>
+        <translation>无效的凭证。</translation>
+    </message>
+    <message>
+        <source>Invalid email.</source>
+        <translation>邮箱格式错误。</translation>
+    </message>
+    <message>
+        <source>The license has reached its device limit.</source>
+        <translation>已达最大设备数限制。</translation>
+    </message>
+    <message>
+        <source>The activation on this device has expired.</source>
+        <translation>此设备的激活状态已过期。</translation>
+    </message>
+    <message>
+        <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
+        <translation>请检查您的网络连接并&lt;a href=&quot;%1&quot;&gt;刷新&lt;/a&gt;重试。</translation>
+    </message>
+    <message>
+        <source>Deactivation request denied.</source>
+        <translation>反激活请求被拒绝。</translation>
+    </message>
+    <message>
+        <source>Please try again after %1.</source>
+        <translation>请在 %1 之后重试。</translation>
+    </message>
+    <message>
+        <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
+        <translation>您的反激活操作过于频繁，请稍后再试。</translation>
     </message>
 </context>
 <context>
@@ -669,7 +744,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Translators</source>
-        <translation>翻译者</translation>
+        <translation>译者</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
@@ -704,32 +779,44 @@ Restart now to enjoy PRO features?</source>
         <translation>Linux 版</translation>
     </message>
     <message>
-        <source>For XP</source>
-        <translation>XP 版</translation>
-    </message>
-    <message>
         <source>Copyright</source>
         <translation>版权所有</translation>
     </message>
     <message>
+        <source>Registered to</source>
+        <translation>授权给</translation>
+    </message>
+    <message>
         <source>Home Page</source>
-        <translation>主页</translation>
+        <translation>官网首页</translation>
     </message>
     <message>
         <source>Documentation</source>
-        <translation>文档</translation>
+        <translation>使用手册</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>反馈</translation>
+        <translation>问题反馈</translation>
     </message>
     <message>
         <source>Follow</source>
-        <translation>关注</translation>
+        <translation>社交网站</translation>
     </message>
     <message>
         <source>Weibo</source>
         <translation>微博</translation>
+    </message>
+    <message>
+        <source>Related Links</source>
+        <translation>相关链接</translation>
+    </message>
+    <message>
+        <source>EULA</source>
+        <translation>最终用户许可协议</translation>
+    </message>
+    <message>
+        <source>Privacy Policy</source>
+        <translation>隐私政策</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -962,10 +1049,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>导入成功！</translation>
     </message>
     <message>
-        <source>Remove license</source>
-        <translation>移除授权信息</translation>
-    </message>
-    <message>
         <source>Purchase PRO</source>
         <translation>购买专业版</translation>
     </message>
@@ -1011,7 +1094,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>UI</source>
-        <translation></translation>
+        <translation>界面设计</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
@@ -1662,6 +1745,10 @@ Click any of them to dismiss this notification permanently.
         <translation>禁用/启用触发角</translation>
     </message>
     <message>
+        <source>Clear snip history</source>
+        <translation>清空截屏历史</translation>
+    </message>
+    <message>
         <source>Scan QR code / barcode</source>
         <translation>扫描二维码/条形码</translation>
     </message>
@@ -1743,10 +1830,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation>进入透明白板模式（双击 Esc 以退出）</translation>
     </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>清空截屏记录</translation>
-    </message>
 </context>
 <context>
     <name>ShortcutEdit</name>
@@ -1803,6 +1886,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Invalid command line options.</source>
         <translation>无效的命令行参数。</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation>专业版</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1968,10 +2055,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>TrayMenu</name>
     <message>
-        <source>Clear snip records</source>
-        <translation>清空截屏记录</translation>
-    </message>
-    <message>
         <source>Snip</source>
         <translation>截屏</translation>
     </message>
@@ -2112,12 +2195,12 @@ Please launch the subscription platform first.</source>
         <translation>您正在使用 Snipaste %1 %2 (免费版)。</translation>
     </message>
     <message>
-        <source>Snipaste offline activation request</source>
-        <translation>Snipaste 离线激活请求</translation>
-    </message>
-    <message>
         <source>Unlock PRO features</source>
         <translation>解锁专业版</translation>
+    </message>
+    <message>
+        <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
+        <translation>最多可以激活 3 台设备 (Windows/Mac/Linux)。</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -2128,84 +2211,48 @@ Please launch the subscription platform first.</source>
         <translation>如需帮助请联系 %1.</translation>
     </message>
     <message>
-        <source>Purchase</source>
-        <translation>购买</translation>
+        <source>Personal</source>
+        <translation>个人版</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation>取消</translation>
+        <source>Business</source>
+        <translation>商业版</translation>
     </message>
     <message>
-        <source>Activate</source>
-        <translation>激活</translation>
+        <source>Registered to</source>
+        <translation>授权给</translation>
+    </message>
+    <message>
+        <source>devices</source>
+        <translation>设备</translation>
+    </message>
+    <message>
+        <source>Restart now to enjoy PRO features?</source>
+        <translation>现在重启即可享受专业版~</translation>
+    </message>
+    <message>
+        <source>Activating...</source>
+        <translation>激活中...</translation>
+    </message>
+    <message>
+        <source>Deactivating...</source>
+        <translation>反激活中...</translation>
+    </message>
+    <message>
+        <source>Refreshing...</source>
+        <translation>刷新中...</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
         <translation>该许可证与您的微软账户相关联。如果您的账户已拥有该许可证，您可以点击“购买”来恢复购买。请放心，同一帐号不会重复扣费。</translation>
     </message>
     <message>
-        <source>Back</source>
-        <translation>上一步</translation>
-    </message>
-    <message>
-        <source>Offline activation...</source>
-        <translation>离线激活...</translation>
-    </message>
-    <message>
-        <source>Retry</source>
-        <translation>重试</translation>
-    </message>
-    <message>
-        <source>Activation failed</source>
-        <translation>激活失败</translation>
-    </message>
-    <message>
-        <source>Invalid license.</source>
-        <translation>无效的授权码。</translation>
-    </message>
-    <message>
-        <source>Number of activations exceeded.</source>
-        <translation>已超过最大激活次数。</translation>
-    </message>
-    <message>
-        <source>Network error.</source>
-        <translation>网络错误。</translation>
-    </message>
-    <message>
-        <source>License expired.</source>
-        <translation>授权过期。</translation>
-    </message>
-    <message>
-        <source>Validity period</source>
-        <translation>有效期</translation>
-    </message>
-    <message>
-        <source>Error code</source>
-        <translation>错误码</translation>
-    </message>
-    <message>
         <source>License key</source>
         <translation>授权码</translation>
     </message>
     <message>
-        <source>Paste your license key here</source>
-        <translation>请在这里粘贴您的授权码</translation>
-    </message>
-    <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation>%1 只对个人用户免费。如需在公司使用，请购买专业版授权。</translation>
-    </message>
-    <message>
-        <source>Hardware identity</source>
-        <translation>硬件标识码</translation>
-    </message>
-    <message>
-        <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation>请设定一个适用于本机的合理有效期。注意，离线授权在有效期内无法被撤销。</translation>
-    </message>
-    <message>
-        <source>Invalid license key.</source>
-        <translation>无效的授权码。</translation>
+        <translation>%1 仅对个人用户免费。如需在公司使用，请购买专业版授权。</translation>
     </message>
     <message>
         <source>The PRO version unlocks more than 40 useful features!</source>
@@ -2214,10 +2261,6 @@ Please launch the subscription platform first.</source>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
         <translation>永久使用，子版本免费更新。</translation>
-    </message>
-    <message>
-        <source>Enter license key:</source>
-        <translation>输入授权码:</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -3544,6 +3587,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>Zoom at mouse position</source>
         <translation>鼠标滚轮缩放时以指针为中心</translation>
     </message>
+    <message>
+        <source>Activation Info</source>
+        <translation>激活信息</translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3673,8 +3720,56 @@ Examples:
 <context>
     <name>unlockprodialog</name>
     <message>
-        <source>OR</source>
-        <translation>或</translation>
+        <source>Enter license</source>
+        <translation>输入授权码</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO</source>
+        <translation>激活 Snipaste 2 专业版</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>电子邮箱</translation>
+    </message>
+    <message>
+        <source>Offline activation</source>
+        <translation>离线激活</translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation>上一步</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation>激活</translation>
+    </message>
+    <message>
+        <source>Snipaste 2 PRO Activated</source>
+        <translation>Snipaste 2 专业版已激活</translation>
+    </message>
+    <message>
+        <source>Deactivate</source>
+        <translation>反激活</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>好的</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation>稍后</translation>
+    </message>
+    <message>
+        <source>Online activation</source>
+        <translation>在线激活</translation>
+    </message>
+    <message>
+        <source>Purchase</source>
+        <translation>购买</translation>
     </message>
 </context>
 <context>

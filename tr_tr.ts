@@ -484,13 +484,88 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
         <source>Later</source>
         <translation>Sonra</translation>
     </message>
+</context>
+<context>
+    <name>LicensingClient</name>
     <message>
-        <source>Remove license key? Snipaste will be unregistered.</source>
-        <translation>Lisans anahtarını kaldır? Snipaste kayıtsız olacak.</translation>
+        <source>HTTP error code: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation>İptal</translation>
+        <source>Unknown error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to connect to the server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server internal error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission denied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license key has already been associated with a different email address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license key.</source>
+        <translation>Geçersiz lisans anahtarı.</translation>
+    </message>
+    <message>
+        <source>Invalid arguments.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license key has been revoked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid credentials.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid email.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The license has reached its device limit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The activation on this device has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivation request denied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again after %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -697,10 +772,6 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
         <translation>Önizleme</translation>
     </message>
     <message>
-        <source>For XP</source>
-        <translation>XP İçin</translation>
-    </message>
-    <message>
         <source>-bit</source>
         <translation>-bit</translation>
     </message>
@@ -711,6 +782,10 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     <message>
         <source>Mouse drag</source>
         <translation>Fare sürüklemesi</translation>
+    </message>
+    <message>
+        <source>Registered to</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thank you for your support!</source>
@@ -735,6 +810,18 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     <message>
         <source>Weibo</source>
         <translation>Weibo</translation>
+    </message>
+    <message>
+        <source>Related Links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>EULA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy Policy</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -960,10 +1047,6 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     <message>
         <source>Existing image windows</source>
         <translation>Mevcut görüntü pencereleri</translation>
-    </message>
-    <message>
-        <source>Remove license</source>
-        <translation>Lisansı kaldır</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
@@ -1699,6 +1782,10 @@ Bu bildirimi kalıcı olarak kapatmak için bunlardan herhangi birini tıklayın
         <translation>Son kırpma alanını kırp ve kopyala</translation>
     </message>
     <message>
+        <source>Clear snip history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Scan QR code / barcode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1743,10 +1830,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
         <translation>Şeffaf beyaz tahta moduna girin (Çıkmak için Esc&apos;ye iki kez dokunun)</translation>
-    </message>
-    <message>
-        <source>Clear snip records</source>
-        <translation>Kırpma kayıtlarını temizle</translation>
     </message>
 </context>
 <context>
@@ -1800,6 +1883,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Invalid command line options.</source>
         <translation>Geçersiz komut satırı seçenekleri.</translation>
+    </message>
+    <message>
+        <source>PRO</source>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1968,10 +2055,6 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>TrayMenu</name>
     <message>
-        <source>Clear snip records</source>
-        <translation>Kırpma kayıtlarını temizle</translation>
-    </message>
-    <message>
         <source>Snip</source>
         <translation>Kırp</translation>
     </message>
@@ -2071,28 +2154,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Snipaste&apos;nin ücretsiz sürümünü kullanıyorsunuz %1 %2.</translation>
     </message>
     <message>
-        <source>Snipaste offline activation request</source>
-        <translation>Snipaste çevrimdışı etkinleştirme isteği</translation>
-    </message>
-    <message>
-        <source>Hardware identity</source>
-        <translation>Donanım kimliği</translation>
-    </message>
-    <message>
-        <source>Validity period</source>
-        <translation>Geçerlilik süresi</translation>
-    </message>
-    <message>
-        <source>Please enter a proper duration for this machine. Offline license cannot be removed within its validity period.</source>
-        <translation>Lütfen bu makine için uygun bir süre girin. Çevrimdışı lisans, geçerlilik süresi içinde kaldırılamaz.</translation>
-    </message>
-    <message>
         <source>License key</source>
         <translation>Lisans anahtarı</translation>
-    </message>
-    <message>
-        <source>Paste your license key here</source>
-        <translation>Lisans anahtarınızı buraya yapıştırın</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
@@ -2103,7 +2166,43 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>%1 sadece KİŞİSEL KULLANIM için ücretsizdir. İşyerinde kullanmak istiyorsanız, PRO lisansı gereklidir.</translation>
     </message>
     <message>
+        <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Business</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Registered to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart now to enjoy PRO features?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activating...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivating...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refreshing...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2115,68 +2214,12 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Lütfen yardıma ihtiyacınız olursa %1 ile iletişime geçmekte çekinmeyin.</translation>
     </message>
     <message>
-        <source>Purchase</source>
-        <translation>Satın al</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>İptal</translation>
-    </message>
-    <message>
-        <source>Activate</source>
-        <translation>Etkinleştir</translation>
-    </message>
-    <message>
-        <source>Back</source>
-        <translation>Geri</translation>
-    </message>
-    <message>
-        <source>Offline activation...</source>
-        <translation>Çevrimdışı etkinleştirme...</translation>
-    </message>
-    <message>
-        <source>Retry</source>
-        <translation>Yeniden</translation>
-    </message>
-    <message>
-        <source>Activation failed</source>
-        <translation>Etkinleştirme başarısız</translation>
-    </message>
-    <message>
-        <source>Invalid license.</source>
-        <translation>Geçersiz lisans.</translation>
-    </message>
-    <message>
-        <source>Number of activations exceeded.</source>
-        <translation>Etkinleştirme sayısı aşıldı.</translation>
-    </message>
-    <message>
-        <source>Network error.</source>
-        <translation>Ağ hatası.</translation>
-    </message>
-    <message>
-        <source>License expired.</source>
-        <translation>Lisans süresi doldu.</translation>
-    </message>
-    <message>
-        <source>Invalid license key.</source>
-        <translation>Geçersiz lisans anahtarı.</translation>
-    </message>
-    <message>
-        <source>Error code</source>
-        <translation>Hata kodu</translation>
-    </message>
-    <message>
         <source>The PRO version unlocks more than 40 useful features!</source>
         <translation>PRO sürümü, 40&apos;tan fazla kullanışlı özelliğin kilidini açar!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
         <translation>Lisans, Snipaste 2&apos;yi tüm 2.x güncellemeleriyle sonsuza kadar kullanmanıza izin verir.</translation>
-    </message>
-    <message>
-        <source>Enter license key:</source>
-        <translation>Lisans anahtarını girin:</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -3502,6 +3545,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>Zoom at mouse position</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Activation Info</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3618,8 +3665,56 @@ Examples:
 <context>
     <name>unlockprodialog</name>
     <message>
-        <source>OR</source>
-        <translation>VEYA</translation>
+        <source>Purchase</source>
+        <translation>Satın al</translation>
+    </message>
+    <message>
+        <source>Enter license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>İptal</translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline activation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation>Geri</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snipaste 2 PRO Activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>Tamam</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation>Sonra</translation>
+    </message>
+    <message>
+        <source>Online activation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
