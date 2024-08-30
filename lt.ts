@@ -489,83 +489,83 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     <name>LicensingClient</name>
     <message>
         <source>HTTP error code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>„HTTP“ klaidos kodas: %s</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nežinoma klaida.</translation>
     </message>
     <message>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinklo klaida</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko prisijungti prie serverio.</translation>
     </message>
     <message>
         <source>Server internal error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vidinė serverio klaida.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leidimas nesuteiktas.</translation>
     </message>
     <message>
         <source>The license key has already been associated with a different email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencijos kodas jau yra susietas su kitokiu el. pašto adresu.</translation>
     </message>
     <message>
         <source>Please check your input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prašome patikrinti savo įvestį.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation>Neteisingas licencijos kodas.</translation>
+        <translation>Neteisingas licencijos raktas.</translation>
     </message>
     <message>
         <source>Invalid arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Negalimi argumentai.</translation>
     </message>
     <message>
         <source>The license key has been revoked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencijos raktui buvo sustabdytas galiojimas.</translation>
     </message>
     <message>
         <source>The license has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencijos rakto galiojimas yra pasibaigęs.</translation>
     </message>
     <message>
         <source>Invalid credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Negalimi kredencialai.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Negalimas el. paštas.</translation>
     </message>
     <message>
         <source>The license has reached its device limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencija pasiekė savo įrenginių ribą.</translation>
     </message>
     <message>
         <source>The activation on this device has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šio įrenginio aktyvacija pasibaigė.</translation>
     </message>
     <message>
         <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prašome patikrinti savo tinklo prisijungimą ir – &lt;a href=&quot;%1&quot;&gt;įkelti iš naujo&lt;/a&gt;, norint bandyti dar kartą.</translation>
     </message>
     <message>
         <source>Deactivation request denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktyvacijos prašymas buvo atmestas.</translation>
     </message>
     <message>
         <source>Please try again after %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prašome pabandyti dar kartą, po – %1.</translation>
     </message>
     <message>
         <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūs perviršijote leidžiama dažnumą deaktyvacijom. Prašome pabandyti dar kartą, vėlesniam laikui.</translation>
     </message>
 </context>
 <context>
@@ -781,7 +781,7 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Registruota –</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -805,15 +805,15 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Related Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Susijusios nuorodos</translation>
     </message>
     <message>
         <source>EULA</source>
-        <translation type="unfinished"></translation>
+        <translation>„EULA“ – Galuti̇̀nio naudótojo/vartótojo liceñcijos sutarti̇̀s</translation>
     </message>
     <message>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Privatumo politika</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -1760,7 +1760,7 @@ Spustelėkite bet kurį iš jų, kad visam laikui atšauktumėte šį pranešim�
     </message>
     <message>
         <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
+        <translation>Išvalyti fiksavimų istoriją</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -2169,7 +2169,7 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencija Jums leidžia aktyvuoti iki 3-ių įrenginių („Windows“/„Mac“/„Linux“).</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
@@ -2177,35 +2177,35 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>Asmeninis</translation>
     </message>
     <message>
         <source>Business</source>
-        <translation type="unfinished"></translation>
+        <translation>Verslas</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Registruota –</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"></translation>
+        <translation>įrenginiai</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Perleiskite dabar, norint naudotis „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Activating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvuojama...</translation>
     </message>
     <message>
         <source>Deactivating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktyvuojama...</translation>
     </message>
     <message>
         <source>Refreshing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Įkeliama iš naujo...</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -3551,7 +3551,7 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     </message>
     <message>
         <source>Activation Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvacijos informacija</translation>
     </message>
 </context>
 <context>
@@ -3687,7 +3687,7 @@ Pvz:
     </message>
     <message>
         <source>Enter license</source>
-        <translation type="unfinished"></translation>
+        <translation>Įveskite licenciją</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3695,15 +3695,15 @@ Pvz:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvuoti „Snipaste 2 PRO“</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>El. paštas</translation>
     </message>
     <message>
         <source>Offline activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvacija atsijungus</translation>
     </message>
     <message>
         <source>Back</source>
@@ -3715,11 +3715,11 @@ Pvz:
     </message>
     <message>
         <source>Snipaste 2 PRO Activated</source>
-        <translation type="unfinished"></translation>
+        <translation>„Snipaste 2 PRO“ sėkmingai aktyvuota</translation>
     </message>
     <message>
         <source>Deactivate</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktyvuoti</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3731,7 +3731,7 @@ Pvz:
     </message>
     <message>
         <source>Online activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvacija prisijungus</translation>
     </message>
 </context>
 <context>
