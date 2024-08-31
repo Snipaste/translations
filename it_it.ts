@@ -437,7 +437,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation>Ripeti la cronologia dei ritagli</translation>
+        <translation>Riscorri il registro storico dei ritagli</translation>
     </message>
     <message>
         <source>Reuse the last snipping areas</source>
@@ -489,35 +489,35 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     <name>LicensingClient</name>
     <message>
         <source>HTTP error code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice errore HTTP: %1</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore sconosciuto.</translation>
     </message>
     <message>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di rete</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile collegarsi al server.</translation>
     </message>
     <message>
         <source>Server internal error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore interno al server.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permesso negato.</translation>
     </message>
     <message>
         <source>The license key has already been associated with a different email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>La chiave di licenza è già stata associata ad un indirizzo email diverso.</translation>
     </message>
     <message>
         <source>Please check your input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlla i dati inseriti, prego.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
@@ -525,47 +525,47 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Invalid arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Argomenti non validi.</translation>
     </message>
     <message>
         <source>The license key has been revoked.</source>
-        <translation type="unfinished"></translation>
+        <translation>La chiave di licenza è stata revocata.</translation>
     </message>
     <message>
         <source>The license has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>La licenza è scaduta.</translation>
     </message>
     <message>
         <source>Invalid credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Credenziali non valide.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Email non valida.</translation>
     </message>
     <message>
         <source>The license has reached its device limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>La licenza ha raggiunto il limite di dispositivi.</translation>
     </message>
     <message>
         <source>The activation on this device has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;attivazione su questo dispositivo è scaduta.</translation>
     </message>
     <message>
         <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlla la tua connessione di rete e &lt;a href=&quot;%1&quot;&gt;aggiorna&lt;/a&gt; per riprovare.</translation>
     </message>
     <message>
         <source>Deactivation request denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Richiesta di disattivazione negata.</translation>
     </message>
     <message>
         <source>Please try again after %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Riprova dopo %1.</translation>
     </message>
     <message>
         <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai superato la frequenza consentita per le disattivazioni. Riprova più tardi.</translation>
     </message>
 </context>
 <context>
@@ -781,7 +781,7 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrato a</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -805,15 +805,15 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Related Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Collegamenti correlati</translation>
     </message>
     <message>
         <source>EULA</source>
-        <translation type="unfinished"></translation>
+        <translation>CONTRATTO DI LICENZA D&apos;USO (EULA)</translation>
     </message>
     <message>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Informativa sulla riservatezza</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -1760,7 +1760,7 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
     </message>
     <message>
         <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella il registro storico dei ritagli</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -2169,7 +2169,7 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     </message>
     <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
-        <translation type="unfinished"></translation>
+        <translation>La licenza può attivare fino a 3 dispositivi (Windows/Mac/Linux).</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
@@ -2177,35 +2177,35 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     </message>
     <message>
         <source>Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>Personale</translation>
     </message>
     <message>
         <source>Business</source>
-        <translation type="unfinished"></translation>
+        <translation>Commerciale</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrato a</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"></translation>
+        <translation>dispositivi</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Riavviare ora per godersi le funzioni PRO?</translation>
     </message>
     <message>
         <source>Activating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Attivazione...</translation>
     </message>
     <message>
         <source>Deactivating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Disattivazione...</translation>
     </message>
     <message>
         <source>Refreshing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento...</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -2687,7 +2687,7 @@ Tuttavia, in questo modo, il canale alfa dell&apos;immagine sarà perduto.</tran
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
-        <translation>Imposta il numero massimo di registrazioni dello storico dei ritagli, che vengono memorizzati in storico/ritagli.</translation>
+        <translation>Imposta il numero massimo di registrazioni nel registro storico dei ritagli, che vengono memorizzati in storico/ritag.</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -2695,7 +2695,7 @@ Tuttavia, in questo modo, il canale alfa dell&apos;immagine sarà perduto.</tran
     </message>
     <message>
         <source>Max number of history records:</source>
-        <translation>Numero massimo di registrazioni nello storico:</translation>
+        <translation>Numero massimo di registrazioni nel registro storico:</translation>
     </message>
     <message>
         <source>Sound Effect</source>
@@ -3551,7 +3551,7 @@ Se deselezionato, solo il tipo attivo di annotazioni sarà selezionabile al pass
     </message>
     <message>
         <source>Activation Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni sull&apos;attivazione</translation>
     </message>
 </context>
 <context>
@@ -3687,7 +3687,7 @@ Esempi:
     </message>
     <message>
         <source>Enter license</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci la licenza</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3695,15 +3695,15 @@ Esempi:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva Snipaste 2 PRO</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Email</translation>
     </message>
     <message>
         <source>Offline activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Attivazione offline</translation>
     </message>
     <message>
         <source>Back</source>
@@ -3715,11 +3715,11 @@ Esempi:
     </message>
     <message>
         <source>Snipaste 2 PRO Activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO Attivato</translation>
     </message>
     <message>
         <source>Deactivate</source>
-        <translation type="unfinished"></translation>
+        <translation>Disattiva</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3731,7 +3731,7 @@ Esempi:
     </message>
     <message>
         <source>Online activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Attivazione online</translation>
     </message>
 </context>
 <context>
