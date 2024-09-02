@@ -487,35 +487,35 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     <name>LicensingClient</name>
     <message>
         <source>HTTP error code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP 에러코드 : %1</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>알 수 없는 오류입니다.</translation>
     </message>
     <message>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>네트워크 오류</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>서버에 연결할 수 없습니다.</translation>
     </message>
     <message>
         <source>Server internal error.</source>
-        <translation type="unfinished"></translation>
+        <translation>서버 내부 오류입니다.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>권한이 거부되었습니다.</translation>
     </message>
     <message>
         <source>The license key has already been associated with a different email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>라이선스 키가 이미 다른 이메일 주소에 연결되어 있습니다.</translation>
     </message>
     <message>
         <source>Please check your input.</source>
-        <translation type="unfinished"></translation>
+        <translation>입력한 값을 확인해 주세요.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
@@ -523,47 +523,47 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>Invalid arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>인수가 유효하지 않습니다.</translation>
     </message>
     <message>
         <source>The license key has been revoked.</source>
-        <translation type="unfinished"></translation>
+        <translation>라이선스 키가 해지되었습니다.</translation>
     </message>
     <message>
         <source>The license has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>라이선스가 만료되었습니다.</translation>
     </message>
     <message>
         <source>Invalid credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>잘못된 자격 증명입니다.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
-        <translation type="unfinished"></translation>
+        <translation>잘못된 이메일입니다.</translation>
     </message>
     <message>
         <source>The license has reached its device limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>라이선스가 디바이스 한도에 도달했습니다.</translation>
     </message>
     <message>
         <source>The activation on this device has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 디바이스의 활성화가 만료되었습니다.</translation>
     </message>
     <message>
         <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>네트워크 연결을 확인하고 &lt;a href=&quot;%1&quot;&gt;새로 고침&lt;/a&gt;을 눌러 다시 시도하세요.</translation>
     </message>
     <message>
         <source>Deactivation request denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>비활성화 요청이 거부되었습니다.</translation>
     </message>
     <message>
         <source>Please try again after %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 후에 다시 시도하세요.</translation>
     </message>
     <message>
         <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>비활성화에 허용된 횟수를 초과했습니다. 나중에 다시 시도해 주세요.</translation>
     </message>
 </context>
 <context>
@@ -779,7 +779,7 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 주소로 등록</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -803,15 +803,15 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>Related Links</source>
-        <translation type="unfinished"></translation>
+        <translation>관련 링크</translation>
     </message>
     <message>
         <source>EULA</source>
-        <translation type="unfinished"></translation>
+        <translation>EULA</translation>
     </message>
     <message>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>개인정보 보호정책</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -1754,7 +1754,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
+        <translation>캡처 기록 지우기</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -2163,7 +2163,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
-        <translation type="unfinished"></translation>
+        <translation>라이선스는 최대 3개의 디바이스(Windows/Mac/Linux)를 활성화할 수 있습니다.</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
@@ -2171,35 +2171,35 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>개인</translation>
     </message>
     <message>
         <source>Business</source>
-        <translation type="unfinished"></translation>
+        <translation>비즈니스</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 주소로 등록</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"></translation>
+        <translation>장치</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>지금 다시 시작하여 PRO 기능을 사용하시겠습니까?</translation>
     </message>
     <message>
         <source>Activating...</source>
-        <translation type="unfinished"></translation>
+        <translation>활성화중...</translation>
     </message>
     <message>
         <source>Deactivating...</source>
-        <translation type="unfinished"></translation>
+        <translation>비활성화중...</translation>
     </message>
     <message>
         <source>Refreshing...</source>
-        <translation type="unfinished"></translation>
+        <translation>새로고침...</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -2668,7 +2668,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Ignore the right Windows key when snipping.</source>
-        <translation>캡쳐시 오른쪽 윈도우키 무시</translation>
+        <translation>캡쳐시 오른쪽 윈도우키 무시.</translation>
     </message>
     <message>
         <source>Right</source>
@@ -2676,11 +2676,11 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Max number of history areas:</source>
-        <translation>히스토리의 최대 값</translation>
+        <translation>히스토리의 최대 값 :</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
-        <translation>snipping을위한 history 레코드의 최대 수 설정</translation>
+        <translation>기록/스크랩에 저장되는 스크랩 기록의 최대 개수를 설정합니다.</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -2688,7 +2688,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Max number of history records:</source>
-        <translation>최대 기록 레코드 수</translation>
+        <translation>최대 기록 레코드 수 :</translation>
     </message>
     <message>
         <source>Sound Effect</source>
@@ -2696,7 +2696,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Sound file:</source>
-        <translation>사운드 파일</translation>
+        <translation>사운드 파일 :</translation>
     </message>
     <message>
         <source>Play</source>
@@ -2704,11 +2704,11 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
-        <translation>스크린샷이 클립보드에 저장되면 효과음 재생</translation>
+        <translation>스크린샷이 클립보드에 저장되면 효과음 재생.</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved via Quick Save.</source>
-        <translation>스크린샷이 빠른저장 완료시 효과음 재생</translation>
+        <translation>스크린샷이 빠른저장 완료시 효과음 재생.</translation>
     </message>
     <message>
         <source>Quick Save</source>
@@ -2716,7 +2716,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Pick a sound file (.wav).</source>
-        <translation>음성파일 선택 (.wav)</translation>
+        <translation>음성파일 선택 (.wav).</translation>
     </message>
     <message>
         <source>Change</source>
@@ -2732,11 +2732,11 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Set the color of the window shadow.</source>
-        <translation>창 그림자의 색상 설정</translation>
+        <translation>창 그림자의 색상 설정.</translation>
     </message>
     <message>
         <source>Enable hotkeys on the context menu of image windows.</source>
-        <translation>이미지 창의 컨텍스트 메뉴에서 단축키 활성화</translation>
+        <translation>이미지 창의 컨텍스트 메뉴에서 단축키 활성화.</translation>
     </message>
     <message>
         <source>Mnemonics on the context menu</source>
@@ -2744,12 +2744,13 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Default opacity:</source>
-        <translation>기본 불투명도</translation>
+        <translation>기본 불투명도 :</translation>
     </message>
     <message>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
-        <translation>새 이미지 창에 대한 기본 투명도를 설정합니다. (범위 : 10 - 100)</translation>
+        <translation>새 이미지 창에 대한 기본 투명도를 설정합니다.
+(범위 : 10 - 100).</translation>
     </message>
     <message>
         <source>Auto backup</source>
@@ -2758,12 +2759,14 @@ Range: 10 - 100</source>
     <message>
         <source>Let new image windows have shadows.
 You can also find this option in the context menu of individual image window.</source>
-        <translation>새 이미지 창에 그림자가 생깁니다. 이 옵션은 개별 이미지 창의 메뉴에도 있습니다.</translation>
+        <translation>새 이미지 창에 그림자가 생깁니다.
+이 옵션은 개별 이미지 창의 메뉴에도 있습니다.</translation>
     </message>
     <message>
         <source>If the source is a screenshot, show it where you snipped.
 If disabled, it would always be shown at the center of the primary screen.</source>
-        <translation>소스가 스크린 샷 인 경우 캡처 한 위치를 표시합니다. 비활성화 된 경우 기본 화면의 중앙에 항상 표시됩니다.</translation>
+        <translation>소스가 스크린 샷 인 경우 캡처 한 위치를 표시합니다.
+비활성화 된 경우 기본 화면의 중앙에 항상 표시됩니다.</translation>
     </message>
     <message>
         <source>Use snipping position</source>
@@ -2780,7 +2783,8 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     <message>
         <source>Let new images use smooth scaling when zooming.
 You can also find this option in the context menu of individual image window.</source>
-        <translation>새로운 이미지가 확대 / 축소시 부드러운 부드럽게 진행됩니다. 이 옵션은 개별 이미지 창의 메뉴에도 있습니다.</translation>
+        <translation>새로운 이미지가 확대 / 축소시 부드러운 부드럽게 진행됩니다.
+이 옵션은 개별 이미지 창의 메뉴에도 있습니다.</translation>
     </message>
     <message>
         <source>Smooth scaling</source>
@@ -2788,7 +2792,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Let the &apos;reset&apos; operation work on thumbnail too.</source>
-        <translation>썸네일에서도 &apos;리셋&apos; 작업 작동하게 함</translation>
+        <translation>썸네일에서도 &apos;리셋&apos; 작업 작동하게 함.</translation>
     </message>
     <message>
         <source>Reset on thumbnail</source>
@@ -2796,7 +2800,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Let the image window be translucent if its border is flashing.</source>
-        <translation>테두리가 깜빡일때 이미지 창을 반투명하게 함</translation>
+        <translation>테두리가 깜빡일때 이미지 창을 반투명하게 함.</translation>
     </message>
     <message>
         <source>Translucent when flashing</source>
@@ -2828,7 +2832,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>When a new image is pasted:</source>
-        <translation>새 이미지를 붙여 넣을 때</translation>
+        <translation>새 이미지를 붙여 넣을 때 :</translation>
     </message>
     <message>
         <source>Let the border of a new image window flash.</source>
@@ -2840,7 +2844,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Let the new image window gain keyboard focus.</source>
-        <translation>새창이 열릴때 키보드 포커스를 이동함</translation>
+        <translation>새창이 열릴때 키보드 포커스를 이동함.</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -2848,7 +2852,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Max recoverable closed images:</source>
-        <translation>닫은 이미지 복구에 대한 최대 갯수</translation>
+        <translation>닫은 이미지 복구에 대한 최대 갯수 :</translation>
     </message>
     <message>
         <source>Conversion</source>
@@ -2860,7 +2864,7 @@ You can also find this option in the context menu of individual image window.</s
     </message>
     <message>
         <source>Always treat text as plain text when converting text to image.</source>
-        <translation>텍스트를 이미지로 변환 할 때는 항상 텍스트를 일반 텍스트로 취급</translation>
+        <translation>텍스트를 이미지로 변환 할 때는 항상 텍스트를 일반 텍스트로 취급.</translation>
     </message>
     <message>
         <source>Always ignore HTML formats</source>
@@ -2870,7 +2874,9 @@ You can also find this option in the context menu of individual image window.</s
         <source>If you copy an image file, the first paste will show the image, the second paste will show the file path.
 If you copy a non-image file, a paste will immediately show the file path.
 If this option is checked, the above features will be disabled.</source>
-        <translation>이미지 파일을 복사하면 첫 번째 붙여 넣기에 이미지가 표시되고 두 번째 붙여 넣기에는 파일 경로가 표시됩니다. 비 이미지 파일을 복사하면 붙여 넣기 파일 경로가 즉시 표시됩니다. 이 옵션을 선택하면 위의 기능이 비활성화됩니다.</translation>
+        <translation>이미지 파일을 복사하면 첫 번째 붙여 넣기에 이미지가 표시되고 두 번째 붙여 넣기에는 파일 경로가 표시됩니다. 
+비 이미지 파일을 복사하면 붙여 넣기 파일 경로가 즉시 표시됩니다.
+이 옵션을 선택하면 위의 기능이 비활성화됩니다.</translation>
     </message>
     <message>
         <source>Never paste file paths</source>
@@ -2878,7 +2884,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Page margin:</source>
-        <translation>페이지 여백</translation>
+        <translation>페이지 여백 :</translation>
     </message>
     <message>
         <source>The blank space around the text</source>
@@ -2886,7 +2892,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Max width:</source>
-        <translation>최대 가로폭</translation>
+        <translation>최대 가로폭 :</translation>
     </message>
     <message>
         <source>The max width of the image converted from text</source>
@@ -2894,7 +2900,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Font:</source>
-        <translation>폰트</translation>
+        <translation>폰트 :</translation>
     </message>
     <message>
         <source>The font used for plain text conversion</source>
@@ -2902,7 +2908,7 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Colors:</source>
-        <translation>커서</translation>
+        <translation>커서 :</translation>
     </message>
     <message>
         <source>The background color used for plain text conversion</source>
@@ -2930,24 +2936,23 @@ If this option is checked, the above features will be disabled.</source>
     </message>
     <message>
         <source>Image quality:</source>
-        <translation>이미지 품질</translation>
+        <translation>이미지 품질 :</translation>
     </message>
     <message>
         <source>Set the default output image quality.</source>
-        <translation>기본 이미지 품질 설정</translation>
+        <translation>기본 이미지 품질 설정.</translation>
     </message>
     <message>
         <source>Range: 0 to 100 or -1.
 Specify 0 to obtain small compressed files, 100 for large uncompressed files.
 Specify -1 to let Snipaste decide for you.</source>
         <translation>범위 : 0 ~ 100 또는 -1.
-0 : 압축 파일(작은 용량)
-100 : 큰 압축되지 않은 파일(큰 용량)
--1 : 스니페이스트가 자동으로 결정하게 함</translation>
+0 : 압축 파일(작은 용량) ~  100 : 큰 압축되지 않은 파일(큰 용량).
+-1 : 스니페이스트가 자동으로 결정하게 함.</translation>
     </message>
     <message>
         <source>Preview:</source>
-        <translation>미리보기</translation>
+        <translation>미리보기 :</translation>
     </message>
     <message>
         <source>Browse the quick save folder.</source>
@@ -2959,7 +2964,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Change the quick save folder.</source>
-        <translation>빠른 저장폴더 변경</translation>
+        <translation>빠른 저장폴더 변경.</translation>
     </message>
     <message>
         <source>Auto Save</source>
@@ -2971,11 +2976,11 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Browse the auto save folder.</source>
-        <translation>자동 저장 폴더 보기</translation>
+        <translation>자동 저장 폴더 보기.</translation>
     </message>
     <message>
         <source>Change the auto save folder.</source>
-        <translation>자동 저장폴더 변경</translation>
+        <translation>자동 저장폴더 변경.</translation>
     </message>
     <message>
         <source>Global Hotkeys</source>
@@ -2987,7 +2992,7 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Close image:</source>
-        <translation>이미지 닫기</translation>
+        <translation>이미지 닫기.</translation>
     </message>
     <message>
         <source>Reset image:</source>
@@ -3536,7 +3541,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Activation Info</source>
-        <translation type="unfinished"></translation>
+        <translation>활성화 정보</translation>
     </message>
 </context>
 <context>
@@ -3671,7 +3676,7 @@ ex) 500 500
     </message>
     <message>
         <source>Enter license</source>
-        <translation type="unfinished"></translation>
+        <translation>라이선스 입력</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3679,15 +3684,15 @@ ex) 500 500
     </message>
     <message>
         <source>Activate Snipaste 2 PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO 활성화</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>이메일</translation>
     </message>
     <message>
         <source>Offline activation</source>
-        <translation type="unfinished"></translation>
+        <translation>오프라인 활성화</translation>
     </message>
     <message>
         <source>Back</source>
@@ -3699,15 +3704,15 @@ ex) 500 500
     </message>
     <message>
         <source>Snipaste 2 PRO Activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO 활성화</translation>
     </message>
     <message>
         <source>Deactivate</source>
-        <translation type="unfinished"></translation>
+        <translation>비활성화</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Later</source>
@@ -3715,7 +3720,7 @@ ex) 500 500
     </message>
     <message>
         <source>Online activation</source>
-        <translation type="unfinished"></translation>
+        <translation>온라인 활성화</translation>
     </message>
 </context>
 <context>
