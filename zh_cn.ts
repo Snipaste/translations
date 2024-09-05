@@ -499,6 +499,14 @@ Restart now to enjoy PRO features?</source>
         <translation>网络错误</translation>
     </message>
     <message>
+        <source>Too many requests.</source>
+        <translation>请求过于频繁。</translation>
+    </message>
+    <message>
+        <source>Please try again later.</source>
+        <translation>请稍后再试。</translation>
+    </message>
+    <message>
         <source>Unable to connect to the server.</source>
         <translation>无法连接到服务器。</translation>
     </message>
@@ -3733,7 +3741,7 @@ Examples:
     </message>
     <message>
         <source>Email</source>
-        <translation>电子邮箱</translation>
+        <translation>电子邮件地址</translation>
     </message>
     <message>
         <source>Offline activation</source>

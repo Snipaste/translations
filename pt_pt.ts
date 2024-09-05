@@ -500,6 +500,14 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
         <translation>Erro de rede</translation>
     </message>
     <message>
+        <source>Too many requests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to connect to the server.</source>
         <translation>Não foi possível ligar ao servidor.</translation>
     </message>

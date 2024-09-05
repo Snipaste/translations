@@ -500,6 +500,14 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
         <translation>Errore di rete</translation>
     </message>
     <message>
+        <source>Too many requests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to connect to the server.</source>
         <translation>Impossibile collegarsi al server.</translation>
     </message>

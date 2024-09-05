@@ -500,6 +500,14 @@ Restart now to enjoy PRO features?</source>
         <translation>Error de red</translation>
     </message>
     <message>
+        <source>Too many requests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to connect to the server.</source>
         <translation>No se puede conectar al servidor.</translation>
     </message>

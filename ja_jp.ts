@@ -500,6 +500,14 @@ PRO機能を利用するために今すぐSnipasteを再起動しますか？</t
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Too many requests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to connect to the server.</source>
         <translation type="unfinished"></translation>
     </message>

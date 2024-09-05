@@ -500,6 +500,14 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
         <translation>Netwerkfout</translation>
     </message>
     <message>
+        <source>Too many requests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to connect to the server.</source>
         <translation>Kan geen verbinding maken met de server.</translation>
     </message>

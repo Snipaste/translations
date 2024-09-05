@@ -489,35 +489,43 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO?</translation>
     <name>LicensingClient</name>
     <message>
         <source>HTTP error code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Code d&apos;erreur HTTP : %1</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur inconnue.</translation>
     </message>
     <message>
         <source>Network error</source>
+        <translation>Erreur réseau</translation>
+    </message>
+    <message>
+        <source>Too many requests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again later.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de se connecter au serveur.</translation>
     </message>
     <message>
         <source>Server internal error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur interne du serveur.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permission refusée.</translation>
     </message>
     <message>
         <source>The license key has already been associated with a different email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>La clé de licence a déjà été associée à une adresse e-mail différente.</translation>
     </message>
     <message>
         <source>Please check your input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez vérifier votre saisie.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
@@ -525,47 +533,47 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO?</translation>
     </message>
     <message>
         <source>Invalid arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arguments invalides.</translation>
     </message>
     <message>
         <source>The license key has been revoked.</source>
-        <translation type="unfinished"></translation>
+        <translation>La clé de licence a été révoquée.</translation>
     </message>
     <message>
         <source>The license has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>La licence a expiré.</translation>
     </message>
     <message>
         <source>Invalid credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifiants invalides.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Email invalide.</translation>
     </message>
     <message>
         <source>The license has reached its device limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>La licence a atteint sa limite d&apos;appareil.</translation>
     </message>
     <message>
         <source>The activation on this device has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;activation sur cet appareil a expiré.</translation>
     </message>
     <message>
         <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez vérifier votre connexion réseau et &lt;a href=&quot;%1&quot;&gt;actualiser&lt;/a&gt; pour réessayer.</translation>
     </message>
     <message>
         <source>Deactivation request denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Demande de désactivation refusée.</translation>
     </message>
     <message>
         <source>Please try again after %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez réessayer après %1.</translation>
     </message>
     <message>
         <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez dépassé la fréquence de désactivation autorisée. Veuillez réessayer plus tard.</translation>
     </message>
 </context>
 <context>
@@ -939,19 +947,19 @@ Le démarrage sur le démarrage a été annulé.</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistré à</translation>
     </message>
     <message>
         <source>Related Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Liens connexes</translation>
     </message>
     <message>
         <source>EULA</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Politique de confidentialité</translation>
     </message>
     <message>
         <source>Lithuanian</source>
@@ -1760,7 +1768,7 @@ Cliquez sur l&apos;un d&apos;entre eux pour ignorer définitivement cette notifi
     </message>
     <message>
         <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer l&apos;historique des captures</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -2169,7 +2177,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
-        <translation type="unfinished"></translation>
+        <translation>La licence peut activer jusqu&apos;à 3 appareils (Windows/Mac/Linux).</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
@@ -2177,35 +2185,35 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>Personnel</translation>
     </message>
     <message>
         <source>Business</source>
-        <translation type="unfinished"></translation>
+        <translation>Entreprise</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistré à</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"></translation>
+        <translation>appareils</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Redémarrer maintenant pour jouir des fonctionnalités PRO ?</translation>
     </message>
     <message>
         <source>Activating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Activation...</translation>
     </message>
     <message>
         <source>Deactivating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactivation...</translation>
     </message>
     <message>
         <source>Refreshing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualisation...</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -3551,7 +3559,7 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
     </message>
     <message>
         <source>Activation Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Infos d&apos;activation</translation>
     </message>
 </context>
 <context>
@@ -3687,7 +3695,7 @@ Exemples:
     </message>
     <message>
         <source>Enter license</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrer la licence</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3695,15 +3703,15 @@ Exemples:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer Snipaste 2 PRO</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Offline activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Activation hors ligne</translation>
     </message>
     <message>
         <source>Back</source>
@@ -3711,15 +3719,15 @@ Exemples:
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Activation</translation>
     </message>
     <message>
         <source>Snipaste 2 PRO Activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO activé</translation>
     </message>
     <message>
         <source>Deactivate</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactivation</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3731,7 +3739,7 @@ Exemples:
     </message>
     <message>
         <source>Online activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Activation en ligne</translation>
     </message>
 </context>
 <context>

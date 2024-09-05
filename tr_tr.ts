@@ -500,6 +500,14 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Too many requests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to connect to the server.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3694,7 +3702,7 @@ Examples:
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktif</translation>
     </message>
     <message>
         <source>Snipaste 2 PRO Activated</source>

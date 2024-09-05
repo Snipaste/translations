@@ -498,6 +498,14 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
         <translation>네트워크 오류</translation>
     </message>
     <message>
+        <source>Too many requests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to connect to the server.</source>
         <translation>서버에 연결할 수 없습니다.</translation>
     </message>

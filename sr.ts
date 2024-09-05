@@ -121,7 +121,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Прикажи у Менаџеру датотека</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -349,7 +349,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Прикажи/сакриј помоћне линије ако се исече</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -489,35 +489,43 @@ Restart now to enjoy PRO features?</source>
     <name>LicensingClient</name>
     <message>
         <source>HTTP error code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP грешка: %1</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Непозната грешка.</translation>
     </message>
     <message>
         <source>Network error</source>
+        <translation>Грешка мреже</translation>
+    </message>
+    <message>
+        <source>Too many requests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again later.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Није могуће повезати се са сервером.</translation>
     </message>
     <message>
         <source>Server internal error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Интерна грешка сервера.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозвола одбијена.</translation>
     </message>
     <message>
         <source>The license key has already been associated with a different email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лиценцни кључ је већ повезан са другим имејлом.</translation>
     </message>
     <message>
         <source>Please check your input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверите ваш унос.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
@@ -525,47 +533,47 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Invalid arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Погрешан аргуменат.</translation>
     </message>
     <message>
         <source>The license key has been revoked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лиценцни кључ је опозван.</translation>
     </message>
     <message>
         <source>The license has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лиценца је истекла.</translation>
     </message>
     <message>
         <source>Invalid credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неважећи акредитиви.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неважећи имејл.</translation>
     </message>
     <message>
         <source>The license has reached its device limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лиценца је достигла ограничење броја уређаја.</translation>
     </message>
     <message>
         <source>The activation on this device has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Активација на овом уређају је истекла.</translation>
     </message>
     <message>
         <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверите вашу везу и &lt;a href=&quot;%1&quot;&gt;освежите&lt;/a&gt; да би поново покушали.</translation>
     </message>
     <message>
         <source>Deactivation request denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Захтев за деактивацију је одбијен.</translation>
     </message>
     <message>
         <source>Please try again after %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пробајте поново после %1.</translation>
     </message>
     <message>
         <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Прекорачили сте дозвољену фреквенцију за деактивације. Покушајте поново касније.</translation>
     </message>
 </context>
 <context>
@@ -749,7 +757,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>for Windows XP</source>
-        <translation type="unfinished"></translation>
+        <translation>за Windows XP</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
@@ -757,15 +765,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>за Windows Desktop</translation>
     </message>
     <message>
         <source>for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>за macOS</translation>
     </message>
     <message>
         <source>for Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>за Linux</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -781,7 +789,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Регистровано</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -805,15 +813,15 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Related Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Повезане везе</translation>
     </message>
     <message>
         <source>EULA</source>
-        <translation type="unfinished"></translation>
+        <translation>EULA</translation>
     </message>
     <message>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Политика приватности</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -1285,7 +1293,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирајте путању до изворне датотеке</translation>
     </message>
     <message>
         <source>Copy plain text</source>
@@ -1413,15 +1421,15 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Кликом мишем</translation>
     </message>
     <message>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>да</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>не</translation>
     </message>
     <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
@@ -1760,7 +1768,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
+        <translation>Обришите историју исечака</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -1911,11 +1919,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Кликом мишем</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>не</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
@@ -2169,7 +2177,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
-        <translation type="unfinished"></translation>
+        <translation>Лиценца може активирати до 3 уређаја (Windows/Mac/Linux).</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
@@ -2177,35 +2185,35 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>Лично</translation>
     </message>
     <message>
         <source>Business</source>
-        <translation type="unfinished"></translation>
+        <translation>Бизнес</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Регистровано</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"></translation>
+        <translation>уређаја</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Поново покрените сада да бисте уживали у ПРО функцијама?</translation>
     </message>
     <message>
         <source>Activating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Активација...</translation>
     </message>
     <message>
         <source>Deactivating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Деактивација...</translation>
     </message>
     <message>
         <source>Refreshing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Освежавање...</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -3547,11 +3555,11 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Zoom at mouse position</source>
-        <translation type="unfinished"></translation>
+        <translation>Зумирајте положај миша</translation>
     </message>
     <message>
         <source>Activation Info</source>
-        <translation type="unfinished"></translation>
+        <translation>инфо активације</translation>
     </message>
 </context>
 <context>
@@ -3687,23 +3695,23 @@ Examples:
     </message>
     <message>
         <source>Enter license</source>
-        <translation type="unfinished"></translation>
+        <translation>Унети лиценцу</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Поништити</translation>
     </message>
     <message>
         <source>Activate Snipaste 2 PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Активирати Snipaste 2 PRO</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Имејл</translation>
     </message>
     <message>
         <source>Offline activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Активација ван мреже</translation>
     </message>
     <message>
         <source>Back</source>
@@ -3715,11 +3723,11 @@ Examples:
     </message>
     <message>
         <source>Snipaste 2 PRO Activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO активиран</translation>
     </message>
     <message>
         <source>Deactivate</source>
-        <translation type="unfinished"></translation>
+        <translation>Деактивација</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3731,7 +3739,7 @@ Examples:
     </message>
     <message>
         <source>Online activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Онлајн активација</translation>
     </message>
 </context>
 <context>
