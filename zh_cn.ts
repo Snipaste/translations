@@ -472,7 +472,7 @@ Please contact the developer.</source>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>谢谢你的支持！
+        <translation>感谢您的支持！
 马上重启即可享受专业版~</translation>
     </message>
     <message>
@@ -552,7 +552,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>The license has reached its device limit.</source>
-        <translation>已达最大设备数限制。</translation>
+        <translation>您的授权已达最大设备数限制。</translation>
     </message>
     <message>
         <source>The activation on this device has expired.</source>
@@ -946,7 +946,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Thank you for your support!</source>
-        <translation>谢谢你的支持！</translation>
+        <translation>感谢您的支持！</translation>
     </message>
     <message>
         <source>Russian</source>
