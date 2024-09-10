@@ -5,15 +5,15 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>Liên kết theo dõi</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>%1+Nhấp để theo liên kết</translation>
     </message>
 </context>
 <context>
@@ -27,22 +27,22 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhấn %1 để sao chép màu</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhấn %1 để chuyển đổi giữa RGB/HEX</translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Thêm vào cài đặt sẵn</translation>
     </message>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Chỉnh sửa cài đặt sẵn...</translation>
     </message>
     <message>
         <source>s</source>
@@ -88,14 +88,12 @@
         <translation>Thử lại</translation>
     </message>
     <message>
-        <source>Feed download failed.
-Network Error: %1</source>
+        <source>Feed download failed. Network Error: %1</source>
         <translation>Đường dẫn tải xuống bị hỏng. Lỗi đường truyền %1 </translation>
     </message>
     <message>
-        <source>There is something wrong with the update feed (%1).
-Please contact the developer.</source>
-        <translation>Có một vài vấn đề bị lỗi với đường truyền tải lên %1.Hãy liên hệ với nhà phát triển.</translation>
+        <source>There is something wrong with the update feed (%1). Please contact the developer.</source>
+        <translation>Có một vài vấn đề bị lỗi với đường truyền tải lên %1. Hãy liên hệ với nhà phát triển.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -103,43 +101,43 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giá trị tập tin băm không khớp.</translation>
     </message>
     <message>
         <source>Please retry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vui lòng thử lại.</translation>
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có quyền ghi vào %1 không?</translation>
     </message>
     <message>
         <source>Saved successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã lưu thành công.</translation>
     </message>
     <message>
         <source>Unzipped successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giải nén thành công.</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Phiên bản mới của Snipaste đã được tải xuống tại:</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiện trong Finder</translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation>Cài đặt ngay</translation>
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiện trong Trình quản lý tập tin</translation>
     </message>
     <message>
         <source>Restarting</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang khởi động lại</translation>
     </message>
 </context>
 <context>
