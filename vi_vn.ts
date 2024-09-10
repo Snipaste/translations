@@ -144,7 +144,7 @@
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có chắc chắn muốn đóng nhóm đã chọn không? Hành động này không thể hoàn tác.</translation>
     </message>
 </context>
 <context>
@@ -187,38 +187,38 @@
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Các phím tắt</translation>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Tính năng PRO</translation>
     </message>
 </context>
 <context>
     <name>HotkeyCmdDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa lệnh</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có chắc chắn muốn xóa lệnh này không?</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên không được để trống!</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Lệnh không được để trống!</translation>
     </message>
     <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games)</source>
+        <translation>Nhập tên/đường dẫn cách nhau bằng dấu phẩy (ví dụ: snipaste.app, games)</translation>
     </message>
     <message>
         <source>More examples...</source>
-        <translation type="unfinished"></translation>
+        <translation>Các ví dụ khác...</translation>
     </message>
 </context>
 <context>
@@ -245,7 +245,7 @@
     </message>
     <message>
         <source>Refresh screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhấn để làm mới ảnh chụp màn hình</translation>
     </message>
     <message>
         <source>Enlarge the snipping area by 1 pixel</source>
@@ -309,7 +309,7 @@
     </message>
     <message>
         <source>Replace the image with the content in the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Thay thế hình ảnh bằng nội dung trong clipboard</translation>
     </message>
     <message>
         <source>Open the Preferences Dialog</source>
@@ -341,11 +341,11 @@
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Đặt vùng cắt thành màn hình đang hoạt động / toàn màn hình</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiện/Ẩn các đường phụ khi cắt</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -361,11 +361,11 @@
     </message>
     <message>
         <source>Undo the last edit (can be redone later)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoàn tác sửa đổi cuối cùng (có thể làm lại sau)</translation>
     </message>
     <message>
         <source>Remove all edits (cannot be undone)</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa tất cả sửa đổi (không thể hoàn tác)</translation>
     </message>
     <message>
         <source>Copy the image</source>
@@ -373,7 +373,7 @@
     </message>
     <message>
         <source>Restore the next edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Khôi phục sửa đổi tiếp theo</translation>
     </message>
     <message>
         <source>Save the image as a file</source>
@@ -389,7 +389,7 @@
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>hoặc</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
@@ -405,71 +405,70 @@
     </message>
     <message>
         <source>Toggle grayscale conversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Chuyển đổi thang độ xám [PRO]</translation>
     </message>
     <message>
         <source>Close the image window</source>
-        <translation type="unfinished"></translation>
+        <translation>Đóng cửa sổ hình ảnh</translation>
     </message>
     <message>
         <source>Toggle color inversion [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Chuyển đổi đảo màu [PRO]</translation>
     </message>
     <message>
         <source>Select all visible image windows [PRO]</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn tất cả cửa sổ hình ảnh hiển thị [PRO]</translation>
     </message>
     <message>
         <source>Mouse scroll or 1/2 or [/]</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuộn chuột hoặc 1/2 hoặc [/]</translation>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Bỏ chọn hình hiện tại nếu đang ở chế độ chỉnh sửa</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Giảm/Tăng độ rộng bút nếu đang ở chế độ chỉnh sửa</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
-        <translation type="unfinished"></translation>
+        <translation>Phát lại lịch sử cắt</translation>
     </message>
     <message>
         <source>Reuse the last snipping areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Sử dụng lại các vùng cắt cuối cùng</translation>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn màn hình đang hoạt động / toàn màn hình</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Di chuyển vùng cắt 1 pixel</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
-        <translation type="unfinished"></translation>
+        <translation>Điều chỉnh độ rộng bút</translation>
     </message>
     <message>
         <source>Select parent/child UI element</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn phần tử giao diện người dùng cha/con</translation>
     </message>
     <message>
         <source>Resize the area from center</source>
-        <translation type="unfinished"></translation>
+        <translation>Thay đổi kích thước vùng từ trung tâm</translation>
     </message>
     <message>
         <source>Deselect the editing item</source>
-        <translation type="unfinished"></translation>
+        <translation>Bỏ chọn mục chỉnh sửa</translation>
     </message>
 </context>
 <context>
     <name>Licensing</name>
     <message>
-        <source>Thanks for your support!
-Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <source>Thanks for your support! Restart now to enjoy PRO features?</source>
+        <translation>Cảm ơn bạn đã ủng hộ! Hãy khởi động lại ngay để tận hưởng các tính năng PRO?</translation>
     </message>
     <message>
         <source>OK</source>
@@ -477,98 +476,98 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Để sau</translation>
     </message>
 </context>
 <context>
     <name>LicensingClient</name>
     <message>
         <source>HTTP error code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mã lỗi HTTP: %1</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lỗi không xác định.</translation>
     </message>
     <message>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>Lỗi kết nối mạng</translation>
     </message>
     <message>
         <source>Too many requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quá nhiều yêu cầu.</translation>
     </message>
     <message>
         <source>Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vui lòng thử lại sau.</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể kết nối đến máy chủ.</translation>
     </message>
     <message>
         <source>Server internal error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Có lỗi với máy chủ.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không có quyền truy cập.</translation>
     </message>
     <message>
         <source>The license key has already been associated with a different email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Khóa cấp phép đã được liên kết với một địa chỉ email khác.</translation>
     </message>
     <message>
         <source>Please check your input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vui lòng kiểm tra đầu vào của bạn.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Khóa giấy phép không hợp lệ.</translation>
     </message>
     <message>
         <source>Invalid arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Các tham số không hợp lệ.</translation>
     </message>
     <message>
         <source>The license key has been revoked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Khóa giấy phép đã bị thu hồi.</translation>
     </message>
     <message>
         <source>The license has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giấy phép đã hết hạn.</translation>
     </message>
     <message>
         <source>Invalid credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Thông tin xác thực không hợp lệ.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Email không hợp lệ.</translation>
     </message>
     <message>
         <source>The license has reached its device limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giấy phép đã đạt đến giới hạn thiết bị.</translation>
     </message>
     <message>
         <source>The activation on this device has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Việc kích hoạt trên thiết bị này đã hết hạn.</translation>
     </message>
     <message>
         <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vui lòng kiểm tra kết nối mạng của bạn và &lt;a href=&quot;%1&quot;&gt;làm mới&lt;/a&gt; để thử lại.</translation>
     </message>
     <message>
         <source>Deactivation request denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yêu cầu hủy kích hoạt bị từ chối.</translation>
     </message>
     <message>
         <source>Please try again after %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vui lòng thử lại sau %1.</translation>
     </message>
     <message>
         <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn đã vượt quá tần suất cho phép để hủy kích hoạt. Vui lòng thử lại sau.</translation>
     </message>
 </context>
 <context>
