@@ -1830,23 +1830,23 @@ Click any of them to dismiss this notification permanently.
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phím tắt đã được sử dụng.</translation>
     </message>
     <message>
         <source>The shortcut has already been registered by another program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phím tắt đã được đăng ký bởi chương trình khác.</translation>
     </message>
     <message>
         <source>The shortcut is too simple and would not be registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phím tắt quá đơn giản và sẽ không được đăng ký.</translation>
     </message>
     <message>
         <source>The shortcut cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phím tắt không thể được nhận diện.</translation>
     </message>
     <message>
         <source>Press shortcut</source>
-        <translation>Nhấn vào shortcut</translation>
+        <translation>Nhấn vào phím tắt</translation>
     </message>
 </context>
 <context>
@@ -1872,7 +1872,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1884,7 +1884,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có chắc chắn muốn ghim tất cả hình ảnh không? (Số lượng: %1)</translation>
     </message>
     <message>
         <source>Import image group</source>
@@ -1916,11 +1916,11 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhấp chuột qua</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>tắt</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
@@ -1956,7 +1956,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>The group title should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiêu đề nhóm không được để trống.</translation>
     </message>
     <message>
         <source>New group name:</source>
@@ -1976,11 +1976,11 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Export image group(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Xuất nhóm hình ảnh</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Các nhóm hình ảnh Snipaste</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -2002,48 +2002,49 @@ Click any of them to dismiss this notification permanently.
     <name>Snipper</name>
     <message>
         <source>Lock aspect ratio (on)</source>
-        <translation type="unfinished"></translation>
+        <translation>Khóa tỉ lệ khung hình (bật)</translation>
     </message>
     <message>
         <source>Lock aspect ratio (off)</source>
-        <translation type="unfinished"></translation>
+        <translation>Khóa tỉ lệ khung hình (tắt)</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có muốn hủy việc chụp màn hình không?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Không hiển thị lại điều này</translation>
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
+        <translation>Điều chỉnh vùng chụp màn hình</translation>
     </message>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhập kích thước vùng</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Thay đổi đơn vị kích thước</translation>
     </message>
     <message>
         <source>Refresh screenshot
-(Long press to keep refreshing)</source>
-        <translation type="unfinished"></translation>
+    (Long press to keep refreshing)</source>
+        <translation> Làm mới ảnh chụp màn hình
+    (Nhấn lâu để giữ làm mới)</translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không phát hiện mã QR / mã vạch nào.</translation>
     </message>
     <message>
         <source>QR code / barcode scan result</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết quả quét mã QR / mã vạch</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lỗi: không thể tìm ra thiết bị hiển thị. Vui lòng khởi động lại Snipaste.</translation>
     </message>
 </context>
 <context>
@@ -2058,7 +2059,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Tắt phím tắt</translation>
     </message>
     <message>
         <source>Images</source>
@@ -2082,7 +2083,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Quản lý nhóm</translation>
     </message>
     <message>
         <source>Hide all images</source>
@@ -2098,23 +2099,23 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Gỡ lỗi</translation>
     </message>
     <message>
         <source>Open config file</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở tệp cấu hình</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở tệp nhật ký</translation>
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa tệp nhật ký</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Giúp đỡ</translation>
+        <translation>Hỗ trợ</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
@@ -2130,11 +2131,11 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở khóa PRO...</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Khởi động lại</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -2145,83 +2146,83 @@ Click any of them to dismiss this notification permanently.
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn đang sử dụng phiên bản miễn phí của Snipaste %1 %2.</translation>
     </message>
     <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
+        <translation>Mã khóa bản quyền</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở khóa tính năng PRO</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 chỉ miễn phí cho SỬ DỤNG CÁ NHÂN. Nếu bạn muốn sử dụng nó trong công việc, cần phải có giấy phép PRO.</translation>
     </message>
     <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
-        <translation type="unfinished"></translation>
+        <translation>Giấy phép có thể kích hoạt trên tối đa 3 thiết bị (Windows/Mac/Linux).</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giấy phép được liên kết với tài khoản Microsoft của bạn. Nếu bạn đã sở hữu giấy phép với tài khoản của mình, bạn có thể nhấn &apos;Mua&apos; để khôi phục giao dịch mua của bạn mà không bị tính phí lại.</translation>
     </message>
     <message>
         <source>Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>Cá nhân</translation>
     </message>
     <message>
         <source>Business</source>
-        <translation type="unfinished"></translation>
+        <translation>Doanh nghiệp</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã đăng ký cho</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"></translation>
+        <translation>thiết bị</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Khởi động lại ngay bây giờ để tận hưởng các tính năng PRO?</translation>
     </message>
     <message>
         <source>Activating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang kích hoạt...</translation>
     </message>
     <message>
         <source>Deactivating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang hủy kích hoạt...</translation>
     </message>
     <message>
         <source>Refreshing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang làm mới...</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vui lòng truy cập &lt;a href=&quot;%1&quot;&gt;trang web&lt;/a&gt; để biết thêm thông tin.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xin vui lòng liên hệ với %1 nếu bạn cần bất kỳ sự trợ giúp nào.</translation>
     </message>
     <message>
         <source>The PRO version unlocks more than 40 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>Phiên bản PRO cung cấp hơn 40 tính năng hữu ích khác!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giấy phép cho phép bạn sử dụng Snipaste 2 mãi mãi với tất cả các bản cập nhật 2.x.</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>dành cho Microsoft Store</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Máy tính để bàn)</translation>
     </message>
 </context>
 <context>
@@ -2252,7 +2253,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Download updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Tải các cập nhật mới</translation>
     </message>
 </context>
 <context>
@@ -2301,19 +2302,19 @@ Click any of them to dismiss this notification permanently.
     <name>groupmanager</name>
     <message>
         <source>Image groups:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhóm hình ảnh:</translation>
     </message>
     <message>
         <source>Manage Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Quản lý nhóm</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhập</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Xuất</translation>
     </message>
     <message>
         <source>Remove empty groups</source>
@@ -2331,27 +2332,27 @@ Click any of them to dismiss this notification permanently.
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>Thêm lệnh</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lệnh:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiểm tra</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Cài đặt sẵn</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2363,7 +2364,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Danh sách bị bỏ qua:</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
