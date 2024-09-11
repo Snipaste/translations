@@ -578,15 +578,15 @@
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sản phẩm không được mua do lỗi kết nối mạng.</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sản phẩm không được mua do lỗi máy chủ.</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sản phẩm không được mua do lỗi không xác định.</translation>
     </message>
 </context>
 <context>
@@ -616,7 +616,7 @@
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Quy tắc đặt tên</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -707,32 +707,32 @@
         <translation>Ngày và giờ</translation>
     </message>
     <message>
-        <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+    <source>The title of the active window before snipping</source>
+        <translation>Tiêu đề của cửa sổ đang hoạt động trước khi chụp màn hình</translation>
     </message>
     <message>
         <source>Week day in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngày trong tuần bằng tiếng Anh (viết tắt)</translation>
     </message>
     <message>
         <source>Week day in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngày trong tuần bằng tiếng Anh</translation>
     </message>
     <message>
         <source>Month name in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên tháng bằng tiếng Anh (viết tắt)</translation>
     </message>
     <message>
         <source>Month name in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên tháng bằng tiếng Anh</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>Giống như trên, nhưng số ký tự bị giới hạn ở 50</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Các biến đặc biệt</translation>
     </message>
 </context>
 <context>
@@ -755,23 +755,23 @@
     </message>
     <message>
         <source>for Windows XP</source>
-        <translation type="unfinished"></translation>
+        <translation>dành cho Windows XP</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>dành cho Microsoft Store</translation>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>dành cho Windows Desktop</translation>
     </message>
     <message>
         <source>for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>dành cho macOS</translation>
     </message>
     <message>
         <source>for Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>dành cho Linux</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -783,7 +783,7 @@
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã đăng ký cho</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -807,15 +807,15 @@
     </message>
     <message>
         <source>Related Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Các liên kết liên quan</translation>
     </message>
     <message>
         <source>EULA</source>
-        <translation type="unfinished"></translation>
+        <translation>Thỏa thuận cấp phép người dùng cuối (EULA)</translation>
     </message>
     <message>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Chính sách bảo mật</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -851,7 +851,7 @@
     </message>
     <message>
         <source>Portuguese (Portugal)</source>
-        <translation>Portuguese(Portugal)</translation>
+        <translation>Tiếng Bồ Đào Nha</translation>
     </message>
     <message>
         <source>Vietnamese</source>
@@ -875,46 +875,43 @@
     </message>
     <message>
         <source>Contributors</source>
-        <translation>
-Những người cộng tác</translation>
+        <translation>Những người cộng tác</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <source>Restart is required for the change to take effect.
-Restart Snipaste now?</source>
-        <translation type="unfinished"></translation>
+        <source>Restart is required for the change to take effect. Restart Snipaste now?</source>
+        <translation>Cần khởi động lại để thay đổi có hiệu lực. Khởi động lại Snipaste ngay bây giờ?</translation>
     </message>
     <message>
         <source>Close image</source>
-        <translation type="unfinished"></translation>
+        <translation>Đóng hình ảnh</translation>
     </message>
     <message>
         <source>Destroy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Hủy hình ảnh</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Tắt</translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Gỡ lỗi</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Bình thường</translation>
     </message>
     <message>
         <source>Trace</source>
-        <translation type="unfinished"></translation>
+        <translation>Theo dõi</translation>
     </message>
     <message>
-        <source>Something went wrong with the startup shortcut.
-Startup on boot has been cancelled.</source>
-        <translation>Một cái gì đó đã đi sai với đường tắt khởi động. Khởi động trong boot đã bị hủy.</translation>
+        <source>Something went wrong with the startup shortcut. Startup on boot has been cancelled.</source>
+        <translation>Đã xảy ra lỗi với đường tắt khởi động. Khởi động trong boot đã bị hủy.</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -922,7 +919,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Portuguese (Brazil)</source>
-        <translation>Portuguese (Brazil)</translation>
+        <translation>Tiếng Bồ Đào Nha (Brazil)</translation>
     </message>
     <message>
         <source>System Proxy</source>
@@ -950,84 +947,89 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Nga</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Ả Rập</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Thổ Nhĩ Kỳ</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Chuyển sang tệp cấu hình khác</translation>
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Serbia</translation>
     </message>
     <message>
         <source>Mouse drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Kéo chuột</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Trong suốt</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Giả trong suốt</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Bảng caro tối</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Bảng caro sáng</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Chụp và ghim</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Chụp và sao chép</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuộn bánh xe</translation>
     </message>
     <message>
         <source>Invalid data!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dữ liệu không hợp lệ!</translation>
     </message>
     <message>
         <source>Palette data has been copied to the clipboard.
-Share it to your friends!</source>
-        <translation type="unfinished"></translation>
+    Share it to your friends!</source>
+        <translation>Dữ liệu bảng màu đã được sao chép vào clipboard.
+    Chia sẻ với bạn bè của bạn!</translation>
     </message>
     <message>
         <source>Snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Chụp màn hình</translation>
     </message>
     <message>
         <source>Existing image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Các cửa sổ hình ảnh hiện có</translation>
     </message>
     <message>
         <source>Same as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Giống như %1</translation>
     </message>
     <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
+        <source>Note: you are going to switch to another configuration file. The settings in it will be applied and all your current settings will be overridden.
 
-Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
+    Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
-Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+    Are you sure you want to switch to another configuration file?</source>
+        <translation>Chú ý: bạn sẽ chuyển sang một tệp cấu hình khác. Các cài đặt trong đó sẽ được áp dụng và tất cả cài đặt hiện tại của bạn sẽ bị ghi đè.
+
+    Ngoài ra, bạn không nên xóa tệp cấu hình mặc định sau khi thực hiện thao tác này, vì nó ghi lại nơi tìm tệp cấu hình mới của bạn.
+
+    Bạn có chắc chắn muốn chuyển sang tệp cấu hình khác không?</translation>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
@@ -1035,19 +1037,19 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu tùy chỉnh</translation>
     </message>
     <message>
         <source>Select Color</source>
         <translation>Chọn màu sắc</translation>
     </message>
     <message>
-        <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+    <source>Import succeeded!</source>
+        <translation>Nhập thành công!</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Nâng cấp lên bản PRO</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
