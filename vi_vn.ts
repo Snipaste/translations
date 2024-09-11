@@ -1081,47 +1081,47 @@
     </message>
     <message>
         <source>Normal snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Chụp bình thường</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Hàn Quốc</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Séc</translation>
     </message>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Giao diện người dùng (UI)</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Chụp, sao chép và ghim</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
-        <translation>Sở thích Snipaste</translation>
+        <translation>Cài đặt Snipaste</translation>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Miễn phí</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Ý</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Số</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Phóng đại</translation>
     </message>
 </context>
 <context>
@@ -1132,11 +1132,11 @@
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhấp vào biểu tượng này để chuyển đổi giữa hiệu ứng Mosaic và làm mờ Gaussian.</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kéo để vẽ một đường thẳng hoặc nhấp để vẽ các dải đường.</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1152,35 +1152,35 @@
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiều rộng:</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Số</translation>
     </message>
     <message>
         <source>Eraser</source>
         <translation>Cục tẩy</translation>
     </message>
     <message>
-        <source>Text background</source>
-        <translation type="unfinished"></translation>
+    <source>Text background</source>
+        <translation>Nền văn bản</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Thực hiện lại</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Để thay đổi độ rộng bút, vui lòng cuộn bánh xe chuột hoặc nhấn &apos;1&apos; hoặc &apos;2&apos; hoặc nhấn &apos;[&apos; hoặc &apos;]&apos;.</translation>
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Độ bo góc:</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alpha:</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -1216,23 +1216,23 @@
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Phóng đại</translation>
     </message>
     <message>
         <source>Clear content</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa nội dung</translation>
     </message>
     <message>
         <source>Toggle arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Bật mũi tên</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
-        <translation>Thay đổi mosaic/blur</translation>
+        <translation>Bật mosaic/blur</translation>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>Bật độ mịn</translation>
     </message>
 </context>
 <context>
@@ -1279,11 +1279,11 @@
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Khôi phục</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép đường dẫn đến tập tin nguồn</translation>
     </message>
     <message>
         <source>Copy plain text</source>
@@ -1295,7 +1295,7 @@
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation>Chỉnh sửa màu sắc</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1307,11 +1307,11 @@
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị thanh công cụ</translation>
     </message>
     <message>
         <source>Show annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị chú thích</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -1323,7 +1323,7 @@
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Luôn ở trên cùng</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1339,19 +1339,19 @@
     </message>
     <message>
         <source>Background mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Chế độ nền</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Trong suốt</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Bảng caro tối</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Bảng caro sáng</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1428,99 +1428,99 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation>Ẩn các hình ảnh khác bây giờ</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Cắt</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Giả trong suốt</translation>
     </message>
     <message>
         <source>Copy annotation text</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép văn bản chú thích</translation>
     </message>
     <message>
         <source>Select all images</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn tất cả hình ảnh</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Đen trắng</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu tùy chỉnh</translation>
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tùy chỉnh...</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép hình ảnh chưa thay đổi kích thước</translation>
     </message>
     <message>
         <source>Image processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Xử lý hình ảnh</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Khung trước</translation>
     </message>
     <message>
         <source>Rotate left</source>
-        <translation type="unfinished"></translation>
+        <translation>Quay trái</translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Khung tiếp theo</translation>
     </message>
     <message>
         <source>Rotate right</source>
-        <translation type="unfinished"></translation>
+        <translation>Quay phải</translation>
     </message>
     <message>
         <source>Horizontal flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Lật ngang</translation>
     </message>
     <message>
         <source>Vertical flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Lật dọc</translation>
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Tất cả các màn hình</translation>
     </message>
     <message>
         <source>This desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Màn hình này</translation>
     </message>
     <message>
         <source>Assign to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Gán cho màn hình</translation>
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Màn hình %1</translation>
     </message>
     <message>
         <source>Copy raw HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép bản gốc HTML</translation>
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lưu hình ảnh chưa thay đổi kích thước thành...</translation>
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>Đảo màu</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu đã bị đảo ngược</translation>
     </message>
     <message>
         <source>Double clicking the image window will close the window.
@@ -1611,7 +1611,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nếu Snipaste đã được kiểm tra trong danh sách Ghi màn hình nhưng vẫn không hoạt động, bạn có thể thử xóa và cấp lại quyền cho Ghi màn hình, sau đó khởi động lại Snipaste hoặc khởi động lại Mac của bạn.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1761,8 +1761,9 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+    If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>Phím tắt để chuyển đổi chế độ nhấp qua của hình ảnh dưới con trỏ.
+    Nếu không có cửa sổ hình ảnh nào dưới con trỏ, tất cả hình ảnh không thể nhấp sẽ được chuyển thành hình ảnh có thể nhấp.</translation>
     </message>
     <message>
         <source>Show tray menu</source>
