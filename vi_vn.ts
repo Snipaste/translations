@@ -578,15 +578,15 @@
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sản phẩm không được mua do lỗi kết nối mạng.</translation>
     </message>
     <message>
         <source>Product was not purchased due to a server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sản phẩm không được mua do lỗi máy chủ.</translation>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sản phẩm không được mua do lỗi không xác định.</translation>
     </message>
 </context>
 <context>
@@ -616,7 +616,7 @@
     <name>NamingRulesDialog</name>
     <message>
         <source>Naming Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Quy tắc đặt tên</translation>
     </message>
     <message>
         <source>Day (1-31)</source>
@@ -707,32 +707,32 @@
         <translation>Ngày và giờ</translation>
     </message>
     <message>
-        <source>The title of the active window before snipping</source>
-        <translation type="unfinished"></translation>
+    <source>The title of the active window before snipping</source>
+        <translation>Tiêu đề của cửa sổ đang hoạt động trước khi chụp màn hình</translation>
     </message>
     <message>
         <source>Week day in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngày trong tuần bằng tiếng Anh (viết tắt)</translation>
     </message>
     <message>
         <source>Week day in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngày trong tuần bằng tiếng Anh</translation>
     </message>
     <message>
         <source>Month name in English (abbr.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên tháng bằng tiếng Anh (viết tắt)</translation>
     </message>
     <message>
         <source>Month name in English</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên tháng bằng tiếng Anh</translation>
     </message>
     <message>
         <source>Same as the above, but the number of characters is limited to 50</source>
-        <translation type="unfinished"></translation>
+        <translation>Giống như trên, nhưng số ký tự bị giới hạn ở 50</translation>
     </message>
     <message>
         <source>Special variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Các biến đặc biệt</translation>
     </message>
 </context>
 <context>
@@ -755,23 +755,23 @@
     </message>
     <message>
         <source>for Windows XP</source>
-        <translation type="unfinished"></translation>
+        <translation>dành cho Windows XP</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>dành cho Microsoft Store</translation>
     </message>
     <message>
         <source>for Windows Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>dành cho Windows Desktop</translation>
     </message>
     <message>
         <source>for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>dành cho macOS</translation>
     </message>
     <message>
         <source>for Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>dành cho Linux</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -783,7 +783,7 @@
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã đăng ký cho</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -807,15 +807,15 @@
     </message>
     <message>
         <source>Related Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Các liên kết liên quan</translation>
     </message>
     <message>
         <source>EULA</source>
-        <translation type="unfinished"></translation>
+        <translation>Thỏa thuận cấp phép người dùng cuối (EULA)</translation>
     </message>
     <message>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Chính sách bảo mật</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -851,7 +851,7 @@
     </message>
     <message>
         <source>Portuguese (Portugal)</source>
-        <translation>Portuguese(Portugal)</translation>
+        <translation>Tiếng Bồ Đào Nha</translation>
     </message>
     <message>
         <source>Vietnamese</source>
@@ -875,46 +875,43 @@
     </message>
     <message>
         <source>Contributors</source>
-        <translation>
-Những người cộng tác</translation>
+        <translation>Những người cộng tác</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <source>Restart is required for the change to take effect.
-Restart Snipaste now?</source>
-        <translation type="unfinished"></translation>
+        <source>Restart is required for the change to take effect. Restart Snipaste now?</source>
+        <translation>Cần khởi động lại để thay đổi có hiệu lực. Khởi động lại Snipaste ngay bây giờ?</translation>
     </message>
     <message>
         <source>Close image</source>
-        <translation type="unfinished"></translation>
+        <translation>Đóng hình ảnh</translation>
     </message>
     <message>
         <source>Destroy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Hủy hình ảnh</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Tắt</translation>
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Gỡ lỗi</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Bình thường</translation>
     </message>
     <message>
         <source>Trace</source>
-        <translation type="unfinished"></translation>
+        <translation>Theo dõi</translation>
     </message>
     <message>
-        <source>Something went wrong with the startup shortcut.
-Startup on boot has been cancelled.</source>
-        <translation>Một cái gì đó đã đi sai với đường tắt khởi động. Khởi động trong boot đã bị hủy.</translation>
+        <source>Something went wrong with the startup shortcut. Startup on boot has been cancelled.</source>
+        <translation>Đã xảy ra lỗi với đường tắt khởi động. Khởi động trong boot đã bị hủy.</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -922,7 +919,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Portuguese (Brazil)</source>
-        <translation>Portuguese (Brazil)</translation>
+        <translation>Tiếng Bồ Đào Nha (Brazil)</translation>
     </message>
     <message>
         <source>System Proxy</source>
@@ -950,84 +947,89 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Nga</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Ả Rập</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Thổ Nhĩ Kỳ</translation>
     </message>
     <message>
         <source>Switch to another configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Chuyển sang tệp cấu hình khác</translation>
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Serbia</translation>
     </message>
     <message>
         <source>Mouse drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Kéo chuột</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Trong suốt</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Giả trong suốt</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Bảng caro tối</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Bảng caro sáng</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Chụp và ghim</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Chụp và sao chép</translation>
     </message>
     <message>
         <source>Wheel scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuộn bánh xe</translation>
     </message>
     <message>
         <source>Invalid data!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dữ liệu không hợp lệ!</translation>
     </message>
     <message>
         <source>Palette data has been copied to the clipboard.
-Share it to your friends!</source>
-        <translation type="unfinished"></translation>
+    Share it to your friends!</source>
+        <translation>Dữ liệu bảng màu đã được sao chép vào clipboard.
+    Chia sẻ với bạn bè của bạn!</translation>
     </message>
     <message>
         <source>Snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Chụp màn hình</translation>
     </message>
     <message>
         <source>Existing image windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Các cửa sổ hình ảnh hiện có</translation>
     </message>
     <message>
         <source>Same as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Giống như %1</translation>
     </message>
     <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
+        <source>Note: you are going to switch to another configuration file. The settings in it will be applied and all your current settings will be overridden.
 
-Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
+    Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
-Are you sure you want to switch to another configuration file?</source>
-        <translation type="unfinished"></translation>
+    Are you sure you want to switch to another configuration file?</source>
+        <translation>Chú ý: bạn sẽ chuyển sang một tệp cấu hình khác. Các cài đặt trong đó sẽ được áp dụng và tất cả cài đặt hiện tại của bạn sẽ bị ghi đè.
+
+    Ngoài ra, bạn không nên xóa tệp cấu hình mặc định sau khi thực hiện thao tác này, vì nó ghi lại nơi tìm tệp cấu hình mới của bạn.
+
+    Bạn có chắc chắn muốn chuyển sang tệp cấu hình khác không?</translation>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
@@ -1035,19 +1037,19 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu tùy chỉnh</translation>
     </message>
     <message>
         <source>Select Color</source>
         <translation>Chọn màu sắc</translation>
     </message>
     <message>
-        <source>Import succeeded!</source>
-        <translation type="unfinished"></translation>
+    <source>Import succeeded!</source>
+        <translation>Nhập thành công!</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>Nâng cấp lên bản PRO</translation>
     </message>
     <message>
         <source>Rectangle/Ellipse</source>
@@ -1079,47 +1081,47 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Normal snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Chụp bình thường</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Hàn Quốc</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Séc</translation>
     </message>
     <message>
         <source>UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Giao diện người dùng (UI)</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Chụp, sao chép và ghim</translation>
     </message>
     <message>
         <source>Snipaste Preferences</source>
-        <translation>Sở thích Snipaste</translation>
+        <translation>Cài đặt Snipaste</translation>
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Miễn phí</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiếng Ý</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Số</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Phóng đại</translation>
     </message>
 </context>
 <context>
@@ -1130,11 +1132,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhấp vào biểu tượng này để chuyển đổi giữa hiệu ứng Mosaic và làm mờ Gaussian.</translation>
     </message>
     <message>
         <source>Drag to draw a single line or click to draw line strips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kéo để vẽ một đường thẳng hoặc nhấp để vẽ các dải đường.</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1150,35 +1152,35 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiều rộng:</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Số</translation>
     </message>
     <message>
         <source>Eraser</source>
         <translation>Cục tẩy</translation>
     </message>
     <message>
-        <source>Text background</source>
-        <translation type="unfinished"></translation>
+    <source>Text background</source>
+        <translation>Nền văn bản</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Thực hiện lại</translation>
     </message>
     <message>
         <source>To change the pen width, please scroll the mouse wheel or press &apos;1&apos; or &apos;2&apos; or press &apos;[&apos; or &apos;]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Để thay đổi độ rộng bút, vui lòng cuộn bánh xe chuột hoặc nhấn &apos;1&apos; hoặc &apos;2&apos; hoặc nhấn &apos;[&apos; hoặc &apos;]&apos;.</translation>
     </message>
     <message>
         <source>Corner radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Độ bo góc:</translation>
     </message>
     <message>
         <source>Alpha:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alpha:</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -1214,23 +1216,23 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Phóng đại</translation>
     </message>
     <message>
         <source>Clear content</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa nội dung</translation>
     </message>
     <message>
         <source>Toggle arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Bật mũi tên</translation>
     </message>
     <message>
         <source>Toggle mosaic/blur</source>
-        <translation>Thay đổi mosaic/blur</translation>
+        <translation>Bật mosaic/blur</translation>
     </message>
     <message>
         <source>Toggle smoothness</source>
-        <translation type="unfinished"></translation>
+        <translation>Bật độ mịn</translation>
     </message>
 </context>
 <context>
@@ -1277,11 +1279,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Khôi phục</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép đường dẫn đến tập tin nguồn</translation>
     </message>
     <message>
         <source>Copy plain text</source>
@@ -1293,7 +1295,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Edit color</source>
-        <translation type="unfinished"></translation>
+        <translation>Chỉnh sửa màu sắc</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1305,11 +1307,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị thanh công cụ</translation>
     </message>
     <message>
         <source>Show annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị chú thích</translation>
     </message>
     <message>
         <source>Ignore format</source>
@@ -1321,7 +1323,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Luôn ở trên cùng</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1337,19 +1339,19 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Background mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Chế độ nền</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Trong suốt</translation>
     </message>
     <message>
         <source>Dark checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Bảng caro tối</translation>
     </message>
     <message>
         <source>Light checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Bảng caro sáng</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1426,99 +1428,99 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
     </message>
     <message>
         <source>Hide other images for now</source>
-        <translation type="unfinished"></translation>
+        <translation>Ẩn các hình ảnh khác bây giờ</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Cắt</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Giả trong suốt</translation>
     </message>
     <message>
         <source>Copy annotation text</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép văn bản chú thích</translation>
     </message>
     <message>
         <source>Select all images</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn tất cả hình ảnh</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Đen trắng</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu tùy chỉnh</translation>
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tùy chỉnh...</translation>
     </message>
     <message>
         <source>Copy unscaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép hình ảnh chưa thay đổi kích thước</translation>
     </message>
     <message>
         <source>Image processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Xử lý hình ảnh</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Khung trước</translation>
     </message>
     <message>
         <source>Rotate left</source>
-        <translation type="unfinished"></translation>
+        <translation>Quay trái</translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Khung tiếp theo</translation>
     </message>
     <message>
         <source>Rotate right</source>
-        <translation type="unfinished"></translation>
+        <translation>Quay phải</translation>
     </message>
     <message>
         <source>Horizontal flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Lật ngang</translation>
     </message>
     <message>
         <source>Vertical flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Lật dọc</translation>
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Tất cả các màn hình</translation>
     </message>
     <message>
         <source>This desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Màn hình này</translation>
     </message>
     <message>
         <source>Assign to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Gán cho màn hình</translation>
     </message>
     <message>
         <source>Desktop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Màn hình %1</translation>
     </message>
     <message>
         <source>Copy raw HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép bản gốc HTML</translation>
     </message>
     <message>
         <source>Save unscaled image as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lưu hình ảnh chưa thay đổi kích thước thành...</translation>
     </message>
     <message>
         <source>Invert color</source>
-        <translation type="unfinished"></translation>
+        <translation>Đảo màu</translation>
     </message>
     <message>
         <source>Color inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu đã bị đảo ngược</translation>
     </message>
     <message>
         <source>Double clicking the image window will close the window.
@@ -1609,7 +1611,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nếu Snipaste đã được kiểm tra trong danh sách Ghi màn hình nhưng vẫn không hoạt động, bạn có thể thử xóa và cấp lại quyền cho Ghi màn hình, sau đó khởi động lại Snipaste hoặc khởi động lại Mac của bạn.</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1759,8 +1761,9 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+    If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>Phím tắt để chuyển đổi chế độ nhấp qua của hình ảnh dưới con trỏ.
+    Nếu không có cửa sổ hình ảnh nào dưới con trỏ, tất cả hình ảnh không thể nhấp sẽ được chuyển thành hình ảnh có thể nhấp.</translation>
     </message>
     <message>
         <source>Show tray menu</source>
@@ -1827,23 +1830,23 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phím tắt đã được sử dụng.</translation>
     </message>
     <message>
         <source>The shortcut has already been registered by another program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phím tắt đã được đăng ký bởi chương trình khác.</translation>
     </message>
     <message>
         <source>The shortcut is too simple and would not be registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phím tắt quá đơn giản và sẽ không được đăng ký.</translation>
     </message>
     <message>
         <source>The shortcut cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phím tắt không thể được nhận diện.</translation>
     </message>
     <message>
         <source>Press shortcut</source>
-        <translation>Nhấn vào shortcut</translation>
+        <translation>Nhấn vào phím tắt</translation>
     </message>
 </context>
 <context>
@@ -1869,7 +1872,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>PRO</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO</translation>
     </message>
     <message>
         <source>Images</source>
@@ -1881,7 +1884,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Are you sure to pin all the images? (Number: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có chắc chắn muốn ghim tất cả hình ảnh không? (Số lượng: %1)</translation>
     </message>
     <message>
         <source>Import image group</source>
@@ -1913,11 +1916,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhấp chuột qua</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>tắt</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
@@ -1953,7 +1956,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The group title should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiêu đề nhóm không được để trống.</translation>
     </message>
     <message>
         <source>New group name:</source>
@@ -1973,11 +1976,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Export image group(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Xuất nhóm hình ảnh</translation>
     </message>
     <message>
         <source>Snipaste image groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Các nhóm hình ảnh Snipaste</translation>
     </message>
     <message>
         <source>Snip hotkey</source>
@@ -1999,48 +2002,49 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>Snipper</name>
     <message>
         <source>Lock aspect ratio (on)</source>
-        <translation type="unfinished"></translation>
+        <translation>Khóa tỉ lệ khung hình (bật)</translation>
     </message>
     <message>
         <source>Lock aspect ratio (off)</source>
-        <translation type="unfinished"></translation>
+        <translation>Khóa tỉ lệ khung hình (tắt)</translation>
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có muốn hủy việc chụp màn hình không?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Không hiển thị lại điều này</translation>
     </message>
     <message>
         <source>Adjust the snipping area</source>
-        <translation type="unfinished"></translation>
+        <translation>Điều chỉnh vùng chụp màn hình</translation>
     </message>
     <message>
         <source>Input region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhập kích thước vùng</translation>
     </message>
     <message>
         <source>Change size unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Thay đổi đơn vị kích thước</translation>
     </message>
     <message>
         <source>Refresh screenshot
-(Long press to keep refreshing)</source>
-        <translation type="unfinished"></translation>
+    (Long press to keep refreshing)</source>
+        <translation> Làm mới ảnh chụp màn hình
+    (Nhấn lâu để giữ làm mới)</translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không phát hiện mã QR / mã vạch nào.</translation>
     </message>
     <message>
         <source>QR code / barcode scan result</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết quả quét mã QR / mã vạch</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lỗi: không thể tìm ra thiết bị hiển thị. Vui lòng khởi động lại Snipaste.</translation>
     </message>
 </context>
 <context>
@@ -2055,7 +2059,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Disable hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Tắt phím tắt</translation>
     </message>
     <message>
         <source>Images</source>
@@ -2079,7 +2083,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Manage groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Quản lý nhóm</translation>
     </message>
     <message>
         <source>Hide all images</source>
@@ -2095,23 +2099,23 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Gỡ lỗi</translation>
     </message>
     <message>
         <source>Open config file</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở tệp cấu hình</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở tệp nhật ký</translation>
     </message>
     <message>
         <source>Clear log file</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa tệp nhật ký</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Giúp đỡ</translation>
+        <translation>Hỗ trợ</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
@@ -2127,11 +2131,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Unlock PRO...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở khóa PRO...</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Khởi động lại</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -2142,83 +2146,83 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn đang sử dụng phiên bản miễn phí của Snipaste %1 %2.</translation>
     </message>
     <message>
         <source>License key</source>
-        <translation type="unfinished"></translation>
+        <translation>Mã khóa bản quyền</translation>
     </message>
     <message>
         <source>Unlock PRO features</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở khóa tính năng PRO</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 chỉ miễn phí cho SỬ DỤNG CÁ NHÂN. Nếu bạn muốn sử dụng nó trong công việc, cần phải có giấy phép PRO.</translation>
     </message>
     <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
-        <translation type="unfinished"></translation>
+        <translation>Giấy phép có thể kích hoạt trên tối đa 3 thiết bị (Windows/Mac/Linux).</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giấy phép được liên kết với tài khoản Microsoft của bạn. Nếu bạn đã sở hữu giấy phép với tài khoản của mình, bạn có thể nhấn &apos;Mua&apos; để khôi phục giao dịch mua của bạn mà không bị tính phí lại.</translation>
     </message>
     <message>
         <source>Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>Cá nhân</translation>
     </message>
     <message>
         <source>Business</source>
-        <translation type="unfinished"></translation>
+        <translation>Doanh nghiệp</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã đăng ký cho</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"></translation>
+        <translation>thiết bị</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Khởi động lại ngay bây giờ để tận hưởng các tính năng PRO?</translation>
     </message>
     <message>
         <source>Activating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang kích hoạt...</translation>
     </message>
     <message>
         <source>Deactivating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang hủy kích hoạt...</translation>
     </message>
     <message>
         <source>Refreshing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang làm mới...</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vui lòng truy cập &lt;a href=&quot;%1&quot;&gt;trang web&lt;/a&gt; để biết thêm thông tin.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xin vui lòng liên hệ với %1 nếu bạn cần bất kỳ sự trợ giúp nào.</translation>
     </message>
     <message>
         <source>The PRO version unlocks more than 40 useful features!</source>
-        <translation type="unfinished"></translation>
+        <translation>Phiên bản PRO cung cấp hơn 40 tính năng hữu ích khác!</translation>
     </message>
     <message>
         <source>The license allows you to use Snipaste 2 forever with all 2.x updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giấy phép cho phép bạn sử dụng Snipaste 2 mãi mãi với tất cả các bản cập nhật 2.x.</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation type="unfinished"></translation>
+        <translation>dành cho Microsoft Store</translation>
     </message>
     <message>
         <source>(Desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Máy tính để bàn)</translation>
     </message>
 </context>
 <context>
@@ -2249,7 +2253,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Download updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Tải các cập nhật mới</translation>
     </message>
 </context>
 <context>
@@ -2298,19 +2302,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>groupmanager</name>
     <message>
         <source>Image groups:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhóm hình ảnh:</translation>
     </message>
     <message>
         <source>Manage Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Quản lý nhóm</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhập</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Xuất</translation>
     </message>
     <message>
         <source>Remove empty groups</source>
@@ -2328,27 +2332,27 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>hotkeycmddialog</name>
     <message>
         <source>Add command</source>
-        <translation type="unfinished"></translation>
+        <translation>Thêm lệnh</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lệnh:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiểm tra</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Cài đặt sẵn</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2360,7 +2364,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Danh sách bị bỏ qua:</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
