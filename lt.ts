@@ -501,11 +501,11 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Too many requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per daug užklausų.</translation>
     </message>
     <message>
         <source>Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prašome pabandyti dar kartą vėlesniu laiku.</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
