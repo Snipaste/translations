@@ -501,11 +501,11 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     </message>
     <message>
         <source>Too many requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teveel aanvragen.</translation>
     </message>
     <message>
         <source>Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Probeer het later nog eens.</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
