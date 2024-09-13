@@ -1620,8 +1620,8 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Để kích hoạt tính năng phát hiện các phần tử trong giao diện người dùng, Snipaste yêu cầu quyền kiểm soát truy cập.</translation>
     </message>
     <message>
-        <source>If you want this feature, please grant access to this application in Security & Privacy preferences, located in System Preferences.</source>
-        <translation>Nếu bạn muốn sử dụng tính năng này, vui lòng cấp quyền truy cập cho ứng dụng này trong tùy chọn Bảo mật & Quyền riêng tư, nằm trong Tùy chọn Hệ thống.</translation>
+        <source>If you want this feature, please grant access to this application in Security &amp; Privacy preferences, located in System Preferences.</source>
+        <translation>Nếu bạn muốn sử dụng tính năng này, vui lòng cấp quyền truy cập cho ứng dụng này trong tùy chọn Bảo mật &amp; Quyền riêng tư, nằm trong Tùy chọn Hệ thống.</translation>
     </message>
     <message>
         <source>The purchase cannot be completed because Snipaste is running with administrator privileges.</source>
