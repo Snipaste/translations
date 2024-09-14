@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
-        <translation>Erreurs de téléchargement sont survenues! Code erreur HTTP: %1</translation>
+        <translation>Erreurs de téléchargement sont survenues ! Code erreur HTTP : %1</translation>
     </message>
     <message>
         <source>Redirecting</source>
@@ -90,13 +90,13 @@
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation>Échec téléchargement flux.
-Erreur réseau: %1</translation>
+        <translation>Échec téléchargement flux. 
+Erreur réseau : %1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation>Il y a un problème avec le flux de mise à jourt (%1).
+        <translation>Il y a un problème avec le flux de mise à jour (%1).
 Veuillez contacter le développeur.</translation>
     </message>
     <message>
@@ -109,7 +109,7 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation>Avez-vous accès en écriture à %1?</translation>
+        <translation>Avez-vous accès en écriture à %1 ?</translation>
     </message>
     <message>
         <source>Saved successfully.</source>
@@ -129,7 +129,7 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation>La nouvelle version de Snipaste a été téléchargée sur:</translation>
+        <translation>La nouvelle version de Snipaste a été téléchargée sur :</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -206,15 +206,15 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer cette commande?</translation>
+        <translation>Êtes-vous sûr de vouloir supprimer cette commande ?</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation>Le nom ne peut pas être vide!</translation>
+        <translation>Le nom ne peut pas être vide !</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation>La commande ne peut être vide!</translation>
+        <translation>La commande ne peut être vide !</translation>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
@@ -229,7 +229,7 @@ Veuillez contacter le développeur.</translation>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation>Snip seulement:</translation>
+        <translation>Coupez seulement :</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
@@ -281,7 +281,7 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>Paste only:</source>
-        <translation>Coller seulement:</translation>
+        <translation>Coller seulement :</translation>
     </message>
     <message>
         <source>Rotate the image clockwise by 90 degrees</source>
@@ -321,7 +321,7 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>Common:</source>
-        <translation>Commun:</translation>
+        <translation>Commun :</translation>
     </message>
     <message>
         <source>Show the magnifier if it is not visible</source>
@@ -473,8 +473,8 @@ Veuillez contacter le développeur.</translation>
     <message>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
-        <translation>Merci pour votre aide!
-Redémarrez maintenant pour profiter des fonctionnalités PRO?</translation>
+        <translation>Merci pour votre aide ! 
+Redémarrez maintenant pour profiter des fonctionnalités PRO ?</translation>
     </message>
     <message>
         <source>OK</source>
@@ -501,11 +501,11 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO?</translation>
     </message>
     <message>
         <source>Too many requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trop de requêtes.</translation>
     </message>
     <message>
         <source>Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez réessayer plus tard.</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
@@ -798,7 +798,7 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO?</translation>
     <message>
         <source>Something went wrong with the startup shortcut.
 Startup on boot has been cancelled.</source>
-        <translation>Quelque chose s&apos;est mal passé avec raccourci de démarrage.
+        <translation>Quelque chose s&apos;est mal passé avec raccourci de démarrage. 
 Le démarrage sur le démarrage a été annulé.</translation>
     </message>
     <message>
@@ -875,7 +875,7 @@ Le démarrage sur le démarrage a été annulé.</translation>
     </message>
     <message>
         <source>Thank you for your support!</source>
-        <translation>Merci pour votre soutien!</translation>
+        <translation>Merci pour votre soutien !</translation>
     </message>
     <message>
         <source>Documentation</source>
@@ -887,7 +887,7 @@ Le démarrage sur le démarrage a été annulé.</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>Eteint</translation>
+        <translation>Éteint</translation>
     </message>
     <message>
         <source>Debug</source>
@@ -899,7 +899,7 @@ Le démarrage sur le démarrage a été annulé.</translation>
     </message>
     <message>
         <source>Trace</source>
-        <translation>Trace</translation>
+        <translation>Tracer</translation>
     </message>
     <message>
         <source>Russian</source>
@@ -943,7 +943,7 @@ Le démarrage sur le démarrage a été annulé.</translation>
     </message>
     <message>
         <source>Mouse drag</source>
-        <translation>glisser-dépose sourisr</translation>
+        <translation>Glissement de la souris</translation>
     </message>
     <message>
         <source>Registered to</source>
@@ -968,8 +968,8 @@ Le démarrage sur le démarrage a été annulé.</translation>
     <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
-        <translation>Un redémarrage est nécessaire pour que la modification prenne effet.
-Redémarrer Snipaste maintenant?</translation>
+        <translation>Un redémarrage est nécessaire pour que la modification prenne effet. 
+Redémarrer Snipaste maintenant ?</translation>
     </message>
     <message>
         <source>Close image</source>
@@ -1009,13 +1009,13 @@ Redémarrer Snipaste maintenant?</translation>
     </message>
     <message>
         <source>Invalid data!</source>
-        <translation>Données invalides!</translation>
+        <translation>Données invalides !</translation>
     </message>
     <message>
         <source>Palette data has been copied to the clipboard.
 Share it to your friends!</source>
-        <translation>Les données de la palette ont été copiées dans le presse-papiers.
-Partagez-le avec vos amis!</translation>
+        <translation>Les données de la palette ont été copiées dans le presse-papiers. 
+Partagez-le avec vos amis !</translation>
     </message>
     <message>
         <source>Snipping</source>
@@ -1035,11 +1035,11 @@ Partagez-le avec vos amis!</translation>
 Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>Remarque: vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés.
-
-En outre, vous ne devez pas supprimer le fichier de configuration par défaut après cette opération, car il enregistre où trouver votre nouveau fichier de configuration.
-
-Êtes-vous sûr de vouloir passer à un autre fichier de configuration?</translation>
+        <translation>Remarque : vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés. 
+ 
+En outre, vous ne devez pas supprimer le fichier de configuration par défaut après cette opération, car il enregistre où trouver votre nouveau fichier de configuration. 
+ 
+Êtes-vous sûr de vouloir passer à un autre fichier de configuration ?</translation>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
@@ -1055,7 +1055,7 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>Import succeeded!</source>
-        <translation>Importation réussie!</translation>
+        <translation>Importation réussie !</translation>
     </message>
     <message>
         <source>Purchase PRO</source>
@@ -1162,7 +1162,7 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>Width:</source>
-        <translation>Largeur:</translation>
+        <translation>Largeur :</translation>
     </message>
     <message>
         <source>Number</source>
@@ -1425,7 +1425,7 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>Edit color</source>
-        <translation>Editer Couleur</translation>
+        <translation>Éditer Couleur</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1443,7 +1443,7 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
     </message>
     <message>
         <source>Crop</source>
-        <translation>Récolte</translation>
+        <translation>Rogner</translation>
     </message>
     <message>
         <source>Pseudo transparent</source>
@@ -1459,7 +1459,7 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>Echelle de gris</translation>
+        <translation>Échelle de gris</translation>
     </message>
     <message>
         <source>Custom color</source>
@@ -1536,8 +1536,8 @@ Pour le clic-droit de la souris, vous pouvez trouver son raccourci dans &apos;Pr
     <message>
         <source>Double clicking the image window will close the window.
 You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation>Double-cliquez su fenêtre d&apos;image pour fermer la fenêtre.
-Vous pouvez configurer ce comportement dans la boîte de dialogue Préférences: Contrôle - Souris.</translation>
+        <translation>Double-cliquez su fenêtre d&apos;image pour fermer la fenêtre. 
+Vous pouvez configurer ce comportement dans la boîte de dialogue Préférences : Contrôle - Souris.</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
@@ -1600,7 +1600,7 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     </message>
     <message>
         <source>Restart Snipaste with admin privileges?</source>
-        <translation>Redémarrer Snipaste avec des privilèges administrateur?</translation>
+        <translation>Redémarrer Snipaste avec des privilèges administrateur ?</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1658,7 +1658,7 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
     <name>SettingBinder</name>
     <message>
         <source>Failed to register shortcut:</source>
-        <translation>Échec enregistrement du raccourci:</translation>
+        <translation>Échec enregistrement du raccourci :</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1684,7 +1684,7 @@ Vous pouvez redémarrer Snipaste avec des privilèges administrateur et réessay
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
 Click any of them to dismiss this notification permanently.
 </source>
-        <translation>Avez-vous remarqué les points rouges sur la barre d&apos;outils ? Ils vous montreront des conseils utiles!
+        <translation>Avez-vous remarqué les points rouges sur la barre d&apos;outils ? Ils vous montreront des conseils utiles ! 
 Cliquez sur l&apos;un d&apos;entre eux pour ignorer définitivement cette notification.
 </translation>
     </message>
@@ -1713,18 +1713,18 @@ Cliquez sur l&apos;un d&apos;entre eux pour ignorer définitivement cette notifi
     </message>
     <message>
         <source>No write permission on the config file!</source>
-        <translation>Aucune autorisation d&apos;écriture sur le fichier de configuration!</translation>
+        <translation>Aucune autorisation d&apos;écriture sur le fichier de configuration !</translation>
     </message>
 </context>
 <context>
     <name>ShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation>Editer commande</translation>
+        <translation>Éditer commande</translation>
     </message>
     <message>
         <source>Snip</source>
-        <translation>Record</translation>
+        <translation>Découpage</translation>
     </message>
     <message>
         <source>Snip and copy</source>
@@ -1887,7 +1887,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Failed to save the image!</source>
-        <translation>Impossible d&apos;enregistrer l&apos;image!</translation>
+        <translation>Impossible d&apos;enregistrer l&apos;image !</translation>
     </message>
     <message>
         <source>Imported Group</source>
@@ -1895,7 +1895,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Êtes-vous sûr de fermer &quot;%1&quot;?Cette action ne peut être annulée.</translation>
+        <translation>Êtes-vous sûr de fermer &quot;%1&quot; ?Cette action ne peut être annulée.</translation>
     </message>
     <message>
         <source>Import image group</source>
@@ -1923,7 +1923,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Rename the imported group:</source>
-        <translation>Renommer le groupe importé:</translation>
+        <translation>Renommer le groupe importé :</translation>
     </message>
     <message>
         <source>Fail to import group.</source>
@@ -1967,7 +1967,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>New group name:</source>
-        <translation>Nouveau nom de groupe:</translation>
+        <translation>Nouveau nom de groupe :</translation>
     </message>
     <message>
         <source>Image saved to</source>
@@ -1983,7 +1983,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
-        <translation>Snipaste %1 a été publiée!</translation>
+        <translation>Snipaste %1 a été publiée !</translation>
     </message>
     <message>
         <source>Click here to update now</source>
@@ -2025,7 +2025,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Do you want to abort snipping?</source>
-        <translation>Voulez-vous interrompre le découpage?</translation>
+        <translation>Voulez-vous interrompre le découpage ?</translation>
     </message>
     <message>
         <source>Do not show this again</source>
@@ -2051,7 +2051,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
-        <translation>Aucun QR code / code barre détecté.</translation>
+        <translation>Aucun QR code / code- barre détecté.</translation>
     </message>
     <message>
         <source>QR code / barcode scan result</source>
@@ -2059,14 +2059,14 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation>Erreur: impossible de détecter le périphérique d&apos;affichage. Veuillez redémarrer Snipaste.</translation>
+        <translation>Erreur : impossible de détecter le périphérique d&apos;affichage. Veuillez redémarrer Snipaste.</translation>
     </message>
 </context>
 <context>
     <name>TrayMenu</name>
     <message>
         <source>Snip</source>
-        <translation>Record</translation>
+        <translation>Découpage</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -2217,7 +2217,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
-        <translation>Veuillez visiter&lt;a href=&quot;%1&quot;&gt;le site Web&lt;/apour&gt;pour plus d&apos;informations.</translation>
+        <translation>Veuillez visiter&lt;a href=&quot;%1&quot;&gt;le site Web&lt;/a&gt;pour plus d&apos;informations.</translation>
     </message>
     <message>
         <source>Please feel free to contact %1 if you need any help.</source>
@@ -2256,7 +2256,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Are you sure you want to cancel the update?</source>
-        <translation>Voulez-vous vraiment annuler la mise à jour?</translation>
+        <translation>Voulez-vous vraiment annuler la mise à jour ?</translation>
     </message>
     <message>
         <source>Recheck</source>
@@ -2275,15 +2275,15 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
-        <translation>En haut à gauche:</translation>
+        <translation>En haut à gauche :</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation>Taille:</translation>
+        <translation>Taille :</translation>
     </message>
     <message>
         <source>Delay:</source>
-        <translation>Retard:</translation>
+        <translation>Retard :</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2317,7 +2317,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <name>groupmanager</name>
     <message>
         <source>Image groups:</source>
-        <translation>Groupes d&apos;images:</translation>
+        <translation>Groupes d&apos;images :</translation>
     </message>
     <message>
         <source>Manage Groups</source>
@@ -2340,7 +2340,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <name>helpdialog</name>
     <message>
         <source>Pages:</source>
-        <translation>Pages:</translation>
+        <translation>Pages :</translation>
     </message>
 </context>
 <context>
@@ -2351,11 +2351,11 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Name:</source>
-        <translation>Nom:</translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation>Commande:</translation>
+        <translation>Commande :</translation>
     </message>
     <message>
         <source>Test</source>
@@ -2379,7 +2379,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation>Ignorer liste:</translation>
+        <translation>Ignorer liste :</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
@@ -2409,11 +2409,11 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>About Qt</source>
-        <translation>A propos de Qt</translation>
+        <translation>À propos de Qt</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste:</source>
-        <translation>Logiciel Open Source utilisé dans Snipaste:</translation>
+        <translation>Logiciel Open Source utilisé dans Snipaste :</translation>
     </message>
 </context>
 <context>
@@ -2424,7 +2424,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Group name:</source>
-        <translation>Nom groupe:</translation>
+        <translation>Nom groupe :</translation>
     </message>
     <message>
         <source>Activate after creation</source>
@@ -2491,7 +2491,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Font:</source>
-        <translation>Police:</translation>
+        <translation>Police :</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -2563,7 +2563,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Close image:</source>
-        <translation>Fermer l&apos;image:</translation>
+        <translation>Fermer l&apos;image :</translation>
     </message>
     <message>
         <source>Change the quick save folder.</source>
@@ -2575,11 +2575,11 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Theme color:</source>
-        <translation>Couleur Thème:</translation>
+        <translation>Couleur Thème :</translation>
     </message>
     <message>
         <source>Reset image:</source>
-        <translation>Réinitialiser image:</translation>
+        <translation>Réinitialiser image :</translation>
     </message>
     <message>
         <source>Hide the 1x1 region indicator before you decide the snipping region.</source>
@@ -2599,7 +2599,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Max recoverable closed images:</source>
-        <translation>Max images récupérables fermées:</translation>
+        <translation>Max images récupérables fermées :</translation>
     </message>
     <message>
         <source>The mask color of snipping</source>
@@ -2623,7 +2623,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Delay:</source>
-        <translation>Retard:</translation>
+        <translation>Retard :</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2635,7 +2635,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Language:</source>
-        <translation>Langage:</translation>
+        <translation>Langage :</translation>
     </message>
     <message>
         <source>If not checked, the original window will be automatically hidden for drag-and-drop.</source>
@@ -2651,7 +2651,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Max number of history areas:</source>
-        <translation>Nombre maximum de zones d&apos;historique:</translation>
+        <translation>Nombre maximum de zones d&apos;historique :</translation>
     </message>
     <message>
         <source>Output</source>
@@ -2683,11 +2683,11 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Sound file:</source>
-        <translation>Fichier son:</translation>
+        <translation>Fichier son :</translation>
     </message>
     <message>
         <source>Contact:</source>
-        <translation>Contact:</translation>
+        <translation>Contact :</translation>
     </message>
     <message>
         <source>Flash after switching to another group</source>
@@ -2707,7 +2707,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Mask color:</source>
-        <translation>Masque de couleur:</translation>
+        <translation>Masque de couleur :</translation>
     </message>
     <message>
         <source>Use snipping position</source>
@@ -2725,15 +2725,15 @@ S&apos;il vous plaît rapportez-moi si vous trouvez.</translation>
     </message>
     <message>
         <source>Max width:</source>
-        <translation>Largeur maximale:</translation>
+        <translation>Largeur maximale :</translation>
     </message>
     <message>
         <source>Image quality:</source>
-        <translation>Qualité d&apos;image:</translation>
+        <translation>Qualité d&apos;image :</translation>
     </message>
     <message>
         <source>Preview:</source>
-        <translation>Aperçu:</translation>
+        <translation>Aperçu :</translation>
     </message>
     <message>
         <source>Set the color for the tray icon.</source>
@@ -2765,7 +2765,7 @@ S&apos;il vous plaît rapportez-moi si vous trouvez.</translation>
     </message>
     <message>
         <source>Server:</source>
-        <translation>Serveur:</translation>
+        <translation>Serveur :</translation>
     </message>
     <message>
         <source>Quick Save</source>
@@ -2781,7 +2781,7 @@ S&apos;il vous plaît rapportez-moi si vous trouvez.</translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation>Couleurs:</translation>
+        <translation>Couleurs :</translation>
     </message>
     <message>
         <source>Run on system startup</source>
@@ -2793,11 +2793,11 @@ S&apos;il vous plaît rapportez-moi si vous trouvez.</translation>
     </message>
     <message>
         <source>Max number of history records:</source>
-        <translation>Nombre maximum d&apos;enregistrements historiques:</translation>
+        <translation>Nombre maximum d&apos;enregistrements historiques :</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Mot de passe:</translation>
+        <translation>Mot de passe :</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -2817,19 +2817,19 @@ S&apos;il vous plaît rapportez-moi si vous trouvez.</translation>
     </message>
     <message>
         <source>Proxy type:</source>
-        <translation>Proxy Type:</translation>
+        <translation>Proxy Type :</translation>
     </message>
     <message>
         <source>Tray icon:</source>
-        <translation>Icône de la barre:</translation>
+        <translation>Icône de la barre :</translation>
     </message>
     <message>
         <source>When a new image is pasted:</source>
-        <translation>Lorsqu&apos;une nouvelle image est collée:</translation>
+        <translation>Lorsqu&apos;une nouvelle image est collée :</translation>
     </message>
     <message>
         <source>Ignore Win key:</source>
-        <translation>Ignorer la touche Win:</translation>
+        <translation>Ignorer la touche Win :</translation>
     </message>
     <message>
         <source>Text to Image</source>
@@ -2863,7 +2863,7 @@ Si cette option est cochée, les fonctionnalités ci-dessus seront désactivées
     </message>
     <message>
         <source>Username:</source>
-        <translation>Nom d&apos;utilisateur:</translation>
+        <translation>Nom d&apos;utilisateur :</translation>
     </message>
     <message>
         <source>Auto detect the regions of UI elements (like buttons and menus) when snipping.</source>
@@ -2887,7 +2887,7 @@ Si cette option est cochée, les fonctionnalités ci-dessus seront désactivées
     </message>
     <message>
         <source>Interface font:</source>
-        <translation>Police interface:</translation>
+        <translation>Police interface :</translation>
     </message>
     <message>
         <source>Quit snipping if any other window is activated</source>
@@ -2924,8 +2924,8 @@ Si cette option est cochée, les fonctionnalités ci-dessus seront désactivées
     <message>
         <source>Set the default opacity for new image windows.
 Range: 10 - 100</source>
-        <translation>Définir opacité par défaut pour les nouvelles fenêtre &apos;image
-Portée: 10 - 100</translation>
+        <translation>Définir opacité par défaut pour les nouvelles fenêtre &apos;image 
+Gamme : 10 - 100</translation>
     </message>
     <message>
         <source>Let the image be copied as Windows Bitmap, so that you
@@ -2945,7 +2945,7 @@ Cependant, en attendant, le canal alpha de l&apos;image est perdu.</translation>
     </message>
     <message>
         <source>Border width:</source>
-        <translation>Largeur de la bordure:</translation>
+        <translation>Largeur de la bordure :</translation>
     </message>
     <message>
         <source>Proxy server requires password</source>
@@ -2953,7 +2953,7 @@ Cependant, en attendant, le canal alpha de l&apos;image est perdu.</translation>
     </message>
     <message>
         <source>Default opacity:</source>
-        <translation>Opacité par défaut:</translation>
+        <translation>Opacité par défaut :</translation>
     </message>
     <message>
         <source>Hide all images if you paste when any image is flashing</source>
@@ -3001,11 +3001,11 @@ Cependant, en attendant, le canal alpha de l&apos;image est perdu.</translation>
     </message>
     <message>
         <source>Be the first to test new features of Snipaste!</source>
-        <translation>Soyez le premier à tester les nouvelles fonctionnalités de Snipaste!</translation>
+        <translation>Soyez le premier à tester les nouvelles fonctionnalités de Snipaste !</translation>
     </message>
     <message>
         <source>Log level:</source>
-        <translation>Niveau du journal:</translation>
+        <translation>Niveau du journal :</translation>
     </message>
     <message>
         <source>Auto Save</source>
@@ -3031,8 +3031,8 @@ Cependant, en attendant, le canal alpha de l&apos;image est perdu.</translation>
         <source>Range: 0 to 100 or -1.
 Specify 0 to obtain small compressed files, 100 for large uncompressed files.
 Specify -1 to let Snipaste decide for you.</source>
-        <translation>Plage: 0 à 100 ou -1.
-Spécifiez 0 pour obtenir de petits fichiers compressés, 100 pour les gros fichiers non compressés.
+        <translation>Plage : 0 à 100 ou -1. 
+Spécifiez 0 pour obtenir de petits fichiers compressés, 100 pour les gros fichiers non compressés. 
 Précisez -1 pour laisser Snipaste décider pour vous.</translation>
     </message>
     <message>
@@ -3045,7 +3045,7 @@ Précisez -1 pour laisser Snipaste décider pour vous.</translation>
     </message>
     <message>
         <source>Page margin:</source>
-        <translation>Marge de page:</translation>
+        <translation>Marge de page :</translation>
     </message>
     <message>
         <source>The blank space around the text</source>
@@ -3065,11 +3065,11 @@ Précisez -1 pour laisser Snipaste décider pour vous.</translation>
     </message>
     <message>
         <source>Anchors&apos; border color:</source>
-        <translation>Couleur de bordure des ancrages:</translation>
+        <translation>Couleur de bordure des ancrages :</translation>
     </message>
     <message>
         <source>In the magnifier, show:</source>
-        <translation>Dans la loupe, afficher:</translation>
+        <translation>Dans la loupe, afficher :</translation>
     </message>
     <message>
         <source>mask</source>
@@ -3109,7 +3109,7 @@ Si désactivée, elle sera toujours affichée au centre de l&apos;écran princip
     </message>
     <message>
         <source>Path:</source>
-        <translation>Chemin:</translation>
+        <translation>Chemin :</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
@@ -3125,7 +3125,7 @@ Si désactivée, elle sera toujours affichée au centre de l&apos;écran princip
     </message>
     <message>
         <source>When:</source>
-        <translation>Quand:</translation>
+        <translation>Quand :</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -3159,7 +3159,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation>Régler l&apos;opacité:</translation>
+        <translation>Régler l&apos;opacité :</translation>
     </message>
     <message>
         <source>or</source>
@@ -3167,7 +3167,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation>Zoom:</translation>
+        <translation>Zoom :</translation>
     </message>
     <message>
         <source>Magnifier</source>
@@ -3183,7 +3183,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Number of pen sizes:</source>
-        <translation>Numéro de taille des stylos:</translation>
+        <translation>Numéro de taille des stylos :</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.</source>
@@ -3215,7 +3215,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Default background mode:</source>
-        <translation>Mode d&apos;arrière-plan par défaut:</translation>
+        <translation>Mode d&apos;arrière-plan par défaut :</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -3223,7 +3223,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation>Copier comme Windows Bitmap:</translation>
+        <translation>Copier comme Windows Bitmap :</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -3251,7 +3251,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Left click:</source>
-        <translation>Clic gauche:</translation>
+        <translation>Clic gauche :</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -3259,11 +3259,11 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Middle click:</source>
-        <translation>Clic du milieu:</translation>
+        <translation>Clic du milieu :</translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation>Clic droit:</translation>
+        <translation>Clic droit :</translation>
     </message>
     <message>
         <source>Hot Corner</source>
@@ -3275,11 +3275,11 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Corner size:</source>
-        <translation>Taille d&apos;angle:</translation>
+        <translation>Taille d&apos;angle :</translation>
     </message>
     <message>
         <source>Trigger delay:</source>
-        <translation>Délai de déclenchement:</translation>
+        <translation>Délai de déclenchement :</translation>
     </message>
     <message>
         <source>ms</source>
@@ -3287,7 +3287,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Check interval:</source>
-        <translation>Vérifier l&apos;intervalle:</translation>
+        <translation>Vérifier l&apos;intervalle :</translation>
     </message>
     <message>
         <source>Function</source>
@@ -3295,19 +3295,19 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Top left:</source>
-        <translation>En haut à gauche:</translation>
+        <translation>En haut à gauche :</translation>
     </message>
     <message>
         <source>Top right:</source>
-        <translation>En haut à droite:</translation>
+        <translation>En haut à droite :</translation>
     </message>
     <message>
         <source>Bottom left:</source>
-        <translation>En bas à gauche:</translation>
+        <translation>En bas à gauche :</translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation>En bas à droite:</translation>
+        <translation>En bas à droite :</translation>
     </message>
     <message>
         <source>Keep responsive</source>
@@ -3315,7 +3315,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation>Montrer automatiquement pour:</translation>
+        <translation>Montrer automatiquement pour :</translation>
     </message>
     <message>
         <source>Normal snip</source>
@@ -3327,7 +3327,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Color value:</source>
-        <translation>Valeur couleur:</translation>
+        <translation>Valeur couleur :</translation>
     </message>
     <message>
         <source>No &apos;#&apos;</source>
@@ -3339,7 +3339,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Show:</source>
-        <translation>Afficher:</translation>
+        <translation>Afficher :</translation>
     </message>
     <message>
         <source>Grid lines</source>
@@ -3355,7 +3355,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Copy text:</source>
-        <translation>Copier texte:</translation>
+        <translation>Copier texte :</translation>
     </message>
     <message>
         <source>Rate</source>
@@ -3371,11 +3371,11 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Fast thumbnail size:</source>
-        <translation>Taille de vignette rapide:</translation>
+        <translation>Taille de vignette rapide :</translation>
     </message>
     <message>
         <source>Fast thumbnail:</source>
-        <translation>Vignette rapide:</translation>
+        <translation>Vignette rapide :</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
@@ -3395,7 +3395,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation>Double-cliquez:</translation>
+        <translation>Double-cliquez :</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
@@ -3403,7 +3403,7 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation>Clic du milieu:</translation>
+        <translation>Clic du milieu :</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
@@ -3411,11 +3411,11 @@ Vous obtiendrez un meilleur temps de réponse lors de la coupure.</translation>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
-        <translation>Touche &apos;Entrée&apos;:</translation>
+        <translation>Touche &apos;Entrée&apos; :</translation>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation>Annotation par défaut:</translation>
+        <translation>Annotation par défaut :</translation>
     </message>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
@@ -3429,7 +3429,7 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation>Nom du fichier:</translation>
+        <translation>Nom du fichier :</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -3449,7 +3449,7 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation>Niveau d&apos;agrandissement:</translation>
+        <translation>Niveau d&apos;agrandissement :</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
@@ -3465,7 +3465,7 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation>Ignorer liste:</translation>
+        <translation>Ignorer liste :</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
@@ -3489,7 +3489,7 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     </message>
     <message>
         <source>Number of colors:</source>
-        <translation>Nombre de couleurs:</translation>
+        <translation>Nombre de couleurs :</translation>
     </message>
     <message>
         <source>Click or drag the color buttons to customize the palette.</source>
@@ -3509,7 +3509,7 @@ Lorsque la limite est atteinte, la plus ancienne sera détruite.</translation>
     </message>
     <message>
         <source>Max window size:</source>
-        <translation>Taille max de la fenêtre:</translation>
+        <translation>Taille max de la fenêtre :</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.
@@ -3585,7 +3585,7 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation>Epinglant à l&apos;écran (Ctrl+T)</translation>
+        <translation>Épinglant à l&apos;écran (Ctrl+T)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -3664,19 +3664,19 @@ Examples:
 ---
 1280 720 720p
 200 50 20 20 icon</source>
-        <translation>Format:
-• Pour taille: largeur hauteur
-•Pour la région&#xa0;: haut gauche largeur hauteur
-
-PRO seulement:
-• Peut nommer votre préréglage en ajoutant le nom à la fin de la ligne
-• Peut utiliser &quot;---&quot; comme séparateur
-
-Exemples:
-500 500
-200 200 100 100
----
-1280 720 720p
+        <translation>Format : 
+• Pour taille : largeur hauteur 
+•Pour la région&#xa0;: haut gauche largeur hauteur 
+ 
+PRO seulement : 
+• Peut nommer votre préréglage en ajoutant le nom à la fin de la ligne 
+• Peut utiliser &quot;---&quot; comme séparateur 
+ 
+Exemples : 
+500 500 
+200 200 100 100 
+--- 
+1280 720 720p 
 200 50 20 20 icône</translation>
     </message>
 </context>
@@ -3684,7 +3684,7 @@ Exemples:
     <name>tipsdialog</name>
     <message>
         <source>Tips:</source>
-        <translation>Conseils:</translation>
+        <translation>Conseils :</translation>
     </message>
 </context>
 <context>
@@ -3754,26 +3754,26 @@ Exemples:
     </message>
     <message>
         <source>Latest version:</source>
-        <translation>Dernière version:</translation>
+        <translation>Dernière version :</translation>
     </message>
     <message>
         <source>Last check:</source>
-        <translation>Dernière vérification:</translation>
+        <translation>Dernière vérification :</translation>
     </message>
     <message>
         <source>Your version:</source>
-        <translation>Votre Version:</translation>
+        <translation>Votre Version :</translation>
     </message>
 </context>
 <context>
     <name>zoominputdialog</name>
     <message>
         <source>Zoom:</source>
-        <translation>Agrandir:</translation>
+        <translation>Agrandir :</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation>Taille:</translation>
+        <translation>Taille :</translation>
     </message>
     <message>
         <source>OK</source>
