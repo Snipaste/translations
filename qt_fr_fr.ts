@@ -1328,23 +1328,23 @@
     <name>QColorDialog</name>
     <message>
         <source>&amp;Red:</source>
-        <translation>&amp;Rouge:</translation>
+        <translation>&amp;Rouge :</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>&amp;Saturation:</translation>
+        <translation>&amp;Saturation :</translation>
     </message>
     <message>
         <source>&amp;Val:</source>
-        <translation>&amp;Luminosité:</translation>
+        <translation>&amp;Luminosité :</translation>
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation>Tein&amp;te:</translation>
+        <translation>Tein&amp;te :</translation>
     </message>
     <message>
         <source>&amp;HTML:</source>
-        <translation>&amp;HTML:</translation>
+        <translation>&amp;HTML :</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -1356,7 +1356,7 @@
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation>Ble&amp;u:</translation>
+        <translation>Ble&amp;u :</translation>
     </message>
     <message>
         <source>&amp;Pick Screen Color</source>
@@ -1370,7 +1370,7 @@ Appuyez sur ESC pour annuler</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation>&amp;Vert:</translation>
+        <translation>&amp;Vert :</translation>
     </message>
     <message>
         <source>&amp;Basic colors</source>
@@ -1382,7 +1382,7 @@ Appuyez sur ESC pour annuler</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation>A&amp;lphacanal:</translation>
+        <translation>A&amp;lphacanal :</translation>
     </message>
 </context>
 <context>
