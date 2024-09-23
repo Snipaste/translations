@@ -1884,6 +1884,18 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>프로버젼</translation>
     </message>
     <message>
+        <source>Free</source>
+        <translation>무료</translation>
+    </message>
+    <message>
+        <source>(Microsoft Store)</source>
+        <translation>(마이크로소프트 스토어)</translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>(데스크탑)</translation>
+    </message>
+    <message>
         <source>Images</source>
         <translation>이미지</translation>
     </message>

@@ -1890,6 +1890,18 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>„PRO“</translation>
     </message>
     <message>
+        <source>Free</source>
+        <translation>Nemokamas</translation>
+    </message>
+    <message>
+        <source>(Microsoft Store)</source>
+        <translation>(Microsoft Store)</translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>(Darbalaukis)</translation>
+    </message>
+    <message>
         <source>Images</source>
         <translation>Nuotraukos/Vaizdai/İškarpos/Paveikslėliai</translation>
     </message>

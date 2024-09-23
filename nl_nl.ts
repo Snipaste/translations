@@ -1906,6 +1906,18 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>PRO</translation>
     </message>
     <message>
+        <source>Free</source>
+        <translation>Gratis</translation>
+    </message>
+    <message>
+        <source>(Microsoft Store)</source>
+        <translation>(Microsoft Store)</translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>(Bureaublad)</translation>
+    </message>
+    <message>
         <source>Success</source>
         <translation>Gereed</translation>
     </message>

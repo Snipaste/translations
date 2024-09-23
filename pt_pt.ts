@@ -1890,6 +1890,18 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <translation>PRO</translation>
     </message>
     <message>
+        <source>Free</source>
+        <translation>Gratuíta</translation>
+    </message>
+    <message>
+        <source>(Microsoft Store)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>(Ambiente de Trabalho)</translation>
+    </message>
+    <message>
         <source>Images</source>
         <translation>Imagens</translation>
     </message>

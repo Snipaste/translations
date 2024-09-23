@@ -1905,6 +1905,18 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>PRO</translation>
     </message>
     <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Microsoft Store)</source>
+        <translation>(Microsoft Store)</translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>(Desktop)</translation>
+    </message>
+    <message>
         <source>Success</source>
         <translation>Erfolgreich</translation>
     </message>

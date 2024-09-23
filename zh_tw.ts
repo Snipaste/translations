@@ -1906,6 +1906,18 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>專業版</translation>
     </message>
     <message>
+        <source>Free</source>
+        <translation>免費版</translation>
+    </message>
+    <message>
+        <source>(Microsoft Store)</source>
+        <translation>(微軟商店版)</translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>(桌面版)</translation>
+    </message>
+    <message>
         <source>Success</source>
         <translation>成功</translation>
     </message>

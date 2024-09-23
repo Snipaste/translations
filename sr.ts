@@ -1890,6 +1890,18 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>PRO</translation>
     </message>
     <message>
+        <source>Free</source>
+        <translation>Бесплатно</translation>
+    </message>
+    <message>
+        <source>(Microsoft Store)</source>
+        <translation>(Microsoft Store)</translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>(Desktop)</translation>
+    </message>
+    <message>
         <source>Images</source>
         <translation>Слике</translation>
     </message>

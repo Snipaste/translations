@@ -88,14 +88,6 @@
         <translation>Thử lại</translation>
     </message>
     <message>
-        <source>Feed download failed. Network Error: %1</source>
-        <translation>Đường dẫn tải xuống bị hỏng. Lỗi đường truyền %1 </translation>
-    </message>
-    <message>
-        <source>There is something wrong with the update feed (%1). Please contact the developer.</source>
-        <translation>Có một vài vấn đề bị lỗi với đường truyền tải lên %1. Hãy liên hệ với nhà phát triển.</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -118,6 +110,16 @@
     <message>
         <source>Unzipped successfully.</source>
         <translation>Giải nén thành công.</translation>
+    </message>
+    <message>
+        <source>Feed download failed.
+Network Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is something wrong with the update feed (%1).
+Please contact the developer.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
@@ -213,8 +215,8 @@
         <translation>Lệnh không được để trống!</translation>
     </message>
     <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games)</source>
-        <translation>Nhập tên/đường dẫn cách nhau bằng dấu phẩy (ví dụ: snipaste.app, games)</translation>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More examples...</source>
@@ -467,8 +469,9 @@
 <context>
     <name>Licensing</name>
     <message>
-        <source>Thanks for your support! Restart now to enjoy PRO features?</source>
-        <translation>Cảm ơn bạn đã ủng hộ! Hãy khởi động lại ngay để tận hưởng các tính năng PRO?</translation>
+        <source>Thanks for your support!
+Restart now to enjoy PRO features?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
@@ -707,7 +710,7 @@
         <translation>Ngày và giờ</translation>
     </message>
     <message>
-    <source>The title of the active window before snipping</source>
+        <source>The title of the active window before snipping</source>
         <translation>Tiêu đề của cửa sổ đang hoạt động trước khi chụp màn hình</translation>
     </message>
     <message>
@@ -878,12 +881,21 @@
         <translation>Những người cộng tác</translation>
     </message>
     <message>
+        <source>Note: you are going to switch to another configuration file. The settings in it be applied and all your current settings will be overridden.
+
+Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
+
+Are you sure you want to switch to another configuration file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <source>Restart is required for the change to take effect. Restart Snipaste now?</source>
-        <translation>Cần khởi động lại để thay đổi có hiệu lực. Khởi động lại Snipaste ngay bây giờ?</translation>
+        <source>Palette data has been copied to the clipboard.
+Share it to your friends!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close image</source>
@@ -908,10 +920,6 @@
     <message>
         <source>Trace</source>
         <translation>Theo dõi</translation>
-    </message>
-    <message>
-        <source>Something went wrong with the startup shortcut. Startup on boot has been cancelled.</source>
-        <translation>Đã xảy ra lỗi với đường tắt khởi động. Khởi động trong boot đã bị hủy.</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -970,6 +978,16 @@
         <translation>Kéo chuột</translation>
     </message>
     <message>
+        <source>Something went wrong with the startup shortcut.
+Startup on boot has been cancelled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart is required for the change to take effect.
+Restart Snipaste now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Transparent</source>
         <translation>Trong suốt</translation>
     </message>
@@ -1002,12 +1020,6 @@
         <translation>Dữ liệu không hợp lệ!</translation>
     </message>
     <message>
-        <source>Palette data has been copied to the clipboard.
-    Share it to your friends!</source>
-        <translation>Dữ liệu bảng màu đã được sao chép vào clipboard.
-    Chia sẻ với bạn bè của bạn!</translation>
-    </message>
-    <message>
         <source>Snipping</source>
         <translation>Chụp màn hình</translation>
     </message>
@@ -1018,18 +1030,6 @@
     <message>
         <source>Same as %1</source>
         <translation>Giống như %1</translation>
-    </message>
-    <message>
-        <source>Note: you are going to switch to another configuration file. The settings in it will be applied and all your current settings will be overridden.
-
-    Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
-
-    Are you sure you want to switch to another configuration file?</source>
-        <translation>Chú ý: bạn sẽ chuyển sang một tệp cấu hình khác. Các cài đặt trong đó sẽ được áp dụng và tất cả cài đặt hiện tại của bạn sẽ bị ghi đè.
-
-    Ngoài ra, bạn không nên xóa tệp cấu hình mặc định sau khi thực hiện thao tác này, vì nó ghi lại nơi tìm tệp cấu hình mới của bạn.
-
-    Bạn có chắc chắn muốn chuyển sang tệp cấu hình khác không?</translation>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
@@ -1044,7 +1044,7 @@
         <translation>Chọn màu sắc</translation>
     </message>
     <message>
-    <source>Import succeeded!</source>
+        <source>Import succeeded!</source>
         <translation>Nhập thành công!</translation>
     </message>
     <message>
@@ -1163,7 +1163,7 @@
         <translation>Cục tẩy</translation>
     </message>
     <message>
-    <source>Text background</source>
+        <source>Text background</source>
         <translation>Nền văn bản</translation>
     </message>
     <message>
@@ -1280,6 +1280,16 @@
     <message>
         <source>Restore</source>
         <translation>Khôi phục</translation>
+    </message>
+    <message>
+        <source>The &apos;Double-tap X&apos; action has been cancelled.
+For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double clicking the image window will close the window.
+You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -1422,12 +1432,6 @@
         <translation>tắt</translation>
     </message>
     <message>
-        <source>The 'Double-tap X' action has been cancelled.
-    For mouse click-through, you can find its hotkey in 'Preferences - Hotkey'.</source>
-        <translation>Hành động 'Nhấn đúp X' đã bị hủy.
-    Đối với nhấp chuột qua, bạn có thể tìm phím tắt trong 'Tùy chọn - Phím tắt'.</translation>
-    </message>
-    <message>
         <source>Hide other images for now</source>
         <translation>Ẩn các hình ảnh khác bây giờ</translation>
     </message>
@@ -1522,12 +1526,6 @@
     <message>
         <source>Color inverted</source>
         <translation>Màu đã bị đảo ngược</translation>
-    </message>
-    <message>
-        <source>Double clicking the image window will close the window.
-    You may configure this behavior in the Preferences Dialog: Control - Mouse.</source>
-        <translation>Nhấp đúp vào cửa sổ hình ảnh sẽ đóng cửa sổ.
-    Bạn có thể cấu hình hành vi này trong Hộp thoại Tùy chọn: Điều khiển - Chuột.</translation>
     </message>
     <message>
         <source>Export selected images to...</source>
@@ -1671,11 +1669,10 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Did you notice the red dots on the toolbar? They will show you useful tips!
-    Click any of them to dismiss this notification permanently.
-    </source>
-        <translation>Bạn thấy các chấm đỏ trên thanh công cụ chứ? Chúng sẽ hiển thị cho bạn những mẹo hữu ích!
-    Nhấn vào bất kỳ chấm nào để tắt thông báo này vĩnh viễn.</translation>
-</message>
+Click any of them to dismiss this notification permanently.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Select Color</source>
         <translation>Chọn màu sắc</translation>
@@ -1764,9 +1761,8 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
-    If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Phím tắt để chuyển đổi chế độ nhấp qua của hình ảnh dưới con trỏ.
-    Nếu không có cửa sổ hình ảnh nào dưới con trỏ, tất cả hình ảnh không thể nhấp sẽ được chuyển thành hình ảnh có thể nhấp.</translation>
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show tray menu</source>
@@ -1876,6 +1872,18 @@ You may restart Snipaste with admin privileges and try again.</source>
     <message>
         <source>PRO</source>
         <translation>PRO</translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation>Miễn phí</translation>
+    </message>
+    <message>
+        <source>(Microsoft Store)</source>
+        <translation>(Microsoft Store)</translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>(Máy tính để bàn)</translation>
     </message>
     <message>
         <source>Images</source>
@@ -2033,9 +2041,8 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Refresh screenshot
-    (Long press to keep refreshing)</source>
-        <translation> Làm mới ảnh chụp màn hình
-    (Nhấn lâu để giữ làm mới)</translation>
+(Long press to keep refreshing)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
@@ -2370,8 +2377,8 @@ You may restart Snipaste with admin privileges and try again.</source>
         <translation>Danh sách bị bỏ qua:</translation>
     </message>
     <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games)</source>
-        <translation>Nhập tên/đường dẫn đến tập tin thực thi, cách nhau bằng dấu phẩy (ví dụ: a.exe, games)</translation>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2796,7 +2803,7 @@ You can also find this option in the context menu of individual image window.</s
         <translation>Hiển thị các điểm neo</translation>
     </message>
     <message>
-        <source>Anchors' border color:</source>
+        <source>Anchors&apos; border color:</source>
         <translation>Màu sắc viền của các điểm neo:</translation>
     </message>
     <message>
@@ -2904,7 +2911,7 @@ If this option is checked, the above features will be disabled.</source>
         <translation>Không bao giờ dán tập tin đường dẫn</translation>
     </message>
     <message>
-    <source>Page margin:</source>
+        <source>Page margin:</source>
         <translation>Căn lề trang:</translation>
     </message>
     <message>
@@ -3117,12 +3124,6 @@ Please report to the developer if you find any.</source>
         <translation>Tắt tính năng cuộn chuột</translation>
     </message>
     <message>
-        <source>Check this if you never need cursor capture.
-    You will gain better response time on entering snipping.</source>
-        <translation>Đánh dấu vào đây nếu bạn không bao giờ cần ghi lại con trỏ.
-    Bạn sẽ có thời gian phản hồi tốt hơn khi bắt đầu cắt.</translation>
-    </message>
-    <message>
         <source>Show notification</source>
         <translation>Hiển thị thông báo</translation>
     </message>
@@ -3311,8 +3312,8 @@ Please report to the developer if you find any.</source>
         <translation>Giá trị màu:</translation>
     </message>
     <message>
-        <source>No '#'</source>
-        <translation>Thứ tự số '#'</translation>
+        <source>No &apos;#&apos;</source>
+        <translation>Thứ tự số &apos;#&apos;</translation>
     </message>
     <message>
         <source>Uppercase Hex</source>
@@ -3391,17 +3392,12 @@ Please report to the developer if you find any.</source>
         <translation>Hành động nào sẽ thực hiện khi nhấp chuột giữa khi cắt.</translation>
     </message>
     <message>
-        <source>'Enter' key:</source>
-        <translation>Phím 'Enter':</translation>
+        <source>&apos;Enter&apos; key:</source>
+        <translation>Phím &apos;Enter&apos;:</translation>
     </message>
     <message>
         <source>Default annotation:</source>
         <translation>Chú thích mặc định:</translation>
-    </message>
-    <message>
-        <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
-    When the limit is reached, the oldest one will be destroyed.</source>
-        <translation>Cửa sổ hình ảnh đã đóng có thể được khôi phục bằng cách dán lại nếu số lượng hình ảnh đã đóng không đạt đến giới hạn. Khi đạt giới hạn, hình ảnh cũ nhất sẽ bị xóa bỏ.</translation>
     </message>
     <message>
         <source>Manual Save</source>
@@ -3448,10 +3444,6 @@ Please report to the developer if you find any.</source>
         <translation>Danh sách bị bỏ qua:</translation>
     </message>
     <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games)</source>
-        <translation>Nhập tên/đường dẫn tệp thực thi, cách nhau bằng dấu phẩy (ví dụ: a.exe, games)</translation>
-    </message>
-    <message>
         <source>Auto</source>
         <translation>Tự động</translation>
     </message>
@@ -3464,8 +3456,8 @@ Please report to the developer if you find any.</source>
         <translation>Hiển thị các mẹo phím tắt hay ho</translation>
     </message>
     <message>
-        <source>Ignore "Copy" command simulated by other applications</source>
-        <translation>Bỏ qua lệnh "Sao chép" được mô phỏng bởi các ứng dụng khác</translation>
+        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <translation>Bỏ qua lệnh &quot;Sao chép&quot; được mô phỏng bởi các ứng dụng khác</translation>
     </message>
     <message>
         <source>Number of colors:</source>
@@ -3484,34 +3476,16 @@ Please report to the developer if you find any.</source>
         <translation>Vô hiệu hóa chỉnh sửa cho công cụ Tẩy</translation>
     </message>
     <message>
-        <source>Show "Share" button</source>
-        <translation>Hiển thị nút "Chia sẻ"</translation>
+        <source>Show &quot;Share&quot; button</source>
+        <translation>Hiển thị nút &quot;Chia sẻ&quot;</translation>
     </message>
     <message>
         <source>Max window size:</source>
         <translation>Kích thước cửa sổ tối đa:</translation>
     </message>
     <message>
-        <source>Restart Snipaste for the change to take effect.
-    Snipaste must not be run as elevated in order to show the "Share" button.</source>
-        <translation>Khởi động lại Snipaste để thay đổi có hiệu lực.
-    Snipaste không được chạy với quyền quản trị để hiển thị nút "Chia sẻ".</translation>
-    </message>
-    <message>
-        <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
-    It's also useful for remote desktop connections to keep window arrangement.</source>
-        <translation>Nếu được đánh dấu, các cửa sổ hình ảnh sẽ không được thay đổi kích thước khi di chuyển giữa các màn hình có DPI khác nhau.
-    Điều này cũng hữu ích cho các kết nối máy tính từ xa để giữ nguyên bố cục cửa sổ.</translation>
-    </message>
-    <message>
         <source>Disable window scaling on high DPI</source>
         <translation>Vô hiệu hóa thay đổi kích thước cửa sổ trên DPI cao</translation>
-    </message>
-    <message>
-        <source>Enable selecting any types of drawn annotations on hovering.
-    If unchecked, only the active type of annotations can be selected on hovering.</source>
-        <translation>Kích hoạt việc chọn bất kỳ loại chú thích nào khi di chuột.
-    Nếu không được đánh dấu, chỉ có loại chú thích đang hoạt động mới có thể được chọn khi di chuột.</translation>
     </message>
     <message>
         <source>Free select</source>
@@ -3540,6 +3514,35 @@ Please report to the developer if you find any.</source>
     <message>
         <source>Activation Info</source>
         <translation>Thông tin kích hoạt</translation>
+    </message>
+    <message>
+        <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
+It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable selecting any types of drawn annotations on hovering.
+If unchecked, only the active type of annotations can be selected on hovering.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Snipaste for the change to take effect.
+Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this if you never need cursor capture.
+You will gain better response time on entering snipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
+When the limit is reached, the oldest one will be destroyed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3631,33 +3634,20 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Format:
-    • For size: width height
-    • For region: left top width height
+• For size: width height
+• For region: left top width height
 
-    PRO only:
-    • Can name your preset by appending the name at the end of the line
-    • Can use "---" as separator
+PRO only:
+• Can name your preset by appending the name at the end of the line
+• Can use &quot;---&quot; as seperator
 
-    Examples:
-    500 500
-    200 200 100 100
-    ---
-    1280 720 720p
-    200 50 20 20 icon</source>
-        <translation>Định dạng:
-    • Đối với kích thước: chiều rộng chiều cao
-    • Đối với khu vực: trái trên chiều rộng chiều cao
-
-    Chỉ dành cho PRO:
-    • Có thể đặt tên cho cài đặt sẵn của bạn bằng cách thêm tên ở cuối dòng
-    • Có thể sử dụng "---" làm dấu phân cách
-
-    Ví dụ:
-    500 500
-    200 200 100 100
-    ---
-    1280 720 720p
-    200 50 20 20 biểu tượng</translation>
+Examples:
+500 500
+200 200 100 100
+---
+1280 720 720p
+200 50 20 20 icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

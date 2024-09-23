@@ -1886,6 +1886,18 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <translation>PRO</translation>
     </message>
     <message>
+        <source>Free</source>
+        <translation>Grátis</translation>
+    </message>
+    <message>
+        <source>(Microsoft Store)</source>
+        <translation>(Microsoft Store)</translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>(Desktop)</translation>
+    </message>
+    <message>
         <source>Images</source>
         <translation>Imagens</translation>
     </message>

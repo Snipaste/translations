@@ -1942,6 +1942,18 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>PRO</translation>
     </message>
     <message>
+        <source>Free</source>
+        <translation>Gratuit</translation>
+    </message>
+    <message>
+        <source>(Microsoft Store)</source>
+        <translation>(Microsoft Store)</translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>(Bureau)</translation>
+    </message>
+    <message>
         <source>Mouse click-through</source>
         <translation>Cliquez sur la souris</translation>
     </message>

@@ -1890,6 +1890,18 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
         <translation>PRO</translation>
     </message>
     <message>
+        <source>Free</source>
+        <translation>Gratuito</translation>
+    </message>
+    <message>
+        <source>(Microsoft Store)</source>
+        <translation>(Microsoft Store)</translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>(Desktop)</translation>
+    </message>
+    <message>
         <source>Images</source>
         <translation>Immagini</translation>
     </message>

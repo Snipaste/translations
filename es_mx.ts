@@ -1890,6 +1890,18 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
         <translation>PRO</translation>
     </message>
     <message>
+        <source>Free</source>
+        <translation>Gratuita</translation>
+    </message>
+    <message>
+        <source>(Microsoft Store)</source>
+        <translation>(Microsoft Store)</translation>
+    </message>
+    <message>
+        <source>(Desktop)</source>
+        <translation>(Escritorio)</translation>
+    </message>
+    <message>
         <source>Images</source>
         <translation>Imágenes</translation>
     </message>
