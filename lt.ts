@@ -1895,7 +1895,7 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>(Microsoft Store)</source>
-        <translation>(Microsoft Store)</translation>
+        <translation>(„Microsoft Store“)</translation>
     </message>
     <message>
         <source>(Desktop)</source>
