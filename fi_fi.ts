@@ -5,44 +5,44 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopioi teksti</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>Seuraa linkkiä</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>%1+Klikkaa seurataksesi linkkiä</translation>
     </message>
 </context>
 <context>
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse väri</translation>
     </message>
 </context>
 <context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation>Paina %1 kopioidaksesi värin</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation>Paina %1 vaihtaaksesi RGB/HEX välillä</translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää esiasetuksiin</translation>
     </message>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuta esiasetuksia...</translation>
     </message>
     <message>
         <source>s</source>
@@ -53,35 +53,35 @@
     <name>FvUpdater</name>
     <message>
         <source>Redirecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Uudelleenohjataan</translation>
     </message>
     <message>
         <source>Download complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataus valmis.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedoston tarkistesumma ei täsmää.</translation>
     </message>
     <message>
         <source>Please retry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ole hyvä, ja yritä uudelleen.</translation>
     </message>
     <message>
         <source>Writing downloaded file into</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjoitetaan ladattu tiedosto sijaintiin</translation>
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Onko sinulla kirjoitusoikeus sijaintiin %1?</translation>
     </message>
     <message>
         <source>Saved successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallennettu onnistuneesti.</translation>
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
@@ -89,23 +89,23 @@
     </message>
     <message>
         <source>Unzipped successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Purettu onnistuneesti.</translation>
     </message>
     <message>
         <source>Unable to download updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitysten lataaminen epäonnistui.</translation>
     </message>
     <message>
         <source>Please try later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ola hyvä, ja yritä myöhemmin uudelleen.</translation>
     </message>
     <message>
         <source>Downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladataan</translation>
     </message>
     <message>
         <source>Retrying</source>
-        <translation type="unfinished"></translation>
+        <translation>Yritetään uudelleen</translation>
     </message>
     <message>
         <source>Feed download failed.
@@ -335,7 +335,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the cursor by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä kursoria 1 pikseli</translation>
     </message>
     <message>
         <source>Arrow keys</source>
@@ -351,7 +351,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä kaapattavan alueen/kuvan ikkunaa 1 pikselin verran, jos muokkaus ei ole käynnissä</translation>
     </message>
     <message>
         <source>Space</source>
@@ -447,7 +447,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä kaapattavaa aluetta 1 pikseli</translation>
     </message>
     <message>
         <source>Adjust the pen width</source>
