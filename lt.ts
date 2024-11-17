@@ -549,7 +549,7 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>System time error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemos laiko klaida.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
@@ -2053,7 +2053,7 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>Adjust region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreguoti regiono dydį</translation>
     </message>
     <message>
         <source>Change size unit</source>
@@ -2192,7 +2192,10 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
 - The offline license will be permanently bound to this device for the duration you specify.
 - License seat remains reserved for this duration even after deactivation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>SVARBU: 
+– Licencija atsijungus bus visam laikui pririštas prie šio įrenginio, tam laikotarpiui, kurį Jūs nurodote. 
+– Licencijos asmenys išlieka rezervuoti šiam laikotarpiui, net po deaktyvacijos.
+</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -2208,7 +2211,7 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Gauti jį iš – %1 arba per &lt;a href=&quot;%2&quot;&gt;el. paštą&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Personal</source>
@@ -2220,19 +2223,19 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>„Snipaste“ neprisijungus aktyvacija, užklausa</translation>
     </message>
     <message>
         <source>Device Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Įrenginio kodas</translation>
     </message>
     <message>
         <source>Pre-filled, do not modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Jau užpildyta/-s, neredaguokite</translation>
     </message>
     <message>
         <source>Please fill in ALL information below:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prašome užpildyti visą informaciją, randančią apačioje:</translation>
     </message>
     <message>
         <source>Email</source>
@@ -2240,31 +2243,31 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>Enter the email address associated with your license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Įveskite el. pašto adresą, kuris susietas su Jūsų licencijos raktu</translation>
     </message>
     <message>
         <source>License Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencijos raktas</translation>
     </message>
     <message>
         <source>Enter the license key from your purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Įveskite licencijos raktą iš savo nusipirkimo</translation>
     </message>
     <message>
         <source>Activation Period (days)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvacijos laikotarpis (dienomis)</translation>
     </message>
     <message>
         <source>Specify duration between 10 to 366 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Nurodyti laikotarpį tarp 10-imt iki 366-ių dienų</translation>
     </message>
     <message>
         <source>Redeem code</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsiimti kodą</translation>
     </message>
     <message>
         <source>Trial</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandomasis laikotarpis</translation>
     </message>
     <message>
         <source>Registered to</source>
@@ -2276,7 +2279,7 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>License expires on</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencija baigia galioti:</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
@@ -3818,11 +3821,11 @@ Pvz:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvuoti „Snipaste 2 PRO“ (neprisijungus)</translation>
     </message>
     <message>
         <source>Device code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Įrenginio kodas:</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3830,7 +3833,7 @@ Pvz:
     </message>
     <message>
         <source>Offlince license code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencijos kodas neprisijungus:</translation>
     </message>
 </context>
 <context>
