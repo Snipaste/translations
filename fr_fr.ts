@@ -549,7 +549,7 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO ?</translation>
     </message>
     <message>
         <source>System time error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur d&apos;heure système.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
@@ -619,7 +619,7 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO ?</translation>
     </message>
     <message>
         <source>Left click</source>
-        <translation>Click-gauche</translation>
+        <translation>Clic-gauche</translation>
     </message>
 </context>
 <context>
@@ -1039,7 +1039,7 @@ Partagez-le avec vos amis !</translation>
 Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>Remarque&#x202f;: vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés. 
+        <translation>Remarque : vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés. 
  
 En outre, vous ne devez pas supprimer le fichier de configuration par défaut après cette opération, car il enregistre où trouver votre nouveau fichier de configuration. 
  
@@ -2053,7 +2053,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Adjust region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuster la taille de la région</translation>
     </message>
     <message>
         <source>Change size unit</source>
@@ -2192,7 +2192,10 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
 - The offline license will be permanently bound to this device for the duration you specify.
 - License seat remains reserved for this duration even after deactivation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>IMPORTANT: 
+- La licence hors ligne sera définitivement liée à cet appareil pour la durée que vous spécifiez. 
+- Le poste de licence reste réservé pendant cette durée même après désactivation.
+</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -2208,7 +2211,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenez-le depuis %1 ou via &lt;a href=&quot;%2&quot;&gt;e-mail&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Personal</source>
@@ -2220,19 +2223,19 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Demande d&apos;activation hors ligne de Snipaste</translation>
     </message>
     <message>
         <source>Device Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code du périphérique</translation>
     </message>
     <message>
         <source>Pre-filled, do not modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-rempli, ne pas modifier</translation>
     </message>
     <message>
         <source>Please fill in ALL information below:</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez remplir TOUTES les infos ci-dessous :</translation>
     </message>
     <message>
         <source>Email</source>
@@ -2240,31 +2243,31 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>Enter the email address associated with your license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez l&apos;adresse e-mail associée à votre clé de licence</translation>
     </message>
     <message>
         <source>License Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Clé de licence</translation>
     </message>
     <message>
         <source>Enter the license key from your purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez la clé de licence de votre achat</translation>
     </message>
     <message>
         <source>Activation Period (days)</source>
-        <translation type="unfinished"></translation>
+        <translation>Période d&apos;activation (jours)</translation>
     </message>
     <message>
         <source>Specify duration between 10 to 366 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Précisez la durée entre 10 et 366 jours</translation>
     </message>
     <message>
         <source>Redeem code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code de remboursement</translation>
     </message>
     <message>
         <source>Trial</source>
-        <translation type="unfinished"></translation>
+        <translation>Procès</translation>
     </message>
     <message>
         <source>Registered to</source>
@@ -2276,7 +2279,7 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>License expires on</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence expire le</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
@@ -3818,11 +3821,11 @@ Exemples :
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer Snipaste 2 PRO (hors ligne)</translation>
     </message>
     <message>
         <source>Device code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Code de l&apos;appareil :</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3830,7 +3833,7 @@ Exemples :
     </message>
     <message>
         <source>Offlince license code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Code de licence hors ligne :</translation>
     </message>
 </context>
 <context>
