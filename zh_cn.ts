@@ -2246,7 +2246,7 @@ Please launch the subscription platform first.</source>
     </message>
     <message>
         <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
-        <translation>访问 %1 或者 &lt;a href=&quot;%2&quot;&gt;发邮件&lt;/a&gt; 获取</translation>
+        <translation>请访问 %1 或者 &lt;a href=&quot;%2&quot;&gt;发邮件&lt;/a&gt; 获取</translation>
     </message>
     <message>
         <source>Personal</source>
