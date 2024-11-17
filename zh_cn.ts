@@ -547,6 +547,10 @@ Restart now to enjoy PRO features?</source>
         <translation>无效的凭证。</translation>
     </message>
     <message>
+        <source>System time error.</source>
+        <translation>系统时间错误。</translation>
+    </message>
+    <message>
         <source>Invalid email.</source>
         <translation>邮箱格式错误。</translation>
     </message>
@@ -2046,8 +2050,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>调整截图区域</translation>
     </message>
     <message>
-        <source>Input region size</source>
-        <translation>输入区域大小</translation>
+        <source>Adjust region size</source>
+        <translation>调整区域大小</translation>
     </message>
     <message>
         <source>Change size unit</source>
@@ -2219,6 +2223,16 @@ Please launch the subscription platform first.</source>
         <translation>解锁专业版</translation>
     </message>
     <message>
+        <source>IMPORTANT:
+- The offline license will be permanently bound to this device for the duration you specify.
+- License seat remains reserved for this duration even after deactivation.
+</source>
+        <translation>重要提示：
+- 离线授权将在您指定的有效期内绑定到此设备。
+- 即使进行了反激活，该设备的离线授权仍会在有效期内占用一个设备数。
+</translation>
+    </message>
+    <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
         <translation>最多可以激活 3 台设备 (Windows/Mac/Linux)。</translation>
     </message>
@@ -2231,6 +2245,10 @@ Please launch the subscription platform first.</source>
         <translation>如需帮助请联系 %1.</translation>
     </message>
     <message>
+        <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
+        <translation>访问 %1 或者 &lt;a href=&quot;%2&quot;&gt;发邮件&lt;/a&gt; 获取</translation>
+    </message>
+    <message>
         <source>Personal</source>
         <translation>个人版</translation>
     </message>
@@ -2239,12 +2257,64 @@ Please launch the subscription platform first.</source>
         <translation>商业版</translation>
     </message>
     <message>
+        <source>Snipaste offline activation request</source>
+        <translation>Snipaste 离线激活请求</translation>
+    </message>
+    <message>
+        <source>Device Code</source>
+        <translation>设备码</translation>
+    </message>
+    <message>
+        <source>Pre-filled, do not modify</source>
+        <translation>请勿修改</translation>
+    </message>
+    <message>
+        <source>Please fill in ALL information below:</source>
+        <translation>请填充以下所有信息：</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>电子邮件地址</translation>
+    </message>
+    <message>
+        <source>Enter the email address associated with your license key</source>
+        <translation>输入您授权码的绑定邮箱</translation>
+    </message>
+    <message>
+        <source>License Key</source>
+        <translation>授权码</translation>
+    </message>
+    <message>
+        <source>Enter the license key from your purchase</source>
+        <translation>输入您购买的授权码</translation>
+    </message>
+    <message>
+        <source>Activation Period (days)</source>
+        <translation>激活有效期 (天数)</translation>
+    </message>
+    <message>
+        <source>Specify duration between 10 to 366 days</source>
+        <translation>指定离线激活的有效期，最少 10 天，最多 366 天</translation>
+    </message>
+    <message>
+        <source>Redeem code</source>
+        <translation>使用兑换码</translation>
+    </message>
+    <message>
+        <source>Trial</source>
+        <translation>试用版</translation>
+    </message>
+    <message>
         <source>Registered to</source>
         <translation>授权给</translation>
     </message>
     <message>
         <source>devices</source>
         <translation>设备</translation>
+    </message>
+    <message>
+        <source>License expires on</source>
+        <translation>授权有效期至</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
@@ -3784,12 +3854,24 @@ Examples:
         <translation>稍后</translation>
     </message>
     <message>
-        <source>Online activation</source>
-        <translation>在线激活</translation>
-    </message>
-    <message>
         <source>Purchase</source>
         <translation>购买</translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO (Offline)</source>
+        <translation>离线激活 Snipaste 2 专业版</translation>
+    </message>
+    <message>
+        <source>Device code:</source>
+        <translation>设备码:</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>复制</translation>
+    </message>
+    <message>
+        <source>Offlince license code:</source>
+        <translation>离线激活码:</translation>
     </message>
 </context>
 <context>

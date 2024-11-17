@@ -548,6 +548,10 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
         <translation>Negalimi kredencialai.</translation>
     </message>
     <message>
+        <source>System time error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Invalid email.</source>
         <translation>Negalimas el. paštas.</translation>
     </message>
@@ -2048,8 +2052,8 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>Pakoreguoti užfiksavimo zoną</translation>
     </message>
     <message>
-        <source>Input region size</source>
-        <translation>Regiono įvesties dydis</translation>
+        <source>Adjust region size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change size unit</source>
@@ -2184,6 +2188,13 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>Atrakinti „PRO“ funkcijas</translation>
     </message>
     <message>
+        <source>IMPORTANT:
+- The offline license will be permanently bound to this device for the duration you specify.
+- License seat remains reserved for this duration even after deactivation.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation>%1 yra tik ASMENINIAM nemokamam naudojimui. Jeigu nori naudoti jį darbo vietoje, „PRO“ licencija yra reikalinga.</translation>
     </message>
@@ -2196,6 +2207,10 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>Licencija susieta su jūsų „Microsoft“ paskyra. Jei jau turite licenciją su savo paskyra, galite spustelėti „įsigyti“ ir atkurti pirkinį, kad už jį nereikėtų dar kartą mokėti.</translation>
     </message>
     <message>
+        <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Personal</source>
         <translation>Asmeninis</translation>
     </message>
@@ -2204,12 +2219,64 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>Verslas</translation>
     </message>
     <message>
+        <source>Snipaste offline activation request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre-filled, do not modify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please fill in ALL information below:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>El. paštas</translation>
+    </message>
+    <message>
+        <source>Enter the email address associated with your license key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the license key from your purchase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation Period (days)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Specify duration between 10 to 366 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redeem code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Registered to</source>
         <translation>Registruota –</translation>
     </message>
     <message>
         <source>devices</source>
         <translation>įrenginiai</translation>
+    </message>
+    <message>
+        <source>License expires on</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
@@ -3750,8 +3817,20 @@ Pvz:
         <translation>Vėliau</translation>
     </message>
     <message>
-        <source>Online activation</source>
-        <translation>Aktyvacija prisijungus</translation>
+        <source>Activate Snipaste 2 PRO (Offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Kopijuoti</translation>
+    </message>
+    <message>
+        <source>Offlince license code:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

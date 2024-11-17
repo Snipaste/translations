@@ -547,6 +547,10 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>System time error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Invalid email.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2034,7 +2038,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Input region size</source>
+        <source>Adjust region size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2169,6 +2173,13 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>IMPORTANT:
+- The offline license will be permanently bound to this device for the duration you specify.
+- License seat remains reserved for this duration even after deactivation.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2181,6 +2192,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Personal</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2189,11 +2204,63 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Snipaste offline activation request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre-filled, do not modify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please fill in ALL information below:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the email address associated with your license key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the license key from your purchase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation Period (days)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Specify duration between 10 to 366 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redeem code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Registered to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License expires on</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3702,11 +3769,23 @@ Examples:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online activation</source>
+        <source>Purchase</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Purchase</source>
+        <source>Activate Snipaste 2 PRO (Offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offlince license code:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

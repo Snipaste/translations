@@ -545,6 +545,10 @@ Restart now to enjoy PRO features?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>System time error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Invalid email.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -577,7 +581,7 @@ Restart now to enjoy PRO features?</source>
     <name>Licensing_uwp</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <source>Product was not purchased due to a network error.</source>
@@ -886,7 +890,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <source>Restart is required for the change to take effect.
@@ -1041,7 +1045,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse väri</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1128,7 +1132,7 @@ Are you sure you want to switch to another configuration file?</source>
     <name>PaintBar</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse väri</translation>
     </message>
     <message>
         <source>Click this icon to toggle between mosaic and Gaussian blur.</source>
@@ -1299,7 +1303,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse väri</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1566,7 +1570,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
     <name>QObject</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <source>Failed to enable startup on boot. You may need to manually enable it in the Task Manager first.</source>
@@ -1649,7 +1653,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <source>Snipaste is running</source>
@@ -1675,7 +1679,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse väri</translation>
     </message>
     <message>
         <source>Select Font</source>
@@ -1694,7 +1698,7 @@ Click any of them to dismiss this notification permanently.
     <name>Settings</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <source>No write permission on the config file!</source>
@@ -1863,7 +1867,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <source>Invalid command line options.</source>
@@ -2032,7 +2036,7 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Input region size</source>
+        <source>Adjust region size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2167,6 +2171,13 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>IMPORTANT:
+- The offline license will be permanently bound to this device for the duration you specify.
+- License seat remains reserved for this duration even after deactivation.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2179,6 +2190,10 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Personal</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2187,11 +2202,63 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Snipaste offline activation request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre-filled, do not modify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please fill in ALL information below:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the email address associated with your license key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the license key from your purchase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation Period (days)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Specify duration between 10 to 366 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redeem code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Registered to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License expires on</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3704,7 +3771,19 @@ Examples:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online activation</source>
+        <source>Activate Snipaste 2 PRO (Offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offlince license code:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

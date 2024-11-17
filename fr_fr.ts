@@ -548,6 +548,10 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO ?</translation>
         <translation>Identifiants invalides.</translation>
     </message>
     <message>
+        <source>System time error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Invalid email.</source>
         <translation>Email invalide.</translation>
     </message>
@@ -1035,7 +1039,7 @@ Partagez-le avec vos amis !</translation>
 Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>Remarque : vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés. 
+        <translation>Remarque&#x202f;: vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés. 
  
 En outre, vous ne devez pas supprimer le fichier de configuration par défaut après cette opération, car il enregistre où trouver votre nouveau fichier de configuration. 
  
@@ -2048,8 +2052,8 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Ajuster la zone de capture</translation>
     </message>
     <message>
-        <source>Input region size</source>
-        <translation>Taille de la région d&apos;entrée</translation>
+        <source>Adjust region size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change size unit</source>
@@ -2184,6 +2188,13 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Déverrouiller les fonctions de la version PRO</translation>
     </message>
     <message>
+        <source>IMPORTANT:
+- The offline license will be permanently bound to this device for the duration you specify.
+- License seat remains reserved for this duration even after deactivation.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation>%1 n&apos;est gratuit que pour l&apos;UTILISATION PERSONNELLE. Si vous souhaitez l&apos;utiliser sur votre lieu de travail, une licence PRO est nécessaire.</translation>
     </message>
@@ -2196,6 +2207,10 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>La licence est liée à votre compte Microsoft. Si vous possédez déjà la licence avec votre compte, vous pouvez cliquer sur &apos;Acheter&apos; pour restaurer votre achat sans être facturé à nouveau.</translation>
     </message>
     <message>
+        <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Personal</source>
         <translation>Personnel</translation>
     </message>
@@ -2204,12 +2219,64 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Entreprise</translation>
     </message>
     <message>
+        <source>Snipaste offline activation request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre-filled, do not modify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please fill in ALL information below:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>E-mail</translation>
+    </message>
+    <message>
+        <source>Enter the email address associated with your license key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the license key from your purchase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation Period (days)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Specify duration between 10 to 366 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redeem code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Registered to</source>
         <translation>Enregistré à</translation>
     </message>
     <message>
         <source>devices</source>
         <translation>appareils</translation>
+    </message>
+    <message>
+        <source>License expires on</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
@@ -3750,8 +3817,20 @@ Exemples :
         <translation>Plus tard</translation>
     </message>
     <message>
-        <source>Online activation</source>
-        <translation>Activation en ligne</translation>
+        <source>Activate Snipaste 2 PRO (Offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Copier</translation>
+    </message>
+    <message>
+        <source>Offlince license code:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

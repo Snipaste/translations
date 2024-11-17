@@ -548,6 +548,10 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
         <translation>Credenciais inválidas.</translation>
     </message>
     <message>
+        <source>System time error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Invalid email.</source>
         <translation>E-mail inválido.</translation>
     </message>
@@ -2048,8 +2052,8 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <translation>Ajustar área de recorte</translation>
     </message>
     <message>
-        <source>Input region size</source>
-        <translation>Introduzir tamanho da região</translation>
+        <source>Adjust region size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change size unit</source>
@@ -2184,6 +2188,13 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <translation>Desbloquear funcionalidades PRO</translation>
     </message>
     <message>
+        <source>IMPORTANT:
+- The offline license will be permanently bound to this device for the duration you specify.
+- License seat remains reserved for this duration even after deactivation.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
         <translation>O %1 só é gratuíto para USO PESSOAL. Se pretende usálo em ambiente de trabalho é necessária uma licença PRO.</translation>
     </message>
@@ -2196,6 +2207,10 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <translation>A licença está ligada à sua conta Microsoft. Se já possui uma licença com a sua conta, pode clicar em &apos;Comprar&apos; para restaurar a sua compra sem ter que pagar de novo.</translation>
     </message>
     <message>
+        <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Personal</source>
         <translation>Pessoal</translation>
     </message>
@@ -2204,12 +2219,64 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <translation>Negócios</translation>
     </message>
     <message>
+        <source>Snipaste offline activation request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre-filled, do not modify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please fill in ALL information below:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>E-mail</translation>
+    </message>
+    <message>
+        <source>Enter the email address associated with your license key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the license key from your purchase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation Period (days)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Specify duration between 10 to 366 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redeem code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Registered to</source>
         <translation>Registado para</translation>
     </message>
     <message>
         <source>devices</source>
         <translation>dispositivos</translation>
+    </message>
+    <message>
+        <source>License expires on</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
@@ -3750,8 +3817,20 @@ Examplos:
         <translation>Mais tarde</translation>
     </message>
     <message>
-        <source>Online activation</source>
-        <translation>Activação on-line</translation>
+        <source>Activate Snipaste 2 PRO (Offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Copiar</translation>
+    </message>
+    <message>
+        <source>Offlince license code:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
