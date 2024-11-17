@@ -501,11 +501,11 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
     </message>
     <message>
         <source>Too many requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Demasiados pedidos.</translation>
     </message>
     <message>
         <source>Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, tente mais tarde.</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
@@ -549,7 +549,7 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
     </message>
     <message>
         <source>System time error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro da hora do sistema.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
@@ -1899,7 +1899,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>(Microsoft Store)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Loja Microsoft)</translation>
     </message>
     <message>
         <source>(Desktop)</source>
@@ -2053,7 +2053,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>Adjust region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar tamanho da região</translation>
     </message>
     <message>
         <source>Change size unit</source>
@@ -2192,7 +2192,10 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
 - The offline license will be permanently bound to this device for the duration you specify.
 - License seat remains reserved for this duration even after deactivation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>IMPORTANTE:
+- A licença offline ficará permanentemente ligada a este dispositivo pela duração que especificar.
+- O lugar da licença permanece reservado por esse período mesmo após a desactivação.
+</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -2208,7 +2211,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenha em %1 ou por &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Personal</source>
@@ -2220,19 +2223,19 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Pedido de activação offline do Snipaste</translation>
     </message>
     <message>
         <source>Device Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código do dispositivo</translation>
     </message>
     <message>
         <source>Pre-filled, do not modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-preenchido, não modificar</translation>
     </message>
     <message>
         <source>Please fill in ALL information below:</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, preencha toda a informação abaixo:</translation>
     </message>
     <message>
         <source>Email</source>
@@ -2240,31 +2243,31 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>Enter the email address associated with your license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduza o email associado à sua chave de licença</translation>
     </message>
     <message>
         <source>License Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Chave de licença</translation>
     </message>
     <message>
         <source>Enter the license key from your purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduza a chave de licença da sua aquisição</translation>
     </message>
     <message>
         <source>Activation Period (days)</source>
-        <translation type="unfinished"></translation>
+        <translation>Período de activação (dias)</translation>
     </message>
     <message>
         <source>Specify duration between 10 to 366 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique a duração entre 10 e 366 dias</translation>
     </message>
     <message>
         <source>Redeem code</source>
-        <translation type="unfinished"></translation>
+        <translation>Resgatar código</translation>
     </message>
     <message>
         <source>Trial</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaliação</translation>
     </message>
     <message>
         <source>Registered to</source>
@@ -2276,7 +2279,7 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>License expires on</source>
-        <translation type="unfinished"></translation>
+        <translation>A licença expira a</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
@@ -3818,11 +3821,11 @@ Examplos:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar o Snipaste 2 PRO (Offline)</translation>
     </message>
     <message>
         <source>Device code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Código do dispositivo:</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3830,7 +3833,7 @@ Examplos:
     </message>
     <message>
         <source>Offlince license code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de licença offline:</translation>
     </message>
 </context>
 <context>
