@@ -501,11 +501,11 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Too many requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Demasiadas peticiones.</translation>
     </message>
     <message>
         <source>Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor intenta más tarde.</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
@@ -549,7 +549,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>System time error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de tiempo del sistema.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
@@ -2053,7 +2053,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Adjust region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste tamaño de la región</translation>
     </message>
     <message>
         <source>Change size unit</source>
@@ -2192,7 +2192,10 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
 - The offline license will be permanently bound to this device for the duration you specify.
 - License seat remains reserved for this duration even after deactivation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>IMPORTANTE: 
+La licencia sin conexión estará permanentemente vinculada a este dispositivo durante el tiempo que usted especifique. 
+El lugar de la licencia permanece reservado para esta duración incluso después de la desactivación.
+</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -2208,7 +2211,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenlo de %1 o via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Personal</source>
@@ -2220,19 +2223,19 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Petición de activación sin conexión de Snipaste</translation>
     </message>
     <message>
         <source>Device Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código del dispositivo</translation>
     </message>
     <message>
         <source>Pre-filled, do not modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre-llenado, no modificar</translation>
     </message>
     <message>
         <source>Please fill in ALL information below:</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor llene TODA la información abajo:</translation>
     </message>
     <message>
         <source>Email</source>
@@ -2240,31 +2243,31 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>Enter the email address associated with your license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca el email asociado con tu llave de licencia</translation>
     </message>
     <message>
         <source>License Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Llave de licencia</translation>
     </message>
     <message>
         <source>Enter the license key from your purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca la licencia de su compra</translation>
     </message>
     <message>
         <source>Activation Period (days)</source>
-        <translation type="unfinished"></translation>
+        <translation>Periodo de activación (días)</translation>
     </message>
     <message>
         <source>Specify duration between 10 to 366 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique la duración entre 10 y 366 días</translation>
     </message>
     <message>
         <source>Redeem code</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimir código</translation>
     </message>
     <message>
         <source>Trial</source>
-        <translation type="unfinished"></translation>
+        <translation>Prueba</translation>
     </message>
     <message>
         <source>Registered to</source>
@@ -2276,7 +2279,7 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     </message>
     <message>
         <source>License expires on</source>
-        <translation type="unfinished"></translation>
+        <translation>La licencia expira en</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
@@ -3819,11 +3822,11 @@ Ejemplos:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar Snipaste 2 PRO (Sin conexión)</translation>
     </message>
     <message>
         <source>Device code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Código del dispositivo:</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3831,7 +3834,7 @@ Ejemplos:
     </message>
     <message>
         <source>Offlince license code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de licencia sin conexión:</translation>
     </message>
 </context>
 <context>
