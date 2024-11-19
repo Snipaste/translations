@@ -2270,7 +2270,7 @@ Please launch the subscription platform first.</source>
     </message>
     <message>
         <source>Please fill in ALL information below:</source>
-        <translation>请填充以下所有信息：</translation>
+        <translation>请填写以下所有信息：</translation>
     </message>
     <message>
         <source>Email</source>
