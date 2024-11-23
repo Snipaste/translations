@@ -121,7 +121,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルマネージャに表示</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -349,7 +349,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
-        <translation type="unfinished"></translation>
+        <translation>切り取り時に参考線を表示/非表示</translation>
     </message>
     <message>
         <source>Move the snipping area/image window by 1 pixel if not editing</source>
@@ -2067,11 +2067,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>QRコード / バーコードが検出されませんでした。</translation>
     </message>
     <message>
         <source>QR code / barcode scan result</source>
-        <translation type="unfinished"></translation>
+        <translation>QRコード / バーコードの読み取り結果</translation>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
@@ -2177,7 +2177,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>UnlockProDialog</name>
     <message>
         <source>You are using the free version of Snipaste %1 %2.</source>
-        <translation>無料版のSnipaste %1 %2 です。</translation>
+        <translation>無料版の Snipaste %1 %2 を使用している。</translation>
     </message>
     <message>
         <source>License key</source>
@@ -2192,7 +2192,10 @@ If no image window is under the cursor, all unclickable images will be made clic
 - The offline license will be permanently bound to this device for the duration you specify.
 - License seat remains reserved for this duration even after deactivation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ご注意：
+- オフラインライセンスはご指定の有効期間内、このデバイスに紐付けます。
+- オフラインライセンスの有効期間内、非アクティブ化を行っても当該ライセンスは解放されません。
+        </translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -2200,11 +2203,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
-        <translation type="unfinished"></translation>
+        <translation>ライセンスは最大3つのデバイス(Windows/Mac/Linux)でアクティベート可能です。</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation type="unfinished"></translation>
+        <translation>ライセンスはあなたのMicrosoftアカウントに紐づいている。もしすでにMicrosoftアカウントにライセンスがある場合、「購入」を押すと以前の購入を復元できる。</translation>
     </message>
     <message>
         <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
@@ -2212,15 +2215,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>個人版</translation>
     </message>
     <message>
         <source>Business</source>
-        <translation type="unfinished"></translation>
+        <translation>ビジネス版</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste オフラインアクティベーション依頼</translation>
     </message>
     <message>
         <source>Device Code</source>
