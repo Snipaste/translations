@@ -2189,20 +2189,21 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>IMPORTANT</source>
-        <translation type="unfinished"></translation>
+        <translation>SVARBU</translation>
     </message>
     <message>
         <source>The offline license will be permanently bound to this device for the duration you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencija neprisijungus bus visam laikui pririšta šiam įrenginiui, tam laikotarpiui, kurį Jūs nurodote.</translation>
     </message>
     <message>
         <source>License seat remains reserved for this duration even after deactivation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencijos vieta lieka rezervuota šiam laikotarpiui, net ir po deaktyvacijos.</translation>
     </message>
     <message>
         <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Įrenginio kodas gali pasikeisti po operacinės sistemos perdiegimo. Sistemoms, kurios reikalauja dažnų perdiegimų, prašome naudoti aktyvaciją prisijungus arba naudokite trumpesnį neprisijungusios aktyvacijos laikotarpį.
+</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -3840,7 +3841,7 @@ Pvz:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvuoti „Snipaste 2 PRO“ (prisijungus)</translation>
     </message>
 </context>
 <context>
