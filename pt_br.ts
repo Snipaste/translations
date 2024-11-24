@@ -2189,20 +2189,21 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     </message>
     <message>
         <source>IMPORTANT</source>
-        <translation type="unfinished"></translation>
+        <translation>IMPORTANTE</translation>
     </message>
     <message>
         <source>The offline license will be permanently bound to this device for the duration you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>A licença off-line será permanentemente vinculada a este dispositivo pelo período que você especificar.</translation>
     </message>
     <message>
         <source>License seat remains reserved for this duration even after deactivation.</source>
-        <translation type="unfinished"></translation>
+        <translation>A ativação da licença permanece reservada por esse período, mesmo após a desativação.</translation>
     </message>
     <message>
         <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>O código do dispositivo pode mudar após a reinstalação do sistema operacional. Para sistemas que exigem reinstalação frequente, considere usar ativação on-line, ou use um período de ativação off-line mais curto.
+</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -3840,7 +3841,7 @@ Exemplos:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar Snipaste 2 PRO (on-line)</translation>
     </message>
 </context>
 <context>
