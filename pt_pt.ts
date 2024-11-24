@@ -2189,20 +2189,21 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     </message>
     <message>
         <source>IMPORTANT</source>
-        <translation type="unfinished"></translation>
+        <translation>IMPORTANTE</translation>
     </message>
     <message>
         <source>The offline license will be permanently bound to this device for the duration you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>A licença off-line ficará permanentemente ligada a este dispositivo pela duração que especificar.</translation>
     </message>
     <message>
         <source>License seat remains reserved for this duration even after deactivation.</source>
-        <translation type="unfinished"></translation>
+        <translation>O lugar da licença fica reservado por esta duração mesmo após desactivação.</translation>
     </message>
     <message>
         <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>O dispositivo pode mudar após reinstalações do SO. Para sistemas com reinstalações frequentes, considere usar a activação on-line, ou use um período curto de activação off-line.
+</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -3840,7 +3841,7 @@ Examplos:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar o Snipaste 2 PRO (On-line)</translation>
     </message>
 </context>
 <context>
