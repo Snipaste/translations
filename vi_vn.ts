@@ -3749,10 +3749,6 @@ Examples:
         <translation>Hủy bỏ</translation>
     </message>
     <message>
-        <source>Activate Snipaste 2 PRO</source>
-        <translation>Kích hoạt Snipaste 2 PRO</translation>
-    </message>
-    <message>
         <source>Email</source>
         <translation>Địa chỉ hộp thư điện tử</translation>
     </message>
@@ -3798,6 +3794,10 @@ Examples:
     </message>
     <message>
         <source>Offlince license code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO (Online)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

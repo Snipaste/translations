@@ -3791,10 +3791,6 @@ Pvz:
         <translation>Atšaukti</translation>
     </message>
     <message>
-        <source>Activate Snipaste 2 PRO</source>
-        <translation>Aktyvuoti „Snipaste 2 PRO“</translation>
-    </message>
-    <message>
         <source>Email</source>
         <translation>El. paštas</translation>
     </message>
@@ -3841,6 +3837,10 @@ Pvz:
     <message>
         <source>Offlince license code:</source>
         <translation>Licencijos kodas neprisijungus:</translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

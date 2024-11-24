@@ -3801,10 +3801,6 @@ Beispiele:
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <source>Activate Snipaste 2 PRO</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Email</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3850,6 +3846,10 @@ Beispiele:
     </message>
     <message>
         <source>Offlince license code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO (Online)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -3780,10 +3780,6 @@ ex) 500 500
         <translation>취소</translation>
     </message>
     <message>
-        <source>Activate Snipaste 2 PRO</source>
-        <translation>Snipaste 2 PRO 활성화</translation>
-    </message>
-    <message>
         <source>Email</source>
         <translation>이메일</translation>
     </message>
@@ -3829,6 +3825,10 @@ ex) 500 500
     </message>
     <message>
         <source>Offlince license code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO (Online)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

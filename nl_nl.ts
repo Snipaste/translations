@@ -3792,10 +3792,6 @@ Voorbeelden:
         <translation>Annuleren</translation>
     </message>
     <message>
-        <source>Activate Snipaste 2 PRO</source>
-        <translation>Snipaste 2 PRO activeren</translation>
-    </message>
-    <message>
         <source>Email</source>
         <translation>E-mail</translation>
     </message>
@@ -3842,6 +3838,10 @@ Voorbeelden:
     <message>
         <source>Offlince license code:</source>
         <translation>Officiële licentiecode:</translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

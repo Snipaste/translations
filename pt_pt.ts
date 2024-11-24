@@ -3791,10 +3791,6 @@ Examplos:
         <translation>Cancelar</translation>
     </message>
     <message>
-        <source>Activate Snipaste 2 PRO</source>
-        <translation>Activar Snipaste 2 PRO</translation>
-    </message>
-    <message>
         <source>Email</source>
         <translation>E-mail</translation>
     </message>
@@ -3841,6 +3837,10 @@ Examplos:
     <message>
         <source>Offlince license code:</source>
         <translation>Código de licença offline:</translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

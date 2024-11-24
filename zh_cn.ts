@@ -3825,10 +3825,6 @@ Examples:
         <translation>取消</translation>
     </message>
     <message>
-        <source>Activate Snipaste 2 PRO</source>
-        <translation>激活 Snipaste 2 专业版</translation>
-    </message>
-    <message>
         <source>Email</source>
         <translation>电子邮件地址</translation>
     </message>
@@ -3879,6 +3875,10 @@ Examples:
     <message>
         <source>Offlince license code:</source>
         <translation>离线激活码:</translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO (Online)</source>
+        <translation>在线激活 Snipaste 2 专业版</translation>
     </message>
 </context>
 <context>

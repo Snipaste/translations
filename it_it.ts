@@ -3791,10 +3791,6 @@ Esempi:
         <translation>Annulla</translation>
     </message>
     <message>
-        <source>Activate Snipaste 2 PRO</source>
-        <translation>Attiva Snipaste 2 PRO</translation>
-    </message>
-    <message>
         <source>Email</source>
         <translation>Email</translation>
     </message>
@@ -3840,6 +3836,10 @@ Esempi:
     </message>
     <message>
         <source>Offlince license code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate Snipaste 2 PRO (Online)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
