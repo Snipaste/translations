@@ -2223,14 +2223,21 @@ Please launch the subscription platform first.</source>
         <translation>解锁专业版</translation>
     </message>
     <message>
-        <source>IMPORTANT:
-- The offline license will be permanently bound to this device for the duration you specify.
-- License seat remains reserved for this duration even after deactivation.
+        <source>IMPORTANT</source>
+        <translation>重要提示</translation>
+    </message>
+    <message>
+        <source>The offline license will be permanently bound to this device for the duration you specify.</source>
+        <translation>离线授权将在您指定的有效期内绑定到此设备。</translation>
+    </message>
+    <message>
+        <source>License seat remains reserved for this duration even after deactivation.</source>
+        <translation>即使进行了反激活，该设备的离线授权仍会在有效期内占用一个设备数。</translation>
+    </message>
+    <message>
+        <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation>重要提示：
-- 离线授权将在您指定的有效期内绑定到此设备。
-- 即使进行了反激活，该设备的离线授权仍会在有效期内占用一个设备数。
-</translation>
+        <translation>设备码可能会在重装操作系统后发生变化。如果该设备需要经常重装系统，建议使用在线激活方式，或者使用较短的离线激活期限。</translation>
     </message>
     <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>

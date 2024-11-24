@@ -2188,14 +2188,21 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
         <translation>Desbloquear funciones PRO</translation>
     </message>
     <message>
-        <source>IMPORTANT:
-- The offline license will be permanently bound to this device for the duration you specify.
-- License seat remains reserved for this duration even after deactivation.
+        <source>IMPORTANT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The offline license will be permanently bound to this device for the duration you specify.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License seat remains reserved for this duration even after deactivation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation>IMPORTANTE: 
-La licencia sin conexión estará permanentemente vinculada a este dispositivo durante el tiempo que usted especifique. 
-El lugar de la licencia permanece reservado para esta duración incluso después de la desactivación.
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>

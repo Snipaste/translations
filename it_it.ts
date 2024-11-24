@@ -2188,9 +2188,19 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
         <translation>Sblocca le funzionalità PRO</translation>
     </message>
     <message>
-        <source>IMPORTANT:
-- The offline license will be permanently bound to this device for the duration you specify.
-- License seat remains reserved for this duration even after deactivation.
+        <source>IMPORTANT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The offline license will be permanently bound to this device for the duration you specify.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License seat remains reserved for this duration even after deactivation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
         <translation type="unfinished"></translation>
     </message>

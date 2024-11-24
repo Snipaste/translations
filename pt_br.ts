@@ -2188,14 +2188,21 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
         <translation>Desbloquear recursos PRO</translation>
     </message>
     <message>
-        <source>IMPORTANT:
-- The offline license will be permanently bound to this device for the duration you specify.
-- License seat remains reserved for this duration even after deactivation.
+        <source>IMPORTANT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The offline license will be permanently bound to this device for the duration you specify.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License seat remains reserved for this duration even after deactivation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation>IMPORTANTE:
-- A licença off-line será permanentemente vinculada a este dispositivo pela duração especificada.
-- O ativação da licença permanece reservada por esta duração mesmo após a desativação.
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>

@@ -2188,14 +2188,21 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>Atrakinti „PRO“ funkcijas</translation>
     </message>
     <message>
-        <source>IMPORTANT:
-- The offline license will be permanently bound to this device for the duration you specify.
-- License seat remains reserved for this duration even after deactivation.
+        <source>IMPORTANT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The offline license will be permanently bound to this device for the duration you specify.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License seat remains reserved for this duration even after deactivation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation>SVARBU: 
-– Licencija atsijungus bus visam laikui pririštas prie šio įrenginio, tam laikotarpiui, kurį Jūs nurodote. 
-– Licencijos asmenys išlieka rezervuoti šiam laikotarpiui, net po deaktyvacijos.
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
