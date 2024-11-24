@@ -2190,20 +2190,21 @@ Start Snipaste opnieuw op.</translation>
     </message>
     <message>
         <source>IMPORTANT</source>
-        <translation type="unfinished"></translation>
+        <translation>BELANGRIJK</translation>
     </message>
     <message>
         <source>The offline license will be permanently bound to this device for the duration you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>De offline licentie wordt voor de opgeheven duur gekoppeld aan dit apparaat.</translation>
     </message>
     <message>
         <source>License seat remains reserved for this duration even after deactivation.</source>
-        <translation type="unfinished"></translation>
+        <translation>De licentie blijft voor deze duur gereserveerd, zelfs na deactivering.</translation>
     </message>
     <message>
         <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>De apparaatcode kan veranderen met de installatie van het besturingssysteem. Voor systemen die regelmatig opnieuw moeten worden geïnstalleerd, is het raadzaam om in plaats daarvan online activering te gebruiken of een kortere offline activeringsperiode te gebruiken.
+</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -3841,7 +3842,7 @@ Voorbeelden:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO activeren (online)</translation>
     </message>
 </context>
 <context>
