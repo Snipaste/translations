@@ -1039,7 +1039,7 @@ Partagez-le avec vos amis !</translation>
 Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>Remarque&#x202f;: vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés. 
+        <translation>Remarque : vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés. 
  
 En outre, vous ne devez pas supprimer le fichier de configuration par défaut après cette opération, car il enregistre où trouver votre nouveau fichier de configuration. 
  
@@ -2189,20 +2189,21 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     </message>
     <message>
         <source>IMPORTANT</source>
-        <translation type="unfinished"></translation>
+        <translation>IMPORTANT</translation>
     </message>
     <message>
         <source>The offline license will be permanently bound to this device for the duration you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>La licence hors ligne sera définitivement liée à cet appareil pour la durée que vous spécifiez.</translation>
     </message>
     <message>
         <source>License seat remains reserved for this duration even after deactivation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le poste de licence reste réservé pour cette durée même après désactivation.</translation>
     </message>
     <message>
         <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Le code de l&apos;appareil peut changer après la réinstallation du système d&apos;exploitation. Pour les systèmes nécessitant une réinstallation fréquente, envisagez plutôt d&apos;utiliser l&apos;activation en ligne ou d&apos;utiliser une période d&apos;activation hors ligne plus courte.
+</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -3840,7 +3841,7 @@ Exemples :
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer Snipaste 2 PRO (en ligne)</translation>
     </message>
 </context>
 <context>
