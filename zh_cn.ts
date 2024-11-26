@@ -2261,7 +2261,7 @@ Please launch the subscription platform first.</source>
     </message>
     <message>
         <source>Business</source>
-        <translation>商业版</translation>
+        <translation>企业版</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
