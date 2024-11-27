@@ -561,7 +561,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>The activation on this device has expired.</source>
-        <translation>此設備的啟動狀態已過期。</translation>
+        <translation>此設備的啟用狀態已過期。</translation>
     </message>
     <message>
         <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
@@ -2202,7 +2202,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation>重灌作業系統後，設備代碼可能會變更。如果該設備需要經常重灌系統，建議使用線上啟動方式，或使用較短的離線啟動期限。
+        <translation>重灌作業系統後，設備代碼可能會變更。如果該設備需要經常重灌系統，建議使用線上啟用方式，或使用較短的離線啟用期限。
 </translation>
     </message>
     <message>
@@ -2211,7 +2211,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
-        <translation>此授權最多可啟動 3 台裝置（Windows/Mac/Linux）。</translation>
+        <translation>此授權最多可啟用 3 台裝置（Windows/Mac/Linux）。</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
@@ -2231,7 +2231,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation>Snipaste 離線啟動請求</translation>
+        <translation>Snipaste 離線啟用請求</translation>
     </message>
     <message>
         <source>Device Code</source>
@@ -2263,11 +2263,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Activation Period (days)</source>
-        <translation>啟動期限（天）</translation>
+        <translation>啟用期限（天）</translation>
     </message>
     <message>
         <source>Specify duration between 10 to 366 days</source>
-        <translation>指定 10 到 366 天之間的啟動期限</translation>
+        <translation>指定 10 到 366 天之間的啟用期限</translation>
     </message>
     <message>
         <source>Redeem code</source>
@@ -2295,7 +2295,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Activating...</source>
-        <translation>正在啟動...</translation>
+        <translation>正在啟用...</translation>
     </message>
     <message>
         <source>Deactivating...</source>
@@ -3649,7 +3649,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Activation Info</source>
-        <translation>啟動訊息</translation>
+        <translation>啟用訊息</translation>
     </message>
 </context>
 <context>
@@ -3805,7 +3805,7 @@ Examples:
     </message>
     <message>
         <source>Snipaste 2 PRO Activated</source>
-        <translation>Snipaste 2 專業版已啟動</translation>
+        <translation>Snipaste 2 專業版已啟用</translation>
     </message>
     <message>
         <source>Deactivate</source>
@@ -3825,7 +3825,7 @@ Examples:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Offline)</source>
-        <translation>離線啟動 Snipaste 2 PRO</translation>
+        <translation>離線啟用 Snipaste 2 PRO</translation>
     </message>
     <message>
         <source>Device code:</source>
@@ -3841,7 +3841,7 @@ Examples:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Online)</source>
-        <translation>線上啟動 Snipaste 2 專業版</translation>
+        <translation>線上啟用 Snipaste 2 專業版</translation>
     </message>
 </context>
 <context>
