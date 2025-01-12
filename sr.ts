@@ -26,12 +26,43 @@
 <context>
     <name>ColorPicker</name>
     <message>
+        <source>Press %1 to switch between color values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press %1 to copy color</source>
         <translation>Стиснути %1 за копирање боје</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
         <translation>Стиснути %1 за пребацивање RGB/HEX</translation>
+    </message>
+</context>
+<context>
+    <name>CommandDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation>Уклони команду</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>Сигурно уклонити команду?</translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>Име не може да буде празно!</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>Команда не може да буде празна!</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation>Још примера...</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation>Унеси име/путању пакета одвојено са запетама (нпр. snipaste.app, games/*)</translation>
     </message>
 </context>
 <context>
@@ -145,6 +176,131 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
+    <name>GlobalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Уредити команду</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Резати</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Резати и копирати</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Одложено резање</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Прилепити</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Сакрити/показати све слике</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Пребацивање на другу групу слика</translation>
+    </message>
+    <message>
+        <source>Switch to the previous image group</source>
+        <translation>Ићи на претходну групу</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation>Испразнити тренутну групу слика</translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>Пребацити клик-кроз миша</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation>Угаси/упали глобалне пречице</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation>Онемогући/Омогући вруће углове</translation>
+    </message>
+    <message>
+        <source>Clear snip history</source>
+        <translation>Обришите историју исечака</translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
+        <translation>Скенирати QR код / баркод</translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>Пречица за пребацивање режима кликања кроз слику испод курсора.
+Ако ниједан прозор слике није испод курсора, све неклупајуће слике ће бити извршене кликом.</translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation>Показати треј мени</translation>
+    </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>Прилагоди сечење</translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation>Ухвати активни прозор</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>Резати и закачи</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation>Резати и копирати цео екран</translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation>Резати и опирати исто зону као претходно резање</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation>Ући у моду табле</translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation>Отвори Нотпед</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Ући у моду табле (Дупли Esc за излаз)</translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation>Одабери боју</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>Прилепи као слику</translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation>Прилепи као текст</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation>Резати са сенком</translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation>Резати, копирати и закачити</translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Ући у моду провидне табле (Дупли Esc за излаз)</translation>
+    </message>
+</context>
+<context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
@@ -196,33 +352,6 @@ Please contact the developer.</source>
     <message>
         <source>PRO Features</source>
         <translation>PRO способности</translation>
-    </message>
-</context>
-<context>
-    <name>HotkeyCmdDialog</name>
-    <message>
-        <source>Remove command</source>
-        <translation>Уклони команду</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove this command?</source>
-        <translation>Сигурно уклонити команду?</translation>
-    </message>
-    <message>
-        <source>The name cannot be empty!</source>
-        <translation>Име не може да буде празно!</translation>
-    </message>
-    <message>
-        <source>The command cannot be empty!</source>
-        <translation>Команда не може да буде празна!</translation>
-    </message>
-    <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>Унеси име/путању пакета одвојено са запетама (нпр. snipaste.app, games/*)</translation>
-    </message>
-    <message>
-        <source>More examples...</source>
-        <translation>Још примера...</translation>
     </message>
 </context>
 <context>
@@ -597,6 +726,21 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
         <translation>Производ није купљен због непознате грешне.</translation>
+    </message>
+</context>
+<context>
+    <name>LocalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Уредити команду</translation>
+    </message>
+    <message>
+        <source>Send to printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy and pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1721,131 +1865,6 @@ Click any of them to dismiss this notification permanently.
     </message>
 </context>
 <context>
-    <name>ShortcutContainer</name>
-    <message>
-        <source>Edit command</source>
-        <translation>Уредити команду</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Резати</translation>
-    </message>
-    <message>
-        <source>Snip and copy</source>
-        <translation>Резати и копирати</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>Одложено резање</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Прилепити</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images</source>
-        <translation>Сакрити/показати све слике</translation>
-    </message>
-    <message>
-        <source>Switch to another image group</source>
-        <translation>Пребацивање на другу групу слика</translation>
-    </message>
-    <message>
-        <source>Switch to the previous image group</source>
-        <translation>Ићи на претходну групу</translation>
-    </message>
-    <message>
-        <source>Empty the current image group</source>
-        <translation>Испразнити тренутну групу слика</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>Пребацити клик-кроз миша</translation>
-    </message>
-    <message>
-        <source>Disable/Enable global hotkeys</source>
-        <translation>Угаси/упали глобалне пречице</translation>
-    </message>
-    <message>
-        <source>Disable/Enable hot corners</source>
-        <translation>Онемогући/Омогући вруће углове</translation>
-    </message>
-    <message>
-        <source>Clear snip history</source>
-        <translation>Обришите историју исечака</translation>
-    </message>
-    <message>
-        <source>Scan QR code / barcode</source>
-        <translation>Скенирати QR код / баркод</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Пречица за пребацивање режима кликања кроз слику испод курсора.
-Ако ниједан прозор слике није испод курсора, све неклупајуће слике ће бити извршене кликом.</translation>
-    </message>
-    <message>
-        <source>Show tray menu</source>
-        <translation>Показати треј мени</translation>
-    </message>
-    <message>
-        <source>Custom snip</source>
-        <translation>Прилагоди сечење</translation>
-    </message>
-    <message>
-        <source>Snip the active window</source>
-        <translation>Ухвати активни прозор</translation>
-    </message>
-    <message>
-        <source>Snip and pin</source>
-        <translation>Резати и закачи</translation>
-    </message>
-    <message>
-        <source>Snip and copy the full screen</source>
-        <translation>Резати и копирати цео екран</translation>
-    </message>
-    <message>
-        <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Резати и опирати исто зону као претходно резање</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode</source>
-        <translation>Ући у моду табле</translation>
-    </message>
-    <message>
-        <source>Open Notepad</source>
-        <translation>Отвори Нотпед</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Ући у моду табле (Дупли Esc за излаз)</translation>
-    </message>
-    <message>
-        <source>Pick color</source>
-        <translation>Одабери боју</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>Прилепи као слику</translation>
-    </message>
-    <message>
-        <source>Paste as plain text</source>
-        <translation>Прилепи као текст</translation>
-    </message>
-    <message>
-        <source>Snip with shadow</source>
-        <translation>Резати са сенком</translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation>Резати, копирати и закачити</translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Ући у моду провидне табле (Дупли Esc за излаз)</translation>
-    </message>
-</context>
-<context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
@@ -2091,6 +2110,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable hotkeys</source>
         <translation>Угасити пречице</translation>
+    </message>
+    <message>
+        <source>Restore off-screen images (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images</source>
@@ -2361,6 +2384,49 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>commanddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation>Додати команду</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Име:</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>Подешавања</translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation>Команда:</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Проба</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Игнорисане листе:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Унос име покретања/путању одвојени са запетама (нпр. a.exe, games/*)</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Уклонити</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>У реду</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
@@ -2430,49 +2496,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Pages:</source>
         <translation>Странице:</translation>
-    </message>
-</context>
-<context>
-    <name>hotkeycmddialog</name>
-    <message>
-        <source>Add command</source>
-        <translation>Додати команду</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation>Име:</translation>
-    </message>
-    <message>
-        <source>Command:</source>
-        <translation>Команда:</translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation>Проба</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation>Подешавања</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation>Уклонити</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>У реду</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Поништити</translation>
-    </message>
-    <message>
-        <source>Ignored list:</source>
-        <translation>Игнорисане листе:</translation>
-    </message>
-    <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Унос име покретања/путању одвојени са запетама (нпр. a.exe, games/*)</translation>
     </message>
 </context>
 <context>
@@ -3415,16 +3438,8 @@ You will gain better response time on entering snipping.</source>
         <translation>Супер резање</translation>
     </message>
     <message>
-        <source>Color value:</source>
-        <translation>Вредност боје:</translation>
-    </message>
-    <message>
         <source>No &apos;#&apos;</source>
         <translation>Без &apos;#&apos;</translation>
-    </message>
-    <message>
-        <source>Uppercase Hex</source>
-        <translation>ХЕКС велика слова</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -3649,6 +3664,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Activation Info</source>
         <translation>инфо активације</translation>
+    </message>
+    <message>
+        <source>Color values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show HEX values in uppercase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never show auxiliary lines</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

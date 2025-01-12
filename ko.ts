@@ -26,12 +26,43 @@
 <context>
     <name>ColorPicker</name>
     <message>
+        <source>Press %1 to switch between color values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press %1 to copy color</source>
         <translation>[%1] 색상복사</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
         <translation>[%1] RGB/HEX 값 바꾸기</translation>
+    </message>
+</context>
+<context>
+    <name>CommandDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation>명령어 제거</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>명령을 제거하시겠습니까?</translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>이름은 필수 입력사항입니다!</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>명령어는 필수 입력사항입니다!</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation>추가적인 예제보기...</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation>번들이름 / 경로를 쉼표로 구분하여 입력하십시오 (예 : snipaste.app, games/*)</translation>
     </message>
 </context>
 <context>
@@ -143,6 +174,131 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
+    <name>GlobalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>커맨드 수정</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>캡쳐</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>캡쳐 후 복사</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>지연 캡쳐</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>붙이기</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>모든 이미지 보이기/숨기기</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>다른 이미지 그룹 전환</translation>
+    </message>
+    <message>
+        <source>Switch to the previous image group</source>
+        <translation>이전 이미지 그룹으로 전환</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation>현재 이미지 그룹 비우기</translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>마우스 연결 클릭 전환</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation>글로벌 단축키 비활성화 / 활성화</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation>핫 코너 비활성화/활성화</translation>
+    </message>
+    <message>
+        <source>Clear snip history</source>
+        <translation>캡처 기록 지우기</translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
+        <translation>QR 코드/바코드 스캔</translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>커서 아래 이미지의 연결클릭 모드를 토글하는 바로 가기.
+커서 아래에 이미지 창이 없으면 클릭 할 수없는 모든 이미지를 클릭 할 수있게됩니다.</translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation>트레이 메뉴 보기</translation>
+    </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>커스텀 캡쳐</translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation>활성 윈도우창 캡쳐</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>캡쳐하고 핀 설정</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation>전체화면 캡쳐후 복사</translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation>이전 캡쳐영역을 그대로 캡쳐후 복사</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation>화이트보드 모드로 들어가기</translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation>메모장 열기</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation>화이트 보드 모드 들어가기 (종료하려면 Esc를 두 번 탭하십시오)</translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation>컬러선택</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>이미지로 붙여 넣기</translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation>일반 텍스트로 붙여 넣기</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation>그림자 포함 캡쳐</translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation>자르기, 복사 및 고정</translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation>투명한 화이트 보드 모드로 전환 (종료하려면 Esc를 두 번 탭)</translation>
+    </message>
+</context>
+<context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
@@ -194,33 +350,6 @@ Please contact the developer.</source>
     <message>
         <source>PRO Features</source>
         <translation>프로버전의 기능들</translation>
-    </message>
-</context>
-<context>
-    <name>HotkeyCmdDialog</name>
-    <message>
-        <source>Remove command</source>
-        <translation>명령어 제거</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove this command?</source>
-        <translation>명령을 제거하시겠습니까?</translation>
-    </message>
-    <message>
-        <source>The name cannot be empty!</source>
-        <translation>이름은 필수 입력사항입니다!</translation>
-    </message>
-    <message>
-        <source>The command cannot be empty!</source>
-        <translation>명령어는 필수 입력사항입니다!</translation>
-    </message>
-    <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>번들이름 / 경로를 쉼표로 구분하여 입력하십시오 (예 : snipaste.app, games/*)</translation>
-    </message>
-    <message>
-        <source>More examples...</source>
-        <translation>추가적인 예제보기...</translation>
     </message>
 </context>
 <context>
@@ -595,6 +724,21 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
         <translation>알 수없는 오류로 인해 제품을 구입하지 못했습니다.</translation>
+    </message>
+</context>
+<context>
+    <name>LocalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>커맨드 수정</translation>
+    </message>
+    <message>
+        <source>Send to printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy and pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1715,131 +1859,6 @@ Click any of them to dismiss this notification permanently.
     </message>
 </context>
 <context>
-    <name>ShortcutContainer</name>
-    <message>
-        <source>Edit command</source>
-        <translation>커맨드 수정</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>캡쳐</translation>
-    </message>
-    <message>
-        <source>Snip and copy</source>
-        <translation>캡쳐 후 복사</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>지연 캡쳐</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>붙이기</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images</source>
-        <translation>모든 이미지 보이기/숨기기</translation>
-    </message>
-    <message>
-        <source>Switch to another image group</source>
-        <translation>다른 이미지 그룹 전환</translation>
-    </message>
-    <message>
-        <source>Switch to the previous image group</source>
-        <translation>이전 이미지 그룹으로 전환</translation>
-    </message>
-    <message>
-        <source>Empty the current image group</source>
-        <translation>현재 이미지 그룹 비우기</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>마우스 연결 클릭 전환</translation>
-    </message>
-    <message>
-        <source>Disable/Enable global hotkeys</source>
-        <translation>글로벌 단축키 비활성화 / 활성화</translation>
-    </message>
-    <message>
-        <source>Disable/Enable hot corners</source>
-        <translation>핫 코너 비활성화/활성화</translation>
-    </message>
-    <message>
-        <source>Clear snip history</source>
-        <translation>캡처 기록 지우기</translation>
-    </message>
-    <message>
-        <source>Scan QR code / barcode</source>
-        <translation>QR 코드/바코드 스캔</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>커서 아래 이미지의 연결클릭 모드를 토글하는 바로 가기.
-커서 아래에 이미지 창이 없으면 클릭 할 수없는 모든 이미지를 클릭 할 수있게됩니다.</translation>
-    </message>
-    <message>
-        <source>Show tray menu</source>
-        <translation>트레이 메뉴 보기</translation>
-    </message>
-    <message>
-        <source>Custom snip</source>
-        <translation>커스텀 캡쳐</translation>
-    </message>
-    <message>
-        <source>Snip the active window</source>
-        <translation>활성 윈도우창 캡쳐</translation>
-    </message>
-    <message>
-        <source>Snip and pin</source>
-        <translation>캡쳐하고 핀 설정</translation>
-    </message>
-    <message>
-        <source>Snip and copy the full screen</source>
-        <translation>전체화면 캡쳐후 복사</translation>
-    </message>
-    <message>
-        <source>Snip and copy the same area of the last screenshot</source>
-        <translation>이전 캡쳐영역을 그대로 캡쳐후 복사</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode</source>
-        <translation>화이트보드 모드로 들어가기</translation>
-    </message>
-    <message>
-        <source>Open Notepad</source>
-        <translation>메모장 열기</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>화이트 보드 모드 들어가기 (종료하려면 Esc를 두 번 탭하십시오)</translation>
-    </message>
-    <message>
-        <source>Pick color</source>
-        <translation>컬러선택</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>이미지로 붙여 넣기</translation>
-    </message>
-    <message>
-        <source>Paste as plain text</source>
-        <translation>일반 텍스트로 붙여 넣기</translation>
-    </message>
-    <message>
-        <source>Snip with shadow</source>
-        <translation>그림자 포함 캡쳐</translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation>자르기, 복사 및 고정</translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>투명한 화이트 보드 모드로 전환 (종료하려면 Esc를 두 번 탭)</translation>
-    </message>
-</context>
-<context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
@@ -2085,6 +2104,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable hotkeys</source>
         <translation>단축키 비활성화</translation>
+    </message>
+    <message>
+        <source>Restore off-screen images (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images</source>
@@ -2355,6 +2378,49 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>commanddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation>커맨드 추가</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>이름 :</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>프리셋</translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation>커맨드 :</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>테스트</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>무시된 목록 : </translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>실행 파일 이름 / 경로를 쉼표로 구분하여 입력하십시오 (e.g. a.exe, games/*)</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>제거</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>취소</translation>
+    </message>
+</context>
+<context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
@@ -2424,49 +2490,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Pages:</source>
         <translation>페이지 :</translation>
-    </message>
-</context>
-<context>
-    <name>hotkeycmddialog</name>
-    <message>
-        <source>Add command</source>
-        <translation>커맨드 추가</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation>이름 :</translation>
-    </message>
-    <message>
-        <source>Command:</source>
-        <translation>커맨드 :</translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation>테스트</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation>프리셋</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation>제거</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>확인</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>취소</translation>
-    </message>
-    <message>
-        <source>Ignored list:</source>
-        <translation>무시된 목록 :</translation>
-    </message>
-    <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>실행 파일 이름 / 경로를 쉼표로 구분하여 입력하십시오 (e.g. a.exe, games/*)</translation>
     </message>
 </context>
 <context>
@@ -3406,16 +3429,8 @@ You will gain better response time on entering snipping.</source>
         <translation>슈퍼 캡쳐</translation>
     </message>
     <message>
-        <source>Color value:</source>
-        <translation>컬러값</translation>
-    </message>
-    <message>
         <source>No &apos;#&apos;</source>
         <translation>번호 &apos;#&apos;</translation>
-    </message>
-    <message>
-        <source>Uppercase Hex</source>
-        <translation>대문자 HEX값</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -3639,6 +3654,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Activation Info</source>
         <translation>활성화 정보</translation>
+    </message>
+    <message>
+        <source>Color values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show HEX values in uppercase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never show auxiliary lines</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

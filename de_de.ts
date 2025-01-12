@@ -26,12 +26,43 @@
 <context>
     <name>ColorPicker</name>
     <message>
+        <source>Press %1 to switch between color values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press %1 to copy color</source>
         <translation>Drücke %1 um die Farbe zu kopieren</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
         <translation>Drücke %1 um zwischen RGB/HEX zu wechseln</translation>
+    </message>
+</context>
+<context>
+    <name>CommandDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation>Entferne Befehl</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>Möchten Sie diesen Befehl wirklich entfernen?</translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>Der Name darf nicht leer sein!</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>Der Befehl darf nicht leer sein!</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation>Mehr Beispiele...</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation>Geben Sie die durch Kommas getrennten Namen / Pfade des Pakets ein (z. B. snipaste.app, games / *)</translation>
     </message>
 </context>
 <context>
@@ -143,6 +174,131 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
+    <name>GlobalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Befehl bearbeiten</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Aufnehmen</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Aufnehmen und kopieren</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Verzögertes Aufnehmen</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Verberge/Zeige alle Bilder</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Wechsle zu einer anderen Bildergruppe</translation>
+    </message>
+    <message>
+        <source>Switch to the previous image group</source>
+        <translation>Zur vorherigen Gruppe wechseln</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation>Leere aktuelle Bildgruppe</translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>Durchklicken mit der Maus umschalten</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation>Deaktivieren/aktivieren Sie die  globalen Hotkeys</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation>Deaktivieren/aktivieren Sie die Hot Corners</translation>
+    </message>
+    <message>
+        <source>Clear snip history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
+        <translation>QR Code / Barcode scannen</translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>Verknüpfung, um den Klick-Modus des Bildes unter dem Cursor umzuschalten.
+Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilder anklickbar gemacht.</translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation>Zeige Taskleistenmenü</translation>
+    </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>Benutzerdefinierte Aufnahme</translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation>Aktives Fenstere aufnehmen</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>Aufnehmen und anheften</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation>Aufnehmen und gesamten Bildschirm kopieren</translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation>Aufnehmen und den gleichen Bereich wie beim letzten Screenshot kopieren</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation>Whiteboard-Modus betreten</translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation>Notepad öffnen</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Aktivieren Sie den Whiteboard-Modus (zum Beenden doppelt auf Esc tippen)</translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation>Wähle Farbe</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>Als Bild einfügen</translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation>Als einfachen Text einfügen</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation>Aufnahme mit Schatten</translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation>Aufnehmen, kopieren und anheften</translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Aktivieren Sie den transparenten Whiteboard-Modus (Tippen Sie zum Beenden zweimal auf Esc)</translation>
+    </message>
+</context>
+<context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
@@ -194,33 +350,6 @@ Please contact the developer.</source>
     <message>
         <source>PRO Features</source>
         <translation>PRO Funktionen</translation>
-    </message>
-</context>
-<context>
-    <name>HotkeyCmdDialog</name>
-    <message>
-        <source>Remove command</source>
-        <translation>Entferne Befehl</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove this command?</source>
-        <translation>Möchten Sie diesen Befehl wirklich entfernen?</translation>
-    </message>
-    <message>
-        <source>The name cannot be empty!</source>
-        <translation>Der Name darf nicht leer sein!</translation>
-    </message>
-    <message>
-        <source>The command cannot be empty!</source>
-        <translation>Der Befehl darf nicht leer sein!</translation>
-    </message>
-    <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>Geben Sie die durch Kommas getrennten Namen / Pfade des Pakets ein (z. B. snipaste.app, games / *)</translation>
-    </message>
-    <message>
-        <source>More examples...</source>
-        <translation>Mehr Beispiele...</translation>
     </message>
 </context>
 <context>
@@ -595,6 +724,21 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
         <translation>Das Produkt wurde aufgrund eines unbekannten Fehlers nicht gekauft.</translation>
+    </message>
+</context>
+<context>
+    <name>LocalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Befehl bearbeiten</translation>
+    </message>
+    <message>
+        <source>Send to printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy and pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1720,131 +1864,6 @@ Klicken Sie auf einen dieser Punkte, um diese Benachrichtigung dauerhaft zu deak
     </message>
 </context>
 <context>
-    <name>ShortcutContainer</name>
-    <message>
-        <source>Edit command</source>
-        <translation>Befehl bearbeiten</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Aufnehmen</translation>
-    </message>
-    <message>
-        <source>Snip and copy</source>
-        <translation>Aufnehmen und kopieren</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>Verzögertes Aufnehmen</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Einfügen</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images</source>
-        <translation>Verberge/Zeige alle Bilder</translation>
-    </message>
-    <message>
-        <source>Switch to another image group</source>
-        <translation>Wechsle zu einer anderen Bildergruppe</translation>
-    </message>
-    <message>
-        <source>Switch to the previous image group</source>
-        <translation>Zur vorherigen Gruppe wechseln</translation>
-    </message>
-    <message>
-        <source>Empty the current image group</source>
-        <translation>Leere aktuelle Bildgruppe</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>Durchklicken mit der Maus umschalten</translation>
-    </message>
-    <message>
-        <source>Disable/Enable global hotkeys</source>
-        <translation>Deaktivieren/aktivieren Sie die  globalen Hotkeys</translation>
-    </message>
-    <message>
-        <source>Disable/Enable hot corners</source>
-        <translation>Deaktivieren/aktivieren Sie die Hot Corners</translation>
-    </message>
-    <message>
-        <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scan QR code / barcode</source>
-        <translation>QR Code / Barcode scannen</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Verknüpfung, um den Klick-Modus des Bildes unter dem Cursor umzuschalten.
-Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilder anklickbar gemacht.</translation>
-    </message>
-    <message>
-        <source>Show tray menu</source>
-        <translation>Zeige Taskleistenmenü</translation>
-    </message>
-    <message>
-        <source>Custom snip</source>
-        <translation>Benutzerdefinierte Aufnahme</translation>
-    </message>
-    <message>
-        <source>Snip the active window</source>
-        <translation>Aktives Fenstere aufnehmen</translation>
-    </message>
-    <message>
-        <source>Snip and pin</source>
-        <translation>Aufnehmen und anheften</translation>
-    </message>
-    <message>
-        <source>Snip and copy the full screen</source>
-        <translation>Aufnehmen und gesamten Bildschirm kopieren</translation>
-    </message>
-    <message>
-        <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Aufnehmen und den gleichen Bereich wie beim letzten Screenshot kopieren</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode</source>
-        <translation>Whiteboard-Modus betreten</translation>
-    </message>
-    <message>
-        <source>Open Notepad</source>
-        <translation>Notepad öffnen</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Aktivieren Sie den Whiteboard-Modus (zum Beenden doppelt auf Esc tippen)</translation>
-    </message>
-    <message>
-        <source>Pick color</source>
-        <translation>Wähle Farbe</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>Als Bild einfügen</translation>
-    </message>
-    <message>
-        <source>Paste as plain text</source>
-        <translation>Als einfachen Text einfügen</translation>
-    </message>
-    <message>
-        <source>Snip with shadow</source>
-        <translation>Aufnahme mit Schatten</translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation>Aufnehmen, kopieren und anheften</translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Aktivieren Sie den transparenten Whiteboard-Modus (Tippen Sie zum Beenden zweimal auf Esc)</translation>
-    </message>
-</context>
-<context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
@@ -2090,6 +2109,10 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Disable hotkeys</source>
         <translation>Hotkeys deaktivieren</translation>
+    </message>
+    <message>
+        <source>Restore off-screen images (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images</source>
@@ -2360,6 +2383,49 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     </message>
 </context>
 <context>
+    <name>commanddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation>Befehl hinzufügen</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Name:</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>Voreinstellungen</translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation>Befehl:</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Test</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Ignorierte Liste:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Geben Sie durch Kommas getrennte ausführbare Namen / Pfade ein (z. B. a.exe, games / *)</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Entfernen</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+</context>
+<context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
@@ -2429,49 +2495,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Pages:</source>
         <translation>Seiten:</translation>
-    </message>
-</context>
-<context>
-    <name>hotkeycmddialog</name>
-    <message>
-        <source>Add command</source>
-        <translation>Befehl hinzufügen</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation>Name:</translation>
-    </message>
-    <message>
-        <source>Command:</source>
-        <translation>Befehl:</translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation>Test</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation>Voreinstellungen</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation>Entfernen</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>Ignored list:</source>
-        <translation>Ignorierte Liste:</translation>
-    </message>
-    <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Geben Sie durch Kommas getrennte ausführbare Namen / Pfade ein (z. B. a.exe, games / *)</translation>
     </message>
 </context>
 <context>
@@ -3412,16 +3435,8 @@ Sie erreichen damit bessere Reaktionszeit beim Aufnehmen.</translation>
         <translation>Super Snip</translation>
     </message>
     <message>
-        <source>Color value:</source>
-        <translation>Farbwert:</translation>
-    </message>
-    <message>
         <source>No &apos;#&apos;</source>
         <translation>Nr. &apos;#&apos;</translation>
-    </message>
-    <message>
-        <source>Uppercase Hex</source>
-        <translation>HEX in Großbuchstaben</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -3645,6 +3660,18 @@ Wenn diese Option nicht aktiviert ist, kann nur die aktive Art von Anmerkungen b
     </message>
     <message>
         <source>Activation Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show HEX values in uppercase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never show auxiliary lines</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

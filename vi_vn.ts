@@ -26,12 +26,43 @@
 <context>
     <name>ColorPicker</name>
     <message>
+        <source>Press %1 to switch between color values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press %1 to copy color</source>
         <translation>Nhấn %1 để sao chép màu</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
         <translation>Nhấn %1 để chuyển đổi giữa RGB/HEX</translation>
+    </message>
+</context>
+<context>
+    <name>CommandDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation>Xóa lệnh</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>Bạn có chắc chắn muốn xóa lệnh này không?</translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>Tên không được để trống!</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>Lệnh không được để trống!</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation>Các ví dụ khác...</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -143,6 +174,130 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
+    <name>GlobalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Chỉnh sửa lệnh</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Snip</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Cắt và sao chép</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Snip bị trì hoãn</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Dán</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Ẩn/Hiện toàn bộ hình ảnh</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Chớp sáng sau khi tắt nhóm khá</translation>
+    </message>
+    <message>
+        <source>Switch to the previous image group</source>
+        <translation>Chuyển sang nhóm hình ảnh trước</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation>Để trống nhóm hình ảnh hiện tại</translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>Bật tắt nhấp chuột qua</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation>Vô hiệu hóa/Kích hoạt phím tắt toàn cầu</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation>Vô hiệu hóa/Kích hoạt góc nóng</translation>
+    </message>
+    <message>
+        <source>Clear snip history</source>
+        <translation>Xóa lịch sử cắt</translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
+        <translation>Quét mã QR / mã vạch</translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation>Hiển thị tray menu</translation>
+    </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>Tùy chỉnh cắt</translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation>Cắt cửa sổ đang hoạt động</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>Cắt và ghim</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation>Cắt và sao chép toàn bộ màn hình</translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation>Cắt và sao chép cùng khu vực của ảnh chụp màn hình trước đó</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation>Vào chế độ bảng trắng</translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation>Mở Notepad</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Vào chế độ bảng trắng (Nhấn đúp Esc để thoát)</translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation>Chọn màu</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>Dán dưới dạng hình ảnh</translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation>Dán dưới dạng văn bản thuần túy</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation>Cắt với phần đổ bóng</translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation>Cắt, sao chép và ghim</translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Vào chế độ bảng trắng trong suốt (Nhấn đúp Esc để thoát)</translation>
+    </message>
+</context>
+<context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
@@ -194,33 +349,6 @@ Please contact the developer.</source>
     <message>
         <source>PRO Features</source>
         <translation>Tính năng PRO</translation>
-    </message>
-</context>
-<context>
-    <name>HotkeyCmdDialog</name>
-    <message>
-        <source>Remove command</source>
-        <translation>Xóa lệnh</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove this command?</source>
-        <translation>Bạn có chắc chắn muốn xóa lệnh này không?</translation>
-    </message>
-    <message>
-        <source>The name cannot be empty!</source>
-        <translation>Tên không được để trống!</translation>
-    </message>
-    <message>
-        <source>The command cannot be empty!</source>
-        <translation>Lệnh không được để trống!</translation>
-    </message>
-    <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More examples...</source>
-        <translation>Các ví dụ khác...</translation>
     </message>
 </context>
 <context>
@@ -594,6 +722,21 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
         <translation>Sản phẩm không được mua do lỗi không xác định.</translation>
+    </message>
+</context>
+<context>
+    <name>LocalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Chỉnh sửa lệnh</translation>
+    </message>
+    <message>
+        <source>Send to printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy and pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1706,130 +1849,6 @@ Click any of them to dismiss this notification permanently.
     </message>
 </context>
 <context>
-    <name>ShortcutContainer</name>
-    <message>
-        <source>Edit command</source>
-        <translation>Chỉnh sửa lệnh</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Snip</translation>
-    </message>
-    <message>
-        <source>Snip and copy</source>
-        <translation>Cắt và sao chép</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>Snip bị trì hoãn</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Dán</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images</source>
-        <translation>Ẩn/Hiện toàn bộ hình ảnh</translation>
-    </message>
-    <message>
-        <source>Switch to another image group</source>
-        <translation>Chớp sáng sau khi tắt nhóm khá</translation>
-    </message>
-    <message>
-        <source>Switch to the previous image group</source>
-        <translation>Chuyển sang nhóm hình ảnh trước</translation>
-    </message>
-    <message>
-        <source>Empty the current image group</source>
-        <translation>Để trống nhóm hình ảnh hiện tại</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>Bật tắt nhấp chuột qua</translation>
-    </message>
-    <message>
-        <source>Disable/Enable global hotkeys</source>
-        <translation>Vô hiệu hóa/Kích hoạt phím tắt toàn cầu</translation>
-    </message>
-    <message>
-        <source>Disable/Enable hot corners</source>
-        <translation>Vô hiệu hóa/Kích hoạt góc nóng</translation>
-    </message>
-    <message>
-        <source>Clear snip history</source>
-        <translation>Xóa lịch sử cắt</translation>
-    </message>
-    <message>
-        <source>Scan QR code / barcode</source>
-        <translation>Quét mã QR / mã vạch</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show tray menu</source>
-        <translation>Hiển thị tray menu</translation>
-    </message>
-    <message>
-        <source>Custom snip</source>
-        <translation>Tùy chỉnh cắt</translation>
-    </message>
-    <message>
-        <source>Snip the active window</source>
-        <translation>Cắt cửa sổ đang hoạt động</translation>
-    </message>
-    <message>
-        <source>Snip and pin</source>
-        <translation>Cắt và ghim</translation>
-    </message>
-    <message>
-        <source>Snip and copy the full screen</source>
-        <translation>Cắt và sao chép toàn bộ màn hình</translation>
-    </message>
-    <message>
-        <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Cắt và sao chép cùng khu vực của ảnh chụp màn hình trước đó</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode</source>
-        <translation>Vào chế độ bảng trắng</translation>
-    </message>
-    <message>
-        <source>Open Notepad</source>
-        <translation>Mở Notepad</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Vào chế độ bảng trắng (Nhấn đúp Esc để thoát)</translation>
-    </message>
-    <message>
-        <source>Pick color</source>
-        <translation>Chọn màu</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>Dán dưới dạng hình ảnh</translation>
-    </message>
-    <message>
-        <source>Paste as plain text</source>
-        <translation>Dán dưới dạng văn bản thuần túy</translation>
-    </message>
-    <message>
-        <source>Snip with shadow</source>
-        <translation>Cắt với phần đổ bóng</translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation>Cắt, sao chép và ghim</translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Vào chế độ bảng trắng trong suốt (Nhấn đúp Esc để thoát)</translation>
-    </message>
-</context>
-<context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
@@ -2074,6 +2093,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable hotkeys</source>
         <translation>Tắt phím tắt</translation>
+    </message>
+    <message>
+        <source>Restore off-screen images (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images</source>
@@ -2344,6 +2367,49 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>commanddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation>Thêm lệnh</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Tên:</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>Cài đặt sẵn</translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation>Lệnh:</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Kiểm tra</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Danh sách bị bỏ qua:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Xóa</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Hủy bỏ</translation>
+    </message>
+</context>
+<context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
@@ -2413,49 +2479,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Pages:</source>
         <translation>Trang:</translation>
-    </message>
-</context>
-<context>
-    <name>hotkeycmddialog</name>
-    <message>
-        <source>Add command</source>
-        <translation>Thêm lệnh</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation>Tên:</translation>
-    </message>
-    <message>
-        <source>Command:</source>
-        <translation>Lệnh:</translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation>Kiểm tra</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation>Cài đặt sẵn</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation>Xóa</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Hủy bỏ</translation>
-    </message>
-    <message>
-        <source>Ignored list:</source>
-        <translation>Danh sách bị bỏ qua:</translation>
-    </message>
-    <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3385,16 +3408,8 @@ Please report to the developer if you find any.</source>
         <translation>Cắt siêu cấp</translation>
     </message>
     <message>
-        <source>Color value:</source>
-        <translation>Giá trị màu:</translation>
-    </message>
-    <message>
         <source>No &apos;#&apos;</source>
         <translation>Thứ tự số &apos;#&apos;</translation>
-    </message>
-    <message>
-        <source>Uppercase Hex</source>
-        <translation>Hex chữ hoa</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -3619,6 +3634,18 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show HEX values in uppercase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never show auxiliary lines</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

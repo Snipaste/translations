@@ -26,12 +26,43 @@
 <context>
     <name>ColorPicker</name>
     <message>
+        <source>Press %1 to switch between color values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press %1 to copy color</source>
         <translation>Toets %1 om de kleur te kopiëren</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
         <translation>Toets %1 om RGB/HEX te wisselen</translation>
+    </message>
+</context>
+<context>
+    <name>CommandDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation>Opdracht verwijderen</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>Weet je zeker dat je deze opdracht wilt verwijderen?</translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>Voer een naam in!</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>Geef een opdracht op!</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation>Meer voorbeelden…</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation>Voer app-namen/paden in, gescheiden door komma&apos;s (bijv. snipaste.app, games/*)</translation>
     </message>
 </context>
 <context>
@@ -145,6 +176,131 @@ Informeer alsjeblieft de maker.</translation>
     </message>
 </context>
 <context>
+    <name>GlobalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Opdracht bewerken</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Knippen</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Knippen en kopiëren</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Knippen met vertraging</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Plakken</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Alle afbeeldingen verbergen/weergeven</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Naar andere afbeeldingengroep schakelen</translation>
+    </message>
+    <message>
+        <source>Switch to the previous image group</source>
+        <translation>Naar vorige groep schakelen</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation>De huidige afbeeldingsgroep leegmaken</translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>Doorklikken-met-de-muis aan/uitschakelen</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation>Algemene sneltoetsen aan/uitschakelen</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation>Actie-hoeken aan/uitschakelen</translation>
+    </message>
+    <message>
+        <source>Clear snip history</source>
+        <translation>Knipgeschiedenis wissen</translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
+        <translation>Scan QR-code / streepjescode</translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>Deze sneltoets schakelt Doorklikken-met-de-muis van de afbeelding onder de cursor aan/uit.
+Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare afbeeldingen klikbaar gemaakt.</translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation>Systeemvak-menu weergeven</translation>
+    </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>Aangepast Knippen</translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation>Actieve venster Knippen</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>Knippen en vastmaken</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation>Volledig scherm Knippen en kopiëren</translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation>Vorig opnamegebied opnieuw Knippen en kopiëren</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation>Whiteboard-modus</translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation>Notepad openen</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Whiteboard-modus starten (Dubbelklik Esc om te stoppen)</translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation>Kleur pikken</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>Plakken als afbeelding</translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation>Plakken als tekst</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation>Knippen met schaduw</translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation>Knippen, kopiëren en vastmaken</translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Transparante whiteboard-modus starten (dubbeltik op Esc om te stoppen)</translation>
+    </message>
+</context>
+<context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
@@ -196,33 +352,6 @@ Informeer alsjeblieft de maker.</translation>
     <message>
         <source>PRO Features</source>
         <translation>PRO-functies</translation>
-    </message>
-</context>
-<context>
-    <name>HotkeyCmdDialog</name>
-    <message>
-        <source>Remove command</source>
-        <translation>Opdracht verwijderen</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove this command?</source>
-        <translation>Weet je zeker dat je deze opdracht wilt verwijderen?</translation>
-    </message>
-    <message>
-        <source>The name cannot be empty!</source>
-        <translation>Voer een naam in!</translation>
-    </message>
-    <message>
-        <source>The command cannot be empty!</source>
-        <translation>Geef een opdracht op!</translation>
-    </message>
-    <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>Voer app-namen/paden in, gescheiden door komma&apos;s (bijv. snipaste.app, games/*)</translation>
-    </message>
-    <message>
-        <source>More examples...</source>
-        <translation>Meer voorbeelden…</translation>
     </message>
 </context>
 <context>
@@ -597,6 +726,21 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
         <translation>Productaanschaf niet voltooid t.g.v. een onbekende fout.</translation>
+    </message>
+</context>
+<context>
+    <name>LocalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Opdracht bewerken</translation>
+    </message>
+    <message>
+        <source>Send to printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy and pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1721,131 +1865,6 @@ Klik erop om deze melding permanent af te wijzen.
     </message>
 </context>
 <context>
-    <name>ShortcutContainer</name>
-    <message>
-        <source>Edit command</source>
-        <translation>Opdracht bewerken</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Knippen</translation>
-    </message>
-    <message>
-        <source>Snip and copy</source>
-        <translation>Knippen en kopiëren</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>Knippen met vertraging</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Plakken</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images</source>
-        <translation>Alle afbeeldingen verbergen/weergeven</translation>
-    </message>
-    <message>
-        <source>Switch to another image group</source>
-        <translation>Naar andere afbeeldingengroep schakelen</translation>
-    </message>
-    <message>
-        <source>Switch to the previous image group</source>
-        <translation>Naar vorige groep schakelen</translation>
-    </message>
-    <message>
-        <source>Empty the current image group</source>
-        <translation>De huidige afbeeldingsgroep leegmaken</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>Doorklikken-met-de-muis aan/uitschakelen</translation>
-    </message>
-    <message>
-        <source>Disable/Enable global hotkeys</source>
-        <translation>Algemene sneltoetsen aan/uitschakelen</translation>
-    </message>
-    <message>
-        <source>Disable/Enable hot corners</source>
-        <translation>Actie-hoeken aan/uitschakelen</translation>
-    </message>
-    <message>
-        <source>Clear snip history</source>
-        <translation>Knipgeschiedenis wissen</translation>
-    </message>
-    <message>
-        <source>Scan QR code / barcode</source>
-        <translation>Scan QR-code / streepjescode</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Deze sneltoets schakelt Doorklikken-met-de-muis van de afbeelding onder de cursor aan/uit.
-Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare afbeeldingen klikbaar gemaakt.</translation>
-    </message>
-    <message>
-        <source>Show tray menu</source>
-        <translation>Systeemvak-menu weergeven</translation>
-    </message>
-    <message>
-        <source>Custom snip</source>
-        <translation>Aangepast Knippen</translation>
-    </message>
-    <message>
-        <source>Snip the active window</source>
-        <translation>Actieve venster Knippen</translation>
-    </message>
-    <message>
-        <source>Snip and pin</source>
-        <translation>Knippen en vastmaken</translation>
-    </message>
-    <message>
-        <source>Snip and copy the full screen</source>
-        <translation>Volledig scherm Knippen en kopiëren</translation>
-    </message>
-    <message>
-        <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Vorig opnamegebied opnieuw Knippen en kopiëren</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode</source>
-        <translation>Whiteboard-modus</translation>
-    </message>
-    <message>
-        <source>Open Notepad</source>
-        <translation>Notepad openen</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Whiteboard-modus starten (Dubbelklik Esc om te stoppen)</translation>
-    </message>
-    <message>
-        <source>Pick color</source>
-        <translation>Kleur pikken</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>Plakken als afbeelding</translation>
-    </message>
-    <message>
-        <source>Paste as plain text</source>
-        <translation>Plakken als tekst</translation>
-    </message>
-    <message>
-        <source>Snip with shadow</source>
-        <translation>Knippen met schaduw</translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation>Knippen, kopiëren en vastmaken</translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Transparante whiteboard-modus starten (dubbeltik op Esc om te stoppen)</translation>
-    </message>
-</context>
-<context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
@@ -2092,6 +2111,10 @@ Start Snipaste opnieuw op.</translation>
     <message>
         <source>Disable hotkeys</source>
         <translation>Sneltoetsen uitschakelen</translation>
+    </message>
+    <message>
+        <source>Restore off-screen images (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images</source>
@@ -2363,6 +2386,49 @@ Start Snipaste opnieuw op.</translation>
     </message>
 </context>
 <context>
+    <name>commanddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation>Opdracht toevoegen</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Naam:</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>Voorinstellingen</translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation>Opdracht:</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Test</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Genegeerd:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Voer uitvoerbare bestanden/paden in gescheiden door komma&apos;s (bij. a.exe, games/*)</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Verwijderen</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuleren</translation>
+    </message>
+</context>
+<context>
     <name>customsnipdialog</name>
     <message>
         <source>Preset</source>
@@ -2432,49 +2498,6 @@ Start Snipaste opnieuw op.</translation>
     <message>
         <source>Pages:</source>
         <translation>Pagina&apos;s:</translation>
-    </message>
-</context>
-<context>
-    <name>hotkeycmddialog</name>
-    <message>
-        <source>Add command</source>
-        <translation>Opdracht toevoegen</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation>Naam:</translation>
-    </message>
-    <message>
-        <source>Command:</source>
-        <translation>Opdracht:</translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation>Test</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation>Voorinstellingen</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation>Verwijderen</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Annuleren</translation>
-    </message>
-    <message>
-        <source>Ignored list:</source>
-        <translation>Genegeerd:</translation>
-    </message>
-    <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Voer uitvoerbare bestanden/paden in gescheiden door komma&apos;s (bij. a.exe, games/*)</translation>
     </message>
 </context>
 <context>
@@ -3417,16 +3440,8 @@ Dit zorgt voor een snellere opstart van Knippen.</translation>
         <translation>Super-Knippen</translation>
     </message>
     <message>
-        <source>Color value:</source>
-        <translation>Kleurwaarde:</translation>
-    </message>
-    <message>
         <source>No &apos;#&apos;</source>
         <translation>Geen &apos;#&apos;</translation>
-    </message>
-    <message>
-        <source>Uppercase Hex</source>
-        <translation>Hoofdletters Hex</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -3651,6 +3666,18 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     <message>
         <source>Activation Info</source>
         <translation>Informatie over activering</translation>
+    </message>
+    <message>
+        <source>Color values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show HEX values in uppercase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never show auxiliary lines</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

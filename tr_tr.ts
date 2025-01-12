@@ -26,12 +26,43 @@
 <context>
     <name>ColorPicker</name>
     <message>
+        <source>Press %1 to switch between color values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press %1 to copy color</source>
         <translation>Rengi kopyalamak için %1 tuşuna basın</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
         <translation>RGB / HEX arasında geçiş yapmak için %1 tuşuna basın</translation>
+    </message>
+</context>
+<context>
+    <name>CommandDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation>Komutu kaldır</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>Bu komutu kaldırmak istediğinizden emin misiniz?</translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>Ad boş olamaz!</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>Komut boş olamaz!</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation>Daha fazla örnek...</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation>Virgülle ayrılmış paket adlarını/yollarını girin(örn. snipaste.app, oyunlar/*)</translation>
     </message>
 </context>
 <context>
@@ -145,6 +176,131 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     </message>
 </context>
 <context>
+    <name>GlobalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Komutu düzenle</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Kırp</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Kırp ve kopyala</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>Kırp ve sabitle</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Gecikmeli kırpma</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Yapıştır</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Tüm resimleri gizle/göster</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Başka bir resim grubuna geçin</translation>
+    </message>
+    <message>
+        <source>Switch to the previous image group</source>
+        <translation>Önceki gruba geç</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>Fare tıklamasıyla geçiş</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation>Genel kısayol tuşlarını devredışı bırak / etkinleştir</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation>Tepsi menüsünü göster</translation>
+    </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>Özel Kırpma</translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation>Etkin pencereyi Kırp</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation>Tam ekran kırp ve kopyala</translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation>Son kırpma alanını kırp ve kopyala</translation>
+    </message>
+    <message>
+        <source>Clear snip history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation>Beyaz tahta moduna geç</translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation>Not Defterini aç</translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>İmleç altındaki görüntünün tıklama modunu değiştirme kısayolu.
+İmleç altında herhangi bir görüntü penceresi yoksa, tıklanamayan tüm görüntüler tıklanabilir hale getirilir.</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Beyaz tahta moduna girin (Çıkmak için Esc&apos;ye çift dokunun)</translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation>Renk seç</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>Görüntü olarak yapıştır</translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation>Düz metin olarak yapıştır</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation>Gölgeli kırp</translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation>Kırp, kopyala ve sabitle</translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Şeffaf beyaz tahta moduna girin (Çıkmak için Esc&apos;ye iki kez dokunun)</translation>
+    </message>
+</context>
+<context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
@@ -196,33 +352,6 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
     <message>
         <source>PRO Features</source>
         <translation>PRO Özellikleri</translation>
-    </message>
-</context>
-<context>
-    <name>HotkeyCmdDialog</name>
-    <message>
-        <source>Remove command</source>
-        <translation>Komutu kaldır</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove this command?</source>
-        <translation>Bu komutu kaldırmak istediğinizden emin misiniz?</translation>
-    </message>
-    <message>
-        <source>The name cannot be empty!</source>
-        <translation>Ad boş olamaz!</translation>
-    </message>
-    <message>
-        <source>The command cannot be empty!</source>
-        <translation>Komut boş olamaz!</translation>
-    </message>
-    <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>Virgülle ayrılmış paket adlarını/yollarını girin(örn. snipaste.app, oyunlar/*)</translation>
-    </message>
-    <message>
-        <source>More examples...</source>
-        <translation>Daha fazla örnek...</translation>
     </message>
 </context>
 <context>
@@ -597,6 +726,21 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
     <message>
         <source>Product was not purchased due to an unknown error.</source>
         <translation>Ürün bilinmeyen bir hata nedeniyle satın alınmadı.</translation>
+    </message>
+</context>
+<context>
+    <name>LocalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Komutu düzenle</translation>
+    </message>
+    <message>
+        <source>Send to printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy and pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1720,131 +1864,6 @@ Bu bildirimi kalıcı olarak kapatmak için bunlardan herhangi birini tıklayın
     </message>
 </context>
 <context>
-    <name>ShortcutContainer</name>
-    <message>
-        <source>Edit command</source>
-        <translation>Komutu düzenle</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Kırp</translation>
-    </message>
-    <message>
-        <source>Snip and copy</source>
-        <translation>Kırp ve kopyala</translation>
-    </message>
-    <message>
-        <source>Snip and pin</source>
-        <translation>Kırp ve sabitle</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>Gecikmeli kırpma</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Yapıştır</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images</source>
-        <translation>Tüm resimleri gizle/göster</translation>
-    </message>
-    <message>
-        <source>Switch to another image group</source>
-        <translation>Başka bir resim grubuna geçin</translation>
-    </message>
-    <message>
-        <source>Switch to the previous image group</source>
-        <translation>Önceki gruba geç</translation>
-    </message>
-    <message>
-        <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>Fare tıklamasıyla geçiş</translation>
-    </message>
-    <message>
-        <source>Disable/Enable global hotkeys</source>
-        <translation>Genel kısayol tuşlarını devredışı bırak / etkinleştir</translation>
-    </message>
-    <message>
-        <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show tray menu</source>
-        <translation>Tepsi menüsünü göster</translation>
-    </message>
-    <message>
-        <source>Custom snip</source>
-        <translation>Özel Kırpma</translation>
-    </message>
-    <message>
-        <source>Snip the active window</source>
-        <translation>Etkin pencereyi Kırp</translation>
-    </message>
-    <message>
-        <source>Snip and copy the full screen</source>
-        <translation>Tam ekran kırp ve kopyala</translation>
-    </message>
-    <message>
-        <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Son kırpma alanını kırp ve kopyala</translation>
-    </message>
-    <message>
-        <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scan QR code / barcode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode</source>
-        <translation>Beyaz tahta moduna geç</translation>
-    </message>
-    <message>
-        <source>Open Notepad</source>
-        <translation>Not Defterini aç</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>İmleç altındaki görüntünün tıklama modunu değiştirme kısayolu.
-İmleç altında herhangi bir görüntü penceresi yoksa, tıklanamayan tüm görüntüler tıklanabilir hale getirilir.</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Beyaz tahta moduna girin (Çıkmak için Esc&apos;ye çift dokunun)</translation>
-    </message>
-    <message>
-        <source>Pick color</source>
-        <translation>Renk seç</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>Görüntü olarak yapıştır</translation>
-    </message>
-    <message>
-        <source>Paste as plain text</source>
-        <translation>Düz metin olarak yapıştır</translation>
-    </message>
-    <message>
-        <source>Snip with shadow</source>
-        <translation>Gölgeli kırp</translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation>Kırp, kopyala ve sabitle</translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Şeffaf beyaz tahta moduna girin (Çıkmak için Esc&apos;ye iki kez dokunun)</translation>
-    </message>
-</context>
-<context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
@@ -2089,6 +2108,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable hotkeys</source>
         <translation>Kısayol devredışı</translation>
+    </message>
+    <message>
+        <source>Restore off-screen images (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images</source>
@@ -2359,6 +2382,49 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>commanddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation>Komut ekle</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Adı:</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>Şablon</translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation>Komut:</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Test</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Yok sayılanlar listesi:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Virgülle ayrılmış çalıştırılabilir adlar/yollar girin (örn. a.exe, oyunlar/*)</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Kaldır</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>Tamam</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>İptal</translation>
+    </message>
+</context>
+<context>
     <name>customsnipdialog</name>
     <message>
         <source>Custom snip</source>
@@ -2428,49 +2494,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Pages:</source>
         <translation>Sayfalar:</translation>
-    </message>
-</context>
-<context>
-    <name>hotkeycmddialog</name>
-    <message>
-        <source>Add command</source>
-        <translation>Komut ekle</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation>Adı:</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation>Şablon</translation>
-    </message>
-    <message>
-        <source>Command:</source>
-        <translation>Komut:</translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation>Test</translation>
-    </message>
-    <message>
-        <source>Ignored list:</source>
-        <translation>Yok sayılanlar listesi:</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation>Kaldır</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>Tamam</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>İptal</translation>
-    </message>
-    <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Virgülle ayrılmış çalıştırılabilir adlar/yollar girin (örn. a.exe, oyunlar/*)</translation>
     </message>
 </context>
 <context>
@@ -2673,16 +2696,8 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Süper Kırpma</translation>
     </message>
     <message>
-        <source>Color value:</source>
-        <translation>Renk değeri:</translation>
-    </message>
-    <message>
         <source>No &apos;#&apos;</source>
         <translation>&apos;#&apos; Yok</translation>
-    </message>
-    <message>
-        <source>Uppercase Hex</source>
-        <translation>Büyük harf Hex</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -3644,6 +3659,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Activation Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show HEX values in uppercase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never show auxiliary lines</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

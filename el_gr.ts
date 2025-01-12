@@ -26,12 +26,43 @@
 <context>
     <name>ColorPicker</name>
     <message>
+        <source>Press %1 to switch between color values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press %1 to copy color</source>
         <translation>Πατήστε %1 για αιντιγραφή χρώματος</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
         <translation>Πατήστε %1 για εναλλαγή μεταξύ RGB/HEX</translation>
+    </message>
+</context>
+<context>
+    <name>CommandDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation>Κατάργηση εντολής</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>Είστε βέβαιος ότι θέλετε να καταργήσετε αυτή την εντολή;</translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>Το όνομα δεν μπορεί να είναι κενό!</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>Η εντολή δεν μπορεί να είναι κενή!</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation>Εισαγάγετε ονόματα / διαδρομές πακέτων χωρισμένα με κόμμα (π.χ. snipaste.app,  games/*)</translation>
     </message>
 </context>
 <context>
@@ -145,6 +176,132 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
+    <name>GlobalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Επεξεργασία εντολής</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Στιγμιότυπο</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Στιγμιότυπο και αντιγραφή</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Στιγμιότυπο με καθυστέρηση</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Επικόλληση</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Απόκρυψη/Εμφάνιση όλων των εικόνων</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Μετάβαση σε άλλη ομάδα εικόνων</translation>
+    </message>
+    <message>
+        <source>Switch to the previous image group</source>
+        <translation>Μετάβαση στην προηγούμενη ομάδα</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>Εναλλαγή κλικ ποντικιού</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation>Απ-Ενεργοποίηση καθολικών πλήκτρων πρόσβασης</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear snip history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>Η συντόμευση για εναλλαγή της λειτουργίας κλικ ποντικιού της εικόνας κάτω από το δρομέα.
+Αν δεν υπάρχει παράθυρο εικόνας κάτω από τον δείκτη, όλες οι χωρίς δυνατότητα
+κλικ εικόνες, θα γίνουν με δυνατότητα κλικ.</translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation>Εμφάνιση μενού περιοχής ειδοποιήσεων</translation>
+    </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>Προσαρμοσμένο στιγμιότυπο</translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation>Στιγμιότυπο ενεργού παραθύρου</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>Στιγμιότυπο και καρφίτσωμα</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation>Στιγμιότυπο και αντιγραφή πλήρους οθόνης</translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation>Στιγμιότυπο και αντιγραφή ίδιας περιοχής της τελευταίας λήψης</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation>Μετάβαση σε λειτουργία πίνακα</translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation>Άνοιγμα του Notepad</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Μετάβαση σε λειτουργία πίνακα (Διπλό ταπ στο ESC για έξοδο)</translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation>Επιλογή χρώματος</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>Επικόλληση σαν εικόνα</translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation>Επικόλληση σαν απλό κείμενο</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
@@ -196,33 +353,6 @@ Please contact the developer.</source>
     <message>
         <source>PRO Features</source>
         <translation>Χαρακτηριστικά PRO</translation>
-    </message>
-</context>
-<context>
-    <name>HotkeyCmdDialog</name>
-    <message>
-        <source>Remove command</source>
-        <translation>Κατάργηση εντολής</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove this command?</source>
-        <translation>Είστε βέβαιος ότι θέλετε να καταργήσετε αυτή την εντολή;</translation>
-    </message>
-    <message>
-        <source>The name cannot be empty!</source>
-        <translation>Το όνομα δεν μπορεί να είναι κενό!</translation>
-    </message>
-    <message>
-        <source>The command cannot be empty!</source>
-        <translation>Η εντολή δεν μπορεί να είναι κενή!</translation>
-    </message>
-    <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>Εισαγάγετε ονόματα / διαδρομές πακέτων χωρισμένα με κόμμα (π.χ. snipaste.app,  games/*)</translation>
-    </message>
-    <message>
-        <source>More examples...</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -597,6 +727,21 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
         <translation>Το προϊόν δεν αγοράστηκε εξαιτίας ενός άγνωστου σφάλματος.</translation>
+    </message>
+</context>
+<context>
+    <name>LocalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Επεξεργασία εντολής</translation>
+    </message>
+    <message>
+        <source>Send to printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy and pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1720,132 +1865,6 @@ Click any of them to dismiss this notification permanently.
     </message>
 </context>
 <context>
-    <name>ShortcutContainer</name>
-    <message>
-        <source>Edit command</source>
-        <translation>Επεξεργασία εντολής</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Στιγμιότυπο</translation>
-    </message>
-    <message>
-        <source>Snip and copy</source>
-        <translation>Στιγμιότυπο και αντιγραφή</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>Στιγμιότυπο με καθυστέρηση</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Επικόλληση</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images</source>
-        <translation>Απόκρυψη/Εμφάνιση όλων των εικόνων</translation>
-    </message>
-    <message>
-        <source>Switch to another image group</source>
-        <translation>Μετάβαση σε άλλη ομάδα εικόνων</translation>
-    </message>
-    <message>
-        <source>Switch to the previous image group</source>
-        <translation>Μετάβαση στην προηγούμενη ομάδα</translation>
-    </message>
-    <message>
-        <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>Εναλλαγή κλικ ποντικιού</translation>
-    </message>
-    <message>
-        <source>Disable/Enable global hotkeys</source>
-        <translation>Απ-Ενεργοποίηση καθολικών πλήκτρων πρόσβασης</translation>
-    </message>
-    <message>
-        <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scan QR code / barcode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Η συντόμευση για εναλλαγή της λειτουργίας κλικ ποντικιού της εικόνας κάτω από το δρομέα.
-Αν δεν υπάρχει παράθυρο εικόνας κάτω από τον δείκτη, όλες οι χωρίς δυνατότητα
-κλικ εικόνες, θα γίνουν με δυνατότητα κλικ.</translation>
-    </message>
-    <message>
-        <source>Show tray menu</source>
-        <translation>Εμφάνιση μενού περιοχής ειδοποιήσεων</translation>
-    </message>
-    <message>
-        <source>Custom snip</source>
-        <translation>Προσαρμοσμένο στιγμιότυπο</translation>
-    </message>
-    <message>
-        <source>Snip the active window</source>
-        <translation>Στιγμιότυπο ενεργού παραθύρου</translation>
-    </message>
-    <message>
-        <source>Snip and pin</source>
-        <translation>Στιγμιότυπο και καρφίτσωμα</translation>
-    </message>
-    <message>
-        <source>Snip and copy the full screen</source>
-        <translation>Στιγμιότυπο και αντιγραφή πλήρους οθόνης</translation>
-    </message>
-    <message>
-        <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Στιγμιότυπο και αντιγραφή ίδιας περιοχής της τελευταίας λήψης</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode</source>
-        <translation>Μετάβαση σε λειτουργία πίνακα</translation>
-    </message>
-    <message>
-        <source>Open Notepad</source>
-        <translation>Άνοιγμα του Notepad</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Μετάβαση σε λειτουργία πίνακα (Διπλό ταπ στο ESC για έξοδο)</translation>
-    </message>
-    <message>
-        <source>Pick color</source>
-        <translation>Επιλογή χρώματος</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>Επικόλληση σαν εικόνα</translation>
-    </message>
-    <message>
-        <source>Paste as plain text</source>
-        <translation>Επικόλληση σαν απλό κείμενο</translation>
-    </message>
-    <message>
-        <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
@@ -2090,6 +2109,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable hotkeys</source>
         <translation>Απενεργοποίηση πλήκτρων προσβασης</translation>
+    </message>
+    <message>
+        <source>Restore off-screen images (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images</source>
@@ -2360,6 +2383,49 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>commanddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation>Προσθήκη εντολής</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Όνομα:</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>Προεπιλογές</translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation>Εντολή:</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Δοκιμή</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Λίστα παράβλεψης:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Εισάγετε τα ονόματα/διαδρομές εκτελέσιμων αρχείων χωρισμένα με κόμματα (π.χ. a.exe, games/*)</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Κατάργηση</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>Εντάξει</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Άκυρο</translation>
+    </message>
+</context>
+<context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
@@ -2429,49 +2495,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Pages:</source>
         <translation>Σελίδες:</translation>
-    </message>
-</context>
-<context>
-    <name>hotkeycmddialog</name>
-    <message>
-        <source>Add command</source>
-        <translation>Προσθήκη εντολής</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation>Όνομα:</translation>
-    </message>
-    <message>
-        <source>Command:</source>
-        <translation>Εντολή:</translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation>Δοκιμή</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation>Προεπιλογές</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation>Κατάργηση</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>Εντάξει</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Άκυρο</translation>
-    </message>
-    <message>
-        <source>Ignored list:</source>
-        <translation>Λίστα παράβλεψης:</translation>
-    </message>
-    <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Εισάγετε τα ονόματα/διαδρομές εκτελέσιμων αρχείων χωρισμένα με κόμματα (π.χ. a.exe, games/*)</translation>
     </message>
 </context>
 <context>
@@ -3419,16 +3442,8 @@ You will gain better response time on entering snipping.</source>
         <translation>Υπερστιγμιότυπο</translation>
     </message>
     <message>
-        <source>Color value:</source>
-        <translation>Τιμή χρώματος:</translation>
-    </message>
-    <message>
         <source>No &apos;#&apos;</source>
         <translation>Ν° &apos;#&apos;</translation>
-    </message>
-    <message>
-        <source>Uppercase Hex</source>
-        <translation>Δεκαεξαδικά κεφαλαία</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -3650,6 +3665,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Activation Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show HEX values in uppercase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never show auxiliary lines</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

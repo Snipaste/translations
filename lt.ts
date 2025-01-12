@@ -26,12 +26,43 @@
 <context>
     <name>ColorPicker</name>
     <message>
+        <source>Press %1 to switch between color values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press %1 to copy color</source>
         <translation>Spauskite %1, kad kopijuotumėte spalvą</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
         <translation>Spauskite %1, kad pasikeistumėte tarp „RŽM(RGB)/HEX“</translation>
+    </message>
+</context>
+<context>
+    <name>CommandDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation>Pašalinti komanda</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>Ar Jūs esate tikras/-a, kad norite pašalinti šią komandą?</translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>Vardas negali būti tuščias!</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>Komanda negali būti tuščia!</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation>Daugiau pavyzdžių...</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation>Įveskite rinkinio pavadinimą/kelią atskirtą su kableliais (pvz: „snipaste.app, žaidimai/*“)</translation>
     </message>
 </context>
 <context>
@@ -145,6 +176,131 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
 </context>
 <context>
+    <name>GlobalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Redagavimo komanda</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Užfiksuoti</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Užfiksuoti ir kopijuoti</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Atidėtas užfiksavimas</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Įklijuoti</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Slėpti/Rodyti visus/-as nuotraukas/vaizdus/iškarpas/paveikslėlius</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Pasikeisti į kitą/-ų nuotraukų/vaizdų/iškarpų/paveikslėlių grupę</translation>
+    </message>
+    <message>
+        <source>Switch to the previous image group</source>
+        <translation>Pasikeisti į praeitą/-ų nuotraukų/vaizdų/iškarpų/paveikslėlių grupę</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation>Ištuštinti dabartinį nuotraukų/vaizdų/iškarpų/paveikslėlių grupę</translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>Perjungti pelės paspaudimą</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation>Išjungti / Įjungti visuotinius sparčiuosius klavišus</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation>Išjungti / Įjungti karštuosius kampus</translation>
+    </message>
+    <message>
+        <source>Clear snip history</source>
+        <translation>Išvalyti fiksavimų istoriją</translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
+        <translation>Skenuoti „QR kodą“ / „Barkodą“</translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>Spartusis klavišas, skirtas perjungti po žymekliu esančio paveikslėlio paspaudimo režimą. 
+Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango, visi nespaudžiami paveikslėliai taps spaudžiamais.</translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation>Rodyti dėklo meniu</translation>
+    </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>Pasirinktinis užfiksavimas</translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation>Užfiksuoti aktyvų langą</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>Užfiksuoti ir prisegti</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation>Užfiksuoti ir kopijuoti pilną ekraną</translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation>Užfiksuoti ir kopijuoti tą patį plotą, praeitos iškarpos</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation>Eitį į baltos lentos režimą</translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation>Atidaryti užrašinę</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Eitį į baltos lentos režimą (du kart spustelėkite „Esc“, kad išjungtumėte)</translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation>Pasirinkti spalvą</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>Įklijuoti kaip paveiksla</translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation>Įklijuoti kaip paprastą tekstą</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation>Užfiksuoti su šešėliu</translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation>Užfiksuoti, kopijuoti ir prisegti</translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Eitį į skaidrios baltos lentos režimą (du kart spustelėkite „Esc“, kad išjungtumėte)</translation>
+    </message>
+</context>
+<context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
@@ -196,33 +352,6 @@ Prašome susisiekti su kūrėju.</translation>
     <message>
         <source>PRO Features</source>
         <translation>„PRO“ funkcijos</translation>
-    </message>
-</context>
-<context>
-    <name>HotkeyCmdDialog</name>
-    <message>
-        <source>Remove command</source>
-        <translation>Pašalinti komanda</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove this command?</source>
-        <translation>Ar Jūs esate tikras/-a, kad norite pašalinti šią komandą?</translation>
-    </message>
-    <message>
-        <source>The name cannot be empty!</source>
-        <translation>Vardas negali būti tuščias!</translation>
-    </message>
-    <message>
-        <source>The command cannot be empty!</source>
-        <translation>Komanda negali būti tuščia!</translation>
-    </message>
-    <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>Įveskite rinkinio pavadinimą/kelią atskirtą su kableliais (pvz: „snipaste.app, žaidimai/*“)</translation>
-    </message>
-    <message>
-        <source>More examples...</source>
-        <translation>Daugiau pavyzdžių...</translation>
     </message>
 </context>
 <context>
@@ -597,6 +726,21 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
         <translation>Produktas nebuvo nupirktas dėl nežinomos klaidos.</translation>
+    </message>
+</context>
+<context>
+    <name>LocalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Redagavimo komanda</translation>
+    </message>
+    <message>
+        <source>Send to printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy and pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1721,131 +1865,6 @@ Spustelėkite bet kurį iš jų, kad visam laikui atšauktumėte šį pranešim�
     </message>
 </context>
 <context>
-    <name>ShortcutContainer</name>
-    <message>
-        <source>Edit command</source>
-        <translation>Redagavimo komanda</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Užfiksuoti</translation>
-    </message>
-    <message>
-        <source>Snip and copy</source>
-        <translation>Užfiksuoti ir kopijuoti</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>Atidėtas užfiksavimas</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Įklijuoti</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images</source>
-        <translation>Slėpti/Rodyti visus/-as nuotraukas/vaizdus/iškarpas/paveikslėlius</translation>
-    </message>
-    <message>
-        <source>Switch to another image group</source>
-        <translation>Pasikeisti į kitą/-ų nuotraukų/vaizdų/iškarpų/paveikslėlių grupę</translation>
-    </message>
-    <message>
-        <source>Switch to the previous image group</source>
-        <translation>Pasikeisti į praeitą/-ų nuotraukų/vaizdų/iškarpų/paveikslėlių grupę</translation>
-    </message>
-    <message>
-        <source>Empty the current image group</source>
-        <translation>Ištuštinti dabartinį nuotraukų/vaizdų/iškarpų/paveikslėlių grupę</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>Perjungti pelės paspaudimą</translation>
-    </message>
-    <message>
-        <source>Disable/Enable global hotkeys</source>
-        <translation>Išjungti / Įjungti visuotinius sparčiuosius klavišus</translation>
-    </message>
-    <message>
-        <source>Disable/Enable hot corners</source>
-        <translation>Išjungti / Įjungti karštuosius kampus</translation>
-    </message>
-    <message>
-        <source>Clear snip history</source>
-        <translation>Išvalyti fiksavimų istoriją</translation>
-    </message>
-    <message>
-        <source>Scan QR code / barcode</source>
-        <translation>Skenuoti „QR kodą“ / „Barkodą“</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Spartusis klavišas, skirtas perjungti po žymekliu esančio paveikslėlio paspaudimo režimą. 
-Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango, visi nespaudžiami paveikslėliai taps spaudžiamais.</translation>
-    </message>
-    <message>
-        <source>Show tray menu</source>
-        <translation>Rodyti dėklo meniu</translation>
-    </message>
-    <message>
-        <source>Custom snip</source>
-        <translation>Pasirinktinis užfiksavimas</translation>
-    </message>
-    <message>
-        <source>Snip the active window</source>
-        <translation>Užfiksuoti aktyvų langą</translation>
-    </message>
-    <message>
-        <source>Snip and pin</source>
-        <translation>Užfiksuoti ir prisegti</translation>
-    </message>
-    <message>
-        <source>Snip and copy the full screen</source>
-        <translation>Užfiksuoti ir kopijuoti pilną ekraną</translation>
-    </message>
-    <message>
-        <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Užfiksuoti ir kopijuoti tą patį plotą, praeitos iškarpos</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode</source>
-        <translation>Eitį į baltos lentos režimą</translation>
-    </message>
-    <message>
-        <source>Open Notepad</source>
-        <translation>Atidaryti užrašinę</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Eitį į baltos lentos režimą (du kart spustelėkite „Esc“, kad išjungtumėte)</translation>
-    </message>
-    <message>
-        <source>Pick color</source>
-        <translation>Pasirinkti spalvą</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>Įklijuoti kaip paveiksla</translation>
-    </message>
-    <message>
-        <source>Paste as plain text</source>
-        <translation>Įklijuoti kaip paprastą tekstą</translation>
-    </message>
-    <message>
-        <source>Snip with shadow</source>
-        <translation>Užfiksuoti su šešėliu</translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation>Užfiksuoti, kopijuoti ir prisegti</translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Eitį į skaidrios baltos lentos režimą (du kart spustelėkite „Esc“, kad išjungtumėte)</translation>
-    </message>
-</context>
-<context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
@@ -2091,6 +2110,10 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     <message>
         <source>Disable hotkeys</source>
         <translation>Išjungti sparčiuosius klavišus</translation>
+    </message>
+    <message>
+        <source>Restore off-screen images (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images</source>
@@ -2362,6 +2385,49 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
 </context>
 <context>
+    <name>commanddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation>Pridėti komandą</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Vardas:</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>Išankstinės parinktys</translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation>Komanda:</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Testas</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Ignoruotų sąrašas:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Įveskite kableliais atskirtus vykdomųjų programų pavadinimus ir kelius (pvz., a.exe, žaidimai/*)</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Pašalinti</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>Gerai</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Atšaukti</translation>
+    </message>
+</context>
+<context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
@@ -2431,49 +2497,6 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     <message>
         <source>Pages:</source>
         <translation>Puslapiai:</translation>
-    </message>
-</context>
-<context>
-    <name>hotkeycmddialog</name>
-    <message>
-        <source>Add command</source>
-        <translation>Pridėti komandą</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation>Vardas:</translation>
-    </message>
-    <message>
-        <source>Command:</source>
-        <translation>Komanda:</translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation>Testas</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation>Išankstinė parinktis</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation>Pašalinti</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>Gerai</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Atšaukti</translation>
-    </message>
-    <message>
-        <source>Ignored list:</source>
-        <translation>Ignoruotų sąrašas:</translation>
-    </message>
-    <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Įveskite kableliais atskirtus vykdomųjų programų pavadinimus ir kelius (pvz., a.exe, žaidimai/*)</translation>
     </message>
 </context>
 <context>
@@ -3416,16 +3439,8 @@ Užfiksuodami pasieksite geresnį atsako laiką.</translation>
         <translation>„Super“ užfiksavimas</translation>
     </message>
     <message>
-        <source>Color value:</source>
-        <translation>Spalvos reikšmė:</translation>
-    </message>
-    <message>
         <source>No &apos;#&apos;</source>
         <translation>Nr. „#“</translation>
-    </message>
-    <message>
-        <source>Uppercase Hex</source>
-        <translation>Šešiaženklis „Hex“</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -3650,6 +3665,18 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     <message>
         <source>Activation Info</source>
         <translation>Aktyvacijos informacija</translation>
+    </message>
+    <message>
+        <source>Color values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show HEX values in uppercase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never show auxiliary lines</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -30,8 +30,39 @@
         <translation>%1を押してRGB/HEX（16進数）表記を切り替える</translation>
     </message>
     <message>
+        <source>Press %1 to switch between color values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press %1 to copy color</source>
         <translation>%1を押して色をコピーできる</translation>
+    </message>
+</context>
+<context>
+    <name>CommandDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation>コマンドを削除</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>このコマンドを削除してもよろしいですか？</translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>名前を正しく入力してください！</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>名前を正しく入力してください！</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation>他の例...</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation>コンマ区切りのバンドル名/パスを入力してください（例：snipaste.app、games / *）</translation>
     </message>
 </context>
 <context>
@@ -145,6 +176,131 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
+    <name>GlobalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>コマンドを編集する</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>切り取り</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>切り取ってコピー</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>遅延切り取り</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>貼り付け</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>すべての画像を非表示/表示</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>他の画像グループに切り替え</translation>
+    </message>
+    <message>
+        <source>Switch to the previous image group</source>
+        <translation>前のグループに切り替え</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation>現行画像グループを削除する</translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>マウスクリック無効化を切り替え</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation>グローバルホットキーを無効/有効にする</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear snip history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>カーソル所在の画像のクリックモードを切り替えるショートカット。
+カーソル所在に画像がなければ、すべてのクリックできない画像をクリック可能に変更する。</translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation>トレイメニューを表示する</translation>
+    </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>カスタム切り取り</translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation>アクティブ中のウィンドウを切り取る</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>切り取ってピン留め</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation>全スクリーンを切り取ってコピーする</translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation>最後のスクリーンショットの同じエリアを切り取ってコピーする</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation>ホワイトボードモードに入る</translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation>ノットパッドを開く</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation>ホワイトボードモードに入る（「Esc」をダブル押して閉じる）</translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation>色を取得する</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>画像として貼り付ける</translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation>テキストとして貼り付ける</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation>シャドウ付けの切り取り</translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation>切り取り、コピーとピン留め</translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation>透明ホワイトボードモードを開く（「Esc」をダブルクリックして閉じる）</translation>
+    </message>
+</context>
+<context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
@@ -196,33 +352,6 @@ Please contact the developer.</source>
     <message>
         <source>PRO Features</source>
         <translation>PRO版の機能</translation>
-    </message>
-</context>
-<context>
-    <name>HotkeyCmdDialog</name>
-    <message>
-        <source>Remove command</source>
-        <translation>コマンドを削除</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove this command?</source>
-        <translation>このコマンドを削除してもよろしいですか？</translation>
-    </message>
-    <message>
-        <source>The name cannot be empty!</source>
-        <translation>名前を正しく入力してください！</translation>
-    </message>
-    <message>
-        <source>The command cannot be empty!</source>
-        <translation>名前を正しく入力してください！</translation>
-    </message>
-    <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>コンマ区切りのバンドル名/パスを入力してください（例：snipaste.app、games / *）</translation>
-    </message>
-    <message>
-        <source>More examples...</source>
-        <translation>他の例...</translation>
     </message>
 </context>
 <context>
@@ -597,6 +726,21 @@ PRO機能を利用するために今すぐSnipasteを再起動しますか？</t
     <message>
         <source>Product was not purchased due to an unknown error.</source>
         <translation>未知エラーによる製品の購入は完了していません。</translation>
+    </message>
+</context>
+<context>
+    <name>LocalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>コマンドを編集する</translation>
+    </message>
+    <message>
+        <source>Send to printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy and pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1721,131 +1865,6 @@ Click any of them to dismiss this notification permanently.
     </message>
 </context>
 <context>
-    <name>ShortcutContainer</name>
-    <message>
-        <source>Edit command</source>
-        <translation>コマンドを編集する</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>切り取り</translation>
-    </message>
-    <message>
-        <source>Snip and copy</source>
-        <translation>切り取ってコピー</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>遅延切り取り</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>貼り付け</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images</source>
-        <translation>すべての画像を非表示/表示</translation>
-    </message>
-    <message>
-        <source>Switch to another image group</source>
-        <translation>他の画像グループに切り替え</translation>
-    </message>
-    <message>
-        <source>Switch to the previous image group</source>
-        <translation>前のグループに切り替え</translation>
-    </message>
-    <message>
-        <source>Empty the current image group</source>
-        <translation>現行画像グループを削除する</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>マウスクリック無効化を切り替え</translation>
-    </message>
-    <message>
-        <source>Disable/Enable global hotkeys</source>
-        <translation>グローバルホットキーを無効/有効にする</translation>
-    </message>
-    <message>
-        <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scan QR code / barcode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>カーソル所在の画像のクリックモードを切り替えるショートカット。
-カーソル所在に画像がなければ、すべてのクリックできない画像をクリック可能に変更する。</translation>
-    </message>
-    <message>
-        <source>Show tray menu</source>
-        <translation>トレイメニューを表示する</translation>
-    </message>
-    <message>
-        <source>Custom snip</source>
-        <translation>カスタム切り取り</translation>
-    </message>
-    <message>
-        <source>Snip the active window</source>
-        <translation>アクティブ中のウィンドウを切り取る</translation>
-    </message>
-    <message>
-        <source>Snip and pin</source>
-        <translation>切り取ってピン留め</translation>
-    </message>
-    <message>
-        <source>Snip and copy the full screen</source>
-        <translation>全スクリーンを切り取ってコピーする</translation>
-    </message>
-    <message>
-        <source>Snip and copy the same area of the last screenshot</source>
-        <translation>最後のスクリーンショットの同じエリアを切り取ってコピーする</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode</source>
-        <translation>ホワイトボードモードに入る</translation>
-    </message>
-    <message>
-        <source>Open Notepad</source>
-        <translation>ノットパッドを開く</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>ホワイトボードモードに入る（「Esc」をダブル押して閉じる）</translation>
-    </message>
-    <message>
-        <source>Pick color</source>
-        <translation>色を取得する</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>画像として貼り付ける</translation>
-    </message>
-    <message>
-        <source>Paste as plain text</source>
-        <translation>テキストとして貼り付ける</translation>
-    </message>
-    <message>
-        <source>Snip with shadow</source>
-        <translation>シャドウ付けの切り取り</translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation>切り取り、コピーとピン留め</translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>透明ホワイトボードモードを開く（「Esc」をダブルクリックして閉じる）</translation>
-    </message>
-</context>
-<context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
@@ -2091,6 +2110,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable hotkeys</source>
         <translation>ホットキーを無効にする</translation>
+    </message>
+    <message>
+        <source>Restore off-screen images (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images</source>
@@ -2364,6 +2387,49 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>commanddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation>コマンドを追加する</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>名前：</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>プリセット</translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation>コマンド：</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>テスト</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>無視リスト：</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>半角コンマ区切りのプログラム名/パスを入力してください（例：a.exe, games/*）</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>削除</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+</context>
+<context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
@@ -2433,49 +2499,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Pages:</source>
         <translation>ページ：</translation>
-    </message>
-</context>
-<context>
-    <name>hotkeycmddialog</name>
-    <message>
-        <source>Add command</source>
-        <translation>コマンドを追加する</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation>名前：</translation>
-    </message>
-    <message>
-        <source>Command:</source>
-        <translation>コマンド：</translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation>テスト</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation>プリセット</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation>削除</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>確認</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>キャンセル</translation>
-    </message>
-    <message>
-        <source>Ignored list:</source>
-        <translation>無視リスト：</translation>
-    </message>
-    <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>コンマ区切りの実行ファイル名/パスを入力してください（例：snipaste.app、games / *）</translation>
     </message>
 </context>
 <context>
@@ -3418,16 +3441,8 @@ You will gain better response time on entering snipping.</source>
         <translation>スーパー切り取り</translation>
     </message>
     <message>
-        <source>Color value:</source>
-        <translation>色の数値：</translation>
-    </message>
-    <message>
         <source>No &apos;#&apos;</source>
         <translation>「#」を非表示する</translation>
-    </message>
-    <message>
-        <source>Uppercase Hex</source>
-        <translation>大文字の16進数(Hex)</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -3651,6 +3666,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Activation Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show HEX values in uppercase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never show auxiliary lines</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

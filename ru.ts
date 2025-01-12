@@ -26,12 +26,43 @@
 <context>
     <name>ColorPicker</name>
     <message>
+        <source>Press %1 to switch between color values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press %1 to copy color</source>
         <translation>Нажмите %1 чтобы скопировать</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
         <translation>Нажмите %1 чтобы сменить RGB/HEX</translation>
+    </message>
+</context>
+<context>
+    <name>CommandDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation>Удалить команду</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>Вы уверены что хотите удалить эту команду?</translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>Имя не может быть пустым!</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>Команда не может быть пустой!</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation>Больше примеров...</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation>Введите название сборки/пути, разделяя запятой (пр. snipaste.app, games/*)</translation>
     </message>
 </context>
 <context>
@@ -145,6 +176,131 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
+    <name>GlobalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Редактировать команду</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>Область</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>Выделить и скопировать</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>Выделение отложенно</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Вставить</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>Скрыть/Показать все изображения</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>Переключиться на другую группу изображений</translation>
+    </message>
+    <message>
+        <source>Switch to the previous image group</source>
+        <translation>Переключиться на предыдущую группу</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation>Текущая группа изображений пустая</translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>Переключить щелчок мышью</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation>Выключить/Включить глобальные горячие клавиши</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation>Включить/Отключить «горячие» углы</translation>
+    </message>
+    <message>
+        <source>Clear snip history</source>
+        <translation>Очистить историю снимков</translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
+        <translation>Сканировать «QR-код»/«штрих-код»</translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>Ярлык для переключения режима просмотра изображения под курсором.
+Если ни одно окно изображения не находится под курсором, все не кликабельные изображения станут кликабельными.</translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation>Показать меню в трее</translation>
+    </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>Пользовательский снимок</translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation>Сделать снимок активного окна</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>Сделать снимок и закрепить</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation>Сделать и скопировать снимок всего экрана</translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation>Сделать снимок и скопируйте ту же область что на последнем скриншоте</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation>Войти в режим доски</translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation>Открыть Блокнот</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Запустить режим доски (двойное нажатие «Esc» для выхода)</translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation>Выберите цвет</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>Вставить как изображение</translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation>Вставить как обычный текст</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation>Сделать снимок с тенями</translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation>Сделать снимок, скопировать и закрепить</translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation>Запустить режим прозрачной доски (двойное нажатие «Esc» для выхода)</translation>
+    </message>
+</context>
+<context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
@@ -196,33 +352,6 @@ Please contact the developer.</source>
     <message>
         <source>PRO Features</source>
         <translation>«PRO» возможности</translation>
-    </message>
-</context>
-<context>
-    <name>HotkeyCmdDialog</name>
-    <message>
-        <source>Remove command</source>
-        <translation>Удалить команду</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove this command?</source>
-        <translation>Вы уверены что хотите удалить эту команду?</translation>
-    </message>
-    <message>
-        <source>The name cannot be empty!</source>
-        <translation>Имя не может быть пустым!</translation>
-    </message>
-    <message>
-        <source>The command cannot be empty!</source>
-        <translation>Команда не может быть пустой!</translation>
-    </message>
-    <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>Введите название сборки/пути, разделяя запятой (пр. snipaste.app, games/*)</translation>
-    </message>
-    <message>
-        <source>More examples...</source>
-        <translation>Больше примеров...</translation>
     </message>
 </context>
 <context>
@@ -597,6 +726,21 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
         <translation>Приложение не было оплачено из-за неизвестной ошибки.</translation>
+    </message>
+</context>
+<context>
+    <name>LocalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>Редактировать команду</translation>
+    </message>
+    <message>
+        <source>Send to printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy and pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1721,131 +1865,6 @@ Click any of them to dismiss this notification permanently.
     </message>
 </context>
 <context>
-    <name>ShortcutContainer</name>
-    <message>
-        <source>Edit command</source>
-        <translation>Редактировать команду</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>Область</translation>
-    </message>
-    <message>
-        <source>Snip and copy</source>
-        <translation>Выделить и скопировать</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>Выделение отложенно</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Вставить</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images</source>
-        <translation>Скрыть/Показать все изображения</translation>
-    </message>
-    <message>
-        <source>Switch to another image group</source>
-        <translation>Переключиться на другую группу изображений</translation>
-    </message>
-    <message>
-        <source>Switch to the previous image group</source>
-        <translation>Переключиться на предыдущую группу</translation>
-    </message>
-    <message>
-        <source>Empty the current image group</source>
-        <translation>Текущая группа изображений пустая</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>Переключить щелчок мышью</translation>
-    </message>
-    <message>
-        <source>Disable/Enable global hotkeys</source>
-        <translation>Выключить/Включить глобальные горячие клавиши</translation>
-    </message>
-    <message>
-        <source>Disable/Enable hot corners</source>
-        <translation>Включить/Отключить «горячие» углы</translation>
-    </message>
-    <message>
-        <source>Clear snip history</source>
-        <translation>Очистить историю снимков</translation>
-    </message>
-    <message>
-        <source>Scan QR code / barcode</source>
-        <translation>Сканировать «QR-код»/«штрих-код»</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Ярлык для переключения режима просмотра изображения под курсором.
-Если ни одно окно изображения не находится под курсором, все не кликабельные изображения станут кликабельными.</translation>
-    </message>
-    <message>
-        <source>Show tray menu</source>
-        <translation>Показать меню в трее</translation>
-    </message>
-    <message>
-        <source>Custom snip</source>
-        <translation>Пользовательский снимок</translation>
-    </message>
-    <message>
-        <source>Snip the active window</source>
-        <translation>Сделать снимок активного окна</translation>
-    </message>
-    <message>
-        <source>Snip and pin</source>
-        <translation>Сделать снимок и закрепить</translation>
-    </message>
-    <message>
-        <source>Snip and copy the full screen</source>
-        <translation>Сделать и скопировать снимок всего экрана</translation>
-    </message>
-    <message>
-        <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Сделать снимок и скопируйте ту же область что на последнем скриншоте</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode</source>
-        <translation>Войти в режим доски</translation>
-    </message>
-    <message>
-        <source>Open Notepad</source>
-        <translation>Открыть Блокнот</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Запустить режим доски (двойное нажатие «Esc» для выхода)</translation>
-    </message>
-    <message>
-        <source>Pick color</source>
-        <translation>Выберите цвет</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>Вставить как изображение</translation>
-    </message>
-    <message>
-        <source>Paste as plain text</source>
-        <translation>Вставить как обычный текст</translation>
-    </message>
-    <message>
-        <source>Snip with shadow</source>
-        <translation>Сделать снимок с тенями</translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation>Сделать снимок, скопировать и закрепить</translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Запустить режим прозрачной доски (двойное нажатие «Esc» для выхода)</translation>
-    </message>
-</context>
-<context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
@@ -2091,6 +2110,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable hotkeys</source>
         <translation>Отключить горячии клавиши</translation>
+    </message>
+    <message>
+        <source>Restore off-screen images (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images</source>
@@ -2361,6 +2384,49 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>commanddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation>Добавить команду</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Название:</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>Пресеты</translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation>Команда:</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Тест</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>Список игнорируемых:</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>Введите имена/пути исполняемых файлов через запятую (например, a.exe, games/*)</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>Хорошо</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+</context>
+<context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
@@ -2430,49 +2496,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Pages:</source>
         <translation>Страницы:</translation>
-    </message>
-</context>
-<context>
-    <name>hotkeycmddialog</name>
-    <message>
-        <source>Add command</source>
-        <translation>Добавить команду</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation>Название:</translation>
-    </message>
-    <message>
-        <source>Command:</source>
-        <translation>Команда:</translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation>Тест</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation>Пресеты</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation>Удалить</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>Хорошо</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Ignored list:</source>
-        <translation>Список игнорируемых:</translation>
-    </message>
-    <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>Введите имена/пути исполняемых файлов через запятую (например, a.exe, games/*)</translation>
     </message>
 </context>
 <context>
@@ -3415,16 +3438,8 @@ You will gain better response time on entering snipping.</source>
         <translation>Супер снимок</translation>
     </message>
     <message>
-        <source>Color value:</source>
-        <translation>Цвет:</translation>
-    </message>
-    <message>
         <source>No &apos;#&apos;</source>
         <translation>Номер &apos;#&apos;</translation>
-    </message>
-    <message>
-        <source>Uppercase Hex</source>
-        <translation>Hex в верхнем регистре</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -3649,6 +3664,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Activation Info</source>
         <translation>Информация активации</translation>
+    </message>
+    <message>
+        <source>Color values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show HEX values in uppercase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never show auxiliary lines</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -26,12 +26,43 @@
 <context>
     <name>ColorPicker</name>
     <message>
+        <source>Press %1 to switch between color values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Press %1 to copy color</source>
         <translation>撳 %1 複製顔色</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
         <translation>撳 %1 于 RGB 同 HEX 之間切換</translation>
+    </message>
+</context>
+<context>
+    <name>CommandDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation>移除命令</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>確定移除呢個命令？</translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>名稱冇可以係空！</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>命令冇可以係空！</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation>更多例子...</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation>輸入以英文逗號分割嘅軟體套件組合名稱/路徑 （譬如 snipaste.app, games/*）</translation>
     </message>
 </context>
 <context>
@@ -145,6 +176,130 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
+    <name>GlobalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to the previous image group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear snip history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom snip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
@@ -196,33 +351,6 @@ Please contact the developer.</source>
     <message>
         <source>PRO Features</source>
         <translation>專業版功能</translation>
-    </message>
-</context>
-<context>
-    <name>HotkeyCmdDialog</name>
-    <message>
-        <source>Remove command</source>
-        <translation>移除命令</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove this command?</source>
-        <translation>確定移除呢個命令？</translation>
-    </message>
-    <message>
-        <source>The name cannot be empty!</source>
-        <translation>名稱冇可以係空！</translation>
-    </message>
-    <message>
-        <source>The command cannot be empty!</source>
-        <translation>命令冇可以係空！</translation>
-    </message>
-    <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>輸入以英文逗號分割嘅軟體套件組合名稱/路徑 （譬如 snipaste.app, games/*）</translation>
-    </message>
-    <message>
-        <source>More examples...</source>
-        <translation>更多例子...</translation>
     </message>
 </context>
 <context>
@@ -595,6 +723,21 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>LocalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send to printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy and pin</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1708,130 +1851,6 @@ Click any of them to dismiss this notification permanently.
     </message>
 </context>
 <context>
-    <name>ShortcutContainer</name>
-    <message>
-        <source>Edit command</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip and copy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide/Show all images</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch to another image group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch to the previous image group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable/Enable global hotkeys</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scan QR code / barcode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show tray menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom snip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pick color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste as plain text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
@@ -2075,6 +2094,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Disable hotkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore off-screen images (%1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2346,6 +2369,49 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>commanddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>算了</translation>
+    </message>
+</context>
+<context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
@@ -2414,49 +2480,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <name>helpdialog</name>
     <message>
         <source>Pages:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>hotkeycmddialog</name>
-    <message>
-        <source>Add command</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Command:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>算了</translation>
-    </message>
-    <message>
-        <source>Ignored list:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3388,15 +3411,7 @@ You will gain better response time on entering snipping.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Color value:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No &apos;#&apos;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uppercase Hex</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3617,6 +3632,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Activation Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show HEX values in uppercase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never show auxiliary lines</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

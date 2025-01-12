@@ -26,12 +26,43 @@
 <context>
     <name>ColorPicker</name>
     <message>
+        <source>Press %1 to switch between color values</source>
+        <translation>按 %1 切換色彩值</translation>
+    </message>
+    <message>
         <source>Press %1 to copy color</source>
         <translation>按 %1 複製色彩值</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
         <translation>按 %1 切換 RGB/HEX</translation>
+    </message>
+</context>
+<context>
+    <name>CommandDialog</name>
+    <message>
+        <source>Remove command</source>
+        <translation>移除命令</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove this command?</source>
+        <translation>確定要移除這個命令嗎？</translation>
+    </message>
+    <message>
+        <source>The name cannot be empty!</source>
+        <translation>名稱不能為空值！</translation>
+    </message>
+    <message>
+        <source>The command cannot be empty!</source>
+        <translation>命令不能為空值！</translation>
+    </message>
+    <message>
+        <source>More examples...</source>
+        <translation>更多範例...</translation>
+    </message>
+    <message>
+        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
+        <translation>輸入以英文逗號分隔的套件組合名稱/路徑（如 a.exe, games/*）</translation>
     </message>
 </context>
 <context>
@@ -145,6 +176,131 @@ Please contact the developer.</source>
     </message>
 </context>
 <context>
+    <name>GlobalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>編輯命令</translation>
+    </message>
+    <message>
+        <source>Snip</source>
+        <translation>擷圖</translation>
+    </message>
+    <message>
+        <source>Snip and copy</source>
+        <translation>擷取螢幕並自動複製</translation>
+    </message>
+    <message>
+        <source>Delayed snip</source>
+        <translation>延時擷取螢幕</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>貼圖</translation>
+    </message>
+    <message>
+        <source>Hide/Show all images</source>
+        <translation>隱藏/顯示所有貼圖</translation>
+    </message>
+    <message>
+        <source>Switch to another image group</source>
+        <translation>切換至另一貼圖組</translation>
+    </message>
+    <message>
+        <source>Switch to the previous image group</source>
+        <translation>切換至上一個分組</translation>
+    </message>
+    <message>
+        <source>Empty the current image group</source>
+        <translation>清空目前貼圖組</translation>
+    </message>
+    <message>
+        <source>Toggle mouse click-through</source>
+        <translation>開/關滑鼠穿透</translation>
+    </message>
+    <message>
+        <source>Disable/Enable global hotkeys</source>
+        <translation>停用/啟用全域快速鍵</translation>
+    </message>
+    <message>
+        <source>Disable/Enable hot corners</source>
+        <translation>停用/啟用熱點</translation>
+    </message>
+    <message>
+        <source>Clear snip history</source>
+        <translation>清空擷圖歷史記錄</translation>
+    </message>
+    <message>
+        <source>Scan QR code / barcode</source>
+        <translation>掃瞄 QR 碼/條碼</translation>
+    </message>
+    <message>
+        <source>The shortcut to toggle the click-through mode of the image under the cursor.
+If no image window is under the cursor, all unclickable images will be made clickable.</source>
+        <translation>該快速鍵用於開啟/關閉游標所在位置的貼圖的滑鼠穿透狀態。
+如果快速鍵按下時沒有貼圖位於游標之下，則會取消所有貼圖的滑鼠穿透狀態。</translation>
+    </message>
+    <message>
+        <source>Show tray menu</source>
+        <translation>顯示系統匣選單</translation>
+    </message>
+    <message>
+        <source>Custom snip</source>
+        <translation>自訂擷圖</translation>
+    </message>
+    <message>
+        <source>Snip the active window</source>
+        <translation>擷取作用中視窗</translation>
+    </message>
+    <message>
+        <source>Snip and pin</source>
+        <translation>擷取螢幕並貼圖</translation>
+    </message>
+    <message>
+        <source>Snip and copy the full screen</source>
+        <translation>全螢幕擷圖並複製</translation>
+    </message>
+    <message>
+        <source>Snip and copy the same area of the last screenshot</source>
+        <translation>重複上一次擷圖區域並複製</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode</source>
+        <translation>進入白板模式</translation>
+    </message>
+    <message>
+        <source>Open Notepad</source>
+        <translation>開啟記事本</translation>
+    </message>
+    <message>
+        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
+        <translation>進入白板模式（按兩下 Esc 可以結束）</translation>
+    </message>
+    <message>
+        <source>Pick color</source>
+        <translation>挑選色彩</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>貼上為圖像</translation>
+    </message>
+    <message>
+        <source>Paste as plain text</source>
+        <translation>貼上為純文字</translation>
+    </message>
+    <message>
+        <source>Snip with shadow</source>
+        <translation>含陰影擷圖</translation>
+    </message>
+    <message>
+        <source>Snip, copy and pin</source>
+        <translation>擷圖、複製並貼圖</translation>
+    </message>
+    <message>
+        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
+        <translation>進入透明白板模式（按兩下 Esc 以離開）</translation>
+    </message>
+</context>
+<context>
     <name>GroupManagerDialog</name>
     <message>
         <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
@@ -196,33 +352,6 @@ Please contact the developer.</source>
     <message>
         <source>PRO Features</source>
         <translation>專業版功能</translation>
-    </message>
-</context>
-<context>
-    <name>HotkeyCmdDialog</name>
-    <message>
-        <source>Remove command</source>
-        <translation>移除命令</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove this command?</source>
-        <translation>確定要移除這個命令嗎？</translation>
-    </message>
-    <message>
-        <source>The name cannot be empty!</source>
-        <translation>名稱不能為空值！</translation>
-    </message>
-    <message>
-        <source>The command cannot be empty!</source>
-        <translation>命令不能為空值！</translation>
-    </message>
-    <message>
-        <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation>輸入以英文逗號分隔的套件組合名稱/路徑（如 a.exe, games/*）</translation>
-    </message>
-    <message>
-        <source>More examples...</source>
-        <translation>更多範例...</translation>
     </message>
 </context>
 <context>
@@ -597,6 +726,21 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Product was not purchased due to an unknown error.</source>
         <translation>由於不詳錯誤，購買失敗。</translation>
+    </message>
+</context>
+<context>
+    <name>LocalShortcutContainer</name>
+    <message>
+        <source>Edit command</source>
+        <translation>編輯命令</translation>
+    </message>
+    <message>
+        <source>Send to printer</source>
+        <translation>傳至印表機</translation>
+    </message>
+    <message>
+        <source>Copy and pin</source>
+        <translation>複製並貼圖</translation>
     </message>
 </context>
 <context>
@@ -1721,131 +1865,6 @@ Click any of them to dismiss this notification permanently.
     </message>
 </context>
 <context>
-    <name>ShortcutContainer</name>
-    <message>
-        <source>Edit command</source>
-        <translation>編輯命令</translation>
-    </message>
-    <message>
-        <source>Snip</source>
-        <translation>擷圖</translation>
-    </message>
-    <message>
-        <source>Snip and copy</source>
-        <translation>擷取螢幕並自動複製</translation>
-    </message>
-    <message>
-        <source>Delayed snip</source>
-        <translation>延時擷取螢幕</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>貼圖</translation>
-    </message>
-    <message>
-        <source>Hide/Show all images</source>
-        <translation>隱藏/顯示所有貼圖</translation>
-    </message>
-    <message>
-        <source>Switch to another image group</source>
-        <translation>切換至另一貼圖組</translation>
-    </message>
-    <message>
-        <source>Switch to the previous image group</source>
-        <translation>切換至上一個分組</translation>
-    </message>
-    <message>
-        <source>Empty the current image group</source>
-        <translation>清空目前貼圖組</translation>
-    </message>
-    <message>
-        <source>Toggle mouse click-through</source>
-        <translation>開/關滑鼠穿透</translation>
-    </message>
-    <message>
-        <source>Disable/Enable global hotkeys</source>
-        <translation>停用/啟用全域快速鍵</translation>
-    </message>
-    <message>
-        <source>Disable/Enable hot corners</source>
-        <translation>停用/啟用熱點</translation>
-    </message>
-    <message>
-        <source>Clear snip history</source>
-        <translation>清空擷圖歷史記錄</translation>
-    </message>
-    <message>
-        <source>Scan QR code / barcode</source>
-        <translation>掃瞄 QR 碼/條碼</translation>
-    </message>
-    <message>
-        <source>The shortcut to toggle the click-through mode of the image under the cursor.
-If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>該快速鍵用於開啟/關閉游標所在位置的貼圖的滑鼠穿透狀態。
-如果快速鍵按下時沒有貼圖位於游標之下，則會取消所有貼圖的滑鼠穿透狀態。</translation>
-    </message>
-    <message>
-        <source>Show tray menu</source>
-        <translation>顯示系統匣選單</translation>
-    </message>
-    <message>
-        <source>Custom snip</source>
-        <translation>自訂擷圖</translation>
-    </message>
-    <message>
-        <source>Snip the active window</source>
-        <translation>擷取作用中視窗</translation>
-    </message>
-    <message>
-        <source>Snip and pin</source>
-        <translation>擷取螢幕並貼圖</translation>
-    </message>
-    <message>
-        <source>Snip and copy the full screen</source>
-        <translation>全螢幕擷圖並複製</translation>
-    </message>
-    <message>
-        <source>Snip and copy the same area of the last screenshot</source>
-        <translation>重複上一次擷圖區域並複製</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode</source>
-        <translation>進入白板模式</translation>
-    </message>
-    <message>
-        <source>Open Notepad</source>
-        <translation>開啟記事本</translation>
-    </message>
-    <message>
-        <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>進入白板模式（按兩下 Esc 可以結束）</translation>
-    </message>
-    <message>
-        <source>Pick color</source>
-        <translation>挑選色彩</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>貼上為圖像</translation>
-    </message>
-    <message>
-        <source>Paste as plain text</source>
-        <translation>貼上為純文字</translation>
-    </message>
-    <message>
-        <source>Snip with shadow</source>
-        <translation>含陰影擷圖</translation>
-    </message>
-    <message>
-        <source>Snip, copy and pin</source>
-        <translation>擷圖、複製並貼圖</translation>
-    </message>
-    <message>
-        <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>進入透明白板模式（按兩下 Esc 以離開）</translation>
-    </message>
-</context>
-<context>
     <name>ShortcutEdit</name>
     <message>
         <source>The shortcut is already in use.</source>
@@ -2091,6 +2110,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Disable hotkeys</source>
         <translation>停用快速鍵</translation>
+    </message>
+    <message>
+        <source>Restore off-screen images (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images</source>
@@ -2362,6 +2385,49 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
 </context>
 <context>
+    <name>commanddialog</name>
+    <message>
+        <source>Add command</source>
+        <translation>新增命令</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>名稱：</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>預設</translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation>命令：</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>測試</translation>
+    </message>
+    <message>
+        <source>Ignored list:</source>
+        <translation>忽略程式清單：</translation>
+    </message>
+    <message>
+        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
+        <translation>輸入以英文逗號分隔的程式檔案名稱/路徑（如 a.exe, games/*）</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>移除</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
     <name>customsnipdialog</name>
     <message>
         <source>Top left:</source>
@@ -2431,49 +2497,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Pages:</source>
         <translation>頁面：</translation>
-    </message>
-</context>
-<context>
-    <name>hotkeycmddialog</name>
-    <message>
-        <source>Add command</source>
-        <translation>新增命令</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation>名稱：</translation>
-    </message>
-    <message>
-        <source>Command:</source>
-        <translation>命令：</translation>
-    </message>
-    <message>
-        <source>Test</source>
-        <translation>測試</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation>預設</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation>移除</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>確定</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <source>Ignored list:</source>
-        <translation>忽略程式清單：</translation>
-    </message>
-    <message>
-        <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
-        <translation>輸入以英文逗號分隔的程式檔案名稱/路徑（如 a.exe, games/*）</translation>
     </message>
 </context>
 <context>
@@ -3416,16 +3439,8 @@ You will gain better response time on entering snipping.</source>
         <translation>超級擷圖</translation>
     </message>
     <message>
-        <source>Color value:</source>
-        <translation>色彩值：</translation>
-    </message>
-    <message>
         <source>No &apos;#&apos;</source>
         <translation>隱藏 &apos;#&apos;</translation>
-    </message>
-    <message>
-        <source>Uppercase Hex</source>
-        <translation>Hex 色彩值大寫</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -3650,6 +3665,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Activation Info</source>
         <translation>啟用訊息</translation>
+    </message>
+    <message>
+        <source>Color values:</source>
+        <translation>色彩值：</translation>
+    </message>
+    <message>
+        <source>Show HEX values in uppercase</source>
+        <translation>HEX 色彩值大寫</translation>
+    </message>
+    <message>
+        <source>Never show auxiliary lines</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
