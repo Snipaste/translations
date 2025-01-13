@@ -27,7 +27,7 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between color values</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op %1 om tussen kleurwaarden te schakelen</translation>
     </message>
     <message>
         <source>Press %1 to copy color</source>
@@ -736,11 +736,11 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
     </message>
     <message>
         <source>Send to printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzenden om af te drukken</translation>
     </message>
     <message>
         <source>Copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëren en vastmaken</translation>
     </message>
 </context>
 <context>
@@ -2114,7 +2114,7 @@ Start Snipaste opnieuw op.</translation>
     </message>
     <message>
         <source>Restore off-screen images (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeeldingen buiten het scherm herstellen (%1)</translation>
     </message>
     <message>
         <source>Images</source>
@@ -2701,7 +2701,7 @@ De alfa-transparantie van de afbeelding gaat hiermee verloren.</translation>
     </message>
     <message>
         <source>Set the max number of history records for snipping, which are stored in history/snip.</source>
-        <translation>Het maximum aantal opnamen dat in history/snip wordt opgeslagen.</translation>
+        <translation>Het maximum aantal opnamen dat in de knipgeschiedenis wordt opgeslagen.</translation>
     </message>
     <message>
         <source>Sound Effect</source>
@@ -3669,15 +3669,15 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     </message>
     <message>
         <source>Color values:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleurwaarden:</translation>
     </message>
     <message>
         <source>Show HEX values in uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>HEX-waarden in hoofdletters tonen</translation>
     </message>
     <message>
         <source>Never show auxiliary lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Hulplijnen niet weergeven</translation>
     </message>
 </context>
 <context>
