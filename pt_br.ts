@@ -27,7 +27,7 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between color values</source>
-        <translation type="unfinished"></translation>
+        <translation>Pressione %1 para alternar entre valores de cor</translation>
     </message>
     <message>
         <source>Press %1 to copy color</source>
@@ -736,11 +736,11 @@ Reiniciar agora para usufruir dos recursos PRO?</translation>
     </message>
     <message>
         <source>Send to printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar para impressora</translation>
     </message>
     <message>
         <source>Copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar e fixar</translation>
     </message>
 </context>
 <context>
@@ -2113,7 +2113,7 @@ Clique em qualquer um deles para dispensar esta notificação permanentemente.
     </message>
     <message>
         <source>Restore off-screen images (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar imagens fora da tela (%1)</translation>
     </message>
     <message>
         <source>Images</source>
@@ -3668,15 +3668,15 @@ Se desmarcado, somente o tipo ativo de anotação pode ser selecionado ao passar
     </message>
     <message>
         <source>Color values:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valores de cor:</translation>
     </message>
     <message>
         <source>Show HEX values in uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar valores HEX em maiúsculas</translation>
     </message>
     <message>
         <source>Never show auxiliary lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Nunca mostrar linhas auxiliares</translation>
     </message>
 </context>
 <context>
