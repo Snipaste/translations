@@ -27,7 +27,7 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between color values</source>
-        <translation type="unfinished"></translation>
+        <translation>Spauskite – „%1“, norint perjunginėti tarp spalvų reikšmes/-ių</translation>
     </message>
     <message>
         <source>Press %1 to copy color</source>
@@ -736,11 +736,11 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Send to printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Siųsti spausdintuvui</translation>
     </message>
     <message>
         <source>Copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nu-)Kopijuoti ir prisegti</translation>
     </message>
 </context>
 <context>
@@ -2113,7 +2113,7 @@ Spustelėkite bet kurį iš jų, kad visam laikui atšauktumėte šį pranešim�
     </message>
     <message>
         <source>Restore off-screen images (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Atkurti už-ekrano esančius (-as) vaizdus/paveikslėlius/iškarpas/ekrano nuotraukas (%1)</translation>
     </message>
     <message>
         <source>Images</source>
@@ -3668,15 +3668,15 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     </message>
     <message>
         <source>Color values:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalvos/-ų reikšmės:</translation>
     </message>
     <message>
         <source>Show HEX values in uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti „HEX“ reikšmes, didžiosiomis raidėmis</translation>
     </message>
     <message>
         <source>Never show auxiliary lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Niekada nerodyti pagalbinių linijų</translation>
     </message>
 </context>
 <context>
