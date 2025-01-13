@@ -27,7 +27,7 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between color values</source>
-        <translation type="unfinished"></translation>
+        <translation>Appuyez sur %1 pour basculer entre les valeurs de couleur</translation>
     </message>
     <message>
         <source>Press %1 to copy color</source>
@@ -736,11 +736,11 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO ?</translation>
     </message>
     <message>
         <source>Send to printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoyer à l&apos;imprimante</translation>
     </message>
     <message>
         <source>Copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier et épingler</translation>
     </message>
 </context>
 <context>
@@ -1183,7 +1183,7 @@ Partagez-le avec vos amis !</translation>
 Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>Remarque&#x202f;: vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés. 
+        <translation>Remarque : vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés. 
  
 En outre, vous ne devez pas supprimer le fichier de configuration par défaut après cette opération, car il enregistre où trouver votre nouveau fichier de configuration. 
  
@@ -2113,7 +2113,7 @@ Cliquez sur l&apos;un d&apos;entre eux pour ignorer définitivement cette notifi
     </message>
     <message>
         <source>Restore off-screen images (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer les images hors écran (%1)</translation>
     </message>
     <message>
         <source>Images</source>
@@ -3668,15 +3668,15 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
     </message>
     <message>
         <source>Color values:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeurs de couleur :</translation>
     </message>
     <message>
         <source>Show HEX values in uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les valeurs HEX en majuscules</translation>
     </message>
     <message>
         <source>Never show auxiliary lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne jamais afficher les lignes auxiliaires</translation>
     </message>
 </context>
 <context>
