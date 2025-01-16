@@ -2113,7 +2113,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Restore off-screen images (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>復原螢幕外的貼圖</translation>
     </message>
     <message>
         <source>Images</source>
@@ -3676,7 +3676,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Never show auxiliary lines</source>
-        <translation type="unfinished"></translation>
+        <translation>停用輔助線</translation>
     </message>
 </context>
 <context>
