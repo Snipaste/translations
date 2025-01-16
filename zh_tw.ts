@@ -2113,7 +2113,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Restore off-screen images (%1)</source>
-        <translation>復原螢幕外的貼圖</translation>
+        <translation>復原螢幕外的貼圖 (%1)</translation>
     </message>
     <message>
         <source>Images</source>
