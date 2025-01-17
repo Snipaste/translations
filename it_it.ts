@@ -27,7 +27,7 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between color values</source>
-        <translation type="unfinished"></translation>
+        <translation>Premi %1 per passare da un valore di colore all&apos;altro</translation>
     </message>
     <message>
         <source>Press %1 to copy color</source>
@@ -630,11 +630,11 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Too many requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Troppe richieste.</translation>
     </message>
     <message>
         <source>Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Riprova più tardi.</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
@@ -678,7 +678,7 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>System time error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di orario del sistema.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
@@ -736,11 +736,11 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Send to printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia alla stampante</translation>
     </message>
     <message>
         <source>Copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia ed appunta</translation>
     </message>
 </context>
 <context>
@@ -2072,7 +2072,7 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
     </message>
     <message>
         <source>Adjust region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Regola la dimensione della regione</translation>
     </message>
     <message>
         <source>Change size unit</source>
@@ -2113,7 +2113,7 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
     </message>
     <message>
         <source>Restore off-screen images (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina immagini fuori dallo schermo (%1)</translation>
     </message>
     <message>
         <source>Images</source>
@@ -2212,20 +2212,21 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
     </message>
     <message>
         <source>IMPORTANT</source>
-        <translation type="unfinished"></translation>
+        <translation>IMPORTANTE</translation>
     </message>
     <message>
         <source>The offline license will be permanently bound to this device for the duration you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>La licenza offline sarà vincolata permanentemente a questo dispositivo per la durata da te specificata.</translation>
     </message>
     <message>
         <source>License seat remains reserved for this duration even after deactivation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il posto licenza rimane riservato per questa durata anche dopo la disattivazione.</translation>
     </message>
     <message>
         <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Il codice dispositivo può cambiare dopo la reinstallazione del sistema operativo. Per i sistemi che richiedono una reinstallazione frequente, si prega di prendere in considerazione l&apos;utilizzo dell&apos;attivazione online oppure di utilizzare un periodo di attivazione offline più breve.
+</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -2241,7 +2242,7 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
     </message>
     <message>
         <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ottienilo da %1 o tramite &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Personal</source>
@@ -2253,19 +2254,19 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Richiesta di attivazione offline di Snipaste</translation>
     </message>
     <message>
         <source>Device Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice dispositivo</translation>
     </message>
     <message>
         <source>Pre-filled, do not modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Precompilato, non modificare</translation>
     </message>
     <message>
         <source>Please fill in ALL information below:</source>
-        <translation type="unfinished"></translation>
+        <translation>Si prega di compilare TUTTE le informazioni qui sotto:</translation>
     </message>
     <message>
         <source>Email</source>
@@ -2273,31 +2274,31 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
     </message>
     <message>
         <source>Enter the email address associated with your license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci l&apos;indirizzo email associato alla tua chiave di licenza</translation>
     </message>
     <message>
         <source>License Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiave di licenza</translation>
     </message>
     <message>
         <source>Enter the license key from your purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci la chiave di licenza del tuo acquisto</translation>
     </message>
     <message>
         <source>Activation Period (days)</source>
-        <translation type="unfinished"></translation>
+        <translation>Periodo di attivazione (giorni)</translation>
     </message>
     <message>
         <source>Specify duration between 10 to 366 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Specificare una durata tra 10 e 366 giorni</translation>
     </message>
     <message>
         <source>Redeem code</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice di sblocco</translation>
     </message>
     <message>
         <source>Trial</source>
-        <translation type="unfinished"></translation>
+        <translation>Prova</translation>
     </message>
     <message>
         <source>Registered to</source>
@@ -2309,7 +2310,7 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
     </message>
     <message>
         <source>License expires on</source>
-        <translation type="unfinished"></translation>
+        <translation>La licenza scade il</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
@@ -3667,15 +3668,15 @@ Se deselezionato, solo il tipo attivo di annotazioni sarà selezionabile al pass
     </message>
     <message>
         <source>Color values:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valori del colore:</translation>
     </message>
     <message>
         <source>Show HEX values in uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra i valori HEX in maiuscolo</translation>
     </message>
     <message>
         <source>Never show auxiliary lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Non mostrare mai le linee ausiliarie</translation>
     </message>
 </context>
 <context>
@@ -3851,11 +3852,11 @@ Esempi:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva Snipaste 2 PRO (Offline)</translation>
     </message>
     <message>
         <source>Device code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice dispositivo:</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3863,11 +3864,11 @@ Esempi:
     </message>
     <message>
         <source>Offlince license code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice di licenza offline:</translation>
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva Snipaste 2 PRO (online)</translation>
     </message>
 </context>
 <context>
