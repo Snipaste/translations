@@ -120,7 +120,7 @@
     </message>
     <message>
         <source>Exit</source>
-        <translation>끝내기</translation>
+        <translation>나가기</translation>
     </message>
     <message>
         <source>Find</source>
@@ -140,7 +140,7 @@
     </message>
     <message>
         <source>Home</source>
-        <translation>Home</translation>
+        <translation>홈</translation>
     </message>
     <message>
         <source>Info</source>
@@ -692,7 +692,7 @@
     </message>
     <message>
         <source>System Request</source>
-        <translation>System Request</translation>
+        <translation>시스템 요청</translation>
     </message>
     <message>
         <source>Microphone Volume Up</source>
@@ -1103,23 +1103,23 @@
     </message>
     <message>
         <source>Architect A</source>
-        <translation>Architect A</translation>
+        <translation>아키텍트 A</translation>
     </message>
     <message>
         <source>Architect B</source>
-        <translation>Architect B</translation>
+        <translation>아키텍트 B</translation>
     </message>
     <message>
         <source>Architect C</source>
-        <translation>Architect C</translation>
+        <translation>아키텍트 C</translation>
     </message>
     <message>
         <source>Architect D</source>
-        <translation>Architect D</translation>
+        <translation>아키텍트 D</translation>
     </message>
     <message>
         <source>Architect E</source>
-        <translation>Architect E</translation>
+        <translation>아키텍트 E</translation>
     </message>
     <message>
         <source>Letter Extra</source>
