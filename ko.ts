@@ -27,7 +27,7 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between color values</source>
-        <translation type="unfinished"></translation>
+        <translation>색상 값 사이를 전환하려면 %1을 누르세요</translation>
     </message>
     <message>
         <source>Press %1 to copy color</source>
@@ -628,11 +628,11 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>Too many requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>요청이 너무 많습니다.</translation>
     </message>
     <message>
         <source>Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>나중에 다시 시도해 주세요.</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
@@ -676,7 +676,7 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>System time error.</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템 시간 오류.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
@@ -734,11 +734,11 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>Send to printer</source>
-        <translation type="unfinished"></translation>
+        <translation>프린터로 보내기</translation>
     </message>
     <message>
         <source>Copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>복사 및 고정</translation>
     </message>
 </context>
 <context>
@@ -2066,7 +2066,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Adjust region size</source>
-        <translation type="unfinished"></translation>
+        <translation>부분 크기 조정</translation>
     </message>
     <message>
         <source>Change size unit</source>
@@ -2107,7 +2107,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Restore off-screen images (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>화면 밖 이미지 복원 (%1)</translation>
     </message>
     <message>
         <source>Images</source>
@@ -2202,20 +2202,21 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>IMPORTANT</source>
-        <translation type="unfinished"></translation>
+        <translation>중요</translation>
     </message>
     <message>
         <source>The offline license will be permanently bound to this device for the duration you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>오프라인 라이센스는 귀하가 지정한 기간 동안 이 장치에 영구적으로 바인딩됩니다.</translation>
     </message>
     <message>
         <source>License seat remains reserved for this duration even after deactivation.</source>
-        <translation type="unfinished"></translation>
+        <translation>비활성화 후에도 라이센스 좌석은 해당 기간 동안 예약된 상태로 유지됩니다.</translation>
     </message>
     <message>
         <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>OS 재설치 후 장치 코드가 변경될 수 있습니다. 자주 재설치해야 하는 시스템의 경우, 대신 온라인 활성화를 사용하거나 더 짧은 오프라인 활성화 기간을 사용하세요.
+</translation>
     </message>
     <message>
         <source>You are using the free version of Snipaste %1 %2.</source>
@@ -2235,7 +2236,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 또는 &lt;a href=&quot;%2&quot;&gt;이메일&lt;/a&gt;을 통해 받으세요</translation>
     </message>
     <message>
         <source>Personal</source>
@@ -2247,19 +2248,19 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>오프라인 활성화 요청 스니페이스트</translation>
     </message>
     <message>
         <source>Device Code</source>
-        <translation type="unfinished"></translation>
+        <translation>장치 코드</translation>
     </message>
     <message>
         <source>Pre-filled, do not modify</source>
-        <translation type="unfinished"></translation>
+        <translation>미리 채워져 있으므로 수정하지 마십시오.</translation>
     </message>
     <message>
         <source>Please fill in ALL information below:</source>
-        <translation type="unfinished"></translation>
+        <translation>아래의 모든 정보를 입력해주세요:</translation>
     </message>
     <message>
         <source>Email</source>
@@ -2267,31 +2268,31 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>Enter the email address associated with your license key</source>
-        <translation type="unfinished"></translation>
+        <translation>라이센스 키와 연결된 이메일 주소를 입력하세요</translation>
     </message>
     <message>
         <source>License Key</source>
-        <translation type="unfinished"></translation>
+        <translation>라이센스 키</translation>
     </message>
     <message>
         <source>Enter the license key from your purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>구매하신 라이선스 키를 입력하세요</translation>
     </message>
     <message>
         <source>Activation Period (days)</source>
-        <translation type="unfinished"></translation>
+        <translation>활성화 기간(일)</translation>
     </message>
     <message>
         <source>Specify duration between 10 to 366 days</source>
-        <translation type="unfinished"></translation>
+        <translation>10~366일 사이의 기간을 지정하세요</translation>
     </message>
     <message>
         <source>Redeem code</source>
-        <translation type="unfinished"></translation>
+        <translation>리딤코드</translation>
     </message>
     <message>
         <source>Trial</source>
-        <translation type="unfinished"></translation>
+        <translation>트라이얼</translation>
     </message>
     <message>
         <source>Registered to</source>
@@ -2303,7 +2304,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>License expires on</source>
-        <translation type="unfinished"></translation>
+        <translation>라이센스가 만료됩니다</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
@@ -2413,7 +2414,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3657,15 +3658,15 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Color values:</source>
-        <translation type="unfinished"></translation>
+        <translation>색상 값:</translation>
     </message>
     <message>
         <source>Show HEX values in uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>HEX 값을 대문자로 표시</translation>
     </message>
     <message>
         <source>Never show auxiliary lines</source>
-        <translation type="unfinished"></translation>
+        <translation>보조선을 절대로 표시하지 마세요</translation>
     </message>
 </context>
 <context>
@@ -3840,11 +3841,11 @@ ex) 500 500
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO 활성화(오프라인)</translation>
     </message>
     <message>
         <source>Device code:</source>
-        <translation type="unfinished"></translation>
+        <translation>장치 코드:</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3852,11 +3853,11 @@ ex) 500 500
     </message>
     <message>
         <source>Offlince license code:</source>
-        <translation type="unfinished"></translation>
+        <translation>오프라인 라이센스 코드:</translation>
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO 활성화(온라인)</translation>
     </message>
 </context>
 <context>
