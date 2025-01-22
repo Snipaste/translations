@@ -27,7 +27,7 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between color values</source>
-        <translation type="unfinished"></translation>
+        <translation>Drücke %1 um zwischen Farbwerten zu wechseln</translation>
     </message>
     <message>
         <source>Press %1 to copy color</source>
@@ -225,7 +225,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufnahmeverlauf löschen</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -616,7 +616,7 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     <name>LicensingClient</name>
     <message>
         <source>HTTP error code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP-Fehlercode: %1</translation>
     </message>
     <message>
         <source>Unknown error.</source>
