@@ -3589,7 +3589,7 @@ Quando viene raggiunto il limite, la più vecchia verrà distrutta.</translation
         <translation>Mostra suggerimenti per l&apos;associazione dei tasti</translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation>Ignora il comando &quot;Copy&quot; simulato da altre applicazioni</translation>
     </message>
     <message>

@@ -3548,7 +3548,7 @@ Please report to the developer if you find any.</source>
         <translation>Hiển thị các mẹo phím tắt hay ho</translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation>Bỏ qua lệnh &quot;Sao chép&quot; được mô phỏng bởi các ứng dụng khác</translation>
     </message>
     <message>

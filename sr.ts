@@ -3588,7 +3588,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Покажи савете кључне везице</translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation>Игнориши &quot;Копирај&quot; моманду симулирана другим апликацијама</translation>
     </message>
     <message>

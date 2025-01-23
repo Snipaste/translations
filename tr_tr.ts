@@ -3586,7 +3586,7 @@ Limit ulaşıldığında, en eskisi yok edilir.</translation>
         <translation>Anahtar bağlama ipuçlarını göster</translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation>Diğer uygulamalar tarafından simüle edilen &quot;Kopyala&quot; komutunu yoksay</translation>
     </message>
     <message>

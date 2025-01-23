@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_CN" sourcelanguage="en_US">
 <context>
@@ -3626,7 +3626,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>显示快捷键提示</translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation>忽略其他程序模拟的&quot;复制&quot;命令</translation>
     </message>
     <message>

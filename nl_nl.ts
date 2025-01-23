@@ -3590,7 +3590,7 @@ Als het maximum is bereikt, worden de eerste gewist.</translation>
         <translation>Sneltoets-tips weergeven</translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation>Negeer de &quot;Copy&quot;-opdracht afkomstig van andere toepassingen</translation>
     </message>
     <message>

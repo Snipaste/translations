@@ -3574,7 +3574,7 @@ Jeżeli limit został przekroczony, najstarszy zostanie zniszczony.</translation
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

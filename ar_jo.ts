@@ -3563,7 +3563,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>إظهار تلميحات ربط المفاتيح</translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation>تجاهل أمر &quot;نسخ&quot; الذي تمت محاكاته بواسطة التطبيقات الأخرى</translation>
     </message>
     <message>

@@ -3589,7 +3589,7 @@ Quando o limite for alcançado, a mais antiga será destruida.</translation>
         <translation>Mostrar dicas de ligações de teclas</translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation>Ignorar o comando &quot;Copy&quot; simulado por outros programas</translation>
     </message>
     <message>

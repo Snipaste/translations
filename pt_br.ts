@@ -3589,7 +3589,7 @@ Quando o limite é atingido, as mais antigas serão destruídas.</translation>
         <translation>Mostrar dicas de ligação de chave</translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation>Ignorar comando &quot;Copy&quot; simulado por outros aplicativos</translation>
     </message>
     <message>

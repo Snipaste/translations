@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ja_JP" sourcelanguage="en_US">
 <context>
@@ -3591,7 +3591,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>ホットキーのヒントを表示する</translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation>他のプログラムがシミュレートした「コピー」命令を無視する</translation>
     </message>
     <message>

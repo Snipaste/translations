@@ -3585,7 +3585,7 @@ Wenn das Limit erreicht ist, wird das älteste gelöscht.</translation>
         <translation>Zeige Tastatur Tipps</translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation>Von anderen Anwendungen simulierten &quot;Copy&quot;-Befehl irnorieren</translation>
     </message>
     <message>

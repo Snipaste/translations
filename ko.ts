@@ -3579,7 +3579,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>키 바인딩 팁 표시</translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation>다른 응용 프로그램에서 시뮬레이션 한 &quot;Copy&quot;명령 무시</translation>
     </message>
     <message>

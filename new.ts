@@ -3558,7 +3558,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ignore &quot;Copy&quot; command simulated by other applications</source>
+        <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3734,12 +3734,12 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Format:
-• For size: width height
-• For region: left top width height
+??? For size: width height
+??? For region: left top width height
 
 PRO only:
-• Can name your preset by appending the name at the end of the line
-• Can use &quot;---&quot; as seperator
+??? Can name your preset by appending the name at the end of the line
+??? Can use &quot;---&quot; as seperator
 
 Examples:
 500 500
