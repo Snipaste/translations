@@ -813,7 +813,7 @@
     </message>
     <message>
         <source>My Sites</source>
-        <translation>Preferiti</translation>
+        <translation>Siti preferiti</translation>
     </message>
     <message>
         <source>Rotate Windows</source>
