@@ -941,7 +941,7 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Home Page</source>
-        <translation>Pagrindinis Puslapis</translation>
+        <translation>Pagrindinis puslapis</translation>
     </message>
     <message>
         <source>Documentation</source>
