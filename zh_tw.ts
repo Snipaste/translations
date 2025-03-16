@@ -69,31 +69,31 @@
     <name>Constants</name>
     <message>
         <source>Color space</source>
-        <translation type="unfinished"></translation>
+        <translation>色彩空間</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>不詳</translation>
     </message>
     <message>
         <source>Native</source>
-        <translation type="unfinished"></translation>
+        <translation>原生</translation>
     </message>
     <message>
         <source>sRGB</source>
-        <translation type="unfinished"></translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <source>Adobe RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Adobe RGB</translation>
     </message>
     <message>
         <source>Generic RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>普通 RGB</translation>
     </message>
     <message>
         <source>P3</source>
-        <translation type="unfinished"></translation>
+        <translation>P3</translation>
     </message>
 </context>
 <context>
@@ -3711,7 +3711,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Color space:</source>
-        <translation type="unfinished"></translation>
+        <translation>色彩空間:</translation>
     </message>
 </context>
 <context>
