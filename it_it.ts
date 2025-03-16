@@ -69,31 +69,31 @@
     <name>Constants</name>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Sconosciuto</translation>
     </message>
     <message>
         <source>Native</source>
-        <translation type="unfinished"></translation>
+        <translation>Nativo</translation>
     </message>
     <message>
         <source>sRGB</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sRGB</translation>
     </message>
     <message>
         <source>Adobe RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB Adobe</translation>
     </message>
     <message>
         <source>Generic RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB generico</translation>
     </message>
     <message>
         <source>P3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">P3</translation>
     </message>
     <message>
         <source>Color space</source>
-        <translation type="unfinished"></translation>
+        <translation>Spazio colore</translation>
     </message>
 </context>
 <context>
@@ -2564,7 +2564,7 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
     <name>newgroup</name>
     <message>
         <source>Create New Group</source>
-        <translation>Crea nuovo gruppo</translation>
+        <translation>Crea Nuovo Gruppo</translation>
     </message>
     <message>
         <source>Group name:</source>
@@ -3711,7 +3711,7 @@ Se deselezionato, solo il tipo attivo di annotazioni sarà selezionabile al pass
     </message>
     <message>
         <source>Color space:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spazio colore:</translation>
     </message>
 </context>
 <context>
