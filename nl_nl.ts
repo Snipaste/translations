@@ -69,31 +69,31 @@
     <name>Constants</name>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <source>Native</source>
-        <translation type="unfinished"></translation>
+        <translation>Oorspronkelijk</translation>
     </message>
     <message>
         <source>sRGB</source>
-        <translation type="unfinished"></translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <source>Adobe RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Adobe RGB</translation>
     </message>
     <message>
         <source>Generic RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Algemeen RGB</translation>
     </message>
     <message>
         <source>P3</source>
-        <translation type="unfinished"></translation>
+        <translation>P3</translation>
     </message>
     <message>
         <source>Color space</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleurruimte</translation>
     </message>
 </context>
 <context>
@@ -3712,7 +3712,7 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     </message>
     <message>
         <source>Color space:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleurruimte:</translation>
     </message>
 </context>
 <context>
