@@ -66,6 +66,37 @@
     </message>
 </context>
 <context>
+    <name>Constants</name>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sRGB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adobe RGB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generic RGB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color space</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Add to presets</source>
@@ -3646,6 +3677,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Never show auxiliary lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color space:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

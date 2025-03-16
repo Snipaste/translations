@@ -66,6 +66,37 @@
     </message>
 </context>
 <context>
+    <name>Constants</name>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sRGB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adobe RGB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generic RGB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color space</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Add to presets</source>
@@ -3644,6 +3675,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>Never show auxiliary lines</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Color space:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -3734,12 +3769,12 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Format:
-??? For size: width height
-??? For region: left top width height
+• For size: width height
+• For region: left top width height
 
 PRO only:
-??? Can name your preset by appending the name at the end of the line
-??? Can use &quot;---&quot; as seperator
+• Can name your preset by appending the name at the end of the line
+• Can use &quot;---&quot; as seperator
 
 Examples:
 500 500

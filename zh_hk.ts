@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_HK">
 <context>
@@ -63,6 +63,37 @@
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation>輸入以英文逗號分割嘅軟體套件組合名稱/路徑 （譬如 snipaste.app, games/*）</translation>
+    </message>
+</context>
+<context>
+    <name>Constants</name>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sRGB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adobe RGB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generic RGB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color space</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3644,6 +3675,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Never show auxiliary lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color space:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

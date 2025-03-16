@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_CN" sourcelanguage="en_US">
 <context>
@@ -63,6 +63,37 @@
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
         <translation>输入以英文逗号分隔的应用包名/路径（如 a.exe, games/*）</translation>
+    </message>
+</context>
+<context>
+    <name>Constants</name>
+    <message>
+        <source>Unknown</source>
+        <translation>未知</translation>
+    </message>
+    <message>
+        <source>Native</source>
+        <translation>原生</translation>
+    </message>
+    <message>
+        <source>sRGB</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Adobe RGB</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Generic RGB</source>
+        <translation>普通 RGB</translation>
+    </message>
+    <message>
+        <source>P3</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Color space</source>
+        <translation>色彩空间</translation>
     </message>
 </context>
 <context>
@@ -3714,6 +3745,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Never show auxiliary lines</source>
         <translation>禁用辅助线</translation>
+    </message>
+    <message>
+        <source>Color space:</source>
+        <translation>色彩空间:</translation>
     </message>
 </context>
 <context>

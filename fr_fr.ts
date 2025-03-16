@@ -66,6 +66,37 @@
     </message>
 </context>
 <context>
+    <name>Constants</name>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sRGB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adobe RGB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generic RGB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color space</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Add to presets</source>
@@ -1183,7 +1214,7 @@ Partagez-le avec vos amis !</translation>
 Besides, you should not delete the default configuration file after this operation, because it records where to find your new configuration file.
 
 Are you sure you want to switch to another configuration file?</source>
-        <translation>Remarque : vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés. 
+        <translation>Remarque&#x202f;: vous allez passer à un autre fichier de configuration. Les paramètres sont appliqués et tous vos paramètres actuels seront annulés. 
  
 En outre, vous ne devez pas supprimer le fichier de configuration par défaut après cette opération, car il enregistre où trouver votre nouveau fichier de configuration. 
  
@@ -3677,6 +3708,10 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
     <message>
         <source>Never show auxiliary lines</source>
         <translation>Ne jamais afficher les lignes auxiliaires</translation>
+    </message>
+    <message>
+        <source>Color space:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
