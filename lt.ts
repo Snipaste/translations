@@ -69,7 +69,7 @@
     <name>Constants</name>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Nežinoma/-s</translation>
     </message>
     <message>
         <source>Native</source>
@@ -77,11 +77,11 @@
     </message>
     <message>
         <source>sRGB</source>
-        <translation type="unfinished"></translation>
+        <translation>„sRGB“ – standartinė RŽM</translation>
     </message>
     <message>
         <source>Adobe RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>„Adobe RGB“</translation>
     </message>
     <message>
         <source>Generic RGB</source>
@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>Color space</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalvų erdvė/visuma</translation>
     </message>
 </context>
 <context>
@@ -3711,7 +3711,7 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     </message>
     <message>
         <source>Color space:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalvų erdvė/visuma:</translation>
     </message>
 </context>
 <context>
