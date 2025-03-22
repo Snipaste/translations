@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>Native</source>
-        <translation type="unfinished"></translation>
+        <translation>Savasis/-oji</translation>
     </message>
     <message>
         <source>sRGB</source>
@@ -85,11 +85,11 @@
     </message>
     <message>
         <source>Generic RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Bendrasis „RGB“ – RŽM</translation>
     </message>
     <message>
         <source>P3</source>
-        <translation type="unfinished"></translation>
+        <translation>„P3“</translation>
     </message>
     <message>
         <source>Color space</source>
