@@ -258,7 +258,7 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Découper l&apos;écran actif</translation>
     </message>
     <message>
         <source>Clear snip history</source>
@@ -340,7 +340,8 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <message>
         <source>Are you sure you want to close selected group(s)?
 This action cannot be undone.</source>
-        <translation>Êtes-vous sûr de fermer le(s) groupe(s) sélectionné(s) ? Cette action ne peut être annulée.</translation>
+        <translation>Êtes-vous sûr de fermer le(s) groupe(s) sélectionné(s) ? 
+Cette action ne peut être annulée.</translation>
     </message>
 </context>
 <context>
@@ -510,7 +511,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Pin the screenshot to the screen as a floating window</source>
-        <translation type="unfinished"></translation>
+        <translation>Épingler la capture d&apos;écran à l&apos;écran sous la forme d&apos;une fenêtre flottante</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1458,12 +1459,14 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     <message>
         <source>Are you sure you want to close all selected images?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous vraiment fermer toutes les images choisies ?
+Cette action est irréversible..</translation>
     </message>
     <message>
         <source>All selected images will be destroyed permanently.
 Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les images choisies seront définitivement détruites.
+Êtes-vous sûr de vouloir continuer ?</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2037,7 +2040,8 @@ Cliquez sur l&apos;un d&apos;entre eux pour ignorer définitivement cette notifi
     <message>
         <source>Are you sure you want to close the image group &quot;%1&quot;?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir fermer le groupe d&apos;images &quot;%1 &quot;?
+Cette action est irréversible.</translation>
     </message>
     <message>
         <source>Success</source>
@@ -3773,7 +3777,7 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Épingler à l&apos;écran (Ctrl+T)</translation>
     </message>
 </context>
 <context>
