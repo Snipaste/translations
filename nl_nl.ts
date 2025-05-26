@@ -258,7 +258,7 @@ Informeer alsjeblieft de maker.</translation>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Het actieve venster knippen</translation>
     </message>
     <message>
         <source>Clear snip history</source>
@@ -510,7 +510,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Pin the screenshot to the screen as a floating window</source>
-        <translation type="unfinished"></translation>
+        <translation>De schermopname als een zwevend venster op het scherm vastzetten</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1446,12 +1446,14 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     <message>
         <source>Are you sure you want to close all selected images?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wil je alle geselecteerde afbeeldingen sluiten?
+Deze actie kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
         <source>All selected images will be destroyed permanently.
 Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle geselecteerde afbeeldingen worden permanent verwijderd.
+Weet je zeker dat je verder wilt?</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2061,7 +2063,8 @@ Klik erop om deze melding permanent af te wijzen.
     <message>
         <source>Are you sure you want to close the image group &quot;%1&quot;?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je de afbeeldingsgroep &quot;%1&quot; wilt sluiten?
+Deze actie kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -3774,7 +3777,7 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vastzetten op scherm (Ctrl+T)</translation>
     </message>
 </context>
 <context>
