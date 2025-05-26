@@ -258,7 +258,7 @@ Por favor, contate o desenvolvedor.</translation>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar a tela ativa</translation>
     </message>
     <message>
         <source>Clear snip history</source>
@@ -340,7 +340,8 @@ Se nenhuma janela de imagem estiver sob o cursor, todas as imagens não clicáve
     <message>
         <source>Are you sure you want to close selected group(s)?
 This action cannot be undone.</source>
-        <translation>Deseja realmente fechar o(s) grupo(s) selecionado(s)? Esta ação não pode ser desfeita.</translation>
+        <translation>Deseja realmente fechar o(s) grupo(s) selecionado(s)?
+Esta ação não pode ser desfeita.</translation>
     </message>
 </context>
 <context>
@@ -510,7 +511,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Pin the screenshot to the screen as a floating window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fixar captura na tela como uma janela flutuante</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1478,12 +1479,14 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     <message>
         <source>Are you sure you want to close all selected images?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseja realmente fechar todas as imagens selecionadas?
+Esta ação não pode ser desfeita.</translation>
     </message>
     <message>
         <source>All selected images will be destroyed permanently.
 Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas as imagens selecionadas serão destruídas permanentemente.
+Deseja realmente continuar?</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2061,7 +2064,8 @@ Clique em qualquer um deles para dispensar esta notificação permanentemente.
     <message>
         <source>Are you sure you want to close the image group &quot;%1&quot;?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseja realmente fechar o grupo de imagens &quot;%1&quot;?
+Esta ação não pode ser desfeita.</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -3773,7 +3777,7 @@ Se desmarcado, somente o tipo ativo de anotação pode ser selecionado ao passar
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fixar na tela (Ctrl+T)</translation>
     </message>
 </context>
 <context>
