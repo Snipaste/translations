@@ -257,6 +257,10 @@ Proszę skontaktować się z deweloperem.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -333,7 +337,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation></translation>
     </message>
 </context>
@@ -419,10 +424,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Zmniejsz obszar przechwytywania o 1 piksel</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Wklej zrzut ekranu bezpośrednio na ekran</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>Skopiuj zrzut ekranu i wyjdź z przechwytywania</translation>
     </message>
@@ -504,6 +505,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1463,6 +1468,16 @@ Are you sure you want to switch to another configuration file?</source>
         <translation></translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1948,7 +1963,7 @@ Click any of them to dismiss this notification permanently.
         <translation>Zmień nazwę</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2032,8 +2047,9 @@ Click any of them to dismiss this notification permanently.
         <translation>Nowa nazwa grupy:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Czy jesteś pewien, że chcesz zamknąć &quot;%1&quot;? Ta akcja nie może zostać cofnięta.</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -3722,10 +3738,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation>Anuluj przechwytywanie ekranu (Esc)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Przypnij do ekranu (Ctrl+T)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Zapisz do pliku (Ctrl+S)</translation>
     </message>
@@ -3739,6 +3751,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

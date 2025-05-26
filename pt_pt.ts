@@ -257,6 +257,10 @@ Por favor contacte o autor.</translation>
         <translation>Desactivar/Activar cantos quentes</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation>Limpar histórico de capturas</translation>
     </message>
@@ -334,7 +338,8 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>Tem a certeza em fechar o(s) grupo(s) seleccionado(s)? Esta acção não pode ser anulada.</translation>
     </message>
 </context>
@@ -420,10 +425,6 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
         <translation>Reduz a área de captura em 1 píxel</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Cola a captura directamente no ecrã</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>Copia a imagem e sai da captura</translation>
     </message>
@@ -506,6 +507,10 @@ Se não existir imagem sob o cursor, todas as imagens não clicáveis serão tor
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Define a área de captura para área visível / ecrã completo</translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1471,6 +1476,16 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
         <translation>Restaurar</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation>Copiar caminho para o ficheiro de origem</translation>
     </message>
@@ -1964,7 +1979,7 @@ Clique em qualquer deles para desligar esta notificação permanentemente.
         <translation>Renomear</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>Tem a certeza de fixar todas as imagens? (Número: %1)</translation>
     </message>
     <message>
@@ -2044,8 +2059,9 @@ Clique em qualquer deles para desligar esta notificação permanentemente.
         <translation>Nome do novo grupo:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Tem a certeza que quer fechar o &quot;%1&quot;? Esta acção não pode anulada.</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -3740,10 +3756,6 @@ Se não seleccionado, apenas as anotações de tipo activo podem ser seleccionad
         <translation>Sair da captura (Esc)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Afixar no ecrã (Ctrl+T)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Guardar para ficheiro (Ctrl+S)</translation>
     </message>
@@ -3758,6 +3770,10 @@ Se não seleccionado, apenas as anotações de tipo activo podem ser seleccionad
     <message>
         <source>Share</source>
         <translation>Partilhar</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

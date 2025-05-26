@@ -257,6 +257,10 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -333,7 +337,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>確定要関開選取嘅組？此操作無法還原。</translation>
     </message>
 </context>
@@ -419,10 +424,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>將截取area相對板邊縮小 1px</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>直接將截取貼到熒幕</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>複製所截取並結束截取</translation>
     </message>
@@ -504,6 +505,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1462,6 +1467,16 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1954,7 +1969,7 @@ Click any of them to dismiss this notification permanently.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2018,7 +2033,8 @@ Click any of them to dismiss this notification permanently.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3708,10 +3724,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3725,6 +3737,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

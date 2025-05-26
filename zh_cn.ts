@@ -244,6 +244,10 @@ Please contact the developer.</source>
         <translation>禁用/启用触发角</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation>截取当前屏幕</translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation>清空截屏历史</translation>
     </message>
@@ -333,8 +337,9 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
-        <translation>确定要关闭选中组吗？此操作无法撤销。</translation>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
+        <translation>确定要关闭选中组吗？此操作将无法撤销。</translation>
     </message>
 </context>
 <context>
@@ -419,10 +424,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>将截屏区域相应边界缩小 1 像素</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>直接将截图贴到屏幕</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>复制截图并退出截屏</translation>
     </message>
@@ -505,6 +506,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>设置截屏区域为当前屏幕/全屏</translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
+        <translation>将截图贴到屏幕</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1438,6 +1443,16 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>还原</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation>确定要关闭所有选中贴图吗？此操作将无法撤销。</translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation>所有选中的贴图将被永久销毁。您确定要继续吗？</translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation>复制 源文件路径</translation>
     </message>
@@ -2038,8 +2053,9 @@ Click any of them to dismiss this notification permanently.
         <translation>新组名:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>确定要关闭 &quot;%1&quot; 吗？此操作将不能撤销。</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation>确定要关闭贴图组 &quot;%1&quot; 吗？此操作将无法撤销。</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -2050,7 +2066,7 @@ Click any of them to dismiss this notification permanently.
         <translation>点击这里马上更新</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>确定要贴出所有图片吗？(数量: %1)</translation>
     </message>
     <message>
@@ -3769,10 +3785,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>贴到屏幕上 (Ctrl+T)</translation>
-    </message>
-    <message>
         <source>Copy to clipboard (Ctrl+C)</source>
         <translation>复制到剪贴板 (Ctrl+C)</translation>
     </message>
@@ -3795,6 +3807,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Share</source>
         <translation>分享</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation>贴到屏幕 (Ctrl+T)</translation>
     </message>
 </context>
 <context>

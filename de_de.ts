@@ -255,6 +255,10 @@ Please contact the developer.</source>
         <translation>Deaktivieren/aktivieren Sie die Hot Corners</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation>Aufnahmeverlauf löschen</translation>
     </message>
@@ -332,7 +336,8 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>Sind Sie sicher, daß Sie die ausgewählte/n Gruppe/n schließen möchten? Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     </message>
 </context>
@@ -418,10 +423,6 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
         <translation>Aufnahmebereich um 1 Pixel verkleinern</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Screenshot direkt in Bildschirm einfügen</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>Screenshot kopieren und Aufnahmen beenden</translation>
     </message>
@@ -504,6 +505,10 @@ Wenn kein Bildfenster unter dem Cursor steht, werden alle nicht klickbaren Bilde
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Snipping-Bereich auf aktiven Bildschirm / Vollbild einstellen</translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1438,6 +1443,16 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
         <translation>Wiederherstellen</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation>Pfad zur Quelldatei kopieren</translation>
     </message>
@@ -1951,7 +1966,7 @@ Klicken Sie auf einen dieser Punkte, um diese Benachrichtigung dauerhaft zu deak
         <translation>Ungültige Befehlszeilenoptionen.</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>Sind Sie sicher, dass Sie alle Bilder anheften möchten? (Number: %1)</translation>
     </message>
     <message>
@@ -2043,8 +2058,9 @@ Klicken Sie auf einen dieser Punkte, um diese Benachrichtigung dauerhaft zu deak
         <translation>Neuer Gruppenname:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Möchten Sie &quot;%1&quot; wirklich schließen? Diese Aktion kann nicht rückgängig gemacht werden.</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -3736,10 +3752,6 @@ Wenn diese Option nicht aktiviert ist, kann nur die aktive Art von Anmerkungen b
         <translation>Rückgängig (Ctrl+Z)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>An Bildschirm pinnen (Ctrl+T)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Speichern unter (Ctrl+S)</translation>
     </message>
@@ -3754,6 +3766,10 @@ Wenn diese Option nicht aktiviert ist, kann nur die aktive Art von Anmerkungen b
     <message>
         <source>Share</source>
         <translation>Teilen</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

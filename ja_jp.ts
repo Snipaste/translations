@@ -257,6 +257,10 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -334,7 +338,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>選択したグループを閉じてもよろしいですか？ この操作は元に戻すことはできません。</translation>
     </message>
 </context>
@@ -420,10 +425,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>切り取るエリアを 1 ピクセル縮小</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>直接スクリーンにスクリーンショットを貼り付ける</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>スクリーンショットをコピーし、切り取りを終了する</translation>
     </message>
@@ -505,6 +506,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1451,6 +1456,16 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>サイズ</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1940,10 +1955,6 @@ Click any of them to dismiss this notification permanently.
         <translation>画像グループのタイトルは必要です。</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>&quot;%1&quot; を終了しますか？この操作は元に戻すことはできません。</translation>
-    </message>
-    <message>
         <source>Images</source>
         <translation>画像</translation>
     </message>
@@ -1968,7 +1979,7 @@ Click any of them to dismiss this notification permanently.
         <translation>グループのインポートに失敗。</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>すべてな画像を表示しますか？（数量：%1）</translation>
     </message>
     <message>
@@ -2022,6 +2033,11 @@ Click any of them to dismiss this notification permanently.
     <message>
         <source>Switch to the imported group</source>
         <translation>インポートしたグループに切り替える</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
@@ -3738,10 +3754,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation>切り取り終了 (Esc)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>スクリーンに貼り付ける (Ctrl+T)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>元に戻す (Ctrl+Z)</translation>
     </message>
@@ -3760,6 +3772,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Share</source>
         <translation>シェア</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

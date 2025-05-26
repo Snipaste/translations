@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <source>Adobe RGB</source>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>P3</source>
-        <translation type="unfinished">P3</translation>
+        <translation>P3</translation>
     </message>
     <message>
         <source>Color space</source>
@@ -257,6 +257,10 @@ Per favore contatta lo sviluppatore.</translation>
         <translation>Abilita/Disabilita gli angoli attivi</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation>Cancella il registro storico dei ritagli</translation>
     </message>
@@ -334,7 +338,8 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>Sei sicuro di chiudere i gruppi selezionati? Quest&apos;azione non può essere annullata.</translation>
     </message>
 </context>
@@ -420,10 +425,6 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
         <translation>Riduci l&apos;area di ritaglio di 1 pixel</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Incolla lo screenshot direttamente sullo schermo</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>Copia lo screenshot ed esci dalla modalità ritaglio</translation>
     </message>
@@ -506,6 +507,10 @@ Se nessuna finestra dell&apos;immagine è sotto il cursore, tutte le immagini no
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Seleziona l&apos;area di ritaglio allo schermo attivo / schermo intero</translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1471,6 +1476,16 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
         <translation>Ripristina</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation>Copia il percorso del file di origine</translation>
     </message>
@@ -1968,7 +1983,7 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
         <translation>Importa gruppo d&apos;immagini</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>Sei sicuro di bloccare tutte le immagini? (Numero: %1)</translation>
     </message>
     <message>
@@ -2032,8 +2047,9 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
         <translation>Nuovo nome del gruppo:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Sei sicuro di chiudere &quot;%1&quot;? Quest&apos;azione non può essere annullata.</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Success</source>
@@ -3740,10 +3756,6 @@ Se deselezionato, solo il tipo attivo di annotazioni sarà selezionabile al pass
         <translation>Esci dal ritaglio (Esc)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Fissa allo schermo (Ctrl+T)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Salva su file (Ctrl+S)</translation>
     </message>
@@ -3758,6 +3770,10 @@ Se deselezionato, solo il tipo attivo di annotazioni sarà selezionabile al pass
     <message>
         <source>Share</source>
         <translation>Condividi</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

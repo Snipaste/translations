@@ -257,6 +257,10 @@ Prašome susisiekti su kūrėju.</translation>
         <translation>Išjungti / Įjungti karštuosius kampus</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation>Išvalyti fiksavimų istoriją</translation>
     </message>
@@ -334,7 +338,8 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>Ar Jūs esate tikras, kad norite uždaryti pasirinktą/-as grupę/-es? Šis veiskmas negali būti anuliuotas.</translation>
     </message>
 </context>
@@ -420,10 +425,6 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
         <translation>Sumažinti užfiksavimo zoną vienu (1) pikseliu</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Įklijuoti iškarpą į ekraną tiesiogiai</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>Kopijuoti iškarpą ir išjungti užfiksavimą</translation>
     </message>
@@ -506,6 +507,10 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Nustatyti užfiksavimo zoną prie aktyvaus ekrano / pilno ekrano režimo</translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1471,6 +1476,16 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
         <translation>Atkurti</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation>Kopijuoti kelią į šaltinio failą</translation>
     </message>
@@ -1968,7 +1983,7 @@ Spustelėkite bet kurį iš jų, kad visam laikui atšauktumėte šį pranešim�
         <translation>Importuoti paveikslėlių grupę</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>Ar tikrai norite prisegti visus/-as nuotraukas/vaizdus/iškarpas/paveikslėlius? (Skaičius: %1)</translation>
     </message>
     <message>
@@ -2032,8 +2047,9 @@ Spustelėkite bet kurį iš jų, kad visam laikui atšauktumėte šį pranešim�
         <translation>Naujos grupės pavadinimas:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Ar tikrai norite uždaryti „%1“? Šio veiksmo negalima atšaukti.</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Success</source>
@@ -3740,10 +3756,6 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
         <translation>Atšaukti iškarpą („Esc“)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Prisegti prie ekrano (Vald+T)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Išsaugoti į failą (Vald+S)</translation>
     </message>
@@ -3758,6 +3770,10 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     <message>
         <source>Share</source>
         <translation>Bendrinti</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

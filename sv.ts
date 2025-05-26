@@ -257,6 +257,10 @@ Kontakta programutvecklaren.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -333,7 +337,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -419,10 +424,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Krymp klipprektangeln med 1 pixel</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Klistra in skärmklippet direkt på skärmen</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>Kopiera skärmklippet och avsluta klippning</translation>
     </message>
@@ -504,6 +505,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1507,6 +1512,16 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Alla filer</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1944,15 +1959,11 @@ Click any of them to dismiss this notification permanently.
         <translation>Nytt gruppnamn:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Vill du verkligen stänga &quot;%1&quot;? Åtgärden kan inte ångras.</translation>
-    </message>
-    <message>
         <source>Import image group</source>
         <translation>Importera bildgrupp</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2010,6 +2021,11 @@ Click any of them to dismiss this notification permanently.
     <message>
         <source>Switch to the imported group</source>
         <translation>Växla till den importerade gruppen</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
@@ -3733,11 +3749,11 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation>Kopiera till urklipp (Ctrl+C)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Fäst på skärmen (Ctrl+T)</translation>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Share</source>
+        <source>Pin to screen (Ctrl+T)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

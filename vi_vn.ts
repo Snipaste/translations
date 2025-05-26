@@ -255,6 +255,10 @@ Please contact the developer.</source>
         <translation>Vô hiệu hóa/Kích hoạt góc nóng</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation>Xóa lịch sử cắt</translation>
     </message>
@@ -331,7 +335,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>Bạn có chắc chắn muốn đóng nhóm đã chọn không? Hành động này không thể hoàn tác.</translation>
     </message>
 </context>
@@ -417,10 +422,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Co rút vùng snipping bằng 1 pixel</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Chỉ dán</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>Sao chép ảnh chụp màn hình và thoát snipping</translation>
     </message>
@@ -503,6 +504,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Đặt vùng cắt thành màn hình đang hoạt động / toàn màn hình</translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1460,6 +1465,16 @@ Restart Snipaste now?</source>
         <translation>Khôi phục</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation type="unfinished"></translation>
@@ -1948,7 +1963,7 @@ Click any of them to dismiss this notification permanently.
         <translation>Đổi tên</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>Bạn có chắc chắn muốn ghim tất cả hình ảnh không? (Số lượng: %1)</translation>
     </message>
     <message>
@@ -2028,8 +2043,9 @@ Click any of them to dismiss this notification permanently.
         <translation>Tên nhóm mới:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Bạn có chắc chắn muốn đóng &quot;%1&quot;? Hoạt động này không thể được hoàn tác.</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -3710,10 +3726,6 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation>Thoát khỏi Snipping</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Ghim vào màn hình</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Lưu tập tin</translation>
     </message>
@@ -3728,6 +3740,10 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Share</source>
         <translation>Chia sẻ</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

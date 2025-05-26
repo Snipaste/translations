@@ -255,6 +255,10 @@ Please contact the developer.</source>
         <translation>핫 코너 비활성화/활성화</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation>캡처 기록 지우기</translation>
     </message>
@@ -332,7 +336,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>선택된 그룹들을 닫으시겠습니까? 진행 후엔 복구할 수 없습니다.</translation>
     </message>
 </context>
@@ -418,10 +423,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>캡쳐 영역을 1 픽셀 씩 축소</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>스크린샷을 화면에 직접 붙여넣기</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>스크린샷을 복사하고 스니핑을 종료</translation>
     </message>
@@ -504,6 +505,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>캡쳐 영역을 활성 화면/전체 화면으로 설정</translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1467,6 +1472,16 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>복원</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation>소스 파일 경로 복사</translation>
     </message>
@@ -1962,7 +1977,7 @@ Click any of them to dismiss this notification permanently.
         <translation>이미지 그룹 가져오기</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>모든 이미지를 고정하시겠습니까? (Number: %1)</translation>
     </message>
     <message>
@@ -2026,8 +2041,9 @@ Click any of them to dismiss this notification permanently.
         <translation>새로운 그룹 이름 :</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>정말 &quot;%1&quot;을 닫으시겠습니까? 다시 되돌릴 수 없습니다.</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Success</source>
@@ -3730,10 +3746,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation>스니핑 나가기(Esc)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>화면으로 핀고정(Ctrl+T)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>파일로 저장(Ctrl+S)</translation>
     </message>
@@ -3748,6 +3760,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Share</source>
         <translation>공유</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

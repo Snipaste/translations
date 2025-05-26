@@ -257,6 +257,10 @@ Please contact the developer.</source>
         <translation>Онемогући/Омогући вруће углове</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation>Обришите историју исечака</translation>
     </message>
@@ -334,7 +338,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>Сигурно затворити одабране групе? Акције не може дас е опозове.</translation>
     </message>
 </context>
@@ -420,10 +425,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Смањи зону резања за 1 пиксел</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Прилепити слику екрана директно на екран</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>Копирати слику екрана и затворити резање</translation>
     </message>
@@ -506,6 +507,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Постави зону снимања на активном екрану/пуни екран</translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1471,6 +1476,16 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Опозвати</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation>Копирајте путању до изворне датотеке</translation>
     </message>
@@ -1968,7 +1983,7 @@ Click any of them to dismiss this notification permanently.
         <translation>Увоз групе слика</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>Сигурно да се закаче све слике? (Број: %1)</translation>
     </message>
     <message>
@@ -2032,8 +2047,9 @@ Click any of them to dismiss this notification permanently.
         <translation>Ново име групе:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Сигурно затворити &quot;%1&quot;? То не може да се опозове.</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Success</source>
@@ -3739,10 +3755,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation>Затворити резање (Esc)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Закачити на екрану (Ctrl+T)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Сачувати датотеку (Ctrl+S)</translation>
     </message>
@@ -3757,6 +3769,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Share</source>
         <translation>Подели</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

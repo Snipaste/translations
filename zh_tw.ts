@@ -257,6 +257,10 @@ Please contact the developer.</source>
         <translation>停用/啟用熱點</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation>清空擷圖歷史記錄</translation>
     </message>
@@ -334,7 +338,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>確定要關閉選取的組嗎？此動作無法還原。</translation>
     </message>
 </context>
@@ -420,10 +425,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>將擷圖區域相對版邊縮小 1 像素</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>直接將擷圖貼到螢幕上</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>複製擷圖並結束擷取螢幕</translation>
     </message>
@@ -506,6 +507,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>設定擷圖區域為目前螢幕/全螢幕</translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1439,6 +1444,16 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>還原</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation>複製 原始檔路徑</translation>
     </message>
@@ -1952,7 +1967,7 @@ Click any of them to dismiss this notification permanently.
         <translation>無效的命令列參數。</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>確定要貼出所有圖片嗎？(數量: %1)</translation>
     </message>
     <message>
@@ -2044,8 +2059,9 @@ Click any of them to dismiss this notification permanently.
         <translation>新的分組名稱：</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>確定要關閉 &quot;%1&quot; 嗎？此操作將不能還原。</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -3732,10 +3748,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
 <context>
     <name>paintbar0</name>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>貼到螢幕上 (Ctrl+T)</translation>
-    </message>
-    <message>
         <source>Copy to clipboard (Ctrl+C)</source>
         <translation>複製至剪貼簿 (Ctrl+C)</translation>
     </message>
@@ -3758,6 +3770,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Share</source>
         <translation>分享</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

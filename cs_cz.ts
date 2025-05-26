@@ -271,6 +271,10 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Snip and copy the full screen</source>
         <translation type="unfinished"></translation>
     </message>
@@ -331,7 +335,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -415,10 +420,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
         <translation>Zmenšit oblast výstřihu o 1 pixel</translation>
-    </message>
-    <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Vložit snímek obrazovky přímo na obrazovku</translation>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
@@ -518,6 +519,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Period</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1574,6 +1579,16 @@ For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&a
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1962,7 +1977,7 @@ Click any of them to dismiss this notification permanently.
         <translation>Import skupiny obrázků</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2034,8 +2049,9 @@ Click any of them to dismiss this notification permanently.
         <translation>Nový název skupiny:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Jste si jisti, že chcete zavřít &quot;%1&quot;? Tuto akci nelze vzít zpět.</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Success</source>
@@ -3717,10 +3733,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation>Ukončit vytřihávání (Esc)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Připnout na obrazovku</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Uložit do souboru (Ctrl+S)</translation>
     </message>
@@ -3734,6 +3746,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

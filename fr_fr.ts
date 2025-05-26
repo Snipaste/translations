@@ -257,6 +257,10 @@ Veuillez contacter le développeur.</translation>
         <translation>Désactiver/Activer les coins sensibles</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation>Effacer l&apos;historique des captures</translation>
     </message>
@@ -334,7 +338,8 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>Êtes-vous sûr de fermer le(s) groupe(s) sélectionné(s) ? Cette action ne peut être annulée.</translation>
     </message>
 </context>
@@ -420,10 +425,6 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
         <translation>Réduire la zone de coupe de 1 pixel</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Coller capture d&apos;écran sur l&apos;écran directement</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>Copiez capture d&apos;écran et quitter snipping</translation>
     </message>
@@ -506,6 +507,10 @@ Si aucune fenêtre d&apos;image n&apos;est sous le curseur, toutes les images no
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Définir la zone de capture sur écran actif / plein écran</translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1451,6 +1456,16 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
         <translation>Taille</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation>Copier chemin vers fichier source</translation>
     </message>
@@ -1948,10 +1963,6 @@ Cliquez sur l&apos;un d&apos;entre eux pour ignorer définitivement cette notifi
         <translation>Groupe Importé</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Êtes-vous sûr de fermer &quot;%1&quot; ?Cette action ne peut être annulée.</translation>
-    </message>
-    <message>
         <source>Import image group</source>
         <translation>Importer groupe d&apos;images</translation>
     </message>
@@ -1988,7 +1999,7 @@ Cliquez sur l&apos;un d&apos;entre eux pour ignorer définitivement cette notifi
         <translation>Options de ligne de commande non valides.</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>Êtes-vous sûr d&apos;épingler toutes les images ? (Numéro %1)</translation>
     </message>
     <message>
@@ -2022,6 +2033,11 @@ Cliquez sur l&apos;un d&apos;entre eux pour ignorer définitivement cette notifi
     <message>
         <source>The group title should not be empty.</source>
         <translation>Le titre du groupe ne doit pas être vide.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Success</source>
@@ -3736,10 +3752,6 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
         <translation>Arrêter enregistrement (Esc)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Épinglant à l&apos;écran (Ctrl+T)</translation>
-    </message>
-    <message>
         <source>Undo (Ctrl+Z)</source>
         <translation>Défaire (Ctrl+Z)</translation>
     </message>
@@ -3758,6 +3770,10 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
     <message>
         <source>Share</source>
         <translation>Partager</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

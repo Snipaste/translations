@@ -257,6 +257,10 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -335,7 +339,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>Είστε βέβαιος για το κλείσιμο  των επιλεγμένων ομάδων; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.</translation>
     </message>
 </context>
@@ -421,10 +426,6 @@ If no image window is under the cursor, all unclickable images will be made clic
         <translation>Μικραίνει την περιοχή στιγμιοτύπου κατά 1 πίξελ</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Επικόλληση του στιγμιότυπου απ΄ευθείας στην οθόνη</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>Αντιγράφει το στιγμιότυπο και κλείνει τη λήψη στιγμιοτύπου</translation>
     </message>
@@ -506,6 +507,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1515,6 +1520,16 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Όλα τα αρχεία</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1956,15 +1971,11 @@ Click any of them to dismiss this notification permanently.
         <translation>Όνομα νέας ομάδας:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Είστε βέβαιος για το κλείσιμο  του «%1»; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.</translation>
-    </message>
-    <message>
         <source>Import image group</source>
         <translation>Εισαγωγή ομάδας εικόνων</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2022,6 +2033,11 @@ Click any of them to dismiss this notification permanently.
     <message>
         <source>Switch to the imported group</source>
         <translation>Μετάβαση στην εισηγμένη ομάδα</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
@@ -3753,11 +3769,11 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation>Αντιγραφή στο Πρόχειρο (Ctrl+C)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Καρφίτσωμα στην οθόνη (Ctrl+T)</translation>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Share</source>
+        <source>Pin to screen (Ctrl+T)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

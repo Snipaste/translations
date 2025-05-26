@@ -257,6 +257,10 @@ Informeer alsjeblieft de maker.</translation>
         <translation>Actie-hoeken aan/uitschakelen</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation>Knipgeschiedenis wissen</translation>
     </message>
@@ -334,7 +338,8 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>Geselecteerde groep(en) sluiten? Dit kan niet ongedaan worden.</translation>
     </message>
 </context>
@@ -420,10 +425,6 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
         <translation>Knipgebied met 1 pixel verkleinen</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Schermopname direct op het scherm plakken</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>Schermopname kopiëren en Knip stoppen</translation>
     </message>
@@ -506,6 +507,10 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Knipgebied instellen op actief scherm / volledig scherm</translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1439,6 +1444,16 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
         <translation>Herstellen</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation>Pad naar bronbestand kopiëren</translation>
     </message>
@@ -1952,7 +1967,7 @@ Klik erop om deze melding permanent af te wijzen.
         <translation>Fout in opdrachtregel.</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>Wil je alle afbeeldingen vastmaken? (Aantal: %1)</translation>
     </message>
     <message>
@@ -2044,8 +2059,9 @@ Klik erop om deze melding permanent af te wijzen.
         <translation>Nieuwe groepsnaam:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>Wil je &quot;%1&quot; sluiten? Dit kan niet ongedaan worden.</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -3741,10 +3757,6 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
         <translation>Ongedaan maken (Ctrl+Z)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Vastmaken aan scherm (Ctrl+T)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Opslaan naar bestand (Ctrl+S)</translation>
     </message>
@@ -3759,6 +3771,10 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
     <message>
         <source>Share</source>
         <translation>Delen</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

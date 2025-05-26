@@ -257,6 +257,10 @@ Por favor contacte al desarrollador.</translation>
         <translation>Deshabilitar/Habilitar esquinas activas</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear snip history</source>
         <translation>Limpiar historial de recortes</translation>
     </message>
@@ -334,7 +338,8 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>¿Estás seguro de cerrar el grupo o los grupos seleccionado(s)? Esta Acción no se puede deshacer.</translation>
     </message>
 </context>
@@ -420,10 +425,6 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
         <translation>Encoger la zona de recorte en 1 píxel</translation>
     </message>
     <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Pegar la captura de pantalla a la pantalla directamente</translation>
-    </message>
-    <message>
         <source>Copy the screenshot and quit snipping</source>
         <translation>Copiar la captura de pantalla y dejar de recortar</translation>
     </message>
@@ -506,6 +507,10 @@ Si no hay una ventana de imagen debajo del cursor, todas las imágenes no selecc
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
         <translation>Establecer el area de recorte a la pantalla activa / pantalla completa</translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1471,6 +1476,16 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
         <translation>Restaurar</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy path to the source file</source>
         <translation>Copiar la ruta al archivo fuente</translation>
     </message>
@@ -1968,7 +1983,7 @@ Dale clic a cualquiera de ellos para quitar esta notificación permanentemente.
         <translation>Importar grupo de imágenes</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation>¿Estás seguro de anclar todas las imágenes? (Número: %1)</translation>
     </message>
     <message>
@@ -2032,8 +2047,9 @@ Dale clic a cualquiera de ellos para quitar esta notificación permanentemente.
         <translation>Nuevo nombre del grupo:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>¿Estás seguro de cerrar &quot;%1&quot;? Esta acción no se puede deshacer.</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Success</source>
@@ -3741,10 +3757,6 @@ Si no está prendido, solo el tipo de anotación activo se puede seleccionar al 
         <translation>Salir de recortar (Esc)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Mantener en pantalla (Ctrl + T)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Guardar en archivo (Ctrl + S)</translation>
     </message>
@@ -3759,6 +3771,10 @@ Si no está prendido, solo el tipo de anotación activo se puede seleccionar al 
     <message>
         <source>Share</source>
         <translation>Compartir</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

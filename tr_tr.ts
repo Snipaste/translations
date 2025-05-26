@@ -273,6 +273,10 @@ Lütfen geliştiriciyle iletişime geçin.</translation>
         <translation>Etkin pencereyi Kırp</translation>
     </message>
     <message>
+        <source>Snip the active screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Snip and copy the full screen</source>
         <translation>Tam ekran kırp ve kopyala</translation>
     </message>
@@ -334,7 +338,8 @@ If no image window is under the cursor, all unclickable images will be made clic
 <context>
     <name>GroupManagerDialog</name>
     <message>
-        <source>Are you sure to close selected group(s)? This action cannot be undone.</source>
+        <source>Are you sure you want to close selected group(s)?
+This action cannot be undone.</source>
         <translation>Seçilen grupları kapatmak istediğinizden emin misiniz? Bu işlem geri alınamaz.</translation>
     </message>
 </context>
@@ -438,10 +443,6 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Shrink the snipping area by 1 pixel</source>
         <translation>Kırpma alanını 1 piksel daraltır</translation>
-    </message>
-    <message>
-        <source>Paste the screenshot to the screen directly</source>
-        <translation>Kırpmayı doğrudan ekrana yapıştır</translation>
     </message>
     <message>
         <source>Copy the screenshot and quit snipping</source>
@@ -569,6 +570,10 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin the screenshot to the screen as a floating window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1464,6 +1469,16 @@ Fare tıklaması için, kısayol tuşunu &apos;Tercihler - Kısayol Tuşları&ap
         <translation>Duraklat</translation>
     </message>
     <message>
+        <source>Are you sure you want to close all selected images?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All selected images will be destroyed permanently.
+Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restore</source>
         <translation>Geri yükle</translation>
     </message>
@@ -1971,7 +1986,7 @@ Bu bildirimi kalıcı olarak kapatmak için bunlardan herhangi birini tıklayın
         <translation>Adlandır</translation>
     </message>
     <message>
-        <source>Are you sure to pin all the images? (Number: %1)</source>
+        <source>Are you sure you want to pin all the images? (Number: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2047,8 +2062,9 @@ Bu bildirimi kalıcı olarak kapatmak için bunlardan herhangi birini tıklayın
         <translation>Yeni grup adı:</translation>
     </message>
     <message>
-        <source>Are you sure to close &quot;%1&quot;? This action cannot be undone.</source>
-        <translation>&quot;%1&quot; i kapatmak istediğinden emin misin? Bu eylem geri alınamaz.</translation>
+        <source>Are you sure you want to close the image group &quot;%1&quot;?
+This action cannot be undone.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Success</source>
@@ -3735,10 +3751,6 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation>Kırpmayı kapat (Esc)</translation>
     </message>
     <message>
-        <source>Pin to screen (Ctrl+T)</source>
-        <translation>Ekrana sabitle (Ctrl+T)</translation>
-    </message>
-    <message>
         <source>Save to file (Ctrl+S)</source>
         <translation>Kaydet (Ctrl+S)</translation>
     </message>
@@ -3753,6 +3765,10 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Share</source>
         <translation>Paylaş</translation>
+    </message>
+    <message>
+        <source>Pin to screen (Ctrl+T)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
