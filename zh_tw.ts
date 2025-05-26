@@ -258,7 +258,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation type="unfinished"></translation>
+        <translation>擷取目前螢幕</translation>
     </message>
     <message>
         <source>Clear snip history</source>
@@ -510,7 +510,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Pin the screenshot to the screen as a floating window</source>
-        <translation type="unfinished"></translation>
+        <translation>將擷圖貼到螢幕</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1446,12 +1446,12 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Are you sure you want to close all selected images?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>確定要關閉所有選取貼圖嗎？此動作將無法還原。</translation>
     </message>
     <message>
         <source>All selected images will be destroyed permanently.
 Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>所有選擇的貼圖將被永久銷毀。您確定要繼續嗎？</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2061,7 +2061,7 @@ Click any of them to dismiss this notification permanently.
     <message>
         <source>Are you sure you want to close the image group &quot;%1&quot;?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>確定要關閉貼圖組 &quot;%1&quot; 嗎？此動作將無法還原。</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -3773,7 +3773,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation type="unfinished"></translation>
+        <translation>貼到螢幕 (Ctrl+T)</translation>
     </message>
 </context>
 <context>
