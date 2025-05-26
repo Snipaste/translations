@@ -258,7 +258,7 @@ Por favor contacte al desarrollador.</translation>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar la pantalla activa</translation>
     </message>
     <message>
         <source>Clear snip history</source>
@@ -510,7 +510,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Pin the screenshot to the screen as a floating window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fijar la captura en la pantalla como ventana flotante</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1478,12 +1478,14 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     <message>
         <source>Are you sure you want to close all selected images?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Estás seguro de que quieres cerrar todas las imágenes seleccionadas?
+Esta acción no se puede deshacer.</translation>
     </message>
     <message>
         <source>All selected images will be destroyed permanently.
 Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas las imágenes seleccionadas se eliminarán permanentemente.
+¿Estás seguro de que deseas continuar?</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2049,7 +2051,8 @@ Dale clic a cualquiera de ellos para quitar esta notificación permanentemente.
     <message>
         <source>Are you sure you want to close the image group &quot;%1&quot;?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Estás seguro de que quieres cerrar el grupo de imágenes “%1”?
+Esta acción no se puede deshacer.</translation>
     </message>
     <message>
         <source>Success</source>
@@ -3774,7 +3777,7 @@ Si no está prendido, solo el tipo de anotación activo se puede seleccionar al 
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fijar a la pantalla (Ctrl+T)</translation>
     </message>
 </context>
 <context>
