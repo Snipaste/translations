@@ -340,7 +340,8 @@ Als zich geen afbeelding onder de cursor bevindt, dan worden alle niet-klikbare 
     <message>
         <source>Are you sure you want to close selected group(s)?
 This action cannot be undone.</source>
-        <translation>Geselecteerde groep(en) sluiten? Dit kan niet ongedaan worden.</translation>
+        <translation>Geselecteerde groep(en) sluiten?
+Dit kan niet ongedaan worden.</translation>
     </message>
 </context>
 <context>
