@@ -258,7 +258,7 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Užfiksuoti aktyvųjį ekraną</translation>
     </message>
     <message>
         <source>Clear snip history</source>
@@ -510,7 +510,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Pin the screenshot to the screen as a floating window</source>
-        <translation type="unfinished"></translation>
+        <translation>Prisegti ekrano kopiją/iškarpą prie ekrano kaip sklaidųjį langą</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -1478,12 +1478,14 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     <message>
         <source>Are you sure you want to close all selected images?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar Jūs esate tikra (-s), idant uždaryti visas (-us) pasirinktas/pažymėtas (-us) nuotraukas/vaizdus/iškarpas/paveikslėlius?
+Šis veiksmas negali būti anuliuotas.</translation>
     </message>
     <message>
         <source>All selected images will be destroyed permanently.
 Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Visos (-i) pasirinktos/pažymėtos (-i) nuotraukos/vaizdai/iškarpos/paveikslėliai bus sunaikintos (-i) visam laikui.
+Ar Jūs tikrai norite tęsti?</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2049,7 +2051,8 @@ Spustelėkite bet kurį iš jų, kad visam laikui atšauktumėte šį pranešim�
     <message>
         <source>Are you sure you want to close the image group &quot;%1&quot;?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar Jūs tikrai norite uždaryti nuotraukų/vaizdų/iškarpų/paveikslėlių (-os/-o) grupę – „%1“?
+Šis veiksmas negali būti anuliuotas.</translation>
     </message>
     <message>
         <source>Success</source>
@@ -3773,7 +3776,7 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prisegti prie ekrano (Vald.+T)</translation>
     </message>
 </context>
 <context>
