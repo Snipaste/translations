@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Restarting</source>
-        <translation>正在重啟</translation>
+        <translation>正在重新啟動</translation>
     </message>
     <message>
         <source>Error</source>
@@ -639,7 +639,7 @@ This action cannot be undone.</source>
         <source>Thanks for your support!
 Restart now to enjoy PRO features?</source>
         <translation>感謝你的支持！
-立即重新啟動即可享受專業版~</translation>
+立即重新啟動即可享受專業版～</translation>
     </message>
     <message>
         <source>OK</source>
@@ -957,7 +957,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation>微軟商店版</translation>
+        <translation>Microsoft Store 版</translation>
     </message>
     <message>
         <source>for Windows Desktop</source>
@@ -1070,8 +1070,8 @@ Restart now to enjoy PRO features?</source>
     <message>
         <source>Restart is required for the change to take effect.
 Restart Snipaste now?</source>
-        <translation>需要重啟 Snipaste 以使變更生效。
-現在重啟 Snipaste?</translation>
+        <translation>需要重新啟動 Snipaste 以套用變更。
+立即重新啟動 Snipaste？</translation>
     </message>
     <message>
         <source>Close image</source>
@@ -1786,7 +1786,7 @@ You may configure this behavior in the Preferences Dialog: Control - Mouse.</sou
         <source>Failed to create the schedule task.
 You may restart Snipaste with admin privileges and try again.</source>
         <translation>無法建立工作排程。
-請嘗試以管理員身份重啟 Snipaste 並重試。</translation>
+請嘗試以管理員身份重新啟動 Snipaste 並重試。</translation>
     </message>
     <message>
         <source>Failed to create a shortcut in the startup directory.</source>
@@ -1818,7 +1818,7 @@ You may restart Snipaste with admin privileges and try again.</source>
     </message>
     <message>
         <source>If Snipaste has already been checked in the Screen Recording list but it still doesn&apos;t work, you may try removing and re-granting the permission to Screen Recording, then restart Snipaste or restart your Mac.</source>
-        <translation>如果 Snipaste 已經被授予螢幕錄製權限卻依然無法擷取螢幕，可以嘗試先移除 Snipaste 的螢幕錄製權限，然後結束 Snipaste，重新勾選權限後重啟 Snipaste 或重啟系統。</translation>
+        <translation>如果 Snipaste 已經被授予螢幕錄製權限卻依然無法擷取螢幕，可以嘗試先移除 Snipaste 的螢幕錄製權限，然後結束 Snipaste，重新勾選權限後重新啟動 Snipaste 或重新啟動作業系統。</translation>
     </message>
     <message>
         <source>To enable UI element detection, Snipaste requires accessibility control.</source>
@@ -1980,7 +1980,7 @@ Click any of them to dismiss this notification permanently.
     </message>
     <message>
         <source>(Microsoft Store)</source>
-        <translation>(微軟商店版)</translation>
+        <translation>(Microsoft Store 版)</translation>
     </message>
     <message>
         <source>(Desktop)</source>
@@ -2141,7 +2141,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Error: cannot detect display device. Please restart Snipaste.</source>
-        <translation>無法取得顯示裝置資訊，請重啟 Snipaste.</translation>
+        <translation>無法取得顯示裝置資訊，請重新啟動 Snipaste。</translation>
     </message>
 </context>
 <context>
@@ -2285,7 +2285,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
-        <translation>該授權證與您的微軟帳戶相關聯。如果您的帳戶已擁有該授權證，您可以點選「購買」來恢復購買。請放心，同一帳戶不會重複扣費。</translation>
+        <translation>該授權與您的 Microsoft 帳戶相關聯。如果您的帳戶已擁有該授權，您可以點選「購買」來還原購買。請放心，同一帳戶不會重複收費。</translation>
     </message>
     <message>
         <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
@@ -2393,7 +2393,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation>微軟商店版</translation>
+        <translation>Microsoft Store 版</translation>
     </message>
     <message>
         <source>(Desktop)</source>
@@ -3347,7 +3347,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.</source>
-        <translation>需要重啟 Snipaste 以使變更生效。</translation>
+        <translation>需要重新啟動 Snipaste 以套用變更。</translation>
     </message>
     <message>
         <source>Palette</source>
@@ -3666,7 +3666,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     <message>
         <source>Restart Snipaste for the change to take effect.
 Snipaste must not be run as elevated in order to show the &quot;Share&quot; button.</source>
-        <translation>重啟 Snipaste 以生效。
+        <translation>重新啟動 Snipaste 以套用變更。
 請不要以管理員權限啟動 Snipaste，否則將無法顯示分享按鈕。</translation>
     </message>
     <message>
