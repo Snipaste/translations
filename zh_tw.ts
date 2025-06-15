@@ -1629,7 +1629,7 @@ Are you sure you want to proceed?</source>
         <source>The &apos;Double-tap X&apos; action has been cancelled.
 For mouse click-through, you can find its hotkey in &apos;Preferences - Hotkey&apos;.</source>
         <translation>雙按 X 鍵這一觸發方式已被取消。
-如需使用滑鼠穿透功能，請在&quot;偏好設定 - 快速鍵&quot;中設定其按鍵。</translation>
+如需使用滑鼠穿透功能，請在 [偏好設定] - [快速鍵] 中設定其按鍵。</translation>
     </message>
     <message>
         <source>Hide other images for now</source>
@@ -2859,11 +2859,11 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     </message>
     <message>
         <source>Let the &apos;reset&apos; operation work on thumbnail too.</source>
-        <translation>令&quot;重設&quot;操作對縮圖也起效用。</translation>
+        <translation>讓「重設」操作對縮圖也能作用。</translation>
     </message>
     <message>
         <source>Reset on thumbnail</source>
-        <translation>縮圖接受&quot;重設&quot;操作</translation>
+        <translation>啓用縮圖「重設」操作</translation>
     </message>
     <message>
         <source>Flash the image windows after you have switched to another image group.</source>
@@ -3535,7 +3535,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>You can also show/hide the captured cursor via the ` or ! key when snipping.</source>
-        <translation>也可以在擷圖時按下 `或 ! 鍵來顯示/隱藏已取得的游標。</translation>
+        <translation>也可以在擷圖時按下 [`] 或 [!] 鍵來顯示/隱藏已擷取的游標。</translation>
     </message>
     <message>
         <source>Keys</source>
@@ -3637,7 +3637,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Ignore simulated &quot;Copy&quot; commands from other programs</source>
-        <translation>略過其他程式模擬的&quot;複製&quot;命令</translation>
+        <translation>略過其他程式模擬的「複製」命令</translation>
     </message>
     <message>
         <source>Number of colors:</source>
@@ -3657,7 +3657,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Show &quot;Share&quot; button</source>
-        <translation>顯示&quot;分享&quot;按鈕</translation>
+        <translation>顯示「分享」按鈕</translation>
     </message>
     <message>
         <source>Max window size:</source>
@@ -3833,14 +3833,14 @@ Examples:
 1280 720 720p
 200 50 20 20 icon</source>
         <translation>格式
-• 大小: 寬 高
-• 區域: 左 上 寬 高
+• 大小：寬 高
+• 區域：左 上 寬 高
 
 專業版：
 • 可為預設值命名
-• 可使用 &quot;---&quot; 作為分隔字元
+• 可使用「---」作為分隔字元
 
-範例:
+範例：
 500 500
 200 200 100 100
 ---
