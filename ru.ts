@@ -27,7 +27,7 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between color values</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите %1 для переключения между значениями цвета</translation>
     </message>
     <message>
         <source>Press %1 to copy color</source>
@@ -69,7 +69,7 @@
     <name>Constants</name>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>Native</source>
