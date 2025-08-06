@@ -73,27 +73,27 @@
     </message>
     <message>
         <source>Native</source>
-        <translation type="unfinished"></translation>
+        <translation>Нативный</translation>
     </message>
     <message>
         <source>sRGB</source>
-        <translation type="unfinished"></translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <source>Adobe RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Adobe RGB</translation>
     </message>
     <message>
         <source>Generic RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Generic RGB</translation>
     </message>
     <message>
         <source>P3</source>
-        <translation type="unfinished"></translation>
+        <translation>P3</translation>
     </message>
     <message>
         <source>Color space</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветовое пространство</translation>
     </message>
 </context>
 <context>
@@ -258,7 +258,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Вырезать текущий экран</translation>
     </message>
     <message>
         <source>Clear snip history</source>
@@ -510,7 +510,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Pin the screenshot to the screen as a floating window</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрепить скришот на экране как плавающее окно</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -666,11 +666,11 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Too many requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Слишком много запросов.</translation>
     </message>
     <message>
         <source>Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, попробуйте позже.</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
@@ -714,7 +714,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>System time error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка системного времени.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
@@ -772,11 +772,11 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Send to printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить на печать</translation>
     </message>
     <message>
         <source>Copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать и закрепить</translation>
     </message>
 </context>
 <context>
@@ -1478,12 +1478,14 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Are you sure you want to close all selected images?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уверены, что хотите закрыть все выбранные изображения?
+Это действие необратимо</translation>
     </message>
     <message>
         <source>All selected images will be destroyed permanently.
 Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Все выбранные изображения будут удалены.
+Вы уверены, что хотите продолжить?</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2049,7 +2051,8 @@ Click any of them to dismiss this notification permanently.
     <message>
         <source>Are you sure you want to close the image group &quot;%1&quot;?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уверены, что хотите закрыть изображения группы &quot;%1&quot;?
+Это действие необратимо.</translation>
     </message>
     <message>
         <source>Success</source>
@@ -2119,7 +2122,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Adjust region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить размер зоны</translation>
     </message>
     <message>
         <source>Change size unit</source>
@@ -2160,7 +2163,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Restore off-screen images (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить изображения вне экрана (%1)</translation>
     </message>
     <message>
         <source>Images</source>
@@ -2259,20 +2262,21 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>IMPORTANT</source>
-        <translation type="unfinished"></translation>
+        <translation>ВАЖНО</translation>
     </message>
     <message>
         <source>The offline license will be permanently bound to this device for the duration you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автономная лицензия будет постоянно привязана к этому устройству на указанный вами срок.</translation>
     </message>
     <message>
         <source>License seat remains reserved for this duration even after deactivation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензия остается зарезервированной на этот срок даже после деактивации.</translation>
     </message>
     <message>
         <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Код устройства может измениться после переустановки ОС. Для систем, требующих частой переустановки, рассмотрите возможность использования онлайн-активации или более короткого периода офлайн-активации.
+</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -2288,7 +2292,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Получите тут - %1 или через &lt;a href=&quot;%2&quot;&gt;электронную почту&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Personal</source>
@@ -2300,19 +2304,19 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрос на офлайн-активацию Snipaste</translation>
     </message>
     <message>
         <source>Device Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Код устройства</translation>
     </message>
     <message>
         <source>Pre-filled, do not modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительно заполнено, не изменять</translation>
     </message>
     <message>
         <source>Please fill in ALL information below:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, заполните ВСЮ информацию ниже:</translation>
     </message>
     <message>
         <source>Email</source>
@@ -2320,31 +2324,31 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Enter the email address associated with your license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите адрес электронной почты, к которому привязан лицензионный ключ</translation>
     </message>
     <message>
         <source>License Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ лицензии</translation>
     </message>
     <message>
         <source>Enter the license key from your purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите лицензионный ключ, полученный при покупке</translation>
     </message>
     <message>
         <source>Activation Period (days)</source>
-        <translation type="unfinished"></translation>
+        <translation>Период активации (дни)</translation>
     </message>
     <message>
         <source>Specify duration between 10 to 366 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Укажите продолжительность от 10 до 366 дней</translation>
     </message>
     <message>
         <source>Redeem code</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать код</translation>
     </message>
     <message>
         <source>Trial</source>
-        <translation type="unfinished"></translation>
+        <translation>Пробный</translation>
     </message>
     <message>
         <source>Registered to</source>
@@ -2356,7 +2360,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>License expires on</source>
-        <translation type="unfinished"></translation>
+        <translation>Срок действия лицензии истекает</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
@@ -3714,19 +3718,19 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Color values:</source>
-        <translation type="unfinished"></translation>
+        <translation>Значения цветов:</translation>
     </message>
     <message>
         <source>Show HEX values in uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать HEX значения заглавными буквами</translation>
     </message>
     <message>
         <source>Never show auxiliary lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Никогда не показывать вспомогательные линии</translation>
     </message>
     <message>
         <source>Color space:</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветовое пространство:</translation>
     </message>
 </context>
 <context>
@@ -3772,7 +3776,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрепить на экране (Ctrl+T)</translation>
     </message>
 </context>
 <context>
@@ -3902,11 +3906,11 @@ Examples:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Активировать Snipaste 2 PRO (офлайн)</translation>
     </message>
     <message>
         <source>Device code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Код устройства:</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3914,11 +3918,11 @@ Examples:
     </message>
     <message>
         <source>Offlince license code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Код оффлайн лицензии:</translation>
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Активировать Snipaste 2 PRO (онлайн)</translation>
     </message>
 </context>
 <context>
