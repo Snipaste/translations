@@ -31,11 +31,11 @@
     </message>
     <message>
         <source>Press %1 to copy color</source>
-        <translation>Spauskite %1, kad kopijuotumėte spalvą</translation>
+        <translation>Spauskite – „%1“, kad nukopijuotumėte spalvą</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation>Spauskite %1, kad pasikeistumėte tarp „RŽM(RGB)/HEX“</translation>
+        <translation>Spauskite – „%1“, kad pasikeistumėte tarp RŽM(„RGB“)/„HEX“</translation>
     </message>
 </context>
 <context>
@@ -139,7 +139,7 @@
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation>Ar jūs turite įrašymo prieigą/teisę į „%1“?</translation>
+        <translation>Ar Jūs turite įrašymo prieigą/teisę į – „%1“?</translation>
     </message>
     <message>
         <source>Saved successfully.</source>
@@ -178,7 +178,7 @@ Tinklo klaida: %1</translation>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation>Kažkas yra netaip su atnaujinimo įvestim (%1).
+        <translation>Kažkas yra netaip su atnaujinimo įvestim („%1“).
 Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
@@ -271,8 +271,8 @@ Prašome susisiekti su kūrėju.</translation>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation>Spartusis klavišas, skirtas perjungti po žymekliu esančio paveikslėlio paspaudimo režimą. 
-Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango, visi nespaudžiami paveikslėliai taps spaudžiamais.</translation>
+        <translation>Spartusis klavišas, skirtas perjungti po žymekliu esančio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio paspaudimo veikseną. 
+Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango, visi/-os nespaudžiami/-os nuotraukos/vaizdai/iškarpos/paveikslėliai taps spaudžiamais/-os.</translation>
     </message>
     <message>
         <source>Show tray menu</source>
@@ -300,7 +300,7 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation>Eitį į baltos lentos režimą</translation>
+        <translation>Eitį į baltos lentos veikseną</translation>
     </message>
     <message>
         <source>Open Notepad</source>
@@ -308,7 +308,7 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Eitį į baltos lentos režimą (du kart spustelėkite „Esc“, kad išjungtumėte)</translation>
+        <translation>Eitį į baltos lentos veikseną (du kart spustelėkite – „Esc“, kad išeitumėte)</translation>
     </message>
     <message>
         <source>Pick color</source>
@@ -332,7 +332,7 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Eitį į skaidrios baltos lentos režimą (du kart spustelėkite „Esc“, kad išjungtumėte)</translation>
+        <translation>Eitį į skaidrios/permatomos baltos lentos veikseną (du kart spustelėkite – „Esc“, kad išeitumėte)</translation>
     </message>
 </context>
 <context>
@@ -506,7 +506,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
-        <translation>Nustatyti užfiksavimo zoną prie aktyvaus ekrano / pilno ekrano režimo</translation>
+        <translation>Nustatyti užfiksavimo zoną prie aktyvaus ekrano / visoekranio veiksenoje</translation>
     </message>
     <message>
         <source>Pin the screenshot to the screen as a floating window</source>
@@ -594,11 +594,11 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Deselect the current shape if in edit mode</source>
-        <translation>Atžymėti dabartinę formą, jeigu redagavimo režime</translation>
+        <translation>Atžymėti dabartinę formą, jeigu redagavimo veiksenoje</translation>
     </message>
     <message>
         <source>Decrease/Increase the pen width if in edit mode</source>
-        <translation>Sumažinti/Padidinti rašiklio plotį, jei redagavimo režime</translation>
+        <translation>Sumažinti/Padidinti rašiklio plotį, jei redagavimo veiksenoje</translation>
     </message>
     <message>
         <source>Replay snipping history</source>
@@ -1545,7 +1545,7 @@ Ar Jūs tikrai norite tęsti?</translation>
     </message>
     <message>
         <source>Background mode</source>
-        <translation>Fono režimas</translation>
+        <translation>Fono veiksena</translation>
     </message>
     <message>
         <source>Transparent</source>
@@ -1870,7 +1870,7 @@ Jūms galimai reikės iš naujo paleisti „Snipaste“ su administratoriaus tei
     </message>
     <message>
         <source>Snipaste has been updated to %1.</source>
-        <translation>„Snipaste“ buvo atnaujintas į %1.</translation>
+        <translation>„Snipaste“ buvo atnaujintas į – %1.</translation>
     </message>
     <message>
         <source>Click here to see the changelog</source>
@@ -2014,7 +2014,7 @@ Spustelėkite bet kurį iš jų, kad visam laikui atšauktumėte šį pranešim�
     </message>
     <message>
         <source>File %1 not found.</source>
-        <translation>Failas %1 nerastas.</translation>
+        <translation>Failas – „%1“ nerastas.</translation>
     </message>
     <message>
         <source>Error Code</source>
@@ -2292,7 +2292,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
-        <translation>Gauti jį iš – %1 arba per &lt;a href=&quot;%2&quot;&gt;el. paštą&lt;/a&gt;</translation>
+        <translation>Gauti jį iš – „%1“ arba per &lt;a href=&quot;%2&quot;&gt;el. paštą&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Personal</source>
@@ -3378,7 +3378,7 @@ Užfiksuodami pasieksite geresnį atsako laiką.</translation>
     </message>
     <message>
         <source>Default background mode:</source>
-        <translation>Numatyto fono režimas:</translation>
+        <translation>Numatyto fono veiksena:</translation>
     </message>
     <message>
         <source>Clipboard</source>
