@@ -1027,11 +1027,11 @@
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>%Ne</translation>
+        <translation>&amp;Ne</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>%Taip</translation>
+        <translation>&amp;Taip</translation>
     </message>
     <message>
         <source>Help</source>
@@ -1079,7 +1079,7 @@
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation>N%e viskam</translation>
+        <translation>N&amp;e viskam</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -1091,7 +1091,7 @@
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation>Taip %viskam</translation>
+        <translation>Taip &amp;viskam</translation>
     </message>
 </context>
 <context>
