@@ -340,7 +340,8 @@ Jei po žymekliu nėra jokio/-s nuotraukos/vaizdo/iškarpos/paveikslėlio lango,
     <message>
         <source>Are you sure you want to close selected group(s)?
 This action cannot be undone.</source>
-        <translation>Ar Jūs esate tikras, kad norite uždaryti pasirinktą/-as grupę/-es? Šis veiskmas negali būti anuliuotas.</translation>
+        <translation>Ar Jūs esate tikras/-a, kad norite uždaryti pasirinktą/-as grupę/-es?
+Šis veiksmas negali būti anuliuotas.</translation>
     </message>
 </context>
 <context>
@@ -945,7 +946,7 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>for Microsoft Store</source>
-        <translation>Skirta „Microsoft Store“</translation>
+        <translation>skirta/-s „Microsoft Store“</translation>
     </message>
     <message>
         <source>for Windows Desktop</source>
