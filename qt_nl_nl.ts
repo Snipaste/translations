@@ -609,7 +609,7 @@ Druk ESC om te annulleren</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation>Maleis</translation>
+        <translation>Malayalam</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
