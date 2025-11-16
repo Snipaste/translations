@@ -221,6 +221,10 @@ Por favor contacte al desarrollador.</translation>
         <translation>Recortar y copiar</translation>
     </message>
     <message>
+        <source>OCR and copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delayed snip</source>
         <translation>Recorte retrasado</translation>
     </message>
@@ -681,6 +685,10 @@ Restart now to enjoy PRO features?</source>
         <translation>Error interno del servidor.</translation>
     </message>
     <message>
+        <source>Network timeout.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Permission denied.</source>
         <translation>Permiso denegado.</translation>
     </message>
@@ -964,6 +972,10 @@ Restart now to enjoy PRO features?</source>
         <translation>Vista previa</translation>
     </message>
     <message>
+        <source>Not supported on this system</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>-bit</source>
         <translation>-bit</translation>
     </message>
@@ -1090,6 +1102,10 @@ Restart Snipaste now?</source>
         <translation>Destruir imagen</translation>
     </message>
     <message>
+        <source>Right-click drag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No Proxy</source>
         <translation>Sin proxy</translation>
     </message>
@@ -1192,6 +1208,110 @@ El inicio en arranque ha sido cancelado.</translation>
         <translation>Desplazamiento de la rueda</translation>
     </message>
     <message>
+        <source>Baidu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS unsupported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic detection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (United States)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portuguese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Simplified)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Traditional)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cantonese (Simplified)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cantonese (Traditional)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ukrainian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic Najdi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese + English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Danish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Romanian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hungarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hindi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accurate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic with position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accurate with position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Invalid data!</source>
         <translation>¡Datos inválidos!</translation>
     </message>
@@ -1236,6 +1356,10 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
     <message>
         <source>Select Color</source>
         <translation>Seleccionar el color</translation>
+    </message>
+    <message>
+        <source>System built-in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1413,6 +1537,10 @@ Además, no debe eliminar el archivo de configuración predeterminado después d
         <translation>Ampliar</translation>
     </message>
     <message>
+        <source>Text Recognition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear content</source>
         <translation>Limpiar contenido</translation>
     </message>
@@ -1486,6 +1614,10 @@ Esta acción no se puede deshacer.</translation>
 Are you sure you want to proceed?</source>
         <translation>Todas las imágenes seleccionadas se eliminarán permanentemente.
 ¿Estás seguro de que deseas continuar?</translation>
+    </message>
+    <message>
+        <source>Extract text and copy</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -1997,6 +2129,10 @@ Dale clic a cualquiera de ellos para quitar esta notificación permanentemente.
         <translation>Guardar imagen como</translation>
     </message>
     <message>
+        <source>Do not show this again</source>
+        <translation>No mostrar esto de nuevo</translation>
+    </message>
+    <message>
         <source>Failed to save the image!</source>
         <translation>¡No se pudo guardar la imagen!</translation>
     </message>
@@ -2129,10 +2265,12 @@ Esta acción no se puede deshacer.</translation>
         <translation>Cambiar unidad de tamaño</translation>
     </message>
     <message>
-        <source>Refresh screenshot
-(Long press to keep refreshing)</source>
-        <translation>Refrescar captura de pantalla
-(Manten presionado para seguir refrescando)</translation>
+        <source>Refresh screenshot</source>
+        <translation>Refrescar captura de pantalla</translation>
+    </message>
+    <message>
+        <source>Long press to keep refreshing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
@@ -3732,6 +3870,70 @@ Si no está prendido, solo el tipo de anotación activo se puede seleccionar al 
     <message>
         <source>Color space:</source>
         <translation>Espacio de color:</translation>
+    </message>
+    <message>
+        <source>Adjust colors for screenshots taken on HDR monitors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation on closing multiple images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation on destorying multiple images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Recognition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OCR engine:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferred language:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>API key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secret key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection thumbnail:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Executable:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play sound on completion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Requires Windows 10 version 1903 or higher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Requires macOS 12  (Monterey) or laer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Requires installation of &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>API:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -221,6 +221,10 @@ Prašome susisiekti su kūrėju.</translation>
         <translation>Užfiksuoti ir kopijuoti</translation>
     </message>
     <message>
+        <source>OCR and copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delayed snip</source>
         <translation>Atidėtas užfiksavimas</translation>
     </message>
@@ -682,6 +686,10 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
         <translation>Vidinė serverio klaida.</translation>
     </message>
     <message>
+        <source>Network timeout.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Permission denied.</source>
         <translation>Leidimas nesuteiktas.</translation>
     </message>
@@ -965,6 +973,10 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
         <translation>Peržiūrą</translation>
     </message>
     <message>
+        <source>Not supported on this system</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>-bit</source>
         <translation>-bitas/-ai/-ų</translation>
     </message>
@@ -1091,6 +1103,10 @@ Paleisti iš naujo „Snipaste“ dabar?</translation>
         <translation>Sunaikinti nuotrauką/vaizdą/iškarpą/paveikslėlį</translation>
     </message>
     <message>
+        <source>Right-click drag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No Proxy</source>
         <translation>Nėra įgaliotojo</translation>
     </message>
@@ -1193,6 +1209,110 @@ Paleidimas įkrovos metu buvo atšauktas.</translation>
         <translation>Ratuko slinkimas</translation>
     </message>
     <message>
+        <source>Baidu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS unsupported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic detection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (United States)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portuguese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Simplified)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Traditional)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cantonese (Simplified)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cantonese (Traditional)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ukrainian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic Najdi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese + English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Danish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Romanian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hungarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hindi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accurate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic with position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accurate with position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Invalid data!</source>
         <translation>Neteisingi duomenys!</translation>
     </message>
@@ -1237,6 +1357,10 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     <message>
         <source>Select Color</source>
         <translation>Pasirinkti spalva</translation>
+    </message>
+    <message>
+        <source>System built-in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1414,6 +1538,10 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
         <translation>Padidinti</translation>
     </message>
     <message>
+        <source>Text Recognition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear content</source>
         <translation>Išvalyti turinį</translation>
     </message>
@@ -1487,6 +1615,10 @@ This action cannot be undone.</source>
 Are you sure you want to proceed?</source>
         <translation>Visos (-i) pasirinktos/pažymėtos (-i) nuotraukos/vaizdai/iškarpos/paveikslėliai bus sunaikintos (-i) visam laikui.
 Ar Jūs tikrai norite tęsti?</translation>
+    </message>
+    <message>
+        <source>Extract text and copy</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -1998,6 +2130,10 @@ Spustelėkite bet kurį iš jų, kad visam laikui atšauktumėte šį pranešim�
         <translation>Išsaugoti nuotrauką/vaizdą/iškarpą/paveikslėlį kaip</translation>
     </message>
     <message>
+        <source>Do not show this again</source>
+        <translation>Neberodyti šito daugiau</translation>
+    </message>
+    <message>
         <source>Failed to save the image!</source>
         <translation>Nepavyko išsaugoti nuotraukos/vaizdo/iškarpos/paveikslėlio!</translation>
     </message>
@@ -2130,10 +2266,12 @@ This action cannot be undone.</source>
         <translation>Pakeisti dydžio vienetą</translation>
     </message>
     <message>
-        <source>Refresh screenshot
-(Long press to keep refreshing)</source>
-        <translation>Perkrauti iškarpą
-(Laikyk, kad toliau perkrautum)</translation>
+        <source>Refresh screenshot</source>
+        <translation>Atnaujinti (Perleisti) iškarpą</translation>
+    </message>
+    <message>
+        <source>Long press to keep refreshing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
@@ -3732,6 +3870,70 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     <message>
         <source>Color space:</source>
         <translation>Spalvų erdvė/visuma:</translation>
+    </message>
+    <message>
+        <source>Adjust colors for screenshots taken on HDR monitors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation on closing multiple images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask for confirmation on destorying multiple images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Recognition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OCR engine:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferred language:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>API key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secret key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection thumbnail:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Executable:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play sound on completion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Requires Windows 10 version 1903 or higher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Requires macOS 12  (Monterey) or laer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Requires installation of &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>API:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

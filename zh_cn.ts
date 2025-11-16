@@ -216,6 +216,10 @@ Please contact the developer.</source>
         <translation>截屏并自动复制</translation>
     </message>
     <message>
+        <source>OCR and copy</source>
+        <translation>识别文字并复制</translation>
+    </message>
+    <message>
         <source>Delayed snip</source>
         <translation>延时截屏</translation>
     </message>
@@ -680,6 +684,10 @@ Restart now to enjoy PRO features?</source>
         <translation>服务器内部错误。</translation>
     </message>
     <message>
+        <source>Network timeout.</source>
+        <translation>网络超时</translation>
+    </message>
+    <message>
         <source>Permission denied.</source>
         <translation>没有权限。</translation>
     </message>
@@ -951,6 +959,10 @@ Restart now to enjoy PRO features?</source>
         <translation>检查更新</translation>
     </message>
     <message>
+        <source>Not supported on this system</source>
+        <translation>当前系统不支持</translation>
+    </message>
+    <message>
         <source>for Windows XP</source>
         <translation>Windows XP 版</translation>
     </message>
@@ -1075,6 +1087,10 @@ Restart now to enjoy PRO features?</source>
         <translation>销毁贴图</translation>
     </message>
     <message>
+        <source>Right-click drag</source>
+        <translation>鼠标右键拖拽</translation>
+    </message>
+    <message>
         <source>Off</source>
         <translation>关</translation>
     </message>
@@ -1191,6 +1207,110 @@ Restart Snipaste now?</source>
         <translation>鼠标滚轮</translation>
     </message>
     <message>
+        <source>Baidu</source>
+        <translation>百度</translation>
+    </message>
+    <message>
+        <source>OS unsupported</source>
+        <translation>系统不支持</translation>
+    </message>
+    <message>
+        <source>System default</source>
+        <translation>系统默认</translation>
+    </message>
+    <message>
+        <source>Automatic detection</source>
+        <translation>自动检测</translation>
+    </message>
+    <message>
+        <source>English (United States)</source>
+        <translation>英语 (美国)</translation>
+    </message>
+    <message>
+        <source>Spanish</source>
+        <translation>西班牙语</translation>
+    </message>
+    <message>
+        <source>Portuguese</source>
+        <translation>葡萄牙语</translation>
+    </message>
+    <message>
+        <source>Chinese (Simplified)</source>
+        <translation>简体中文</translation>
+    </message>
+    <message>
+        <source>Chinese (Traditional)</source>
+        <translation>繁体中文</translation>
+    </message>
+    <message>
+        <source>Cantonese (Simplified)</source>
+        <translation>简体粤语</translation>
+    </message>
+    <message>
+        <source>Cantonese (Traditional)</source>
+        <translation>繁体粤语</translation>
+    </message>
+    <message>
+        <source>Ukrainian</source>
+        <translation>乌克兰语</translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation>泰语</translation>
+    </message>
+    <message>
+        <source>Arabic Najdi</source>
+        <translation>内志阿拉伯语</translation>
+    </message>
+    <message>
+        <source>Chinese + English</source>
+        <translation>中英文混合</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation>英语</translation>
+    </message>
+    <message>
+        <source>Danish</source>
+        <translation>丹麦语</translation>
+    </message>
+    <message>
+        <source>Malay</source>
+        <translation>马来语</translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation>印尼语</translation>
+    </message>
+    <message>
+        <source>Romanian</source>
+        <translation>罗马尼亚语</translation>
+    </message>
+    <message>
+        <source>Hungarian</source>
+        <translation>匈牙利语</translation>
+    </message>
+    <message>
+        <source>Hindi</source>
+        <translation>印地语</translation>
+    </message>
+    <message>
+        <source>Accurate</source>
+        <translation>高精度版</translation>
+    </message>
+    <message>
+        <source>Basic</source>
+        <translation>标准版</translation>
+    </message>
+    <message>
+        <source>Basic with position</source>
+        <translation>标准含位置版</translation>
+    </message>
+    <message>
+        <source>Accurate with position</source>
+        <translation>高精度含位置版</translation>
+    </message>
+    <message>
         <source>Invalid data!</source>
         <translation>无效数据！</translation>
     </message>
@@ -1235,6 +1355,10 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Select Color</source>
         <translation>选择颜色</translation>
+    </message>
+    <message>
+        <source>System built-in</source>
+        <translation>系统自带</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1412,6 +1536,10 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>放大镜</translation>
     </message>
     <message>
+        <source>Text Recognition</source>
+        <translation>文字识别</translation>
+    </message>
+    <message>
         <source>Clear content</source>
         <translation>清除区域内容</translation>
     </message>
@@ -1451,6 +1579,10 @@ This action cannot be undone.</source>
         <source>All selected images will be destroyed permanently.
 Are you sure you want to proceed?</source>
         <translation>所有选中的贴图将被永久销毁。您确定要继续吗？</translation>
+    </message>
+    <message>
+        <source>Extract text and copy</source>
+        <translation>提取文字并复制</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2001,6 +2133,10 @@ Click any of them to dismiss this notification permanently.
         <translation>图像另存为</translation>
     </message>
     <message>
+        <source>Do not show this again</source>
+        <translation>以后不再显示此消息</translation>
+    </message>
+    <message>
         <source>Failed to save the image!</source>
         <translation>图片保存失败！</translation>
     </message>
@@ -2124,10 +2260,12 @@ This action cannot be undone.</source>
         <translation>更改尺寸单位</translation>
     </message>
     <message>
-        <source>Refresh screenshot
-(Long press to keep refreshing)</source>
-        <translation>刷新截图
-(长按可持续刷新)</translation>
+        <source>Refresh screenshot</source>
+        <translation>刷新截图</translation>
+    </message>
+    <message>
+        <source>Long press to keep refreshing</source>
+        <translation>长按可持续刷新</translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
@@ -2801,7 +2939,7 @@ If disabled, it would always be shown at the center of the primary screen.</sour
     </message>
     <message>
         <source>Play</source>
-        <translation>播放</translation>
+        <translation>试听</translation>
     </message>
     <message>
         <source>Play a sound effect if a screenshot is saved to clipboard.</source>
@@ -3765,6 +3903,70 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     <message>
         <source>Color space:</source>
         <translation>色彩空间:</translation>
+    </message>
+    <message>
+        <source>Adjust colors for screenshots taken on HDR monitors</source>
+        <translation>调整 HDR 显示器上截图的颜色</translation>
+    </message>
+    <message>
+        <source>Ask for confirmation on closing multiple images</source>
+        <translation>关闭多个贴图时弹出确认对话框</translation>
+    </message>
+    <message>
+        <source>Ask for confirmation on destorying multiple images</source>
+        <translation>销毁多个贴图时弹出确认对话框</translation>
+    </message>
+    <message>
+        <source>Text Recognition</source>
+        <translation>文字识别</translation>
+    </message>
+    <message>
+        <source>OCR engine:</source>
+        <translation>OCR 引擎:</translation>
+    </message>
+    <message>
+        <source>Preferred language:</source>
+        <translation>首选语言:</translation>
+    </message>
+    <message>
+        <source>API key:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Secret key:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Selection thumbnail:</source>
+        <translation>选区缩略图:</translation>
+    </message>
+    <message>
+        <source>Executable:</source>
+        <translation>可执行文件:</translation>
+    </message>
+    <message>
+        <source>Options:</source>
+        <translation>参数:</translation>
+    </message>
+    <message>
+        <source>Play sound on completion</source>
+        <translation>完成后播放音效</translation>
+    </message>
+    <message>
+        <source>* Requires Windows 10 version 1903 or higher</source>
+        <translation>* 需要 Windows 10 版本 1903 或更高版本</translation>
+    </message>
+    <message>
+        <source>* Requires macOS 12  (Monterey) or laer</source>
+        <translation>* 需要 macOS 12 (Monterey) 或更高版本</translation>
+    </message>
+    <message>
+        <source>* Requires installation of &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</source>
+        <translation>* 需要安装 &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>API:</source>
+        <translation>接口:</translation>
     </message>
 </context>
 <context>
