@@ -222,7 +222,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>OCR and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>辨識文字並複製</translation>
     </message>
     <message>
         <source>Delayed snip</source>
@@ -686,7 +686,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Network timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>網路逾時</translation>
     </message>
     <message>
         <source>Permission denied.</source>
