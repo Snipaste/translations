@@ -222,7 +222,7 @@ Por favor, contate o desenvolvedor.</translation>
     </message>
     <message>
         <source>OCR and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR e copiar</translation>
     </message>
     <message>
         <source>Delayed snip</source>
@@ -687,7 +687,7 @@ Reiniciar agora para usufruir dos recursos PRO?</translation>
     </message>
     <message>
         <source>Network timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo de rede esgotado.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
