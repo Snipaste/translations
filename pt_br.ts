@@ -978,7 +978,7 @@ Reiniciar agora para usufruir dos recursos PRO?</translation>
     </message>
     <message>
         <source>Not supported on this system</source>
-        <translation type="unfinished"></translation>
+        <translation>Não suportado neste sistema</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -1100,7 +1100,7 @@ Reiniciar o Snipaste agora?</translation>
     </message>
     <message>
         <source>Right-click drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrastar com clique direito</translation>
     </message>
     <message>
         <source>Off</source>
@@ -1210,107 +1210,107 @@ A inicialização no boot foi cancelada.</translation>
     </message>
     <message>
         <source>Baidu</source>
-        <translation type="unfinished"></translation>
+        <translation>Baidu</translation>
     </message>
     <message>
         <source>OS unsupported</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema não suportado</translation>
     </message>
     <message>
         <source>System default</source>
-        <translation type="unfinished"></translation>
+        <translation>Padrão do sistema</translation>
     </message>
     <message>
         <source>Automatic detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Detecção automática</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inglês (Estados Unidos)</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>Espanhol</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Português</translation>
     </message>
     <message>
         <source>Chinese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinês (Simplificado)</translation>
     </message>
     <message>
         <source>Chinese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinês (Tradicional)</translation>
     </message>
     <message>
         <source>Cantonese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantonês (Simplificado)</translation>
     </message>
     <message>
         <source>Cantonese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantonês (Tradicional)</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ucraniano</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>Tailandês</translation>
     </message>
     <message>
         <source>Arabic Najdi</source>
-        <translation type="unfinished"></translation>
+        <translation>Árabe Najdi</translation>
     </message>
     <message>
         <source>Chinese + English</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinês + Inglês</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Inglês</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Dinamarquês</translation>
     </message>
     <message>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>Malaio</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonésio</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Romeno</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Húngaro</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>Accurate</source>
-        <translation type="unfinished"></translation>
+        <translation>Preciso</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Básico</translation>
     </message>
     <message>
         <source>Basic with position</source>
-        <translation type="unfinished"></translation>
+        <translation>Básico com posição</translation>
     </message>
     <message>
         <source>Accurate with position</source>
-        <translation type="unfinished"></translation>
+        <translation>Preciso com posição</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1360,7 +1360,7 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     </message>
     <message>
         <source>System built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Integrado no sistema</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1539,7 +1539,7 @@ Você deseja realmente alterar para outro arquivo de configurações?</translati
     </message>
     <message>
         <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconhecimento de texto</translation>
     </message>
     <message>
         <source>Clear content</source>
@@ -1618,7 +1618,7 @@ Deseja realmente continuar?</translation>
     </message>
     <message>
         <source>Extract text and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrair texto e copiar</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2271,7 +2271,7 @@ Esta ação não pode ser desfeita.</translation>
     </message>
     <message>
         <source>Long press to keep refreshing</source>
-        <translation type="unfinished"></translation>
+        <translation>Segure para continuar atualizando</translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
@@ -3873,67 +3873,67 @@ Se desmarcado, somente o tipo ativo de anotação pode ser selecionado ao passar
     </message>
     <message>
         <source>Adjust colors for screenshots taken on HDR monitors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar cores de capturas de tela feitas em monitores HDR</translation>
     </message>
     <message>
         <source>Ask for confirmation on closing multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>Perguntar ao fechar várias imagens</translation>
     </message>
     <message>
         <source>Ask for confirmation on destorying multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>Perguntar ao excluir várias imagens</translation>
     </message>
     <message>
         <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconhecimento de texto</translation>
     </message>
     <message>
         <source>OCR engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mecanismo OCR:</translation>
     </message>
     <message>
         <source>Preferred language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma preferido:</translation>
     </message>
     <message>
         <source>API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chave API:</translation>
     </message>
     <message>
         <source>Secret key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chave secreta:</translation>
     </message>
     <message>
         <source>Selection thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleção de miniatura:</translation>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Executável:</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções:</translation>
     </message>
     <message>
         <source>Play sound on completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Tocar som ao completar</translation>
     </message>
     <message>
         <source>* Requires Windows 10 version 1903 or higher</source>
-        <translation type="unfinished"></translation>
+        <translation>* Necessita do Windows 10, versão 1903 ou superior</translation>
     </message>
     <message>
         <source>* Requires macOS 12  (Monterey) or laer</source>
-        <translation type="unfinished"></translation>
+        <translation>* Necessita do macOS 12 (Monterey) ou superior</translation>
     </message>
     <message>
         <source>* Requires installation of &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>* Necessita da instalaçãodo &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</translation>
     </message>
     <message>
         <source>API:</source>
-        <translation type="unfinished"></translation>
+        <translation>API:</translation>
     </message>
 </context>
 <context>
