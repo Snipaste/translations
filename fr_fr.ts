@@ -222,7 +222,7 @@ Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <source>OCR and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR et copie</translation>
     </message>
     <message>
         <source>Delayed snip</source>
@@ -687,7 +687,7 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO ?</translation>
     </message>
     <message>
         <source>Network timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Délai d&apos;attente réseau dépassé.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
@@ -1116,7 +1116,7 @@ Le démarrage sur le démarrage a été annulé.</translation>
     </message>
     <message>
         <source>Not supported on this system</source>
-        <translation type="unfinished"></translation>
+        <translation>Non pris en charge par ce système</translation>
     </message>
     <message>
         <source>for Windows XP</source>
@@ -1206,111 +1206,111 @@ Redémarrer Snipaste maintenant ?</translation>
     </message>
     <message>
         <source>Right-click drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Glisser par clic droit</translation>
     </message>
     <message>
         <source>Baidu</source>
-        <translation type="unfinished"></translation>
+        <translation>Baidu</translation>
     </message>
     <message>
         <source>OS unsupported</source>
-        <translation type="unfinished"></translation>
+        <translation>OS non pris en charge</translation>
     </message>
     <message>
         <source>System default</source>
-        <translation type="unfinished"></translation>
+        <translation>Système par défaut</translation>
     </message>
     <message>
         <source>Automatic detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Détection automatique</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"></translation>
+        <translation>Anglais (États-Unis)</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>Espagnol</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugais</translation>
     </message>
     <message>
         <source>Chinese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinois (simplifié)</translation>
     </message>
     <message>
         <source>Chinese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinois (traditionnel)</translation>
     </message>
     <message>
         <source>Cantonese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantonais (simplifié)</translation>
     </message>
     <message>
         <source>Cantonese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantonais (traditionnel)</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrainien</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>Thaïlandais</translation>
     </message>
     <message>
         <source>Arabic Najdi</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabe Najdi</translation>
     </message>
     <message>
         <source>Chinese + English</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinois + Anglais</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Anglais</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Danois</translation>
     </message>
     <message>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>Malais</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonésien</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Roumain</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Hongrois</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>Accurate</source>
-        <translation type="unfinished"></translation>
+        <translation>Précis</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Basique</translation>
     </message>
     <message>
         <source>Basic with position</source>
-        <translation type="unfinished"></translation>
+        <translation>Basique avec position</translation>
     </message>
     <message>
         <source>Accurate with position</source>
-        <translation type="unfinished"></translation>
+        <translation>Précis avec position</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1360,7 +1360,7 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>System built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Système intégré</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1539,7 +1539,7 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte Reconnaissance</translation>
     </message>
     <message>
         <source>Clear content</source>
@@ -1598,7 +1598,7 @@ Are you sure you want to proceed?</source>
     </message>
     <message>
         <source>Extract text and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraire le texte et le copier</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2271,7 +2271,7 @@ Cette action est irréversible.</translation>
     </message>
     <message>
         <source>Long press to keep refreshing</source>
-        <translation type="unfinished"></translation>
+        <translation>Appuyez longuement pour actualiser contenu</translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
@@ -3873,67 +3873,67 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
     </message>
     <message>
         <source>Adjust colors for screenshots taken on HDR monitors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuster les couleurs pour captures d&apos;écran prises sur moniteurs HDR</translation>
     </message>
     <message>
         <source>Ask for confirmation on closing multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>Demander confirmation lors de la fermeture de plusieurs images</translation>
     </message>
     <message>
         <source>Ask for confirmation on destorying multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>Demander confirmation avant de détruire plusieurs images</translation>
     </message>
     <message>
         <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte Reconnaissance</translation>
     </message>
     <message>
         <source>OCR engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Moteur OCR :</translation>
     </message>
     <message>
         <source>Preferred language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Langue préférée :</translation>
     </message>
     <message>
         <source>API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clé API :</translation>
     </message>
     <message>
         <source>Secret key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clé secrète :</translation>
     </message>
     <message>
         <source>Selection thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner vignette :</translation>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécutable :</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Options :</translation>
     </message>
     <message>
         <source>Play sound on completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Émettre un son à la fin</translation>
     </message>
     <message>
         <source>* Requires Windows 10 version 1903 or higher</source>
-        <translation type="unfinished"></translation>
+        <translation>* Nécessite Windows 10 version 1903 ou plus</translation>
     </message>
     <message>
         <source>* Requires macOS 12  (Monterey) or laer</source>
-        <translation type="unfinished"></translation>
+        <translation>* Nécessite macOS 12  (Monterey) ou une version ultérieure</translation>
     </message>
     <message>
         <source>* Requires installation of &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>* Requiert l&apos;installation de &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</translation>
     </message>
     <message>
         <source>API:</source>
-        <translation type="unfinished"></translation>
+        <translation>API :</translation>
     </message>
 </context>
 <context>
