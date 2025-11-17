@@ -222,7 +222,7 @@ Prašome susisiekti su kūrėju.</translation>
     </message>
     <message>
         <source>OCR and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Atlikti optinį ženklų-rašmenų atpažinimą ir nukopijuoti jo turinį</translation>
     </message>
     <message>
         <source>Delayed snip</source>
@@ -687,7 +687,7 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Network timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasibaigė tinklo užklausos laikas.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
@@ -974,7 +974,7 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Not supported on this system</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepalaikoma/-s šioje sistemoje</translation>
     </message>
     <message>
         <source>-bit</source>
@@ -1104,7 +1104,7 @@ Paleisti iš naujo „Snipaste“ dabar?</translation>
     </message>
     <message>
         <source>Right-click drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Vilkimas spustelėjus dešinįjį pelės mygtuką</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -1210,107 +1210,107 @@ Paleidimas įkrovos metu buvo atšauktas.</translation>
     </message>
     <message>
         <source>Baidu</source>
-        <translation type="unfinished"></translation>
+        <translation>„Baidu“</translation>
     </message>
     <message>
         <source>OS unsupported</source>
-        <translation type="unfinished"></translation>
+        <translation>Operacinė sistema nepalaikoma</translation>
     </message>
     <message>
         <source>System default</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemos numatyta (-asis/-oji)</translation>
     </message>
     <message>
         <source>Automatic detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatinis aptikimas</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"></translation>
+        <translation>Anglų (JAV)</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>Ispanų</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugalų</translation>
     </message>
     <message>
         <source>Chinese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Supaprastinta kinų mandarinų</translation>
     </message>
     <message>
         <source>Chinese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tradicinė kinų mandarinų</translation>
     </message>
     <message>
         <source>Cantonese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Supaprastinta kantonų kinų</translation>
     </message>
     <message>
         <source>Cantonese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tradicinė kantonų kinų</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrainiečių</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>Tailandiečių</translation>
     </message>
     <message>
         <source>Arabic Najdi</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedždiečių arabų</translation>
     </message>
     <message>
         <source>Chinese + English</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinų mandarinų + anglų</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Anglų</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Danų</translation>
     </message>
     <message>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>Malajų</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indoneziečių</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Rumunų</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Vengrų</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>Accurate</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikslus/-i</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Paprasta/-s</translation>
     </message>
     <message>
         <source>Basic with position</source>
-        <translation type="unfinished"></translation>
+        <translation>Paprasta/-s su padėtimi</translation>
     </message>
     <message>
         <source>Accurate with position</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikslus/-i su padėtimi</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1360,7 +1360,7 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     </message>
     <message>
         <source>System built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Įtraukta/-s su sistema</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1539,7 +1539,7 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     </message>
     <message>
         <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>Teksto atpažinimas</translation>
     </message>
     <message>
         <source>Clear content</source>
@@ -1618,7 +1618,7 @@ Ar Jūs tikrai norite tęsti?</translation>
     </message>
     <message>
         <source>Extract text and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ištraukti tekstą ir nukopijuoti jį</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2271,7 +2271,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Long press to keep refreshing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilgas spustelėjimas, norint pastoviai atnaujinti/įkėlinėti</translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
@@ -3814,7 +3814,7 @@ Kad būtų rodomas mygtukas „Dalintis“, „Snipaste“ neturi būti paleista
     <message>
         <source>If checked, image windows will not be scaled when moving across screens of different DPIs.
 It&apos;s also useful for remote desktop connections to keep window arrangement.</source>
-        <translation>Jei pažymėta, nuotraukų / vaizdų / iškarpų / paveikslėlių langai nebus keičiamo mastelio, kai jie bus perkeliami į skirtingus „DPI“ ekranus. 
+        <translation>Jei pažymėta, nuotraukų/vaizdų/iškarpų/paveikslėlių langai nebus keičiamo mastelio, kai jie bus perkeliami į skirtingus „DPI“ ekranus.
 Tai taip pat naudinga nuotolinio darbalaukio jungtims, kad būtų išlaikytas langų išdėstymas.</translation>
     </message>
     <message>
@@ -3873,67 +3873,67 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     </message>
     <message>
         <source>Adjust colors for screenshots taken on HDR monitors</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreguokite spalvas iškarpomis/ekrano nuotraukomis, kurie buvo užfiksuoti ant „HDR“ ekranų</translation>
     </message>
     <message>
         <source>Ask for confirmation on closing multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>Klausti dėl patvirtinimo, uždarant daugeliui nuotraukų/vaizdų/iškarpų/paveikslėlių</translation>
     </message>
     <message>
         <source>Ask for confirmation on destorying multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>Klausti dėl patvirtinimo, sunaikinant daugelį nuotraukų/vaizdų/iškarpų/paveikslėlių</translation>
     </message>
     <message>
         <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>Teksto atpažinimas</translation>
     </message>
     <message>
         <source>OCR engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Optinio ženklų-rašmenų atpažinimo variklis:</translation>
     </message>
     <message>
         <source>Preferred language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pageidautina kalba:</translation>
     </message>
     <message>
         <source>API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>„API“ raktas:</translation>
     </message>
     <message>
         <source>Secret key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slaptasis raktas:</translation>
     </message>
     <message>
         <source>Selection thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pažymėjimo miniatiūra:</translation>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykdomasis:</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parinktys:</translation>
     </message>
     <message>
         <source>Play sound on completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Groti garsą užbaigus</translation>
     </message>
     <message>
         <source>* Requires Windows 10 version 1903 or higher</source>
-        <translation type="unfinished"></translation>
+        <translation>* Reikalauja „Windows 10“, versiją 1903 arba naujesnę</translation>
     </message>
     <message>
         <source>* Requires macOS 12  (Monterey) or laer</source>
-        <translation type="unfinished"></translation>
+        <translation>* Reikalauja „macOS 12“, („Monterey“) arba naujesnę</translation>
     </message>
     <message>
         <source>* Requires installation of &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>* Reikalauja &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;„Tesseract-OCR“&lt;/a&gt; įdiegimo</translation>
     </message>
     <message>
         <source>API:</source>
-        <translation type="unfinished"></translation>
+        <translation>„API“:</translation>
     </message>
 </context>
 <context>
