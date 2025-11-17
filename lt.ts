@@ -3880,7 +3880,7 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
         <translation>Klausti dėl patvirtinimo, uždarant daugeliui nuotraukų/vaizdų/iškarpų/paveikslėlių</translation>
     </message>
     <message>
-        <source>Ask for confirmation on destorying multiple images</source>
+        <source>Ask for confirmation on destroying multiple images</source>
         <translation>Klausti dėl patvirtinimo, sunaikinant daugelį nuotraukų/vaizdų/iškarpų/paveikslėlių</translation>
     </message>
     <message>

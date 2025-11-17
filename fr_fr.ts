@@ -3880,7 +3880,7 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
         <translation>Demander confirmation lors de la fermeture de plusieurs images</translation>
     </message>
     <message>
-        <source>Ask for confirmation on destorying multiple images</source>
+        <source>Ask for confirmation on destroying multiple images</source>
         <translation>Demander confirmation avant de détruire plusieurs images</translation>
     </message>
     <message>

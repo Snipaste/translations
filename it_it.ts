@@ -3876,7 +3876,7 @@ Se deselezionato, solo il tipo attivo di annotazioni sarà selezionabile al pass
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ask for confirmation on destorying multiple images</source>
+        <source>Ask for confirmation on destroying multiple images</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

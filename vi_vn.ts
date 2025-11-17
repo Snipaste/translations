@@ -3847,7 +3847,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ask for confirmation on destorying multiple images</source>
+        <source>Ask for confirmation on destroying multiple images</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

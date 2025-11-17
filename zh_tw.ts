@@ -3876,7 +3876,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation>關閉多個貼圖時顯示確認對話方塊</translation>
     </message>
     <message>
-        <source>Ask for confirmation on destorying multiple images</source>
+        <source>Ask for confirmation on destroying multiple images</source>
         <translation>銷毀多個貼圖時顯示確認對話方塊</translation>
     </message>
     <message>

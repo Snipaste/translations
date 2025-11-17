@@ -3880,7 +3880,7 @@ Se desmarcado, somente o tipo ativo de anotação pode ser selecionado ao passar
         <translation>Perguntar ao fechar várias imagens</translation>
     </message>
     <message>
-        <source>Ask for confirmation on destorying multiple images</source>
+        <source>Ask for confirmation on destroying multiple images</source>
         <translation>Perguntar ao excluir várias imagens</translation>
     </message>
     <message>

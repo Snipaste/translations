@@ -3872,7 +3872,7 @@ Wenn diese Option nicht aktiviert ist, kann nur die aktive Art von Anmerkungen b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ask for confirmation on destorying multiple images</source>
+        <source>Ask for confirmation on destroying multiple images</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

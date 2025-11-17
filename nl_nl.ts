@@ -3881,7 +3881,7 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
         <translation>Om bevestiging vragen bij het sluiten van meerdere afbeeldingen</translation>
     </message>
     <message>
-        <source>Ask for confirmation on destorying multiple images</source>
+        <source>Ask for confirmation on destroying multiple images</source>
         <translation>Om bevestiging vragen bij het vernietigen van meerdere afbeeldingen</translation>
     </message>
     <message>

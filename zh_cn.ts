@@ -3913,7 +3913,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation>关闭多个贴图时弹出确认对话框</translation>
     </message>
     <message>
-        <source>Ask for confirmation on destorying multiple images</source>
+        <source>Ask for confirmation on destroying multiple images</source>
         <translation>销毁多个贴图时弹出确认对话框</translation>
     </message>
     <message>

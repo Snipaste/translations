@@ -3878,7 +3878,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ask for confirmation on destorying multiple images</source>
+        <source>Ask for confirmation on destroying multiple images</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

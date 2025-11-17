@@ -3880,7 +3880,7 @@ Si no está prendido, solo el tipo de anotación activo se puede seleccionar al 
         <translation>Solicitar confirmación al cerrar varias imágenes</translation>
     </message>
     <message>
-        <source>Ask for confirmation on destorying multiple images</source>
+        <source>Ask for confirmation on destroying multiple images</source>
         <translation>Solicitar confirmación al destruir varias imágenes</translation>
     </message>
     <message>
