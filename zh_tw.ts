@@ -3873,39 +3873,39 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Ask for confirmation on closing multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>關閉多個貼圖時顯示確認對話方塊</translation>
     </message>
     <message>
         <source>Ask for confirmation on destorying multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>銷毀多個貼圖時顯示確認對話方塊</translation>
     </message>
     <message>
         <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>文字辨識</translation>
     </message>
     <message>
         <source>OCR engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR 引擎:</translation>
     </message>
     <message>
         <source>Preferred language:</source>
-        <translation type="unfinished"></translation>
+        <translation>慣用語言：</translation>
     </message>
     <message>
         <source>API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>API key:</translation>
     </message>
     <message>
         <source>Secret key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Secret key:</translation>
     </message>
     <message>
         <source>Selection thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>選區縮圖：</translation>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>可執行檔：</translation>
     </message>
     <message>
         <source>Options:</source>
