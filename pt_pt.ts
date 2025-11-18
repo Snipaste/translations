@@ -3924,7 +3924,7 @@ Se não seleccionado, apenas as anotações de tipo activo podem ser seleccionad
         <translation>* Requer o Windows 10 versão 1903 ou posterior</translation>
     </message>
     <message>
-        <source>* Requires macOS 12  (Monterey) or laer</source>
+        <source>* Requires macOS 12  (Monterey) or later</source>
         <translation>* Requer macOS 12  (Monterey) ou posterior</translation>
     </message>
     <message>

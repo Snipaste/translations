@@ -3920,7 +3920,7 @@ Se deselezionato, solo il tipo attivo di annotazioni sarà selezionabile al pass
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>* Requires macOS 12  (Monterey) or laer</source>
+        <source>* Requires macOS 12  (Monterey) or later</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

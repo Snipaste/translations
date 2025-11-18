@@ -3924,7 +3924,7 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
         <translation>* Reikalauja „Windows 10“, versiją 1903 arba naujesnę</translation>
     </message>
     <message>
-        <source>* Requires macOS 12  (Monterey) or laer</source>
+        <source>* Requires macOS 12  (Monterey) or later</source>
         <translation>* Reikalauja „macOS 12“, („Monterey“) arba naujesnę</translation>
     </message>
     <message>

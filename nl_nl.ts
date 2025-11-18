@@ -3925,7 +3925,7 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
         <translation>* Vereist Windows 10 versie 1903 of hoger</translation>
     </message>
     <message>
-        <source>* Requires macOS 12  (Monterey) or laer</source>
+        <source>* Requires macOS 12  (Monterey) or later</source>
         <translation>* Vereist macOS 12  (Monterey) of hoger</translation>
     </message>
     <message>

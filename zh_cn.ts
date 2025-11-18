@@ -3957,7 +3957,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation>* 需要 Windows 10 版本 1903 或更高版本</translation>
     </message>
     <message>
-        <source>* Requires macOS 12  (Monterey) or laer</source>
+        <source>* Requires macOS 12  (Monterey) or later</source>
         <translation>* 需要 macOS 12 (Monterey) 或更高版本</translation>
     </message>
     <message>

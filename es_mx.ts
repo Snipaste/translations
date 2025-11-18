@@ -3924,7 +3924,7 @@ Si no está prendido, solo el tipo de anotación activo se puede seleccionar al 
         <translation>* Requiere Windows 10 versión 1903 o superior</translation>
     </message>
     <message>
-        <source>* Requires macOS 12  (Monterey) or laer</source>
+        <source>* Requires macOS 12  (Monterey) or later</source>
         <translation>* Requiere macOS 12 (Monterey) o posterior</translation>
     </message>
     <message>

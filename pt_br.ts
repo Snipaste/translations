@@ -3924,7 +3924,7 @@ Se desmarcado, somente o tipo ativo de anotação pode ser selecionado ao passar
         <translation>* Necessita do Windows 10, versão 1903 ou superior</translation>
     </message>
     <message>
-        <source>* Requires macOS 12  (Monterey) or laer</source>
+        <source>* Requires macOS 12  (Monterey) or later</source>
         <translation>* Necessita do macOS 12 (Monterey) ou superior</translation>
     </message>
     <message>

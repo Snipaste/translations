@@ -3923,7 +3923,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>* Requires macOS 12  (Monterey) or laer</source>
+        <source>* Requires macOS 12  (Monterey) or later</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

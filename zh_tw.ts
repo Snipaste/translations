@@ -2410,7 +2410,7 @@ This action cannot be undone.</source>
     <message>
         <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation>重灌作業系統後，裝置代碼可能會變更。如果該裝置需要經常重灌系統，建議使用線上啟用方式，或設定較短的離線啟用期限。
+        <translation>重灌作業系統後，設備代碼可能會變更。如果該設備需要經常重灌系統，建議使用線上啟用方式，或使用較短的離線啟用期限。
 </translation>
     </message>
     <message>
@@ -3865,7 +3865,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Color space:</source>
-        <translation>色彩空間：</translation>
+        <translation>色彩空間:</translation>
     </message>
     <message>
         <source>Adjust colors for screenshots taken on HDR monitors</source>
@@ -3885,7 +3885,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>OCR engine:</source>
-        <translation>OCR 引擎：</translation>
+        <translation>OCR 引擎:</translation>
     </message>
     <message>
         <source>Preferred language:</source>
@@ -3909,27 +3909,27 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Options:</source>
-        <translation>選項：</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Play sound on completion</source>
-        <translation>完成後播放音效</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* Requires Windows 10 version 1903 or higher</source>
-        <translation>* 需要 Windows 10 版本 1903 或更高版本</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>* Requires macOS 12  (Monterey) or laer</source>
-        <translation>* 需要 macOS 12 (Monterey) 或更高版本</translation>
+        <source>* Requires macOS 12  (Monterey) or later</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* Requires installation of &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</source>
-        <translation>* 需要安裝 &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>API:</source>
-        <translation>API:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4109,7 +4109,7 @@ Examples:
     </message>
     <message>
         <source>Device code:</source>
-        <translation>裝置代碼：</translation>
+        <translation>設備代碼:</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -4117,7 +4117,7 @@ Examples:
     </message>
     <message>
         <source>Offlince license code:</source>
-        <translation>離線授權碼：</translation>
+        <translation>離線授權碼:</translation>
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Online)</source>
