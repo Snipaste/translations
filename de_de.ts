@@ -69,31 +69,31 @@
     <name>Constants</name>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannt</translation>
     </message>
     <message>
         <source>Native</source>
-        <translation type="unfinished"></translation>
+        <translation>Nativ</translation>
     </message>
     <message>
         <source>sRGB</source>
-        <translation type="unfinished"></translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <source>Adobe RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Adobe RGB</translation>
     </message>
     <message>
         <source>Generic RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Generisches RGB</translation>
     </message>
     <message>
         <source>P3</source>
-        <translation type="unfinished"></translation>
+        <translation>P3</translation>
     </message>
     <message>
         <source>Color space</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbraum</translation>
     </message>
 </context>
 <context>
@@ -220,7 +220,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>OCR and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR und kopieren</translation>
     </message>
     <message>
         <source>Delayed snip</source>
@@ -260,7 +260,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiven Bildschirm aufnehmen</translation>
     </message>
     <message>
         <source>Clear snip history</source>
@@ -512,7 +512,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Pin the screenshot to the screen as a floating window</source>
-        <translation type="unfinished"></translation>
+        <translation>Den Screenshot als schwebendes Fenster am Bildschirm anheften</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -660,43 +660,43 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannter Fehler.</translation>
     </message>
     <message>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>Netzwerkfehler</translation>
     </message>
     <message>
         <source>Too many requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu viele Anfragen.</translation>
     </message>
     <message>
         <source>Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte versuchen Sie es später erneut.</translation>
     </message>
     <message>
         <source>Unable to connect to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbindung zum Server nicht möglich.</translation>
     </message>
     <message>
         <source>Server internal error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Interner Serverfehler.</translation>
     </message>
     <message>
         <source>Network timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Netzwerk-Zeitüberschreitung.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zugriff verweigert.</translation>
     </message>
     <message>
         <source>The license key has already been associated with a different email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Lizenzschlüssel wurde bereits mit einer anderen E-Mail-Adresse verknüpft.</translation>
     </message>
     <message>
         <source>Please check your input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte überprüfen Sie Ihre Eingabe.</translation>
     </message>
     <message>
         <source>Invalid license key.</source>
@@ -704,51 +704,51 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>Invalid arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Argumente.</translation>
     </message>
     <message>
         <source>The license key has been revoked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Lizenzschlüssel wurde widerrufen.</translation>
     </message>
     <message>
         <source>The license has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Lizenz ist abgelaufen.</translation>
     </message>
     <message>
         <source>Invalid credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Anmeldedaten.</translation>
     </message>
     <message>
         <source>System time error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemzeitfehler.</translation>
     </message>
     <message>
         <source>Invalid email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige E-Mail-Adresse.</translation>
     </message>
     <message>
         <source>The license has reached its device limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Lizenz hat ihre Gerätebegrenzung erreicht.</translation>
     </message>
     <message>
         <source>The activation on this device has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Aktivierung auf diesem Gerät ist abgelaufen.</translation>
     </message>
     <message>
         <source>Please check your network connection and &lt;a href=&quot;%1&quot;&gt;refresh&lt;/a&gt; to try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte überprüfen Sie Ihre Netzwerkverbindung und &lt;a href=&quot;%1&quot;&gt;aktualisieren&lt;/a&gt; Sie die Seite, um es erneut zu versuchen.</translation>
     </message>
     <message>
         <source>Deactivation request denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivierungsanfrage abgelehnt.</translation>
     </message>
     <message>
         <source>Please try again after %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte versuchen Sie es nach %1 erneut.</translation>
     </message>
     <message>
         <source>You&apos;ve exceeded the allowed frequency for deactivations. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben die zulässige Häufigkeit für Deaktivierungen überschritten. Bitte versuchen Sie es später erneut.</translation>
     </message>
 </context>
 <context>
@@ -778,11 +778,11 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>Send to printer</source>
-        <translation type="unfinished"></translation>
+        <translation>An Drucker senden</translation>
     </message>
     <message>
         <source>Copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieren und anheften</translation>
     </message>
 </context>
 <context>
@@ -959,7 +959,7 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>Not supported on this system</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf diesem System nicht unterstützt</translation>
     </message>
     <message>
         <source>for Windows XP</source>
@@ -987,7 +987,7 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Registriert bei</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -1011,15 +1011,15 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>Related Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwandte Links</translation>
     </message>
     <message>
         <source>EULA</source>
-        <translation type="unfinished"></translation>
+        <translation>EULA</translation>
     </message>
     <message>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenschutzerklärung</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -1093,7 +1093,7 @@ Snipaste jetzt neu starten?</translation>
     </message>
     <message>
         <source>Right-click drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsklick und ziehen</translation>
     </message>
     <message>
         <source>Off</source>
@@ -1207,107 +1207,107 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     </message>
     <message>
         <source>Baidu</source>
-        <translation type="unfinished"></translation>
+        <translation>Baidu</translation>
     </message>
     <message>
         <source>OS unsupported</source>
-        <translation type="unfinished"></translation>
+        <translation>Betriebssystem wird nicht unterstützt</translation>
     </message>
     <message>
         <source>System default</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemstandard</translation>
     </message>
     <message>
         <source>Automatic detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatische Erkennung</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"></translation>
+        <translation>Englisch (Vereinigte Staaten)</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>Spanisch</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugiesisch</translation>
     </message>
     <message>
         <source>Chinese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinesisch (vereinfacht)</translation>
     </message>
     <message>
         <source>Chinese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinesisch (traditionell)</translation>
     </message>
     <message>
         <source>Cantonese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantonesisch (vereinfacht)</translation>
     </message>
     <message>
         <source>Cantonese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantonesisch (traditionell)</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrainisch</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>Thailändisch</translation>
     </message>
     <message>
         <source>Arabic Najdi</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabisch Najdi</translation>
     </message>
     <message>
         <source>Chinese + English</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinesisch + Englisch</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Englisch</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Dänisch</translation>
     </message>
     <message>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>Malaiisch</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonesisch</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Rumänisch</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungarisch</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>Accurate</source>
-        <translation type="unfinished"></translation>
+        <translation>Genau</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundlegend</translation>
     </message>
     <message>
         <source>Basic with position</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard mit Position</translation>
     </message>
     <message>
         <source>Accurate with position</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkurat  mit Position</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1357,7 +1357,7 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>System built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>System integriert</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1537,7 +1537,7 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>Texterkennung</translation>
     </message>
     <message>
         <source>Clear content</source>
@@ -1573,16 +1573,18 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     <message>
         <source>Are you sure you want to close all selected images?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie wirklich alle ausgewählten Bilder schließen?
+Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>All selected images will be destroyed permanently.
 Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle ausgewählten Bilder werden dauerhaft gelöscht.
+Möchten Sie wirklich fortfahren?</translation>
     </message>
     <message>
         <source>Extract text and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Text extrahieren und kopieren</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2107,7 +2109,7 @@ Klicken Sie auf einen dieser Punkte, um diese Benachrichtigung dauerhaft zu deak
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Kostenlos</translation>
     </message>
     <message>
         <source>(Microsoft Store)</source>
@@ -2196,7 +2198,8 @@ Klicken Sie auf einen dieser Punkte, um diese Benachrichtigung dauerhaft zu deak
     <message>
         <source>Are you sure you want to close the image group &quot;%1&quot;?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie die Bildgruppe „%1“ wirklich schließen?
+Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Snipaste %1 is released!</source>
@@ -2254,7 +2257,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Adjust region size</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe der Region anpassen</translation>
     </message>
     <message>
         <source>Change size unit</source>
@@ -2266,7 +2269,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Long press to keep refreshing</source>
-        <translation type="unfinished"></translation>
+        <translation>Langes Drücken zum Aktualisieren</translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
@@ -2297,7 +2300,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Restore off-screen images (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder außerhalb des Bildschirms wiederherstellen (%1)</translation>
     </message>
     <message>
         <source>Images</source>
@@ -2396,20 +2399,21 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>IMPORTANT</source>
-        <translation type="unfinished"></translation>
+        <translation>WICHTIG</translation>
     </message>
     <message>
         <source>The offline license will be permanently bound to this device for the duration you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Offline-Lizenz wird für den von Ihnen angegebenen Zeitraum dauerhaft an dieses Gerät gebunden.</translation>
     </message>
     <message>
         <source>License seat remains reserved for this duration even after deactivation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Lizenzplatz bleibt auch nach der Deaktivierung für diesen Zeitraum reserviert.</translation>
     </message>
     <message>
         <source>The device code can change after OS reinstalls. For systems requiring frequent reinstallation, please consider using online activation instead, or use a shorter offline activation period.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Der Gerätecode kann sich nach einer Neuinstallation des Betriebssystems ändern. Bei Systemen, die häufig neu installiert werden müssen, sollten Sie stattdessen eine Online-Aktivierung in Betracht ziehen oder eine kürzere Offline-Aktivierungsfrist verwenden.
+</translation>
     </message>
     <message>
         <source>%1 is only free for PERSONAL USE. If you want to use it in the workplace, a PRO license is required.</source>
@@ -2417,7 +2421,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>The license can activate up to 3 devices (Windows/Mac/Linux).</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Lizenz kann auf bis zu 3 Geräten (Windows/Mac/Linux) aktiviert werden.</translation>
     </message>
     <message>
         <source>The license is linked to your Microsoft account. If you already own the license with your account, you can click &apos;Purchase&apos; to restore your purchase without being charged again.</source>
@@ -2425,91 +2429,91 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Get it from %1 or via &lt;a href=&quot;%2&quot;&gt;email&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Erhalten Sie es von %1 oder per &lt;a href=&quot;%2&quot;&gt;E-Mail&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>Persönlich</translation>
     </message>
     <message>
         <source>Business</source>
-        <translation type="unfinished"></translation>
+        <translation>Geschäftlich</translation>
     </message>
     <message>
         <source>Snipaste offline activation request</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste Offline-Aktivierungsanfrage</translation>
     </message>
     <message>
         <source>Device Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerätecode</translation>
     </message>
     <message>
         <source>Pre-filled, do not modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorgefüllt, nicht ändern</translation>
     </message>
     <message>
         <source>Please fill in ALL information below:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte füllen Sie ALLE folgenden Angaben aus:</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail</translation>
     </message>
     <message>
         <source>Enter the email address associated with your license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie die mit Ihrem Lizenzschlüssel verknüpfte E-Mail-Adresse ein</translation>
     </message>
     <message>
         <source>License Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenzschlüssel</translation>
     </message>
     <message>
         <source>Enter the license key from your purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie den Lizenzschlüssel aus Ihrem Kauf ein</translation>
     </message>
     <message>
         <source>Activation Period (days)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivierungszeitraum (Tage)</translation>
     </message>
     <message>
         <source>Specify duration between 10 to 366 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie eine Dauer zwischen 10 und 366 Tagen an</translation>
     </message>
     <message>
         <source>Redeem code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code einlösen</translation>
     </message>
     <message>
         <source>Trial</source>
-        <translation type="unfinished"></translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Registered to</source>
-        <translation type="unfinished"></translation>
+        <translation>Registriert bei</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Geräte</translation>
     </message>
     <message>
         <source>License expires on</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Lizenz läuft ab am</translation>
     </message>
     <message>
         <source>Restart now to enjoy PRO features?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jetzt neu starten, um die PRO-Funktionen zu nutzen?</translation>
     </message>
     <message>
         <source>Activating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviere ...</translation>
     </message>
     <message>
         <source>Deactivating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiviere ...</translation>
     </message>
     <message>
         <source>Refreshing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisiere ...</translation>
     </message>
     <message>
         <source>Please visit &lt;a href=&quot;%1&quot;&gt;the website&lt;/a&gt; for more information.</source>
@@ -3845,86 +3849,86 @@ Wenn diese Option nicht aktiviert ist, kann nur die aktive Art von Anmerkungen b
     </message>
     <message>
         <source>Activation Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivierungsinformationen</translation>
     </message>
     <message>
         <source>Color values:</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbwerte:</translation>
     </message>
     <message>
         <source>Show HEX values in uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>HEX-Werte in Großbuchstaben anzeigen</translation>
     </message>
     <message>
         <source>Never show auxiliary lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Hilfslinien nie anzeigen</translation>
     </message>
     <message>
         <source>Color space:</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbraum:</translation>
     </message>
     <message>
         <source>Adjust colors for screenshots taken on HDR monitors</source>
-        <translation type="unfinished"></translation>
+        <translation>Farben für Screenshots anpassen, die auf HDR-Monitoren aufgenommen wurden</translation>
     </message>
     <message>
         <source>Ask for confirmation on closing multiple images</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ask for confirmation on destroying multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestätigung beim Schließen mehrerer Bilder anfordern</translation>
     </message>
     <message>
         <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>Texterkennung</translation>
     </message>
     <message>
         <source>OCR engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR-Engine:</translation>
     </message>
     <message>
         <source>Preferred language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevorzugte Sprache:</translation>
     </message>
     <message>
         <source>API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>API-Schlüssel:</translation>
     </message>
     <message>
         <source>Secret key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Geheimer Schlüssel:</translation>
     </message>
     <message>
         <source>Selection thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahl-Miniaturansicht:</translation>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausführbare Datei:</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen:</translation>
     </message>
     <message>
         <source>Play sound on completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Ton bei Fertigstellung abspielen</translation>
     </message>
     <message>
         <source>* Requires Windows 10 version 1903 or higher</source>
-        <translation type="unfinished"></translation>
+        <translation>* Erfordert Windows 10 Version 1903 oder höher</translation>
     </message>
     <message>
-        <source>* Requires macOS 12  (Monterey) or laer</source>
-        <translation type="unfinished"></translation>
+        <source>* Requires macOS 12  (Monterey) or later</source>
+        <translation>* Erfordert macOS 12  (Monterey) oder höher</translation>
     </message>
     <message>
         <source>* Requires installation of &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>* Erfordert die Installation von &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</translation>
     </message>
     <message>
         <source>API:</source>
+        <translation>API:</translation>
+    </message>
+    <message>
+        <source>Ask for confirmation on destroying multiple images</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3971,7 +3975,7 @@ Wenn diese Option nicht aktiviert ist, kann nur die aktive Art von Anmerkungen b
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation type="unfinished"></translation>
+        <translation>An Bildschirm anheften (Strg+T)</translation>
     </message>
 </context>
 <context>
@@ -4074,7 +4078,7 @@ Beispiele:
     </message>
     <message>
         <source>Enter license</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenz eingeben</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4082,11 +4086,11 @@ Beispiele:
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail</translation>
     </message>
     <message>
         <source>Offline activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Offline-Aktivierung</translation>
     </message>
     <message>
         <source>Back</source>
@@ -4098,11 +4102,11 @@ Beispiele:
     </message>
     <message>
         <source>Snipaste 2 PRO Activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO aktiviert</translation>
     </message>
     <message>
         <source>Deactivate</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivieren</translation>
     </message>
     <message>
         <source>OK</source>
@@ -4114,11 +4118,11 @@ Beispiele:
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO (Offline) aktivieren</translation>
     </message>
     <message>
         <source>Device code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerätecode:</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -4126,11 +4130,11 @@ Beispiele:
     </message>
     <message>
         <source>Offlince license code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Offline-Lizenzcode:</translation>
     </message>
     <message>
         <source>Activate Snipaste 2 PRO (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Snipaste 2 PRO (Online) aktivieren</translation>
     </message>
 </context>
 <context>
