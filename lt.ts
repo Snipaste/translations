@@ -4120,7 +4120,7 @@ Pvz:
         <translation>Kopijuoti</translation>
     </message>
     <message>
-        <source>Offlince license code:</source>
+        <source>Offline license code:</source>
         <translation>Licencijos kodas neprisijungus:</translation>
     </message>
     <message>

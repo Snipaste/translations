@@ -4120,7 +4120,7 @@ Exemples :
         <translation>Copier</translation>
     </message>
     <message>
-        <source>Offlince license code:</source>
+        <source>Offline license code:</source>
         <translation>Code de licence hors ligne :</translation>
     </message>
     <message>

@@ -4153,7 +4153,7 @@ Examples:
         <translation>复制</translation>
     </message>
     <message>
-        <source>Offlince license code:</source>
+        <source>Offline license code:</source>
         <translation>离线激活码:</translation>
     </message>
     <message>

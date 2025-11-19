@@ -4119,7 +4119,7 @@ Examples:
         <translation>Копировать</translation>
     </message>
     <message>
-        <source>Offlince license code:</source>
+        <source>Offline license code:</source>
         <translation>Код оффлайн лицензии:</translation>
     </message>
     <message>

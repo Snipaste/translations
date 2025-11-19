@@ -4121,7 +4121,7 @@ Voorbeelden:
         <translation>Kopiëren</translation>
     </message>
     <message>
-        <source>Offlince license code:</source>
+        <source>Offline license code:</source>
         <translation>Officiële licentiecode:</translation>
     </message>
     <message>

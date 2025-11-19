@@ -4115,7 +4115,7 @@ Examples:
         <translation>Копирати</translation>
     </message>
     <message>
-        <source>Offlince license code:</source>
+        <source>Offline license code:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

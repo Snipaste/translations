@@ -4105,7 +4105,7 @@ ex) 500 500
         <translation>복사</translation>
     </message>
     <message>
-        <source>Offlince license code:</source>
+        <source>Offline license code:</source>
         <translation>오프라인 라이센스 코드:</translation>
     </message>
     <message>

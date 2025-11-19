@@ -4116,7 +4116,7 @@ Examples:
         <translation>複製</translation>
     </message>
     <message>
-        <source>Offlince license code:</source>
+        <source>Offline license code:</source>
         <translation>離線授權碼:</translation>
     </message>
     <message>
