@@ -686,7 +686,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Network timeout.</source>
-        <translation>網路逾時</translation>
+        <translation>網路逾時。</translation>
     </message>
     <message>
         <source>Permission denied.</source>
@@ -788,27 +788,27 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>擷取文字</translation>
     </message>
     <message>
         <source>Switch to tool</source>
-        <translation type="unfinished"></translation>
+        <translation>切換至工具</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>矩形</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>橢圓</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>直線</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>箭頭</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -820,11 +820,11 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Mosaic</source>
-        <translation type="unfinished"></translation>
+        <translation>馬賽克</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>模糊</translation>
     </message>
     <message>
         <source>Text</source>
@@ -832,7 +832,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>數字序號</translation>
     </message>
     <message>
         <source>Magnify</source>
@@ -844,7 +844,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>No operation</source>
-        <translation type="unfinished"></translation>
+        <translation>無操作</translation>
     </message>
 </context>
 <context>
@@ -1237,15 +1237,15 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Get API key</source>
-        <translation type="unfinished"></translation>
+        <translation>取得 API Key</translation>
     </message>
     <message>
         <source>Baidu OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>百度 OCR</translation>
     </message>
     <message>
         <source>Tencent OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>騰訊 OCR</translation>
     </message>
     <message>
         <source>Mouse drag</source>
@@ -1285,7 +1285,7 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Tencent</source>
-        <translation type="unfinished"></translation>
+        <translation>騰訊</translation>
     </message>
     <message>
         <source>OS unsupported</source>
@@ -1389,35 +1389,35 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Chinese (Rare)</source>
-        <translation type="unfinished"></translation>
+        <translation>中文（生僻字）</translation>
     </message>
     <message>
         <source>Mixed languages</source>
-        <translation type="unfinished"></translation>
+        <translation>混合語言</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>芬蘭語</translation>
     </message>
     <message>
         <source>Norsk</source>
-        <translation type="unfinished"></translation>
+        <translation>挪威語</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>克羅埃西亞語</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>斯洛維尼亞語</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>保加利亞語</translation>
     </message>
     <message>
         <source>Engine %1</source>
-        <translation type="unfinished"></translation>
+        <translation>引擎 %1</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1566,11 +1566,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Line/Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>4直線/箭頭</translation>
     </message>
     <message>
         <source>Text Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>文字辨識</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4017,39 +4017,39 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>選項：</translation>
     </message>
     <message>
         <source>Play sound on completion</source>
-        <translation type="unfinished"></translation>
+        <translation>完成後播放音效</translation>
     </message>
     <message>
         <source>* Requires Windows 10 version 1903 or higher</source>
-        <translation type="unfinished"></translation>
+        <translation>* 需要 Windows 10 版本 1903 或更高版本</translation>
     </message>
     <message>
         <source>* Requires macOS 12  (Monterey) or later</source>
-        <translation type="unfinished"></translation>
+        <translation>* 需要 macOS 12 (Monterey) 或更高版本</translation>
     </message>
     <message>
         <source>* Requires installation of &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>* 需要安裝 &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</translation>
     </message>
     <message>
         <source>API:</source>
-        <translation type="unfinished"></translation>
+        <translation>API:</translation>
     </message>
     <message>
         <source>Secret id:</source>
-        <translation type="unfinished"></translation>
+        <translation>Secret id:</translation>
     </message>
     <message>
         <source>Engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>引擎：</translation>
     </message>
     <message>
         <source>In-App Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>應用程式內快速鍵</translation>
     </message>
 </context>
 <context>
@@ -4268,7 +4268,7 @@ Examples:
     </message>
     <message>
         <source>Loading release notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在載入更新記錄...</translation>
     </message>
 </context>
 <context>
