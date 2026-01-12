@@ -789,27 +789,27 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO ?</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraire le texte</translation>
     </message>
     <message>
         <source>Switch to tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Passer à l&apos;outil</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rectangle</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Ellipse</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flèche</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -821,11 +821,11 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO ?</translation>
     </message>
     <message>
         <source>Mosaic</source>
-        <translation type="unfinished"></translation>
+        <translation>Mosaïque</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Flou</translation>
     </message>
     <message>
         <source>Text</source>
@@ -841,11 +841,11 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO ?</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>Gomme</translation>
     </message>
     <message>
         <source>No operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune opération</translation>
     </message>
 </context>
 <context>
@@ -1180,15 +1180,15 @@ Le démarrage sur le démarrage a été annulé.</translation>
     </message>
     <message>
         <source>Get API key</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenir la clé API</translation>
     </message>
     <message>
         <source>Baidu OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Baidu OCR</translation>
     </message>
     <message>
         <source>Tencent OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Tencent OCR</translation>
     </message>
     <message>
         <source>for Windows XP</source>
@@ -1286,7 +1286,7 @@ Redémarrer Snipaste maintenant ?</translation>
     </message>
     <message>
         <source>Tencent</source>
-        <translation type="unfinished"></translation>
+        <translation>Tencent</translation>
     </message>
     <message>
         <source>OS unsupported</source>
@@ -1390,35 +1390,35 @@ Redémarrer Snipaste maintenant ?</translation>
     </message>
     <message>
         <source>Chinese (Rare)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinois (Rare)</translation>
     </message>
     <message>
         <source>Mixed languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Langues mixtes</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>Finlandais</translation>
     </message>
     <message>
         <source>Norsk</source>
-        <translation type="unfinished"></translation>
+        <translation>Norvégien</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Croate</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Slovène</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgare</translation>
     </message>
     <message>
         <source>Engine %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Moteur %1</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1567,11 +1567,11 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     </message>
     <message>
         <source>Line/Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne/Flèche</translation>
     </message>
     <message>
         <source>Text Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraction de texte</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4045,15 +4045,15 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
     </message>
     <message>
         <source>Secret id:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID secret :</translation>
     </message>
     <message>
         <source>Engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Moteur :</translation>
     </message>
     <message>
         <source>In-App Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Raccourcis Dans L&apos;App</translation>
     </message>
 </context>
 <context>
@@ -4272,7 +4272,7 @@ Exemples :
     </message>
     <message>
         <source>Loading release notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement des notes de version...</translation>
     </message>
 </context>
 <context>
