@@ -789,7 +789,7 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>Ištraukti tekstą</translation>
     </message>
     <message>
         <source>Switch to tool</source>
@@ -1238,7 +1238,7 @@ Paleidimas įkrovos metu buvo atšauktas.</translation>
     </message>
     <message>
         <source>Get API key</source>
-        <translation type="unfinished"></translation>
+        <translation>Gauti „API“ raktą</translation>
     </message>
     <message>
         <source>Baidu OCR</source>
@@ -1286,7 +1286,7 @@ Paleidimas įkrovos metu buvo atšauktas.</translation>
     </message>
     <message>
         <source>Tencent</source>
-        <translation type="unfinished"></translation>
+        <translation>„Tencent“</translation>
     </message>
     <message>
         <source>OS unsupported</source>
@@ -1394,31 +1394,31 @@ Paleidimas įkrovos metu buvo atšauktas.</translation>
     </message>
     <message>
         <source>Mixed languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Mišrių (-os) kalbų (-os)</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>Suomių</translation>
     </message>
     <message>
         <source>Norsk</source>
-        <translation type="unfinished"></translation>
+        <translation>Norvegų</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroatų</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Slovėnų</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgarų</translation>
     </message>
     <message>
         <source>Engine %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Variklis – „%1“</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -4045,11 +4045,11 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     </message>
     <message>
         <source>Secret id:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slaptasis ID:</translation>
     </message>
     <message>
         <source>Engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Variklis:</translation>
     </message>
     <message>
         <source>In-App Shortcuts</source>
