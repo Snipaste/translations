@@ -787,6 +787,66 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
         <source>Copy and pin</source>
         <translation>Copiar e fixar</translation>
     </message>
+    <message>
+        <source>Extract text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Lápis</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Marcador</translation>
+    </message>
+    <message>
+        <source>Mosaic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blur</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Texto</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>Número</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation>Ampliar</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>Borracha</translation>
+    </message>
+    <message>
+        <source>No operation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MouseActionEdit</name>
@@ -1177,6 +1237,18 @@ O arranque com o sistema foi cancelado.</translation>
         <translation>Sérvio</translation>
     </message>
     <message>
+        <source>Get API key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Baidu OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mouse drag</source>
         <translation>Arrastar com o rato</translation>
     </message>
@@ -1211,6 +1283,10 @@ O arranque com o sistema foi cancelado.</translation>
     <message>
         <source>Baidu</source>
         <translation>Baidu</translation>
+    </message>
+    <message>
+        <source>Tencent</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OS unsupported</source>
@@ -1311,6 +1387,38 @@ O arranque com o sistema foi cancelado.</translation>
     <message>
         <source>Accurate with position</source>
         <translation>Preciso com posição</translation>
+    </message>
+    <message>
+        <source>Chinese (Rare)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixed languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Norsk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Croatian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slovenian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1458,6 +1566,14 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
         <translation>Arraste para desenhar uma linha ou clique para desenhar riscas.</translation>
     </message>
     <message>
+        <source>Line/Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Extraction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>Negrito</translation>
     </message>
@@ -1514,10 +1630,6 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
         <translation>Rectângulo/Elipse</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>Linha</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Lápis</translation>
     </message>
@@ -1536,10 +1648,6 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     <message>
         <source>Magnify</source>
         <translation>Ampliar</translation>
-    </message>
-    <message>
-        <source>Text Recognition</source>
-        <translation>Reconhecimento de texto</translation>
     </message>
     <message>
         <source>Clear content</source>
@@ -3935,6 +4043,18 @@ Se não seleccionado, apenas as anotações de tipo activo podem ser seleccionad
         <source>API:</source>
         <translation>API:</translation>
     </message>
+    <message>
+        <source>Secret id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In-App Shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -4149,6 +4269,10 @@ Examplos:
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Loading release notes...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

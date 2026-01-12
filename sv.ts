@@ -784,6 +784,66 @@ Restart now to enjoy PRO features?</source>
         <source>Copy and pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Extract text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Penna</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Markeringspenna</translation>
+    </message>
+    <message>
+        <source>Mosaic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blur</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Text</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>Radera</translation>
+    </message>
+    <message>
+        <source>No operation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MouseActionEdit</name>
@@ -1116,6 +1176,18 @@ Autostart vid systemstart har avbrutits.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Get API key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Baidu OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>for Windows XP</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1206,6 +1278,10 @@ Restart Snipaste now?</source>
     </message>
     <message>
         <source>Baidu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1306,6 +1382,38 @@ Restart Snipaste now?</source>
     </message>
     <message>
         <source>Accurate with position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Rare)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixed languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Norsk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Croatian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slovenian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1449,6 +1557,14 @@ Are you sure you want to switch to another configuration file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Line/Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Extraction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>Fet</translation>
     </message>
@@ -1505,10 +1621,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>Rektangel/Ellips</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>Linje</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Penna</translation>
     </message>
@@ -1526,10 +1638,6 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Recognition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3913,6 +4021,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>API:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Secret id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In-App Shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -4114,6 +4234,10 @@ Examples:
     <message>
         <source>Last check:</source>
         <translation>Senaste kontroll:</translation>
+    </message>
+    <message>
+        <source>Loading release notes...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

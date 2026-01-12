@@ -784,6 +784,66 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
         <source>Copy and pin</source>
         <translation>복사 및 고정</translation>
     </message>
+    <message>
+        <source>Extract text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>펜</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>형광펜</translation>
+    </message>
+    <message>
+        <source>Mosaic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blur</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>텍스트</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>번호</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation>확대</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>지우개</translation>
+    </message>
+    <message>
+        <source>No operation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MouseActionEdit</name>
@@ -1174,6 +1234,18 @@ Startup on boot has been cancelled.</source>
         <translation>세르비안</translation>
     </message>
     <message>
+        <source>Get API key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Baidu OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mouse drag</source>
         <translation>마우스 드래그</translation>
     </message>
@@ -1207,6 +1279,10 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Baidu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1307,6 +1383,38 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Accurate with position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Rare)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixed languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Norsk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Croatian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slovenian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1453,6 +1561,14 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>드래그하여 단일 선을 그리거나 클릭하여 선 스트립을 그립니다.</translation>
     </message>
     <message>
+        <source>Line/Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Extraction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>볼드체</translation>
     </message>
@@ -1509,10 +1625,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>도형</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>줄무늬</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>펜</translation>
     </message>
@@ -1531,10 +1643,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Magnify</source>
         <translation>확대</translation>
-    </message>
-    <message>
-        <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear content</source>
@@ -3921,6 +4029,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>API:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Secret id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In-App Shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -4134,6 +4254,10 @@ ex) 500 500
     <message>
         <source>Cancel</source>
         <translation>취소</translation>
+    </message>
+    <message>
+        <source>Loading release notes...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

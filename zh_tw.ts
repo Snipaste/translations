@@ -786,6 +786,66 @@ Restart now to enjoy PRO features?</source>
         <source>Copy and pin</source>
         <translation>複製並貼圖</translation>
     </message>
+    <message>
+        <source>Extract text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>畫筆</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>螢光筆</translation>
+    </message>
+    <message>
+        <source>Mosaic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blur</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>文字</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation>放大鏡</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>橡皮擦</translation>
+    </message>
+    <message>
+        <source>No operation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MouseActionEdit</name>
@@ -1176,6 +1236,18 @@ Startup on boot has been cancelled.</source>
         <translation>塞爾維亞語</translation>
     </message>
     <message>
+        <source>Get API key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Baidu OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mouse drag</source>
         <translation>滑鼠左鍵拖曳</translation>
     </message>
@@ -1210,6 +1282,10 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Baidu</source>
         <translation>百度</translation>
+    </message>
+    <message>
+        <source>Tencent</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OS unsupported</source>
@@ -1310,6 +1386,38 @@ Startup on boot has been cancelled.</source>
     <message>
         <source>Accurate with position</source>
         <translation>高準確度含位置版</translation>
+    </message>
+    <message>
+        <source>Chinese (Rare)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixed languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Norsk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Croatian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slovenian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1457,6 +1565,14 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>在區域內拖曳可畫單條直線，點按可畫折線。</translation>
     </message>
     <message>
+        <source>Line/Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Extraction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>粗體</translation>
     </message>
@@ -1513,10 +1629,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>矩形/橢圓</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>連續線段</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>畫筆</translation>
     </message>
@@ -1535,10 +1647,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Magnify</source>
         <translation>放大鏡</translation>
-    </message>
-    <message>
-        <source>Text Recognition</source>
-        <translation>文字辨識</translation>
     </message>
     <message>
         <source>Clear content</source>
@@ -3931,6 +4039,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>API:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Secret id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In-App Shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -4145,6 +4265,10 @@ Examples:
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+    <message>
+        <source>Loading release notes...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

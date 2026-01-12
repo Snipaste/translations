@@ -787,6 +787,66 @@ Redémarrez maintenant pour profiter des fonctionnalités PRO ?</translation>
         <source>Copy and pin</source>
         <translation>Copier et épingler</translation>
     </message>
+    <message>
+        <source>Extract text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Pinceau</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Marqueur</translation>
+    </message>
+    <message>
+        <source>Mosaic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blur</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Texte</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>Nombre</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation>Amplifier</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No operation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MouseActionEdit</name>
@@ -1119,6 +1179,18 @@ Le démarrage sur le démarrage a été annulé.</translation>
         <translation>Non pris en charge par ce système</translation>
     </message>
     <message>
+        <source>Get API key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Baidu OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>for Windows XP</source>
         <translation>pour Windows XP</translation>
     </message>
@@ -1211,6 +1283,10 @@ Redémarrer Snipaste maintenant ?</translation>
     <message>
         <source>Baidu</source>
         <translation>Baidu</translation>
+    </message>
+    <message>
+        <source>Tencent</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OS unsupported</source>
@@ -1311,6 +1387,38 @@ Redémarrer Snipaste maintenant ?</translation>
     <message>
         <source>Accurate with position</source>
         <translation>Précis avec position</translation>
+    </message>
+    <message>
+        <source>Chinese (Rare)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixed languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Norsk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Croatian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slovenian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1458,6 +1566,14 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
         <translation>Faites glisser pour dessiner une seule ligne ou cliquez pour dessiner des bandes de lignes.</translation>
     </message>
     <message>
+        <source>Line/Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Extraction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>Gras</translation>
     </message>
@@ -1514,10 +1630,6 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
         <translation>Rectangle/Ellipse</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>Bande de ligne</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Pinceau</translation>
     </message>
@@ -1536,10 +1648,6 @@ En outre, vous ne devez pas supprimer le fichier de configuration par défaut ap
     <message>
         <source>Magnify</source>
         <translation>Amplifier</translation>
-    </message>
-    <message>
-        <source>Text Recognition</source>
-        <translation>Texte Reconnaissance</translation>
     </message>
     <message>
         <source>Clear content</source>
@@ -3935,6 +4043,18 @@ Si décoché, seul le type actif d&apos;annotations peut être sélectionné au 
         <source>API:</source>
         <translation>API :</translation>
     </message>
+    <message>
+        <source>Secret id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In-App Shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -4149,6 +4269,10 @@ Exemples :
     <message>
         <source>Your version:</source>
         <translation>Votre Version :</translation>
+    </message>
+    <message>
+        <source>Loading release notes...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

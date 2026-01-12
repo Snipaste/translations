@@ -787,6 +787,66 @@ Opnieuw starten om de PRO-functies direct te gebruiken?</translation>
         <source>Copy and pin</source>
         <translation>Kopiëren en vastmaken</translation>
     </message>
+    <message>
+        <source>Extract text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Potlood</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Markeerstift</translation>
+    </message>
+    <message>
+        <source>Mosaic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blur</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Tekst</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>Nummer</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation>Vergroten</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>Wisser</translation>
+    </message>
+    <message>
+        <source>No operation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MouseActionEdit</name>
@@ -1177,6 +1237,18 @@ Automatisch opstarten is niet ingeschakeld.</translation>
         <translation>Servisch</translation>
     </message>
     <message>
+        <source>Get API key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Baidu OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mouse drag</source>
         <translation>Slepen met muis</translation>
     </message>
@@ -1211,6 +1283,10 @@ Automatisch opstarten is niet ingeschakeld.</translation>
     <message>
         <source>Baidu</source>
         <translation>Baidu</translation>
+    </message>
+    <message>
+        <source>Tencent</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OS unsupported</source>
@@ -1311,6 +1387,38 @@ Automatisch opstarten is niet ingeschakeld.</translation>
     <message>
         <source>Accurate with position</source>
         <translation>Nauwkeurig met positie</translation>
+    </message>
+    <message>
+        <source>Chinese (Rare)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixed languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Norsk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Croatian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slovenian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1458,6 +1566,14 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
         <translation>Trek een lijn door te slepen of klik om lijnstukken te tekenen.</translation>
     </message>
     <message>
+        <source>Line/Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Extraction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>Vet</translation>
     </message>
@@ -1514,10 +1630,6 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
         <translation>Rechthoek/Ellips</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>Lijn</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Potlood</translation>
     </message>
@@ -1536,10 +1648,6 @@ Weet je zeker dat je wilt wisselen naar een andere configuratie?</translation>
     <message>
         <source>Magnify</source>
         <translation>Vergroten</translation>
-    </message>
-    <message>
-        <source>Text Recognition</source>
-        <translation>Tekstherkenning</translation>
     </message>
     <message>
         <source>Clear content</source>
@@ -3936,6 +4044,18 @@ Indien niet geactiveerd, kan alleen het actieve type aantekening worden geselect
         <source>API:</source>
         <translation>API:</translation>
     </message>
+    <message>
+        <source>Secret id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In-App Shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -4150,6 +4270,10 @@ Voorbeelden:
     <message>
         <source>Cancel</source>
         <translation>Annuleren</translation>
+    </message>
+    <message>
+        <source>Loading release notes...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

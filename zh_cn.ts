@@ -362,7 +362,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation>内部快捷键</translation>
+        <translation>内置快捷键</translation>
     </message>
     <message>
         <source>Command Line Options</source>
@@ -785,6 +785,66 @@ Restart now to enjoy PRO features?</source>
         <source>Copy and pin</source>
         <translation>复制并贴图</translation>
     </message>
+    <message>
+        <source>Extract text</source>
+        <translation>提取文字</translation>
+    </message>
+    <message>
+        <source>Switch to tool</source>
+        <translation>切换到工具</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation>矩形</translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation>椭圆</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation>直线</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>箭头</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>画笔</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>记号笔</translation>
+    </message>
+    <message>
+        <source>Mosaic</source>
+        <translation>马赛克</translation>
+    </message>
+    <message>
+        <source>Blur</source>
+        <translation>模糊</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>文本</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>数字序号</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation>放大镜</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>橡皮擦</translation>
+    </message>
+    <message>
+        <source>No operation</source>
+        <translation>无操作</translation>
+    </message>
 </context>
 <context>
     <name>MouseActionEdit</name>
@@ -1169,6 +1229,18 @@ Startup on boot has been cancelled.</source>
         <translation>塞尔维亚语</translation>
     </message>
     <message>
+        <source>Get API key</source>
+        <translation>获取 API key</translation>
+    </message>
+    <message>
+        <source>Baidu OCR</source>
+        <translation>百度 OCR</translation>
+    </message>
+    <message>
+        <source>Tencent OCR</source>
+        <translation>腾讯 OCR</translation>
+    </message>
+    <message>
         <source>Mouse drag</source>
         <translation>鼠标左键拖拽</translation>
     </message>
@@ -1209,6 +1281,10 @@ Restart Snipaste now?</source>
     <message>
         <source>Baidu</source>
         <translation>百度</translation>
+    </message>
+    <message>
+        <source>Tencent</source>
+        <translation>腾讯</translation>
     </message>
     <message>
         <source>OS unsupported</source>
@@ -1309,6 +1385,38 @@ Restart Snipaste now?</source>
     <message>
         <source>Accurate with position</source>
         <translation>高精度含位置版</translation>
+    </message>
+    <message>
+        <source>Chinese (Rare)</source>
+        <translation>中文 (生僻字)</translation>
+    </message>
+    <message>
+        <source>Mixed languages</source>
+        <translation>混合语言</translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation>芬兰语</translation>
+    </message>
+    <message>
+        <source>Norsk</source>
+        <translation>挪威语</translation>
+    </message>
+    <message>
+        <source>Croatian</source>
+        <translation>克罗地亚语</translation>
+    </message>
+    <message>
+        <source>Slovenian</source>
+        <translation>斯洛文尼亚语</translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation>保加利亚语</translation>
+    </message>
+    <message>
+        <source>Engine %1</source>
+        <translation>引擎 %1</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1456,6 +1564,14 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>在区域内拖拽可画单条直线，点按可画折线。</translation>
     </message>
     <message>
+        <source>Line/Arrow</source>
+        <translation>直线/箭头</translation>
+    </message>
+    <message>
+        <source>Text Extraction</source>
+        <translation>文字识别</translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>粗体</translation>
     </message>
@@ -1512,10 +1628,6 @@ Are you sure you want to switch to another configuration file?</source>
         <translation>矩形/椭圆</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>折线</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>画笔</translation>
     </message>
@@ -1534,10 +1646,6 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Magnify</source>
         <translation>放大镜</translation>
-    </message>
-    <message>
-        <source>Text Recognition</source>
-        <translation>文字识别</translation>
     </message>
     <message>
         <source>Clear content</source>
@@ -2726,7 +2834,7 @@ Please launch the subscription platform first.</source>
     <name>keybindingdialog</name>
     <message>
         <source>Key Bindings</source>
-        <translation>内部快捷键</translation>
+        <translation>内置快捷键</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3968,6 +4076,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>API:</source>
         <translation>接口:</translation>
     </message>
+    <message>
+        <source>Secret id:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Engine:</source>
+        <translation>引擎:</translation>
+    </message>
+    <message>
+        <source>In-App Shortcuts</source>
+        <translation>应用内快捷键</translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -4182,6 +4302,10 @@ Examples:
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+    <message>
+        <source>Loading release notes...</source>
+        <translation>正在加载更新日志...</translation>
     </message>
 </context>
 <context>

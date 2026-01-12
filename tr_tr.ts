@@ -786,6 +786,66 @@ PRO özelliklerinin keyfini çıkarmak için şimdi yeniden başlatılsın mı?<
         <source>Copy and pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Extract text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Kalem</translation>
+    </message>
+    <message>
+        <source>Marker pen</source>
+        <translation>Keçeli kalem</translation>
+    </message>
+    <message>
+        <source>Mosaic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blur</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Metin</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>Sayı</translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation>Büyüt</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>Silgi</translation>
+    </message>
+    <message>
+        <source>No operation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MouseActionEdit</name>
@@ -1132,6 +1192,18 @@ Başka bir yapılandırma dosyasına geçmek istediğinizden emin misiniz?</tran
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Get API key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Baidu OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
@@ -1243,6 +1315,10 @@ Restart Snipaste now?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Tencent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>OS unsupported</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1340,6 +1416,38 @@ Restart Snipaste now?</source>
     </message>
     <message>
         <source>Accurate with position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Rare)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixed languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Norsk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Croatian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slovenian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1476,8 +1584,16 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <translation>Sayı</translation>
     </message>
     <message>
+        <source>Line/Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Eraser</source>
         <translation>Silgi</translation>
+    </message>
+    <message>
+        <source>Text Extraction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text background</source>
@@ -1512,10 +1628,6 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
         <translation>Dikdörtgen/Elips</translation>
     </message>
     <message>
-        <source>Line strip</source>
-        <translation>Çizgi</translation>
-    </message>
-    <message>
         <source>Pencil</source>
         <translation>Kalem</translation>
     </message>
@@ -1534,10 +1646,6 @@ Bunu arkadaşlarınla ​​paylaş!</translation>
     <message>
         <source>Magnify</source>
         <translation>Büyüt</translation>
-    </message>
-    <message>
-        <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear content</source>
@@ -3927,6 +4035,18 @@ If unchecked, only the active type of annotations can be selected on hovering.</
         <source>API:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Secret id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In-App Shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>outputoptionswidget</name>
@@ -4128,6 +4248,10 @@ Examples:
     <message>
         <source>Cancel</source>
         <translation>İptal</translation>
+    </message>
+    <message>
+        <source>Loading release notes...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
