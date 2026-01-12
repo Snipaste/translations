@@ -789,27 +789,27 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrair texto</translation>
     </message>
     <message>
         <source>Switch to tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar para ferramenta</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rectângulo</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Elipse</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linha</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Seta</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -821,11 +821,11 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
     </message>
     <message>
         <source>Mosaic</source>
-        <translation type="unfinished"></translation>
+        <translation>Mosaico</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfocar</translation>
     </message>
     <message>
         <source>Text</source>
@@ -845,7 +845,7 @@ Reiniciar para desfrutar das funcionalidades PRO?</translation>
     </message>
     <message>
         <source>No operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma operação</translation>
     </message>
 </context>
 <context>
@@ -1238,15 +1238,15 @@ O arranque com o sistema foi cancelado.</translation>
     </message>
     <message>
         <source>Get API key</source>
-        <translation type="unfinished"></translation>
+        <translation>Obter chave API</translation>
     </message>
     <message>
         <source>Baidu OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR Baidu</translation>
     </message>
     <message>
         <source>Tencent OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR Tencent</translation>
     </message>
     <message>
         <source>Mouse drag</source>
@@ -1286,7 +1286,7 @@ O arranque com o sistema foi cancelado.</translation>
     </message>
     <message>
         <source>Tencent</source>
-        <translation type="unfinished"></translation>
+        <translation>Tencent</translation>
     </message>
     <message>
         <source>OS unsupported</source>
@@ -1390,35 +1390,35 @@ O arranque com o sistema foi cancelado.</translation>
     </message>
     <message>
         <source>Chinese (Rare)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinês (Raro)</translation>
     </message>
     <message>
         <source>Mixed languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Idiomas diversos</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>Finlandês</translation>
     </message>
     <message>
         <source>Norsk</source>
-        <translation type="unfinished"></translation>
+        <translation>Norueguês</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Croata</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Esloveno</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Búlgaro</translation>
     </message>
     <message>
         <source>Engine %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Motor %1</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1484,7 +1484,7 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>Line strip</source>
-        <translation>Linha</translation>
+        <translation>Faixa de linha</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -1567,11 +1567,11 @@ Tem a certeza que pretende mudar para outro ficheiro deconfiguração?</translat
     </message>
     <message>
         <source>Line/Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Linha/Seta</translation>
     </message>
     <message>
         <source>Text Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Extração de texto</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4045,15 +4045,15 @@ Se não seleccionado, apenas as anotações de tipo activo podem ser seleccionad
     </message>
     <message>
         <source>Secret id:</source>
-        <translation type="unfinished"></translation>
+        <translation>Id secreta:</translation>
     </message>
     <message>
         <source>Engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Motor:</translation>
     </message>
     <message>
         <source>In-App Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Atalhos da app</translation>
     </message>
 </context>
 <context>
@@ -4272,7 +4272,7 @@ Examplos:
     </message>
     <message>
         <source>Loading release notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>A carregar notas de lançamento...</translation>
     </message>
 </context>
 <context>
