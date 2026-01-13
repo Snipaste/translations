@@ -69,31 +69,31 @@
     <name>Constants</name>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>알수없음</translation>
     </message>
     <message>
         <source>Native</source>
-        <translation type="unfinished"></translation>
+        <translation>네이티브</translation>
     </message>
     <message>
         <source>sRGB</source>
-        <translation type="unfinished"></translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <source>Adobe RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Adobe RGB</translation>
     </message>
     <message>
         <source>Generic RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Generic RGB</translation>
     </message>
     <message>
         <source>P3</source>
-        <translation type="unfinished"></translation>
+        <translation>P3</translation>
     </message>
     <message>
         <source>Color space</source>
-        <translation type="unfinished"></translation>
+        <translation>Color space</translation>
     </message>
 </context>
 <context>
@@ -220,7 +220,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>OCR and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR and copy</translation>
     </message>
     <message>
         <source>Delayed snip</source>
@@ -260,7 +260,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation type="unfinished"></translation>
+        <translation>활성 화면을 캡처</translation>
     </message>
     <message>
         <source>Clear snip history</source>
@@ -512,7 +512,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Pin the screenshot to the screen as a floating window</source>
-        <translation type="unfinished"></translation>
+        <translation>스크린샷을 화면에 플로팅 창으로 고정</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -684,7 +684,7 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>Network timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>네트워크 시간 초과.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
@@ -786,27 +786,27 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 추출</translation>
     </message>
     <message>
         <source>Switch to tool</source>
-        <translation type="unfinished"></translation>
+        <translation>도구로 전환하기</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>직사각형</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>타원</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>라인</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>화살표</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -818,11 +818,11 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>Mosaic</source>
-        <translation type="unfinished"></translation>
+        <translation>모자이크</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>흐림효과</translation>
     </message>
     <message>
         <source>Text</source>
@@ -842,7 +842,7 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>No operation</source>
-        <translation type="unfinished"></translation>
+        <translation>작동 안 함</translation>
     </message>
 </context>
 <context>
@@ -1031,7 +1031,7 @@ PRO버전을 사용을 위해 재시작 하겠습니까?</translation>
     </message>
     <message>
         <source>Not supported on this system</source>
-        <translation type="unfinished"></translation>
+        <translation>이 시스템에서는 지원되지 않습니다</translation>
     </message>
     <message>
         <source>-bit</source>
@@ -1161,7 +1161,7 @@ Restart Snipaste now?</source>
     </message>
     <message>
         <source>Right-click drag</source>
-        <translation type="unfinished"></translation>
+        <translation>우클릭하고 드래그</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -1235,15 +1235,15 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Get API key</source>
-        <translation type="unfinished"></translation>
+        <translation>API 키 받기</translation>
     </message>
     <message>
         <source>Baidu OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>바이두 OCR</translation>
     </message>
     <message>
         <source>Tencent OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>텐센트 OCR</translation>
     </message>
     <message>
         <source>Mouse drag</source>
@@ -1279,143 +1279,143 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Baidu</source>
-        <translation type="unfinished"></translation>
+        <translation>바이두</translation>
     </message>
     <message>
         <source>Tencent</source>
-        <translation type="unfinished"></translation>
+        <translation>텐센트</translation>
     </message>
     <message>
         <source>OS unsupported</source>
-        <translation type="unfinished"></translation>
+        <translation>OS가 지원되지 않습니다</translation>
     </message>
     <message>
         <source>System default</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템 기본값</translation>
     </message>
     <message>
         <source>Automatic detection</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 감지</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"></translation>
+        <translation>English (United States)</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>스페인어</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>포르투칼어</translation>
     </message>
     <message>
         <source>Chinese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>중국어(간체)</translation>
     </message>
     <message>
         <source>Chinese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>중국어(번체)</translation>
     </message>
     <message>
         <source>Cantonese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>광둥어(간체)</translation>
     </message>
     <message>
         <source>Cantonese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>광둥어(번체)</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>우크라이나어</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>태국</translation>
     </message>
     <message>
         <source>Arabic Najdi</source>
-        <translation type="unfinished"></translation>
+        <translation>아랍어</translation>
     </message>
     <message>
         <source>Chinese + English</source>
-        <translation type="unfinished"></translation>
+        <translation>중국어 + 영어</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>영어</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>덴마크어</translation>
     </message>
     <message>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>말레이시아어</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>인도네시아</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>루마니아</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>헝가리</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>힌디어</translation>
     </message>
     <message>
         <source>Accurate</source>
-        <translation type="unfinished"></translation>
+        <translation>정확한</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>기본</translation>
     </message>
     <message>
         <source>Basic with position</source>
-        <translation type="unfinished"></translation>
+        <translation>기본 위치</translation>
     </message>
     <message>
         <source>Accurate with position</source>
-        <translation type="unfinished"></translation>
+        <translation>위치가 정확함</translation>
     </message>
     <message>
         <source>Chinese (Rare)</source>
-        <translation type="unfinished"></translation>
+        <translation>중국어 (희귀)</translation>
     </message>
     <message>
         <source>Mixed languages</source>
-        <translation type="unfinished"></translation>
+        <translation>혼합 언어</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>핀란드어</translation>
     </message>
     <message>
         <source>Norsk</source>
-        <translation type="unfinished"></translation>
+        <translation>노르웨이</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>크로아티아어</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>슬로베니아</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>불가리아</translation>
     </message>
     <message>
         <source>Engine %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Engine %1</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1463,7 +1463,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>System built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템 내장</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1562,11 +1562,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Line/Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>선/화살표</translation>
     </message>
     <message>
         <source>Text Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 추출</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1710,16 +1710,18 @@ Are you sure you want to switch to another configuration file?</source>
     <message>
         <source>Are you sure you want to close all selected images?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 이미지를 모두 닫으시겠습니까?
+이 작업은 되돌릴 수 없습니다.</translation>
     </message>
     <message>
         <source>All selected images will be destroyed permanently.
 Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 이미지는 모두 영구적으로 삭제됩니다.
+계속 진행하시겠습니까?</translation>
     </message>
     <message>
         <source>Extract text and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트를 추출후 복사</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2287,7 +2289,8 @@ Click any of them to dismiss this notification permanently.
     <message>
         <source>Are you sure you want to close the image group &quot;%1&quot;?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 그룹 &quot;%1&quot;을 닫으시겠습니까?
+이 작업은 되돌릴 수 없습니다.</translation>
     </message>
     <message>
         <source>Success</source>
@@ -2369,7 +2372,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Long press to keep refreshing</source>
-        <translation type="unfinished"></translation>
+        <translation>길게 눌러 새로 고침을 계속하세요</translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
@@ -2549,7 +2552,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Pre-filled, do not modify</source>
-        <translation>미리 채워져 있으므로 수정하지 마십시오.</translation>
+        <translation>미리 채워져 있으므로 수정하지 마십시오</translation>
     </message>
     <message>
         <source>Please fill in ALL information below:</source>
@@ -2695,7 +2698,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation>무시된 목록 : </translation>
+        <translation>무시된 목록 :</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
@@ -3410,11 +3413,11 @@ Specify -1 to let Snipaste decide for you.</source>
     </message>
     <message>
         <source>Reset image:</source>
-        <translation>이미지 리셋</translation>
+        <translation>이미지 리셋:</translation>
     </message>
     <message>
         <source>* If conflicted, the upper operation will be matched</source>
-        <translation>* 상위 작업이 일치하여 충돌이 발생했습니다.</translation>
+        <translation>* 상위 작업이 일치하여 충돌이 발생했습니다</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -3435,7 +3438,8 @@ Specify -1 to let Snipaste decide for you.</source>
     <message>
         <source>Beta versions may contain more bugs.
 Please report to the developer if you find any.</source>
-        <translation>베타 버전에는 버그가 있을 수 있습니다..ㅎ 발견하시면 개발자에게 알려주세요! 뀨잉</translation>
+        <translation>베타 버전에는 버그가 있을 수 있습니다
+발견하시면 개발자에게 알려주세요!</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
@@ -3443,7 +3447,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Delay:</source>
-        <translation>딜레이</translation>
+        <translation>딜레이:</translation>
     </message>
     <message>
         <source>s</source>
@@ -3463,23 +3467,23 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Proxy type:</source>
-        <translation>프록시 타입</translation>
+        <translation>프록시 타입:</translation>
     </message>
     <message>
         <source>Server:</source>
-        <translation>서버</translation>
+        <translation>서버:</translation>
     </message>
     <message>
         <source>Proxy server requires password</source>
-        <translation>프록시 서버에 암호가 필요합니다.</translation>
+        <translation>프록시 서버에 암호가 필요합니다</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation>사용자 이름</translation>
+        <translation>사용자 이름:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>패스워드</translation>
+        <translation>패스워드:</translation>
     </message>
     <message>
         <source>Check for updates</source>
@@ -3499,7 +3503,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Contact:</source>
-        <translation>컨택</translation>
+        <translation>연락처:</translation>
     </message>
     <message>
         <source>Configuration Storage</source>
@@ -3507,7 +3511,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>Path:</source>
-        <translation>경로</translation>
+        <translation>경로:</translation>
     </message>
     <message>
         <source>Open the config file in your default text editor.</source>
@@ -3523,7 +3527,7 @@ Please report to the developer if you find any.</source>
     </message>
     <message>
         <source>When:</source>
-        <translation>시점</translation>
+        <translation>시점:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -3556,7 +3560,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Adjust opacity:</source>
-        <translation>불투명도 조정</translation>
+        <translation>불투명도 조정:</translation>
     </message>
     <message>
         <source>or</source>
@@ -3564,7 +3568,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation>확대</translation>
+        <translation>확대:</translation>
     </message>
     <message>
         <source>Magnifier</source>
@@ -3580,7 +3584,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Number of pen sizes:</source>
-        <translation>펜 크기</translation>
+        <translation>펜 크기:</translation>
     </message>
     <message>
         <source>Restart Snipaste for the change to take effect.</source>
@@ -3612,7 +3616,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Default background mode:</source>
-        <translation>기본 백그라운드 모드</translation>
+        <translation>기본 백그라운드 모드:</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -3620,7 +3624,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Copy as Windows Bitmap:</source>
-        <translation>윈도우 비트맵으로 복사</translation>
+        <translation>윈도우 비트맵으로 복사:</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -3648,7 +3652,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Left click:</source>
-        <translation>클릭</translation>
+        <translation>클릭:</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -3656,11 +3660,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Middle click:</source>
-        <translation>중간클릭</translation>
+        <translation>중간클릭:</translation>
     </message>
     <message>
         <source>Right click:</source>
-        <translation>우클릭</translation>
+        <translation>우클릭:</translation>
     </message>
     <message>
         <source>Hot Corner</source>
@@ -3672,11 +3676,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Corner size:</source>
-        <translation>코너 사이즈</translation>
+        <translation>코너 사이즈:</translation>
     </message>
     <message>
         <source>Trigger delay:</source>
-        <translation>트리거 지연</translation>
+        <translation>트리거 지연:</translation>
     </message>
     <message>
         <source>ms</source>
@@ -3684,7 +3688,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Check interval:</source>
-        <translation>간격 확인</translation>
+        <translation>간격 확인:</translation>
     </message>
     <message>
         <source>Function</source>
@@ -3692,19 +3696,19 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Top left:</source>
-        <translation>상단 왼쪽</translation>
+        <translation>상단 왼쪽:</translation>
     </message>
     <message>
         <source>Top right:</source>
-        <translation>상단 오른쪽</translation>
+        <translation>상단 오른쪽:</translation>
     </message>
     <message>
         <source>Bottom left:</source>
-        <translation>왼쪽하단</translation>
+        <translation>왼쪽하단:</translation>
     </message>
     <message>
         <source>Bottom right:</source>
-        <translation>오른쪽하단</translation>
+        <translation>오른쪽하단:</translation>
     </message>
     <message>
         <source>Keep responsive</source>
@@ -3712,7 +3716,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Show up automatically for:</source>
-        <translation>다음에 대해 자동으로 표시</translation>
+        <translation>다음에 대해 자동으로 표시:</translation>
     </message>
     <message>
         <source>Normal snip</source>
@@ -3728,7 +3732,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Show:</source>
-        <translation>보이기</translation>
+        <translation>보이기:</translation>
     </message>
     <message>
         <source>Grid lines</source>
@@ -3744,7 +3748,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Copy text:</source>
-        <translation>텍스트 복사</translation>
+        <translation>텍스트 복사:</translation>
     </message>
     <message>
         <source>Rate</source>
@@ -3760,11 +3764,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Fast thumbnail size:</source>
-        <translation>빠른 썸네일 사이즈</translation>
+        <translation>빠른 썸네일 사이즈:</translation>
     </message>
     <message>
         <source>Fast thumbnail:</source>
-        <translation>빠른 썸네일</translation>
+        <translation>빠른 썸네일:</translation>
     </message>
     <message>
         <source>Open source software used in Snipaste</source>
@@ -3784,7 +3788,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Double-click:</source>
-        <translation>더블클릭</translation>
+        <translation>더블클릭:</translation>
     </message>
     <message>
         <source>Which action to perform for double-click when snipping.</source>
@@ -3792,7 +3796,7 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>Middle-click:</source>
-        <translation>중간클릭</translation>
+        <translation>중간클릭:</translation>
     </message>
     <message>
         <source>Which action to perform for middle-click when snipping.</source>
@@ -3800,11 +3804,11 @@ You will gain better response time on entering snipping.</source>
     </message>
     <message>
         <source>&apos;Enter&apos; key:</source>
-        <translation>&apos;엔터&apos; 키</translation>
+        <translation>&apos;엔터&apos; 키:</translation>
     </message>
     <message>
         <source>Default annotation:</source>
-        <translation>기본주석 : </translation>
+        <translation>기본주석 :</translation>
     </message>
     <message>
         <source>Pin on all virtual desktops</source>
@@ -3813,7 +3817,8 @@ You will gain better response time on entering snipping.</source>
     <message>
         <source>A closed image window can be recovered by another pasting if the number of closed images does not reach the limit.
 When the limit is reached, the oldest one will be destroyed.</source>
-        <translation>닫힌 이미지 수가 한계에 도달하지 않으면 다른 붙여 넣기로 닫힌 이미지 창을 복구 할 수 있습니다. (한도에 도달하면 가장 오래된 것이 삭제됩니다.)</translation>
+        <translation>닫힌 이미지 창이 제한에 도달하지 않은 경우, 다른 이미지를 붙여넣으면 해당 창을 복구할 수 있습니다.
+제한에 도달하면 가장 오래된 이미지가 삭제됩니다.</translation>
     </message>
     <message>
         <source>Manual Save</source>
@@ -3821,7 +3826,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>File name:</source>
-        <translation>파일명 : </translation>
+        <translation>파일명 :</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -3837,7 +3842,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Magnification level:</source>
-        <translation>확대 레벨 : </translation>
+        <translation>확대 레벨 :</translation>
     </message>
     <message>
         <source>Disable masking when File Dialog is shown</source>
@@ -3853,7 +3858,7 @@ When the limit is reached, the oldest one will be destroyed.</source>
     </message>
     <message>
         <source>Ignored list:</source>
-        <translation>무시된 목록 : </translation>
+        <translation>무시된 목록 :</translation>
     </message>
     <message>
         <source>Enter executable names/paths separated by commas (e.g. a.exe, games/*)</source>
@@ -3963,83 +3968,83 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Color space:</source>
-        <translation type="unfinished"></translation>
+        <translation>색 공간:</translation>
     </message>
     <message>
         <source>Adjust colors for screenshots taken on HDR monitors</source>
-        <translation type="unfinished"></translation>
+        <translation>HDR 모니터에서 촬영한 스크린샷의 색상을 조정하세요</translation>
     </message>
     <message>
         <source>Ask for confirmation on closing multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>여러 이미지를 닫을지 확인해 주세요</translation>
     </message>
     <message>
         <source>Ask for confirmation on destroying multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>여러 이미지를 삭제하는 것에 대한 확인을 해 주세요</translation>
     </message>
     <message>
         <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 인식</translation>
     </message>
     <message>
         <source>OCR engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR 엔진:</translation>
     </message>
     <message>
         <source>Preferred language:</source>
-        <translation type="unfinished"></translation>
+        <translation>선호하는 언어:</translation>
     </message>
     <message>
         <source>API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>API 키:</translation>
     </message>
     <message>
         <source>Secret key:</source>
-        <translation type="unfinished"></translation>
+        <translation>보안 키:</translation>
     </message>
     <message>
         <source>Selection thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>선택 항목 미리보기:</translation>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>실행:</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>옵션:</translation>
     </message>
     <message>
         <source>Play sound on completion</source>
-        <translation type="unfinished"></translation>
+        <translation>완료 시 소리 재생</translation>
     </message>
     <message>
         <source>* Requires Windows 10 version 1903 or higher</source>
-        <translation type="unfinished"></translation>
+        <translation>* Windows 10 버전 1903 이상이 필요합니다</translation>
     </message>
     <message>
         <source>* Requires macOS 12  (Monterey) or later</source>
-        <translation type="unfinished"></translation>
+        <translation>* macOS 12(몬터레이) 이상 버전이 필요합니다.</translation>
     </message>
     <message>
         <source>* Requires installation of &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>* &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt; 설치가 필요합니다</translation>
     </message>
     <message>
         <source>API:</source>
-        <translation type="unfinished"></translation>
+        <translation>API:</translation>
     </message>
     <message>
         <source>Secret id:</source>
-        <translation type="unfinished"></translation>
+        <translation>Secret id:</translation>
     </message>
     <message>
         <source>Engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Engine:</translation>
     </message>
     <message>
         <source>In-App Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>앱 내 바로가기</translation>
     </message>
 </context>
 <context>
@@ -4085,7 +4090,7 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation type="unfinished"></translation>
+        <translation>화면에 고정하기(Ctrl+T)</translation>
     </message>
 </context>
 <context>
@@ -4257,7 +4262,7 @@ ex) 500 500
     </message>
     <message>
         <source>Loading release notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>릴리스 노트 불러오는 중...</translation>
     </message>
 </context>
 <context>
