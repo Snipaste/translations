@@ -183,7 +183,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation>Показать в диспетчере файлов</translation>
+        <translation>Показать в файловом менеджере</translation>
     </message>
     <message>
         <source>Restarting</source>
@@ -222,11 +222,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>OCR and copy</source>
-        <translation>Разпознать текст и скопировать</translation>
+        <translation>Распознать текст и скопировать</translation>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation>Выделение отложенно</translation>
+        <translation>Выделение отложено</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -242,7 +242,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Switch to the previous image group</source>
-        <translation>Переключиться на предыдущую группу</translation>
+        <translation>Переключиться на предыдущую группу изображений</translation>
     </message>
     <message>
         <source>Empty the current image group</source>
@@ -284,15 +284,15 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Custom snip</source>
-        <translation>Пользовательский снимок</translation>
+        <translation>Пользовательский скриншот</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation>Сделать снимок активного окна</translation>
+        <translation>Сделать скриншот активного окна</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation>Сделать снимок и закрепить</translation>
+        <translation>Сделать скриншот и закрепить</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
@@ -328,11 +328,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation>Сделать снимок с тенями</translation>
+        <translation>Сделать скриншот с тенями</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation>Сделать снимок, скопировать и закрепить</translation>
+        <translation>Сделать скриншот, скопировать и закрепить</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
