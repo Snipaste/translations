@@ -5,7 +5,7 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation>Скопировать</translation>
+        <translation>Скопировать текст</translation>
     </message>
     <message>
         <source>Follow link</source>
@@ -46,7 +46,7 @@
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation>Вы уверены что хотите удалить эту команду?</translation>
+        <translation>Вы уверены, что хотите удалить эту команду?</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
@@ -178,7 +178,7 @@ Network Error: %1</source>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation>Что-то не так с подачей обновления (%1).
+        <translation>В ленте обновлений возникла ошибка (%1).
 Пожалуйста, свяжитесь с разработчиком.</translation>
     </message>
     <message>
@@ -222,7 +222,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>OCR and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Разпознать текст и скопировать</translation>
     </message>
     <message>
         <source>Delayed snip</source>
@@ -686,7 +686,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Network timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Таймаут сети.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
@@ -788,27 +788,27 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>Извлечь текст</translation>
     </message>
     <message>
         <source>Switch to tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключиться на инструмент</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямоугольник</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Эллипс</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Линия</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрелка</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -820,11 +820,11 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Mosaic</source>
-        <translation type="unfinished"></translation>
+        <translation>Мозайка</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Размытие</translation>
     </message>
     <message>
         <source>Text</source>
@@ -844,7 +844,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>No operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Операция не выполняется</translation>
     </message>
 </context>
 <context>
@@ -1033,7 +1033,7 @@ Restart now to enjoy PRO features?</source>
     </message>
     <message>
         <source>Not supported on this system</source>
-        <translation type="unfinished"></translation>
+        <translation>Не поддерживается на данной системе</translation>
     </message>
     <message>
         <source>-bit</source>
@@ -1163,7 +1163,7 @@ Restart Snipaste now?</source>
     </message>
     <message>
         <source>Right-click drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенос по клику на правую кнопку</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -1237,15 +1237,15 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Get API key</source>
-        <translation type="unfinished"></translation>
+        <translation>Получить API ключ</translation>
     </message>
     <message>
         <source>Baidu OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Разпознавание текста Baidu</translation>
     </message>
     <message>
         <source>Tencent OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Разпознавание текста Tencent</translation>
     </message>
     <message>
         <source>Mouse drag</source>
@@ -1281,143 +1281,143 @@ Startup on boot has been cancelled.</source>
     </message>
     <message>
         <source>Baidu</source>
-        <translation type="unfinished"></translation>
+        <translation>Baidu</translation>
     </message>
     <message>
         <source>Tencent</source>
-        <translation type="unfinished"></translation>
+        <translation>Tencent</translation>
     </message>
     <message>
         <source>OS unsupported</source>
-        <translation type="unfinished"></translation>
+        <translation>Не поддерживаемая ОС</translation>
     </message>
     <message>
         <source>System default</source>
-        <translation type="unfinished"></translation>
+        <translation>Системные настройки по умолчанию</translation>
     </message>
     <message>
         <source>Automatic detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическое определение</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"></translation>
+        <translation>Английский (США)</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>Испанский</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Португальский</translation>
     </message>
     <message>
         <source>Chinese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Китайский (упрощенный)</translation>
     </message>
     <message>
         <source>Chinese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Китайский (традиционный)</translation>
     </message>
     <message>
         <source>Cantonese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Кантонский (упрощенный)</translation>
     </message>
     <message>
         <source>Cantonese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Кантонский (традиционный)</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>Украинский</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>Тайский</translation>
     </message>
     <message>
         <source>Arabic Najdi</source>
-        <translation type="unfinished"></translation>
+        <translation>Арабский (недждийский)</translation>
     </message>
     <message>
         <source>Chinese + English</source>
-        <translation type="unfinished"></translation>
+        <translation>Китайский + Английский</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Английский</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Датский</translation>
     </message>
     <message>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>Малайский</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Индонезийский</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Румынский</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Венгерский</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Хинди</translation>
     </message>
     <message>
         <source>Accurate</source>
-        <translation type="unfinished"></translation>
+        <translation>Точный</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Базовый</translation>
     </message>
     <message>
         <source>Basic with position</source>
-        <translation type="unfinished"></translation>
+        <translation>Базовый с указанием позиции</translation>
     </message>
     <message>
         <source>Accurate with position</source>
-        <translation type="unfinished"></translation>
+        <translation>Точный с указанием позиции</translation>
     </message>
     <message>
         <source>Chinese (Rare)</source>
-        <translation type="unfinished"></translation>
+        <translation>Китайский (редкий)</translation>
     </message>
     <message>
         <source>Mixed languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Смешанные языки</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>Финский</translation>
     </message>
     <message>
         <source>Norsk</source>
-        <translation type="unfinished"></translation>
+        <translation>Норвежский</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Хорватский</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Словенский</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Болгарский</translation>
     </message>
     <message>
         <source>Engine %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Система %1</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1467,7 +1467,7 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>System built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Встроенная система</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1566,11 +1566,11 @@ Are you sure you want to switch to another configuration file?</source>
     </message>
     <message>
         <source>Line/Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Линия/Стрелка</translation>
     </message>
     <message>
         <source>Text Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Извлечение текста</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1725,7 +1725,7 @@ Are you sure you want to proceed?</source>
     </message>
     <message>
         <source>Extract text and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Извлечь текст и скопировать</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2378,7 +2378,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Long press to keep refreshing</source>
-        <translation type="unfinished"></translation>
+        <translation>Долгое нажатие, чтобы продолжить обновлять</translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
@@ -3980,79 +3980,79 @@ If unchecked, only the active type of annotations can be selected on hovering.</
     </message>
     <message>
         <source>Adjust colors for screenshots taken on HDR monitors</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройте цвета для скриншотов, сделанных на HDR-мониторах</translation>
     </message>
     <message>
         <source>Ask for confirmation on closing multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрашивать подтверждение закрытия нескольких изображений</translation>
     </message>
     <message>
         <source>Ask for confirmation on destroying multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>Запросите подтверждение для уничтожения нескольких изображений</translation>
     </message>
     <message>
         <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>Распознавание текста</translation>
     </message>
     <message>
         <source>OCR engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Система распознавания текста (OCR):</translation>
     </message>
     <message>
         <source>Preferred language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпочитаемый язык:</translation>
     </message>
     <message>
         <source>API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>API ключ:</translation>
     </message>
     <message>
         <source>Secret key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Секретный ключ:</translation>
     </message>
     <message>
         <source>Selection thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Миниатюра выделенного фрагмента:</translation>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Исполняемый файл:</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки:</translation>
     </message>
     <message>
         <source>Play sound on completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Проигрывать звук при завершении</translation>
     </message>
     <message>
         <source>* Requires Windows 10 version 1903 or higher</source>
-        <translation type="unfinished"></translation>
+        <translation>* Требуется Windows 10 версии 1903 или выше</translation>
     </message>
     <message>
         <source>* Requires macOS 12  (Monterey) or later</source>
-        <translation type="unfinished"></translation>
+        <translation>* Требуется macOS 12 (Monterey) или более поздняя версия</translation>
     </message>
     <message>
         <source>* Requires installation of &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>* Требуется установка &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</translation>
     </message>
     <message>
         <source>API:</source>
-        <translation type="unfinished"></translation>
+        <translation>API:</translation>
     </message>
     <message>
         <source>Secret id:</source>
-        <translation type="unfinished"></translation>
+        <translation>Секретный идентификатор:</translation>
     </message>
     <message>
         <source>Engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Система:</translation>
     </message>
     <message>
         <source>In-App Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Встроенные ярлыки</translation>
     </message>
 </context>
 <context>
@@ -4271,7 +4271,7 @@ Examples:
     </message>
     <message>
         <source>Loading release notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка примечаний к выпуску...</translation>
     </message>
 </context>
 <context>
