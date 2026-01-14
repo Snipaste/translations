@@ -5,199 +5,201 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати текст</translation>
     </message>
     <message>
         <source>Follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейдіть за посиланням</translation>
     </message>
     <message>
         <source>%1+Click to follow link</source>
-        <translation type="unfinished"></translation>
+        <translation>%1+Клікніть, щоб перейти за посиланням</translation>
     </message>
 </context>
 <context>
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Оберіть колір</translation>
     </message>
 </context>
 <context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between color values</source>
-        <translation type="unfinished"></translation>
+        <translation>Натисніть %1, щоб переключатися між значеннями кольору</translation>
     </message>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation>Натисніть %1 щоб скопіювати колір</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation>Натисніть %1, щоб змінити RGB/HEX</translation>
     </message>
 </context>
 <context>
     <name>CommandDialog</name>
     <message>
         <source>Remove command</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалить команду</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this command?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви впевнені, що хочете видалити цю команду?</translation>
     </message>
     <message>
         <source>The name cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я не може бути порожнім!</translation>
     </message>
     <message>
         <source>The command cannot be empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда не може бути порожньою!</translation>
     </message>
     <message>
         <source>More examples...</source>
-        <translation type="unfinished"></translation>
+        <translation>Більше прикладів...</translation>
     </message>
     <message>
         <source>Enter bundle names/paths separated by commas (e.g. snipaste.app, games/*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть назву збірки/шляху, розділяючи комою (пр. snipaste.app, games/*)</translation>
     </message>
 </context>
 <context>
     <name>Constants</name>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Невідомо</translation>
     </message>
     <message>
         <source>Native</source>
-        <translation type="unfinished"></translation>
+        <translation>Нативний</translation>
     </message>
     <message>
         <source>sRGB</source>
-        <translation type="unfinished"></translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <source>Adobe RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Adobe RGB</translation>
     </message>
     <message>
         <source>Generic RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Generic RGB</translation>
     </message>
     <message>
         <source>P3</source>
-        <translation type="unfinished"></translation>
+        <translation>P3</translation>
     </message>
     <message>
         <source>Color space</source>
-        <translation type="unfinished"></translation>
+        <translation>Колірний простір</translation>
     </message>
 </context>
 <context>
     <name>CustomSnipDialog</name>
     <message>
         <source>Add to presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати в пресети</translation>
     </message>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Редагувати пресети...</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>сек</translation>
     </message>
 </context>
 <context>
     <name>FvUpdater</name>
     <message>
         <source>Redirecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенаправлення</translation>
     </message>
     <message>
         <source>Download complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження завершено.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <source>File hash does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Хеш файлу не відповідає.</translation>
     </message>
     <message>
         <source>Please retry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка, повторіть.</translation>
     </message>
     <message>
         <source>Writing downloaded file into</source>
-        <translation type="unfinished"></translation>
+        <translation>Запис завантаженого файлу в</translation>
     </message>
     <message>
         <source>Do you have write access to %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви маєте доступ до запису в %1?</translation>
     </message>
     <message>
         <source>Saved successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Збереження виконано.</translation>
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка завантаження! Код помилки http: %1</translation>
     </message>
     <message>
         <source>Unzipped successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Розпакування завершено успішно.</translation>
     </message>
     <message>
         <source>Unable to download updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неможливо завантажити оновлення.</translation>
     </message>
     <message>
         <source>Please try later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка, спробуйте пізніше.</translation>
     </message>
     <message>
         <source>Downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження</translation>
     </message>
     <message>
         <source>Retrying</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторна спроба</translation>
     </message>
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка завантаження файлу.
+Помилка мережі: %1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щось не так зі стрічкою оновлень (%1).
+Зверніться до розробника.</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Нова версія «Snipaste» була завантажена в:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати у «Finder»</translation>
     </message>
     <message>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити зараз</translation>
     </message>
     <message>
         <source>Show in File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати в файловому менеджері</translation>
     </message>
     <message>
         <source>Restarting</source>
