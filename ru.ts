@@ -262,15 +262,15 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation>Вырезать текущий экран</translation>
+        <translation>Сделать скриншот активного экран</translation>
     </message>
     <message>
         <source>Clear snip history</source>
-        <translation>Очистить историю снимков</translation>
+        <translation>Очистить историю скриншотов</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
-        <translation>Сканировать «QR-код»/«штрих-код»</translation>
+        <translation>Сканировать QR/штрих-код</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
@@ -296,11 +296,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation>Сделать и скопировать снимок всего экрана</translation>
+        <translation>Сделать и скопировать скриншот всего экрана</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Сделать снимок и скопируйте ту же область что на последнем скриншоте</translation>
+        <translation>Сделать скриншот и скопировать ту же область что на нем</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
@@ -312,7 +312,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Запустить режим доски (двойное нажатие «Esc» для выхода)</translation>
+        <translation>Запустить режим доски (двойное нажатие Esc для выхода)</translation>
     </message>
     <message>
         <source>Pick color</source>
@@ -336,7 +336,7 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation>Запустить режим прозрачной доски (двойное нажатие «Esc» для выхода)</translation>
+        <translation>Запустить режим прозрачной доски (двойное нажатие Esc для выхода)</translation>
     </message>
 </context>
 <context>
@@ -344,7 +344,8 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Are you sure you want to close selected group(s)?
 This action cannot be undone.</source>
-        <translation>Вы уверены что хотите закрыть выбранн(ую/ые) групп(у/ы)? Это действие нельзя отменить.</translation>
+        <translation>Вы уверены что хотите закрыть выбранную(ые) группу(ы)?
+Это действие нельзя отменить.</translation>
     </message>
 </context>
 <context>
@@ -379,7 +380,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>FAQ</source>
-        <translation>ЧЗВ</translation>
+        <translation>Часто задаваемые вопросы (FAQ)</translation>
     </message>
     <message>
         <source>Changelog</source>
@@ -387,18 +388,18 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation>Бета для «Mac»</translation>
+        <translation>Бета для Mac</translation>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation>«PRO» возможности</translation>
+        <translation>PRO возможности</translation>
     </message>
 </context>
 <context>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation>Только область:</translation>
+        <translation>Скриншот только:</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
