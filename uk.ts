@@ -286,56 +286,57 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Зробити скріншот активного екрану</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Зробити та скопіювати скріншот всього екрану</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Зробити скріншот і скопіювати ту саму область, що на ньому</translation>
     </message>
     <message>
         <source>Clear snip history</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити історію скріншотів</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
-        <translation type="unfinished"></translation>
+        <translation>Відскануйте QR/штрих-код</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Увійти в режим дошки</translation>
     </message>
     <message>
         <source>Open Notepad</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити Блокнот</translation>
     </message>
     <message>
         <source>Enter whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустити режим дошки (подвійне натискання Esc для виходу)</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустити режим прозорої дошки (подвійне натискання Esc для виходу)</translation>
     </message>
     <message>
         <source>Pick color</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть колір</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставити як зображення</translation>
     </message>
     <message>
         <source>Paste as plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставити як звичайний текст</translation>
     </message>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярлик для перемикання режиму відтворення зображення під курсором.
+Якщо жодне вікно зображення не знаходиться під курсором, усі не клікабельні зображення стануть клікабельними.</translation>
     </message>
 </context>
 <context>
@@ -343,101 +344,102 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Are you sure you want to close selected group(s)?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви впевнені, що хочете закрити вибрані групи?
+Цю дію не можна скасувати.</translation>
     </message>
 </context>
 <context>
     <name>HelpDialog</name>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Допомога</translation>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation>PRO можливості</translation>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation>Бета для Mac</translation>
     </message>
     <message>
         <source>Basic Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Основні операції</translation>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>Прив&apos;язка клавіш</translation>
     </message>
     <message>
         <source>Command Line Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри командного рядка</translation>
     </message>
     <message>
         <source>Advanced Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>Розширені налаштування</translation>
     </message>
     <message>
         <source>Troubleshooting</source>
-        <translation type="unfinished"></translation>
+        <translation>Виправлення проблем</translation>
     </message>
     <message>
         <source>FAQ</source>
-        <translation type="unfinished"></translation>
+        <translation>Найчастіші запитання (FAQ)</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Список змін</translation>
     </message>
     <message>
         <source>Visit Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Відвідайте наш сайт</translation>
     </message>
 </context>
 <context>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation type="unfinished"></translation>
+        <translation>Скріншот тільки:</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемикання між виявленням вікна та виявленням елемента</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>або</translation>
     </message>
     <message>
         <source>Show/Hide the captured mouse cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати/приховати захоплення курсору</translation>
     </message>
     <message>
         <source>Set the snipping area to active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановіть область обрізки на поточний екран / повноекранний режим</translation>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити виділення області так само, як і останній успішний раз</translation>
     </message>
     <message>
         <source>Comma</source>
-        <translation type="unfinished"></translation>
+        <translation>Кома</translation>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключити на попередній запис області</translation>
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"></translation>
+        <translation>Крапка</translation>
     </message>
     <message>
         <source>Switch to the next snip record</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключити на наступний запис області</translation>
     </message>
     <message>
         <source>Refresh screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновити скріншот</translation>
     </message>
     <message>
         <source>Arrow keys</source>
