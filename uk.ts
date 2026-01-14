@@ -203,86 +203,86 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Restarting</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапуск</translation>
     </message>
 </context>
 <context>
     <name>GlobalShortcutContainer</name>
     <message>
         <source>Edit command</source>
-        <translation type="unfinished"></translation>
+        <translation>Редагувати команду</translation>
     </message>
     <message>
         <source>Snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Область</translation>
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Зробити скріншот із тінями</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Виділити та скопіювати</translation>
     </message>
     <message>
         <source>OCR and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Розпізнати текст та скопіювати</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Зробити скріншот та закріпити</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Зробити скріншот, скопіювати та закріпити</translation>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Виділення відкладено</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставити</translation>
     </message>
     <message>
         <source>Hide/Show all images</source>
-        <translation type="unfinished"></translation>
+        <translation>Приховати/Показати всі зображення</translation>
     </message>
     <message>
         <source>Switch to another image group</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на іншу групу зображень</translation>
     </message>
     <message>
         <source>Switch to the previous image group</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на попередн групу зображень</translation>
     </message>
     <message>
         <source>Empty the current image group</source>
-        <translation type="unfinished"></translation>
+        <translation>Поточна група зображень порожня</translation>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключити клацання мишею</translation>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнути/Увімкнути глобальні гарячі клавіші</translation>
     </message>
     <message>
         <source>Disable/Enable hot corners</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути/Вимкнути «гарячі» кути</translation>
     </message>
     <message>
         <source>Show tray menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати меню у треї</translation>
     </message>
     <message>
         <source>Custom snip</source>
-        <translation type="unfinished"></translation>
+        <translation>Скріншот користувача</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Зробити cкріншот активного вікна</translation>
     </message>
     <message>
         <source>Snip the active screen</source>
