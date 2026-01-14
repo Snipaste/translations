@@ -786,27 +786,27 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text extrahieren</translation>
     </message>
     <message>
         <source>Switch to tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Zum Werkzeug wechseln</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechteck</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Ellipse</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfeil</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -818,11 +818,11 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>Mosaic</source>
-        <translation type="unfinished"></translation>
+        <translation>Mosaik</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Unschärfe</translation>
     </message>
     <message>
         <source>Text</source>
@@ -842,7 +842,7 @@ Jetzt neu starten, um die PRO-Funktionen zu genießen?</translation>
     </message>
     <message>
         <source>No operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Operation</translation>
     </message>
 </context>
 <context>
@@ -1235,15 +1235,15 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     </message>
     <message>
         <source>Get API key</source>
-        <translation type="unfinished"></translation>
+        <translation>API-Schlüssel abrufen</translation>
     </message>
     <message>
         <source>Baidu OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Baidu OCR</translation>
     </message>
     <message>
         <source>Tencent OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Tencent OCR</translation>
     </message>
     <message>
         <source>Mouse drag</source>
@@ -1283,7 +1283,7 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     </message>
     <message>
         <source>Tencent</source>
-        <translation type="unfinished"></translation>
+        <translation>Tencent</translation>
     </message>
     <message>
         <source>OS unsupported</source>
@@ -1387,35 +1387,35 @@ Der Startvorgang beim Booten wurde abgebrochen.</translation>
     </message>
     <message>
         <source>Chinese (Rare)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinesisch (selten)</translation>
     </message>
     <message>
         <source>Mixed languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Gemischte Sprachen</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>Finnisch</translation>
     </message>
     <message>
         <source>Norsk</source>
-        <translation type="unfinished"></translation>
+        <translation>Norwegisch</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroatisch</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Slowenisch</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgarisch</translation>
     </message>
     <message>
         <source>Engine %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Engine %1</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1565,11 +1565,11 @@ Sind Sie sicher, dass Sie zu einer andern Konfigurationsdatei wechseln möchten?
     </message>
     <message>
         <source>Line/Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie/Pfeil</translation>
     </message>
     <message>
         <source>Text Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Textextraktion</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4037,19 +4037,19 @@ Wenn diese Option nicht aktiviert ist, kann nur die aktive Art von Anmerkungen b
     </message>
     <message>
         <source>Ask for confirmation on destroying multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte um Bestätigung zur Löschung mehrerer Bilder</translation>
     </message>
     <message>
         <source>Secret id:</source>
-        <translation type="unfinished"></translation>
+        <translation>Geheime ID:</translation>
     </message>
     <message>
         <source>Engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Engine:</translation>
     </message>
     <message>
         <source>In-App Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>In-App-Verknüpfungen</translation>
     </message>
 </context>
 <context>
@@ -4281,7 +4281,7 @@ Beispiele:
     </message>
     <message>
         <source>Loading release notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lade Versionshinweise ...</translation>
     </message>
 </context>
 <context>
