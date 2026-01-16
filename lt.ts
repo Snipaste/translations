@@ -793,23 +793,23 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Switch to tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasikeisti į įrankį</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Stačiakampis</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Elipsė</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linija</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyklė</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -817,15 +817,15 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>Marker pen</source>
-        <translation type="unfinished"></translation>
+        <translation>Braižiklis-Spalviklis</translation>
     </message>
     <message>
         <source>Mosaic</source>
-        <translation type="unfinished"></translation>
+        <translation>Mozaika</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridėmėti</translation>
     </message>
     <message>
         <source>Text</source>
@@ -845,7 +845,7 @@ Perjungti dabar, kad mėgautumėtės „PRO“ funkcijomis?</translation>
     </message>
     <message>
         <source>No operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nėra operacijos</translation>
     </message>
 </context>
 <context>
@@ -1242,11 +1242,11 @@ Paleidimas įkrovos metu buvo atšauktas.</translation>
     </message>
     <message>
         <source>Baidu OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>„Baidu“ optinis ženklų-rašmenų atpažinimas</translation>
     </message>
     <message>
         <source>Tencent OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>„Tencent“ optinis ženklų-rašmenų atpažinimas</translation>
     </message>
     <message>
         <source>Mouse drag</source>
@@ -1390,7 +1390,7 @@ Paleidimas įkrovos metu buvo atšauktas.</translation>
     </message>
     <message>
         <source>Chinese (Rare)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinų mandarinų (retas)</translation>
     </message>
     <message>
         <source>Mixed languages</source>
@@ -1567,11 +1567,11 @@ Ar Jūs tikrai norite pereiti prie kito konfigūracijos failo?</translation>
     </message>
     <message>
         <source>Line/Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Linija/Rodyklė</translation>
     </message>
     <message>
         <source>Text Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Teksto ištraukimas</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4053,7 +4053,7 @@ Jei nepažymėta, užvedus pelę galima pasirinkti tik aktyvų pastabų tipą.</
     </message>
     <message>
         <source>In-App Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Programos/Programėlės nuorodos/klavišų deriniai</translation>
     </message>
 </context>
 <context>
@@ -4272,7 +4272,7 @@ Pvz:
     </message>
     <message>
         <source>Loading release notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kraunama laidos informacija...</translation>
     </message>
 </context>
 <context>
