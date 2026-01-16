@@ -222,7 +222,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>OCR and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR e copia</translation>
     </message>
     <message>
         <source>Delayed snip</source>
@@ -262,7 +262,7 @@ Per favore contatta lo sviluppatore.</translation>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglia lo schermo attivo</translation>
     </message>
     <message>
         <source>Clear snip history</source>
@@ -514,7 +514,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Pin the screenshot to the screen as a floating window</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi lo screenshot allo schermo come finestra mobile</translation>
     </message>
     <message>
         <source>Show/Hide the auxiliary lines if snipping</source>
@@ -686,7 +686,7 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Network timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Timeout di rete.</translation>
     </message>
     <message>
         <source>Permission denied.</source>
@@ -788,27 +788,27 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrai il testo</translation>
     </message>
     <message>
         <source>Switch to tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Passa allo strumento</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rettangolo</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Ellisse</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Freccia</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -820,11 +820,11 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Mosaic</source>
-        <translation type="unfinished"></translation>
+        <translation>Mosaico</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfocatura</translation>
     </message>
     <message>
         <source>Text</source>
@@ -844,7 +844,7 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>No operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna operazione</translation>
     </message>
 </context>
 <context>
@@ -1033,7 +1033,7 @@ Riavviare ora per goderti le funzionalità PRO?</translation>
     </message>
     <message>
         <source>Not supported on this system</source>
-        <translation type="unfinished"></translation>
+        <translation>Non supportato su questo sistema</translation>
     </message>
     <message>
         <source>-bit</source>
@@ -1163,7 +1163,7 @@ Riavvio Snipaste ora?</translation>
     </message>
     <message>
         <source>Right-click drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Trascinamento col tasto destro</translation>
     </message>
     <message>
         <source>No Proxy</source>
@@ -1237,15 +1237,15 @@ L&apos;esecuzione automatica all&apos;avvio del sistema è stata annullata.</tra
     </message>
     <message>
         <source>Get API key</source>
-        <translation type="unfinished"></translation>
+        <translation>Ottieni la chiave API</translation>
     </message>
     <message>
         <source>Baidu OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Baidu OCR</translation>
     </message>
     <message>
         <source>Tencent OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Tencent OCR</translation>
     </message>
     <message>
         <source>Mouse drag</source>
@@ -1281,143 +1281,143 @@ L&apos;esecuzione automatica all&apos;avvio del sistema è stata annullata.</tra
     </message>
     <message>
         <source>Baidu</source>
-        <translation type="unfinished"></translation>
+        <translation>Baidu</translation>
     </message>
     <message>
         <source>Tencent</source>
-        <translation type="unfinished"></translation>
+        <translation>Tencent</translation>
     </message>
     <message>
         <source>OS unsupported</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema operativo non supportato</translation>
     </message>
     <message>
         <source>System default</source>
-        <translation type="unfinished"></translation>
+        <translation>Predefinito del sistema</translation>
     </message>
     <message>
         <source>Automatic detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Rilevamento automatico</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inglese (Stati Uniti)</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>Spagnolo</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Portoghese</translation>
     </message>
     <message>
         <source>Chinese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinese (Semplificato)</translation>
     </message>
     <message>
         <source>Chinese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinese (Tradizionale)</translation>
     </message>
     <message>
         <source>Cantonese (Simplified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantonese (Semplificato)</translation>
     </message>
     <message>
         <source>Cantonese (Traditional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantonese (Tradizionale)</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ucraino</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>Thai</translation>
     </message>
     <message>
         <source>Arabic Najdi</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabo Najdi</translation>
     </message>
     <message>
         <source>Chinese + English</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinese + Inglese</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Inglese</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Danese</translation>
     </message>
     <message>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>Malese</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonesiano</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Rumeno</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungherese</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>Accurate</source>
-        <translation type="unfinished"></translation>
+        <translation>Accurato</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Basico</translation>
     </message>
     <message>
         <source>Basic with position</source>
-        <translation type="unfinished"></translation>
+        <translation>Basico con posizione</translation>
     </message>
     <message>
         <source>Accurate with position</source>
-        <translation type="unfinished"></translation>
+        <translation>Accurato con posizione</translation>
     </message>
     <message>
         <source>Chinese (Rare)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinese (Raro)</translation>
     </message>
     <message>
         <source>Mixed languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Lingue miste</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>Finlandese</translation>
     </message>
     <message>
         <source>Norsk</source>
-        <translation type="unfinished"></translation>
+        <translation>Norvegese</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Croato</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Sloveno</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgaro</translation>
     </message>
     <message>
         <source>Engine %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Motore %1</translation>
     </message>
     <message>
         <source>Invalid data!</source>
@@ -1467,7 +1467,7 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>System built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Integrato nel sistema</translation>
     </message>
     <message>
         <source>Import succeeded!</source>
@@ -1566,11 +1566,11 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     </message>
     <message>
         <source>Line/Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea/Freccia</translation>
     </message>
     <message>
         <source>Text Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrazione testo</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1714,16 +1714,20 @@ Sei sicuro di voler passare ad un altro file di configurazione?</translation>
     <message>
         <source>Are you sure you want to close all selected images?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuoi davvero chiudere tutte le immagini selezionate?
+
+Quest&apos;azione non può essere annullata.</translation>
     </message>
     <message>
         <source>All selected images will be destroyed permanently.
 Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutte le immagini selezionate verranno eliminate definitivamente.
+
+Vuoi procedere?</translation>
     </message>
     <message>
         <source>Extract text and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrai e copia il testo</translation>
     </message>
     <message>
         <source>Copy path to the source file</source>
@@ -2293,7 +2297,9 @@ Cliccane uno qualsiasi per dimissionare permanentemente questa notifica.
     <message>
         <source>Are you sure you want to close the image group &quot;%1&quot;?
 This action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuoi davvero chiudere il gruppo d&apos;immagini &quot;%1&quot;?
+
+Questa azione non può essere annullata.</translation>
     </message>
     <message>
         <source>Success</source>
@@ -2375,7 +2381,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Long press to keep refreshing</source>
-        <translation type="unfinished"></translation>
+        <translation>Premere a lungo per continuare ad aggiornare</translation>
     </message>
     <message>
         <source>No QR code / barcode detected.</source>
@@ -3977,79 +3983,79 @@ Se deselezionato, solo il tipo attivo di annotazioni sarà selezionabile al pass
     </message>
     <message>
         <source>Adjust colors for screenshots taken on HDR monitors</source>
-        <translation type="unfinished"></translation>
+        <translation>Regola i colori per gli screenshot acquisiti su monitor HDR</translation>
     </message>
     <message>
         <source>Ask for confirmation on closing multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>Richiedi conferma sulla chiusura di più immagini</translation>
     </message>
     <message>
         <source>Ask for confirmation on destroying multiple images</source>
-        <translation type="unfinished"></translation>
+        <translation>Richiedi conferma sulla distruzione di più immagini</translation>
     </message>
     <message>
         <source>Text Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>Riconoscimento del testo</translation>
     </message>
     <message>
         <source>OCR engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Motore OCR:</translation>
     </message>
     <message>
         <source>Preferred language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lingua preferita:</translation>
     </message>
     <message>
         <source>API key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiave API:</translation>
     </message>
     <message>
         <source>Secret key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiave segreta:</translation>
     </message>
     <message>
         <source>Selection thumbnail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione miniatura:</translation>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eseguibile:</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzioni:</translation>
     </message>
     <message>
         <source>Play sound on completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Riproduci suono al termine</translation>
     </message>
     <message>
         <source>* Requires Windows 10 version 1903 or higher</source>
-        <translation type="unfinished"></translation>
+        <translation>* Richiede Windows 10 versione 1903 o successiva</translation>
     </message>
     <message>
         <source>* Requires macOS 12  (Monterey) or later</source>
-        <translation type="unfinished"></translation>
+        <translation>* Richiede macOS 12  (Monterey) o successivo</translation>
     </message>
     <message>
         <source>* Requires installation of &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>* Richiede l&apos;installazione di &lt;a href=&quot;https://github.com/tesseract-ocr/tesseract&quot;&gt;Tesseract-OCR&lt;/a&gt;</translation>
     </message>
     <message>
         <source>API:</source>
-        <translation type="unfinished"></translation>
+        <translation>API:</translation>
     </message>
     <message>
         <source>Secret id:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID segreto:</translation>
     </message>
     <message>
         <source>Engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Motore:</translation>
     </message>
     <message>
         <source>In-App Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Scorciatoie in-app</translation>
     </message>
 </context>
 <context>
@@ -4095,7 +4101,7 @@ Se deselezionato, solo il tipo attivo di annotazioni sarà selezionabile al pass
     </message>
     <message>
         <source>Pin to screen (Ctrl+T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi allo schermo (Ctrl+T)</translation>
     </message>
 </context>
 <context>
@@ -4268,7 +4274,7 @@ Esempi:
     </message>
     <message>
         <source>Loading release notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Caricamento delle note di rilascio...</translation>
     </message>
 </context>
 <context>
