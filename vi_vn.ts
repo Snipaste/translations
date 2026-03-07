@@ -5,7 +5,7 @@
     <name>BarcodeButton</name>
     <message>
         <source>Copy text</source>
-        <translation>Sao chép</translation>
+        <translation>Sao chép từ</translation>
     </message>
     <message>
         <source>Follow link</source>
@@ -20,14 +20,14 @@
     <name>ColorBoard</name>
     <message>
         <source>Select Color</source>
-        <translation>Chọn màu sắc</translation>
+        <translation>Chọn Màu</translation>
     </message>
 </context>
 <context>
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to switch between color values</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhấn %1 để chuyển đổi giá trị màu sắc</translation>
     </message>
     <message>
         <source>Press %1 to copy color</source>
@@ -69,7 +69,7 @@
     <name>Constants</name>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Không rõ</translation>
     </message>
     <message>
         <source>Native</source>
@@ -77,11 +77,11 @@
     </message>
     <message>
         <source>sRGB</source>
-        <translation type="unfinished"></translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <source>Adobe RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Adobe RGB</translation>
     </message>
     <message>
         <source>Generic RGB</source>
@@ -89,11 +89,11 @@
     </message>
     <message>
         <source>P3</source>
-        <translation type="unfinished"></translation>
+        <translation>P3</translation>
     </message>
     <message>
         <source>Color space</source>
-        <translation type="unfinished"></translation>
+        <translation>Khoảng cách màu</translation>
     </message>
 </context>
 <context>
@@ -127,15 +127,15 @@
     </message>
     <message>
         <source>Writing downloaded file into</source>
-        <translation>Tải hoàn tất</translation>
+        <translation>Ghi tệp tải xuống vào</translation>
     </message>
     <message>
         <source>Download errors occurred! HTTP Error Code: %1</source>
-        <translation>Tải xảy ra lỗi!HTTP lỗi mã: %1</translation>
+        <translation>Đã xảy ra lỗi tải xuống! Lỗi mã HTTP: %1</translation>
     </message>
     <message>
         <source>Unable to download updates.</source>
-        <translation>Không thể tại xuống những bản cập nhật.</translation>
+        <translation>Không thể tải những bản cập nhật.</translation>
     </message>
     <message>
         <source>Please try later.</source>
@@ -176,12 +176,14 @@
     <message>
         <source>Feed download failed.
 Network Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tải nguồn cấp dữ liệu thất bại. 
+Lỗi mạng: %1</translation>
     </message>
     <message>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Có lỗi xảy ra với nguồn cấp dữ liệu cập nhật (%1). 
+Vui lòng liên hệ với nhà phát triển.</translation>
     </message>
     <message>
         <source>The new version of Snipaste has been downloaded to:</source>
@@ -212,19 +214,19 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Snip</source>
-        <translation>Snip</translation>
+        <translation>Chụp màn hình</translation>
     </message>
     <message>
         <source>Snip and copy</source>
-        <translation>Cắt và sao chép</translation>
+        <translation>Chụp màn hình và sao chép</translation>
     </message>
     <message>
         <source>OCR and copy</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR và sao chép</translation>
     </message>
     <message>
         <source>Delayed snip</source>
-        <translation>Snip bị trì hoãn</translation>
+        <translation>Chụp màn hình trễ</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -236,7 +238,7 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Switch to another image group</source>
-        <translation>Chớp sáng sau khi tắt nhóm khá</translation>
+        <translation>Chuyển sang nhóm hình ảnh khác</translation>
     </message>
     <message>
         <source>Switch to the previous image group</source>
@@ -248,23 +250,23 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Toggle mouse click-through</source>
-        <translation>Bật tắt nhấp chuột qua</translation>
+        <translation>Bật/tắt nhấn chuột xuyên qua</translation>
     </message>
     <message>
         <source>Disable/Enable global hotkeys</source>
-        <translation>Vô hiệu hóa/Kích hoạt phím tắt toàn cầu</translation>
+        <translation>Tắt/Bật phím tắt toàn cầu</translation>
     </message>
     <message>
         <source>Disable/Enable hot corners</source>
-        <translation>Vô hiệu hóa/Kích hoạt góc nóng</translation>
+        <translation>Tắt/Bật góc nóng</translation>
     </message>
     <message>
         <source>Snip the active screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Chụp màn hình đang hoạt động</translation>
     </message>
     <message>
         <source>Clear snip history</source>
-        <translation>Xóa lịch sử cắt</translation>
+        <translation>Xóa lịch sử chụp</translation>
     </message>
     <message>
         <source>Scan QR code / barcode</source>
@@ -273,31 +275,32 @@ Please contact the developer.</source>
     <message>
         <source>The shortcut to toggle the click-through mode of the image under the cursor.
 If no image window is under the cursor, all unclickable images will be made clickable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phím tắt này dùng để bật/tắt chế độ nhấn xuyên qua hình ảnh bên dưới con chuột
+Nếu không có cửa sổ ảnh nào dưới con trỏ chuột, các hình ảnh trước đó không nháy chuột được giờ có thể nhấp được.</translation>
     </message>
     <message>
         <source>Show tray menu</source>
-        <translation>Hiển thị tray menu</translation>
+        <translation>Hiển thị biểu tượng ở khay hệ thống</translation>
     </message>
     <message>
         <source>Custom snip</source>
-        <translation>Tùy chỉnh cắt</translation>
+        <translation>Chụp màn hình tùy chỉnh</translation>
     </message>
     <message>
         <source>Snip the active window</source>
-        <translation>Cắt cửa sổ đang hoạt động</translation>
+        <translation>Chụp cửa sổ đang hoạt động</translation>
     </message>
     <message>
         <source>Snip and pin</source>
-        <translation>Cắt và ghim</translation>
+        <translation>Chụp và ghim</translation>
     </message>
     <message>
         <source>Snip and copy the full screen</source>
-        <translation>Cắt và sao chép toàn bộ màn hình</translation>
+        <translation>Chụp và sao chép toàn bộ màn hình</translation>
     </message>
     <message>
         <source>Snip and copy the same area of the last screenshot</source>
-        <translation>Cắt và sao chép cùng khu vực của ảnh chụp màn hình trước đó</translation>
+        <translation>Chụp và sao chép cùng khu vực của ảnh chụp màn hình trước đó</translation>
     </message>
     <message>
         <source>Enter whiteboard mode</source>
@@ -325,11 +328,11 @@ If no image window is under the cursor, all unclickable images will be made clic
     </message>
     <message>
         <source>Snip with shadow</source>
-        <translation>Cắt với phần đổ bóng</translation>
+        <translation>Chụp với phần đổ bóng</translation>
     </message>
     <message>
         <source>Snip, copy and pin</source>
-        <translation>Cắt, sao chép và ghim</translation>
+        <translation>Chụp, sao chép và ghim</translation>
     </message>
     <message>
         <source>Enter transparent whiteboard mode (Double tap Esc to quit)</source>
@@ -341,18 +344,19 @@ If no image window is under the cursor, all unclickable images will be made clic
     <message>
         <source>Are you sure you want to close selected group(s)?
 This action cannot be undone.</source>
-        <translation>Bạn có chắc chắn muốn đóng nhóm đã chọn không? Hành động này không thể hoàn tác.</translation>
+        <translation>Bạn có chắc chắn muốn đóng nhóm đã chọn không? 
+Hành động này không thể hoàn tác.</translation>
     </message>
 </context>
 <context>
     <name>HelpDialog</name>
     <message>
         <source>Help</source>
-        <translation>Giúp đỡ</translation>
+        <translation>Hướng dẫn</translation>
     </message>
     <message>
         <source>Visit Online</source>
-        <translation>Thăm trực tuyến</translation>
+        <translation>Ghé trang web</translation>
     </message>
     <message>
         <source>Basic Operations</source>
@@ -368,11 +372,11 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Advanced Configs</source>
-        <translation>Cấu hình tiên tiến</translation>
+        <translation>Tùy chỉnh nâng cao</translation>
     </message>
     <message>
         <source>Troubleshooting</source>
-        <translation>Sử lý xự cố</translation>
+        <translation>Xử lí sự cố</translation>
     </message>
     <message>
         <source>FAQ</source>
@@ -380,11 +384,11 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Changelog</source>
-        <translation>Thay đổi đăng nhập</translation>
+        <translation>Nhật kí thay đổi</translation>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation>Các phím tắt</translation>
+        <translation>Bản xem trước cho Mac</translation>
     </message>
     <message>
         <source>PRO Features</source>
@@ -395,7 +399,7 @@ This action cannot be undone.</source>
     <name>KeybindingModel</name>
     <message>
         <source>Snip only:</source>
-        <translation>Chỉ có snip:</translation>
+        <translation>Chỉ có chụp màn hình:</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
@@ -403,7 +407,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Set the snipping area to the same as your last successful snip</source>
-        <translation>Thiết lập vùng snippinggiống như lần thiết lập snip gần đây nhất của bạn </translation>
+        <translation>Thiết lập vùng chụp giống như lần thiết lập chụp gần đây nhất của bạn</translation>
     </message>
     <message>
         <source>Switch to the previous snip record</source>
@@ -4226,7 +4230,7 @@ Examples:
     </message>
     <message>
         <source>Loading release notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang tải ghi chú phát hành...</translation>
     </message>
 </context>
 <context>
