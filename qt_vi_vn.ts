@@ -16,15 +16,15 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>(&amp;O) OK</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>(&amp;N) Không</translation>
+        <translation>&amp;Không</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>(&amp;Y) Đồng ý</translation>
+        <translation>&amp;Đồng ý</translation>
     </message>
     <message>
         <source>Help</source>
@@ -40,7 +40,7 @@
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>(&amp;S) Lưu</translation>
+        <translation>&amp;Lưu</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -48,7 +48,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation>Ứng dụng</translation>
+        <translation>Áp dụng</translation>
     </message>
     <message>
         <source>Close</source>
@@ -56,7 +56,7 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation>Cài đặt lại</translation>
+        <translation>Đặt lại</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -68,7 +68,7 @@
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>(&amp;C) Close</translation>
+        <translation>&amp;Đóng</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -92,7 +92,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>(&amp;C) Hủy bỏ</translation>
+        <translation>&amp;Hủy bỏ</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -115,11 +115,11 @@
     </message>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation>Không</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Up</translation>
+        <translation>Mũi tên lên</translation>
     </message>
     <message>
         <source>Alt</source>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>Yes</source>
-        <translation>Yes</translation>
+        <translation>Có</translation>
     </message>
     <message>
         <source>Back</source>
@@ -167,7 +167,7 @@
     </message>
     <message>
         <source>Down</source>
-        <translation>Down</translation>
+        <translation>Mũi tên xuống</translation>
     </message>
     <message>
         <source>Flip</source>
@@ -183,7 +183,7 @@
     </message>
     <message>
         <source>Left</source>
-        <translation>Bên trái</translation>
+        <translation>Mũi tên trái</translation>
     </message>
     <message>
         <source>Menu</source>
@@ -191,7 +191,7 @@
     </message>
     <message>
         <source>Meta</source>
-        <translation>Biến đổi</translation>
+        <translation>Meta</translation>
     </message>
     <message>
         <source>PgUp</source>
@@ -203,7 +203,7 @@
     </message>
     <message>
         <source>Enter</source>
-        <translation>Tiếp tục</translation>
+        <translation>Enter</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -211,11 +211,11 @@
     </message>
     <message>
         <source>Print</source>
-        <translation>In</translation>
+        <translation>Print</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Bên phải</translation>
+        <translation>Mũi tên phải</translation>
     </message>
     <message>
         <source>Shift</source>
@@ -223,15 +223,15 @@
     </message>
     <message>
         <source>Space</source>
-        <translation>Space</translation>
+        <translation>Phím cách</translation>
     </message>
     <message>
         <source>Media Record</source>
-        <translation>Hồ sơ phương tiện thông tin</translation>
+        <translation>Phím điều khiển phương tiện</translation>
     </message>
     <message>
         <source>Print Screen</source>
-        <translation>In màn hình</translation>
+        <translation>Print Screen</translation>
     </message>
     <message>
         <source>Treble Down</source>
@@ -251,7 +251,7 @@
     </message>
     <message>
         <source>Media Previous</source>
-        <translation>Media trước đó</translation>
+        <translation>Phương tiện trước</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -280,7 +280,7 @@
     </message>
     <message>
         <source>Bass Boost</source>
-        <translation>tăng bass</translation>
+        <translation>Tăng bass</translation>
     </message>
     <message>
         <source>PgDown</source>
@@ -328,7 +328,7 @@
     </message>
     <message>
         <source>Page Up</source>
-        <translation>Lên trang</translation>
+        <translation>Page Up</translation>
     </message>
     <message>
         <source>Open URL</source>
@@ -368,9 +368,7 @@
     </message>
     <message>
         <source>Bass Down</source>
-        <translation>Bass 
-
-Bass Down</translation>
+        <translation>Giảm bass</translation>
     </message>
     <message>
         <source>Standby</source>
@@ -402,15 +400,15 @@ Bass Down</translation>
     </message>
     <message>
         <source>Media Play</source>
-        <translation>Chạy Media</translation>
+        <translation>Chạy phương tiện</translation>
     </message>
     <message>
         <source>Media Stop</source>
-        <translation>Dừng Media</translation>
+        <translation>Dừng phương tiện</translation>
     </message>
     <message>
         <source>Media Next</source>
-        <translation>Media kế tiếp</translation>
+        <translation>Phương tiện kế tiếp</translation>
     </message>
     <message>
         <source>Launch Media</source>
@@ -426,23 +424,24 @@ Bass Down</translation>
     <message>
         <source>Cursor at %1, %2
 Press ESC to cancel</source>
-        <translation>Con trỏ %1,%2 Ấn ESC để hủy bỏ</translation>
+        <translation>Con trỏ %1,%2 
+Ấn ESC để hủy bỏ</translation>
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation>(&amp;R)Đỏ:</translation>
+        <translation>&amp;Đỏ:</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>(&amp;S)Sat:</translation>
+        <translation>&amp;Độ bão hòa:</translation>
     </message>
     <message>
         <source>&amp;Val:</source>
-        <translation>(&amp;V)Val:</translation>
+        <translation>&amp;Độ chói:</translation>
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation>Hu&amp;e:</translation>
+        <translation>&amp;Sắc màu:</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -450,27 +449,27 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
-        <translation>(&amp;A)Thêm màu sắc khách hàng</translation>
+        <translation>&amp;Thêm vào Màu tùy chỉnh</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation>Bl&amp;ue:</translation>
+        <translation>&amp;Lam:</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation>(&amp;G)Green:</translation>
+        <translation>&amp;Lục:</translation>
     </message>
     <message>
         <source>&amp;Basic colors</source>
-        <translation>(&amp;B) Màu sắc cơ bản</translation>
+        <translation>&amp;Màu sắc cơ bản</translation>
     </message>
     <message>
         <source>&amp;Custom colors</source>
-        <translation>(&amp;C)Màu sắc khách hàng</translation>
+        <translation>&amp;Màu tùy chỉnh</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation>A&amp;lpla channel:</translation>
+        <translation>&amp;Độ mờ:</translation>
     </message>
 </context>
 <context>
@@ -497,7 +496,7 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>Thông tin Qt</translation>
+        <translation>Về Qt</translation>
     </message>
     <message>
         <source>Hide Details...</source>
@@ -508,23 +507,23 @@ Press ESC to cancel</source>
     <name>QFontDialog</name>
     <message>
         <source>&amp;Font</source>
-        <translation>(&amp;F)Phông chữ</translation>
+        <translation>&amp;Phông chữ</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation>(&amp;S)Size</translation>
+        <translation>&amp;Kích cỡ</translation>
     </message>
     <message>
         <source>Sample</source>
-        <translation>Mẫu</translation>
+        <translation>Xem trước :3</translation>
     </message>
     <message>
         <source>Font st&amp;yle</source>
-        <translation>Phông chữ&amp;kiểu</translation>
+        <translation>&amp;Kiểu phông</translation>
     </message>
     <message>
         <source>Wr&amp;iting System</source>
-        <translation>Wr&amp;iting System</translation>
+        <translation>&amp;Loại chữ viết</translation>
     </message>
     <message>
         <source>Select Font</source>
@@ -532,7 +531,7 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>(&amp;U)Gạch dưới</translation>
+        <translation>&amp;Gạch dưới</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -540,14 +539,14 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>Stri&amp;keout</source>
-        <translation>Stri&amp;keout</translation>
+        <translation>&amp;Gạch ngang chữ</translation>
     </message>
 </context>
 <context>
     <name>QFontDatabase</name>
     <message>
         <source>Any</source>
-        <translation>Any</translation>
+        <translation>Cái nào cũng được:)</translation>
     </message>
     <message>
         <source>Lao</source>
@@ -567,7 +566,7 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>Black</source>
-        <translation>Màu đen</translation>
+        <translation>Đậm đen</translation>
     </message>
     <message>
         <source>Greek</source>
@@ -583,7 +582,7 @@ Press ESC to cancel</source>
     </message>
     <message>
         <source>Light</source>
-        <translation>Sáng</translation>
+        <translation>Mỏng</translation>
     </message>
     <message>
         <source>Ogham</source>
