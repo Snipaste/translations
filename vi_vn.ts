@@ -483,7 +483,7 @@ Hành động này không thể hoàn tác.</translation>
     </message>
     <message>
         <source>Open the Preferences Dialog</source>
-        <translation>Mở hộp thoại sở thích </translation>
+        <translation>Mở hộp thoại tùy chỉnh</translation>
     </message>
     <message>
         <source>Common:</source>
@@ -2430,7 +2430,7 @@ This action cannot be undone.</source>
     </message>
     <message>
         <source>Preferences...</source>
-        <translation>Sở thích...</translation>
+        <translation>Tùy chỉnh...</translation>
     </message>
     <message>
         <source>Debug</source>
